@@ -113,7 +113,7 @@
 
 ### SLAVIC-007 — WoT / WoWP / WoWS / War Thunder：产品结构矩阵
 
-[`SLAVIC-007-war-online-product-structure-matrix.md`](SLAVIC-007-war-online-product-structure-matrix.md)
+[`SLAVIC-007-wot-wowp-wows-war-thunder-product-structure-matrix.md`](SLAVIC-007-wot-wowp-wows-war-thunder-product-structure-matrix.md)
 
 核心检验：
 
