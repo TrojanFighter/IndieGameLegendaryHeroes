@@ -1,0 +1,32 @@
+# LICENSE-CONTENT — Content Copyright Notice
+
+Copyright © 2026 洪荒行者. All Rights Reserved.
+
+Unless a specific file states otherwise, all original non-software content in this repository is protected by copyright and all rights are reserved by the author, 洪荒行者.
+
+This includes, without limitation:
+
+- research notes and source syntheses;
+- case studies and developer histories;
+- claim matrices and analytical frameworks;
+- original tables, classifications, timelines, and compilations;
+- essays, chapter drafts, book manuscripts, and other original prose;
+- original diagrams and other non-software materials created for this project.
+
+Public availability of this repository does not grant a general license to copy, republish, translate, adapt, redistribute, commercially publish, or otherwise exploit these materials beyond rights already provided by applicable law or by GitHub's platform terms.
+
+No permission is granted by this notice for commercial publication, systematic republication, translation, adaptation, or redistribution of substantial portions of the original content without separate authorization from the rights holder.
+
+Nothing in this notice restricts quotation, criticism, commentary, scholarship, news reporting, fair use, fair dealing, quotation rights, or other exceptions and limitations provided by applicable law.
+
+## Third-party material
+
+This notice does not claim ownership of third-party material quoted, linked, reproduced, or discussed in this repository, including interviews, articles, game screenshots, logos, trademarks, videos, audio, datasets, or other externally owned works. Such material remains subject to its original rights status.
+
+## Software and tooling
+
+Software code, scripts, validators, build tools, parsers, and other executable tooling that are explicitly designated as project tooling are licensed separately under `LICENSE-CODE`.
+
+## Separate permissions
+
+The rights holder may grant additional permissions or commercial licenses separately. Such permissions do not alter the default copyright status of the rest of the repository.
