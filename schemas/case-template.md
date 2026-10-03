@@ -17,8 +17,19 @@
 - `tags`
 - `last_verified`
 - `evidence_ledger`
+- `contributor_audit`: pending / partial / complete / not_applicable
+- `market_access_audit`: pending / partial / complete / not_applicable
 
-正文负责研究事实与论证，metadata 只负责机器索引；两者必须通过 `tools/research_lint.py` 保持一致。
+正文负责研究事实与论证，metadata 只负责机器索引；两者必须通过 `tools/research_lint.py` 与 `tools/research_evidence_lint.py` 保持一致。
+
+### Audit gate
+
+以下两类神话必须在 Case 进入成熟状态前完成独立审计：
+
+1. **Contributor audit**：凡带 `solo` / `micro-team` / `three-person-team` 等标签，必须核外包、音乐/音效授权、商店素材、QA、移植、本地化、发行商支持、平台支持，以及家庭/伴侣提供的非开发支持。
+2. **Market-access audit**：凡关联 `C010` 或 `market-access` 标签，必须核商店页、demo、节庆、众筹、开发日志、社区、媒体、主播、平台推荐、publisher、既有粉丝与定价/EA，而不能把“无广告预算”写成“无营销”。
+
+`REVIEW` / `STABLE` 案例若属于上述范围，相应 audit 必须为 `complete`。
 
 ## Header
 
@@ -150,6 +161,12 @@
 ## 14. Evidence Index
 
 只列 Evidence ID 与一句说明；完整核实信息放 evidence/。
+
+Evidence 在 Claim metadata 中引用时必须使用全局可解析格式：
+
+`CASE-001:E001`
+
+不要只写 `E001`，因为不同 Case 可以各自拥有 `E001`。
 
 ## 15. Open Questions
 
