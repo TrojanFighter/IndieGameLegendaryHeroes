@@ -13,10 +13,10 @@
 | CASE-007 | Gunpoint / Tom Francis | 检验工资型 runway、业余开发、极低现金成本与全球协作者网络 | RESEARCHING |
 | CASE-008 | Dream Quest / Peter Whalen | 检验“资深玩家→作者”的品味资本、旧引擎复用与低表现成本 | RESEARCHING |
 | CASE-009 | Project Wingman / Sector D2 | 检验通用引擎、自学、公开 Alpha、众筹和社区协作如何支撑小团队挑战成熟品类 | RESEARCHING |
-| CASE-010 | Undertale / Toby Fox | 检验学生开发、mod/音乐社区前史、众筹与“solo”协作者边界 | SKELETON |
-| CASE-011 | Lethal Company / Zeekerss | 检验 Roblox/连续发售前史、迭代能力、试玩反馈与主播传播 | SKELETON |
-| CASE-012 | Kenshi / Lo-Fi Games | 检验夜班工作维持长期 runway、长期 solo 研发与 Early Access 扩团队 | SKELETON |
-| CASE-013 | Rise of the White Sun / Maestro Cinetik | 检验单人如何通过表现层/系统抽象重构大战略成本 | SKELETON |
+| CASE-010 | Undertale / Toby Fox | 检验学生开发、mod/音乐社区前史、众筹与“solo”协作者边界 | RESEARCHING |
+| CASE-011 | Lethal Company / Zeekerss | 检验 Roblox/连续发售前史、迭代能力、试玩反馈与主播传播 | RESEARCHING |
+| CASE-012 | Kenshi / Lo-Fi Games | 检验夜班工作维持长期 runway、长期 solo 研发与 Early Access 扩团队 | RESEARCHING |
+| CASE-013 | Rise of the White Sun / Maestro Cinetik | 检验极小核心如何通过系统抽象、历史研究、社群反馈与外围协作重构大战略成本 | RESEARCHING |
 
 ## 规则
 
