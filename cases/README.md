@@ -27,6 +27,7 @@
 | CASE-021 | Roblox Creator Cluster / Cindering, alexnewtron, badcc + asimo3089 | 检验 UGC 平台如何把学习、出货、收入、职业化、分发与创业压缩到同一生产环境，并测量其幸存者偏差 | RESEARCHING |
 | CASE-022 | Escape from Tarkov / Contract Wars → Battlestate Games | 检验低风险商业前作如何同时生产技术、团队能力和资金，再被兑换成高风险 hardcore 原创项目 | RESEARCHING |
 | CASE-023 | despelote / Julián Cordero + Sebastián Valbuena | 检验小额 non-dilutive funding 如何购买 full-time runway、生成 publisher-pitch vertical slice，并接入 publisher financing / distribution | RESEARCHING |
+| CASE-024 | Escape from Duckov / Team Soda | 检验长期磨合的五人核心如何借公司外围与前作能力，通过删 multiplayer/mobile/hardcore simulation 重写 extraction 的生产成本 | RESEARCHING |
 
 ## 规则
 
