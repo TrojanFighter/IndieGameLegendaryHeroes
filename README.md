@@ -26,6 +26,10 @@
 
 - [`cases/`](cases/)：开发者 / 团队 / 项目的可审计案例档案
 - [`claims/`](claims/)：可被支持、削弱或证伪的研究命题
+- [`evidence/`](evidence/)：逐案来源核实与证据边界
+- [`author-corpus/`](author-corpus/)：洪荒行者历史公开文章、知乎、游戏炼乳及授权历史讨论中的作者命题来源
+- [`sources/`](sources/)：平台、作者语料与来源登记
+- [`sister-projects/RussianGameLegendaryHeroes.md`](sister-projects/RussianGameLegendaryHeroes.md)：姊妹篇《俄罗斯游戏英雄传说》的研究边界
 - [`schemas/case-template.md`](schemas/case-template.md)：Case 标准结构
 - [`schemas/claim-template.md`](schemas/claim-template.md)：Claim 标准结构
 - [`schemas/evidence-record-template.md`](schemas/evidence-record-template.md)：Evidence 核实结构
@@ -36,6 +40,20 @@
 案例统一关注：
 
 **Myth / Origin / Capability / Runway / Production / Scope / Failure / Market / Environment / Luck / Verdict / Transfer / Non-transfer / Evidence**
+
+## 作者思想来源与证据边界
+
+本项目的一部分问题意识来自洪荒行者此前在知乎、微信公众号“游戏炼乳”、长文与历史讨论中已经形成的系统观点。
+
+这些历史材料在仓库中统一作为 **A0 — Author-Origin**：它们用于说明“这个命题从哪里来”，但不能因为作者以前说过就自动成为事实。
+
+默认流程是：
+
+> **作者旧命题 → 精确化为 Claim → 找外部 Case / P0-P1-S1 Evidence → 支持、修正或反驳。**
+
+历史 ChatGPT 对话也遵守同一规则：除 KWP 未公开商业机密、专有设计、敏感经营信息和私人材料外，通用行业分析与命题演化可以作为 A0-CHAT 进入研究；模型过去说过的事实仍须重新核验。
+
+详见 [`author-corpus/README.md`](author-corpus/README.md) 与 [`sources/SOURCE-001-author-platforms-and-chat-corpus.md`](sources/SOURCE-001-author-platforms-and-chat-corpus.md)。
 
 ## 研究立场
 
@@ -51,16 +69,26 @@
 
 ## 首批研究对象
 
-第一轮先建立六个案例骨架，用来覆盖不同的生产结构，而不是因为它们必然是“最伟大的六款独立游戏”：
+第一轮覆盖六种不同生产结构：
 
-- [`CASE-001 FTL / Subset Games`](cases/CASE-001-ftl.md)
+- [`CASE-001 FTL / Subset Games`](cases/CASE-001-ftl.md) — **ACTIVE：已进入第一轮证据摄取**
 - [`CASE-002 Rocket League / Psyonix`](cases/CASE-002-rocket-league.md)
 - [`CASE-003 Papers, Please / Lucas Pope`](cases/CASE-003-papers-please.md)
 - [`CASE-004 Stardew Valley / ConcernedApe`](cases/CASE-004-stardew-valley.md)
 - [`CASE-005 Dwarf Fortress / Bay 12 Games`](cases/CASE-005-dwarf-fortress.md)
 - [`CASE-006 R.E.P.O. / semiwork`](cases/CASE-006-repo.md)
 
-这些文件目前只是研究问题骨架，不代表仓库已经接受任何关于其资金、团队、营销或成功原因的结论。
+FTL 已经建立第一份独立 Evidence Ledger：[`evidence/CASE-001-ftl-source-ledger.md`](evidence/CASE-001-ftl-source-ledger.md)。其余案例仍主要处于研究问题骨架阶段。
+
+## 姊妹篇：《俄罗斯游戏英雄传说》
+
+姊妹篇不限于俄罗斯独立游戏，而聚焦俄罗斯及相关开发传统中那些**商业级、工程规模不低，却在玩法、系统、题材、审美或生产方式上激进得不亚于独立游戏**的引领性作品及其创作历程。
+
+它与本项目共享生产史方法，但允许传统发行商、中型团队与商业级项目进入样本。
+
+当前候选包括 Tetris、Vangers、Perimeter、Space Rangers、Pathologic、Hammerfight、HighFleet、Escape from Tarkov、Loop Hero、Black Book、INDIKA 等；这些只是研究池，不代表已经接受任何关于“俄罗斯为何更激进”的解释。
+
+详见 [`sister-projects/RussianGameLegendaryHeroes.md`](sister-projects/RussianGameLegendaryHeroes.md)。
 
 ## 工作原则
 
@@ -74,16 +102,17 @@
 
 ## 当前阶段
 
-**Phase 1 — Research Skeletons**
+**Phase 2 — Evidence Ingestion**
 
-项目宪法、证据规则、Case / Claim / Evidence schema 与首批六个案例骨架已经建立。
+项目宪法、权利结构、Case / Claim / Evidence schema、作者语料层与首批六案已经建立；CASE-001 FTL 已完成第一轮证据摄取。
 
-下一阶段不是写第一章，而是：
+当前优先级：
 
-1. 为六案建立时间线与来源队列；
-2. 逐条生成 Evidence Records；
-3. 用证据更新 [`claims/README.md`](claims/README.md) 中的初始命题状态；
-4. 等事实网络稳定后再开始长篇叙事。
+1. 继续补 FTL 的 savings / monthly burn / Shanghai cost / contributor map / prototype scope 证据缺口；
+2. 用 FTL 实例反向检查 Case schema 和初始 Claims；
+3. 启动 CASE-002 Rocket League / Psyonix 的 work-for-hire → SARPBC → Rocket League 生产史；
+4. 持续把知乎“洪荒行者”、游戏炼乳、2023 长文和非机密历史 ChatGPT 分析转成 A0 作者命题，再交给外部证据审计；
+5. 为《俄罗斯游戏英雄传说》建立首批正式 Case 前，先做地理、资本与公司沿革核验，避免把后苏联团队笼统俄罗斯化。
 
 ## 传播、权利与许可
 
