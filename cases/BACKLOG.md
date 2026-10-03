@@ -36,16 +36,9 @@
 | CASE-018 | RollerCoaster Tycoon / Chris Sawyer | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED | 作者 OPC 历史谱系中的前置例；检验长期能力资本与 contributor boundary |
 | CASE-019 | Schedule I / TVGS | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED | 作者 OPC 回答中的当代例；检验 solo core + 专业外围 + EA/community infrastructure |
 | CASE-020 | Into the Breach / Subset Games | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED | 作者公开回答与 Noclip 线索中的第二作；检验第一次成功如何转化为低 burn、低承诺、长试错的生产选择权 |
+| CASE-021 | Roblox Creator Cluster / Cindering, alexnewtron, badcc + asimo3089 | CHAT-RESEARCH + EXTERNAL-VERIFIED | 检验 UGC 平台如何把学习、出货、收入、职业机会、发行与 studio formation 压缩到同一环境，并显式纳入头部幸存者偏差 |
 
 ## 下一批优先正式化 / 深挖
-
-### Roblox creator cluster
-- Subjects: Cindering / Brian Wilson；alexnewtron / Alex Binello；Alex Balfanz 等。
-- Provenance: CHAT-RESEARCH
-- Type: cluster case
-- Tests: C003 / C006 / C008 / C011
-- Why: 青少年 UGC 平台可能把教育、作品集、第一次就业、产品所有权与创业压缩在同一生产环境中。
-- Boundary: 不能把平台头部幸存者反推为普通 Roblox 创作者的典型路径。
 
 ### Escape from Tarkov / Contract Wars / Hired Ops / Battlestate
 - Provenance: PUBLIC-AUTHOR + CHAT-RESEARCH
