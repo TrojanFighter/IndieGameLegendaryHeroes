@@ -17,6 +17,12 @@
 | CASE-011 | Lethal Company / Zeekerss | 检验 Roblox/连续发售前史、迭代能力、试玩反馈与主播传播 | RESEARCHING |
 | CASE-012 | Kenshi / Lo-Fi Games | 检验夜班工作维持长期 runway、长期 solo 研发与 Early Access 扩团队 | RESEARCHING |
 | CASE-013 | Rise of the White Sun / Maestro Cinetik | 检验极小核心如何通过系统抽象、历史研究、社群反馈与外围协作重构大战略成本 | RESEARCHING |
+| CASE-014 | Minecraft / Markus Persson → Mojang | 检验付费 Alpha、公开开发与市场—生产耦合如何制造研发 runway | RESEARCHING |
+| CASE-015 | Hollow Knight / Team Cherry | 检验家庭收入、储蓄、低地区成本、众筹、Indie Fund、工具与外围协作者如何共同支撑超范围小团队项目 | RESEARCHING |
+| CASE-016 | Early id Software / Commander Keen | 检验职业高频出货、moonlighting、shareware 与约束驱动 scope 如何购买组织独立 | RESEARCHING |
+| CASE-017 | Among Us / Innersloth | 检验长期低可见度迭代、延迟爆发，以及成功后技术债和组织重构 | RESEARCHING |
+| CASE-018 | RollerCoaster Tycoon / Chris Sawyer | 检验 OPC 历史原型：长期能力资本、代码复用、极端熟练技术栈与专业外围 | RESEARCHING |
+| CASE-019 | Schedule I / TVGS | 检验现代 solo core、自发行、Early Access、专业协作者与社区反馈的压缩型组织结构 | RESEARCHING |
 
 ## 规则
 
