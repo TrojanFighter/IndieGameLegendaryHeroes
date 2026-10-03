@@ -19,7 +19,8 @@
   },
   "claims": {
     "evidence_strength": {
-      "low": 12
+      "low": 4,
+      "medium": 8
     },
     "explanatory_importance": {
       "critical": 5,
@@ -31,7 +32,8 @@
       "medium": 4
     },
     "status": {
-      "UNVERIFIED": 12
+      "SUPPORTED": 8,
+      "UNVERIFIED": 4
     },
     "total": 12
   },
