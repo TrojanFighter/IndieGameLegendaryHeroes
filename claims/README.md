@@ -23,3 +23,5 @@
 - 任何 Claim 升级为 SUPPORTED / VERIFIED 前，必须主动记录反方证据。
 - 若命题过大，应拆分而不是用更多形容词掩盖不可证伪性。
 - 不要因为某个案例“很像”某个 Claim 就记为证据；先建立 Evidence Record。
+- 证据成熟度、解释重要性、叙事价值、Related Cases 与 Evidence IDs 的机器索引见 [`../metadata/claims.json`](../metadata/claims.json)。
+- 本表是人读索引；CI 会检查命题文本与状态是否和 metadata 一致。
