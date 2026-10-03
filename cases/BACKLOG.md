@@ -39,16 +39,9 @@
 | CASE-021 | Roblox Creator Cluster / Cindering, alexnewtron, badcc + asimo3089 | CHAT-RESEARCH + EXTERNAL-VERIFIED | 检验 UGC 平台如何把学习、出货、收入、职业机会、发行与 studio formation 压缩到同一环境，并显式纳入头部幸存者偏差 |
 | CASE-022 | Escape from Tarkov / Contract Wars → Battlestate Games | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED + CROSSOVER | Contract Wars 作为技术/资金 staging project；AbsolutSoft → Battlestate 组织分流；Hired Ops 作为平行 comparator；直销/预购支撑长期硬核开发 |
 | CASE-023 | despelote / Julián Cordero + Sebastián Valbuena | CHAT-RESEARCH + EXTERNAL-VERIFIED | 小额 non-dilutive funding 不直接“做完游戏”，而是购买 full-time runway、生成 publisher-pitch vertical slice，并通过 incubator / funder / publisher 网络进入下一阶段 |
+| CASE-024 | Escape from Duckov / Team Soda | CHAT-RESEARCH + EXTERNAL-VERIFIED | 五人核心并非五人总 production；前作与 4–6 年合作形成能力资本；Bilibili 提供外围；通过砍 mobile/multiplayer/hardcore mechanics 重写 extraction 成本结构 |
 
 ## 下一批优先正式化 / 深挖
-
-### 逃离鸭科夫 / Team Soda
-- Provenance: CHAT-RESEARCH
-- Type: contemporary small-team market case
-- Tests: C003 / C004 / C008 / C010 / C011
-- Why: 既往行业深研中被用于观察小团队、强玩法 Hook、PC premium、平台/社区传播如何压缩市场进入成本。
-- Next evidence: 核验核心团队规模、前史、发行/平台支持、开发周期、销量口径与首发传播路径。
-- Boundary: 历史对话中的“5 人”“短期销量”先视为待核验数字，不进入正式结论。
 
 ### Bills Must Be Paid / two-person studio
 - Provenance: CHAT-RESEARCH + EXTERNAL-VERIFIED
