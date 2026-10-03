@@ -60,18 +60,79 @@
 - `War Thunder 是 WoT 跟风立项` → REFUTED
 - `WoT 改变 War Thunder 的市场环境` → SUPPORTED / 待更早同期证据
 
-## 三条线之间的共同问题
+## 已建立正式对照
 
-目前已经能形成一个跨案例母题：
+### SLAVIC-004 — World of Warplanes：为什么同一公司没复制 WoT
 
-> **产业转折并不只有一种机制。它可能来自商业模型重组（WoT），也可能来自能力资本从旧组织迁移到新组织（GSC→4A），还可能来自一条已长期存在的技术路线在新的市场验证下获得放大（IL-2→Gaijin→War Thunder）。**
+[`SLAVIC-004-world-of-warplanes-contrast.md`](SLAVIC-004-world-of-warplanes-contrast.md)
 
-这只是工作假说，不是正式书稿结论。
+核心检验：
+
+- 同一公司、品牌、账户、F2P 与科技树为什么不足以复现 WoT；
+- 飞机三维运动和鼠标键盘大众化是否构成结构性摩擦；
+- “组织能力可复制，核心交互对象不可复制”的边界。
+
+当前关键状态：
+
+- `WoWP 明显不如 WoT 成功` → VERIFIED（Wargaming 2014 公开承认）
+- `高学习曲线 / 3D 飞行控制是重要原因` → SUPPORTED BY COMPANY ADMISSION
+- `WoT 商业模板足以跨载具复制` → REFUTED AS STRONG CLAIM
+
+### SLAVIC-005 — GSC → 4A：人员迁移与最小生产核心
+
+[`SLAVIC-005-gsc-4a-personnel-migration.md`](SLAVIC-005-gsc-4a-personnel-migration.md)
+
+核心检验：
+
+- 离开 GSC 的到底是谁；
+- 是否形成设计—程序/引擎—3D 美术的跨职能最小生产单元；
+- 4A 是否是“能力资本可携带并重组”的强案例。
+
+当前关键状态：
+
+- `Prokhorov + Shyshkovtsov + Maksymchuk + Tkachenko 构成早期核心迁移组` → SUPPORTED / 多源一致
+- `这是一组随机普通员工离职` → REFUTED
+- `人员/经验连续 = 源代码连续` → NOT SUPPORTED
+
+### SLAVIC-006 — Gaijin / Dagor：War Thunder 前的十年能力资本
+
+[`SLAVIC-006-gaijin-dagor-capability-timeline.md`](SLAVIC-006-gaijin-dagor-capability-timeline.md)
+
+核心检验：
+
+- Gaijin 在 2002–2012 已经积累了哪些可观察能力；
+- Dagor、自研技术、飞行模拟、跨平台、军事载具与在线运营如何汇合；
+- War Thunder 是“跟风产品”还是长期能力资本的重新组合。
+
+当前关键状态：
+
+- `Gaijin 2002 成立并长期使用自研 Dagor` → VERIFIED
+- `Birds of Prey / Birds of Steel 是 War Thunder 的直接能力前史` → STRONGLY SUPPORTED
+- `WoT 是 War Thunder 项目起点` → REFUTED
+- `WoT 是重要市场验证` → SUPPORTED / 待同期量化
+
+## 三组对照已经产生的更强母题
+
+第一轮材料开始支持一个比“斯拉夫游戏更有创意”更可检验的模型：
+
+> **产业转折取决于“可迁移能力”与“不可迁移问题”如何组合。**
+
+目前至少看到三种不同机制：
+
+1. **商业模型重组**：WoT 把军武载具、F2P、短局、科技树和全球运营组合成新大众市场；
+2. **能力资本迁移**：GSC 内被长期项目训练出的跨职能核心离开母体，在 4A 重建生产单位；
+3. **技术路线长期累积**：Gaijin 先积累飞行/载具/引擎/跨平台能力，再进入 War Thunder 的 MMO/F2P 市场窗口。
+
+而 World of Warplanes 提供反证：
+
+> **即便商业与组织能力已经被证明有效，如果新的核心交互问题没有被重新定义，成功模板仍然不能直接复制。**
+
+这仍是工作假说，不是正式书稿结论。
 
 ## 下一轮优先级
 
-1. World of Warplanes：作为 Wargaming 内部失败 / 弱势对照。
-2. GSC 2004–2007 → 4A 人员迁移表与早期采访。
-3. Gaijin 2002–2012 作品 / Dagor / 人员时间线。
-4. 补纪录片、开发者演讲、会议视频的 timecode 级证据。
-5. 开始构建 `World of Tanks vs War Thunder` 的“起源 / 市场验证 / 产品结构”对照表。
+1. 把 `World of Warplanes → World of Warships` 做成“失败经验是否进入下一作”的组织学习对照；
+2. 把 GSC→4A 从 4 位核心扩展为 2006–2010 完整 alumni / credits 网络；
+3. 精确追 Dagor 1.x–War Thunder 初代版本与产品使用时间线；
+4. 为三组案例补纪录片 / 演讲的 timecode 级证据；
+5. 开始构建 `WoT / WoWP / WoWS / War Thunder` 四项产品结构矩阵，区分题材、控制、节奏、商业模型、团队前史与市场验证。
