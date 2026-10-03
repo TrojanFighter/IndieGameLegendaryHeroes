@@ -9,6 +9,8 @@
 - **A0-PUBLIC**：知乎“洪荒行者”、微信公众号“游戏炼乳”等公开作者语料。
 - **A0-CHAT**：作者授权使用的历史 ChatGPT 对话中的行业分析、命题演化与案例线索。
 
+来源登记、平台入口和可调用边界见：[`../sources/SOURCE-001-author-platforms-and-chat-corpus.md`](../sources/SOURCE-001-author-platforms-and-chat-corpus.md)。
+
 ## 使用规则
 
 Author Corpus 单独标记为 **A0 — Author-Origin**，不并入 P0/P1/S1/S2 外部证据等级。
@@ -23,8 +25,13 @@ Author Corpus 单独标记为 **A0 — Author-Origin**，不并入 P0/P1/S1/S2 �
 
 历史 ChatGPT 对话中的模型回答也不属于事实来源；任何事实仍须重新核验。
 
-当前母题：
+## 当前母题
 
 - [AC-001 — Solo / OPC 与生产单位问题](AC-001-solo-opc-production-unit.md)
 - [AC-002 — 中国 / 俄罗斯游戏产业结构对照](AC-002-china-russia-industry-structure.md)
 - [AC-003 — 世界模型、成本结构与生产能力](AC-003-world-model-and-production-cost.md)
+- [AC-004 — 中国独立创作的“三座大山”](AC-004-china-three-mountains.md)
+
+## 姊妹项目
+
+《俄罗斯游戏英雄传说》与本项目共享方法论，但不局限于独立游戏。研究边界见：[`../sister-projects/RussianGameLegendaryHeroes.md`](../sister-projects/RussianGameLegendaryHeroes.md)。
