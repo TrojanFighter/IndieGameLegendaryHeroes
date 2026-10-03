@@ -20,6 +20,23 @@
 2. **可证伪的命题库**：检验关于独立游戏的流行解释，例如“福利国家优势”“富二代优势”“大厂履历必要”“solo 等于一个人包办全部”“零营销”“纯靠运气”等。
 3. **最终书稿《独立游戏英雄传说》**：在证据积累之后，把案例与命题组织成可读的生产史，而不是先写故事再找证据装饰。
 
+## 研究结构
+
+本仓库不以“章节”作为最小研究单位，而以 **Case（案例）**、**Claim（命题）** 与 **Evidence（证据记录）** 为核心。
+
+- [`cases/`](cases/)：开发者 / 团队 / 项目的可审计案例档案
+- [`claims/`](claims/)：可被支持、削弱或证伪的研究命题
+- [`schemas/case-template.md`](schemas/case-template.md)：Case 标准结构
+- [`schemas/claim-template.md`](schemas/claim-template.md)：Claim 标准结构
+- [`schemas/evidence-record-template.md`](schemas/evidence-record-template.md)：Evidence 核实结构
+- [`AGENTS.md`](AGENTS.md)：适用于 GPT / Codex、Reasonix、DeepSeek 等代理的研究宪法
+
+一个 Case 可以同时支持或反驳多个 Claim；一本书的章节应当从证据网络中长出来，而不是反过来要求证据服从预先写好的叙事。
+
+案例统一关注：
+
+**Myth / Origin / Capability / Runway / Production / Scope / Failure / Market / Environment / Luck / Verdict / Transfer / Non-transfer / Evidence**
+
 ## 研究立场
 
 本项目的默认前提不是“环境不重要”，也不是“只要努力就能成功”。相反：
@@ -32,30 +49,18 @@
 
 因此，本项目同时记录帮助与阻碍，既不抹去福利、家庭、伴侣收入、储蓄、低成本地区、发行商、众筹、外包、平台红利等外部条件，也不把这些条件自动解释成成功的充分原因。
 
-## 基本研究单位
-
-本仓库不以“章节”作为最小研究单位，而以 **Case（案例）** 与 **Claim（命题）** 为核心。
-
-一个 Case 可以同时支持或反驳多个 Claim；一本书的章节应当从证据网络中长出来，而不是反过来要求证据服从预先写好的叙事。
-
-案例统一关注：
-
-**Myth / Origin / Capability / Runway / Production / Scope / Failure / Market / Environment / Luck / Verdict / Transfer / Non-transfer / Evidence**
-
-详细规则见 [`AGENTS.md`](AGENTS.md)。
-
 ## 首批研究对象
 
-第一轮拟优先建立以下案例档案，用来覆盖不同的生产结构，而不是因为它们必然是“最伟大的六款独立游戏”：
+第一轮先建立六个案例骨架，用来覆盖不同的生产结构，而不是因为它们必然是“最伟大的六款独立游戏”：
 
-- FTL / Subset Games
-- Rocket League / Psyonix
-- Papers, Please / Lucas Pope
-- Stardew Valley / ConcernedApe
-- Dwarf Fortress / Bay 12 Games
-- R.E.P.O. / semiwork
+- [`CASE-001 FTL / Subset Games`](cases/CASE-001-ftl.md)
+- [`CASE-002 Rocket League / Psyonix`](cases/CASE-002-rocket-league.md)
+- [`CASE-003 Papers, Please / Lucas Pope`](cases/CASE-003-papers-please.md)
+- [`CASE-004 Stardew Valley / ConcernedApe`](cases/CASE-004-stardew-valley.md)
+- [`CASE-005 Dwarf Fortress / Bay 12 Games`](cases/CASE-005-dwarf-fortress.md)
+- [`CASE-006 R.E.P.O. / semiwork`](cases/CASE-006-repo.md)
 
-它们目前只是研究对象，不代表仓库已经接受任何关于其资金、团队、营销或成功原因的结论。
+这些文件目前只是研究问题骨架，不代表仓库已经接受任何关于其资金、团队、营销或成功原因的结论。
 
 ## 工作原则
 
@@ -69,11 +74,16 @@
 
 ## 当前阶段
 
-**Phase 0 — Research Constitution**
+**Phase 1 — Research Skeletons**
 
-当前只建立项目宪法、证据规则和权利边界。正式案例与书稿尚未开始。
+项目宪法、证据规则、Case / Claim / Evidence schema 与首批六个案例骨架已经建立。
 
-下一阶段将建立 Case / Claim schema、首批案例骨架和来源核实记录。
+下一阶段不是写第一章，而是：
+
+1. 为六案建立时间线与来源队列；
+2. 逐条生成 Evidence Records；
+3. 用证据更新 [`claims/README.md`](claims/README.md) 中的初始命题状态；
+4. 等事实网络稳定后再开始长篇叙事。
 
 ## 权利与许可
 
