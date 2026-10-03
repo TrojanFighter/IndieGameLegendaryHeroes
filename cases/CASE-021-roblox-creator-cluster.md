@@ -78,7 +78,7 @@ Cindering、Alex Binello、Alex Balfanz / asimo3089 的共同点，不是“很�
 | Binello 早期 | GameStop 兼职 | 金额未知 | E003 | 中高 |
 | Binello 2015 | Roblox 实习 | 足以让其辞掉 GameStop；精确金额未知 | E003 | 中高 |
 | asimo3089 2015–2016 | Roblox 合同工作 | 金额未知 | E004 | 高 |
-| Jailbreak 发售后 | 平台收入 | 足以显著改变 Balfanz 的大学资金条件；具体净收入不在本案直接推断 | E008 | 中高 |
+| Jailbreak 发售后 | 平台收入 | 足以显著改变 Balfanz 的大学资金条件；具体净收入不在本案直接推断 | E006 | 中高 |
 
 这里的关键不是证明每个人都靠平台轻松养活自己，而是：**平台把“继续练习”的一部分成本，通过工资、DevEx、实习、合同与产品收入逐步内部化。**
 
