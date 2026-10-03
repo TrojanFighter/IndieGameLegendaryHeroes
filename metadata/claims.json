@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "last_updated": "2026-10-03",
   "claims": [
     {"claim_id":"C001","statement":"家庭资产、福利与社会安全网会降低独立开发失败成本，但不是成功的充分条件","status":"UNVERIFIED","evidence_strength":"low","explanatory_importance":"high","narrative_value":"medium","related_cases":["CASE-001","CASE-004"],"evidence_ids":[],"last_reviewed":null},
@@ -11,7 +11,7 @@
     {"claim_id":"C007","statement":"Solo / 小团队的核心优势之一不是复制大团队，而是重新定义问题空间与表现成本","status":"UNVERIFIED","evidence_strength":"low","explanatory_importance":"critical","narrative_value":"high","related_cases":["CASE-003","CASE-004","CASE-005","CASE-007","CASE-008","CASE-009","CASE-010","CASE-011","CASE-012","CASE-013"],"evidence_ids":[],"last_reviewed":null},
     {"claim_id":"C008","statement":"数字发行、通用引擎、资产市场、远程协作与全球平台降低了地理位置对独立开发的部分约束，同时提高了竞争与可见性压力","status":"UNVERIFIED","evidence_strength":"low","explanatory_importance":"medium","narrative_value":"medium","related_cases":["CASE-001","CASE-002","CASE-004","CASE-006","CASE-007","CASE-008","CASE-009","CASE-010","CASE-011","CASE-012","CASE-013"],"evidence_ids":[],"last_reviewed":null},
     {"claim_id":"C009","statement":"错误的世界模型本身会成为生产损失，例如把“必须有大团队/大预算/发行商”误当成自然规律","status":"UNVERIFIED","evidence_strength":"low","explanatory_importance":"high","narrative_value":"high","related_cases":["CASE-003","CASE-005","CASE-008"],"evidence_ids":[],"last_reviewed":null},
-    {"claim_id":"C010","statement":"市场接入是生产系统的一部分；“零营销”常常只是“零广告预算”的误记","status":"UNVERIFIED","evidence_strength":"low","explanatory_importance":"high","narrative_value":"high","related_cases":["CASE-001","CASE-002","CASE-003","CASE-004","CASE-006","CASE-007","CASE-008","CASE-009","CASE-010","CASE-011","CASE-012","CASE-013"],"evidence_ids":[],"last_reviewed":null},
+    {"claim_id":"C010","statement":"市场接入是生产系统的一部分；“零营销”常常只是“零广告预算”的误记","status":"UNVERIFIED","evidence_strength":"low","explanatory_importance":"high","narrative_value":"high","related_cases":["CASE-001","CASE-002","CASE-003","CASE-004","CASE-005","CASE-006","CASE-007","CASE-008","CASE-009","CASE-010","CASE-011","CASE-012","CASE-013"],"evidence_ids":[],"last_reviewed":null},
     {"claim_id":"C011","statement":"成功案例的“正式开发周期”经常系统性低估了此前技能、旧项目、工具与失败原型的积累时间","status":"UNVERIFIED","evidence_strength":"low","explanatory_importance":"critical","narrative_value":"high","related_cases":["CASE-001","CASE-002","CASE-003","CASE-004","CASE-005","CASE-006","CASE-007","CASE-008","CASE-009","CASE-010","CASE-011","CASE-012","CASE-013"],"evidence_ids":[],"last_reviewed":null},
     {"claim_id":"C012","statement":"同一环境变量对不同能力结构的开发者作用不同，不能用国家/福利/资本条件单变量解释独立游戏产出","status":"UNVERIFIED","evidence_strength":"low","explanatory_importance":"high","narrative_value":"medium","related_cases":["CASE-005","CASE-006","CASE-009","CASE-012","CASE-013"],"evidence_ids":[],"last_reviewed":null}
   ]

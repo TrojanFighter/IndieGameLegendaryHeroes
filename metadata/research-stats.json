@@ -1,8 +1,7 @@
 {
   "cases": {
     "evidence_strength": {
-      "low": 4,
-      "medium": 9
+      "medium": 13
     },
     "explanatory_importance": {
       "critical": 6,
@@ -14,8 +13,7 @@
       "high": 9
     },
     "status": {
-      "RESEARCHING": 9,
-      "SKELETON": 4
+      "RESEARCHING": 13
     },
     "total": 13
   },
