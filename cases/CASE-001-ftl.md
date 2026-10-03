@@ -1,6 +1,18 @@
+---
+type: case
+case_id: CASE-001
+status: RESEARCHING
+subject: FTL: Faster Than Light / Subset Games
+related_claims: [C001, C002, C003, C004, C006, C008, C010, C011]
+evidence_strength: MEDIUM
+explanatory_importance: HIGH
+narrative_value: HIGH
+last_verified: 2026-10-03
+tags: [micro-team, runway, savings, kickstarter, competition-validation, scope-redefinition, market-access]
+---
 # CASE-001 — FTL / Subset Games
 
-- Status: ACTIVE — FIRST EVIDENCE PASS
+- Status: RESEARCHING — FIRST EVIDENCE PASS
 - Subject: FTL: Faster Than Light / Subset Games
 - Related Claims: C001, C002, C003, C004, C006, C008, C010, C011
 - Evidence Ledger: [`evidence/CASE-001-ftl-source-ledger.md`](../evidence/CASE-001-ftl-source-ledger.md)
