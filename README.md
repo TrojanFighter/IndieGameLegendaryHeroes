@@ -16,7 +16,7 @@
 
 本项目同时建设三种东西：
 
-1. **可审计的案例库**：记录开发者/团队的能力前史、现金流、团队结构、技术路线、范围控制、失败、市场路径与偶然性。
+1. **可审计的案例库**：记录开发者 / 团队的能力前史、现金流、团队结构、技术路线、范围控制、失败、市场路径与偶然性。
 2. **可证伪的命题库**：检验关于独立游戏的流行解释，例如“福利国家优势”“富二代优势”“大厂履历必要”“solo 等于一个人包办全部”“零营销”“纯靠运气”等。
 3. **最终书稿《独立游戏英雄传说》**：在证据积累之后，把案例与命题组织成可读的生产史，而不是先写故事再找证据装饰。
 
@@ -28,8 +28,8 @@
 - [`claims/`](claims/)：可被支持、削弱或证伪的研究命题
 - [`evidence/`](evidence/)：逐案来源核实与证据边界
 - [`author-corpus/`](author-corpus/)：洪荒行者历史公开文章、知乎、游戏炼乳及授权历史讨论中的作者命题来源
-- [`sources/`](sources/)：平台、作者语料与来源登记
-- [`sister-projects/RussianGameLegendaryHeroes.md`](sister-projects/RussianGameLegendaryHeroes.md)：姊妹篇《俄罗斯游戏英雄传说》的研究边界
+- [`sources/`](sources/)：作者语料、纪录片 / 演讲 / 媒体与来源方法登记
+- [`sister-projects/SlavicGameLegendaryHeroes.md`](sister-projects/SlavicGameLegendaryHeroes.md)：姊妹篇《斯拉夫游戏英雄传说》的研究边界与首批产业谱系
 - [`schemas/case-template.md`](schemas/case-template.md)：Case 标准结构
 - [`schemas/claim-template.md`](schemas/claim-template.md)：Claim 标准结构
 - [`schemas/evidence-record-template.md`](schemas/evidence-record-template.md)：Evidence 核实结构
@@ -51,9 +51,35 @@
 
 > **作者旧命题 → 精确化为 Claim → 找外部 Case / P0-P1-S1 Evidence → 支持、修正或反驳。**
 
+### 游戏炼乳与 2023 长文
+
+作者确认：《正在到来的中度数值通胀率游戏设计革命》基本汇编了“游戏炼乳”大多数早期文章。因此它被视为**早期思想 corpus 的主要汇编母本**；公众号原始 HTML 主要用于核对发布时间、原始措辞、版本差异和遗漏文章。
+
+2023 汇编之后的公众号文章则单列为后续增量。例如已定位：
+
+- **《DeepSeek——第四次工业革命的瓦特蒸汽机》**（2025-02-11，游戏炼乳）——属于后期 AI / 生产力思想线，不反向视为 2023 母本已经包含。
+
+详见 [`sources/SOURCE-001-author-platforms-and-chat-corpus.md`](sources/SOURCE-001-author-platforms-and-chat-corpus.md)。
+
+### 历史 ChatGPT 与 KWP 邻接分析
+
 历史 ChatGPT 对话也遵守同一规则：除 KWP 未公开商业机密、专有设计、敏感经营信息和私人材料外，通用行业分析与命题演化可以作为 A0-CHAT 进入研究；模型过去说过的事实仍须重新核验。
 
-详见 [`author-corpus/README.md`](author-corpus/README.md) 与 [`sources/SOURCE-001-author-platforms-and-chat-corpus.md`](sources/SOURCE-001-author-platforms-and-chat-corpus.md)。
+KWP 对话中的通用“老中” / 组织文化 / 生产认知分析可以进入本项目，但必须脱离 KWP 专有设计语境。
+
+## 游戏史来源方法：纪录片 / 演讲 / 媒体
+
+作者过去形成大量游戏史知识时，纪录片是重要入口。本项目不会把这些来源降格为“无效记忆”，但会把它们变成可追踪的 Evidence。
+
+默认做法：
+
+- 开发者同期访谈、GDC / Gamescom / 本地会议演讲、开发日志、公司原始资料优先；
+- 纪录片中的当事人直接证词按 P0 / P1 评级；
+- 纪录片导演 / 旁白解释按 S1 / S2 评级；
+- 每段关键视频证据记录 speaker、角色、录制 / 发布时间、timecode 和反证；
+- 对工作室冲突、销量、预算、团队人数等硬事实尽量追到同期媒体或原始档案。
+
+详见 [`sources/SOURCE-002-documentary-talk-media-protocol.md`](sources/SOURCE-002-documentary-talk-media-protocol.md)。
 
 ## 研究立场
 
@@ -80,21 +106,32 @@
 
 FTL 已经建立第一份独立 Evidence Ledger：[`evidence/CASE-001-ftl-source-ledger.md`](evidence/CASE-001-ftl-source-ledger.md)。其余案例仍主要处于研究问题骨架阶段。
 
-## 姊妹篇：《俄罗斯游戏英雄传说》
+## 姊妹篇：《斯拉夫游戏英雄传说》
 
-姊妹篇不限于俄罗斯独立游戏，而聚焦俄罗斯及相关开发传统中那些**商业级、工程规模不低，却在玩法、系统、题材、审美或生产方式上激进得不亚于独立游戏**的引领性作品及其创作历程。
+姊妹篇由原工作名《俄罗斯游戏英雄传说》改为 **《斯拉夫游戏英雄传说》**。
 
-它与本项目共享生产史方法，但允许传统发行商、中型团队与商业级项目进入样本。
+俄罗斯仍是主轴，但乌克兰与白俄罗斯不能再被放在边缘比较位：
 
-当前候选包括 Tetris、Vangers、Perimeter、Space Rangers、Pathologic、Hammerfight、HighFleet、Escape from Tarkov、Loop Hero、Black Book、INDIKA 等；这些只是研究池，不代表已经接受任何关于“俄罗斯为何更激进”的解释。
+- **乌克兰**：S.T.A.L.K.E.R. / GSC Game World → 4A Games / Metro → Vostok 等人才、技术与组织裂变；
+- **白俄罗斯**：Wargaming / World of Tanks → World of 系列与战争网游商业化；
+- **俄罗斯**：IL-2、War Thunder、Space Rangers、Pathologic、HighFleet、Escape from Tarkov 等系统 / 军事 / 作者型谱系。
 
-详见 [`sister-projects/RussianGameLegendaryHeroes.md`](sister-projects/RussianGameLegendaryHeroes.md)。
+其中 World of Tanks 被提升为产业级转折案例。Wargaming 官方自己把它称为公司历史的“ultimate turning point”；World of Warships 则是 WoT 成功后 World of 系列的直接扩张。
+
+同时，仓库已经把一个强命题纠偏：
+
+> “没有 World of Tanks 就没有 War Thunder”作为字面因果 **不成立**。Gaijin 创始人明确表示 War Thunder 在 WoT 上线前已经开始开发；更合理的待验证命题是 WoT 证明了军武 F2P 在线游戏存在巨大市场，从而改变了 War Thunder 所处的品类合法性和市场窗口。
+
+S.T.A.L.K.E.R. → 4A Games 也将作为组织史主线研究。现有证据支持工资 / royalties / 管理冲突与核心人才出走，但暂不把作者过去“labor union 造反”的比喻写成字面工会史。
+
+详见 [`sister-projects/SlavicGameLegendaryHeroes.md`](sister-projects/SlavicGameLegendaryHeroes.md)。
 
 ## 工作原则
 
 - **证据先于叙事。** 先建立时间线、来源与反证，再写故事。
 - **证伪优先。** 每个重要命题都要主动寻找反例、替代解释和缺失变量。
-- **一手资料优先。** 开发者同期访谈、演讲、开发日志、众筹页、公司资料、财务/法务记录等优先于多年后的二手神话。
+- **一手资料优先。** 开发者同期访谈、演讲、开发日志、众筹页、公司资料、财务 / 法务记录等优先于多年后的二手神话。
+- **纪录片按片段评级。** 当事人原话、档案画面、导演旁白不能混成一个证据等级。
 - **区分必要、充分与概率增益。** “不是必要条件”不等于“没有影响”。
 - **拒绝幸存者偏差。** 成功者做过某件事，不意味着那件事导致成功。
 - **把前史算进开发史。** 技能、旧项目、失败原型、合同工作和职业经验不因“正式开工日”而消失。
@@ -104,15 +141,15 @@ FTL 已经建立第一份独立 Evidence Ledger：[`evidence/CASE-001-ftl-source
 
 **Phase 2 — Evidence Ingestion**
 
-项目宪法、权利结构、Case / Claim / Evidence schema、作者语料层与首批六案已经建立；CASE-001 FTL 已完成第一轮证据摄取。
+项目宪法、权利结构、Case / Claim / Evidence schema、作者语料层与首批六案已经建立；CASE-001 FTL 已完成第一轮证据摄取；姊妹篇已经完成第一次产业主轴纠偏。
 
 当前优先级：
 
 1. 继续补 FTL 的 savings / monthly burn / Shanghai cost / contributor map / prototype scope 证据缺口；
-2. 用 FTL 实例反向检查 Case schema 和初始 Claims；
-3. 启动 CASE-002 Rocket League / Psyonix 的 work-for-hire → SARPBC → Rocket League 生产史；
-4. 持续把知乎“洪荒行者”、游戏炼乳、2023 长文和非机密历史 ChatGPT 分析转成 A0 作者命题，再交给外部证据审计；
-5. 为《俄罗斯游戏英雄传说》建立首批正式 Case 前，先做地理、资本与公司沿革核验，避免把后苏联团队笼统俄罗斯化。
+2. 启动 CASE-002 Rocket League / Psyonix 的 work-for-hire → SARPBC → Rocket League 生产史；
+3. 为《斯拉夫游戏英雄传说》建立 World of Tanks / Wargaming、S.T.A.L.K.E.R. / GSC → 4A、War Thunder / Gaijin 三条正式 Evidence Ledger；
+4. 持续把知乎“洪荒行者”、游戏炼乳、2023 长文、后期公众号文章和非机密历史 ChatGPT 分析转成 A0 作者命题，再交给外部证据审计；
+5. 系统补纪录片、GDC / Gamescom / 本地演讲与同期媒体来源，不再只依赖网页文章和后来的 Wiki 归纳。
 
 ## 传播、权利与许可
 
@@ -122,7 +159,7 @@ FTL 已经建立第一份独立 Evidence Ledger：[`evidence/CASE-001-ftl-source
 
 - **公开研究内容**：`cases/`、`claims/`、`schemas/` 及其他明确作为公开研究发布的原创非软件内容，采用 **CC BY-NC-ND 4.0**。欢迎非商业地复制、转发、镜像和重新发布未经改编的原文，但必须合理署名，且不得发布未经授权的改写、翻译或其他衍生版本。详见 [`LICENSE-CONTENT`](LICENSE-CONTENT)。
 - **正式书稿**：未来 `book/` 目录中的正式章节、出版稿，以及任何明确标注 `All Rights Reserved` 的内容，均为 **© 2026 洪荒行者。All Rights Reserved.**
-- **工具代码**：明确属于软件/工具范围内的脚本、构建工具、检查器等代码，按 [`LICENSE-CODE`](LICENSE-CODE) 的 MIT License 授权。
+- **工具代码**：明确属于软件 / 工具范围内的脚本、构建工具、检查器等代码，按 [`LICENSE-CODE`](LICENSE-CODE) 的 MIT License 授权。
 - **第三方材料**：引用、截图、商标、采访内容及其他第三方材料仍属于其各自权利人；本项目不会因为引用它们而取得重新授权的权利。
 
 ### Canonical source / 权威原文
