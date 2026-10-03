@@ -1,21 +1,21 @@
 {
   "cases": {
     "evidence_strength": {
-      "medium": 19
+      "medium": 20
     },
     "explanatory_importance": {
-      "critical": 10,
+      "critical": 11,
       "high": 8,
       "medium": 1
     },
     "narrative_value": {
-      "critical": 6,
+      "critical": 7,
       "high": 13
     },
     "status": {
-      "RESEARCHING": 19
+      "RESEARCHING": 20
     },
-    "total": 19
+    "total": 20
   },
   "claims": {
     "evidence_strength": {
