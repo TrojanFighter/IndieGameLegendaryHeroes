@@ -37,17 +37,11 @@
 | CASE-019 | Schedule I / TVGS | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED | 作者 OPC 回答中的当代例；检验 solo core + 专业外围 + EA/community infrastructure |
 | CASE-020 | Into the Breach / Subset Games | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED | 作者公开回答与 Noclip 线索中的第二作；检验第一次成功如何转化为低 burn、低承诺、长试错的生产选择权 |
 | CASE-021 | Roblox Creator Cluster / Cindering, alexnewtron, badcc + asimo3089 | CHAT-RESEARCH + EXTERNAL-VERIFIED | 检验 UGC 平台如何把学习、出货、收入、职业机会、发行与 studio formation 压缩到同一环境，并显式纳入头部幸存者偏差 |
+| CASE-022 | Escape from Tarkov / Contract Wars → Battlestate Games | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED + CROSSOVER | Contract Wars 作为技术/资金 staging project；AbsolutSoft → Battlestate 组织分流；Hired Ops 作为平行 comparator；直销/预购支撑长期硬核开发 |
 
 ## 下一批优先正式化 / 深挖
 
-### Escape from Tarkov / Contract Wars / Hired Ops / Battlestate
-- Provenance: PUBLIC-AUTHOR + CHAT-RESEARCH
-- Type: CROSSOVER with 《斯拉夫游戏英雄传说》
-- Current author-source hypothesis: 更低成本 F2P 项目先训练团队并形成资金/技术/题材积累，再进入更激进的 Tarkov。
-- Required verification: AbsoluteSoft → Contract Wars/Hired Ops → Battlestate 的人员、资金、IP、代码/技术连续性；主播传播与发行选择。
-- 禁止在一手核验前把作者的因果叙事升级成事实。
-
-### despElote / Julián Cordero + Sebastian Valbuena
+### despelote / Julián Cordero + Sebastian Valbuena
 - Provenance: CHAT-RESEARCH
 - Type: funding-path case
 - Tests: C002 / C004 / C010 / C011
