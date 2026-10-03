@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "last_updated": "2026-10-03",
   "cases": [
     {
@@ -13,7 +13,9 @@
       "related_claims": ["C001", "C002", "C003", "C004", "C006", "C008", "C010", "C011"],
       "tags": ["micro-team", "runway", "savings", "kickstarter", "competition-validation", "scope-redefinition", "market-access"],
       "last_verified": "2026-10-03",
-      "evidence_ledger": "evidence/CASE-001-ftl-source-ledger.md"
+      "evidence_ledger": "evidence/CASE-001-ftl-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial"
     },
     {
       "case_id": "CASE-002",
@@ -26,7 +28,9 @@
       "related_claims": ["C002", "C003", "C004", "C005", "C006", "C008", "C010", "C011"],
       "tags": ["work-for-hire", "cross-subsidy", "failed-predecessor", "company-capability", "platform-amplification"],
       "last_verified": null,
-      "evidence_ledger": null
+      "evidence_ledger": null,
+      "contributor_audit": "pending",
+      "market_access_audit": "pending"
     },
     {
       "case_id": "CASE-003",
@@ -39,7 +43,9 @@
       "related_claims": ["C003", "C004", "C006", "C007", "C009", "C010", "C011"],
       "tags": ["solo", "aaa-prehistory", "scope-control", "representation-cost", "authorial-production"],
       "last_verified": null,
-      "evidence_ledger": null
+      "evidence_ledger": null,
+      "contributor_audit": "pending",
+      "market_access_audit": "pending"
     },
     {
       "case_id": "CASE-004",
@@ -52,7 +58,9 @@
       "related_claims": ["C001", "C002", "C003", "C004", "C006", "C007", "C008", "C010", "C011"],
       "tags": ["solo", "long-development", "partner-support", "skill-acquisition", "publisher-support", "community"],
       "last_verified": null,
-      "evidence_ledger": null
+      "evidence_ledger": null,
+      "contributor_audit": "pending",
+      "market_access_audit": "pending"
     },
     {
       "case_id": "CASE-005",
@@ -65,7 +73,9 @@
       "related_claims": ["C002", "C003", "C004", "C007", "C009", "C011", "C012"],
       "tags": ["micro-team", "long-horizon", "systems-complexity", "community-infrastructure", "donation-model", "path-dependence"],
       "last_verified": null,
-      "evidence_ledger": null
+      "evidence_ledger": null,
+      "contributor_audit": "pending",
+      "market_access_audit": "not_applicable"
     },
     {
       "case_id": "CASE-006",
@@ -78,7 +88,9 @@
       "related_claims": ["C003", "C004", "C006", "C008", "C010", "C011", "C012"],
       "tags": ["three-person-team", "prehistory", "previous-project", "streamers", "viral-discovery", "right-tail"],
       "last_verified": null,
-      "evidence_ledger": null
+      "evidence_ledger": null,
+      "contributor_audit": "pending",
+      "market_access_audit": "pending"
     }
   ]
 }
