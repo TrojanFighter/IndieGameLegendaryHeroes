@@ -29,7 +29,9 @@ FTL、Gunpoint、Dream Quest、Project Wingman、Undertale、Lethal Company、Ke
 
 Roblox creator cluster 把这一机制推到更早年龄层：Cindering、alexnewtron、badcc / asimo3089 的“少年开发者”身份并不等于零经验；代表作之前已经存在多年平台内出货、协作、DevEx、实习或平台合同工作。
 
-**边界 / 反例压力：** Stardew Valley 说明不能把“solo”一律解构成虚假标签；其 pre-launch core production 确实高度单人。正确结论是“solo 仍有前史/外围条件”，而不是“solo 不存在”。Roblox 头部案例又提醒：能力前史真实存在，不等于头部成功概率因此很高。
+Escape from Duckov 又给出一个“团队压缩”版本：五人核心并非临时拼装的五个通才，而是已合作约 4–6 年、连续做过《蛇行武装》《碳酸危机》的老团队；前作已经支付了 shooter feel、工具、协作规则和失败认知的学费。
+
+**边界 / 反例压力：** Stardew Valley 说明不能把“solo”一律解构成虚假标签；其 pre-launch core production 确实高度单人。正确结论是“solo 仍有前史/外围条件”，而不是“solo 不存在”。Roblox 与 Duckov 都提醒：核心人数真实很小，不等于完整 production boundary 同样小，也不等于小团队成功概率因此很高。
 
 ## C004 — developers manufacture production conditions
 
@@ -45,23 +47,25 @@ Roblox creator cluster 把这一机制推到更早年龄层：Cindering、alexne
 - Into the Breach：把第一次成功兑换成低 burn、延迟承诺和长时间 design search，而不是立刻扩大固定成本；
 - Escape from Tarkov：先用 Contract Wars 同时支付技术学费、团队磨合和下一阶段资金，再成立专门组织承担更激进产品；
 - Roblox creator cluster：把平台的 Studio、托管、支付、分发、DevEx、实习/合同和劳动力网络当作外部基础设施，使“学习→出货→职业化”发生在同一系统里；
-- despelote：把 Incubator 的 advisor network、公共 grant、freelance survival、DAP 和 publisher pitch 组织成阶段性融资链，使每一段 runway 尽可能生产下一阶段可融资资产。
+- despelote：把 Incubator 的 advisor network、公共 grant、freelance survival、DAP 和 publisher pitch 组织成阶段性融资链，使每一段 runway 尽可能生产下一阶段可融资资产；
+- Escape from Duckov：让五人核心只承担最需要作者判断和高频迭代的研发，把发行、本地化、平台/商务等职能放在 Bilibili 公司外围，同时用前作训练出的工具与流程压缩核心生产成本。
 
-**边界：** “制造条件”不代表可以无视住房、家庭、资本、平台、运气和市场窗口；它描述的是对可控变量的主动重组。平台化路径还会制造新的依赖：发现、支付、规则和职业机会可能被同一平台治理。
+**边界：** “制造条件”不代表可以无视住房、家庭、资本、平台、运气和市场窗口；它描述的是对可控变量的主动重组。平台化或公司外围路径还会制造新的依赖：发现、支付、规则、IP、预算审批和职业机会可能被外部组织治理。
 
 ### 横向模式：如何“购买下一次原创的选择权”
 
-目前至少出现五种不同机制：
+目前至少出现六种不同机制：
 
 1. **服务业务购买选择权 — Psyonix**：用 work-for-hire / AAA collaboration 支付工资和组织能力，给原创留下生存空间。
 2. **前作 retained earnings 购买选择权 — Subset / Into the Breach**：成功后不把钱全部变成 headcount，而是购买多年低承诺试错时间。
 3. **staging product 购买选择权 — Contract Wars → Battlestate**：先做更容易商业化的产品，同时制造技术、共同工作经验与现金，再把它们转入高风险原创。
 4. **平台基础设施购买选择权 — Roblox creator cluster**：不是先攒一大笔钱，而是让平台承担一部分引擎、托管、支付、发行、市场接入和职业网络成本，从而降低每次试错的组织门槛。
 5. **non-dilutive bridge 购买“下一次融资资格” — despelote**：小额 grant 不承担整个项目，而是在现金断裂点购买一段 full-time runway；这段时间被转换成 vertical slice，再由 vertical slice 换取 publisher financing。
+6. **母公司共享服务购买小核心自主性 — Escape from Duckov**：核心研发保持五人，但工资、发行、本地化、商务和其他外围职能并没有消失，而是由 Bilibili 内部共享；小团队由此不必把所有公司职能内建进核心 headcount。
 
-这五类都不等同于“融资金额越大越好”。更准确的共同变量是：**降低下一轮原创失败时的承诺成本、延长团队仍有资格继续试错的时间，并把当前资源转换成下一阶段可用的能力、资产或融资资格。**
+这六类都不等同于“融资金额越大越好”。更准确的共同变量是：**降低下一轮原创失败时的承诺成本、延长团队仍有资格继续试错的时间，并把当前资源转换成下一阶段可用的能力、资产、外围服务或融资资格。**
 
-当前仍不应独立升级为新 Claim，因为样本主要来自成功者，且五种机制的失败对照尚不充分；现阶段把它作为 C002 + C004 的跨案例解释更稳妥。
+当前仍不应独立升级为新 Claim，因为样本主要来自成功者，且六种机制的失败对照尚不充分；现阶段把它作为 C002 + C004 的跨案例解释更稳妥。
 
 ## C005 — work-for-hire can cross-subsidize original IP
 
@@ -94,15 +98,20 @@ Psyonix 的直接创始人/设计负责人回顾足以证明“can”：公司�
 - Dream Quest：复用既有卡牌引擎、保持高度抽象表现；
 - Dwarf Fortress：官方明确说 text graphics 允许加入更多内容；
 - Kenshi：不是小 scope，而是用极长时间、低表现要求和先系统后团队的路径承担大 scope；
-- Into the Breach：最终产品的“简洁”来自多年原型、删减和规则收敛，而不是一开始就有一个小而确定的 specification。
+- Into the Breach：最终产品的“简洁”来自多年原型、删减和规则收敛，而不是一开始就有一个小而确定的 specification；
+- Escape from Duckov：不是把 Tarkov 内容简单砍半，而是删除网络多人、mobile 双端、PvP 与大量硬核 simulation 成本，保留 search→risk→extract→progression 的价值循环，再用俯视角/PVE/卡通表现重建可读性和受众边界。
 
-**边界：** 巨大 scope 仍可能失败；Kenshi/DF 是极端幸存者，不能反推“scope control 不重要”。
+Duckov 特别说明：**删掉昂贵维度可以同时降低生产成本和创造新市场定位。** multiplayer → single-player、PvP → PvE、双端 → PC-only 不是单纯技术降级，而是把原本无法由五人高质量承担的系统义务移出问题空间。
+
+**边界：** 巨大 scope 仍可能失败；Kenshi/DF 是极端幸存者。Duckov 也不证明“做单机就更容易成功”，其公司外围、前作能力和市场窗口都必须一起计算。
 
 ## C008 — infrastructure lowers some barriers while introducing new dependence
 
 **Status: UNVERIFIED, BUT EVIDENCE BASE EXPANDED**
 
 Project Wingman、R.E.P.O. 等已经显示通用引擎/网络基础设施降低能力门槛。Roblox cluster 进一步提供了更完整的机制证据：平台可以同时提供开发工具、托管、跨设备分发、支付、用户获取与劳动力市场；Escape from Tarkov 则展示 Unity 与数字直销如何允许非 AAA 组织逐步承载高复杂度 PC 在线产品。
+
+Escape from Duckov 再补了一层：Unity + Steam + Workshop 使五人核心可以借通用工具完成全球 PC 产品与社区扩展，而 Bilibili 则把 publisher/localization 等公司职能放在核心团队之外。但这种“低核心人数”高度依赖平台和母公司，并不能直接解释为地理约束已经消失。
 
 Roblox 同时给出反面边界：DevEx 资格、兑换率、发现与用户获取依赖平台治理；头部收入和中位创作者收入差距极大。
 
@@ -121,9 +130,10 @@ Roblox 同时给出反面边界：DevEx 资格、兑换率、发现与用户获�
 - Lethal Company 在 Patreon/playtest 阶段已经形成反馈/受众循环；
 - Roblox 本身就是 discovery / distribution / social graph，Jailbreak 上线前还存在明确 Twitter hype；
 - Escape from Tarkov 通过官网多档预购、Alpha/Beta access、自有 launcher 和长期社区测试把市场接入直接接到研发现金流上；
-- despelote 的 NYU showcase / Incubator / industry advisor / DAP / vertical slice / Panic pitch 形成连续链，publisher 后续又承担 marketing、ports 与多平台 distribution perimeter。
+- despelote 的 NYU showcase / Incubator / industry advisor / DAP / vertical slice / Panic pitch 形成连续链，publisher 后续又承担 marketing、ports 与多平台 distribution perimeter；
+- Escape from Duckov 发售前已经约 45 万 Steam wishlist，主动比较 9–11 月 AAA 档期，并由 Bilibili 承担 publisher perimeter；因此“上线后纯口碑突然爆红”不能成立。
 
-**边界：** “有市场接入”不等于“有传统营销预算”，也不意味着所有项目必须预先拥有粉丝。市场接入还可能把团队绑定在平台、社区承诺或 live-service 义务上。
+**边界：** “有市场接入”不等于“有传统营销预算”，也不意味着所有项目必须预先拥有粉丝。市场接入还可能把团队绑定在平台、社区承诺、publisher 或母公司考核上。
 
 ## C011 — formal dev duration undercounts the real prehistory
 
@@ -140,7 +150,8 @@ Roblox 同时给出反面边界：DevEx 资格、兑换率、发现与用户获�
 - Roblox 头部创作者中，Jailbreak 的“四个月”建立在 Balfanz 约九年平台经历、asimo 的旧项目/平台合同和两人此前合作之上；
 - Into the Breach 的四年开发内部又包含两年以上结构尚未稳定的 prototype search；
 - Escape from Tarkov 前有 Contract Wars 的团队、Unity/FPS 与资金积累，而 EFT 自身又远超 2016 年团队公开预计的交付周期；
-- despelote 的“约七年”又不能被理解为稳定全职开发：前期长期 part-time，期间出现资金耗尽与 freelance，后期才进入约三年的更稳定 full-time，而且最困难的 narrative/product structure 收敛花了多年。
+- despelote 的“约七年”又不能被理解为稳定全职开发：前期长期 part-time，期间出现资金耗尽与 freelance，后期才进入约三年的更稳定 full-time，而且最困难的 narrative/product structure 收敛花了多年；
+- Escape from Duckov 的约 22 个月集中生产期之前，核心成员已合作约 4–6 年，做过至少两款商业前作，还经历过 Duckov 早期 mobile 方向失败与平台收缩。
 
 **边界：** “有前史”不代表每一年都对最终产品具有同等因果贡献；后续应区分直接可迁移能力、组织关系、资本积累与宽泛人生经历。
 
