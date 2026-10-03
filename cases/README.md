@@ -24,6 +24,7 @@
 | CASE-018 | RollerCoaster Tycoon / Chris Sawyer | 检验 OPC 历史原型：长期能力资本、代码复用、极端熟练技术栈与专业外围 | RESEARCHING |
 | CASE-019 | Schedule I / TVGS | 检验现代 solo core、自发行、Early Access、专业协作者与社区反馈的压缩型组织结构 | RESEARCHING |
 | CASE-020 | Into the Breach / Subset Games | 检验第一次成功如何被转换为低 burn、低承诺、可长时间试错和大规模删改的生产选择权 | RESEARCHING |
+| CASE-021 | Roblox Creator Cluster / Cindering, alexnewtron, badcc + asimo3089 | 检验 UGC 平台如何把学习、出货、收入、职业化、分发与创业压缩到同一生产环境，并测量其幸存者偏差 | RESEARCHING |
 
 ## 规则
 
