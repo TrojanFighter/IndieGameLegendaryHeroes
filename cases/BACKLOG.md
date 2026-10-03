@@ -38,16 +38,9 @@
 | CASE-020 | Into the Breach / Subset Games | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED | 作者公开回答与 Noclip 线索中的第二作；检验第一次成功如何转化为低 burn、低承诺、长试错的生产选择权 |
 | CASE-021 | Roblox Creator Cluster / Cindering, alexnewtron, badcc + asimo3089 | CHAT-RESEARCH + EXTERNAL-VERIFIED | 检验 UGC 平台如何把学习、出货、收入、职业机会、发行与 studio formation 压缩到同一环境，并显式纳入头部幸存者偏差 |
 | CASE-022 | Escape from Tarkov / Contract Wars → Battlestate Games | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED + CROSSOVER | Contract Wars 作为技术/资金 staging project；AbsolutSoft → Battlestate 组织分流；Hired Ops 作为平行 comparator；直销/预购支撑长期硬核开发 |
+| CASE-023 | despelote / Julián Cordero + Sebastián Valbuena | CHAT-RESEARCH + EXTERNAL-VERIFIED | 小额 non-dilutive funding 不直接“做完游戏”，而是购买 full-time runway、生成 publisher-pitch vertical slice，并通过 incubator / funder / publisher 网络进入下一阶段 |
 
 ## 下一批优先正式化 / 深挖
-
-### despelote / Julián Cordero + Sebastian Valbuena
-- Provenance: CHAT-RESEARCH
-- Type: funding-path case
-- Tests: C002 / C004 / C010 / C011
-- Why: 既往资助深研中用来说明“先制造 runway / vertical slice，再把可见成果转成 publisher pitch”的路径。
-- Next evidence: 开发者访谈、资助/孵化来源、publisher 签约时间线、vertical slice 在融资链中的真实作用。
-- Boundary: 未完成资金链核验前，不把“某笔 grant 直接导致发行签约”写成因果事实。
 
 ### 逃离鸭科夫 / Team Soda
 - Provenance: CHAT-RESEARCH
