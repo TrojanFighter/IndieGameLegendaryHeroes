@@ -16,7 +16,8 @@
 - Dwarf Fortress：玩家捐赠把一次性储蓄 fallback 转成长期 full-time runway；
 - Kenshi：最低工资夜班维持多年，EA 收入再转为团队工资；
 - Into the Breach：FTL 的成功没有被自动兑换成扩编，而是变成数年低 burn、长原型期和可大量删改的时间选择权；
-- Escape from Tarkov：Contract Wars 先产生 FPS/Unity 能力和继续开发所需资金，之后官网预购 / 测试资格又承担一部分长期开发现金流。
+- Escape from Tarkov：Contract Wars 先产生 FPS/Unity 能力和继续开发所需资金，之后官网预购 / 测试资格又承担一部分长期开发现金流；
+- despelote：学生/孵化器阶段、Ecuador IFCI、Microsoft DAP、freelance bridge 与 Panic financing 串成多段 runway；其中 DAP 的关键价值不是覆盖总预算，而是在资金耗尽时恢复 full-time 并生产 publisher-pitch vertical slice。
 
 **边界 / 反例压力：** Kickstarter、publisher advance 等单次资金仍可能改变项目命运；本 Claim 目前没有建立严格的跨样本统计比较，只能说“可持续时间”在多种成功路径里反复出现，不能说其效应量一定大于融资金额。
 
@@ -43,22 +44,24 @@ Roblox creator cluster 把这一机制推到更早年龄层：Cindering、alexne
 - R.E.P.O.：前作收益再投资 + Unity/Photon + 更短 failure loop；
 - Into the Breach：把第一次成功兑换成低 burn、延迟承诺和长时间 design search，而不是立刻扩大固定成本；
 - Escape from Tarkov：先用 Contract Wars 同时支付技术学费、团队磨合和下一阶段资金，再成立专门组织承担更激进产品；
-- Roblox creator cluster：把平台的 Studio、托管、支付、分发、DevEx、实习/合同和劳动力网络当作外部基础设施，使“学习→出货→职业化”发生在同一系统里。
+- Roblox creator cluster：把平台的 Studio、托管、支付、分发、DevEx、实习/合同和劳动力网络当作外部基础设施，使“学习→出货→职业化”发生在同一系统里；
+- despelote：把 Incubator 的 advisor network、公共 grant、freelance survival、DAP 和 publisher pitch 组织成阶段性融资链，使每一段 runway 尽可能生产下一阶段可融资资产。
 
 **边界：** “制造条件”不代表可以无视住房、家庭、资本、平台、运气和市场窗口；它描述的是对可控变量的主动重组。平台化路径还会制造新的依赖：发现、支付、规则和职业机会可能被同一平台治理。
 
 ### 横向模式：如何“购买下一次原创的选择权”
 
-目前至少出现四种不同机制：
+目前至少出现五种不同机制：
 
 1. **服务业务购买选择权 — Psyonix**：用 work-for-hire / AAA collaboration 支付工资和组织能力，给原创留下生存空间。
 2. **前作 retained earnings 购买选择权 — Subset / Into the Breach**：成功后不把钱全部变成 headcount，而是购买多年低承诺试错时间。
 3. **staging product 购买选择权 — Contract Wars → Battlestate**：先做更容易商业化的产品，同时制造技术、共同工作经验与现金，再把它们转入高风险原创。
 4. **平台基础设施购买选择权 — Roblox creator cluster**：不是先攒一大笔钱，而是让平台承担一部分引擎、托管、支付、发行、市场接入和职业网络成本，从而降低每次试错的组织门槛。
+5. **non-dilutive bridge 购买“下一次融资资格” — despelote**：小额 grant 不承担整个项目，而是在现金断裂点购买一段 full-time runway；这段时间被转换成 vertical slice，再由 vertical slice 换取 publisher financing。
 
-这四类都不等同于“融资”。更准确的共同变量是：**降低下一轮原创失败时的承诺成本，并延长团队有资格继续试错的时间。**
+这五类都不等同于“融资金额越大越好”。更准确的共同变量是：**降低下一轮原创失败时的承诺成本、延长团队仍有资格继续试错的时间，并把当前资源转换成下一阶段可用的能力、资产或融资资格。**
 
-当前仍不应独立升级为新 Claim，因为样本主要来自成功者，且四种机制的失败对照尚不充分；现阶段把它作为 C002 + C004 的跨案例解释更稳妥。
+当前仍不应独立升级为新 Claim，因为样本主要来自成功者，且五种机制的失败对照尚不充分；现阶段把它作为 C002 + C004 的跨案例解释更稳妥。
 
 ## C005 — work-for-hire can cross-subsidize original IP
 
@@ -117,7 +120,8 @@ Roblox 同时给出反面边界：DevEx 资格、兑换率、发现与用户获�
 - Undertale 的 Homestuck audience 帮助 Kickstarter；
 - Lethal Company 在 Patreon/playtest 阶段已经形成反馈/受众循环；
 - Roblox 本身就是 discovery / distribution / social graph，Jailbreak 上线前还存在明确 Twitter hype；
-- Escape from Tarkov 通过官网多档预购、Alpha/Beta access、自有 launcher 和长期社区测试把市场接入直接接到研发现金流上。
+- Escape from Tarkov 通过官网多档预购、Alpha/Beta access、自有 launcher 和长期社区测试把市场接入直接接到研发现金流上；
+- despelote 的 NYU showcase / Incubator / industry advisor / DAP / vertical slice / Panic pitch 形成连续链，publisher 后续又承担 marketing、ports 与多平台 distribution perimeter。
 
 **边界：** “有市场接入”不等于“有传统营销预算”，也不意味着所有项目必须预先拥有粉丝。市场接入还可能把团队绑定在平台、社区承诺或 live-service 义务上。
 
@@ -135,7 +139,8 @@ Roblox 同时给出反面边界：DevEx 资格、兑换率、发现与用户获�
 - Dwarf Fortress 的设计/编程轨迹甚至追到童年；
 - Roblox 头部创作者中，Jailbreak 的“四个月”建立在 Balfanz 约九年平台经历、asimo 的旧项目/平台合同和两人此前合作之上；
 - Into the Breach 的四年开发内部又包含两年以上结构尚未稳定的 prototype search；
-- Escape from Tarkov 前有 Contract Wars 的团队、Unity/FPS 与资金积累，而 EFT 自身又远超 2016 年团队公开预计的交付周期。
+- Escape from Tarkov 前有 Contract Wars 的团队、Unity/FPS 与资金积累，而 EFT 自身又远超 2016 年团队公开预计的交付周期；
+- despelote 的“约七年”又不能被理解为稳定全职开发：前期长期 part-time，期间出现资金耗尽与 freelance，后期才进入约三年的更稳定 full-time，而且最困难的 narrative/product structure 收敛花了多年。
 
 **边界：** “有前史”不代表每一年都对最终产品具有同等因果贡献；后续应区分直接可迁移能力、组织关系、资本积累与宽泛人生经历。
 
