@@ -6,10 +6,10 @@
 |---|---|---|---|
 | CASE-001 | FTL / Subset Games | 检验储蓄、地区成本、前职业经验、众筹与小团队范围控制 | RESEARCHING |
 | CASE-002 | Rocket League / Psyonix | 检验合同工作交叉补贴、失败前作、长期积累与平台/市场放大 | RESEARCHING |
-| CASE-003 | Papers, Please / Lucas Pope | 检验成熟职业开发者转入个人作者型生产，以及范围/表现成本重构 | SKELETON |
-| CASE-004 | Stardew Valley / ConcernedApe | 检验长期个人开发、家庭/伴侣支持、能力资本与市场路径 | SKELETON |
-| CASE-005 | Dwarf Fortress / Bay 12 Games | 检验长期极小团队复杂系统开发、替代性生存模型与路径依赖 | SKELETON |
-| CASE-006 | R.E.P.O. / semiwork | 检验“突然三人爆款”叙事与此前多年团队/作品积累之间的关系 | SKELETON |
+| CASE-003 | Papers, Please / Lucas Pope | 检验成熟职业开发者转入个人作者型生产，以及范围/表现成本重构 | RESEARCHING |
+| CASE-004 | Stardew Valley / ConcernedApe | 检验长期个人开发、伴侣支持、能力资本与市场外围 | RESEARCHING |
+| CASE-005 | Dwarf Fortress / Bay 12 Games | 检验长期极小团队复杂系统开发、捐赠式 runway 与表现成本重构 | RESEARCHING |
+| CASE-006 | R.E.P.O. / semiwork | 检验前作六年积累、收入再投资、快速失败与多人技术外围 | RESEARCHING |
 | CASE-007 | Gunpoint / Tom Francis | 检验工资型 runway、业余开发、极低现金成本与全球协作者网络 | RESEARCHING |
 | CASE-008 | Dream Quest / Peter Whalen | 检验“资深玩家→作者”的品味资本、旧引擎复用与低表现成本 | RESEARCHING |
 | CASE-009 | Project Wingman / Sector D2 | 检验通用引擎、自学、公开 Alpha、众筹和社区协作如何支撑小团队挑战成熟品类 | RESEARCHING |
