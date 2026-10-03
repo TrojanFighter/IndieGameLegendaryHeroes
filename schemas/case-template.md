@@ -2,27 +2,23 @@
 
 每个 Case 是一个开发者、团队、工作室或项目的可审计研究档案。不要把 Case 直接写成书稿章节。
 
-## Machine Metadata
+## Machine index requirement
 
-每个 Case 都必须在 `../metadata/cases.json` 中有对应机器可读记录。Markdown 仍是研究正文的 canonical prose；metadata 只承担索引、筛选、状态与一致性检查，不得复制大段事实叙述。
-
-最小机器字段：
+每个 `cases/CASE-*.md` 都必须在 [`../metadata/cases.json`](../metadata/cases.json) 中登记一次，至少包含：
 
 - `case_id`
 - `file`
 - `subject`
-- `research_status`: `SKELETON / RESEARCHING / REVIEW / STABLE`
-- `evidence_strength`: `none / low / medium / high`
-- `explanatory_importance`: `low / medium / high / critical`
-- `narrative_value`: `low / medium / high`
+- `research_status`: SKELETON / RESEARCHING / REVIEW / STABLE
+- `evidence_strength`: none / low / medium / high
+- `explanatory_importance`: unrated / low / medium / high / critical
+- `narrative_value`: unrated / low / medium / high / critical
 - `related_claims`
 - `tags`
 - `last_verified`
-- `evidence_ledger`（可为空）
+- `evidence_ledger`
 
-`evidence_strength` 只表示证据成熟度；`explanatory_importance` 表示该案对核心研究问题的解释价值；`narrative_value` 表示未来书稿中展开叙事的价值。三者不得互相替代。
-
-修改 Case header、状态或关联 Claim 后，必须同步 metadata，并通过 `python tools/research_lint.py --strict`。
+正文负责研究事实与论证，metadata 只负责机器索引；两者必须通过 `tools/research_lint.py` 保持一致。
 
 ## Header
 
