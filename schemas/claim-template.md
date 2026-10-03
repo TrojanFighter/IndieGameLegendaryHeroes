@@ -18,6 +18,23 @@
 
 正文负责论证和边界；metadata 负责状态、关系与机器检索。Case ↔ Claim 关系必须双向一致。
 
+### Evidence reference rule
+
+`evidence_ids` 必须使用全局可解析格式：
+
+`CASE-001:E001`
+
+而不是单独写 `E001`。不同 Case 可以各自拥有 `E001`，因此 Case ID 是引用的一部分。
+
+当 Claim 升级为 `SUPPORTED` / `VERIFIED`：
+
+- `evidence_ids` 不得为空；
+- 引用必须实际存在于对应 Case 的 evidence ledger；
+- 至少应包含 P0 / P1 / S1 之一；
+- `VERIFIED` 若完全没有 P0/P1，应重新审视状态是否过强。
+
+上述规则由 `tools/research_evidence_lint.py` 检查。
+
 ## Header
 
 - Claim ID:
