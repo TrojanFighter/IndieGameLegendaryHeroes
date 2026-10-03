@@ -1,0 +1,84 @@
+{
+  "version": 1,
+  "last_updated": "2026-10-03",
+  "cases": [
+    {
+      "case_id": "CASE-001",
+      "file": "cases/CASE-001-ftl.md",
+      "subject": "FTL: Faster Than Light / Subset Games",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "medium",
+      "explanatory_importance": "high",
+      "narrative_value": "high",
+      "related_claims": ["C001", "C002", "C003", "C004", "C006", "C008", "C010", "C011"],
+      "tags": ["micro-team", "runway", "savings", "kickstarter", "competition-validation", "scope-redefinition", "market-access"],
+      "last_verified": "2026-10-03",
+      "evidence_ledger": "evidence/CASE-001-ftl-source-ledger.md"
+    },
+    {
+      "case_id": "CASE-002",
+      "file": "cases/CASE-002-rocket-league.md",
+      "subject": "Rocket League / Psyonix",
+      "research_status": "SKELETON",
+      "evidence_strength": "low",
+      "explanatory_importance": "high",
+      "narrative_value": "high",
+      "related_claims": ["C002", "C003", "C004", "C005", "C006", "C008", "C010", "C011"],
+      "tags": ["work-for-hire", "cross-subsidy", "failed-predecessor", "company-capability", "platform-amplification"],
+      "last_verified": null,
+      "evidence_ledger": null
+    },
+    {
+      "case_id": "CASE-003",
+      "file": "cases/CASE-003-papers-please.md",
+      "subject": "Papers, Please / Lucas Pope",
+      "research_status": "SKELETON",
+      "evidence_strength": "low",
+      "explanatory_importance": "high",
+      "narrative_value": "high",
+      "related_claims": ["C003", "C004", "C006", "C007", "C009", "C010", "C011"],
+      "tags": ["solo", "aaa-prehistory", "scope-control", "representation-cost", "authorial-production"],
+      "last_verified": null,
+      "evidence_ledger": null
+    },
+    {
+      "case_id": "CASE-004",
+      "file": "cases/CASE-004-stardew-valley.md",
+      "subject": "Stardew Valley / ConcernedApe",
+      "research_status": "SKELETON",
+      "evidence_strength": "low",
+      "explanatory_importance": "high",
+      "narrative_value": "high",
+      "related_claims": ["C001", "C002", "C003", "C004", "C006", "C007", "C008", "C010", "C011"],
+      "tags": ["solo", "long-development", "partner-support", "skill-acquisition", "publisher-support", "community"],
+      "last_verified": null,
+      "evidence_ledger": null
+    },
+    {
+      "case_id": "CASE-005",
+      "file": "cases/CASE-005-dwarf-fortress.md",
+      "subject": "Dwarf Fortress / Bay 12 Games",
+      "research_status": "SKELETON",
+      "evidence_strength": "low",
+      "explanatory_importance": "high",
+      "narrative_value": "high",
+      "related_claims": ["C002", "C003", "C004", "C007", "C009", "C011", "C012"],
+      "tags": ["micro-team", "long-horizon", "systems-complexity", "community-infrastructure", "donation-model", "path-dependence"],
+      "last_verified": null,
+      "evidence_ledger": null
+    },
+    {
+      "case_id": "CASE-006",
+      "file": "cases/CASE-006-repo.md",
+      "subject": "R.E.P.O. / semiwork",
+      "research_status": "SKELETON",
+      "evidence_strength": "low",
+      "explanatory_importance": "medium",
+      "narrative_value": "high",
+      "related_claims": ["C003", "C004", "C006", "C008", "C010", "C011", "C012"],
+      "tags": ["three-person-team", "prehistory", "previous-project", "streamers", "viral-discovery", "right-tail"],
+      "last_verified": null,
+      "evidence_ledger": null
+    }
+  ]
+}
