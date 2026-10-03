@@ -1,32 +1,70 @@
-# LICENSE-CONTENT — Content Copyright Notice
+# LICENSE-CONTENT — 内容许可
 
-Copyright © 2026 洪荒行者. All Rights Reserved.
+Copyright © 2026 洪荒行者.
 
-Unless a specific file states otherwise, all original non-software content in this repository is protected by copyright and all rights are reserved by the author, 洪荒行者.
+本仓库的原创非软件内容采用分层许可。除非具体文件另有明确说明，适用以下规则。
 
-This includes, without limitation:
+## 1. 公开研究内容：CC BY-NC-ND 4.0
 
-- research notes and source syntheses;
-- case studies and developer histories;
-- claim matrices and analytical frameworks;
-- original tables, classifications, timelines, and compilations;
-- essays, chapter drafts, book manuscripts, and other original prose;
-- original diagrams and other non-software materials created for this project.
+位于本仓库中的原创公开研究内容，包括但不限于：
 
-Public availability of this repository does not grant a general license to copy, republish, translate, adapt, redistribute, commercially publish, or otherwise exploit these materials beyond rights already provided by applicable law or by GitHub's platform terms.
+- `cases/` 中的案例研究与开发者史；
+- `claims/` 中的命题、论证矩阵与判断；
+- `schemas/` 中的研究结构与模板；
+- 研究笔记、来源综合、原创时间线、分类、表格与图示；
+- 明确作为公开研究发布的文章与说明；
 
-No permission is granted by this notice for commercial publication, systematic republication, translation, adaptation, or redistribution of substantial portions of the original content without separate authorization from the rights holder.
+均以 **Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International（CC BY-NC-ND 4.0）** 授权。
 
-Nothing in this notice restricts quotation, criticism, commentary, scholarship, news reporting, fair use, fair dealing, quotation rights, or other exceptions and limitations provided by applicable law.
+Official license: https://creativecommons.org/licenses/by-nc-nd/4.0/
 
-## Third-party material
+在该许可允许的范围内，欢迎复制、转发、镜像和重新发布未经改编的内容，前提是：
 
-This notice does not claim ownership of third-party material quoted, linked, reproduced, or discussed in this repository, including interviews, articles, game screenshots, logos, trademarks, videos, audio, datasets, or other externally owned works. Such material remains subject to its original rights status.
+- 用途为非商业；
+- 保留合理署名；
+- 不将修改、改写、翻译、重混或其他衍生版本作为本项目内容重新发布；
+- 不暗示洪荒行者或《独立游戏英雄传说》认可、赞助或官方背书第三方的评论、摘要、解释或项目。
 
-## Software and tooling
+### 建议署名格式
 
-Software code, scripts, validators, build tools, parsers, and other executable tooling that are explicitly designated as project tooling are licensed separately under `LICENSE-CODE`.
+在合理可行的情况下，请保留：
 
-## Separate permissions
+- **作者：洪荒行者**
+- **项目：《独立游戏英雄传说 / Indie Game Legendary Heroes》**
+- **Canonical source：https://github.com/TrojanFighter/IndieGameLegendaryHeroes**，或对应文件的直接链接
+- **License：CC BY-NC-ND 4.0**
 
-The rights holder may grant additional permissions or commercial licenses separately. Such permissions do not alter the default copyright status of the rest of the repository.
+本项目鼓励讨论、评论、批评与引用。第三方对本项目的摘要、评论和解释只代表其作者；如需确认本项目实际主张，应以本仓库中对应 Case / Claim / Essay 的最新版原文为准。
+
+## 2. 正式书稿与明确保留权利的内容：All Rights Reserved
+
+位于 `book/` 目录中的正式书稿、章节、出版稿，以及任何明确标注 `All Rights Reserved` 的内容，不适用上述 CC BY-NC-ND 4.0 许可。
+
+这些内容为：
+
+**Copyright © 2026 洪荒行者. All Rights Reserved.**
+
+未经权利人另行授权，不授予商业出版、系统性复制、翻译、改编或再发行权利，但适用法律已经赋予的合理引用、评论、研究、新闻报道及其他例外不受影响。
+
+## 3. 第三方材料
+
+本许可只覆盖本项目有权授权的原创内容。
+
+它不重新许可第三方材料，包括但不限于：
+
+- 采访、演讲、书籍、文章、论坛帖等的引文；
+- 游戏截图、key art、Logo、商标、音乐、视频与其他游戏资产；
+- 第三方图片、图表、数据集与文档；
+- 链接、归档页面或其他外部内容；
+- 依据合理使用、合理引用或其他版权例外纳入的材料；
+- 已受其他许可证约束的材料。
+
+这些材料继续受其原有权利状态约束。
+
+## 4. 软件与工具
+
+软件代码、脚本、validator、parser、build tools、自动化与其他明确属于项目工具的可执行内容，适用单独的 `LICENSE-CODE`（MIT License）。
+
+## 5. 额外授权
+
+权利人可以针对翻译、改编、商业出版、课程、纪录片、媒体合作或其他用途另行授予许可。任何额外授权不会自动改变仓库其他内容的默认许可状态。
