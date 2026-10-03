@@ -131,6 +131,31 @@
 - `War Thunder 用 Arcade / Realistic / Simulator 显式分层真实性与可进入性` → VERIFIED
 - `坦克是特别适合大众化压缩的载具对象` → H / 需要更多同期设计和用户数据
 
+### SLAVIC-008 — WoT / WoWP / WoWS / War Thunder：早期量化层
+
+[`SLAVIC-008-war-online-quantitative-layer.md`](SLAVIC-008-war-online-quantitative-layer.md)
+
+核心检验：
+
+- 产品结构差异是否在 launch / early-service 的注册、beta 参与、PCCU、DAU、playtime 等指标上留下可观察差异；
+- acquisition 与 retention / engagement 是否被流行叙事混为一谈；
+- WoWP 的高 beta 注册是否反而能作为“品牌导流强、长期结果仍弱于 WoT”的反例；
+- War Thunder 是否确实突破传统飞行模拟器的小众规模；
+- WoWS 是否表现为较慢起量、较强 engagement 的逐级放大路径。
+
+当前关键状态：
+
+- `WoT 2011 年末约 18M registered，且已有 >250K concurrent milestone` → VERIFIED / PCCU cluster 口径待核
+- `WoT 2013 global PCU ~1.3M` → VERIFIED（Wargaming GDC 材料）
+- `WoWP 上线前接近 3M beta registrants` → VERIFIED
+- `3M beta registrants = 3M 活跃用户` → REFUTED AS METRIC INTERPRETATION
+- `WoWS 2015 CBT 400K+，正式上线前约 2M players` → SUPPORTED（后者当前为同期专业媒体口径）
+- `War Thunder 2013-01 CBT 600K+ → 2013-11 5M → 2014-05 100K PCCU` → VERIFIED
+
+量化方法规则：
+
+> `registered users / downloads / accounts` 不得直接翻译成 DAU、PCCU、retention 或 payer。F2P 案例必须尽量拆成 `exposure → registration → first battle → return → retained active → payer → long-term hobby`。
+
 ## 三组对照已经产生的更强母题
 
 第一轮材料开始支持一个比“斯拉夫游戏更有创意”更可检验的模型：
@@ -151,13 +176,18 @@ SLAVIC-007 又进一步把这个判断具体化为：
 
 > **战争载具题材不是足够精细的玩法类别；坦克、飞机、军舰真正要求玩家实时解决的是完全不同的问题。**
 
-这仍是工作假说，不是正式书稿结论。
+SLAVIC-008 再加入一个定量层面的限制：
+
+> **高注册量只能证明 acquisition；它不能自动证明 retention、engagement 或商业成功。**
+
+这些仍是工作假说 / 研究规则，不是正式书稿结论。
 
 ## 下一轮优先级
 
-1. 追 WoT 早期 prototype / Alpha 的设计演化，验证“坦克对象可压缩性”是否是开发团队明确意识到的优势；
-2. 找 WoWP 2013–2015 的活跃、区域发行、收入或 retention 数据，为失败对照加入量化层；
-3. 核 WoWS 开发团队是否明确吸收过 WoWP 的失败经验，避免把时间先后误写成组织学习；
-4. 找 War Thunder 各模式玩家分布/活跃结构，检验“模式分层”到底只是设计理念还是实际商业机制；
-5. 把 GSC→4A 人员网络继续扩展到 2006–2010 credits；
-6. 引入一个非斯拉夫战争载具在线游戏作为外部对照，防止把全球军武/F2P趋势误写成地域特性。
+1. WoWP 2013–2015：继续找 PCCU、DAU、MAU、收入、payer、retention，给失败对照补真正的漏斗后半段；
+2. WoT 2010–2011：把 250K concurrent 的 single-cluster / region / global 口径彻底核死；
+3. WoWS 2015：找到 Wargaming 原始 `2M players / 3h per day` 发布材料，替换当前媒体转述；
+4. War Thunder 2013–2015：找 Arcade / Realistic / Simulator 的玩家占比、PCCU 时间序列与地区结构；
+5. 构建 launch / OBT 后第 30 / 90 / 180 / 365 天 milestone table，只在同口径数据存在时比较；
+6. 把 GSC→4A 人员网络继续扩展到 2006–2010 credits；
+7. 引入一个非斯拉夫战争载具在线游戏作为外部对照，防止把全球军武 / F2P 趋势误写成地域特性。
