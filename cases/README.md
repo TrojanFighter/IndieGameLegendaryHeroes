@@ -23,6 +23,7 @@
 | CASE-017 | Among Us / Innersloth | 检验长期低可见度迭代、延迟爆发，以及成功后技术债和组织重构 | RESEARCHING |
 | CASE-018 | RollerCoaster Tycoon / Chris Sawyer | 检验 OPC 历史原型：长期能力资本、代码复用、极端熟练技术栈与专业外围 | RESEARCHING |
 | CASE-019 | Schedule I / TVGS | 检验现代 solo core、自发行、Early Access、专业协作者与社区反馈的压缩型组织结构 | RESEARCHING |
+| CASE-020 | Into the Breach / Subset Games | 检验第一次成功如何被转换为低 burn、低承诺、可长时间试错和大规模删改的生产选择权 | RESEARCHING |
 
 ## 规则
 
