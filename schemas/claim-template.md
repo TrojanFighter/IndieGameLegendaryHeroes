@@ -2,6 +2,26 @@
 
 每个 Claim 是一个可证伪命题，不是口号。
 
+## Machine Metadata
+
+Claim 的机器可读索引保存在 `../metadata/claims.json`。当前 Claim 正文仍集中在 `../claims/README.md`；metadata 只保存索引字段、研究状态与关系，不复制完整论证。
+
+最小机器字段：
+
+- `claim_id`
+- `statement`
+- `status`: `UNVERIFIED / WEAK / SUPPORTED / CONTESTED / VERIFIED / REFUTED`
+- `evidence_strength`: `none / low / medium / high`
+- `explanatory_importance`: `low / medium / high / critical`
+- `narrative_value`: `low / medium / high`
+- `related_cases`
+- `evidence_ids`
+- `last_reviewed`
+
+`status` 不等于重要性。一个 VERIFIED 命题可以只是边缘事实；一个对全书极重要的命题也可能长期停留在 CONTESTED。
+
+任何 Claim 状态、Statement 或 Related Cases 修改后，必须同步 `metadata/claims.json` 并通过 `python tools/research_lint.py --strict`。
+
 ## Header
 
 - Claim ID:
