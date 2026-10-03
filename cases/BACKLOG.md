@@ -1,7 +1,7 @@
 # Case Backlog — 历史语料与深度研究案例池
 
 - Status: ACTIVE
-- Last updated: 2026-10-03
+- Last updated: 2026-10-04
 
 本表用于回答一个治理问题：**我们过去已经用过哪些案例，它们当时被用来证明什么，现在有没有资格升级为正式 Case？**
 
@@ -35,6 +35,7 @@
 | CASE-017 | Among Us / Innersloth | CHAT-RESEARCH + EXTERNAL-VERIFIED | “完成后两年才爆”与成功后组织/技术成本突变 |
 | CASE-018 | RollerCoaster Tycoon / Chris Sawyer | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED | 作者 OPC 历史谱系中的前置例；检验长期能力资本与 contributor boundary |
 | CASE-019 | Schedule I / TVGS | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED | 作者 OPC 回答中的当代例；检验 solo core + 专业外围 + EA/community infrastructure |
+| CASE-020 | Into the Breach / Subset Games | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED | 作者公开回答与 Noclip 线索中的第二作；检验第一次成功如何转化为低 burn、低承诺、长试错的生产选择权 |
 
 ## 下一批优先正式化 / 深挖
 
@@ -53,6 +54,30 @@
 - Required verification: AbsoluteSoft → Contract Wars/Hired Ops → Battlestate 的人员、资金、IP、代码/技术连续性；主播传播与发行选择。
 - 禁止在一手核验前把作者的因果叙事升级成事实。
 
+### despElote / Julián Cordero + Sebastian Valbuena
+- Provenance: CHAT-RESEARCH
+- Type: funding-path case
+- Tests: C002 / C004 / C010 / C011
+- Why: 既往资助深研中用来说明“先制造 runway / vertical slice，再把可见成果转成 publisher pitch”的路径。
+- Next evidence: 开发者访谈、资助/孵化来源、publisher 签约时间线、vertical slice 在融资链中的真实作用。
+- Boundary: 未完成资金链核验前，不把“某笔 grant 直接导致发行签约”写成因果事实。
+
+### 逃离鸭科夫 / Team Soda
+- Provenance: CHAT-RESEARCH
+- Type: contemporary small-team market case
+- Tests: C003 / C004 / C008 / C010 / C011
+- Why: 既往行业深研中被用于观察小团队、强玩法 Hook、PC premium、平台/社区传播如何压缩市场进入成本。
+- Next evidence: 核验核心团队规模、前史、发行/平台支持、开发周期、销量口径与首发传播路径。
+- Boundary: 历史对话中的“5 人”“短期销量”先视为待核验数字，不进入正式结论。
+
+### Bills Must Be Paid / two-person studio
+- Provenance: CHAT-RESEARCH + EXTERNAL-VERIFIED
+- Type: contemporary self-report case
+- Tests: C002 / C003 / C004 / C007 / C010 / C011
+- Why: 开发者 2026 年自述为两人工作室、无 publisher/外部融资，并强调此前约七年 mobile/web 开发与失败项目积累；非常适合检验“首款 Steam 成功 ≠ 新手突然成功”。
+- Current lead: r/gamedev 开发者自述称 launch 前 61k+ wishlist，并在后续帖称 72 小时 100k+ copies；这些属于一方自报，需要平台/第三方数据交叉验证。
+- Boundary: Reddit 自述可作为 P1 lead，不直接升级为审计后的销售事实。
+
 ## 历史对话回收出的 comparator / 失败压力池
 
 这些对象**已进入 provenance 管理，但不自动升级为英雄 Case**：
@@ -63,8 +88,34 @@
 - `Pathologic 2 / Pathologic 3` — CHAT-RESEARCH + CROSSOVER + COMPARATOR：高野心项目如何在商业压力下拆分、重构范围。
 - `Respawn Entertainment` — CHAT-RESEARCH + COMPARATOR：能力资本以团队/关系网络整体迁移，而非 OPC 路径。
 - `Deltarune` — CHAT-RESEARCH：优先作为 CASE-010 Toby Fox 的成功后组织化第二阶段，而非立即拆新 Case。
-- `Into the Breach` — PUBLIC-AUTHOR：优先作为 CASE-001 Subset Games 的第二阶段能力验证。
 - `ZERO Sievert / Hell is Others / Arena Breakout` — PUBLIC-AUTHOR + COMPARATOR：研究 Tarkov 机制被 2D、PVE、F2P/mobile 等不同成本结构翻译时的迁移/失真。
+- `Build A Rocket Boy` — CHAT-RESEARCH + COMPARATOR：高 burn、单项目暴露与债权人风险；用于反衬低 burn / optionality，而非作为“独立英雄”。
+- `Undead Labs` — CHAT-RESEARCH + COMPARATOR：既往讨论用于观察团队在组织变故后如何保留 IP、低 burn 与 post-termination optionality。
+- `Grasshopper Manufacture` — CHAT-RESEARCH + COMPARATOR：外部资本阶段性利用、重新独立、自发行 know-how 内化。
+- `Indolphinity / 明末：渊虚之羽后续组织` — CHAT-RESEARCH + COMPARATOR：主创另立组织、IP/融资/全球发行关系，待事实链独立核验。
+
+## 玩法与市场深研中出现、但暂不宜升级为人物生产史 Case 的对象
+
+以下条目来自既往竞品/新品/行业深研。保留它们是为了避免旧论据遗失，但**“被拿来做玩法或市场比较”不等于适合写进本书人物主线**：
+
+- `Valor Mortis` — 历史异常化 / 动作与题材定位比较。
+- `HUNGER` — 搜打撤 / 生存结构比较。
+- `Guns of Eschaton` — 历史火器 / 题材表现与生产范围比较。
+- `Bonaparte` — 历史题材策略表现成本比较。
+- `Paralives` — scope、模拟系统深度与长期开发比较。
+- `The Binding of Isaac` — 系统复用、内容密度与低表现成本候选；若后续做 McMillen 能力前史，可升正式 Case。
+- `Arkheron` — 短局系统实验 / 市场定位比较。
+- `Brigador` — 小团队硬核定位、长尾口碑与表现成本候选。
+- `Mistfall Hunter` — extraction/action 市场与系统比较。
+- `Few Shall Return` — 小众硬核定位与 scope 比较。
+- `PAPERHEAD` — Prologue / wishlist / demo funnel 市场案例，需核验平台数据。
+- `Critical Shift` — 探索、有限资源与战术遭遇的玩法生产比较。
+- `DRAPLINE` — 小众 Early Access → 1.0 的健康商业路径候选，需核验销量/wishlist 口径。
+- `Graveyard Keeper 2` — 续作 audience / wishlist / franchise 市场接入案例，优先留在市场研究层。
+
+## 作者公开回答里的历史极端个案
+
+- `Elon Musk 学生时代小游戏` — PUBLIC-AUTHOR + COMPARATOR：OPC 回答中用于说明“一个人做完整电子游戏”并非 AI 时代发明；只作为技术史极端个案，不与现代商业独立游戏直接类比。
 
 ## 姊妹研究 / 斯拉夫线候选池
 
@@ -77,6 +128,14 @@
 - Konstantin Koshutin / Hammerfight / HighFleet；
 - Morteshka / Black Book；
 - Odd Meter / INDIKA。
+
+## 回收审计原则
+
+“尽量推进所有旧案例”不等于把所有名字升级成正式英雄 Case。回收顺序固定为：
+1. 先登记 provenance，防止旧论据继续散落；
+2. 区分人物生产史、组织/失败 comparator、市场案例、玩法比较；
+3. 有一手/高质量证据后再升级正式编号；
+4. 作者过去公开使用过的关键论据优先做事实复核，即使最终结论会推翻旧说法。
 
 ## 纳入规则
 
