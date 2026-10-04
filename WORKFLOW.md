@@ -42,6 +42,17 @@ Source Health **不阻断 merge，也不自动修改 Evidence**。404/410、重�
 
 Explorer 依赖的 metadata contract 由 [`tools/explorer_lint.py`](tools/explorer_lint.py) 在 CI 中检查；UI 不得硬编码 CASE ID 形成第二份手工数据库。
 
+## Obsidian Compatibility
+
+仓库可以直接作为 Obsidian Vault 打开，但 Obsidian 只作为本地阅读、编辑和关系探索层，不成为 canonical facts 或 machine metadata 的来源。
+
+边界与推荐设置见 [`docs/OBSIDIAN-COMPATIBILITY.md`](docs/OBSIDIAN-COMPATIBILITY.md)。当前原则：
+
+- `.obsidian/` 作为个人本地状态忽略；
+- 标准 Markdown links 优先于大量 `[[wikilink]]`；
+- 不为 Dataview / Bases 人工复制 `metadata/*.json`；
+- 暂不引入 Obsidian 插件作为仓库读取前提。
+
 ## Lane A 常用维护命令
 
 ### 完整本地检查
