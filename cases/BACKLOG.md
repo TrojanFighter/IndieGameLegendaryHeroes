@@ -51,6 +51,46 @@
 
 同时优先补现有案例的 contributor / market-access audit，避免只增长案例数量、不提高审计成熟度。
 
+## Taste Capital / “品味决定命运”审计队列
+
+这不是新的正式 Claim 队列，而是对 [`AC-005`](../author-corpus/AC-005-taste-capital-and-selection.md) 与 [`book/THESIS-CANDIDATES.md`](../book/THESIS-CANDIDATES.md) 的定向取证。
+
+### 当前锚点
+
+- `CASE-007 Gunpoint / Tom Francis` — 已有较强 P1/P0 证据，可观察“长期比较 → 显性偏好 → unusual-idea selection → 体验抽象 → scope deletion → prototype/test”。
+
+### 第二、第三正例候选
+
+- `CASE-008 Dream Quest / Peter Whalen` — 核长期玩家经验是否在成功前转成可观察的问题选择，而不是事后“资深玩家有品味”的包装；
+- `CASE-003 Papers, Please / Lucas Pope` — 核作者如何选择异常问题空间、表现方式与交互成本；
+- `CASE-020 Into the Breach / Subset Games` — 核拥有 FTL 成功后的资源以后，为何仍长期删除大量“做得出来”的设计；
+- `CASE-023 despelote` — 核从抽象“足球是共同语言”转向具体 Quito 的判断转折，区分导师输入与作者 taste；
+- `CASE-024 Escape from Duckov` — 核团队怎样识别 Tarkov 里值得保留的价值，同时删除 PvP、multiplayer、mobile、硬核模拟等生产负担。
+
+这些对象在完成定向 Evidence audit 前，**不得仅因“看起来符合”就标为支持 TC-001。**
+
+### 必须主动寻找的反例
+
+为了防止“品味决定命运”退化为赢家赞美，下一轮新增候选时优先寻找：
+
+1. **评论 / 分析能力强、游戏史阅读量大，但独立制作长期失败的人**；
+2. **作者性和评论口碑很强，但需求或市场规模不足以维持生产的项目**；
+3. **工程和执行能力很强，却反复选择错误产品问题、平台或商业模式的团队**；
+4. **把“相信自己的品味”变成拒绝 playtest / 市场反馈，从而 overdesign 或 scope creep 的失败案例**；
+5. **缺少传统“高品味玩家 / 评论者”前史，却通过社区、数据、用户研究或其他机制做出优秀选择的人**。
+
+### 升格门槛
+
+至少达到以下条件，才讨论新增正式 Claim：
+
+- 3 个以上结构不同的强正例；
+- 1–2 个以上强反例；
+- “品味”能拆成成功前的可观察行为；
+- 能与资金、职业网络、传播优势、执行能力分离；
+- 命题能够被失败案例真正反驳。
+
+在此之前，只作为 book thesis candidate 和 Author-Origin 母题。
+
 ## 历史对话回收出的 comparator / 失败压力池
 
 这些对象**已进入 provenance 管理，但不自动升级为英雄 Case**：

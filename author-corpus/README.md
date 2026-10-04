@@ -31,6 +31,9 @@ Author Corpus 单独标记为 **A0 — Author-Origin**，不并入 P0/P1/S1/S2 �
 - [AC-002 — 中国 / 俄罗斯游戏产业结构对照](AC-002-china-russia-industry-structure.md)
 - [AC-003 — 世界模型、成本结构与生产能力](AC-003-world-model-and-production-cost.md)
 - [AC-004 — 中国独立创作的“三座大山”](AC-004-china-three-mountains.md)
+- [AC-005 — 品味资本、选择能力与“品味决定命运”](AC-005-taste-capital-and-selection.md)
+
+其中 AC-005 当前只是一条**待检验的作者母题**：CASE-007 Gunpoint 是第一个强锚点，但在找到更多正例与反例前，不升级为新的跨案例 Claim。
 
 ## 姊妹项目
 

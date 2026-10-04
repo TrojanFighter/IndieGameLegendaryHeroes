@@ -52,6 +52,18 @@ Case 可以枯燥、重复、结构化。
 7. 不把偶然机会写成个人能力，也不因为存在运气就抹掉生产决策。
 8. 每篇都必须让读者分得清：**可迁移机制 / 不可复制条件 / 仍待核验的地方**。
 
+### Thesis incubation / 命题孵化
+
+已经值得追踪、但还没有资格写成全书定论的母题，统一放在 [`THESIS-CANDIDATES.md`](THESIS-CANDIDATES.md)。
+
+当前包括：
+- **品味决定命运 / Taste Capital**；
+- **执行失败 vs 选择失败**；
+- **Execution abundance → Selection scarcity**（AI 时代待验证假设）；
+- “生存条件 → 能力资本 → 选择 → scope → 执行 → 市场接入 → 下一轮生产条件”的候选全书结构。
+
+这些条目不是正式 Claim；没有达到正例、反例与证据门槛前，不得写成“研究已经证明”。
+
 ---
 
 ## 当前文章
@@ -84,7 +96,7 @@ mod、UGC、学生项目、职业工作、失败前作、工具、旧代码、�
 ### 3. 品味决定命运
 当执行资源有限时，长期比较、显性偏好、问题选择、体验抽象与 scope deletion 如何决定有限产能究竟被投向什么。这里的“品味”不是审美身份，而是**选择什么值得做、什么不值得做，并愿意让 prototype 反驳自己的能力**。
 
-当前核心：Gunpoint / Tom Francis。后续需要主动寻找反例与第二、第三个强案例，避免把个人传奇直接升级为普遍规律。
+当前核心：Gunpoint / Tom Francis。后续需要主动寻找反例与第二、第三个强案例，避免把个人传奇直接升级为普遍规律。研究门槛见 [`THESIS-CANDIDATES.md`](THESIS-CANDIDATES.md) 与 [`AC-005`](../author-corpus/AC-005-taste-capital-and-selection.md)。
 
 ### 4. 先做一个能活的前身
 失败前作、work-for-hire、staging project 和商业练兵产品怎样给梦想项目积累技术、团队、IP、社区或现金流。
