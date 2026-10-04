@@ -20,7 +20,7 @@ last_verified: 2026-10-04
 - Research status: RESEARCHING
 - Corpus role: NEGATIVE CHINESE COMPARATOR / CORPORATE-OWNED INDIE-LIKE PRODUCTION
 - Last verified: 2026-10-04
-- Related Claims: none yet — strong candidate pressure/support for C004/C006/C009/C010/C011
+- Related Claims:
 - Evidence Ledger: [`../evidence/CASE-030-outpost-infinity-siege-source-ledger.md`](../evidence/CASE-030-outpost-infinity-siege-source-ledger.md)
 
 ## Why this case
