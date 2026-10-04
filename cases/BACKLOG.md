@@ -41,13 +41,14 @@
 | CASE-023 | despelote / Julián Cordero + Sebastián Valbuena | CHAT-RESEARCH + EXTERNAL-VERIFIED | 小额 non-dilutive funding 不直接“做完游戏”，而是购买 full-time runway、生成 publisher-pitch vertical slice，并通过 incubator / funder / publisher 网络进入下一阶段 |
 | CASE-024 | Escape from Duckov / Team Soda | CHAT-RESEARCH + EXTERNAL-VERIFIED | 五人核心并非五人总 production；前作与 4–6 年合作形成能力资本；Bilibili 提供外围；通过砍 mobile/multiplayer/hardcore mechanics 重写 extraction 成本结构 |
 | CASE-025 | Bills Must Be Paid / Rike Games | CHAT-RESEARCH + EXTERNAL-VERIFIED | 两人核心七个月 Steam 项目背后是约七年 mobile/web 前史、四年 publisher prototype 训练、约百个失败/原型；成功前留下的 200-wishlist 帖还提供了 mobile→Steam 错误世界模型被修正的 contemporaneous evidence |
+| CASE-026 | Brigador / Stellar Jockeys | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | 第一例正式 failure comparator：强产品执行与高口碑仍可被 onboarding、market legibility、受众预期和市场转换问题击穿 |
 
 ## 下一批优先正式化 / 深挖
 
-当前不预锁 `CASE-026`。下一轮先继续从下方 comparator / 候选池中按三项排序选取：
+当前不预锁 `CASE-027`。下一轮继续从下方 comparator / 候选池中按三项排序选取：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
-3. 是否提供当前 25 个 Case 还没有覆盖的生产结构。
+3. 是否提供当前 26 个 Case 还没有覆盖的生产结构。
 
 同时优先补现有案例的 contributor / market-access audit，避免只增长案例数量、不提高审计成熟度。
 
@@ -55,9 +56,10 @@
 
 这不是新的正式 Claim 队列，而是对 [`AC-005`](../author-corpus/AC-005-taste-capital-and-selection.md) 与 [`book/THESIS-CANDIDATES.md`](../book/THESIS-CANDIDATES.md) 的定向取证。
 
-### 当前锚点
+### 当前锚点与正式反压力样本
 
-- `CASE-007 Gunpoint / Tom Francis` — 已有较强 P1/P0 证据，可观察“长期比较 → 显性偏好 → unusual-idea selection → 体验抽象 → scope deletion → prototype/test”。
+- `CASE-007 Gunpoint / Tom Francis` — 当前正向锚点；已有较强 P1/P0 证据，可观察“长期比较 → 显性偏好 → unusual-idea selection → 体验抽象 → scope deletion → prototype/test”。
+- `CASE-026 Brigador / Stellar Jockeys` — 当前正式反压力样本；产品 / 美术 / 技术选择很强，但 2016 首发在 onboarding、market legibility 与 audience expectations 上出现明显错位，证明 taste 不能当成单一总分。
 
 ### 第二、第三正例候选
 
@@ -69,9 +71,9 @@
 
 这些对象在完成定向 Evidence audit 前，**不得仅因“看起来符合”就标为支持 TC-001。**
 
-### 必须主动寻找的反例
+### 必须继续寻找的反例
 
-为了防止“品味决定命运”退化为赢家赞美，下一轮新增候选时优先寻找：
+CASE-026 已满足第一轮“强作者性 / 强产品执行但商业首发失败”的正式反压力需求，但仍不足以单独完成反例门槛。后续优先寻找：
 
 1. **评论 / 分析能力强、游戏史阅读量大，但独立制作长期失败的人**；
 2. **作者性和评论口碑很强，但需求或市场规模不足以维持生产的项目**；
@@ -118,7 +120,6 @@
 - `Paralives` — scope、模拟系统深度与长期开发比较。
 - `The Binding of Isaac` — 系统复用、内容密度与低表现成本候选；若后续做 McMillen 能力前史，可升正式 Case。
 - `Arkheron` — 短局系统实验 / 市场定位比较。
-- `Brigador` — 小团队硬核定位、长尾口碑与表现成本候选。
 - `Mistfall Hunter` — extraction/action 市场与系统比较。
 - `Few Shall Return` — 小众硬核定位与 scope 比较。
 - `PAPERHEAD` — Prologue / wishlist / demo funnel 市场案例，需核验平台数据。
