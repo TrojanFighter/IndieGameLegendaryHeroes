@@ -11,8 +11,8 @@
 
 当前仓库已经形成：
 
-- **24 个正式 Case**，从 FTL、Rocket League、Kenshi、Minecraft、Among Us 到 Roblox creator cluster、Escape from Tarkov、despelote 与《逃离鸭科夫》；
-- **24 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **25 个正式 Case**，从 FTL、Rocket League、Kenshi、Minecraft、Among Us 到 Roblox creator cluster、Escape from Tarkov、despelote、《逃离鸭科夫》与 Bills Must Be Paid；
+- **25 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **12 个跨案例 Claim**，检验 runway、能力资本、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》。
@@ -25,25 +25,26 @@
 
 | 你想知道…… | 建议先读 |
 |---|---|
-| **没钱的人到底怎么把游戏做出来？** | [Kenshi](cases/CASE-012-kenshi.md) · [FTL](cases/CASE-001-ftl.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [Stardew Valley](cases/CASE-004-stardew-valley.md) |
+| **没钱的人到底怎么把游戏做出来？** | [Kenshi](cases/CASE-012-kenshi.md) · [FTL](cases/CASE-001-ftl.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [Stardew Valley](cases/CASE-004-stardew-valley.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) |
 | **“一个人做游戏”到底有多真？** | [Papers, Please](cases/CASE-003-papers-please.md) · [RollerCoaster Tycoon](cases/CASE-018-rollercoaster-tycoon.md) · [Schedule I](cases/CASE-019-schedule-i.md) · [Kenshi](cases/CASE-012-kenshi.md) |
-| **失败前作是不是白做了？** | [Rocket League](cases/CASE-002-rocket-league.md) · [R.E.P.O.](cases/CASE-006-repo.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) |
+| **失败前作是不是白做了？** | [Rocket League](cases/CASE-002-rocket-league.md) · [R.E.P.O.](cases/CASE-006-repo.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) |
 | **上班养游戏、接活养原创，真的能成立吗？** | [Kenshi](cases/CASE-012-kenshi.md) · [early id Software](cases/CASE-016-early-id-software.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [Rocket League](cases/CASE-002-rocket-league.md) |
 | **众筹到底解决什么，不解决什么？** | [FTL](cases/CASE-001-ftl.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) · [Project Wingman](cases/CASE-009-project-wingman.md) |
 | **Early Access / 付费 Alpha 怎样变成生产资本？** | [Minecraft](cases/CASE-014-minecraft.md) · [Kenshi](cases/CASE-012-kenshi.md) · [Schedule I](cases/CASE-019-schedule-i.md) |
-| **“首款成功”之前其实练了多少年？** | [Lethal Company](cases/CASE-011-lethal-company.md) · [Dream Quest](cases/CASE-008-dream-quest.md) · [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
+| **“首款成功”之前其实练了多少年？** | [Lethal Company](cases/CASE-011-lethal-company.md) · [Dream Quest](cases/CASE-008-dream-quest.md) · [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) |
 | **发行商、孵化器和 grant 什么时候真正有用？** | [despelote](cases/CASE-023-despelote.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) |
 | **为什么有的游戏发行时没爆，后来却突然爆了？** | [Among Us](cases/CASE-017-among-us.md) |
 | **小团队怎样挑战成熟大厂品类？** | [Project Wingman](cases/CASE-009-project-wingman.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) |
 | **平台本身能不能把玩家训练成开发者？** | [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
 | **成功以后，第一次成功怎样改变第二作？** | [Into the Breach](cases/CASE-020-into-the-breach.md) |
+| **错误的平台经验会不会反过来害你？** | [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) · [跨案例 Claim C009](claims/README.md) |
 | **所谓“纯靠天才 / 纯靠运气 / 零营销”哪里不对？** | [跨案例综合](claims/CROSS-CASE-READINGS.md) · [Claims Index](claims/README.md) |
 
-想先读“故事版”而不是研究档案：进入 **[`book/`](book/)**。第一篇样板是 [`Kenshi：夜班保安如何把时间变成一间工作室`](book/profiles/kenshi.md)。
+想先读“故事版”而不是研究档案：进入 **[`book/`](book/)**。当前样板包括 [`Kenshi：夜班保安如何把时间变成一间工作室`](book/profiles/kenshi.md)、[`Rocket League：一家公司怎样靠替别人做游戏，养出自己的游戏`](book/profiles/rocket-league.md) 与 [`Bills Must Be Paid：七个月爆款之前，是七年和一百个原型`](book/profiles/bills-must-be-paid.md)。
 
 ---
 
-## 24 个正式案例
+## 25 个正式案例
 
 这些 Case 是研究后台的正式档案。Case ID 用于审计，不代表推荐阅读顺序。
 
@@ -73,8 +74,9 @@
 | [CASE-022](cases/CASE-022-escape-from-tarkov-lineage.md) | **Escape from Tarkov / Contract Wars → Battlestate** | 商业前置项目如何积累技术、团队、现金流与市场资格 |
 | [CASE-023](cases/CASE-023-despelote.md) | **despelote** | incubator、文化资金、bridge grant、vertical slice、publisher fit |
 | [CASE-024](cases/CASE-024-escape-from-duckov.md) | **Escape from Duckov / Team Soda** | 五人核心≠五人总 production；砍范围重写 extraction 成本结构 |
+| [CASE-025](cases/CASE-025-bills-must-be-paid.md) | **Bills Must Be Paid / Rike Games** | 七年 mobile/web 失败与高频原型能力压缩进七个月项目；demo / Steam market model course correction |
 
-完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。当前下一批重点是 **Bills Must Be Paid**：一个适合检验“首款 Steam 成功 ≠ 新手突然成功”的两人工作室案例。
+完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。CASE-025 已正式化；后续新 Case 继续从 backlog 中按证据与解释价值升级，而不是按知名度排队。
 
 ---
 
@@ -136,12 +138,12 @@
 
 截至 2026-10-04：
 
-- 24 个正式 Case 已建档；
-- 24 个对应 Case Evidence Ledger 已建立；
+- 25 个正式 Case 已建档；
+- 25 个对应 Case Evidence Ledger 已建立；
 - 12 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 当前为 `SUPPORTED`；
-- CASE-021 Roblox creator cluster、CASE-022 Tarkov lineage、CASE-023 despelote、CASE-024 Escape from Duckov 已进入主案例序列；
-- 下一批优先深挖：**Bills Must Be Paid**；
-- 同时启动 `book/`，解决“研究后台已经很丰富，但读者还看不到一本书”的结构问题。
+- CASE-021 Roblox creator cluster、CASE-022 Tarkov lineage、CASE-023 despelote、CASE-024 Escape from Duckov、CASE-025 Bills Must Be Paid 已进入主案例序列；
+- CASE-025 新增了一个待跨案例检验的问题：**mobile rapid-prototype capability 既可能是能力资本，也可能携带错误的 Steam market model**；
+- `book/` 已有 Kenshi、Rocket League、Bills Must Be Paid 三篇 profile，下一批优先按证据成熟度考虑 FTL、Tarkov、despelote、Roblox cluster、Among Us。
 
 研究状态以 [`cases/BACKLOG.md`](cases/BACKLOG.md)、各 Case / Evidence Ledger 与 [`claims/README.md`](claims/README.md) 为准；README 只做项目级导航，不替代正式档案。
 
