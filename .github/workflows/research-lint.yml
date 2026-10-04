@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - 'README.md'
+      - 'WORKFLOW.md'
       - 'book/**'
       - 'cases/**'
       - 'claims/**'
@@ -13,10 +14,12 @@ on:
       - 'tools/research_lint.py'
       - 'tools/research_evidence_lint.py'
       - 'tools/reader_layer_lint.py'
+      - 'tools/context_audit_lint.py'
       - '.github/workflows/research-lint.yml'
   pull_request:
     paths:
       - 'README.md'
+      - 'WORKFLOW.md'
       - 'book/**'
       - 'cases/**'
       - 'claims/**'
@@ -26,6 +29,7 @@ on:
       - 'tools/research_lint.py'
       - 'tools/research_evidence_lint.py'
       - 'tools/reader_layer_lint.py'
+      - 'tools/context_audit_lint.py'
       - '.github/workflows/research-lint.yml'
 
 permissions:
@@ -43,5 +47,7 @@ jobs:
         run: python tools/research_lint.py --strict
       - name: Run evidence and audit maturity checks
         run: python tools/research_evidence_lint.py
+      - name: Run context-situation-action checks
+        run: python tools/context_audit_lint.py
       - name: Run reader-layer drift checks
         run: python tools/reader_layer_lint.py
