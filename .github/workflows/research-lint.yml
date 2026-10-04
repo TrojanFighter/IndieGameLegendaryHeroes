@@ -9,12 +9,14 @@ on:
       - 'cases/**'
       - 'claims/**'
       - 'evidence/**'
+      - 'explorer/**'
       - 'metadata/**'
       - 'schemas/**'
       - 'tools/research_lint.py'
       - 'tools/research_evidence_lint.py'
       - 'tools/reader_layer_lint.py'
       - 'tools/context_audit_lint.py'
+      - 'tools/explorer_lint.py'
       - '.github/workflows/research-lint.yml'
   pull_request:
     paths:
@@ -24,12 +26,14 @@ on:
       - 'cases/**'
       - 'claims/**'
       - 'evidence/**'
+      - 'explorer/**'
       - 'metadata/**'
       - 'schemas/**'
       - 'tools/research_lint.py'
       - 'tools/research_evidence_lint.py'
       - 'tools/reader_layer_lint.py'
       - 'tools/context_audit_lint.py'
+      - 'tools/explorer_lint.py'
       - '.github/workflows/research-lint.yml'
 
 permissions:
@@ -51,3 +55,5 @@ jobs:
         run: python tools/context_audit_lint.py
       - name: Run reader-layer drift checks
         run: python tools/reader_layer_lint.py
+      - name: Run Case Explorer metadata contract checks
+        run: python tools/explorer_lint.py
