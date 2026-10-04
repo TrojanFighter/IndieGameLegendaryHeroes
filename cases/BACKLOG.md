@@ -40,16 +40,16 @@
 | CASE-022 | Escape from Tarkov / Contract Wars → Battlestate Games | PUBLIC-AUTHOR + CHAT-RESEARCH + EXTERNAL-VERIFIED + CROSSOVER | Contract Wars 作为技术/资金 staging project；AbsolutSoft → Battlestate 组织分流；Hired Ops 作为平行 comparator；直销/预购支撑长期硬核开发 |
 | CASE-023 | despelote / Julián Cordero + Sebastián Valbuena | CHAT-RESEARCH + EXTERNAL-VERIFIED | 小额 non-dilutive funding 不直接“做完游戏”，而是购买 full-time runway、生成 publisher-pitch vertical slice，并通过 incubator / funder / publisher 网络进入下一阶段 |
 | CASE-024 | Escape from Duckov / Team Soda | CHAT-RESEARCH + EXTERNAL-VERIFIED | 五人核心并非五人总 production；前作与 4–6 年合作形成能力资本；Bilibili 提供外围；通过砍 mobile/multiplayer/hardcore mechanics 重写 extraction 成本结构 |
+| CASE-025 | Bills Must Be Paid / Rike Games | CHAT-RESEARCH + EXTERNAL-VERIFIED | 两人核心七个月 Steam 项目背后是约七年 mobile/web 前史、四年 publisher prototype 训练、约百个失败/原型；成功前留下的 200-wishlist 帖还提供了 mobile→Steam 错误世界模型被修正的 contemporaneous evidence |
 
 ## 下一批优先正式化 / 深挖
 
-### Bills Must Be Paid / two-person studio
-- Provenance: CHAT-RESEARCH + EXTERNAL-VERIFIED
-- Type: contemporary self-report case
-- Tests: C002 / C003 / C004 / C007 / C010 / C011
-- Why: 开发者 2026 年自述为两人工作室、无 publisher/外部融资，并强调此前约七年 mobile/web 开发与失败项目积累；非常适合检验“首款 Steam 成功 ≠ 新手突然成功”。
-- Current lead: r/gamedev 开发者自述称 launch 前 61k+ wishlist，并在后续帖称 72 小时 100k+ copies；这些属于一方自报，需要平台/第三方数据交叉验证。
-- Boundary: Reddit 自述可作为 P1 lead，不直接升级为审计后的销售事实。
+当前不预锁 `CASE-026`。下一轮先继续从下方 comparator / 候选池中按三项排序选取：
+1. 是否能检验现有 Claim 或形成强反例；
+2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
+3. 是否提供当前 25 个 Case 还没有覆盖的生产结构。
+
+同时优先补现有案例的 contributor / market-access audit，避免只增长案例数量、不提高审计成熟度。
 
 ## 历史对话回收出的 comparator / 失败压力池
 

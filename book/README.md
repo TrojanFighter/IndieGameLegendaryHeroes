@@ -60,8 +60,9 @@ Case 可以枯燥、重复、结构化。
 
 - [`Kenshi：夜班保安如何把时间变成一间工作室`](profiles/kenshi.md) — 个人级 runway：最低工资夜班 → 长期 solo foundation → Early Access 收入购买团队时间。对应 [`CASE-012`](../cases/CASE-012-kenshi.md) 与 [`Evidence Ledger`](../evidence/CASE-012-kenshi-source-ledger.md)。
 - [`Rocket League：一家公司怎样靠替别人做游戏，养出自己的游戏`](profiles/rocket-league.md) — 组织级 runway：work-for-hire → SARPBC capability prototype → 多年 refinement → Rocket League。对应 [`CASE-002`](../cases/CASE-002-rocket-league.md) 与 [`Evidence Ledger`](../evidence/CASE-002-rocket-league-source-ledger.md)。
+- [`Bills Must Be Paid：七个月爆款之前，是七年和一百个原型`](profiles/bills-must-be-paid.md) — 高频失败资本：mobile publisher 原型训练 → 自发行 / browser 生存 → Steam learning bridge → demo / market-access course correction。对应 [`CASE-025`](../cases/CASE-025-bills-must-be-paid.md) 与 [`Evidence Ledger`](../evidence/CASE-025-bills-must-be-paid-source-ledger.md)。
 
-当前 `book/` 仍处于 bootstrap。这里不会为了“看起来像一本书”而一次性生成 24 篇文章；只有当一个 Case 的关键事实、边界与 Evidence 足够稳定时，才升级成 profile。
+当前 `book/` 仍处于 bootstrap。这里不会为了“看起来像一本书”而一次性生成所有案例文章；只有当一个 Case 的关键事实、边界与 Evidence 足够稳定时，才升级成 profile。
 
 ---
 
@@ -72,32 +73,32 @@ Case 可以枯燥、重复、结构化。
 ### 1. 先活下来
 工资、储蓄、伴侣收入、低生活成本、服务业务、众筹、grant 和前作收入怎样购买开发时间。
 
-候选：FTL、Kenshi、Gunpoint、Stardew Valley、Hollow Knight、despelote。
+候选：FTL、Kenshi、Gunpoint、Stardew Valley、Hollow Knight、despelote、Bills Must Be Paid。
 
 ### 2. 你不是从项目创建日才开始成为开发者
 mod、UGC、学生项目、职业工作、失败前作、工具、旧代码与社群如何构成能力资本。
 
-候选：Lethal Company、Roblox creator cluster、Undertale、Dream Quest、Tarkov lineage、Escape from Duckov。
+候选：Lethal Company、Roblox creator cluster、Undertale、Dream Quest、Tarkov lineage、Escape from Duckov、Bills Must Be Paid。
 
 ### 3. 先做一个能活的前身
 失败前作、work-for-hire、staging project 和商业练兵产品怎样给梦想项目积累技术、团队、IP、社区或现金流。
 
-候选：Rocket League、R.E.P.O.、Escape from Tarkov、early id Software。
+候选：Rocket League、R.E.P.O.、Escape from Tarkov、early id Software、Bills Must Be Paid。
 
 ### 4. 不要复制大公司的成本结构
 小团队怎样通过系统抽象、表现约束、单机化、低内容成本或重新定义品类问题，做出原本超出人力边界的游戏。
 
-候选：Papers, Please、Dwarf Fortress、Rise of the White Sun、Project Wingman、Escape from Duckov。
+候选：Papers, Please、Dwarf Fortress、Rise of the White Sun、Project Wingman、Escape from Duckov、Bills Must Be Paid。
 
 ### 5. 当玩家开始给生产系统供血
 付费 Alpha、Early Access、众筹、社区与发行渠道何时从“营销”变成生产资本。
 
-候选：Minecraft、Kenshi、Schedule I、FTL、Hollow Knight。
+候选：Minecraft、Kenshi、Schedule I、FTL、Hollow Knight、Bills Must Be Paid。
 
 ### 6. 运气到来的时候，你还活着
-Among Us 式延迟爆发、Twitch/Drops、平台推荐、主播与时代窗口：右尾事件如何改变结果，但为什么不能拿它解释此前所有生产决策。
+Among Us 式延迟爆发、Twitch/Drops、平台推荐、主播、媒体事件与时代窗口：右尾事件如何改变结果，但为什么不能拿它解释此前所有生产决策。
 
-候选：Among Us、Tarkov、Lethal Company、Minecraft。
+候选：Among Us、Tarkov、Lethal Company、Minecraft、Bills Must Be Paid。
 
 ### 7. 第一次成功之后
 成功如何购买时间、组织、低 burn、第二作试错权；又怎样制造新的复杂度和成本。
