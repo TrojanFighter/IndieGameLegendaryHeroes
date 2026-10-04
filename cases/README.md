@@ -32,6 +32,10 @@
 | CASE-024 | Escape from Duckov / Team Soda | **NON-INDIE COMPARATOR**：检验 Bilibili 内部五人核心如何借公司工资、发行/流量外围与前作能力，通过删 multiplayer/mobile/hardcore simulation 重写 extraction 的生产成本；不得作为独立发行正例 | RESEARCHING |
 | CASE-025 | Bills Must Be Paid / Rike Games | 检验两人工作室的七年高频失败/原型能力如何压缩进七个月 Steam 项目，以及 mobile 世界模型如何在 demo / wishlist / creator 市场接入中被修正 | RESEARCHING |
 | CASE-026 | Brigador / Stellar Jockeys | 失败 comparator：检验强产品执行为何仍可因 onboarding、market legibility、受众预期与成本—市场错位导致首发商业失败 | RESEARCHING |
+| CASE-027 | Dyson Sphere Program / Youthcat Studio | **POSITIVE CHINESE INDIE**：检验资深商业开发者如何把职业能力资本压缩进五人、自筹、风险前置和 scope-controlled 的独立生产结构，并把 publisher 保持在外围 | RESEARCHING |
+| CASE-028 | Chinese Online Game / 648 Studio | **POSITIVE CHINESE OPC**：检验一人业余五年如何通过 representation-cost redefinition 模拟中国网游体验，而不是复制 MMO 组织；职业前史保持 UNKNOWN | RESEARCHING |
+| CASE-029 | Boundary / Surgical Scalpels Studio | **TRANSITION / FAILURE COMPARATOR**：检验真实 indie origin 如何在高规格多人 FPS 目标下逐步吸收平台扶持、发行融资、股权资本与数十人组织，并发生工业化 | RESEARCHING |
+| CASE-030 | Outpost: Infinity Siege / Team Ranger | **NEGATIVE CORPORATE COMPARATOR**：检验公司内部小团队如何把商业手游留存/时长/数据与资源扩张逻辑带入 premium 项目，并造成 production-regime mismatch | RESEARCHING |
 
 ## 规则
 
@@ -47,6 +51,6 @@
 
 ## 中国独立案例下一优先级
 
-`Sultan's Game / 双头龙工作室 (Double Cross)` 当前应优先于继续把 Duckov 当作“中国独立游戏”扩写。公开材料把双头龙描述为新成立的 9 人独立工作室，Steam 的 developer / publisher 分别为 Double Cross / 2P Games；发行方还公开称项目几乎没有买量。它因此在**工作室所有权、外部 publisher、自然传播 / demo / 众筹路径**上，比 Bilibili 内部 Team Soda 更接近本项目要研究的中国独立生产结构。
+`Sultan's Game / 双头龙工作室 (Double Cross)` 仍是下一批最重要的纯独立中国案例。公开材料把双头龙描述为新成立的 9 人独立工作室，Steam 的 developer / publisher 分别为 Double Cross / 2P Games；发行方还公开称项目几乎没有买量。它因此在**工作室所有权、外部 publisher、自然传播 / demo / 众筹路径**上，比 Bilibili 内部 Team Soda 更接近本项目要研究的中国独立生产结构。
 
 正式升级前仍要做一次 Schema v2 的 Context–Situation–Action 与 ownership / financing / publisher-control audit，尤其核清：成员离开原公司后的 runway、2P Games 介入时间与资金/控制权、摩点众筹在开发资金中的真实作用，以及“几乎没有买量”与实际 creator / platform resources 的边界。
