@@ -20,7 +20,7 @@ last_verified: 2026-10-04
 - Research status: RESEARCHING
 - Corpus role: FAILURE COMPARATOR / INDIE-ORIGIN → INDUSTRIALIZATION TRANSITION
 - Last verified: 2026-10-04
-- Related Claims: none yet — candidate pressure case for C002/C004/C006/C009/C010/C011
+- Related Claims:
 - Evidence Ledger: [`../evidence/CASE-029-boundary-source-ledger.md`](../evidence/CASE-029-boundary-source-ledger.md)
 
 ## Why this case
