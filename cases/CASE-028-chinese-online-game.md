@@ -20,7 +20,7 @@ last_verified: 2026-10-04
 - Research status: RESEARCHING
 - Corpus role: POSITIVE CHINESE SOLO / OPC COMPARATOR
 - Last verified: 2026-10-04
-- Related Claims: none yet — candidate support for C004/C007/C009/C010/C011 after audit
+- Related Claims:
 - Evidence Ledger: [`../evidence/CASE-028-chinese-online-game-source-ledger.md`](../evidence/CASE-028-chinese-online-game-source-ledger.md)
 
 ## Why this case
