@@ -29,6 +29,7 @@
 | CASE-023 | despelote / Julián Cordero + Sebastián Valbuena | 检验小额 non-dilutive funding 如何购买 full-time runway、生成 publisher-pitch vertical slice，并接入 publisher financing / distribution | RESEARCHING |
 | CASE-024 | Escape from Duckov / Team Soda | 检验长期磨合的五人核心如何借公司外围与前作能力，通过删 multiplayer/mobile/hardcore simulation 重写 extraction 的生产成本 | RESEARCHING |
 | CASE-025 | Bills Must Be Paid / Rike Games | 检验两人工作室的七年高频失败/原型能力如何压缩进七个月 Steam 项目，以及 mobile 世界模型如何在 demo / wishlist / creator 市场接入中被修正 | RESEARCHING |
+| CASE-026 | Brigador / Stellar Jockeys | 失败 comparator：检验强产品执行为何仍可因 onboarding、market legibility、受众预期与成本—市场错位导致首发商业失败 | RESEARCHING |
 
 ## 规则
 
