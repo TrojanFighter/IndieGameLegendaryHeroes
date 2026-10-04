@@ -4,9 +4,9 @@
 
 ## 1. Case frontmatter
 
-所有 `cases/CASE-*.md` 必须以 YAML-compatible frontmatter 开头。
+所有 `cases/CASE-*.md` 建议以 YAML-compatible frontmatter 开头；Schema v2 Case 必须有 frontmatter。
 
-最小字段：
+Schema v1 的最小字段：
 
 ```yaml
 ---
@@ -21,6 +21,31 @@ narrative_value: HIGH
 last_verified: 2026-10-03
 ---
 ```
+
+从 `CASE-027` 起，新建 Case 使用 Schema v2：
+
+```yaml
+---
+type: case
+schema_version: 2
+case_id: CASE-027
+status: RESEARCHING
+subject: "Example / Studio"
+related_claims: []
+evidence_strength: MEDIUM
+explanatory_importance: HIGH
+narrative_value: HIGH
+context_audit: PENDING
+last_verified: 2026-10-04
+---
+```
+
+Schema v2 在 `metadata/cases.json` 中同时登记：
+
+- `schema_version`: `2`
+- `context_audit`: `pending` / `partial` / `complete`
+
+`CASE-001`–`CASE-026` 是历史 Schema v1 Case，不要求库运维任务批量补事实。它们应在后续专门案例研究时逐案迁移。
 
 允许的 `status`：
 
@@ -38,6 +63,18 @@ last_verified: 2026-10-03
 - `HIGH`
 
 `last_verified` 使用 `YYYY-MM-DD`；尚未真正核验时用 `null`。
+
+### Context audit
+
+`context_audit` 专门回答：**这个 Case 是否已经把关键行动放回当时的时代技术条件和作者具体处境中审计？**
+
+- `pending`：尚未专门恢复 production regime / actor situation；
+- `partial`：至少一个关键转折完成 CSA，但仍有主要缺口；
+- `complete`：主要生产转折已经完成 Context–Situation–Action 审计与时代差异检查。
+
+详细定义见 [`context-situation-action.md`](context-situation-action.md)。
+
+所有 Schema v2 Case 在进入 `REVIEW` 或 `STABLE` 前必须为 `complete`。
 
 ## 2. 三个评分必须正交
 
@@ -72,9 +109,11 @@ last_verified: 2026-10-03
 - 名气大 → Narrative Value 高；
 - Narrative Value 高 → Claim 更可能成立；
 - P0 多 → 自动 `VERIFIED`；
-- 某个 Case 证据丰富 → 自动成为全书中心。
+- 某个 Case 证据丰富 → 自动成为全书中心；
+- 年代更晚 → 技术条件必然更有利；
+- 某项技术已经存在 → 该作者当时必然可负担、可获得、会使用。
 
-评分是研究判断，必须允许后续修订。
+评分与 CSA 都是研究判断，必须允许后续修订。
 
 ## 4. Claim 元数据
 
@@ -97,9 +136,13 @@ Claims Index 的表格列固定为：
 
 不要把二者混为一个字段。
 
+`context_audit` 也不是 Evidence Strength：一个案例可能有很强的来源，却仍没有把这些来源组织成完整的时代—处境—行动审计。
+
 ## 6. Canonical rule
 
 - Case 的正文与 frontmatter 在同一个 Markdown 文件中。
+- `metadata/cases.json` 是 Case 的机器索引，不得变成第二份叙事事实源。
 - Claim 当前以 `claims/README.md` 为 canonical registry。
-- lint 只读取 canonical 文件，不维护一份手工同步的影子数据库。
+- lint 只读取 canonical 文件与机器索引，不维护一份手工同步的影子研究数据库。
 - 未来若生成网页、搜索索引、PDF、EPUB 或 AI skill，应从这些 canonical 文件派生，而不是反向成为事实源。
+- 任何 schema migration 若需要补历史事实，必须交给案例研究流程；库运维只能标记缺口，不能靠常识填充。
