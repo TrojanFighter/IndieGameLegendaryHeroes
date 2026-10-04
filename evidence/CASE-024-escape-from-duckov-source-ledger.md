@@ -170,27 +170,57 @@ Boundary:
 - gross units do not equal net revenue/profit;
 - no platform split, refund rate, regional ASP, taxes or Bilibili internal revenue allocation is disclosed.
 
+## E008 — Bilibili ownership / self-publishing / ecosystem-access evidence
+
+- Class: P0/P1/S2 — first-party platform publication + developer interview coverage + mainstream business analysis
+- Sources:
+  - Bilibili / 矩阵放映室, 2025-06-27: https://www.bilibili.com/opus/1082976785399808040
+  - 游戏日报对 Jeff 采访（Bilibili hosted copy）, 2025-07-17: https://www.bilibili.com/opus/1090386153724444675
+  - Official launch account, 2025-10-16: https://www.bilibili.com/video/BV1qmWvzrEU2/
+  - 每日经济新闻, 2025-10-24: https://www.nbd.com.cn/articles/2025-10-23/4103428.html
+
+Source-derived facts:
+- Bilibili 自有内容把 Team Soda 明确称为“B站旗下”工作室；
+- Jeff 采访报道把 Duckov 明确称为“B站自研”，并写明“将由 B站自研自发”；
+- official launch distribution includes Steam, WeGame, Epic, 蒸汽平台, Mac App Store and Bilibili 游戏中心, with bilibili as formal Steam publisher already independently confirmed by E006；
+- mainstream business coverage explicitly treats Bilibili's content/creator/community ecosystem as a market-access advantage and describes the game as B站自研项目。
+
+Supports:
+- Indie eligibility audit: Team Soda is not an external independently owned studio merely using Bilibili as an arm's-length publisher; the public production framing is corporate internal development plus corporate publishing;
+- C010: owned-media/community/distribution resources belong to the project's available market-access perimeter and must be separated from what an external indie studio could assume;
+- contributor / production boundary: small R&D headcount does not imply organizational or go-to-market independence.
+
+Boundary:
+- current public evidence supports “Bilibili internal / self-developed / self-published” much more strongly than a generic publisher relationship, but does not expose the exact legal entity/cap-table arrangement of Team Soda as a separately incorporated subsidiary or department;
+- do **not** convert structural access into an unsupported numerical claim that a specific share of wishlists or sales came from Bilibili traffic;
+- BW booth allocation, individual Bilibili video views or media impressions are not by themselves causal attribution;
+- therefore the safe conclusion is non-independence of ownership/employment/publishing perimeter and non-comparability of market access, not an audited statement such as “X% of success was bought by Bilibili traffic.”
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
 - Duckov had a five-person core R&D team;
 - the five-person core had 4–6 years of shared work and multiple prior shipped games;
-- Team Soda operated inside Bilibili, and company colleagues outside the five-person core materially handled publishing/localization/other functions;
+- Team Soda formed and operated inside Bilibili; public first-party/press descriptions frame Duckov as Bilibili self-development, and bilibili is the formal publisher;
+- company colleagues outside the five-person core materially handled publishing/localization/other functions;
 - the team deliberately cut mobile and multiplayer/network complexity;
 - product design deliberately removed major Tarkov hardcore/PvP costs while retaining extraction/progression value loops;
 - launch already had roughly 450k Steam wishlists according to the producer;
 - official sales exceeded 3 million by 2025-11-08;
-- actual performance substantially exceeded the producer's 300k/500k internal expectations.
+- actual performance substantially exceeded the producer's 300k/500k internal expectations;
+- Duckov should not be treated as a core example of an independently owned/self-financed/self-published studio path merely because its R&D core was small.
 
 ### SUPPORTED WITH BOUNDARY
 - Soda Crisis commercial underperformance influenced later team-size/scope/tool decisions;
 - extraction-category heat at launch benefited Duckov even though the project direction predated the mature boom;
-- Workshop/modding and Bilibili's corporate perimeter extend the effective production system beyond five people.
+- Workshop/modding and Bilibili's corporate perimeter extend the effective production system beyond five people;
+- Bilibili's content/community/distribution ecosystem was structurally available to the project, but the exact causal contribution to wishlists or sales is not publicly audited.
 
 ### UNKNOWN
 - exact internal budget, burn, salaries, bonus/revenue sharing and break-even point;
+- exact legal/corporate form and IP ownership allocation for Team Soda inside the wider Bilibili organization;
 - complete contributor-hours audit across Bilibili publishing/localization/QA/marketing/platform support;
 - exact wishlist acquisition funnel by channel;
 - exact sales milestones between launch and the official 3m announcement;
-- causal contribution of mods, Bilibili ecosystem exposure, Steam discovery and external creators to the right-tail outcome;
+- causal contribution of Bilibili-owned media, Steam discovery, external creators, mods and overseas organic coverage to the right-tail outcome;
 - governance details explaining how Bilibili tolerated prior failure/restructuring and preserved the small-team experiment.
