@@ -1,0 +1,70 @@
+name: 候选 Case
+description: 提议一个值得进入《独立游戏英雄传说》研究池的新开发者、团队或项目
+title: "[Case Candidate] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        候选 Case 不按知名度排队。优先看它是否能检验现有 Claim / Thesis、补时代空白、提供强反例，或揭示新的生产结构。
+  - type: input
+    id: subject
+    attributes:
+      label: Subject
+      description: 人 / 团队 / 工作室 / 游戏。
+      placeholder: Game / Developer / Studio
+    validations:
+      required: true
+  - type: input
+    id: period
+    attributes:
+      label: 主要时期
+      description: 例如 2008–2013；尽量覆盖关键决策窗口，不只写正式发售年。
+    validations:
+      required: true
+  - type: textarea
+    id: explanatory_value
+    attributes:
+      label: 为什么它有解释价值
+      description: 它能帮助回答什么“生产史”问题，而不是只说它很成功/很传奇。
+    validations:
+      required: true
+  - type: textarea
+    id: csa
+    attributes:
+      label: 初步 CSA 假说
+      description: 当时的时代技术条件 / 作者具体处境 / 关键约束 / 采取了什么动作。允许写 UNKNOWN，但不要用今天的条件倒推过去。
+      placeholder: |
+        Era / production regime:
+        Actor situation:
+        Binding constraint:
+        Action / maneuver:
+    validations:
+      required: true
+  - type: textarea
+    id: claims
+    attributes:
+      label: 可能检验的 Claim / Thesis
+      description: 现有 Cxxx、THESIS-CANDIDATES 中的命题，或明确写“可能是新结构”。
+  - type: textarea
+    id: sources
+    attributes:
+      label: 至少一个可核验来源
+      description: 优先 P0/P1/S1。没有较强来源的候选只进入发现池，不会直接正式化。
+      placeholder: |
+        - Source title — author/org — date — https://...
+    validations:
+      required: true
+  - type: textarea
+    id: comparator
+    attributes:
+      label: 对照 / 反例价值（可选）
+      description: 是否有做法相似但失败、条件相近但选择不同、或同代竞争者可比较？
+  - type: checkboxes
+    id: acknowledgement
+    attributes:
+      label: 提交前确认
+      options:
+        - label: 我没有把“成功结果”本身当成因果证据。
+          required: true
+        - label: 我理解正式 Case 仍需要独立来源核验和反例搜索。
+          required: true

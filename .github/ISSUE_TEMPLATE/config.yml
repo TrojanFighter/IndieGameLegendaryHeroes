@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 先读 WORKFLOW
+    url: https://github.com/TrojanFighter/IndieGameLegendaryHeroes/blob/main/WORKFLOW.md
+    about: 先判断这是库运维、案例研究还是书稿编辑问题。
+  - name: 研究规则 / AGENTS
+    url: https://github.com/TrojanFighter/IndieGameLegendaryHeroes/blob/main/AGENTS.md
+    about: 查看证据等级、Case/Claim 规则和防错边界。

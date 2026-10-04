@@ -1,0 +1,83 @@
+name: 新增 Evidence
+description: 给已有 Case 补一条新的可追溯来源，支持、削弱或限定现有判断
+title: "[Evidence] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        这个入口只提交“来源与它直接支持的事实”。不要把自己的解释伪装成来源原话。
+        Evidence ID 由合并时分配，不需要预占编号。
+  - type: input
+    id: case_id
+    attributes:
+      label: Case ID
+      placeholder: CASE-XXX
+    validations:
+      required: true
+  - type: input
+    id: source_title
+    attributes:
+      label: Source title
+      description: 文章、演讲、开发日志、众筹页、公司文件等的原始标题。
+    validations:
+      required: true
+  - type: input
+    id: author_org
+    attributes:
+      label: Author / organization / speaker
+    validations:
+      required: true
+  - type: input
+    id: dates
+    attributes:
+      label: Publication date / event date
+      description: 尽量用 YYYY-MM-DD；若录制/事件和发布日期不同，两者都写。
+      placeholder: Published 2013-06-03; event 2013-03-27
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: source_class
+    attributes:
+      label: 你认为的来源等级（初步）
+      description: 最终等级由研究审阅决定。
+      options:
+        - P0 — 同期一手
+        - P1 — 回顾性一手
+        - S1 — 高质量二手
+        - S2 — 普通二手 / 社区线索
+        - 不确定
+    validations:
+      required: true
+  - type: textarea
+    id: source_fact
+    attributes:
+      label: 来源直接支持什么事实
+      description: 只写来源直接能承担的事实；不要先写项目自己的因果解释。
+    validations:
+      required: true
+  - type: textarea
+    id: supports_challenges
+    attributes:
+      label: 它支持 / 削弱 / 限定什么
+      description: 可填 Evidence、Case Verdict、Claim ID、CSA Decision Unit，或“context only”。
+    validations:
+      required: true
+  - type: textarea
+    id: boundary
+    attributes:
+      label: Boundary / 这条证据不能证明什么
+      description: 回忆偏差、样本、时间口径、PR 自述、金额口径等限制。
+    validations:
+      required: true
+  - type: textarea
+    id: archive
+    attributes:
+      label: Archive / backup / timecode（可选）
+      description: Wayback、视频 timecode、PDF 页码、备用镜像等。

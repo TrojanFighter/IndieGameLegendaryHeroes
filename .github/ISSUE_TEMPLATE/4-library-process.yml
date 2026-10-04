@@ -1,0 +1,52 @@
+name: 库流程 / 工具问题
+description: 报告 schema、metadata、lint、CI、README、Explorer、source health 或 build 问题
+title: "[Library Ops] "
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: 影响区域
+      options:
+        - Schema / metadata
+        - Lint / CI
+        - README / navigation
+        - Case Explorer / search
+        - Source health
+        - Build / release
+        - Workflow / handoff
+        - 其他
+    validations:
+      required: true
+  - type: textarea
+    id: current
+    attributes:
+      label: 当前行为
+      description: 现在发生了什么？最好给文件路径、日志或最小复现。
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: 期望行为
+      description: 希望系统保证什么，而不是只写“修好”。
+    validations:
+      required: true
+  - type: textarea
+    id: recurrence
+    attributes:
+      label: 是否是重复故障
+      description: 第一次发生、已经发生多次、还是已经有规则但仍会漏？这决定它该人工修、写规则、做工具还是进 CI。
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 相关日志 / PR / commit / 文件
+      description: 可选。
+  - type: checkboxes
+    id: lane
+    attributes:
+      label: Lane A 边界确认
+      options:
+        - label: 这个 issue 不要求在库运维任务里自行补历史事实或改变案例结论。
+          required: true

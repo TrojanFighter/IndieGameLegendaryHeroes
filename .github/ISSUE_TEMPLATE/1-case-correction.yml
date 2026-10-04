@@ -1,0 +1,74 @@
+name: Case 纠错
+description: 修正已有 Case / Evidence / Claim 中的具体事实、口径或时代条件
+title: "[Correction] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        用于已有正式案例的纠错。请尽量把“哪里错了”和“证据是什么”分开写。
+        如果只是提出一个新案例，请使用“候选 Case”。
+  - type: input
+    id: case_id
+    attributes:
+      label: Case ID
+      description: 例如 CASE-012。若问题只涉及 Claim，也请写最相关 Case；确实没有则写 N/A。
+      placeholder: CASE-XXX
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: 具体位置
+      description: 文件路径、章节、Evidence ID 或 Claim ID。
+      placeholder: cases/CASE-012-kenshi.md / E004 / C010
+    validations:
+      required: true
+  - type: textarea
+    id: current_statement
+    attributes:
+      label: 当前说法
+      description: 抄出或准确概括你认为需要修正的那一句/那一段。
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: 问题是什么
+      description: 说明是事实错误、时间口径、团队口径、资金口径、时代条件、因果外推，还是来源已经失效。
+    validations:
+      required: true
+  - type: textarea
+    id: proposed_correction
+    attributes:
+      label: 建议修正
+      description: 如果你有更准确的表述，请写出；没有可写 UNKNOWN。
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: 依据 / 来源
+      description: 优先 P0/P1/S1。请给标题、作者/机构、日期、URL；若有同期来源尤其注明。
+      placeholder: |
+        - Source title — author/org — YYYY-MM-DD — https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: impact
+    attributes:
+      label: 可能影响范围
+      options:
+        - 只影响单条事实
+        - 影响 Case Verdict
+        - 影响 CSA / 时代—处境—行动解释
+        - 可能影响现有 Claim
+        - 不确定
+    validations:
+      required: true
+  - type: textarea
+    id: conflicts
+    attributes:
+      label: 已知冲突或替代解释
+      description: 如果其他来源给出不同版本，请一并列出。没有可写“无”。
+    validations:
+      required: true

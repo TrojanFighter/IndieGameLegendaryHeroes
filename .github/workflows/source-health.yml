@@ -1,0 +1,50 @@
+name: source-health
+
+on:
+  schedule:
+    - cron: '0 3 * * 1'
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'tools/check_source_health.py'
+      - 'schemas/source-health.md'
+      - '.github/workflows/source-health.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  source-health:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate URL extraction on PR
+        if: github.event_name == 'pull_request'
+        run: python tools/check_source_health.py --list-only
+
+      - name: Run live source health check
+        if: github.event_name != 'pull_request'
+        run: |
+          python tools/check_source_health.py \
+            --json-out source-health.json \
+            --markdown-out source-health.md
+
+      - name: Add report to workflow summary
+        if: github.event_name != 'pull_request'
+        run: cat source-health.md >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Upload source health report
+        if: github.event_name != 'pull_request'
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-health-report
+          path: |
+            source-health.json
+            source-health.md
+          retention-days: 30
