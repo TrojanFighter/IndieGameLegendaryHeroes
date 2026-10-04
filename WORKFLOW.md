@@ -28,3 +28,16 @@ Issue 只是 intake，不自动成为 canonical fact。进入 Case / Evidence / 
 外部来源可达性由 [`tools/check_source_health.py`](tools/check_source_health.py) 与每周 workflow 维护。状态定义与边界见 [`schemas/source-health.md`](schemas/source-health.md)。
 
 Source Health **不阻断 merge，也不自动修改 Evidence**。404/410、重定向、访问受限和临时网络故障只作为维护信号；来源内容是否仍然支持原 Evidence，仍需人工 / Lane B 复核。
+
+## Case Explorer
+
+[`explorer/index.html`](explorer/index.html) 是研究 corpus 的只读浏览视图。它运行时直接读取：
+
+- `metadata/cases.json`
+- `metadata/claims.json`
+
+不维护第二份 Case / Claim 事实。当前支持搜索、tags、research status、explanatory importance、Contributor audit、Market-access audit、CSA 状态与 Claim 关系。
+
+本地使用与 v0 边界见 [`explorer/README.md`](explorer/README.md)。当前不为了 UI 完整而给 Schema v1 老案例补 CSA；`CASE-001`～`CASE-026` 未迁移时显示 `legacy-v1`。
+
+Explorer 依赖的 metadata contract 由 [`tools/explorer_lint.py`](tools/explorer_lint.py) 在 CI 中检查；UI 不得硬编码 CASE ID 形成第二份手工数据库。
