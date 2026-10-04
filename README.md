@@ -11,8 +11,8 @@
 
 当前仓库已经形成：
 
-- **26 个正式 Case**，从 FTL、Rocket League、Kenshi、Minecraft、Among Us 到 Roblox creator cluster、Escape from Tarkov、despelote、《逃离鸭科夫》、Bills Must Be Paid 与 Brigador；
-- **26 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **30 个正式 Case**，从 FTL、Rocket League、Kenshi、Minecraft、Among Us 到 Roblox creator cluster、Escape from Tarkov、despelote、《逃离鸭科夫》、Bills Must Be Paid、Brigador，以及新增的《戴森球计划》《中国式网游》《边境》《重装前哨》中国对照组；
+- **30 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **12 个跨案例 Claim**，检验 runway、能力资本、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》。
@@ -26,28 +26,30 @@
 | 你想知道…… | 建议先读 |
 |---|---|
 | **没钱的人到底怎么把游戏做出来？** | [Kenshi](cases/CASE-012-kenshi.md) · [FTL](cases/CASE-001-ftl.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [Stardew Valley](cases/CASE-004-stardew-valley.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) |
-| **“一个人做游戏”到底有多真？** | [Papers, Please](cases/CASE-003-papers-please.md) · [RollerCoaster Tycoon](cases/CASE-018-rollercoaster-tycoon.md) · [Schedule I](cases/CASE-019-schedule-i.md) · [Kenshi](cases/CASE-012-kenshi.md) |
+| **“一个人做游戏”到底有多真？** | [Papers, Please](cases/CASE-003-papers-please.md) · [RollerCoaster Tycoon](cases/CASE-018-rollercoaster-tycoon.md) · [Schedule I](cases/CASE-019-schedule-i.md) · [Kenshi](cases/CASE-012-kenshi.md) · [中国式网游](cases/CASE-028-chinese-online-game.md) |
 | **失败前作是不是白做了？** | [Rocket League](cases/CASE-002-rocket-league.md) · [R.E.P.O.](cases/CASE-006-repo.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) |
 | **好游戏为什么仍然可能卖不动？** | [Brigador](cases/CASE-026-brigador.md) · [Among Us](cases/CASE-017-among-us.md) |
 | **上班养游戏、接活养原创，真的能成立吗？** | [Kenshi](cases/CASE-012-kenshi.md) · [early id Software](cases/CASE-016-early-id-software.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [Rocket League](cases/CASE-002-rocket-league.md) |
 | **众筹到底解决什么，不解决什么？** | [FTL](cases/CASE-001-ftl.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) · [Project Wingman](cases/CASE-009-project-wingman.md) |
 | **Early Access / 付费 Alpha 怎样变成生产资本？** | [Minecraft](cases/CASE-014-minecraft.md) · [Kenshi](cases/CASE-012-kenshi.md) · [Schedule I](cases/CASE-019-schedule-i.md) |
 | **“首款成功”之前其实练了多少年？** | [Lethal Company](cases/CASE-011-lethal-company.md) · [Dream Quest](cases/CASE-008-dream-quest.md) · [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) |
-| **发行商、孵化器和 grant 什么时候真正有用？** | [despelote](cases/CASE-023-despelote.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) |
+| **发行商、孵化器和 grant 什么时候真正有用？** | [despelote](cases/CASE-023-despelote.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) · [Dyson Sphere Program](cases/CASE-027-dyson-sphere-program.md) |
 | **为什么有的游戏发行时没爆，后来却突然爆了？** | [Among Us](cases/CASE-017-among-us.md) · [Brigador](cases/CASE-026-brigador.md) |
-| **小团队怎样挑战成熟大厂品类？** | [Project Wingman](cases/CASE-009-project-wingman.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) |
+| **小团队怎样挑战成熟大厂品类？** | [Project Wingman](cases/CASE-009-project-wingman.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Dyson Sphere Program](cases/CASE-027-dyson-sphere-program.md) |
+| **“小团队”就一定是独立游戏吗？** | [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Boundary](cases/CASE-029-boundary.md) · [Outpost: Infinity Siege](cases/CASE-030-outpost-infinity-siege.md) |
+| **中国商业游戏老手离开原制度后，会保留什么、又该扔掉什么？** | [Dyson Sphere Program](cases/CASE-027-dyson-sphere-program.md) · [Boundary](cases/CASE-029-boundary.md) · [Outpost: Infinity Siege](cases/CASE-030-outpost-infinity-siege.md) · [中国式网游](cases/CASE-028-chinese-online-game.md) |
 | **平台本身能不能把玩家训练成开发者？** | [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
 | **成功以后，第一次成功怎样改变第二作？** | [Into the Breach](cases/CASE-020-into-the-breach.md) |
-| **错误的平台经验会不会反过来害你？** | [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) · [跨案例 Claim C009](claims/README.md) |
+| **错误的平台经验会不会反过来害你？** | [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) · [Outpost: Infinity Siege](cases/CASE-030-outpost-infinity-siege.md) · [跨案例 Claim C009](claims/README.md) |
 | **所谓“纯靠天才 / 纯靠运气 / 零营销”哪里不对？** | [跨案例综合](claims/CROSS-CASE-READINGS.md) · [Claims Index](claims/README.md) |
 
 想先读“故事版”而不是研究档案：进入 **[`book/`](book/)**。当前样板包括 [`Kenshi`](book/profiles/kenshi.md)、[`Rocket League`](book/profiles/rocket-league.md)、[`Bills Must Be Paid`](book/profiles/bills-must-be-paid.md)、[`品味决定命运：Gunpoint 的 Tom Francis`](book/profiles/gunpoint.md) 与 [`FTL`](book/profiles/ftl.md)。
 
 ---
 
-## 26 个正式案例
+## 30 个正式案例
 
-这些 Case 是研究后台的正式档案。Case ID 用于审计，不代表推荐阅读顺序。
+这些 Case 是研究后台的正式档案。Case ID 用于审计，不代表推荐阅读顺序；少量 `NON-INDIE COMPARATOR` 会保留正式编号用于比较生产制度，但不得因此被包装成“独立英雄”。
 
 | Case | Subject | 它主要让我们看见什么 |
 |---|---|---|
@@ -74,11 +76,15 @@
 | [CASE-021](cases/CASE-021-roblox-creator-cluster.md) | **Roblox Creator Cluster** | 学习、出货、收入、就业与 studio formation 被压进一个平台 |
 | [CASE-022](cases/CASE-022-escape-from-tarkov-lineage.md) | **Escape from Tarkov / Contract Wars → Battlestate** | 商业前置项目如何积累技术、团队、现金流与市场资格 |
 | [CASE-023](cases/CASE-023-despelote.md) | **despelote** | incubator、文化资金、bridge grant、vertical slice、publisher fit |
-| [CASE-024](cases/CASE-024-escape-from-duckov.md) | **Escape from Duckov / Team Soda** | 五人核心≠五人总 production；砍范围重写 extraction 成本结构 |
+| [CASE-024](cases/CASE-024-escape-from-duckov.md) | **Escape from Duckov / Team Soda** | `NON-INDIE COMPARATOR`：小核心≠独立所有权；公司工资、发行与流量外围如何改变可复制性 |
 | [CASE-025](cases/CASE-025-bills-must-be-paid.md) | **Bills Must Be Paid / Rike Games** | 七年 mobile/web 失败与高频原型能力压缩进七个月项目；demo / Steam market model course correction |
 | [CASE-026](cases/CASE-026-brigador.md) | **Brigador / Stellar Jockeys** | 强产品执行仍可被 onboarding、market legibility、受众预期与成本—市场错位击穿 |
+| [CASE-027](cases/CASE-027-dyson-sphere-program.md) | **Dyson Sphere Program / Youthcat Studio** | 中国正例：资深商业开发者把能力资本压进五人、自筹、风险前置、低核心组织的独立生产结构 |
+| [CASE-028](cases/CASE-028-chinese-online-game.md) | **中国式网游 / 648工作室** | 中国正例：solo/part-time 用 representation-cost redefinition 模拟网游体验；职业前史仍 UNKNOWN |
+| [CASE-029](cases/CASE-029-boundary.md) | **Boundary / Surgical Scalpels Studio** | 真实 indie origin 如何逐步吸收平台扶持、融资、股权资本与数十人组织并走向工业化 |
+| [CASE-030](cases/CASE-030-outpost-infinity-siege.md) | **Outpost: Infinity Siege / Team Ranger** | 中国反例：公司内部小团队把商业手游留存/时长/数据与资源扩张逻辑带进 premium 产品 |
 
-完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 继续从 backlog 中按证据与解释价值升级，而不是按知名度排队。
+完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 继续从 backlog 中按证据与解释价值升级，而不是按知名度排队。《苏丹的游戏》仍是下一批中国真正独立样本的高优先级候选。
 
 ---
 
@@ -98,7 +104,7 @@
 - **Luck**：团队无法控制但实质改变结果的事件；
 - **Transfer / Non-transfer**：什么值得学，什么只是这个人恰好拥有。
 
-例如，“solo dev”不会自动被解释成一个人包办代码、美术、音乐、QA、市场、移植与商务；“零营销”也不会被解释成“没有任何市场接入”。
+例如，“solo dev”不会自动被解释成一个人包办代码、美术、音乐、QA、市场、移植与商务；“零营销”也不会被解释成“没有任何市场接入”；同样，“五六个人开发”不会自动被解释成资本、所有权和发行意义上的 independent studio。
 
 研究宪法与完整防错规则见 [`AGENTS.md`](AGENTS.md)。
 
@@ -140,11 +146,11 @@
 
 截至 2026-10-04：
 
-- 26 个正式 Case 已建档；
-- 26 个对应 Case Evidence Ledger 已建立；
+- 30 个正式 Case 已建档；
+- 30 个对应 Case Evidence Ledger 已建立；
 - 12 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 当前为 `SUPPORTED`；
-- CASE-021 Roblox creator cluster、CASE-022 Tarkov lineage、CASE-023 despelote、CASE-024 Escape from Duckov、CASE-025 Bills Must Be Paid、CASE-026 Brigador 已进入主案例序列；
-- CASE-026 是第一例正式以 **failure comparator** 为中心编号的 Case，用来检验 `product quality ≠ market legibility ≠ commercial fit`；
+- CASE-027–030 首次形成正式的“中国生产制度对照组”：两个正向独立/OPC 样本 + 一个 indie-origin→industrialization 过渡样本 + 一个 corporate internal negative comparator；
+- CASE-026 仍是第一例正式以 **failure comparator** 为中心编号的 Case；
 - `book/` 已有 Kenshi、Rocket League、Bills Must Be Paid、Gunpoint、FTL 五篇 profile；Taste Capital 已进入定向正例/反例审计阶段。
 
 研究状态以 [`cases/BACKLOG.md`](cases/BACKLOG.md)、各 Case / Evidence Ledger 与 [`claims/README.md`](claims/README.md) 为准；README 只做项目级导航，不替代正式档案。
