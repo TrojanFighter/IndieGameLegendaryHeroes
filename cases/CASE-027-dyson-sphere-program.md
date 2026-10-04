@@ -20,7 +20,7 @@ last_verified: 2026-10-04
 - Research status: RESEARCHING
 - Corpus role: POSITIVE CHINESE INDIE / INDUSTRY-VETERAN MICRO-STUDIO
 - Last verified: 2026-10-04
-- Related Claims: none yet — candidate support for C003/C004/C006/C007/C010/C011 after audit
+- Related Claims:
 - Evidence Ledger: [`../evidence/CASE-027-dyson-sphere-program-source-ledger.md`](../evidence/CASE-027-dyson-sphere-program-source-ledger.md)
 
 ## Why this case
