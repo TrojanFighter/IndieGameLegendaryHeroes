@@ -40,6 +40,10 @@
 
 ## Checks
 
+- [ ] 已按 `docs/public-research-boundary.md` 检查新增 commits 与提交消息
+- [ ] 无私人项目作为案例、竞品、语料来源或应用目标；无匿名化的私人执行、预算、人员或设计信息
+- [ ] 需判断的词已核对上下文；公开 PR 未粘贴私有词表或命中原文
+
 - [ ] `python tools/research_lint.py --strict`
 - [ ] `python tools/research_evidence_lint.py`
 - [ ] `python tools/context_audit_lint.py`

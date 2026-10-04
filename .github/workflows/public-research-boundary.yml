@@ -1,0 +1,42 @@
+name: public-research-boundary
+
+on:
+  pull_request_target:
+    types: [opened, synchronize, reopened, ready_for_review]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  private-content-guard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      # Secrets only reach the scanner from the trusted base. Never checkout,
+      # import or execute code from the proposed branch.
+      - uses: actions/checkout@v4
+        with:
+          ref: ${{ github.event.pull_request.base.sha || github.sha }}
+          fetch-depth: 0
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Inspect proposed snapshots using the trusted scanner
+        env:
+          PRIVATE_CONTENT_RULES: ${{ secrets.PRIVATE_CONTENT_RULES }}
+          BASE_SHA: ${{ github.event.pull_request.base.sha }}
+          HEAD_SHA: ${{ github.event.pull_request.head.sha }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          EVENT_NAME: ${{ github.event_name }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          if [ "$EVENT_NAME" = pull_request_target ]; then
+            git fetch --no-tags origin "refs/pull/$PR_NUMBER/head"
+            test "$(git rev-parse FETCH_HEAD)" = "$HEAD_SHA"
+            python tools/private_content_guard.py --range "$BASE_SHA..$HEAD_SHA"
+          else
+            python tools/private_content_guard.py --tree HEAD
+          fi

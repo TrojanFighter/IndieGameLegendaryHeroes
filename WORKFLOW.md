@@ -117,6 +117,8 @@ http://localhost:8000/explorer/
 
 ## PR 交接
 
+公开研究隔离规则、本地提交/推送检查和 GitHub 门禁设置见 [公开研究与私人项目隔离](docs/public-research-boundary.md)。每次 PR 必须检查私人信息的上下文映射，自动词表检查不能代替语义审阅。
+
 新 PR 默认使用 [`.github/pull_request_template.md`](.github/pull_request_template.md)。
 
 模板的作用不是增加审批负担，而是把已经反复出现的三件事显性化：
