@@ -3,7 +3,7 @@ type: case
 case_id: CASE-026
 status: RESEARCHING
 subject: Brigador / Stellar Jockeys
-related_claims: [C002, C004, C007, C009, C010, C011]
+related_claims: [C010]
 evidence_strength: MEDIUM
 explanatory_importance: CRITICAL
 narrative_value: HIGH
@@ -14,7 +14,7 @@ tags: [failure-comparator, self-funded, custom-engine, long-development, market-
 
 - Status: RESEARCHING — FAILURE COMPARATOR
 - Subject: Brigador / Stellar Jockeys
-- Related Claims: C002, C004, C007, C009, C010, C011
+- Related Claims: C010
 - Evidence Ledger: [`../evidence/CASE-026-brigador-source-ledger.md`](../evidence/CASE-026-brigador-source-ledger.md)
 
 ## Why this case
