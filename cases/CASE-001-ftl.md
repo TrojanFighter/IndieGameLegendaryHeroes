@@ -2,7 +2,7 @@
 type: case
 case_id: CASE-001
 status: RESEARCHING
-subject: FTL: Faster Than Light / Subset Games
+subject: "FTL: Faster Than Light / Subset Games"
 related_claims: [C001, C002, C003, C004, C006, C008, C010, C011]
 evidence_strength: MEDIUM
 explanatory_importance: HIGH
