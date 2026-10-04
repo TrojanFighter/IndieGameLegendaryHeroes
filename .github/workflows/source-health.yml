@@ -4,6 +4,14 @@ on:
   schedule:
     - cron: '0 3 * * 1'
   workflow_dispatch:
+  push:
+    branches:
+      - main
+    paths:
+      - 'evidence/**'
+      - 'tools/check_source_health.py'
+      - 'schemas/source-health.md'
+      - '.github/workflows/source-health.yml'
   pull_request:
     paths:
       - 'tools/check_source_health.py'

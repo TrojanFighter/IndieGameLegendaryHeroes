@@ -25,7 +25,14 @@ Issue 只是 intake，不自动成为 canonical fact。进入 Case / Evidence / 
 
 ## Source Health
 
-外部来源可达性由 [`tools/check_source_health.py`](tools/check_source_health.py) 与每周 workflow 维护。状态定义与边界见 [`schemas/source-health.md`](schemas/source-health.md)。
+外部来源可达性由 [`tools/check_source_health.py`](tools/check_source_health.py) 与 Source Health workflow 维护。状态定义与边界见 [`schemas/source-health.md`](schemas/source-health.md)。
+
+Live check 会在两种情况下运行：
+
+- 每周一的定时维护；
+- `main` 上 `evidence/**`、Source Health 脚本 / schema / workflow 发生变化后。
+
+PR 阶段只做 URL extraction smoke test，不主动访问外站。
 
 Source Health **不阻断 merge，也不自动修改 Evidence**。404/410、重定向、访问受限和临时网络故障只作为维护信号；来源内容是否仍然支持原 Evidence，仍需人工 / Lane B 复核。
 
@@ -52,6 +59,18 @@ Explorer 依赖的 metadata contract 由 [`tools/explorer_lint.py`](tools/explor
 - 标准 Markdown links 优先于大量 `[[wikilink]]`；
 - 不为 Dataview / Bases 人工复制 `metadata/*.json`；
 - 暂不引入 Obsidian 插件作为仓库读取前提。
+
+## Repository Hygiene
+
+[`branch-hygiene.yml`](.github/workflows/branch-hygiene.yml) 在 `main` 每次更新后清理已经完全合并且没有 open PR 的 `chatgpt/*` 分支。
+
+它只处理同时满足以下条件的分支：
+
+1. 分支名以 `chatgpt/` 开头；
+2. 所有提交已经进入 `main`；
+3. 当前没有 open PR 使用该分支。
+
+这解决 merged working branches 的积累问题，但**不等价于 main branch protection**。分支保护 / ruleset 仍属于 GitHub repository-admin 设置，应单独开启 required PR + `research-lint`，而不是依赖 workflow 模拟。
 
 ## Lane A 常用维护命令
 
@@ -94,7 +113,7 @@ http://localhost:8000/explorer/
 
 ### 手动 Source Health
 
-常规健康检查由每周 GitHub Actions 执行。需要本地排查时，优先查看 `tools/check_source_health.py --help`，不要把网络失败直接写回 Evidence 的 verification status。
+常规健康检查由 GitHub Actions 执行。需要本地排查时，优先查看 `tools/check_source_health.py --help`，不要把网络失败直接写回 Evidence 的 verification status。
 
 ## PR 交接
 
