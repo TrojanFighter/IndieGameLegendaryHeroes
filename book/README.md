@@ -64,6 +64,8 @@ Case 可以枯燥、重复、结构化。
 
 这些条目不是正式 Claim；没有达到正例、反例与证据门槛前，不得写成“研究已经证明”。
 
+第一轮定向审计见 [`research-notes/taste-capital-audit-001.md`](research-notes/taste-capital-audit-001.md)：它把 Papers, Please / Into the Breach / Dream Quest 与 Artifact / Brigador 反压力候选放进同一个可证伪框架。
+
 ---
 
 ## 当前文章
@@ -74,6 +76,7 @@ Case 可以枯燥、重复、结构化。
 - [`Rocket League：一家公司怎样靠替别人做游戏，养出自己的游戏`](profiles/rocket-league.md) — 组织级 runway：work-for-hire → SARPBC capability prototype → 多年 refinement → Rocket League。对应 [`CASE-002`](../cases/CASE-002-rocket-league.md) 与 [`Evidence Ledger`](../evidence/CASE-002-rocket-league-source-ledger.md)。
 - [`Bills Must Be Paid：七个月爆款之前，是七年和一百个原型`](profiles/bills-must-be-paid.md) — 高频失败资本：mobile publisher 原型训练 → 自发行 / browser 生存 → Steam learning bridge → demo / market-access course correction。对应 [`CASE-025`](../cases/CASE-025-bills-must-be-paid.md) 与 [`Evidence Ledger`](../evidence/CASE-025-bills-must-be-paid-source-ledger.md)。
 - [`品味决定命运：Gunpoint 的 Tom Francis`](profiles/gunpoint.md) — taste capital：九年游戏评论/比较 → unusual-idea selection → 体验抽象 → 规则压缩 → scope deletion → prototype/test。对应 [`CASE-007`](../cases/CASE-007-gunpoint.md) 与 [`Evidence Ledger`](../evidence/CASE-007-gunpoint-source-ledger.md)。
+- [`FTL：不是先赌上一切，而是先买几个月试错`](profiles/ftl.md) — staged commitment：职业能力 → 储蓄购买有限试错窗口 → prototype → 竞赛/同行验证 → 逐级加码 → Kickstarter。对应 [`CASE-001`](../cases/CASE-001-ftl.md) 与 [`Evidence Ledger`](../evidence/CASE-001-ftl-source-ledger.md)。
 
 当前 `book/` 仍处于 bootstrap。这里不会为了“看起来像一本书”而一次性生成所有案例文章；只有当一个 Case 的关键事实、边界与 Evidence 足够稳定时，才升级成 profile。
 
@@ -86,7 +89,7 @@ Case 可以枯燥、重复、结构化。
 ### 1. 先活下来
 工资、储蓄、伴侣收入、低生活成本、服务业务、众筹、grant 和前作收入怎样购买开发时间。
 
-候选：FTL、Kenshi、Gunpoint、Stardew Valley、Hollow Knight、despelote、Bills Must Be Paid。
+当前正文已经出现三种明显不同的 runway 结构：Kenshi 的工资/极低 burn、Rocket League 的 work-for-hire、FTL 的 savings-funded bounded experiment。后续继续看 Stardew Valley、Hollow Knight、despelote 等。
 
 ### 2. 你不是从项目创建日才开始成为开发者
 mod、UGC、学生项目、职业工作、失败前作、工具、旧代码、评论/分析经验与社群如何构成能力资本。
@@ -96,7 +99,7 @@ mod、UGC、学生项目、职业工作、失败前作、工具、旧代码、�
 ### 3. 品味决定命运
 当执行资源有限时，长期比较、显性偏好、问题选择、体验抽象与 scope deletion 如何决定有限产能究竟被投向什么。这里的“品味”不是审美身份，而是**选择什么值得做、什么不值得做，并愿意让 prototype 反驳自己的能力**。
 
-当前核心：Gunpoint / Tom Francis。后续需要主动寻找反例与第二、第三个强案例，避免把个人传奇直接升级为普遍规律。研究门槛见 [`THESIS-CANDIDATES.md`](THESIS-CANDIDATES.md) 与 [`AC-005`](../author-corpus/AC-005-taste-capital-and-selection.md)。
+当前核心锚点仍是 Gunpoint / Tom Francis。第一轮定向审计把 Papers, Please 与 Into the Breach 提升为 strong positive candidates，Dream Quest 保留为 positive candidate；Artifact / Richard Garfield 与 Brigador 则进入反压力池。TC-001 在完成至少一个强反例审计之前不升级正式 Claim。
 
 ### 4. 先做一个能活的前身
 失败前作、work-for-hire、staging project 和商业练兵产品怎样给梦想项目积累技术、团队、IP、社区或现金流。
@@ -106,7 +109,7 @@ mod、UGC、学生项目、职业工作、失败前作、工具、旧代码、�
 ### 5. 不要复制大公司的成本结构
 小团队怎样通过系统抽象、表现约束、单机化、低内容成本或重新定义品类问题，做出原本超出人力边界的游戏。
 
-候选：Gunpoint、Papers, Please、Dwarf Fortress、Rise of the White Sun、Project Wingman、Escape from Duckov、Bills Must Be Paid。
+候选：Gunpoint、Papers, Please、FTL、Dwarf Fortress、Rise of the White Sun、Project Wingman、Escape from Duckov、Bills Must Be Paid。
 
 ### 6. 当玩家开始给生产系统供血
 付费 Alpha、Early Access、众筹、社区与发行渠道何时从“营销”变成生产资本。
@@ -116,7 +119,7 @@ mod、UGC、学生项目、职业工作、失败前作、工具、旧代码、�
 ### 7. 运气到来的时候，你还活着
 Among Us 式延迟爆发、Twitch/Drops、平台推荐、主播、媒体事件与时代窗口：右尾事件如何改变结果，但为什么不能拿它解释此前所有生产决策。
 
-候选：Among Us、Tarkov、Lethal Company、Minecraft、Bills Must Be Paid。
+候选：Among Us、Tarkov、Lethal Company、Minecraft、Bills Must Be Paid、FTL 的 Kickstarter 超额反应。
 
 ### 8. 第一次成功之后
 成功如何购买时间、组织、低 burn、第二作试错权；又怎样制造新的复杂度和成本。
@@ -129,10 +132,12 @@ Among Us 式延迟爆发、Twitch/Drops、平台推荐、主播、媒体事件�
 
 按现有证据成熟度与叙事价值，优先考虑：
 
-1. **FTL** — runway、地理成本与众筹神话；
-2. **Escape from Tarkov** — Contract Wars 作为 staging project；
-3. **despelote** — incubator / grant / publisher vertical slice 的资本梯子；
-4. **Roblox creator cluster** — 不写单一英雄，而写“一个生态怎样批量制造开发者”；
-5. **Among Us** — 发行后长期低迷与右尾爆发，适合检验“运气到来时还活着”。
+1. **Escape from Tarkov** — Contract Wars 作为 staging project；
+2. **despelote** — incubator / grant / publisher vertical slice 的资本梯子；
+3. **Roblox creator cluster** — 不写单一英雄，而写“一个生态怎样批量制造开发者”；
+4. **Among Us** — 发行后长期低迷与右尾爆发，适合检验“运气到来时还活着”；
+5. **Papers, Please** — 现在不仅适合写 scope / capability，也成为 taste-capital 的第二条强证据线。
+
+同时优先完成 **Brigador failure/comparator audit**，因为 book layer 不能只增长赢家样本。
 
 每次升级前仍以对应 Case / Evidence Ledger 的最新状态为准。
