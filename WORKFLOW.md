@@ -41,3 +41,58 @@ Source Health **不阻断 merge，也不自动修改 Evidence**。404/410、重�
 本地使用与 v0 边界见 [`explorer/README.md`](explorer/README.md)。当前不为了 UI 完整而给 Schema v1 老案例补 CSA；`CASE-001`～`CASE-026` 未迁移时显示 `legacy-v1`。
 
 Explorer 依赖的 metadata contract 由 [`tools/explorer_lint.py`](tools/explorer_lint.py) 在 CI 中检查；UI 不得硬编码 CASE ID 形成第二份手工数据库。
+
+## Lane A 常用维护命令
+
+### 完整本地检查
+
+```bash
+python tools/research_lint.py --strict
+python tools/research_evidence_lint.py
+python tools/context_audit_lint.py
+python tools/reader_layer_lint.py
+python tools/explorer_lint.py
+```
+
+不要因为某项检查失败就放宽规则；先判断是 canonical 数据错、派生数据漂移，还是工具本身需要修正。
+
+### 刷新派生统计
+
+`metadata/research-stats.json` 不是独立事实源，而是从 `metadata/cases.json` 与 `metadata/claims.json` 计算出的 snapshot。
+
+当 Case / Claim 数量、状态或评级变化后运行：
+
+```bash
+python tools/research_lint.py --write-stats
+python tools/research_lint.py --strict
+```
+
+不要手工重算 `research-stats.json`；CI 会拒绝 stale snapshot。
+
+### 本地打开 Case Explorer
+
+```bash
+python -m http.server 8000
+```
+
+然后访问：
+
+```text
+http://localhost:8000/explorer/
+```
+
+### 手动 Source Health
+
+常规健康检查由每周 GitHub Actions 执行。需要本地排查时，优先查看 `tools/check_source_health.py --help`，不要把网络失败直接写回 Evidence 的 verification status。
+
+## PR 交接
+
+新 PR 默认使用 [`.github/pull_request_template.md`](.github/pull_request_template.md)。
+
+模板的作用不是增加审批负担，而是把已经反复出现的三件事显性化：
+
+1. 这次属于哪条 Lane；
+2. 是否改变 canonical facts；
+3. 哪些问题明确留给下一条 Lane / 后续任务。
+
+一个 PR 原则上只承担一条 Lane。跨 Lane 不是禁止，但必须说明为什么不能拆分。
