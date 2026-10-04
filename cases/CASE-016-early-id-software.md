@@ -1,26 +1,45 @@
 # CASE-016 — Early id Software / Commander Keen
 
 - Status: RESEARCHING
-- Subject: Early id Software / Commander Keen → id Software
+- Subject: Early id Software / Commander Keen → Wolfenstein 3D → DOOM
 - Related Claims: C002, C003, C004, C005, C007, C010, C011
 
 ## Why this case
 
-Early id 是《独立游戏英雄传说》需要的历史基准：在 Steam、Unity、Kickstarter 之前，一群高度专业化的小团队成员已经用**日间商业工作 + 夜间原创 + 技术突破 + shareware 分发**重构过游戏生产条件。
+Early id 是《独立游戏英雄传说》需要的历史基准：在 Steam、Unity、Kickstarter 之前，一群高度专业化的小团队成员已经用**日间商业工作 + 夜间原创 + 高频出货 + 技术突破 + shareware 分发**重构过游戏生产条件。
 
-本案不是为了证明“今天照抄 shareware 就行”，而是研究一个更一般的问题：**当行业标准产品规模与你的资源不匹配时，能否改变产品长度、生产节拍、分发方式和现金回流周期？**
+但只停在 Commander Keen 会漏掉更重要的第二阶段：**独立之后怎么办？** Keen 解决的是“如何购买组织独立”；Wolfenstein 3D 与 DOOM 则展示了同一小团队如何把现金流继续兑换成更强的工具链、更高的产品规格、更直接的分发控制，以及最终更复杂的组织冲突。
+
+本案因此正式把研究范围从 Keen 延伸到 DOOM。不是为了证明“今天照抄 shareware 就行”，而是研究一个更一般的问题：**当行业标准产品规模与你的资源不匹配时，能否同时改变产品长度、生产节拍、工具链、分发方式、社区边界和现金回流周期？**
+
+## Why *Masters of Doom* / 《DOOM启示录》 Matters
+
+David Kushner 的 *Masters of Doom*（2003）应当作为本案的重要**叙事脊柱**录入，而不是当作不可质疑的唯一事实源。
+
+它的价值在于把通常被拆散的变量放回同一条时间线上：
+- Carmack / Romero 的能力前史与互补分工；
+- Softdisk 的职业训练和 moonlighting；
+- Keen / Wolfenstein / DOOM / Quake 的技术递进；
+- Apogee / shareware / direct orders 的商业结构；
+- 小团队高自主性与内部冲突如何同时增长；
+- 从“几个高度互补的人”到“公司必须形成制度”的转折；
+- 成功之后，创始人目标分化如何成为新的组织成本。
+
+但本项目禁止把一本强叙事非虚构作品直接升级为全部事实的最高证据。具体数字、合同、时间线和争议事件要继续用同期材料、第一人称回忆和多方来源交叉验证。2023 年 Romero 的 *DOOM Guy* 与同期/后来的直接访谈，尤其适合作为补充与纠偏层。
 
 ## Myth
 
-> 几个天才躲在房间里写出 Commander Keen，然后自然成为 id Software。
+> 几个天才躲在房间里写出 Commander Keen，然后自然一路做成 DOOM。
 
-现有一手/口述史显示，真正的前史包含：
+现有一手/同期口述史显示，真正的生产链包含：
 - Softdisk / Gamer's Edge 的高频职业出货；
 - 团队成员明确分工；
-- John Carmack 的滚屏技术突破；
+- John Carmack 的滚屏和 3D 技术突破；
 - 日间履约、夜间和周末开发原创；
 - Apogee 的 shareware 商业结构；
-- Keen 收入达到可替代工资的水平后，团队才正式脱离 Softdisk。
+- Keen 收入达到可替代工资的水平后，团队才正式脱离 Softdisk；
+- Wolfenstein 3D 的成功进一步提供资金与市场验证；
+- DOOM 阶段则开始把工具、分发、社区接口和公司边界本身一起重做。
 
 ## Capability Prehistory
 
@@ -40,33 +59,83 @@ Commander Keen 的最初生产并不是“辞职创业后再找钱”：
 
 这是 C005 的历史对照：服务/雇佣工作既可能是束缚，也可能在早期交叉补贴原创能力和时间。
 
+## From Keen to Wolfenstein: Cash Becomes Optionality
+
+1994 年《Game Developer》在 DOOM 刚推出后的同期报道显示，Wolfenstein 3D 的 shareware 版本已经打破 id 自己由 Commander Keen 创下的 shareware 销售纪录，并让团队看到直接数字分发的高毛利优势。
+
+这里最重要的不是今天是否还能复制当年的单位经济，而是一个更一般的过程：
+
+**早期原创收入 → 购买全职时间 → 下一作的技术跃迁 → 更强现金流 → 更大的产品/商业选择权。**
+
+成功没有让 id 立刻变成传统大公司。相反，它一度强化了“小而自主”的组织偏好。
+
+## Toolchain as Production Leverage
+
+DOOM 阶段的同期资料让本案从“技术天才史”变成非常具体的生产工程史。
+
+1994 年《Game Developer》记录：id 当时整个公司约七人，主要使用 NeXTStep 作为开发环境；Romero 为 DOOM 编写的 DoomEd 关卡编辑器投入约五个人月，目标是让 level designer 直接做设计，而不是不断回到程序层。Carmack 同期还强调 DOOM 的主体代码使用 ANSI C，仅少数关键渲染 routine 使用汇编。
+
+这与 RCT 案例形成非常好的反向对照：
+- Sawyer 用自己极端熟练的汇编把一人模拟密度推高；
+- id 则把大量逻辑放进 C，并投资编辑器/跨平台开发环境，把多人协作与迭代成本压低。
+
+共同点不是某种语言更先进，而是：**技术选择必须服务于该团队真正的生产瓶颈。**
+
 ## Scope / Production Logic
 
 Romero 2023 的表述非常接近本项目母题：团队知道时间约束是有限的，因此不以“大作标准答案”倒推资源，而是根据两个月/三个月内能做多少关卡和数据来 scope 游戏。
 
-这说明“小团队重新定义问题”不是近年独立游戏才出现的策略。
+DOOM 阶段仍然存在同样的成本纪律。同期报道记录了多个“技术上可以继续堆，但不值得”的判断，例如 multiplayer 玩家武器显示若要完整呈现需要额外大量 sprite，因此没有继续做；早期 BFG 效果也因性能代价过高而被缩减。
 
-## Market
+这说明“小团队重新定义问题”不是近年独立游戏才出现的策略，也不是只在项目早期成立。
+
+## Distribution Becomes Part of the Product System
 
 shareware 的关键不只是“营销方式”：
 - 免费部分降低试用门槛；
-- Apogee 负责订单/商业接口；
+- Keen / Wolfenstein 时代 Apogee 承担商业接口；
 - 付费后续内容把分发直接连接到现金流；
 - 成功现金流反过来允许团队脱离雇佣关系。
 
-所以分发模式同时是 C010 与 C002 的变量。
+到 DOOM，id 又继续改写边界：1994 年同期报道明确指出，团队决定不再让 Apogee 承担 DOOM 的订单分发，而是改由自己控制分发并外包具体电话订单处理能力。
+
+这不是“完全自己做所有事情”，恰恰相反：**id 把战略控制权内收，把可替代的运营执行外包。** 这是非常早期的“小核心 + 外围基础设施”案例。
+
+## Modding / Community as External Production Capacity
+
+Wolfenstein 的玩家已经主动破解并制作编辑工具。id 对此没有简单封堵，而是在 DOOM 阶段有意识地准备公开技术规格，并通过 WAD 等数据边界让社区更容易创造内容。1996 年的同期报道已经把由此形成的大量地图、编辑器和第三方工具视为 DOOM 现象的重要组成部分。
+
+这不是今天意义上的 UGC 平台，但已经出现了一个重要母题：
+
+**当开发者把产品的一部分结构变成可外部创造、可传播、可再组合时，用户社区会变成内容寿命、传播与人才发现的生产外围。**
+
+## Contributor / Organization Boundary
+
+DOOM 绝不是“两个 John 做完一切”。同期资料显示：
+- John Carmack 负责核心技术/引擎；
+- John Romero 承担项目、关卡/工具和产品推动等关键工作；
+- Adrian Carmack、Kevin Cloud 等负责视觉生产；
+- Tom Hall 在前期承担创意方向，但在 DOOM 开发中因设计方向冲突离开；
+- Sandy Petersen、Dave Taylor 等随后参与；
+- 模型、声音、网络/驱动和订单处理等存在外部专业协作者/承包边界。
+
+因此本案真正值得研究的是**高密度小核心如何组织专业外围**，以及核心成员之间的互补一旦转化成目标冲突，会怎样破坏原来的低协调成本。
+
+《DOOM启示录》在这一层尤其有用：它不只讲产品成功，也完整追踪“成功之后为什么会裂”。这正是很多英雄叙事会故意删掉的一半。
 
 ## Historical Boundary
 
-必须禁止三个错误类比：
+必须禁止五个错误类比：
 
 - 1990 年代 BBS/shareware 竞争环境 ≠ 2020s Steam；
+- 当时 PC 市场的 direct-order economics 不能直接套到今天；
 - 技术突破带来的相对优势不能假设今天仍可复制；
-- 团队极端工时不应被写成现代工作制度建议。
+- 团队极端工时不应被写成现代工作制度建议；
+- id 的强个人主义文化既生产了速度，也生产了明显组织脆弱性，不能只复制前者而忽略后者。
 
 ## Preliminary Verdict
 
-> Early id 的历史价值，不是“天才四人组证明公司没用”，而是说明极小团队可以把既有雇佣关系、技术能力、产品长度、分发模式和现金回流顺序重新组合，直到原创项目能够反过来购买自己的独立时间。
+> Early id 的历史价值，不是“天才小团队证明公司没用”，而是说明极小核心可以把雇佣关系、技术能力、工具链、产品长度、分发模式、社区接口和现金回流顺序重新组合，直到原创项目能够购买自己的独立时间，并继续购买下一轮选择权。DOOM 又补上后一半：规模不一定首先增加人数，也可以先增加工具、市场控制与外围网络；但当互补的创始人目标开始分化时，原本极低的组织成本会迅速反转成高风险。
 
 ## Evidence Index
 
@@ -75,11 +144,19 @@ shareware 的关键不只是“营销方式”：
 - E003 — Scott Miller 2015 direct interview：shareware 收入、Keen 后全职独立的商业逻辑。
 - E004 — older Romero interview archive：Keen 收入足以让团队离开 Softdisk。
 - E005 — Shacknews oral history：无贷款、依赖游戏现金流与 Softdisk 义务的张力。
+- E006 — David Kushner, *Masters of Doom* / 《DOOM启示录》：Carmack/Romero、id 发展、商业与组织裂变的二手叙事脊柱；不得单源承载争议事实。
+- E007 — *Game Developer*, January 1994, `Monsters From the Id: The Making of Doom`：同期记录七人公司、Wolfenstein shareware economics、NeXT/DoomEd、C/assembly 取舍、Tom Hall 离开、DOOM 自营分发与 modding 立场。
+- E008 — WIRED 1996, `The Egos at Id`：同期观察 id 的 code-sharing / mod ecosystem 与公司文化。
+- E009 — John Romero, *DOOM Guy*（2023）及相关 direct interviews：第一人称补充 early id / DOOM / Quake 的生产与组织史，用于对 Kushner 叙事做交叉核验。
 
 ## Open Questions
 
 1. Apogee 首笔 advance / royalty 的原始合同和准确数字？
 2. Softdisk 硬件、工资与 legal settlement 的真实经济价值？
 3. Commander Keen 各成员工时/分工的可核时间线？
-4. shareware 渠道当时的竞争密度与转换率？
-5. 哪些 early id 条件可迁移到现代小团队，哪些只属于 1990s PC 市场？
+4. Wolfenstein 3D 与 DOOM 的订单、毛利、海外销售数字哪些能被公司级/同期材料锁定？
+5. DOOM 自营分发后 Digital Magnetics 等外围服务的准确合同与成本？
+6. DoomEd、NeXTStep 与内部工具链究竟节省多少迭代成本，可否找到更多直接开发者量化？
+7. mod/WAD 开放策略在销量、生命周期、招聘和品牌传播上的因果强度如何区分？
+8. *Masters of Doom* 中哪些关键组织叙事被 *DOOM Guy*、Carmack/Hall 等第一人称材料支持、修正或反驳？
+9. 哪些 early id 条件可迁移到现代小团队，哪些只属于 1990s PC 市场？
