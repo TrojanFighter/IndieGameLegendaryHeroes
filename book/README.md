@@ -58,7 +58,8 @@ Case 可以枯燥、重复、结构化。
 
 ### Profiles / 个案叙事
 
-- [`Kenshi：夜班保安如何把时间变成一间工作室`](profiles/kenshi.md) — 第一篇 reader-layer 样板；对应 [`CASE-012`](../cases/CASE-012-kenshi.md) 与 [`Evidence Ledger`](../evidence/CASE-012-kenshi-source-ledger.md)。
+- [`Kenshi：夜班保安如何把时间变成一间工作室`](profiles/kenshi.md) — 个人级 runway：最低工资夜班 → 长期 solo foundation → Early Access 收入购买团队时间。对应 [`CASE-012`](../cases/CASE-012-kenshi.md) 与 [`Evidence Ledger`](../evidence/CASE-012-kenshi-source-ledger.md)。
+- [`Rocket League：一家公司怎样靠替别人做游戏，养出自己的游戏`](profiles/rocket-league.md) — 组织级 runway：work-for-hire → SARPBC capability prototype → 多年 refinement → Rocket League。对应 [`CASE-002`](../cases/CASE-002-rocket-league.md) 与 [`Evidence Ledger`](../evidence/CASE-002-rocket-league-source-ledger.md)。
 
 当前 `book/` 仍处于 bootstrap。这里不会为了“看起来像一本书”而一次性生成 24 篇文章；只有当一个 Case 的关键事实、边界与 Evidence 足够稳定时，才升级成 profile。
 
@@ -109,10 +110,10 @@ Among Us 式延迟爆发、Twitch/Drops、平台推荐、主播与时代窗口�
 
 按现有证据成熟度与叙事价值，优先考虑：
 
-1. **Rocket League** — 失败前作 + work-for-hire + 七年生产史；
-2. **FTL** — runway、地理成本与众筹神话；
-3. **Escape from Tarkov** — Contract Wars 作为 staging project；
-4. **despelote** — incubator / grant / publisher vertical slice 的资本梯子；
-5. **Roblox creator cluster** — 不写单一英雄，而写“一个生态怎样批量制造开发者”。
+1. **FTL** — runway、地理成本与众筹神话；
+2. **Escape from Tarkov** — Contract Wars 作为 staging project；
+3. **despelote** — incubator / grant / publisher vertical slice 的资本梯子；
+4. **Roblox creator cluster** — 不写单一英雄，而写“一个生态怎样批量制造开发者”；
+5. **Among Us** — 发行后长期低迷与右尾爆发，适合检验“运气到来时还活着”。
 
 每次升级前仍以对应 Case / Evidence Ledger 的最新状态为准。
