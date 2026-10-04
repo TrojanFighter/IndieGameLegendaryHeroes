@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>独立游戏英雄传说 · Case Explorer</title>
+<style>
+:root{font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#171717;background:#f6f5f2;line-height:1.5}*{box-sizing:border-box}body{margin:0}a{color:#315b8a;text-decoration:none}a:hover{text-decoration:underline}.wrap{max-width:1280px;margin:auto;padding:32px 24px 64px}.hero{display:flex;gap:24px;align-items:flex-end;justify-content:space-between;margin-bottom:24px}.hero h1{margin:0;font-size:34px;letter-spacing:-.02em}.hero p{max-width:720px;color:#555;margin:8px 0 0}.badge{display:inline-flex;padding:3px 8px;border-radius:999px;background:#e8e5df;font-size:12px;white-space:nowrap}.panel{background:white;border:1px solid #dedbd4;border-radius:14px;padding:18px;margin-bottom:18px;box-shadow:0 1px 2px rgba(0,0,0,.03)}.filters{display:grid;grid-template-columns:minmax(220px,2fr) repeat(5,minmax(130px,1fr));gap:10px}.filters input,.filters select{width:100%;border:1px solid #ccc7be;background:#fff;border-radius:8px;padding:9px 10px;font:inherit}.meta{display:flex;gap:10px;flex-wrap:wrap;color:#666;font-size:13px;margin-top:12px}.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:14px}.card{background:#fff;border:1px solid #dedbd4;border-radius:12px;padding:16px;display:flex;flex-direction:column;gap:10px}.card h2{font-size:18px;margin:0;line-height:1.3}.caseid{font-size:12px;color:#75706a;font-weight:700;letter-spacing:.04em}.row{display:flex;flex-wrap:wrap;gap:6px;align-items:center}.pill{font-size:12px;padding:3px 7px;border-radius:999px;background:#f0eee9;border:1px solid #e1ddd5}.pill.critical{background:#fbe9e7;border-color:#edc7c1}.pill.high{background:#fff3d8;border-color:#ecd59d}.pill.medium{background:#edf2f7;border-color:#d2dce7}.pill.partial{background:#fff7dd}.pill.complete{background:#e9f6ec}.pill.pending,.pill.legacy{background:#f1f1f1}.links{margin-top:auto;display:flex;gap:12px;font-size:13px}.claim-list{font-size:12px;color:#555}.empty{padding:48px;text-align:center;color:#777}.error{background:#fff0ef;border-color:#efc6c0;color:#7f2821}.tag{cursor:pointer}.tag:hover{background:#e7edf4}.small{font-size:12px;color:#777}@media(max-width:900px){.filters{grid-template-columns:1fr 1fr}.hero{display:block}}@media(max-width:560px){.filters{grid-template-columns:1fr}.wrap{padding:20px 14px 48px}}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <div class="hero">
+    <div>
+      <h1>Case Explorer</h1>
+      <p>《独立游戏英雄传说》的研究浏览器。页面只消费 <code>metadata/cases.json</code> 与 <code>metadata/claims.json</code>；不在这里维护第二份案例事实。</p>
+    </div>
+    <span class="badge" id="source-badge">loading metadata…</span>
+  </div>
+
+  <div class="panel">
+    <div class="filters">
+      <input id="q" type="search" placeholder="搜索 Case、人物、标签、Claim…" />
+      <select id="status"><option value="">全部研究状态</option></select>
+      <select id="importance"><option value="">全部解释价值</option></select>
+      <select id="contributor"><option value="">Contributor audit</option></select>
+      <select id="market"><option value="">Market audit</option></select>
+      <select id="context"><option value="">Context / CSA</option></select>
+    </div>
+    <div class="meta">
+      <span id="result-count">0 cases</span>
+      <span id="claim-count"></span>
+      <span id="updated"></span>
+      <span>点击 tag 可立即筛选</span>
+    </div>
+  </div>
+
+  <div id="error" class="panel error" hidden></div>
+  <div id="cards" class="grid"></div>
+</div>
+<script>
+const RAW_BASE='https://raw.githubusercontent.com/TrojanFighter/IndieGameLegendaryHeroes/main/';
+const paths={cases:'../metadata/cases.json',claims:'../metadata/claims.json'};
+let caseDoc,claimDoc,claimsById=new Map();
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+const uniq=a=>[...new Set(a.filter(Boolean))].sort();
+
+async function loadJson(rel){
+  try{
+    const r=await fetch(rel,{cache:'no-store'}); if(!r.ok) throw new Error(r.status); return [await r.json(),'local metadata'];
+  }catch(localErr){
+    const clean=rel.replace(/^\.\.\//,'');
+    const r=await fetch(RAW_BASE+clean,{cache:'no-store'}); if(!r.ok) throw new Error('local + raw failed: '+r.status); return [await r.json(),'GitHub main metadata'];
+  }
+}
+function addOptions(id,values,label=v=>v){const s=$(id);for(const v of values){const o=document.createElement('option');o.value=v;o.textContent=label(v);s.appendChild(o)}}
+function contextStatus(c){if(c.context_audit)return c.context_audit;if(Number(c.schema_version||1)>=2)return 'pending';return 'legacy-v1'}
+function importanceRank(v){return ({critical:4,high:3,medium:2,low:1})[v]||0}
+function haystack(c){const claimText=(c.related_claims||[]).map(id=>claimsById.get(id)?.statement||id).join(' ');return [c.case_id,c.subject,...(c.tags||[]),claimText].join(' ').toLowerCase()}
+function render(){
+ const q=$('q').value.trim().toLowerCase();
+ const status=$('status').value, imp=$('importance').value, ca=$('contributor').value, ma=$('market').value, ctx=$('context').value;
+ let rows=caseDoc.cases.filter(c=>(!q||haystack(c).includes(q))&&(!status||c.research_status===status)&&(!imp||c.explanatory_importance===imp)&&(!ca||c.contributor_audit===ca)&&(!ma||c.market_access_audit===ma)&&(!ctx||contextStatus(c)===ctx));
+ rows.sort((a,b)=>importanceRank(b.explanatory_importance)-importanceRank(a.explanatory_importance)||a.case_id.localeCompare(b.case_id));
+ $('result-count').textContent=`${rows.length} / ${caseDoc.cases.length} cases`;
+ $('cards').innerHTML=rows.length?rows.map(card).join(''):'<div class="panel empty">没有符合当前筛选条件的案例。</div>';
+ document.querySelectorAll('.tag').forEach(el=>el.addEventListener('click',()=>{$('q').value=el.dataset.tag;render()}));
+}
+function card(c){
+ const ctx=contextStatus(c);
+ const claims=(c.related_claims||[]).map(id=>{const cl=claimsById.get(id);return `<span class="pill" title="${esc(cl?.statement||'')}">${esc(id)}${cl?' · '+esc(cl.status):''}</span>`}).join(' ');
+ const tags=(c.tags||[]).map(t=>`<span class="pill tag" data-tag="${esc(t)}">${esc(t)}</span>`).join(' ');
+ return `<article class="card">
+   <div><div class="caseid">${esc(c.case_id)}</div><h2>${esc(c.subject)}</h2></div>
+   <div class="row"><span class="pill ${esc(c.explanatory_importance)}">importance: ${esc(c.explanatory_importance)}</span><span class="pill ${esc(c.evidence_strength)}">evidence: ${esc(c.evidence_strength)}</span><span class="pill">${esc(c.research_status)}</span></div>
+   <div class="row"><span class="pill ${esc(c.contributor_audit)}">contributors: ${esc(c.contributor_audit||'—')}</span><span class="pill ${esc(c.market_access_audit)}">market: ${esc(c.market_access_audit||'—')}</span><span class="pill ${esc(ctx==='legacy-v1'?'legacy':ctx)}">CSA: ${esc(ctx)}</span></div>
+   <div class="row">${tags}</div>
+   <div class="claim-list"><strong>Claims</strong><div class="row" style="margin-top:5px">${claims||'<span class="small">none</span>'}</div></div>
+   <div class="small">last verified: ${esc(c.last_verified||'—')}</div>
+   <div class="links"><a href="../${esc(c.file)}">Case</a><a href="../${esc(c.evidence_ledger)}">Evidence</a></div>
+ </article>`
+}
+async function init(){
+ try{
+  const [[cases,caseSource],[claims,claimSource]]=await Promise.all([loadJson(paths.cases),loadJson(paths.claims)]);caseDoc=cases;claimDoc=claims;claimsById=new Map(claimDoc.claims.map(c=>[c.claim_id,c]));
+  $('source-badge').textContent=caseSource===claimSource?caseSource:'mixed metadata source';
+  $('claim-count').textContent=`${claimDoc.claims.length} claims`;$('updated').textContent=`metadata ${caseDoc.last_updated||'—'}`;
+  addOptions('status',uniq(caseDoc.cases.map(c=>c.research_status)));
+  addOptions('importance',uniq(caseDoc.cases.map(c=>c.explanatory_importance)));
+  addOptions('contributor',uniq(caseDoc.cases.map(c=>c.contributor_audit)));
+  addOptions('market',uniq(caseDoc.cases.map(c=>c.market_access_audit)));
+  addOptions('context',uniq(caseDoc.cases.map(contextStatus)));
+  ['q','status','importance','contributor','market','context'].forEach(id=>$(id).addEventListener(id==='q'?'input':'change',render));render();
+ }catch(e){$('error').hidden=false;$('error').innerHTML='<strong>无法读取 metadata。</strong><br>'+esc(e.message)+'<br><span class="small">若直接双击本地 HTML 且浏览器阻止 fetch，可在仓库根目录运行 <code>python -m http.server 8000</code> 后访问 <code>http://localhost:8000/explorer/</code>。</span>';$('source-badge').textContent='metadata unavailable'}
+}
+init();
+</script>
+</body>
+</html>
