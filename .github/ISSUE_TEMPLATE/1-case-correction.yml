@@ -1,5 +1,6 @@
 name: Case 纠错
-about: 修正已有 Case / Evidence / Claim 中的具体事实、口径或时代条件
+description: 修正已有 Case / Evidence / Claim 中的具体事实、口径或时代条件
+title: "[Correction] "
 body:
   - type: markdown
     attributes:
