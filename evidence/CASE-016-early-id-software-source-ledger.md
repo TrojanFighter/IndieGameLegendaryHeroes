@@ -2,7 +2,7 @@
 
 - Case: `CASE-016`
 - Status: ACTIVE
-- Last updated: 2026-10-04
+- Last updated: 2026-10-05
 
 ## E001 — John Romero on small-scale development
 
@@ -159,6 +159,66 @@ Useful synthesis:
 Boundary:
 - use to identify lines of inquiry and corroborate structure; prefer E007/P0 and direct participant sources for critical facts.
 
+## E011 — Romero: school computer access, BASIC and early publishing path
+
+- Class: P1 — direct creator retrospective interview
+- Source: Shacknews, `Becoming Doom Guy: John Romero on his memoir and a life in games`, 2023
+- URL: https://www.shacknews.com/article/136450/becoming-doomguy-john-romero-on-his-memoir-and-a-life-in-games
+
+Romero recalls that after moving to England in January 1983 he attended school on a U.S. military base with an Apple II computer lab and BASIC instruction. In the same interview he discusses submitting and selling early games/code to disk/computer magazines before the id period.
+
+Supports:
+- biographical reader layer: access to a programmable computer plus publishing outlets provided a concrete conversion path from game interest to making and external feedback;
+- this is evidence of a pathway, not proof that school computer access caused later success.
+
+Boundary:
+- retrospective autobiographical account; do not turn one school episode into childhood predestination.
+
+## E012 — Carmack: teenage game hacking and later openness rationale
+
+- Class: P1 — direct creator retrospective interview
+- Source: WIRED, `Q&A: Doom's Creator Looks Back on 20 Years of Demonic Mayhem`, 2013-12
+- URL: https://www.wired.com/2013/12/john-carmack-doom/
+
+Carmack recalls using sector editing on *Ultima II* as a teenager to alter game data. He explicitly connects his later preference for exposing source/specifications and enabling modification with wanting future generations to have the deeper access to games that he had wished for earlier.
+
+Supports:
+- `play → reverse-engineering → value preference → platform/product openness` as a documented personal chain;
+- reader-layer argument that game consumption and production can be connected by specific modification actions rather than by playtime alone.
+
+Boundary:
+- retrospective explanation of Carmack's own motives; it does not by itself establish the commercial causal value of openness.
+
+## E013 — Doom players/modders becoming professional level designers
+
+- Class: P0/S1 — contemporaneous reported industry profile
+- Source: WIRED, `Legion of Doom`, 1998-03
+- URL: https://www.wired.com/1998/03/doom/
+
+The profile follows prominent Doom level creators and describes a transition in which people who had been consumers/fans created professional-quality Doom content, built public reputations, and were interviewed/recruited for full-time game-development work.
+
+Supports:
+- a concrete historical `consumer → modder/level creator → public portfolio/reputation → professional` pathway;
+- DOOM's mod ecosystem as talent-discovery/capability infrastructure, not only a content-longevity mechanism.
+
+Boundary:
+- high-visibility success stories are subject to survivor selection; this proves the pathway existed, not that modding generally guaranteed industry employment.
+
+## E014 — Quake-era organization strain after DOOM success
+
+- Class: P0/S1 — contemporaneous reported profile with participant quotations
+- Source: WIRED, `The Egos at Id`, 1996-08
+- URL: https://www.wired.com/1996/08/id/
+
+The report documents Quake's delays/false starts, the shift into a concentrated war-room production setup, high pressure inside the team, growing specialization and the company's attempt to ship a more ambitious networked 3D product after DOOM.
+
+Supports:
+- reader-layer claim that commercial/technical success expanded ambition and available talent but did not automatically provide governance, alignment or low coordination cost;
+- `first success → more optionality → new organization problem` as a historical transition worth separating from product-design success.
+
+Boundary:
+- use contemporary observation to describe production strain; do not assign founder blame or diagnose personalities from a magazine profile.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
@@ -169,11 +229,16 @@ Boundary:
 - by the Wolfenstein/DOOM period, id deliberately invested in internal tools and a development environment that reduced iteration/porting friction;
 - DOOM's business boundary changed from publisher/distributor dependence toward more direct strategic control plus outsourced operations;
 - the team explicitly tolerated/encouraged modification and technical openness, helping create an external content/tool ecosystem;
-- DOOM remained a small-core project with meaningful specialist/external contribution boundaries.
+- DOOM remained a small-core project with meaningful specialist/external contribution boundaries;
+- Romero's pre-id history includes game/computer access, BASIC instruction and publication/submission activity before professional studio success;
+- Carmack directly connects teenage game modification with his later preference for making software more inspectable/modifiable;
+- Doom's mod/level community demonstrably provided at least some creators with portfolio, reputation and professional-entry pathways;
+- Quake-era contemporary reporting documents organization/production strain after DOOM's success rather than a frictionless continuation of the early-id model.
 
 ### STRONGLY SUPPORTED AS A RESEARCH METHOD
 - *Masters of Doom* is high-value as a narrative and hypothesis-generating source, but not sufficient as sole evidence for disputed factual claims;
-- *DOOM Guy*, contemporary Game Developer/WIRED coverage and other participant accounts should be used to triangulate it.
+- *DOOM Guy*, contemporary Game Developer/WIRED coverage and other participant accounts should be used to triangulate it;
+- biographical claims should identify the conversion action between hobby/play and capability rather than inferring career value from playtime alone.
 
 ### PARTIAL / NEXT VERIFY
 - exact first Apogee advance/royalty amounts under strongest primary documentation;
@@ -181,4 +246,5 @@ Boundary:
 - audited Wolfenstein/DOOM unit economics and overseas split;
 - cost/contract details for Digital Magnetics and other external contributors;
 - causal contribution of WAD/modding openness to sales, longevity, recruitment and brand growth;
+- how common professional conversion from Doom modding actually was beyond visible recruited creators;
 - point-by-point conflict map between Kushner, Romero, Carmack, Hall and other participant accounts.
