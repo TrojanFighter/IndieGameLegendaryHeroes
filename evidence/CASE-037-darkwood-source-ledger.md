@@ -64,7 +64,7 @@
 - Source class: P0/P1 — official project FAQ
 - Title: Darkwood FAQ
 - Author / Institution: Acid Wizard Studio
-- Published: dynamic page
+- Published: UNKNOWN
 - Accessed: 2026-10-06
 - URL: https://www.darkwoodgame.com/faq/
 - Claim use:
