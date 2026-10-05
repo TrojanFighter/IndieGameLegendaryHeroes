@@ -187,7 +187,8 @@ def validate_cases(doc: dict[str, Any], known_claims: set[str]) -> dict[str, dic
             err(f"{rel}: first H1 heading does not contain {cid}")
         body_claims = re.search(r"^- Related Claims:\s*(.+)$", text, flags=re.MULTILINE)
         if body_claims:
-            parsed = [x.strip() for x in body_claims.group(1).split(",") if x.strip()]
+            raw_claims = body_claims.group(1).strip()
+            parsed = [] if raw_claims == "[]" else [x.strip() for x in raw_claims.split(",") if x.strip()]
             if parsed != related:
                 err(f"{rel}: Related Claims {parsed} != metadata {related}")
         else:
@@ -344,7 +345,7 @@ def check_stats(snapshot: dict[str, Any], write: bool) -> None:
     path = ROOT / "metadata/research-stats.json"
     expected = json.dumps(snapshot, ensure_ascii=False, indent=2, sort_keys=True) + "\n"
     if write:
-        path.write_text(expected, encoding="utf-8")
+        path.write_text(expected, encoding="utf-8", newline="\n")
     elif not path.exists():
         err("metadata/research-stats.json missing; run --write-stats")
     elif path.read_text(encoding="utf-8") != expected:

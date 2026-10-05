@@ -55,13 +55,36 @@ def source_class_token(raw: str) -> str:
     return "UNKNOWN"
 
 
-def parse_ledger(case_id: str, rel: str) -> dict[str, str]:
+def source_locator_errors(block: str) -> list[str]:
+    """Check citation fields, not whether the cited page proves a claim."""
+    fields = {
+        key.strip().lower(): value.strip()
+        for key, value in re.findall(r"^-[ \t]+([^:\n]+):[ \t]*([^\n]+)$", block, re.M)
+    }
+    issues = []
+    if not re.search(r"https?://[^\s<>]+", fields.get("url", "")):
+        issues.append("missing specific source URL")
+    if not fields.get("title") or fields["title"].upper().startswith("UNKNOWN"):
+        issues.append("missing source title")
+    author = next((fields[key] for key in ("author", "institution", "author / institution") if fields.get(key)), "")
+    if not author or author.upper().startswith("UNKNOWN"):
+        issues.append("missing author or institution")
+    published = next((fields[key] for key in ("published", "publication date") if fields.get(key)), "")
+    if not re.match(r"(?:\d{4}-\d{2}-\d{2}|UNKNOWN\b)", published, re.I):
+        issues.append("missing publication date or explicit UNKNOWN")
+    if not re.match(r"\d{4}-\d{2}-\d{2}\b", fields.get("accessed", "")):
+        issues.append("missing access date")
+    return issues
+
+
+def parse_ledger(case_id: str, rel: str, *, require_locators: bool = False) -> dict[str, str]:
     path = ROOT / rel
     if not path.exists():
         err(f"{case_id}: evidence ledger missing: {rel}")
         return {}
     lines = path.read_text(encoding="utf-8").splitlines()
     out: dict[str, str] = {}
+    blocks: dict[str, list[str]] = {}
     current: str | None = None
     for line in lines:
         m = re.match(r"^##\s+(E\d{3,})\b", line.strip())
@@ -70,14 +93,19 @@ def parse_ledger(case_id: str, rel: str) -> dict[str, str]:
             if current in out:
                 err(f"{rel}: duplicate Evidence ID {current}")
             out[current] = "UNKNOWN"
+            blocks[current] = []
             continue
         if current:
+            blocks[current].append(line)
             m = re.match(r"^-\s+(?:Class|Source class):\s*(.+)$", line.strip(), flags=re.I)
             if m:
                 out[current] = source_class_token(m.group(1))
     for eid, cls in out.items():
         if cls == "UNKNOWN":
             warn(f"{rel}: {eid} has no parseable source class")
+        if require_locators and cls in {"P0", "P1", "S1", "S2"}:
+            for issue in source_locator_errors("\n".join(blocks[eid])):
+                err(f"{rel}: {eid}: {issue}")
     return out
 
 
@@ -87,7 +115,9 @@ def build_evidence_registry(cases: dict[str, dict[str, Any]]) -> dict[str, str]:
         ledger = item.get("evidence_ledger")
         if not ledger:
             continue
-        for eid, source_class in parse_ledger(case_id, str(ledger)).items():
+        for eid, source_class in parse_ledger(
+            case_id, str(ledger), require_locators=item.get("schema_version") == 2
+        ).items():
             ref = f"{case_id}:{eid}"
             if ref in registry:
                 err(f"duplicate global Evidence ref {ref}")

@@ -5,10 +5,19 @@
 - Related games: Snake Force; Soda Crisis; Escape from Duckov
 - Period covered: c. 2020–2026
 - Research status: RESEARCHING
+- Corpus role: NON-INDIE COMPARATOR / corporate-owned small-team commercial production
 - Last verified: 2026-10-04
 - Related Claims: C003, C004, C007, C008, C010, C011
 
 ## Why this case
+
+本案需要先做一个资格修正：**《逃离鸭科夫》不应再被当作“中国独立游戏英雄”本身，而应被保留为对独立生产很有参考价值的 corporate-owned small-team comparator。**
+
+理由不是“它不够小”或“它不够原创”，而是生产与市场边界不同：Team Soda 是 Bilibili 内部形成的研发团队，Bilibili 同时承担雇主、publisher 与更大 production / market perimeter。换言之，它具有独立游戏式的小核心、作者自主性和 scope discipline，但缺少独立工作室在所有权、工资 runway、发行与流量获取上必须承担的那一层组织独立。
+
+因此本案不再用于证明“真正独立工作室也能靠五个人完成同样的商业路径”，而用于回答另一个更窄的问题：
+
+> **一个已经磨合过的公司内部小核心，如何借助母公司外围，把前作积累保留下来，同时主动砍掉网络、移动端和硬核模拟成本，把 Tarkov 的价值主张重新翻译成一个五人核心可承受的产品。**
 
 《逃离鸭科夫》很容易被压缩成一个极具传播性的神话：
 
@@ -17,10 +26,6 @@
 这句话只有一半是真的。
 
 **五人核心研发是真的；“五个人独立承担了全部生产、发行与市场工作”不是真的。** Team Soda 是 Bilibili 内部团队，核心五人主要承担研发，而发行、本地化及其他外围工作由 Bilibili 体系中的其他同事承担。更重要的是，这五个人并不是第一次一起做游戏：他们已经共同经历《蛇行武装》《碳酸危机》等前作，合作约 4–6 年。
-
-因此本案真正值得研究的是：
-
-> **一个已经磨合过的小核心，如何借助公司外围，把前作积累保留下来，同时主动砍掉网络、移动端和硬核模拟成本，把 Tarkov 的价值主张重新翻译成一个五人核心可承受的产品。**
 
 ## 1. Myth
 
@@ -42,6 +47,17 @@
 ### 神话 C：把 Tarkov 简化成 2D 就够了
 
 实际不是简单降维移植。团队删除了网络多人、移动端适配、复杂枪械状态与大量硬核机制，同时保留搜索、撤离、成长、基地、任务、战利品价值等更核心的情绪循环。这是一轮产品问题重定义。
+
+### 神话 D：小团队 + 买断单机 = 独立游戏
+
+本案恰好是这个定义失效的反例。
+
+- 小核心不等于所有权独立；
+- 项目自主性不等于 studio / capital independence；
+- 买断制不等于发行独立；
+- Steam 上挂 `Indie` 标签也不能替代对实际雇佣、IP、publisher 和 market perimeter 的审计。
+
+因此本库之后必须把“生产规模”和“indie eligibility”分开判断。
 
 ## 2. Origin
 
@@ -86,7 +102,9 @@ Team Soda 的优势不是单点天才，而是小组长期磨合后的复合能�
 - Duckov 阶段核心研发压缩到五人，并重新控制 scope；
 - 当前未发现足以审计 Duckov 月 burn、工资、市场费用、内部立项预算或利润分成的公开资料。
 
-因此本案不应被写成“低预算奇迹”；更准确的是：**小核心研发降低了 fixed burn，但背后仍存在公司工资与发行基础设施。**
+因此本案不应被写成“低预算独立奇迹”；更准确的是：**小核心研发降低了 fixed burn，但背后仍存在公司工资、组织容错与发行基础设施。**
+
+这也是它与真正 external indie 的第一道分界线：外部独立工作室必须自己解决“工资从哪里来、失败后谁承担损失、下一次融资靠什么”的问题；Team Soda 的公开材料目前显示这些问题至少有相当部分由 Bilibili corporate perimeter 承担。
 
 ## 5. Production
 
@@ -103,12 +121,12 @@ Jeff 也明确说明：作为 Bilibili 内部团队，这五人主要做设计/�
 ```text
 Team Soda：5 人核心 R&D
         +
-Bilibili：publisher / localization / platform / marketing / business / production perimeter
+Bilibili：employer / publisher / localization / platform / marketing / business / production perimeter
         +
 其他外部或共享服务（待进一步 credits audit）
 ```
 
-这使 Duckov 成为一个非常有用的中间形态：它既不是传统大团队，也不是真正意义上的“五人 self-publishing garage studio”。
+这使 Duckov 成为一个非常有用的**公司内部小核心商业产品**比较样本：它既不是传统大团队，也不是 self-funded / externally published / self-published indie studio。
 
 ## 6. Scope
 
@@ -177,6 +195,8 @@ Duckov 前至少有两层失败资本：
 - 不复制网络 multiplayer 的高成本；
 - 把已有 shooter capability 作为安全底盘。
 
+但这里也必须保留 non-transfer boundary：**公司内部项目可以由母体吸收前作失败、人员重组与下一轮工资 runway；真正独立团队若没有相同资本缓冲，失败的组织后果会更重。**
+
 ## 8. Market
 
 ### 需求发现
@@ -193,9 +213,13 @@ Jeff 在 2025-10-14 左右的采访中披露，Steam wishlist 已约 45 万。�
 
 Jeff 说团队会主动观察 9–11 月大型作品档期，最终选择 10 月中旬，一个原因就是避开更拥挤的 AAA 节点。
 
-### Bilibili perimeter
+### Bilibili perimeter：不仅是发行商名称
 
-Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持。于是“零营销五人团队”不是可接受结论。
+Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持；公开报道还直接把项目描述为 Bilibili “自研自发”或“B站旗下 Team Soda”产品。Bilibili 自身同时拥有内容平台、UP 主生态、线下展会与游戏发行资源，因此 Duckov 的 go-to-market 结构与一个需要从零争取媒体/KOL/平台曝光的外部独立工作室不同。
+
+这里要避免另一个过度结论：**目前没有公开审计能把 45 万 wishlist 或 300 万销量按 Bilibili 站内流量、Steam discovery、外部主播、自然口碑逐项归因。** 所以可以确认的是“结构性依赖与资源可得性不同”，而不是武断宣称某个百分比销量由 B 站流量直接造成。
+
+因此“零营销五人团队”不是可接受结论；同样，“这是一个可直接复制给没有平台母公司的独立团队的发行案例”也不成立。
 
 ### 结果
 
@@ -209,14 +233,14 @@ Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持�
 
 ### Bilibili 内部小团队模型
 
-本案最值得比较的是“inside-company indie cell”：
+本案最值得比较的是 corporate-owned small-team cell：
 
 - 团队获得公司工资和基本组织稳定性；
 - 核心 R&D 可以保持五人；
 - 出版、localization、平台、商务等外围不用全部内建；
 - 同时小团队仍能保持较强产品自主性和快速决策。
 
-这与真正 self-funded OPC、publisher-financed external indie、Roblox platform-native creator 都不同。
+这与真正 self-funded OPC、publisher-financed external indie、self-publishing micro-studio、Roblox platform-native creator 都不同。
 
 ### 通用工具与平台
 
@@ -237,10 +261,21 @@ Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持�
 
 ## 11. Verdict
 
+### INDIE ELIGIBILITY
+
+- **生产规模：小团队 / indie-like。** 五人核心、多人多职、强 scope discipline。
+- **创作自主：较高，但处于公司内部。** 公开采访显示 Bilibili 给 Jeff 以制作人身份做自己项目的空间。
+- **资本 / 雇佣独立：不满足。** Team Soda 在 Bilibili 内部形成，工资与组织 runway 属于公司体系。
+- **发行独立：不满足。** Bilibili 是正式 publisher，并承担外围职能。
+- **市场接入独立：不满足可比性要求。** 项目能使用 Bilibili 自有内容/社区/发行生态；具体贡献比例未知，但资源结构与外部独立团队显著不同。
+
+**结论：保留 CASE 编号，但从“核心独立游戏英雄案例”降为 NON-INDIE COMPARATOR。** 它对小团队生产、scope engineering 和品类翻译仍然有高研究价值；对融资、发行独立性与“如何摆脱平台地主”问题则不能作为正例。
+
 ### STRONGLY SUPPORTED
 
 - Duckov 的核心研发确实约五人；
 - 这五人并非新组成，已有 4–6 年合作和多个前作；
+- Team Soda 在 Bilibili 内部形成，Bilibili 同时是正式 publisher；
 - Bilibili 的发行、本地化及其他公司外围构成真实 production boundary；
 - Duckov 经历过移动方向失败、PC/mobile 双平台收缩和多人复杂度主动放弃；
 - 单机/PVE/俯视角并不只是风格选择，也是把 extraction 成本函数重写到五人可承担范围；
@@ -251,14 +286,16 @@ Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持�
 
 - 《碳酸危机》的商业失利推动团队缩小核心规模和强化工具/效率意识；
 - extraction 热潮帮助了 Duckov，但项目并非热潮成熟后才临时追风立项；
-- Bilibili 内部小团队模式降低了固定外围成本，但公开资料不足以量化其真实 subsidy。
+- Bilibili 内部小团队模式降低了固定外围成本，但公开资料不足以量化其真实 subsidy；
+- Bilibili 内容与社区生态是可用的结构性市场资源，但其对 wishlist / sales 的精确因果贡献仍 UNKNOWN。
 
 ### NOT SUPPORTED / REFUTED AS FRAMED
 
 - “五个人完成全部开发、发行、营销、本地化”——不成立；
 - “五个新手两年突然做出三百万销量游戏”——不成立；
 - “只是把 Tarkov 做成 2D”——过度简化，忽略 multiplayer/mobile/hardcore mechanics 的主动删除和产品重新定义；
-- “零营销纯靠口碑”——不成立或至少严重误导，launch 前已有 45 万 wishlist 和 Bilibili publisher perimeter。
+- “零营销纯靠口碑”——不成立或至少严重误导，launch 前已有 45 万 wishlist 和 Bilibili publisher perimeter；
+- “这是一个真正意义上的独立工作室发行案例”——不成立。
 
 ## 12. Transfer
 
@@ -269,10 +306,12 @@ Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持�
 5. **市场定位应直接进入设计**：目标不是“做 Tarkov clone”，而是服务那些喜欢 Tarkov 的成长循环、却拒绝其 PvP / 高惩罚的人。
 6. **launch date 是生产决策的一部分**：竞品档期、wishlist readiness 和最后内容收敛共同决定何时交付。
 7. **对五人团队，工具本身就是 headcount multiplier**：前作形成的 editor/tooling/process 可以比继续加人更便宜。
+8. **把“独立生产力”与“独立发行能力”拆开**：Duckov 可以证明五人 R&D 能承担一个高完成度商业产品，但不能证明一个外部五人工作室能在没有公司工资、发行与平台流量外围的情况下复制同一结果。
 
 ## 13. Non-transfer
 
 - Bilibili 提供的工资、publisher、平台与本地化外围不是普通五人 garage team 自动拥有的；
+- Bilibili 自身还是内容平台与流量入口，这一市场结构不能作为外部独立团队的默认条件；
 - 五人已有多年共同工作历史，不能把“核心五人”复制成“临时找五个通才”；
 - Jeff 本人对 Tarkov 的深度玩家经验是产品判断资产；
 - 鸭子 identity 的传播力与 extraction 市场窗口都包含不可计划的运气；
@@ -288,6 +327,7 @@ Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持�
 - E005 — Epic Games Store / Jeff interview：Bilibili 内部团队、Snake Force / Soda Crisis 前史与产品连续性。
 - E006 — Steam / SteamDB：2025-10-16 release；Team Soda developer / bilibili publisher；single-player / Workshop；Unity / platform facts。
 - E007 — Escape from Duckov official Bilibili account：2025-11-08 官方宣布销量突破 300 万。
+- E008 — Bilibili / Game Daily / mainstream business coverage：B站旗下、自研自发及内容—游戏—社区 ecosystem 的结构性 market-access 证据；不把它夸大成可审计的销量归因。
 
 ## 15. Open Questions
 
@@ -299,3 +339,4 @@ Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持�
 6. 需要建立 2025-10-16 至 11-08 的官方销量节点，区分 50 万 / 100 万 / 200 万 / 300 万公告，而不依赖第三方估算。
 7. Steam Workshop 的 mods 对销量、留存和长尾到底贡献多少？当前只能确认团队从一开始把 modding 当成产品能力。
 8. 作为 Bilibili 内部小团队，前两次失败到 Duckov 成功之间的立项治理、失败容忍与内部复盘机制是什么？
+9. Bilibili 自有流量、BW/站内内容、外部主播、Steam discovery 与海外自然传播各自对 wishlist 和销量的贡献是多少？当前没有可靠 attribution 数据。

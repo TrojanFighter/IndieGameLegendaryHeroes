@@ -12,6 +12,7 @@ from __future__ import annotations
 import json
 import re
 import sys
+from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -66,14 +67,18 @@ ledger_count = sum(1 for item in cases if isinstance(item, dict) and item.get("e
 # These are intentionally exact enough to catch a stale headline, but do not
 # constrain prose elsewhere in the README.
 required_headline_fragments = [
-    f"**{case_count} 个正式 Case**",
+    f"**{case_count} 个编号 Case 档案**",
     f"**{ledger_count} 份对应 Evidence Ledger**",
     f"**{claim_count} 个跨案例 Claim**",
-    f"## {case_count} 个正式案例",
+    f"## {case_count} 个编号案例档案",
 ]
 for fragment in required_headline_fragments:
     if fragment not in root_readme:
         err(f"README.md: stale or missing generated-count phrase: {fragment!r}")
+
+for status, count in Counter(item.get("research_status") for item in cases if isinstance(item, dict)).items():
+    if not re.search(rf"\b{count} 个 {re.escape(str(status))}\b", root_readme):
+        err(f"README.md: missing research maturity count: {count} {status}")
 
 # The front door should expose every formal Case at least once.  It may link a
 # Case more often in question-led reading paths; that is fine.

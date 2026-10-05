@@ -22,6 +22,8 @@ It does not treat successful games as proof that hard work guarantees success. T
 
 The first English full-case pilot is [CASE-001 — FTL / Subset Games](cases/CASE-001-ftl.md). Its status remains RESEARCHING — FIRST EVIDENCE PASS. Untranslated cases remain available through the Chinese index; their absence here says nothing about their research maturity.
 
+As of 2026-10-05, the main program indexes 30 Cases: 27 RESEARCHING and three SKELETON. Duckov is a corporate, non-indie comparator. The new Chinese candidate group includes Dyson Sphere Program, Chinese Online Game, Boundary and Outpost: Infinity Siege. Chinese Online Game has a verified official account of solo, spare-time development; the other three remain skeletons awaiting source recovery. Their archived drafts are unverified leads, not evidence for conclusions. Artless Games is a backlog candidate for research into public statements, products and sustainable creative work; no survival or income claim has been verified yet.
+
 ## Research structure
 
 A Case tracks myth, origin, prior capabilities, runway, production, scope, failure, market access, environment, luck, verdict, transferable decisions and context-specific conditions. A Claim states a falsifiable proposition, its scope, supporting and opposing evidence, current status and limits on extrapolation.
