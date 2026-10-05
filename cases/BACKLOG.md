@@ -46,15 +46,81 @@
 | CASE-028 | Chinese Online Game / 648 Studio | CHAT-RESEARCH + EXTERNAL-VERIFIED | 官方单人业余约五年自述已核，职业前史、完整协作者与财务口径待核 |
 | CASE-029 | Boundary / Surgical Scalpels Studio | CHAT-RESEARCH + COMPARATOR | SKELETON；平台与发行方停服公告已核，组织、融资与争议归责待核 |
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | CHAT-RESEARCH + COMPARATOR | SKELETON；团队归属、职业前史与生产制度解释待原文证据 |
+| CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | CHAT-RESEARCH + EXTERNAL-VERIFIED | 同一开发者跨三人协作、solo-core、两人团队的纵向样本；检验原型筛选、fantasy compression、能力积累、市场接入与方法自我修正 |
 
 ## 下一批优先正式化 / 深挖
 
-CASE-027–030 已登记，下一新编号从 CASE-031 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
+CASE-027–031 已登记，下一新编号从 CASE-032 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
-3. 是否提供当前 30 个档案还没有覆盖的生产结构。
+3. 是否提供当前 31 个档案还没有覆盖的生产结构。
 
-同时优先补现有案例的 contributor / market-access audit，避免只增长案例数量、不提高审计成熟度。
+同时优先补现有案例的 contributor / market-access / capability–project-fit audit，避免只增长案例数量、不提高审计成熟度。
+
+### Landfall Games：工作室级纵向生产系统
+
+- Status: HIGH PRIORITY LONGITUDINAL CANDIDATE / ONGOING TRACKER；持续 intake 见 GitHub Issue #25。
+- 研究对象不是单独某个爆款，而是 `Air Brawl → Clustertruck → TABS / TABG / Stick Fight / ROUNDS → Content Warning → HASTE → PEAK` 的工作室生产制度演化。
+- P0 起点：[Landfall official press kit](https://landfall.se/landfall-press) 记录 Wilhelm Nylund 与 Philip Westre 高中时期开始 Air Brawl，Wilhelm 未上大学而留在家中完成游戏，Steam Early Access 之后才使其他成员逐步加入；Landfall 自述以小团队、小开发周期、gameplay 与 community interaction 为中心，并明确“small studio staying small”。
+- 内部反例非常重要：TABS / HASTE 是多年项目；Landfall 商务负责人 2026 年公开表示，团队在长项目中更难保持动力，而 Content Warning / PEAK 这类约两个月量级项目更符合今后的工作方式。不能把 Landfall 神话化为“所有东西一个月做完”。
+- `Content Warning`：官方 press kit 记录 5 人开发，2024-02 至 2024-04，主要开发发生在首尔一个月 internal game jam；免费首日后转为 $7.99，官方记录 6.6M claims、204K peak CCU；同时必须保留 Future Friends / Popagenda、Lockit QA、社区测试素材等 contributor perimeter。
+- `PEAK`：官方 press kit 记录七名开发者及 2025 年 2 月韩国 month-long jam；同期采访提供约四周主体制作、固定 midsummer ship date、两工作室合计低于 $200k 的口径。销量/成本仍按来源级别记录，不写成审计利润。
+- 核心待检验命题：Landfall 是否把 `physics + comedy + social interaction + community/media legibility + short-cycle jam` 积累成 studio-level capability capital，并让项目形态主动服从这种能力，而不是成功后再总结风格。
+- 必须找失败/废案：若只看 Clustertruck/TABS/Content Warning/PEAK，会产生严重幸存者偏差。正式编号前必须重建没做成、暂停、表现一般或支持成本超预期的项目。
+- 组织问题：追踪自外部 publisher 向 self-publishing 的转变，以及 Evil Landfall 的商务/投资层是否把“做项目的人”和“处理合同/平台/发行的人”进一步解耦。
+
+### Capability–Project Fit / “偏科型立项”审计队列
+
+方法文件：[`../schemas/capability-project-fit-audit.md`](../schemas/capability-project-fit-audit.md)。
+
+这条线检验的不是“主创履历有多牛”，而是：
+
+> **项目是否从创作者真实的能力不对称出发，把强项做成高杠杆，把弱项对应的昂贵问题删除、替代、程序化、抽象化或外部化。**
+
+必须区分：
+
+- `Labor Compression`：传统问题仍存在，只是一个人/少数人硬扛更多工种；
+- `Problem Redefinition`：昂贵问题被重新定义，根本不再需要按行业标准解决；
+- `Capability Leverage`：项目核心体验、视觉、技术或传播面直接放大主创既有强项。
+
+#### 强候选：The First Tree / David Wehle
+
+- P0/P1 起点：[GDC 2019 — No Time, No Budget, No Problem: Finishing 'The First Tree'](https://gdcvault.com/play/1026455/No-Time-No-Budget-No)；David 自述当时在 The VOID 全职工作、同时养育孩子，只能在极有限时间内完成个人项目。
+- David 后来自述自己 coding 很弱、自学 art/design，并凭前作进入 The VOID 做 Unity technical artist。这里的研究价值不是“不会代码也能成功”，而是检查**技术美术/视觉表达强项是否直接决定了产品问题形态**。
+- 待核链：短时长探索游戏、购买/改造现成资产、鲜明狐狸/森林配色、为截图/GIF 提供极强 visual hook，以及长期通过 Reddit / Imgur / Tumblr / Twitter 等短视觉内容做 top-of-funnel。需要区分哪些是立项时设计，哪些是中途发现营销有效后强化。
+- 如果成立，它是非常典型的 `能力偏科 → 项目形态 → marketing surface` 三者耦合，而不是“solo dev 把正常 3D 游戏缩小”。
+
+#### 强候选：Everything / David OReilly
+
+- P1 起点：[The Creative Independent interview](https://thecreativeindependent.com/wisdom/david-oreilly-on-making-sure-you-keep-going/) 与 [Cartoon Brew interview](https://www.cartoonbrew.com/shorts/everything-creator-david-oreilly-hard-truths-moving-away-animation-150296.html)。
+- OReilly 是动画作者出身，公开解释动物的程序化/翻滚移动既与成本有关，也来自他对 abstraction 的长期训练；作品中大量对象因此不需要传统写实角色 rig / walk-cycle pipeline。
+- 这不是“低成本动画做得粗”，而是把原本的生产缺口直接转化成可识别的作品语言：`cost avoidance → aesthetic conversion`。
+- 要进一步审计哪些对象仍使用 rig、系统本身的工程成本、外部 contributors 与 Mountain → Everything 的能力/收入桥梁，避免把“没有传统动画”误写成“没有动画成本”。
+
+#### 跨媒介压力样本：《牛来》 / 信雨萌
+
+- Status: CROSS-MEDIA COMPARATOR，不作为游戏 Case 编号。
+- 2026 年上映后的公开访谈显示，信雨萌此前学艺术景观、并非动画科班；2021–2026 约五年间以一人核心承担建模、绑定/动画、渲染、剪辑、配音等大量传统环节，设备也受资金限制，母亲孙丽芳参与剧本/配音/音乐等。参见澎湃新闻转载的完整访谈与公开音频采访。
+- 必须修正一个过度简单的说法：他**不是完全没有 constraint-aware design**。访谈里他明确说会挑“适合自己的”东西，并认为不应为了头发丝级细节本末倒置；这已经包含范围取舍。
+- 但与 Everything 的强 `problem redefinition` 相比，目前公开记录更像**大量常规动画问题仍然存在，只是由长期个人劳动替代专业分工**。因此它更适合作为 `Labor Compression` 的极端压力样本。
+- 真正需要比较的是生产函数，不是美学羞辱：五年手工劳动换现金成本极低，是否是一条可持续、可复制的独立生产路径？续作《羊高》若真的显著缩短周期，是否说明第一作积累出的工具/能力正在把劳动压缩转成 capability capital？这值得继续观察。
+
+#### 现有正式 Case 的回填队列
+
+以后审 CASE 时，`Origin` 不再只写学校/公司名，至少回答一次“这个出身怎样改变了他敢做什么、避免做什么”。优先回填：
+
+- `CASE-003 Papers, Please / Lucas Pope` — AAA/工程/工具经验怎样支撑异常问题空间与极低表现成本；
+- `CASE-007 Gunpoint / Tom Francis` — 评论者/资深玩家的 taste 强项与初学实现能力如何共同决定项目形态；
+- `CASE-008 Dream Quest / Peter Whalen` — 重度玩家知识是否比表现能力更关键；
+- `CASE-011 Lethal Company / Zeekerss` — Roblox/多作前史如何让 social systems 与低保真表现成为优势；
+- `CASE-013 Rise of the White Sun` — 历史研究/系统抽象能力如何替代大规模表现成本；
+- `CASE-018 RollerCoaster Tycoon / Chris Sawyer` — 极端工程能力、旧代码与 assembly 熟练度如何决定 OPC 上限；
+- `CASE-019 Schedule I / TVGS` — solo-core 的能力边界与专业外围如何配合；
+- `CASE-025 Bills Must Be Paid / Rike Games` — mobile/web 前史如何既提供高频原型能力，也产生错误 Steam 世界模型；
+- `CASE-026 Brigador` — 强技术/美术执行为何没有自动转化为 onboarding / market legibility；
+- `CASE-031 Jonas Tyroller` — Game Design 教育、多原型经验、公共表达能力如何塑造项目筛选与 fantasy compression。
+
+这条线暂不新增正式 Claim。至少需要 3–5 个结构不同的正例、2 个以上失败/反压力样本，并能把能力适配与资金、受众、平台窗口和 luck 分离后再升格。
 
 ### Artless Games：公开言论、产品与持续创作方式
 
