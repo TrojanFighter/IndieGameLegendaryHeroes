@@ -16,7 +16,8 @@
 - Case Explorer / search index；
 - build / release pipeline；
 - 自动统计与派生视图；
-- workflow documentation。
+- workflow documentation；
+- Case Graduation 的机器资格规则与派生 maturity 视图。
 
 ### Lane A 禁止事项
 
@@ -27,7 +28,8 @@
 - 看到旧 Case 没有时代条件，就靠常识批量补；
 - 为了让 lint 通过而降低证据标准；
 - 在 schema migration 时顺手改变 Case 的历史判断；
-- 把工具层的推断写回 canonical evidence。
+- 把工具层的推断写回 canonical evidence；
+- 因为 maturity 工具判断 `REVIEW-READY` 就自动把 Case 升为 REVIEW / STABLE。
 
 如果新 schema 暴露旧案例信息缺口，应记成 `pending / migration queue`，交给 Lane B。
 
@@ -39,12 +41,29 @@
 - Case 时间线；
 - Evidence Ledger；
 - 来源核验；
+- 弱 Signal / 口述 / 传闻的登记与核验；
 - Contributor audit；
 - Market-access audit；
 - Context–Situation–Action audit；
 - Claim 支持 / 反例；
 - comparator / failure audit；
-- thesis candidate 的定向取证。
+- thesis candidate 的定向取证；
+- Case Graduation 前的 adversarial review 与 material unknown 分类。
+
+### Lane B 输入分流
+
+收到聊天、Issue、口述、截图、旧记忆、外部 AI 结果或未核稿时，先判断它属于：
+
+```text
+可追溯来源事实 → Evidence
+弱口述 / 传闻 / 未索引线索 → Signal
+作者自己的解释 → H / Author-Origin / thesis incubator
+跨案例可证伪命题 → Claim candidate
+```
+
+Signal 协议见 [`signal-decision-protocol.md`](signal-decision-protocol.md)。
+
+**Signal 可以改变“先查什么、是否 PROBE / HEDGE”，不能改变“什么已经被证明”。**
 
 ### Lane B 输出合同
 
@@ -53,13 +72,16 @@
 - Case ID / Subject；
 - Period covered；
 - 新增或修改了哪些 Evidence IDs；
+- 新增或处理了哪些 Signal IDs；
 - 哪些事实仍 UNKNOWN；
+- 哪些未知仍有现实可核验路径，哪些基本不可恢复；
 - 哪些 Claim 被支持 / 削弱；
 - Contributor audit 状态；
 - Market-access audit 状态；
 - Context audit 状态；
 - 关键 CSA Decision Units；
 - 是否存在反例 / 替代解释；
+- 是否已达到 `REVIEW-READY` 的研究条件；
 - 哪些内容有资格进入 reader layer。
 
 ### Lane B 禁止事项
@@ -91,6 +113,7 @@ Lane C 只能消费已经进入 Case / Evidence / Claim 的事实。
 ### Lane C 禁止事项
 
 - 为了故事顺畅补 UNKNOWN；
+- 把 Signal / 口述传闻写成已证事实；
 - 把 Thesis Candidate 写成已证明 Claim；
 - 把 reviewer / publisher / platform / family support 隐去；
 - 因为文章需要高潮而重排真实因果顺序；
@@ -101,19 +124,41 @@ Lane C 只能消费已经进入 Case / Evidence / Claim 的事实。
 推荐工作流：
 
 ```text
-Research question
+Chat / Issue / external material
       ↓
-Lane B: Case + Evidence + audits
-      ↓
+Lane B: intake classification
+      ├─ Signal / H / research-intake
+      └─ verified Evidence
+               ↓
+         Case + audits
+               ↓
+      adversarial review / graduation
+               ↓
 canonical research corpus
-      ↓
+               ↓
 Lane C: reader profile / synthesis
-      ↓
+               ↓
 reader layer
 
 Lane A 横向维护 schema / lint / navigation / tools，
-但不替 Lane B 生产历史事实。
+但不替 Lane B 生产历史事实或自动完成研究裁决。
 ```
+
+研究对象的权威 Owner 关系见 [`research-authority-map.md`](research-authority-map.md)。Case 收口规则见 [`case-graduation.md`](case-graduation.md)。
+
+## Maturity / Freshness / Action 必须分离
+
+不要把三个问题压成一个“置信度分数”：
+
+```text
+Epistemic maturity   研究知道到什么程度？
+Temporal freshness   这个判断多久可能过期？
+Decision posture     在仍然不确定时现在采取什么姿态？
+```
+
+例如一个 `WEAK_SIGNAL` 可以因为窗口短、核验成本低而对应 `PROBE`；一个 STABLE 的历史 Case 则可能完全不需要 Decision Posture。
+
+`WATCH / PROBE / HEDGE / ACT / NO_ACTION` 不是新的 Case / Claim 状态，也不自动触发任何外部动作。最终裁决仍由作者 / 维护者作出。
 
 ## Why separate conversations / work sessions
 
@@ -130,7 +175,7 @@ Lane A 横向维护 schema / lint / navigation / tools，
 - 编辑时误把临时研究假说当成正式规则；
 - Agent 容易因为“当前任务很顺手”跨层修改不该修改的东西。
 
-因此默认建议三条车道分开维护，并用 Git / Case ID / Evidence ID 作为交接接口。
+因此默认建议三条车道分开维护，并用 Git / Case ID / Evidence ID / Signal ID 作为交接接口。
 
 ## Change escalation
 
