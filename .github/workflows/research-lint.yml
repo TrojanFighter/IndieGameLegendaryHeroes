@@ -9,6 +9,9 @@ on:
       - 'cases/**'
       - 'claims/**'
       - 'evidence/**'
+      - 'sister-projects/**'
+      - 'tools/slavic_research_lint.py'
+      - 'tests/test_slavic_research_lint.py'
       - 'explorer/**'
       - 'metadata/**'
       - 'schemas/**'
@@ -27,6 +30,9 @@ on:
       - 'cases/**'
       - 'claims/**'
       - 'evidence/**'
+      - 'sister-projects/**'
+      - 'tools/slavic_research_lint.py'
+      - 'tests/test_slavic_research_lint.py'
       - 'explorer/**'
       - 'metadata/**'
       - 'schemas/**'
@@ -63,3 +69,7 @@ jobs:
         run: python tools/reader_layer_lint.py
       - name: Run Case Explorer metadata contract checks
         run: python tools/explorer_lint.py
+      - name: Check sister-program inventory and boundaries
+        run: python tools/slavic_research_lint.py
+      - name: Test sister-program checks
+        run: python -m unittest discover -s tests -p 'test_slavic_research_lint.py'

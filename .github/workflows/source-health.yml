@@ -9,6 +9,7 @@ on:
       - main
     paths:
       - 'evidence/**'
+      - 'sister-projects/slavic/evidence/**'
       - 'tools/check_source_health.py'
       - 'schemas/source-health.md'
       - '.github/workflows/source-health.yml'
@@ -25,6 +26,13 @@ jobs:
   source-health:
     runs-on: ubuntu-latest
     timeout-minutes: 30
+    strategy:
+      matrix:
+        include:
+          - program: indie
+            evidence_dir: evidence
+          - program: slavic
+            evidence_dir: sister-projects/slavic/evidence
     steps:
       - uses: actions/checkout@v4
 
@@ -34,12 +42,13 @@ jobs:
 
       - name: Validate URL extraction on PR
         if: github.event_name == 'pull_request'
-        run: python tools/check_source_health.py --list-only
+        run: python tools/check_source_health.py --evidence-dir '${{ matrix.evidence_dir }}' --list-only
 
       - name: Run live source health check
         if: github.event_name != 'pull_request'
         run: |
           python tools/check_source_health.py \
+            --evidence-dir '${{ matrix.evidence_dir }}' \
             --json-out source-health.json \
             --markdown-out source-health.md
 
@@ -51,7 +60,7 @@ jobs:
         if: github.event_name != 'pull_request'
         uses: actions/upload-artifact@v4
         with:
-          name: source-health-report
+          name: source-health-report-${{ matrix.program }}
           path: |
             source-health.json
             source-health.md
