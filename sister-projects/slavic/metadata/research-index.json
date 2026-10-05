@@ -1,0 +1,51 @@
+{
+  "version": 1,
+  "program_id": "SLAVIC",
+  "case_count": 0,
+  "claim_count": 0,
+  "profile_count": 0,
+  "topics": [
+    {
+      "topic_id": "SLAVIC-001",
+      "file": "evidence/SLAVIC-001-wargaming-world-of-tanks-turning-point.md"
+    },
+    {
+      "topic_id": "SLAVIC-002",
+      "file": "evidence/SLAVIC-002-gsc-4a-studio-schism.md"
+    },
+    {
+      "topic_id": "SLAVIC-003",
+      "file": "evidence/SLAVIC-003-il2-gaijin-war-thunder-lineage.md"
+    },
+    {
+      "topic_id": "SLAVIC-004",
+      "file": "evidence/SLAVIC-004-world-of-warplanes-contrast.md"
+    },
+    {
+      "topic_id": "SLAVIC-005",
+      "file": "evidence/SLAVIC-005-gsc-4a-personnel-migration.md"
+    },
+    {
+      "topic_id": "SLAVIC-006",
+      "file": "evidence/SLAVIC-006-gaijin-dagor-capability-timeline.md"
+    },
+    {
+      "topic_id": "SLAVIC-007",
+      "file": "evidence/SLAVIC-007-wot-wowp-wows-war-thunder-product-structure-matrix.md"
+    },
+    {
+      "topic_id": "SLAVIC-008",
+      "file": "evidence/SLAVIC-008-war-online-quantitative-layer.md"
+    }
+  ],
+  "variants": [
+    {
+      "topic_id": "SLAVIC-007",
+      "file": "evidence/SLAVIC-007-war-online-product-structure-matrix.md"
+    },
+    {
+      "topic_id": "SLAVIC-007",
+      "file": "evidence/SLAVIC-007-war-vehicle-online-design-matrix.md"
+    }
+  ]
+}

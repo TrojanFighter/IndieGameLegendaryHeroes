@@ -1,5 +1,7 @@
 # 《独立游戏英雄传说》｜Reader Layer
 
+本目录只放独立篇叙事稿；[斯拉夫姊妹篇书稿入口](../sister-projects/slavic/book/README.md) 单独维护。Case 是研究档案，Profile 是人物与生产史叙事，不是另一份事实数据库或另一个语言版本。
+
 © 2026 洪荒行者。All Rights Reserved.
 
 这个目录不是新的研究数据库，也不是 `cases/` 的镜像。

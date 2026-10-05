@@ -117,6 +117,19 @@ http://localhost:8000/explorer/
 
 ## PR 交接
 
+### 姊妹篇目录与检查
+
+独立篇保留根目录 `cases/`、`claims/`、`evidence/` 和 `book/`；斯拉夫篇使用 [sister-projects/slavic/](sister-projects/slavic/README.md)。共享 schemas、来源规则和工具，分别登记资料与统计；根目录 Case Explorer 仍只消费独立篇 metadata。
+
+`python tools/slavic_research_lint.py` 校验姊妹篇归属、编号、并行稿登记与链接。来源健康检查按篇运行：
+
+```powershell
+python tools/check_source_health.py --evidence-dir evidence --list-only
+python tools/check_source_health.py --evidence-dir sister-projects/slavic/evidence --list-only
+```
+
+专题档案不自动成为 Case，Profile 不复制研究账本。英文译文开始建立时在对应篇的 `translations/en/` 中维护，不混入另一篇的译文索引。
+
 公开研究隔离规则、本地提交/推送检查和 GitHub 门禁设置见 [公开研究与私人项目隔离](docs/public-research-boundary.md)。每次 PR 必须检查私人信息的上下文映射，自动词表检查不能代替语义审阅。
 
 新 PR 默认使用 [`.github/pull_request_template.md`](.github/pull_request_template.md)。
