@@ -172,18 +172,24 @@ Boundary:
 
 ## E008 — Bilibili ownership / self-publishing / ecosystem-access evidence
 
-- Class: P0/P1/S2 — first-party platform publication + developer interview coverage + mainstream business analysis
-- Sources:
+- Class: S1 — professional business reporting; first-party leads listed separately below
+- Title: B站自研《逃离鸭科夫》发售一周销量破百万；米哈游《星布谷地》11月7日开启首测丨游戏早参
+- Author / Institution: 张梓桐（记者）、余婷婷（编辑） / 每日经济新闻
+- Published: 2025-10-24 06:30:05（以页面时间为准，URL 路径为 2025-10-23）
+- Accessed: 2026-10-05
+- URL: https://www.nbd.com.cn/articles/2025-10-23/4103428.html
+- Verified passage: 报道首段将 TeamSoda（碳酸小队）称为“B站旗下自研工作室”。
+- Confidence: HIGH for the report's corporate framing; not an audited financial or traffic attribution.
+- Additional leads (not re-read in this verification pass; existing first-party production evidence remains in E005):
   - Bilibili / 矩阵放映室, 2025-06-27: https://www.bilibili.com/opus/1082976785399808040
   - 游戏日报对 Jeff 采访（Bilibili hosted copy）, 2025-07-17: https://www.bilibili.com/opus/1090386153724444675
   - Official launch account, 2025-10-16: https://www.bilibili.com/video/BV1qmWvzrEU2/
-  - 每日经济新闻, 2025-10-24: https://www.nbd.com.cn/articles/2025-10-23/4103428.html
 
 Source-derived facts:
-- Bilibili 自有内容把 Team Soda 明确称为“B站旗下”工作室；
-- Jeff 采访报道把 Duckov 明确称为“B站自研”，并写明“将由 B站自研自发”；
-- official launch distribution includes Steam, WeGame, Epic, 蒸汽平台, Mac App Store and Bilibili 游戏中心, with bilibili as formal Steam publisher already independently confirmed by E006；
-- mainstream business coverage explicitly treats Bilibili's content/creator/community ecosystem as a market-access advantage and describes the game as B站自研项目。
+- 每日经济新闻已核首段将 TeamSoda 称为 B站旗下自研工作室；
+- bilibili 是商店 publisher 的平台证据另见 E006，公司外围劳动另见 E005；
+- 报道“内容—游戏—社区”分析是媒体解释，不是流量贡献的独立审计；
+- 上列待复核一手线索不作为本条新增事实。发行平台清单、自研自发表述须定位原文后再升级。
 
 Supports:
 - Indie eligibility audit: Team Soda is not an external independently owned studio merely using Bilibili as an arm's-length publisher; the public production framing is corporate internal development plus corporate publishing;

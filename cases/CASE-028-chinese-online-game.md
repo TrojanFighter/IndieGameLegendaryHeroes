@@ -9,22 +9,23 @@ evidence_strength: MEDIUM
 explanatory_importance: HIGH
 narrative_value: HIGH
 context_audit: PARTIAL
-last_verified: 2026-10-04
+last_verified: 2026-10-05
 ---
 # CASE-028 — 中国式网游 / 648工作室
 
 - Case ID: CASE-028
 - Subject: 中国式网游 / 648工作室
 - Related games: 中国式网游
+- Related Claims: []
 - Period covered: 2018–2024+
 - Research status: RESEARCHING
-- Corpus role: POSITIVE CHINESE SOLO / OPC COMPARATOR
-- Last verified: 2026-10-04
+- Corpus role: CHINESE SOLO / OPC CANDIDATE — COMPLETE PERIMETER UNVERIFIED
+- Last verified: 2026-10-05
 - Evidence Ledger: [`../evidence/CASE-028-chinese-online-game-source-ledger.md`](../evidence/CASE-028-chinese-online-game-source-ledger.md)
 
 ## Why this case
 
-《中国式网游》提供的是另一种中国正例：一个人用业余时间连续多年，完成一个外观和语汇都高度接近中国商业网游、但生产结构完全不同的买断制单机项目。
+《中国式网游》提供一种中国 solo 核心研究路径：官方自述一个人用业余时间连续多年完成主要开发，产品模拟商业网游体验。完整生产外围、收入和独立所有权仍待核。
 
 开发者公开说明项目约 2018 年立项，策划、程序与“极其简单的美术”等大量工作由其一人利用业余时间完成，前后约五年。它的研究价值不是“一个人真的做出了 MMORPG”，而是：**一个人怎样只实现玩家真正能感知的‘中国网游经验’，而不复制服务器、多人并发、live ops 和庞大内容组织。**
 
@@ -36,7 +37,7 @@ last_verified: 2026-10-04
 
 ### 神话 B：画面简单，所以开发成本天然很低
 
-过度简化。solo + part-time + 约五年说明现金 burn 可以很低，但时间、机会成本和个人劳动仍然很高。
+过度简化。H：solo + part-time + 约五年可能降低固定现金支出，但现金 burn 尚未核实；时间、机会成本和个人劳动不能因此被忽略。
 
 ### 神话 C：作者一定是资深商业游戏从业者
 
@@ -65,9 +66,9 @@ last_verified: 2026-10-04
 
 | 时间/窗口 | 时代条件 | 作者处境 | Binding constraint | 具体行动 | 直接结果 | Evidence | Transfer boundary |
 |---|---|---|---|---|---|---|---|
-| 2018 起 | Steam 独立发行成熟 | 单人、业余开发 | 无法复制真实 MMO 组织 | 将“中国网游体验”重写成单机模拟/讽刺 | 删除服务器和 live-service 成本 | E001/E002 | 依赖目标体验可被抽象 |
-| 约 5 年 | part-time 可持续 | 时间碎片化 | 人力吞吐极低 | 一人多职、接受简单表现、长期迭代 | 以时间换低现金 burn | E001 | 机会成本仍高 |
-| 发售前 | Demo / Next Fest 可提供分发 | 缺少大团队 marketing | discoverability | 使用 Steam 新品节等窗口 | 获得明显曝光 | E003 | 平台窗口会变化 |
+| 2018 起 | 单机模拟产品 | 官方自述单人、业余开发 | H：多人运营成本可能超出个人范围 | 用模拟玩家呈现网游体验 | H：可能减少网络运营负担；实际技术与成本 UNKNOWN | E001（产品描述）；成本解释为 H | 不据此反推全部架构 |
+| 约 5 年 | 生活支持 UNKNOWN | 自述业余时间开发 | H：个人时间约束 | 一人承担主要工作、使用简单美术 | 官方报告约五年；现金 burn UNKNOWN | E001 | 生活与机会成本待核 |
+| 发售前 | Demo / Next Fest 可提供分发 | 完整市场团队待核 | discoverability | 官方公告将参与新品节 | 参与预告已确认；实际曝光规模 UNKNOWN | E003 | 预告不等于高排名或高转化 |
 | 发行阶段 | 外部 publisher 可接管商务 | solo 核心不宜内建全部外围 | 商店/社区/传播工作 | 与 Wise Games 合作 | 获得 publisher perimeter | E004 | 实际劳动与资金待审计 |
 
 ### Anachronism Check
@@ -76,15 +77,15 @@ last_verified: 2026-10-04
 
 ## 3. Origin
 
-开发者公开以“涛”自称，648工作室公开形态接近单人工作室。此前教育、任职和其他项目经历仍未可靠核实。不得因为作品“太懂中国网游”就反推其职业履历。
+官方公告以第一人称描述单人核心开发；当前核验的公告未确认作者实名或“涛”这一称呼。此前教育、任职和其他项目经历仍未可靠核实。不得因为作品“太懂中国网游”就反推其职业履历。
 
 ## 4. Capability
 
-从开发者自述和成品可观察到：独立承担大量程序与系统设计、能完成基础视觉整合、对中国网游文化和机制语言高度熟悉。最后一项属于领域知识 / taste capital 的结果性证据，而非履历证据。
+开发者自述独立承担大量程序、策划和简单美术。H：官方产品描述呈现的网游语言可能反映领域知识；尚未进行游戏运行观察，也不能据产品题材反推职业履历或完整技能。
 
 ## 5. Runway
 
-已知项目主要利用业余时间完成，最合理的研究表述是 **part-time cross-subsidy**：用其他生存来源换取多年低现金 burn。具体主业、家庭支持、publisher advance 与总预算均未知，因此不能给出低成本神话式数字。
+已知项目主要利用业余时间完成。**part-time cross-subsidy** 是 H 级候选解释，不是已核实的资金事实：具体主业、家庭支持、publisher advance、现金 burn 与总预算均未知。
 
 ## 6. Production
 
@@ -104,7 +105,7 @@ last_verified: 2026-10-04
 
 ## 9. Market
 
-公开报道显示项目参加 Steam 新品节并获得较高热门排序；Wise Games 是正式 publisher。题材本身又拥有强共享经验和梗传播性。因此不能包装成“上传 Steam 零营销自然爆”，但也没有证据说明其依赖大规模付费买量。
+2024-06-07 官方公告确认 Demo 将参加 6 月 Steam 新品节；Wise Games 是当前商店 publisher。热门排序和曝光规模仍 UNVERIFIED，不使用失效二手页面证明。H：共享题材经验可能帮助传播；不能据此包装成“上传 Steam 零营销自然爆”，也没有证据说明其依赖大规模付费买量。
 
 ## 10. Environment
 
@@ -122,9 +123,9 @@ last_verified: 2026-10-04
 - 约五年、主要业余时间；
 - 策划、程序和简单美术等大量工作由一人完成；
 - Wise Games 为 publisher；
-- 使用过 Steam 新品节等市场入口。
+- 官方预告 Demo 将参加 Steam 新品节；实际曝光与转化 UNKNOWN。
 
-### ANALYTICALLY STRONG
+### H — PROVISIONAL INTERPRETATION
 
 它不是把 MMO 做小，而是把“MMO 玩家体验”抽象成 solo developer 可承担的单机表现模型，这与欧美 OPC 案例中的 scope / representation-cost 逻辑高度同构。
 
@@ -136,9 +137,11 @@ last_verified: 2026-10-04
 
 ## 13. Transfer
 
+以下为 H 级候选生产原则，尚未通过本案成本与对照证据检验：
+
 - 优先复制玩家感知的体验结构，而不是复制原产业的组织结构；
 - 高共享文化认知可减少解释与资产负担；
-- part-time runway 能降低现金 burn，但会用年份偿还；
+- part-time 开发可能调整固定现金支出与时间成本；本案收入与 burn 未知；
 - solo 项目仍应利用平台节庆和外部 publisher/社区外围。
 
 ## 14. Non-transfer
@@ -148,13 +151,13 @@ last_verified: 2026-10-04
 ## 15. Evidence Index
 
 - E001 — 开发者 Steam 自述：2018、solo、业余时间、约五年。
-- E002 — 媒体对一人开发结构的复述。
-- E003 — Steam 新品节曝光表现。
+- E002 — 原二手来源失效，待核；不承担事实证明。
+- E003 — 官方公告确认 Steam 新品节参与，不证明曝光排名。
 - E004 — Steam 商店 developer / publisher：648工作室 / Wise Games。
 
 ## 16. Open Questions
 
-1. 开发者“涛”的完整职业履历是什么？
+1. 开发者的实名、完整职业履历及“涛”这一称呼的原始出处是什么？
 2. 五年开发期间靠什么收入维持生活？
 3. 累计外包、音乐、配音、素材 contributors 有多少？
 4. Wise Games 在签约、资金、QA、商店、PR 和 creator outreach 上分别做了什么？

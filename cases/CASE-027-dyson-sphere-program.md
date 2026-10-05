@@ -2,177 +2,117 @@
 type: case
 schema_version: 2
 case_id: CASE-027
-status: RESEARCHING
+status: SKELETON
 subject: "Dyson Sphere Program / Youthcat Studio"
 related_claims: []
-evidence_strength: MEDIUM
+evidence_strength: LOW
 explanatory_importance: CRITICAL
 narrative_value: HIGH
-context_audit: PARTIAL
-last_verified: 2026-10-04
+context_audit: PENDING
+last_verified: 2026-10-05
 ---
-# CASE-027 — Dyson Sphere Program / Youthcat Studio
+# CASE-027 — 戴森球计划 / Youthcat Studio
 
 - Case ID: CASE-027
 - Subject: Dyson Sphere Program / Youthcat Studio
-- Related games: Dyson Sphere Program
-- Period covered: c. 2019–2026
-- Research status: RESEARCHING
-- Corpus role: POSITIVE CHINESE INDIE / INDUSTRY-VETERAN MICRO-STUDIO
-- Last verified: 2026-10-04
-- Evidence Ledger: [`../evidence/CASE-027-dyson-sphere-program-source-ledger.md`](../evidence/CASE-027-dyson-sphere-program-source-ledger.md)
+- Related Claims: []
+- Research status: SKELETON — SOURCE RECOVERY REQUIRED
+- Corpus role: CHINESE COMPARATOR CANDIDATE / ELIGIBILITY UNVERIFIED
+- Last verified: 2026-10-05（仅平台字段及下列明确来源；不是全部原稿事实）
+- Evidence Ledger: [来源账本](../evidence/CASE-027-dyson-sphere-program-source-ledger.md)
+- 未核原稿：[研究线索存档](../sources/research-intake/CASE-027-dyson-sphere-program-unverified-20261005.md)，不作为事实来源。
 
 ## Why this case
 
-《戴森球计划》是中国样本里很重要的正向对照：它不是“新人小队凭热情撞出爆款”，也不是“大公司内部小组被包装成独立”。更接近事实的结构是：已有多年商业开发经验的人，把工程、制作与品类判断压缩进一个约五人、自筹资金、低组织成本的外部工作室。
+检验工厂自动化项目能否通过风险前置、范围控制和外围合作维持小核心。H：职业经验可能转化为能力资本；当前不能把该假说写成已验证生产路径。
 
-本案的关键不是“五个人做了大游戏”这句传奇，而是他们采用的一组生产动作：**高风险技术与核心循环先验证，表现方向随后锁定，再进入细颗粒度任务、工期与成本执行；保持极小核心，把 QA、社区、展会、配音、市场和发行等外围交给合作方。**
-
-这与大量欧美优秀独立团队的 production regime 高度同构，但并不是某种“西方文化专利”。
+原分支的研究问题和待核说法完整保存于存档；其中错页、失效或无具体定位的引用不能支撑原先较高置信度。本次不以模型常识填补。
 
 ## 1. Myth
 
-### 神话 A：五个人突然学会了做大型工业模拟
-
-五人核心有公开依据，但“突然”不成立。制作人周讯在成立 Youthcat 前已经有多年职业开发经历，公开资料称其在帕斯亚约六年，从程序逐步承担制作人职责。其他成员的完整职业履历仍需逐人补证。
-
-### 神话 B：小团队主要靠灵感边做边想
-
-公开访谈相反地显示，团队在全面制作前先用了约五个月验证技术和玩法，又用约一个月确定美术方向；之后再把任务、时间和成本拆细。这是典型的 risk-first production，而不是用后期加人吸收不确定性。
-
-### 神话 C：发行商替团队发现了产品，或发行商“几乎没用”
-
-两个极端都不准确。Gamera Game 对测试、社区、展会、配音、文案、市场和发行等外围提供过真实劳动；但当前证据也不支持把核心题材、玩法、技术路线和早期验证归因给发行商。更准确的关系是：**开发者先把产品问题定义出来，发行商再扩展非核心 perimeter。**
+待核叙事不是事实。早期人数、职业前史、融资方式、团队归属和成功/失败因果均须逐项补证；不预设该项目一定属于独立正例或企业反例。
 
 ## 2. Context–Situation–Action Snapshot
 
 ### Era / Production Regime
 
-2019–2021 年已经有成熟通用引擎、Steam 全球发行和数字社区工具，但没有 2026 年常见的生成式 AI 编程、美术与自动化生产链。Factorio 等产品已验证全球 PC 玩家对工厂自动化的需求，但行星级空间、物流和规模感仍给《戴森球计划》带来实质技术风险。
+UNKNOWN：需按项目开发时点重建工具、平台与组织条件，不使用今天的工具替当时解释因果。
 
 ### Actor Situation
 
-- 核心成员并非行业新人；至少制作人有多年商业开发经历；
-- 团队离开既有商业组织后自筹开发；
-- 公开访谈称没有外部投资，并准备了大致能支撑约两年的资金；
-- 五人核心意味着不能默认用加 headcount 解决返工；
-- 团队有能力识别哪些技术与玩法问题必须在大规模内容生产前验证。
+当前 Steam 平台列开发者 Youthcat Studio、发行商 Gamirror Games（E006）。该字段仅证明当前商店身份，不证明历史融资、所有权或雇佣关系。
 
 ### Action / Maneuver
 
 | 时间/窗口 | 时代条件 | 作者处境 | Binding constraint | 具体行动 | 直接结果 | Evidence | Transfer boundary |
-|---|---|---|---|---|---|---|---|
-| 2019 前后 | Steam / 通用引擎成熟 | 资深从业者离开原团队 | 自有资金有限 | 约五人、自筹起步 | fixed burn 保持较低 | E001/E002 | 依赖既有能力资本 |
-| 前期约 5 个月 | 高复杂度模拟有技术风险 | 小团队返工昂贵 | 不能靠后期堆人救火 | 先验证技术与核心玩法 | 风险前置 | E001 | 适用于高风险核心机制项目 |
-| 随后约 1 个月 | 美术方向未锁定 | 资产预算有限 | 大量返工不可承受 | 集中确定表现方向 | 降低资产返工 | E001 | 不代表所有项目都只需一月定美术 |
-| 全面制作 | 多人多职 | runway 有硬上限 | scope / 工期失控即现金风险 | 细拆任务、时间和成本 | 建立可执行边界 | E001 | 依赖强制作能力 |
-| Gamera 介入后 | 全球发行需要外围劳动 | 核心团队应聚焦研发 | QA/社区/市场会吞研发时间 | 将大量非核心工作外移 | 核心组织无需同步膨胀 | E003/E004 | publisher 贡献不能零化 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 待核 | UNKNOWN | UNKNOWN | UNKNOWN | 原稿行动线索待逐项定位 | 不作因果判断 | 未核 E 项及线索存档 | 当前不形成生产处方 |
 
 ### Anachronism Check
 
-该项目在没有今天 AI 生产力红利的条件下已经证明：**资深小团队可以通过风险前置、能力复用、scope control 与外围合作，把中国商业团队常会理解为“需要更多人”的问题重写为小核心可承担的问题。** 今天的工具能进一步压成本，但不能替代这种判断力。
+未完成。AI 生产力、人才成本或平台环境的历史比较不能凭常识落为本案事实。
 
 ## 3. Origin
 
-公开材料支持周讯在帕斯亚长期从业并从程序走向制作职责。团队因此更接近“职业能力资本的独立化”，而不是第一次做游戏的业余创业。
-
-需要继续核验其他核心成员的逐人履历，避免把制作人的经历泛化为全员相同背景。
+职业履历 UNKNOWN；不能把制作者能力从成品质量倒推为已核实履历。
 
 ## 4. Capability
 
-立项前可观察到的能力资本包括：商业程序与工程、制作管理、模拟经营品类知识、技术风险拆解，以及工期/人员/成本估算。这些能力使团队能保持小，而不是要求组织先做大再开工。
+UNKNOWN：需职业记录、早期作品、工具与直接访谈，不从成品表现推算全部生产能力。
 
 ## 5. Runway
 
-| 时段 | 来源 | 当前可确认口径 | 置信度 |
-|---|---|---|---|
-| 创业早期 | 创始团队自有积蓄 | 公开采访称无外部投资 | MEDIUM-HIGH |
-| 前期 | 自筹资金 | 报道称准备约可支撑两年 | MEDIUM |
-| 发行合作后 | Gamera 外围支持 | advance / MG / 分成尚未核实 | LOW |
-
-禁止把“无外部投资”写成“开发成本极低”，也不能把五人核心写成全部 contributors 只有五人。
+UNKNOWN：个人储蓄、工资、公司资源、投资、预付款及分成分别核；不估算总预算。
 
 ## 6. Production
 
-更准确的 production perimeter 是：
-
-```text
-Youthcat：核心产品定义 / 程序 / 设计 / 美术 / 制作
-        +
-Gamera：测试 / 社区 / 展会 / 配音 / 文案 / 市场 / 发行等外围
-        +
-其他外部 contributors（待 credits audit）
-```
-
-本案与 Duckov 的关键差别不是人数，而是 Youthcat 的外部独立工作室、自筹 runway 与 publisher 关系，而不是母公司内部雇佣关系。
+UNKNOWN：核心、峰值、累计 contributors、外包和发行支持分别核验。
 
 ## 7. Scope
 
-本案并不是“把产品做得简单”，而是重新划分复杂度所有权：最危险的技术和核心循环必须内建；大量外围能力无需转化成固定 headcount。高系统复杂度因此没有自动变成高组织复杂度。
+原稿的范围动作作为 H / 待核线索保留，不能写成已确认的生产决策。
 
 ## 8. Failure
 
-目前尚未完成失败资本审计。后续重点应核：早期废弃原型、EA 期间系统返工、性能/架构重写，以及长期 EA 对小团队 burn 与生活的压力。正例不能只保存胜利叙事。
+UNKNOWN：需时间线、直接证词、双方版本及对照资料，不用单方解释完成责任归因。
 
 ## 9. Market
 
-Gamera 的公开复盘说明其确实承担了测试、社区、展会、配音/文案和市场发行工作；同时其自身也较克制地描述了当时海外发行能力，很多海外 outreach 仍是逐个联系媒体/creator 的基础劳动。
-
-这支持一个更窄、更有价值的判断：**publisher 有用，但 publisher 的有用不等于 publisher 比团队更早理解应该做什么产品。**
+当前发行商字段已核验；历史渠道劳动、曝光、wishlist、销量与因果归因均 UNKNOWN。
 
 ## 10. Environment
 
-有利条件包括 Steam 全球市场、成熟引擎、中国商业游戏人才池，以及可以外包给发行方的外围劳动；约束则是国内买断制融资不成熟、自筹 runway 有限，以及工业模拟对系统/性能能力要求很高。
+UNKNOWN：尚不能断言制度、地区或工具的净因果作用。
 
 ## 11. Luck
 
-工厂自动化品类需求已被验证、疫情时期 PC 消费增长、Steam 口碑放大都可能提供外部帮助；这些不能解释团队为何能在五人核心下完成高复杂度生产。
+UNKNOWN：没有对照与时间线前，不把偶然事件当充分原因。
 
 ## 12. Verdict
 
-### STRONGLY SUPPORTED
-
-- 早期核心约五人；
-- 自筹开发，公开称无外部投资；
-- 至少制作人拥有多年商业游戏经验；
-- 正式制作前有数月技术/玩法验证与美术方向验证；
-- 有明确任务/工期/成本规划意识；
-- Gamera 对非研发外围有真实贡献。
-
-### PARTIALLY SUPPORTED
-
-把它称为“西式独立生产方法”可以作为比较框架：低核心人数、自筹 runway、风险前置、scope control、publisher 外围化确实与大量欧美 indie case 同构。但这些原则并不属于某一文化专有。
-
-### NOT SUPPORTED AS FRAMED
-
-- “发行商基本没帮到他们”；
-- “发行商指导团队发现了核心产品”；
-- “五个人从零突然学会所有技能”。
+仅当前平台身份和明确列出的公告内容被直接支持。原稿人数、资金、组织与生产机制尚未达到原先标注的强度，归为 UNVERIFIED。未提升任何跨案例 Claim。
 
 ## 13. Transfer
 
-- 把职业经历转成 capability capital，而不是复制原公司的 headcount；
-- 对高风险项目先验证技术与核心循环，再批量做内容；
-- 用制作管理和删复杂度替代“多招人兜底”；
-- publisher 优先承担外围，而不是替代产品问题定义；
-- 小团队不是只能做简单游戏，但必须更早知道哪些复杂度值得拥有。
+H：原稿提出的机制值得检验，但在补齐正反证据前，不作普遍处方。
 
 ## 14. Non-transfer
 
-多年职业能力不能速成；自筹两年 runway 不是人人拥有；品类需求已有全球验证；具体 publisher 合同、分成与版号支持仍未知。
+UNKNOWN：生活支持、资金、工具、人才与市场条件的可复制边界尚未完成。
 
 ## 15. Evidence Index
 
-- E001 — 研发团队采访：五人、自筹、前置验证、细化生产计划。
-- E002 — 主创职业前史：周讯在帕斯亚约六年并承担制作职责。
-- E003 — Gamera 对 QA、社区、展会、配音/文案、发行与市场外围的贡献。
-- E004 — Gamera 对自身当时海外发行能力的限制性表述。
-- E005 — 自筹 runway 的补充报道。
+- E001：研发团队人数、自筹和前置验证，UNVERIFIED / 不作为事实证明。
+- E002：主创职业前史，UNVERIFIED / 不作为事实证明。
+- E003：发行外围贡献，UNVERIFIED / 不作为事实证明。
+- E004：海外发行能力，UNVERIFIED / 不作为事实证明。
+- E005：自筹 runway，UNVERIFIED / 不作为事实证明。
+- E006：当前 Steam 平台身份，P0。
 
 ## 16. Open Questions
 
-1. Youthcat 创立时每位核心成员的完整职业履历是什么？
-2. Gamera 合同是否包含 advance / MG / 额外开发资金？
-3. 五人之外累计外包、音乐、配音、QA、本地化 contributors 有多少？
-4. 国内外 wishlist / creator / Steam discovery 各自贡献如何？
-5. EA 后团队扩张与 burn 的时间线如何？
+1. 早期核心是否为五人，统计时间和外部 contributors 如何定义？
+2. 无外部投资、自筹两年 runway 是否有同期一手说明？
+3. 五个月技术验证、一个月美术验证的原始采访在哪里？
+4. 周讯在帕斯亚的岗位和年限如何核验？
+5. Gamera / Gamirror 的名称沿革、合作时间、具体劳动与融资控制权是什么？

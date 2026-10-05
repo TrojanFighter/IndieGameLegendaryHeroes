@@ -4,6 +4,8 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
+编号也不代表证据成熟：当前 30 个档案中，27 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+
 | Case ID | Subject | 研究目的 | 状态 |
 |---|---|---|---|
 | CASE-001 | FTL / Subset Games | 检验储蓄、地区成本、前职业经验、众筹与小团队范围控制 | RESEARCHING |
@@ -32,10 +34,10 @@
 | CASE-024 | Escape from Duckov / Team Soda | **NON-INDIE COMPARATOR**：检验 Bilibili 内部五人核心如何借公司工资、发行/流量外围与前作能力，通过删 multiplayer/mobile/hardcore simulation 重写 extraction 的生产成本；不得作为独立发行正例 | RESEARCHING |
 | CASE-025 | Bills Must Be Paid / Rike Games | 检验两人工作室的七年高频失败/原型能力如何压缩进七个月 Steam 项目，以及 mobile 世界模型如何在 demo / wishlist / creator 市场接入中被修正 | RESEARCHING |
 | CASE-026 | Brigador / Stellar Jockeys | 失败 comparator：检验强产品执行为何仍可因 onboarding、market legibility、受众预期与成本—市场错位导致首发商业失败 | RESEARCHING |
-| CASE-027 | Dyson Sphere Program / Youthcat Studio | **POSITIVE CHINESE INDIE**：检验资深商业开发者如何把职业能力资本压缩进五人、自筹、风险前置和 scope-controlled 的独立生产结构，并把 publisher 保持在外围 | RESEARCHING |
-| CASE-028 | Chinese Online Game / 648 Studio | **POSITIVE CHINESE OPC**：检验一人业余五年如何通过 representation-cost redefinition 模拟中国网游体验，而不是复制 MMO 组织；职业前史保持 UNKNOWN | RESEARCHING |
-| CASE-029 | Boundary / Surgical Scalpels Studio | **TRANSITION / FAILURE COMPARATOR**：检验真实 indie origin 如何在高规格多人 FPS 目标下逐步吸收平台扶持、发行融资、股权资本与数十人组织，并发生工业化 | RESEARCHING |
-| CASE-030 | Outpost: Infinity Siege / Team Ranger | **NEGATIVE CORPORATE COMPARATOR**：检验公司内部小团队如何把商业手游留存/时长/数据与资源扩张逻辑带入 premium 项目，并造成 production-regime mismatch | RESEARCHING |
+| CASE-027 | Dyson Sphere Program / Youthcat Studio | 待核：团队前史、人数、runway、范围控制与发行关系；原引用不能支撑独立正例判定 | SKELETON |
+| CASE-028 | Chinese Online Game / 648 Studio | 官方自述单人业余约五年；检验模拟网游体验的表现成本，职业前史与完整协作者边界仍 UNKNOWN | RESEARCHING |
+| CASE-029 | Boundary / Surgical Scalpels Studio | 待核：所有权、融资、团队扩张与停服因果；已定位发行方公告，不据单方声明归责 | SKELETON |
+| CASE-030 | Outpost: Infinity Siege / Team Ranger | 待核：团队归属、职业前史、范围与市场预期；不预设企业内部负例结论 | SKELETON |
 
 ## 规则
 
@@ -51,6 +53,6 @@
 
 ## 中国独立案例下一优先级
 
-`Sultan's Game / 双头龙工作室 (Double Cross)` 仍是下一批最重要的纯独立中国案例。公开材料把双头龙描述为新成立的 9 人独立工作室，Steam 的 developer / publisher 分别为 Double Cross / 2P Games；发行方还公开称项目几乎没有买量。它因此在**工作室所有权、外部 publisher、自然传播 / demo / 众筹路径**上，比 Bilibili 内部 Team Soda 更接近本项目要研究的中国独立生产结构。
+`Sultan's Game / 双头龙工作室 (Double Cross)` 是下一批中国案例候选，优先检验工作室所有权、外部发行、Demo、众筹与传播路径。团队人数、资金关系与“几乎没有买量”等说法须定位原始来源，不预先判为纯独立或自然传播正例。Artless Games 的作品、公开言论与持续创作方式也已进入 [候选池](BACKLOG.md)。
 
 正式升级前仍要做一次 Schema v2 的 Context–Situation–Action 与 ownership / financing / publisher-control audit，尤其核清：成员离开原公司后的 runway、2P Games 介入时间与资金/控制权、摩点众筹在开发资金中的真实作用，以及“几乎没有买量”与实际 creator / platform resources 的边界。

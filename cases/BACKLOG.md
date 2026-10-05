@@ -1,7 +1,7 @@
 # Case Backlog — 历史语料与深度研究案例池
 
 - Status: ACTIVE
-- Last updated: 2026-10-04
+- Last updated: 2026-10-05
 
 本表用于回答一个治理问题：**我们过去已经用过哪些案例，它们当时被用来证明什么，现在有没有资格升级为正式 Case？**
 
@@ -42,15 +42,29 @@
 | CASE-024 | Escape from Duckov / Team Soda | CHAT-RESEARCH + EXTERNAL-VERIFIED | 五人核心并非五人总 production；前作与 4–6 年合作形成能力资本；Bilibili 提供外围；通过砍 mobile/multiplayer/hardcore mechanics 重写 extraction 成本结构 |
 | CASE-025 | Bills Must Be Paid / Rike Games | CHAT-RESEARCH + EXTERNAL-VERIFIED | 两人核心七个月 Steam 项目背后是约七年 mobile/web 前史、四年 publisher prototype 训练、约百个失败/原型；成功前留下的 200-wishlist 帖还提供了 mobile→Steam 错误世界模型被修正的 contemporaneous evidence |
 | CASE-026 | Brigador / Stellar Jockeys | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | 第一例正式 failure comparator：强产品执行与高口碑仍可被 onboarding、market legibility、受众预期和市场转换问题击穿 |
+| CASE-027 | Dyson Sphere Program / Youthcat Studio | CHAT-RESEARCH + COMPARATOR | SKELETON；平台身份已核，人数、自筹、前史和独立资格待补原始来源 |
+| CASE-028 | Chinese Online Game / 648 Studio | CHAT-RESEARCH + EXTERNAL-VERIFIED | 官方单人业余约五年自述已核，职业前史、完整协作者与财务口径待核 |
+| CASE-029 | Boundary / Surgical Scalpels Studio | CHAT-RESEARCH + COMPARATOR | SKELETON；平台与发行方停服公告已核，组织、融资与争议归责待核 |
+| CASE-030 | Outpost: Infinity Siege / Team Ranger | CHAT-RESEARCH + COMPARATOR | SKELETON；团队归属、职业前史与生产制度解释待原文证据 |
 
 ## 下一批优先正式化 / 深挖
 
-当前不预锁 `CASE-027`。下一轮继续从下方 comparator / 候选池中按三项排序选取：
+CASE-027–030 已登记，下一新编号从 CASE-031 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
-3. 是否提供当前 26 个 Case 还没有覆盖的生产结构。
+3. 是否提供当前 30 个档案还没有覆盖的生产结构。
 
 同时优先补现有案例的 contributor / market-access audit，避免只增长案例数量、不提高审计成熟度。
+
+### Artless Games：公开言论、产品与持续创作方式
+
+- Status: CANDIDATE / NOT NUMBERED。2026-10-05 作者提出此对象；“很西式”“值得中国年轻人借鉴”是选题观察，不是已证事实或民族性解释。
+- 身份入口：Valve / Steam，[按 Artless Games 筛选的开发者作品目录](https://store.steampowered.com/search/?developer=Artless%20Games)，动态页面，发布日期 UNKNOWN，访问 2026-10-05。当前目录列出 Understand、A=B、14 Minesweeper Variants、14 Minesweeper Variants 2 等；P0 仅用于平台目录身份，不证明人数、国籍、收入或作品分工。同名 itch.io 账号不能未经对应关系核验就归到同一作者。
+- 研究价值：检验逻辑/解谜产品的范围与表现成本、连续作品能否形成能力与收入积累，以及公开设计讨论如何连接全球受众；可对照 Dream Quest、Gunpoint 与 solo 案例，但不预先写成成功范式。
+- 言论核验：找作者自署文章、访谈、演讲与开发日志；保存标题、作者、日期、URL、原句与语境，区分实践陈述、个人价值判断和事后解释。哪些观点在作品完成前已经公开？哪些实际改变了产品？
+- 产品核验：逐作核开发起点、核心/外围 contributors、工具复用、失败/废案、范围裁切、定价、发行关系、语言与市场路径；不把商店 `Indie` 标签当所有权审计。
+- 生存方式核验：工资/接活、储蓄、前作净收入、发行预付、家庭支持、生活成本与再就业能力逐项 UNKNOWN；只采用公开自述或可靠记录，不从销量、评价数、居住地或生活形象反推收入。
+- 借鉴边界：可迁移的生产决策须与不可复制的能力前史、生活支持、时点和市场机会分开；寻找相似选择但收入不足的对照。先证据账本，再判断对中国年轻创作者的适用条件。
 
 ## Taste Capital / “品味决定命运”审计队列
 
