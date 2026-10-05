@@ -1,5 +1,16 @@
 # 《斯拉夫游戏英雄传说》Evidence Index
 
+[姊妹篇入口](../README.md) · [独立篇研究档案](../../../cases/README.md)
+
+编号专题为 8 个；SLAVIC-007 另外保留两份并行矩阵稿，不作为新编号专题计数。完整文件归属见 [独立索引](../metadata/research-index.json)。
+
+保留的并行稿：
+
+- [产品结构矩阵并行稿](SLAVIC-007-war-online-product-structure-matrix.md)
+- [载具设计矩阵并行稿](SLAVIC-007-war-vehicle-online-design-matrix.md)
+
+迁移只明确文件归属与计数，不裁决稿间事实差异，也不把并行稿合并成新结论；合稿须另做证据与口径审阅。下面既有专题入口保持不变。
+
 - Status: ACTIVE
 - Last updated: 2026-10-03
 

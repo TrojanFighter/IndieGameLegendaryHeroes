@@ -29,5 +29,7 @@ jobs:
         run: python tools/explorer_lint.py
       - name: Check translation registry and source versions
         run: python tools/translation_lint.py
-      - name: Test public-content and translation guards
+      - name: Check sister-program inventory and boundaries
+        run: python tools/slavic_research_lint.py
+      - name: Test public-content, translation and sister-program guards
         run: python -m unittest discover -s tests -p 'test_*.py'

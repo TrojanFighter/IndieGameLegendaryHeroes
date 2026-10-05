@@ -2,6 +2,8 @@
 
 中文研究原文保留现有路径；英文内容放在 `translations/en/`，共享 Case / Claim / Evidence ID。英文入口见 [README](../translations/en/README.md)，贡献指南见 [CONTRIBUTING](../translations/en/CONTRIBUTING.md)。
 
+本规则中的 `translations/en/` 指独立篇。斯拉夫姊妹篇开始翻译后在 `sister-projects/slavic/translations/en/` 单独登记原文和译文，目前没有本篇译文。两篇共享维护标准，不把斯拉夫译文并入独立篇索引。
+
 ## 一个研究依据，两套阅读入口
 
 - 中文 Case / Evidence / Claim 是 canonical research；译文不得新增事实、补齐 UNKNOWN、提升证据等级或删除反方证据。

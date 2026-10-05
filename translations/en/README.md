@@ -18,6 +18,7 @@ It does not treat successful games as proof that hard work guarantees success. T
 - [Research constitution](../../AGENTS.md): evidence grades, claim states and research boundaries (Chinese).
 - [Workflow](../../WORKFLOW.md) and [bilingual maintenance](../../docs/bilingual-maintenance.md) (Chinese).
 - [Glossary](../../docs/glossary.md): Chinese–English research terminology.
+- [Slavic Game Legendary Heroes](../../sister-projects/slavic/README.md): a separate sister program with its own [evidence index](../../sister-projects/slavic/evidence/README.md) and [manuscript entry](../../sister-projects/slavic/book/README.md), currently in Chinese. Its eight numbered research topics and two retained matrix variants are separate from this program's Case counts; no formal Slavic Cases, Claims or Profiles have been created yet.
 
 The first English full-case pilot is [CASE-001 — FTL / Subset Games](cases/CASE-001-ftl.md). Its status remains RESEARCHING — FIRST EVIDENCE PASS. Untranslated cases remain available through the Chinese index; their absence here says nothing about their research maturity.
 
@@ -28,6 +29,8 @@ A Case tracks myth, origin, prior capabilities, runway, production, scope, failu
 Facts must trace to public sources. P0 means contemporaneous primary evidence; P1 means retrospective primary evidence; S1 and S2 distinguish stronger and weaker secondary sources; H marks our hypotheses. Unknown details remain UNKNOWN. A successful team's choices alone do not establish causation.
 
 Research dossiers and finished narratives are separate. Reader-facing prose must point back to Case / Claim / Evidence, rather than fill gaps for dramatic effect. Private projects are excluded as cases, sources and application targets.
+
+Cases are auditable research dossiers; Profiles are narratives about people and production histories built from that research. Neither is a language version of the other. The two programs share evidence rules and tools, while maintaining separate records and reading entry points. Cross-program comparisons link to the original evidence rather than duplicate it.
 
 ## Rights and contribution
 

@@ -155,7 +155,7 @@
 
 ## 姊妹篇：《斯拉夫游戏英雄传说》
 
-[`sister-projects/SlavicGameLegendaryHeroes.md`](sister-projects/SlavicGameLegendaryHeroes.md) 研究俄罗斯、乌克兰、白俄罗斯及邻接产业网络中的游戏生产谱系，包括：
+[`sister-projects/slavic/`](sister-projects/slavic/README.md) 独立保存《斯拉夫游戏英雄传说》的研究、证据与书稿入口，研究俄罗斯、乌克兰、白俄罗斯及邻接产业网络中的游戏生产谱系，包括：
 
 - GSC Game World → 4A Games / Metro 的人才与组织迁移；
 - Wargaming / World of Tanks 的产业级转折；
@@ -163,6 +163,8 @@
 - 俄罗斯系统型、军武型与作者型工作室的长期生产结构。
 
 这里同样拒绝“某一个民族天生更会做某类游戏”之类的简化解释，而是追踪人才、技术、资本、组织与市场路径。
+
+本篇 [证据索引](sister-projects/slavic/evidence/README.md) 包含 8 个编号专题及 2 份保留的并行矩阵稿；专题不等同正式 Case，不计入上面的 26 个独立篇 Case。本篇 [书稿入口](sister-projects/slavic/book/README.md) 当前没有正式 Profile。两篇共享方法论与工具，分别维护资料索引与阅读入口；不按开发者国籍机械搬动独立篇案例。
 
 ---
 
