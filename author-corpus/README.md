@@ -32,9 +32,11 @@ Author Corpus 单独标记为 **A0 — Author-Origin**，不并入 P0/P1/S1/S2 �
 - [AC-003 — 世界模型、成本结构与生产能力](AC-003-world-model-and-production-cost.md)
 - [AC-004 — 中国独立创作的“三座大山”](AC-004-china-three-mountains.md)
 - [AC-005 — 品味资本、选择能力与“品味决定命运”](AC-005-taste-capital-and-selection.md)
+- [AC-006 — 偏离惩罚、成功者赦免与功绩条件式宽容](AC-006-deviance-sanctions-and-winners-amnesty.md)
+- [AC-007 — 外部出题、Benchmark 答案化与版本时滞](AC-007-benchmark-meta-convergence.md)
 
-其中 AC-005 当前只是一条**待检验的作者母题**：CASE-007 Gunpoint 是第一个强锚点，但在找到更多正例与反例前，不升级为新的跨案例 Claim。
+其中 AC-005 / AC-006 / AC-007 当前都只是**待检验的作者母题**：它们可以指导 Case intake 与外部取证，但不得在没有 P0/P1/S1 支撑时写成跨案例事实。
 
 ## 姊妹项目
 
-《俄罗斯游戏英雄传说》与本项目共享方法论，但不局限于独立游戏。研究边界见：[`../sister-projects/RussianGameLegendaryHeroes.md`](../sister-projects/RussianGameLegendaryHeroes.md)。
+《斯拉夫游戏英雄传说》与本项目共享方法论，但不局限于独立游戏。研究边界见：[`../sister-projects/SlavicGameLegendaryHeroes.md`](../sister-projects/SlavicGameLegendaryHeroes.md)。
