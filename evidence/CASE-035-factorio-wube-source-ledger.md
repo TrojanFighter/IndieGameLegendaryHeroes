@@ -54,13 +54,12 @@
 ## E004 — Campaign ending and immediate staffing effect
 
 - Source class: P0 — contemporaneous developer logs
-- Titles: Indiegogo Campaign Is Over; What next?
+- Title: Indiegogo Campaign Is Over
 - Author / Institution: Tomas / Factorio team
-- Published: 2013-03-04 / 2013-03-07
+- Published: 2013-03-04
 - Accessed: 2026-10-06
-- URLs:
-  - https://www.factorio.com/blog/post/indiegogo-campaign-is-over
-  - https://www.factorio.com/blog/47
+- URL: https://www.factorio.com/blog/post/indiegogo-campaign-is-over
+- Secondary source: “What next?” (2013-03-07), https://www.factorio.com/blog/47
 - Claim use:
   - team says the campaign changed the immediate choice from finding jobs/abandoning Factorio to continuing development;
   - explicitly limits the claim to supporting development for the near future;
@@ -71,13 +70,12 @@
 ## E005 — Direct website paid alpha
 
 - Source class: P0 — contemporaneous developer log
-- Titles: Preorder starting soon; Preorder Started
+- Title: Preorder Started
 - Author / Institution: Tomas / Factorio team
-- Published: 2013-03-15 / 2013-03-18
+- Published: 2013-03-18
 - Accessed: 2026-10-06
-- URLs:
-  - https://www.factorio.com/blog/post/preorder-starting-soon
-  - https://www.factorio.com/blog/post/preorder-started
+- URL: https://www.factorio.com/blog/post/preorder-started
+- Secondary source: “Preorder starting soon” (2013-03-15), https://www.factorio.com/blog/post/preorder-starting-soon
 - Claim use:
   - team created direct website preorder immediately after crowdfunding;
   - lowest tier €10 with alpha access in all tiers;
@@ -105,13 +103,12 @@
 ## E007 — Official press kit / team page: long chronology and organization growth
 
 - Source class: P0/P1 — official institutional history
-- Titles: Factorio Press Kit; Team
+- Title: Factorio Press Kit
 - Author / Institution: Wube Software
-- Published: dynamic pages
+- Published: UNKNOWN
 - Accessed: 2026-10-06
-- URLs:
-  - https://www.factorio.com/press-kit
-  - https://www.factorio.com/game/about
+- URL: https://www.factorio.com/press-kit
+- Secondary source: Wube “Team / About” page, https://www.factorio.com/game/about
 - Claim use:
   - development began May 2012; successful Indiegogo February 2013; Wube founded September 2014; Steam launch February 2016; 1.0 August 2020;
   - current history describes origin as a garage company of two programmers and one graphician, later growing to about 30–31 in-house professionals/contributors.
