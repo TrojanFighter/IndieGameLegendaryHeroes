@@ -36,6 +36,7 @@
 | CASE-028 | Chinese Online Game / 648 Studio | **POSITIVE CHINESE OPC**：检验一人业余五年如何通过 representation-cost redefinition 模拟中国网游体验，而不是复制 MMO 组织；职业前史保持 UNKNOWN | RESEARCHING |
 | CASE-029 | Boundary / Surgical Scalpels Studio | **TRANSITION / FAILURE COMPARATOR**：检验真实 indie origin 如何在高规格多人 FPS 目标下逐步吸收平台扶持、发行融资、股权资本与数十人组织，并发生工业化 | RESEARCHING |
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | **NEGATIVE CORPORATE COMPARATOR**：检验公司内部小团队如何把商业手游留存/时长/数据与资源扩张逻辑带入 premium 项目，并造成 production-regime mismatch | RESEARCHING |
+| CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | **LONGITUDINAL PRACTITIONER**：检验同一开发者如何跨三人、solo-core、两人团队反复出货，并区分快速原型、范围压缩、市场可读性、公开沟通与运气各自的真实作用 | RESEARCHING |
 
 ## 规则
 
