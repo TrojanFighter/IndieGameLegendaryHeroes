@@ -11,6 +11,7 @@
 - [`goal-formation-through-production-001.md`](goal-formation-through-production-001.md) — 目标是否在行动、反馈、能力积累和身份转换中逐渐形成。
 - [`old-chat-corpus-audit-001.md`](old-chat-corpus-audit-001.md) — 从作者历史公共行业/教育讨论中筛选可检验的新命题与案例线索。
 - [`china-indie-distribution-regime-001.md`](china-indie-distribution-regime-001.md) — 中国现代 indie 晚起的产业路径依赖，以及旧渠道环境是否导致开发者形成错误市场接口世界模型。
+- [`china-pc-market-interface-audit-001.md`](china-pc-market-interface-audit-001.md) — 对《波西亚时光》《戴森球计划》《Eastward》《太吾绘卷》《了不起的修仙模拟器》《苏丹的游戏》《边境》七个中国 PC 项目的市场接口、愿望单/验证路径、发行外围与海内外结构做横向审计，检验“看不见的墙”命题。
 - [`pvz-hybrid-ugc-production-and-spread-001.md`](pvz-hybrid-ugc-production-and-spread-001.md) — 《植物大战僵尸杂交版》从长期玩家改版、视频—反馈循环、社区共同生产到平台爆发、官方吸纳与原创 IP 转型的 intake；当前不把 fan-IP 成功误写成原创 premium indie 正例。
 - [`pvz-hybrid-spread-chronology-audit-002.md`](pvz-hybrid-spread-chronology-audit-002.md) — 专门审计《杂交版》国内/海外传播先后；当前证据支持跨境快速扩散，但不支持“TikTok 先于国内爆发”这一强说法，等待原始 TikTok/creator analytics 翻案。
 - [`taste-capital-audit-001.md`](taste-capital-audit-001.md) — Taste Capital 第一轮多案例审计。
