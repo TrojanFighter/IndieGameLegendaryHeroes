@@ -3,25 +3,84 @@
 本仓库把工作拆成三条车道：
 
 - **Library Operations / 库运维**：schema、metadata、lint、CI、README、Case Explorer、source health、build。
-- **Case Research / 案例研究**：Case、Evidence、Claim、Contributor / Market-access / CSA audits、反例与 comparator。
+- **Case Research / 案例研究**：Case、Evidence、Signal、Claim、Contributor / Market-access / CSA audits、反例与 comparator。
 - **Editorial / Book Layer**：reader profiles、书级 thesis、TOC 与成书。
 
 详细边界与 handoff contract 见：[`schemas/workflow-lanes.md`](schemas/workflow-lanes.md)。
+研究对象的唯一 Owner 与权威顺序见：[`schemas/research-authority-map.md`](schemas/research-authority-map.md)。
 
-默认原则：**库运维不替案例研究补历史事实；案例研究不顺手改 schema/lint；书稿不创造 canonical facts。**
+默认原则：**库运维不替案例研究补历史事实；案例研究不顺手改 schema/lint；书稿不创造 canonical facts；聊天 / Issue / Signal 不自动成为 Evidence。**
 
 ## Issue Intake
 
-公开输入统一走 GitHub Issue chooser，而不是空白 issue。当前四类：
+公开输入统一走 GitHub Issue chooser，而不是空白 issue。当前五类：
 
 1. **Case 纠错**：修正已有事实、口径、时代条件或因果外推；
 2. **新增 Evidence**：给已有 Case 提供可追溯来源，并明确它直接支持什么、不能证明什么；
 3. **候选 Case**：提出新案例，同时给出生产史解释价值、初步 CSA 与至少一个可核验来源；
-4. **库流程 / 工具问题**：schema、metadata、lint、CI、README、Explorer、source health、build 等 Lane A 问题。
+4. **库流程 / 工具问题**：schema、metadata、lint、CI、README、Explorer、source health、build 等 Lane A 问题；
+5. **弱信号 / 口述 / 传闻**：提交值得核验但尚不足以进入 Evidence 的公开安全线索。
 
 入口：<https://github.com/TrojanFighter/IndieGameLegendaryHeroes/issues/new/choose>
 
-Issue 只是 intake，不自动成为 canonical fact。进入 Case / Evidence / Claim 仍需 Lane B 核验。
+Issue 只是 intake，不自动成为 canonical fact。进入 Signal / Evidence / Case / Claim 仍需 Lane B 分流和核验。
+
+## Signal / Weak Evidence / Decision Posture
+
+弱口述、二手转述、圈内传闻、作者记忆、删除来源残影和高时效行业早期信号，按 [`schemas/signal-decision-protocol.md`](schemas/signal-decision-protocol.md) 处理。
+
+公开安全的 Signal 主档统一放在：
+
+```text
+sources/research-intake/signals/
+```
+
+模板：[`schemas/signal-template.md`](schemas/signal-template.md)。
+
+关键边界：
+
+```text
+Signal ≠ Evidence
+Decision Posture ≠ Evidence Status
+```
+
+Signal 可以改变“先查什么、是否 WATCH / PROBE / HEDGE”，但不能直接提高 Case `evidence_strength`、升级 Claim，或在 reader layer 中被改写为确定事实。
+
+对于明显具有时间窗口的问题，同时考虑：
+
+- Time sensitivity；
+- Temporal decay；
+- false-positive cost；
+- false-negative / delay cost；
+- 当前动作是否可逆；
+- 是否能用低成本动作保留 optionality。
+
+不行动和等待更强证据不是零成本基线。最终行动裁决仍由作者 / 维护者作出。
+
+## Case Graduation
+
+Case 收口规则见 [`schemas/case-graduation.md`](schemas/case-graduation.md)。正式状态继续只使用：
+
+```text
+SKELETON → RESEARCHING → REVIEW → STABLE
+```
+
+`REVIEW-READY` 只是机器派生资格，不是新的 frontmatter 状态。
+
+本地查看当前派生成熟度：
+
+```bash
+python tools/case_maturity.py
+python tools/case_maturity.py --json
+```
+
+CI 运行：
+
+```bash
+python tools/case_maturity.py --check
+```
+
+机器只阻止明显过早的 `REVIEW / STABLE` 晋级，**不会自动升级 Case**。UNKNOWN / H / weak Signal 本身不阻止 STABLE；真正阻塞的是对核心 Verdict / Transfer 有实质影响、且仍存在合理核验路径但尚未处理的问题。
 
 ## Source Health
 
@@ -49,6 +108,8 @@ Source Health **不阻断 merge，也不自动修改 Evidence**。404/410、重�
 
 Explorer 依赖的 metadata contract 由 [`tools/explorer_lint.py`](tools/explorer_lint.py) 在 CI 中检查；UI 不得硬编码 CASE ID 形成第二份手工数据库。
 
+Graduation / maturity 暂由 `tools/case_maturity.py` 统一计算，不在 Explorer 的 JavaScript 中复制一套规则。以后若增加 Graduation 视图，应消费该工具的派生结果，而不是重新实现判定逻辑。
+
 ## Obsidian Compatibility
 
 仓库可以直接作为 Obsidian Vault 打开，但 Obsidian 只作为本地阅读、编辑和关系探索层，不成为 canonical facts 或 machine metadata 的来源。
@@ -62,15 +123,17 @@ Explorer 依赖的 metadata contract 由 [`tools/explorer_lint.py`](tools/explor
 
 ## Repository Hygiene
 
-[`branch-hygiene.yml`](.github/workflows/branch-hygiene.yml) 在 `main` 每次更新后清理已经完全合并且没有 open PR 的 `chatgpt/*` 分支。
+[`branch-hygiene.yml`](.github/workflows/branch-hygiene.yml) 在 `main` 每次更新后清理已经有 merged PR 且当前没有 open PR 的 `chatgpt/*` 分支。
 
 它只处理同时满足以下条件的分支：
 
 1. 分支名以 `chatgpt/` 开头；
-2. 所有提交已经进入 `main`；
+2. GitHub 记录中该 head branch 已对应 merged PR；
 3. 当前没有 open PR 使用该分支。
 
-这解决 merged working branches 的积累问题，但**不等价于 main branch protection**。分支保护 / ruleset 仍属于 GitHub repository-admin 设置，应单独开启 required PR + `research-lint`，而不是依赖 workflow 模拟。
+由于本仓库允许 squash merge，**不能**用 `git branch --merged main` 判断 PR 分支是否安全清理；workflow 以 GitHub merged-PR state 为准。
+
+`main` 已由 repository ruleset 保护：正常修改要求 PR，required checks 包括 `lint` 与 `private-content-guard`，并禁止删除与 non-fast-forward / force-push。
 
 ## Lane A 常用维护命令
 
@@ -80,6 +143,7 @@ Explorer 依赖的 metadata contract 由 [`tools/explorer_lint.py`](tools/explor
 python tools/research_lint.py --strict
 python tools/research_evidence_lint.py
 python tools/context_audit_lint.py
+python tools/case_maturity.py --check
 python tools/reader_layer_lint.py
 python tools/explorer_lint.py
 ```
