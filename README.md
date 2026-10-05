@@ -1,5 +1,7 @@
 # 独立游戏英雄传说
 
+[English entry](translations/en/README.md) | [贡献指南](CONTRIBUTING.md)
+
 **Indie Game Legendary Heroes**  
 作者 / 主创：**洪荒行者**
 

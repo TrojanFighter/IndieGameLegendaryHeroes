@@ -12,6 +12,8 @@ tags: [micro-team, runway, savings, kickstarter, competition-validation, scope-r
 ---
 # CASE-001 — FTL / Subset Games
 
+[English translation (DRAFT)](../translations/en/cases/CASE-001-ftl.md)
+
 - Status: RESEARCHING — FIRST EVIDENCE PASS
 - Subject: FTL: Faster Than Light / Subset Games
 - Related Claims: C001, C002, C003, C004, C006, C008, C010, C011

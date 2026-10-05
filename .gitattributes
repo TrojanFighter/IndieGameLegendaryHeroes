@@ -1,2 +1,22 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Obsidian saves Markdown with LF; use the same working-tree format on Windows.
+*.md text eol=lf
+*.json text eol=lf
+*.jsonc text eol=lf
+*.yaml text eol=lf
+*.yml text eol=lf
+*.csv text eol=lf
+*.base text eol=lf
+*.txt text eol=lf
+*.toml text eol=lf
+*.ini text eol=lf
+*.py text eol=lf
+*.ps1 text eol=lf
+*.sh text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.js text eol=lf
+.editorconfig text eol=lf
+.gitattributes text eol=lf

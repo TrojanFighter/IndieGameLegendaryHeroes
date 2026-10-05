@@ -141,3 +141,27 @@ python tools/check_source_health.py --evidence-dir sister-projects/slavic/eviden
 3. 哪些问题明确留给下一条 Lane / 后续任务。
 
 一个 PR 原则上只承担一条 Lane。跨 Lane 不是禁止，但必须说明为什么不能拆分。
+
+## 公开贡献与双语检查
+
+新贡献按 [CONTRIBUTING.md](CONTRIBUTING.md) 使用独立公开上下文、单任务分支和实际差异审阅。英文入口见 [translations/en/README.md](translations/en/README.md)。译文版本与人工审阅规则见 [双语维护](docs/bilingual-maintenance.md)；运行 `python tools/translation_lint.py` 检查登记、源版本、ID 与本地链接。
+
+### Obsidian 只读使用与本地状态
+
+- 打开仓库根目录作为现有 Vault，不再在仓库内新建嵌套 Vault。
+- 在设置的 Editor / 编辑器中将默认视图设为 Reading view / 阅读视图，避免误触编辑；这不是文件权限层面的只读锁。
+- `.obsidian/` 的工作区、浏览状态和个人设置不提交。默认欢迎笔记也不进入研究库；个人笔记放在仓库外的个人 Vault。
+- Markdown 由 `.gitattributes` 固定为 LF，避免 Obsidian 保存 LF 与 Windows Git 预期 CRLF 不一致造成空差异。
+- 若 Git 列出改动却没有差异，先核对原始内容，再刷新 Git 状态；不要直接批量丢弃。若存在真正的正文差异，照正常研究修改审阅。
+- Git 忽略规则仅控制提交，不保证操作系统、Obsidian 或同步服务没有阅读记录。需要完全隔离阅读与编辑时，在仓库外使用独立阅读副本，并独立管理同步。
+
+每个新 clone 首次使用，以及出现 `No content changes found` 时：
+
+```powershell
+python tools/worktree_eol.py
+python tools/worktree_eol.py --repair
+```
+
+修复会先检查暂存区和所有 tracked 文本内容；发现真实差异即停止。通过检查后仅统一工作树换行为 LF，并设置本仓库 `core.autocrlf=false`、`core.eol=lf`、`core.checkstat=minimal`、`core.trustctime=false`、`core.ignorestat=false`。随后刷新等价文件索引，不提交、不添加未跟踪文件。不要使用 `assume-unchanged` 或 `skip-worktree` 隐藏正文修改。
+
+`.gitattributes` / `.editorconfig` 是共享规则，本地 Git 配置不随 clone 复制。共享修复须合入正在使用的分支才生效；仅推送 PR 不等于 main 已获得修复。阅读视图和 EditorConfig 均不能保证编辑器完全不写盘。

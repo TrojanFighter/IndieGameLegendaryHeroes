@@ -406,3 +406,7 @@ Case 可以枯燥、重复、结构化；书稿可以有文学性，但书稿中
 4. 用 World of Tanks / War Thunder、GSC / 4A 等存在强流行叙事的案例训练“起源原因 vs 市场验证”“组织裂变 vs 浪漫化”的判别；
 5. 让真实案例反过来校正 schema 与 AGENTS.md；
 6. 在证据网络稳定前，不提前写成长篇正式章节。
+
+## 16. 公开贡献与双语维护
+
+遵守 CONTRIBUTING.md 与 docs/bilingual-maintenance.md。公开研究使用独立上下文，只输入公开来源；提交审阅须覆盖匿名私人信息和 PR 等公开载体。中文是研究依据；英文共享 ID 与 Evidence，不补 UNKNOWN、不提升状态。译文登记原文哈希，原文变化后更新译文或标 STALE；AI 自检不得标为人工 REVIEWED。
