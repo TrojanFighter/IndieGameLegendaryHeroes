@@ -1,0 +1,99 @@
+name: 弱信号 / 口述 / 传闻
+description: 提交值得核验但尚不足以进入正式 Evidence 的公开安全线索
+title: "[Signal] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        这个入口用于弱信号、口述、转述、作者记忆、已删除来源残影和高时效行业线索。
+        **Signal 不是 Evidence。** 它可以提高核验优先级，但不能直接升级 Case / Claim。
+        不要提交未授权私人信源身份、私聊原文、截图、合同、私人项目资料或可反推出来源的细节。
+  - type: textarea
+    id: signal
+    attributes:
+      label: Signal / 你实际知道的说法
+      description: 尽量准确复述，不补齐、不润色成事实。
+    validations:
+      required: true
+  - type: dropdown
+    id: provenance
+    attributes:
+      label: Provenance class
+      options:
+        - FIRSTHAND_ORAL — 当事人口述，但缺少可公开核验记录
+        - SECONDHAND — 二手转述
+        - INDUSTRY_RUMOR — 圈内反复流传
+        - AUTHOR_MEMORY — 曾见过/听过但当前无法恢复出处
+        - DELETED_SOURCE_TRACE — 已删除或失效来源残影
+        - OTHER
+    validations:
+      required: true
+  - type: input
+    id: related
+    attributes:
+      label: Related Case / Claim / topic（可选）
+      placeholder: CASE-XXX / C0XX / topic
+  - type: dropdown
+    id: independent_sources
+    attributes:
+      label: 相互独立来源数量（估计）
+      options:
+        - 0 / 只有作者记忆
+        - 1
+        - 2+
+        - 不确定
+    validations:
+      required: true
+  - type: textarea
+    id: corroboration
+    attributes:
+      label: 当前支持 / 冲突材料
+      description: 已经找到什么公开材料与它一致、冲突或保持沉默？没有就写 UNKNOWN。
+    validations:
+      required: true
+  - type: textarea
+    id: verify_falsify
+    attributes:
+      label: 什么能核实 / 推翻它
+      description: 写出可执行的验证路径和可证伪条件。
+    validations:
+      required: true
+  - type: dropdown
+    id: time_sensitivity
+    attributes:
+      label: Time sensitivity
+      options:
+        - LOW
+        - MEDIUM
+        - HIGH
+        - VERY_HIGH
+    validations:
+      required: true
+  - type: textarea
+    id: decision_consequence
+    attributes:
+      label: 如果为真 / 为假，分别会改变什么
+      description: 说明研究或行业判断的系统性后果，不要把它写成已证事实。
+    validations:
+      required: true
+  - type: dropdown
+    id: suggested_posture
+    attributes:
+      label: 当前建议姿态（初步）
+      description: 最终由维护者判断；这不是自动执行指令。
+      options:
+        - WATCH
+        - PROBE
+        - HEDGE
+        - ACT
+        - NO_ACTION
+        - 不确定
+    validations:
+      required: true
+  - type: textarea
+    id: reversibility
+    attributes:
+      label: 可逆性与错误代价
+      description: 简述 false-positive、false-negative / delay cost，以及是否存在低成本可逆动作。
+    validations:
+      required: true
