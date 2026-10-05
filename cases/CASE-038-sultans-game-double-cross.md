@@ -4,7 +4,7 @@ schema_version: 2
 case_id: CASE-038
 status: RESEARCHING
 subject: "Sultan's Game / Double Cross: commercial-mobile lineage, studio contraction and premium transition"
-related_claims: [C003, C004, C007, C010, C011, C012, C013]
+related_claims: []
 evidence_strength: HIGH
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
@@ -16,7 +16,7 @@ last_verified: 2026-10-06
 - Case ID: CASE-038
 - Subject: Double Cross / 双头龙工作室；Cross Star / 十字星工作室前史；《苏丹的游戏》
 - Related games: 《螺旋圆舞曲》《螺旋圆舞曲2：蔷薇战争》《苏丹的游戏》
-- Related Claims: C003, C004, C007, C010, C011, C012, C013
+- Related Claims: [] — 本案优先用于检验 AC-010；样本不足前不新建正式跨案例 Claim
 - Period covered: 2016–2025+
 - Research status: RESEARCHING
 - Corpus role: CHINA TRANSITION CASE / COMMERCIAL-MOBILE → SMALL-TEAM PREMIUM
@@ -386,4 +386,4 @@ last_verified: 2026-10-06
 7. 过去十字星成员的岗位如何分布？哪些岗位在新项目中获得 prototype ownership？
 8. 程序、策划、编剧、美术、运营的职业能力分别发生了哪些正迁移 / 负迁移？
 9. 能否找到若干同样从手游转 premium、但未成功的中国团队作为对照？
-10. CASE-030 等项目的直接复盘能否支持或反驳 C013，而不是只留下“商业指标误配”的二手印象？
+10. CASE-030 等项目的直接复盘能否支持或反驳 AC-010，而不是只留下“商业指标误配”的二手印象？
