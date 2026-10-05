@@ -10,6 +10,7 @@
 - [`play-to-production-fourth-industrial-revolution-001.md`](play-to-production-fourth-industrial-revolution-001.md) — 玩家如何通过 mod / UGC / 工具 / artifact 转向数字生产者。
 - [`goal-formation-through-production-001.md`](goal-formation-through-production-001.md) — 目标是否在行动、反馈、能力积累和身份转换中逐渐形成。
 - [`old-chat-corpus-audit-001.md`](old-chat-corpus-audit-001.md) — 从作者历史公共行业/教育讨论中筛选可检验的新命题与案例线索。
+- [`pvz-hybrid-ugc-production-and-spread-001.md`](pvz-hybrid-ugc-production-and-spread-001.md) — 《植物大战僵尸杂交版》从长期玩家改版、视频—反馈循环、社区共同生产到平台爆发、官方吸纳与原创 IP 转型的 intake；当前不把 fan-IP 成功误写成原创 premium indie 正例。
 - [`taste-capital-audit-001.md`](taste-capital-audit-001.md) — Taste Capital 第一轮多案例审计。
 - [`taste-capital-audit-002-brigador.md`](taste-capital-audit-002-brigador.md) — Brigador 对 Taste / selection 命题的失败反压力。
 - [`editorial-audit-001.md`](editorial-audit-001.md) — Reader layer 的编辑结构审计。
