@@ -8,6 +8,8 @@
 
 它只负责一件事：**把已经经过 Case / Evidence / Claim 审计的研究，写成读者愿意连续读下去的生产史。**
 
+本书的总编辑使命见 [`EDITORIAL-MISSION.md`](EDITORIAL-MISSION.md)：把项目史写回人的一生，解释目标怎样在关键人生岔路中形成；并从第四次工业革命的技能结构出发，研究游戏兴趣如何在特定条件下转换成 taste、modding、工具、创作、社区与职业能力。人物篇默认遵守 [`Reader Profile Schema`](../schemas/profile-template.md)。
+
 ## 这里和研究后台有什么区别？
 
 ### `cases/`
@@ -38,6 +40,8 @@ Case 可以枯燥、重复、结构化。
 - **所以这个人 / 这支团队到底经历了什么？**
 - **这个故事为什么值得记住？**
 - **流行传奇里最重要但最容易被删掉的生产条件是什么？**
+- **在关键人生岔路上，当事人当时有哪些真实选择，为什么做了这个决定？**
+- **兴趣、游戏、工作和失败究竟在哪一步被转换成了能力？**
 
 书稿可以有叙事节奏、场景、人物和作者判断，但不能为了“好看”破坏研究后台已经建立的边界。
 
@@ -53,6 +57,8 @@ Case 可以枯燥、重复、结构化。
 6. 不把市场爆发倒推成“他们一开始就知道会成功”。
 7. 不把偶然机会写成个人能力，也不因为存在运气就抹掉生产决策。
 8. 每篇都必须让读者分得清：**可迁移机制 / 不可复制条件 / 仍待核验的地方**。
+9. 重要人物不能默认从“项目成立”开篇；应尽量追溯能力前史、目标形成与 3–7 个关键人生岔路。
+10. 不把“玩游戏”自动写成能力；只有出现 `play → compare / mod / make / publish / feedback / profession` 的具体转换链时，才讨论游戏经验的生产价值。
 
 ### Thesis incubation / 命题孵化
 
@@ -74,6 +80,7 @@ Case 可以枯燥、重复、结构化。
 
 ### Profiles / 个案叙事
 
+- [`《DOOM启示录》：游戏少年怎样把兴趣变成工具、公司和一个新行业`](profiles/early-id-doom.md) — 人物岔路 + capability formation：Apple II / hacking / Softdisk 高频出货 → Keen staged commitment → Wolfenstein optionality → DOOM 工具/分发/mod leverage → Quake 组织裂变。对应 [`CASE-016`](../cases/CASE-016-early-id-software.md)、[`Evidence Ledger`](../evidence/CASE-016-early-id-software-source-ledger.md) 与 [`Life Crossroads Audit`](research-notes/doom-life-crossroads-001.md)。
 - [`Kenshi：夜班保安如何把时间变成一间工作室`](profiles/kenshi.md) — 个人级 runway：最低工资夜班 → 长期 solo foundation → Early Access 收入购买团队时间。对应 [`CASE-012`](../cases/CASE-012-kenshi.md) 与 [`Evidence Ledger`](../evidence/CASE-012-kenshi-source-ledger.md)。
 - [`Rocket League：一家公司怎样靠替别人做游戏，养出自己的游戏`](profiles/rocket-league.md) — 组织级 runway：work-for-hire → SARPBC capability prototype → 多年 refinement → Rocket League。对应 [`CASE-002`](../cases/CASE-002-rocket-league.md) 与 [`Evidence Ledger`](../evidence/CASE-002-rocket-league-source-ledger.md)。
 - [`Bills Must Be Paid：七个月爆款之前，是七年和一百个原型`](profiles/bills-must-be-paid.md) — 高频失败资本：mobile publisher 原型训练 → 自发行 / browser 生存 → Steam learning bridge → demo / market-access course correction。对应 [`CASE-025`](../cases/CASE-025-bills-must-be-paid.md) 与 [`Evidence Ledger`](../evidence/CASE-025-bills-must-be-paid-source-ledger.md)。
@@ -96,7 +103,7 @@ Case 可以枯燥、重复、结构化。
 ### 2. 你不是从项目创建日才开始成为开发者
 mod、UGC、学生项目、职业工作、失败前作、工具、旧代码、评论/分析经验与社群如何构成能力资本。
 
-候选：Gunpoint、Lethal Company、Roblox creator cluster、Undertale、Dream Quest、Tarkov lineage、Escape from Duckov、Bills Must Be Paid。
+候选：early id / DOOM、Gunpoint、Lethal Company、Roblox creator cluster、Undertale、Dream Quest、Tarkov lineage、Escape from Duckov、Bills Must Be Paid。
 
 ### 3. 品味决定命运
 当执行资源有限时，长期比较、显性偏好、问题选择、体验抽象与 scope deletion 如何决定有限产能究竟被投向什么。这里的“品味”不是审美身份，而是**选择什么值得做、什么不值得做，并愿意让 prototype 反驳自己的能力**。
@@ -126,7 +133,12 @@ Among Us 式延迟爆发、Twitch/Drops、平台推荐、主播、媒体事件�
 ### 8. 第一次成功之后
 成功如何购买时间、组织、低 burn、第二作试错权；又怎样制造新的复杂度和成本。
 
-候选：Into the Breach、Among Us、Minecraft、Kenshi、Tom Francis 后续作品。
+候选：Early id / DOOM → Quake、Into the Breach、Among Us、Minecraft、Kenshi、Tom Francis 后续作品。
+
+### 9. 从玩家到生产者
+第四次工业革命语境下，不把“游戏”简单归类为学习的反面，而是审计游戏兴趣在什么时候通过比较、hacking、mod、UGC、工具学习、公开反馈和社群，真实转换成数字生产能力。
+
+这条阅读线不主张“玩得多就更有能力”；它只追踪可观察的转换动作。当前最强历史锚点是 early id / DOOM：玩家对游戏内部结构的好奇 → hacking / programming → 职业高频出货；DOOM 的 moddability 又让后来的玩家 / 地图作者获得作品集、声誉甚至职业入口。其他候选包括 Gunpoint、Undertale、Roblox creator cluster、Lethal Company、Dream Quest。
 
 ---
 
