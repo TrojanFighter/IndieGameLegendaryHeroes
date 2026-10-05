@@ -29,7 +29,7 @@
 - Source class: P0 — official project FAQ
 - Title: Manor Lords FAQ — “Are you truly working on this alone?”
 - Author / Institution: Manor Lords / Hooded Horse official wiki
-- Published: dynamic page
+- Published: UNKNOWN
 - Accessed: 2026-10-06
 - URL: https://wiki.hoodedhorse.com/Manor_Lords/FAQ
 - Claim use:
