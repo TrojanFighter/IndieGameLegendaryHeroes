@@ -8,7 +8,7 @@
       "doc_id": "PROJECT-ENTRY",
       "kind": "entry",
       "source_sha256": "561e0f3f15b1ab37574d4ed1a382f7be49783cad8af14da1ff2472bd6464d145",
-      "status": "DRAFT",
+      "status": "STALE",
       "reviewer": null,
       "reviewed_target_sha256": null
     },
