@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 37 个档案中，34 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 38 个档案中，35 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -47,6 +47,7 @@
 | CASE-035 | Factorio / Wube Software | 检验自筹 demo、众筹失误修正、官网 paid alpha、creator 放大与 product-led scaling 如何连续制造 runway | RESEARCHING |
 | CASE-036 | Manor Lords / Slavic Magic | 检验 `solo core` 与完整 production perimeter 的边界，以及 Patreon / MegaGrant / freelancer / QA / publisher 如何分阶段补足单人作者短板 | RESEARCHING |
 | CASE-037 | Darkwood / Acid Wizard Studio | 检验合同工作桥接、众筹 gross 与真实 runway 的错位、工期误判、Early Access 延展与多人功能删除 | RESEARCHING |
+| CASE-038 | Sultan's Game / Double Cross | **CHINA INDUSTRY TRANSITION / CAPABILITY-TRANSFER CASE**：检验商业手游老兵如何在组织收缩后保留专业能力、重写 scope/管理/市场接口，并区分能力正迁移、world-model 负迁移与 human-cost；独立资格与融资边界继续审计 | RESEARCHING |
 
 ## 规则
 
@@ -63,7 +64,9 @@
 
 ## 中国独立案例下一优先级
 
-`Sultan's Game / 双头龙工作室 (Double Cross)` 是下一批中国案例候选，优先检验工作室所有权、外部发行、Demo、众筹与传播路径。团队人数、资金关系与“几乎没有买量”等说法须定位原始来源，不预先判为纯独立或自然传播正例。Artless Games 的作品、公开言论与持续创作方式也已进入 [候选池](BACKLOG.md)。
+`Sultan's Game / 双头龙工作室 (Double Cross)` 已升级为 [`CASE-038`](CASE-038-sultans-game.md)。当前仍保留 ownership、旧投资关系、2P Games funding/recoup、摩点净融资与完整 contributor perimeter 等明确未决项，不把“9 人”“几乎没有买量”等宣传性概括直接升级为独立资格或自然传播结论。
+
+Artless Games 的作品、公开言论与持续创作方式继续保留在 [候选池](BACKLOG.md)。
 
 《植物大战僵尸杂交版》已进入 [`book/research-notes/pvz-hybrid-ugc-production-and-spread-001.md`](../book/research-notes/pvz-hybrid-ugc-production-and-spread-001.md) 的高优先级 UGC / fan-production intake：先核完整协作者、技术栈、免费同人经济结构、IP/授权和传播时间线，再决定是否升正式 `UGC / FAN-PRODUCTION LINEAGE CASE`，不得把商业 IP 的现成认知资本误记为原创 IP 的独立市场验证。
 
