@@ -141,3 +141,14 @@ http://localhost:8000/explorer/
 - Markdown 由 `.gitattributes` 固定为 LF，避免 Obsidian 保存 LF 与 Windows Git 预期 CRLF 不一致造成空差异。
 - 若 Git 列出改动却没有差异，先核对原始内容，再刷新 Git 状态；不要直接批量丢弃。若存在真正的正文差异，照正常研究修改审阅。
 - Git 忽略规则仅控制提交，不保证操作系统、Obsidian 或同步服务没有阅读记录。需要完全隔离阅读与编辑时，在仓库外使用独立阅读副本，并独立管理同步。
+
+每个新 clone 首次使用，以及出现 `No content changes found` 时：
+
+```powershell
+python tools/worktree_eol.py
+python tools/worktree_eol.py --repair
+```
+
+修复会先检查暂存区和所有 tracked 文本内容；发现真实差异即停止。通过检查后仅统一工作树换行为 LF，并设置本仓库 `core.autocrlf=false`、`core.eol=lf`、`core.checkstat=minimal`、`core.trustctime=false`、`core.ignorestat=false`。随后刷新等价文件索引，不提交、不添加未跟踪文件。不要使用 `assume-unchanged` 或 `skip-worktree` 隐藏正文修改。
+
+`.gitattributes` / `.editorconfig` 是共享规则，本地 Git 配置不随 clone 复制。共享修复须合入正在使用的分支才生效；仅推送 PR 不等于 main 已获得修复。阅读视图和 EditorConfig 均不能保证编辑器完全不写盘。
