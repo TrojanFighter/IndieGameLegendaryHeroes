@@ -2,9 +2,9 @@
 
 案例用于覆盖不同的生产结构，不是“史上最佳独立游戏”榜单。正式 Case 必须能检验至少一个核心 Claim；单纯有名但暂时缺乏解释价值的作品留在 `BACKLOG.md`。
 
-**Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
+**Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 31 个档案中，28 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 32 个档案中，29 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -41,6 +41,7 @@
 | CASE-029 | Boundary / Surgical Scalpels Studio | 待核：所有权、融资、团队扩张与停服因果；已定位发行方公告，不据单方声明归责 | SKELETON |
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | 待核：团队归属、职业前史、范围与市场预期；不预设企业内部负例结论 | SKELETON |
 | CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | **LONGITUDINAL PRACTITIONER**：检验同一开发者如何跨三人、solo-core、两人团队反复出货，并区分快速原型、范围压缩、市场可读性、公开沟通与运气各自的真实作用 | RESEARCHING |
+| CASE-032 | PLAYERUNKNOWN / Brendan Greene: DayZ Battle Royale → H1Z1 → PUBG | **LINEAGE / TRANSITION CASE**：检验非传统作者怎样在 Arma/DayZ mod 中以规则发明和社区验证先获得作品信用，再经 H1Z1 与 Bluehole 两轮商业组织放大为 PUBG；不得把 PUBG 公司生产整体包装成独立游戏 | RESEARCHING |
 
 ## 规则
 
@@ -50,6 +51,7 @@
 - **Indie eligibility 与 production scale 分离审计**：公司内部小团队可以很“indie-like”，但若雇佣、runway、IP/所有权、publisher 与市场接入处于母公司体系，就不得仅凭团队小、买断制或创作自主性归入核心独立谱系。
 - **外部发行商本身不自动取消独立资格**：关键要继续核验开发工作室所有权、融资/控制权、IP、是否能独立选择项目与发行关系。`publisher-financed external indie` 与 `corporate-owned internal studio` 必须分开。
 - `NON-INDIE COMPARATOR` 可以保留正式 Case ID，以免破坏既有引用，但不得在 `book/profiles/` 中写成“独立英雄”；其 Transfer 必须明确哪些公司资源外部团队不可默认获得。
+- `LINEAGE / TRANSITION CASE` 用于研究原创能力如何从 mod / UGC / 极小规模实验进入商业组织；必须分阶段审计每一阶段的 ownership、employment、runway 与 production perimeter，不能用后来的公司规模倒写早期，也不能用早期独立性覆盖后来的公司资源。
 - 状态、关系、证据成熟度、解释重要性与叙事价值的机器索引见 [`../metadata/cases.json`](../metadata/cases.json)。
 - 本表是人读索引；CI 会检查它与 metadata 状态一致。
 - 还未正式编号但曾在作者公开文章、历史深研或对话中承担论证功能的对象，统一进入 [`BACKLOG.md`](BACKLOG.md)，禁止靠记忆临时捡案例。
@@ -58,4 +60,6 @@
 
 `Sultan's Game / 双头龙工作室 (Double Cross)` 是下一批中国案例候选，优先检验工作室所有权、外部发行、Demo、众筹与传播路径。团队人数、资金关系与“几乎没有买量”等说法须定位原始来源，不预先判为纯独立或自然传播正例。Artless Games 的作品、公开言论与持续创作方式也已进入 [候选池](BACKLOG.md)。
 
-正式升级前仍要做一次 Schema v2 的 Context–Situation–Action 与 ownership / financing / publisher-control audit，尤其核清：成员离开原公司后的 runway、2P Games 介入时间与资金/控制权、摩点众筹在开发资金中的真实作用，以及“几乎没有买量”与实际 creator / platform resources 的边界。
+《植物大战僵尸杂交版》已进入 [`book/research-notes/pvz-hybrid-ugc-production-and-spread-001.md`](../book/research-notes/pvz-hybrid-ugc-production-and-spread-001.md) 的高优先级 UGC / fan-production intake：先核完整协作者、技术栈、免费同人经济结构、IP/授权和传播时间线，再决定是否升正式 `UGC / FAN-PRODUCTION LINEAGE CASE`，不得把商业 IP 的现成认知资本误记为原创 IP 的独立市场验证。
+
+正式升级其他中国候选前仍要做一次 Schema v2 的 Context–Situation–Action 与 ownership / financing / publisher-control audit，尤其核清：成员离开原公司后的 runway、外部发行商介入时间与资金/控制权、众筹在开发资金中的真实作用，以及“几乎没有买量”与实际 creator / platform resources 的边界。
