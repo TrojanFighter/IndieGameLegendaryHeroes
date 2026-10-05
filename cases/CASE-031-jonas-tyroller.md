@@ -16,12 +16,13 @@ last_verified: 2026-10-05
 - Case ID: CASE-031
 - Subject: Jonas Tyroller / Grizzly Games longitudinal practitioner case
 - Related games: ISLANDERS; Will You Snail?; Thronefall; current experiments
+- Related Claims: C003, C004, C007, C010, C011
 - Period covered: c. 2015–2026
 - Research status: RESEARCHING
 - Corpus role: LONGITUDINAL PRACTITIONER / REPEATED MICRO-TEAM SUCCESS
 - Last verified: 2026-10-05
 - Evidence Ledger: [`../evidence/CASE-031-jonas-tyroller-source-ledger.md`](../evidence/CASE-031-jonas-tyroller-source-ledger.md)
-- Rolling intake: GitHub Issue #22, `Candidate longitudinal case: Jonas Tyroller / Grizzly Games`
+- Rolling intake: GitHub Issue #22, `Ongoing tracker: Jonas Tyroller / Grizzly Games (CASE-031)`
 
 ## Why this case
 
@@ -79,6 +80,12 @@ Tyroller's career sits inside the mature Steam / Unity era: global digital distr
 | Thronefall prototype phase | reunited two-person Grizzly core | need idea both creators want to make and market can understand | many 1–2 day prototypes; scrap weak candidates; separate gameplay and art prototypes | selected a simplified RTS / kingdom-defense fantasy | E004/E005 | rapid prototyping is not proof of market causality |
 | Thronefall production | two experienced generalists | avoid organization growth and long fixed burn | target roughly two-year ceiling; Unity; split gameplay/UI emphasis; beta testing; EA after ~12 months | full release ~24 months; first-year sales reported around 1M | E004/E005 | sales figure is interview-level, not audited accounting |
 | 2025–2026 | financially stable active practitioner | advice can become stale or survivorship-biased | interview other developers; compare methods; openly discuss luck, appeal, demos, marketing, AI and team scale | creates a rolling P1 source stream for contemporary indie production | E006/E007 | guest claims remain guest claims until separately verified |
+
+### Anachronism Check
+
+The transferable value here depends on a modern production environment: Unity-era tooling, Steam global distribution, creator platforms, inexpensive video publishing, remote collaboration and later LLM-assisted technical work all reduce costs that earlier developers had to absorb differently. The case therefore must not project Tyroller's exact prototype cadence, market access or engineering shortcuts backward as timeless rules. What can be compared across eras is the higher-level maneuver: reduce commitment cost before scale-up, preserve the core fantasy at lower representation cost, and keep organizational ceremony proportional to actual coordination risk.
+
+Likewise, the 2025–2026 podcast/AI observations are **current evidence about his present workflow**, not evidence that those tools caused ISLANDERS, Will You Snail? or early Thronefall to succeed.
 
 ## 3. Origin / Capability
 
