@@ -96,7 +96,8 @@
   - sold membership counter passed about 25k;
   - team attributes the sales surge to YouTube (including sips/arumba), smaller blogs, Twitter and forums;
   - developers spent significant time on customer support;
-  - they considered hiring for support but preferred automating common scenarios first.
+  - they considered hiring for support but preferred automating common scenarios first;
+  - team explicitly says it was not in urgent need of funds because alpha sales could sustain continued development and some expansion, supporting the interpretation of paid alpha as ongoing runway rather than one-off campaign money.
 - Confidence: HIGH for contemporaneous observations
 - Boundary: attribution to channels is developer interpretation, not controlled causal measurement.
 
@@ -115,6 +116,26 @@
 - Confidence: HIGH for official chronology/current organization; MEDIUM-HIGH for retrospective framing
 - Boundary: current headcount is not headcount at earlier milestones; “successful Indiegogo” should be read alongside E002's contemporaneous account of campaign problems.
 
+## E008 — Steam launch and later channel mix: platform amplification after years of direct sales
+
+- Source class: P0 — contemporaneous/retrospective official developer logs
+- Title: Friday Facts #130 - Steam release side effects
+- Author / Institution: Klonan / Wube Software
+- Published: 2016-03-18
+- Accessed: 2026-10-06
+- URL: https://www.factorio.com/blog/post/fff-130
+- Secondary source: Friday Facts #327 - 2020 Vision, 2019-12-27, https://www.factorio.com/blog/post/fff-327
+- Claim use:
+  - Wube says the first three weeks on Steam sold more copies than the entire lifetime of its website up to that point;
+  - Steam launch also produced a large increase in forum/Reddit/server traffic, creating new support/infrastructure load;
+  - by the later two-million-sales milestone, Wube shows Steam as the dominant sales channel while noting website sales had been much more important before Steam launch;
+  - 81.3% of website purchasers had redeemed Steam keys by the cited 2019 post, showing that direct-sale customers and Steam ownership were not mutually exclusive populations.
+- Confidence: HIGH for official channel chronology and developer-reported sales relationships
+- Boundary:
+  - exact gross/net revenue by channel is not disclosed here;
+  - post-Steam dominance does not mean pre-Steam direct sales were commercially unimportant; the sequence is precisely the research point;
+  - Steam traffic also raised infrastructure/support costs, so platform amplification is not costless.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
@@ -122,15 +143,17 @@
 - Factorio began self-funded and used an early demo to decide whether to continue;
 - the team contemporaneously diagnosed its crowdfunding setup as flawed;
 - Indiegogo bought near-term runway rather than the entire project;
-- direct paid alpha/preorder began immediately afterward;
+- direct paid alpha/preorder began immediately afterward and later became sufficient to sustain development without urgent new funding;
 - paid community existed years before Steam;
 - creator/blog/forum exposure materially coincided with 2014 sales growth;
-- organization growth followed repeated product/market validation.
+- organization growth followed repeated product/market validation;
+- Steam later amplified sales dramatically, but only after years of direct-sale runway and community formation.
 
 ### SUPPORTED / NEEDS MORE GRANULARITY
 
 - continuous direct sales were more important than one-off crowdfunding for long-run pre-Steam runway;
 - delaying Steam was enabled by existing direct-sale runway;
+- Steam functioned as a major scale multiplier rather than the origin of Factorio's product validation;
 - community/support infrastructure became part of the production system.
 
 ### PARTIAL / NEXT VERIFY
