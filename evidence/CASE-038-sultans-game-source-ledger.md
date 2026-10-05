@@ -63,7 +63,7 @@
 - Source class: P0/S1 — platform page plus contemporaneous launch/prelaunch coverage
 - Title: Sultan's Game on Steam
 - Author / Institution: Valve / Double Cross / 2P Games
-- Published: dynamic page; game release 2025-03-30
+- Published: UNKNOWN
 - Accessed: 2026-10-06
 - URL: https://store.steampowered.com/app/3117820
 - Secondary source: “《苏丹的游戏》Steam愿望单突破10万，官方公布后续开发计划”, 3DM, 2024-11-01, https://www.3dmgame.com/news/202411/3907649.html
@@ -73,7 +73,7 @@
   - product supports Simplified Chinese, Traditional Chinese, English and Japanese;
   - contemporaneous coverage records the Demo/Next Fest period and an official 100k-wishlist milestone.
 - Confidence: HIGH for store metadata; MEDIUM-HIGH for wishlist milestone
-- Boundary: Steam page does not disclose publisher financing, ownership or revenue split.
+- Boundary: Steam page is dynamic and does not disclose publisher financing, ownership or revenue split; the dated secondary source carries the pre-launch wishlist chronology.
 
 ## E005 — 2024 Modian crowdfunding launch
 
