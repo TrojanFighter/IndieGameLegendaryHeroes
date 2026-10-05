@@ -13,11 +13,12 @@
 
 当前仓库已经形成：
 
-- **31 个编号 Case 档案**，其中 28 个 RESEARCHING、3 个 SKELETON；新增中国候选组包括《戴森球计划》《中国式网游》《边境》《重装前哨》，编号不代表其生产史与独立资格已核实；
-- **31 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **32 个编号 Case 档案**，其中 29 个 RESEARCHING、3 个 SKELETON；新增中国候选组包括《戴森球计划》《中国式网游》《边境》《重装前哨》，编号不代表其生产史与独立资格已核实；
+- **32 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **12 个跨案例 Claim**，检验 runway、能力资本、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
-- 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》。
+- 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
+- [`book/INDIE-MOVEMENT.md`](book/INDIE-MOVEMENT.md) 解释本书所说的“独立游戏运动”、`independent` 与 `indie` 的区别，以及为什么 mod / UGC → 商业放大的桥梁案例也属于生产谱系研究。
 
 ---
 
@@ -36,6 +37,7 @@
 | **Early Access / 付费 Alpha 怎样变成生产资本？** | [Minecraft](cases/CASE-014-minecraft.md) · [Kenshi](cases/CASE-012-kenshi.md) · [Schedule I](cases/CASE-019-schedule-i.md) |
 | **“首款成功”之前其实练了多少年？** | [Lethal Company](cases/CASE-011-lethal-company.md) · [Dream Quest](cases/CASE-008-dream-quest.md) · [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) |
 | **同一个开发者的方法到底能不能跨项目复现？** | [Jonas Tyroller](cases/CASE-031-jonas-tyroller.md) · [Tom Francis](cases/CASE-007-gunpoint.md) · [Into the Breach / Subset](cases/CASE-020-into-the-breach.md) |
+| **玩家 / modder 能不能先发明规则，再进入商业游戏工业？** | [PUBG / Brendan Greene](cases/CASE-032-pubg-brendan-greene.md) · [early id / DOOM](cases/CASE-016-early-id-software.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
 | **发行商、孵化器和 grant 什么时候真正有用？** | [despelote](cases/CASE-023-despelote.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) · [Dyson Sphere Program（待核）](cases/CASE-027-dyson-sphere-program.md) |
 | **为什么有的游戏发行时没爆，后来却突然爆了？** | [Among Us](cases/CASE-017-among-us.md) · [Brigador](cases/CASE-026-brigador.md) |
 | **小团队怎样挑战成熟大厂品类？** | [Project Wingman](cases/CASE-009-project-wingman.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Dyson Sphere Program（待核）](cases/CASE-027-dyson-sphere-program.md) |
@@ -50,9 +52,9 @@
 
 ---
 
-## 31 个编号案例档案
+## 32 个编号案例档案
 
-这些 Case 是研究后台的档案，28 个为 RESEARCHING，3 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` 保留编号用于比较生产制度，但不得因此被包装成“独立英雄”。
+这些 Case 是研究后台的档案，29 个为 RESEARCHING，3 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
 | Case | Subject | 它主要让我们看见什么 |
 |---|---|---|
@@ -87,6 +89,7 @@
 | [CASE-029](cases/CASE-029-boundary.md) | **Boundary / Surgical Scalpels Studio** | SKELETON：融资、团队与停服因果待核；发行方公告只作为单方证词 |
 | [CASE-030](cases/CASE-030-outpost-infinity-siege.md) | **Outpost: Infinity Siege / Team Ranger** | SKELETON：团队归属、职业前史与产品范围待核，不预设企业负例 |
 | [CASE-031](cases/CASE-031-jonas-tyroller.md) | **Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall** | 同一开发者跨三人、solo-core、两人团队的纵向方法审计：原型筛选、范围压缩、公开沟通与运气 |
+| [CASE-032](cases/CASE-032-pubg-brendan-greene.md) | **PLAYERUNKNOWN / Brendan Greene: DayZ Battle Royale → H1Z1 → PUBG** | `LINEAGE / TRANSITION CASE`：mod 规则发明与社区验证怎样先于商业职位，再被 SOE / Bluehole 放大成大型公司产品 |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。《苏丹的游戏》与 Artless Games 已列为中国创作路径候选；独立资格与生存方式须另行核验。
 
@@ -121,7 +124,8 @@
 ### Reader layer / 成品叙事
 
 - [`book/`](book/)：面向读者的《独立游戏英雄传说》正文孵化区；
-- [`book/profiles/`](book/profiles/)：已经有足够证据支持的案例叙事样板。
+- [`book/profiles/`](book/profiles/)：已经有足够证据支持的案例叙事样板；
+- [`book/INDIE-MOVEMENT.md`](book/INDIE-MOVEMENT.md)：独立游戏运动的历史、工作定义、谱系边界与中国路径差异。
 
 这里允许有节奏、有故事、有作者判断，但关键事实必须能回指 Case / Evidence；不允许为了戏剧性隐藏支持条件或把 UNKNOWN 写成事实。
 
@@ -150,13 +154,14 @@
 
 截至 2026-10-05：
 
-- 31 个编号 Case 已建档，其中 28 个 RESEARCHING、3 个 SKELETON；
-- 31 个对应 Case Evidence Ledger 已建立；
+- 32 个编号 Case 已建档，其中 29 个 RESEARCHING、3 个 SKELETON；
+- 32 个对应 Case Evidence Ledger 已建立；
 - 12 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 当前为 `SUPPORTED`；
 - CASE-027–030 构成“中国生产制度候选组”；《中国式网游》已核官方开发自述，其余三个来源待恢复，不把候选解释视为已证正反例；
 - CASE-031 将 Jonas Tyroller 作为 longitudinal practitioner，持续检验同一开发者跨项目的方法复现、方法修正、市场接入与运气边界；
+- CASE-032 将 Brendan Greene / PLAYERUNKNOWN 作为 `LINEAGE / TRANSITION CASE`，区分 DayZ/Arma mod 的规则发明与社区验证、H1Z1 商业合作、Bluehole/PUBG 公司化放大；
 - CASE-026 仍是第一例正式以 **failure comparator** 为中心编号的 Case；
-- `book/` 已有 Kenshi、Rocket League、Bills Must Be Paid、Gunpoint、FTL 五篇 profile；Taste Capital 已进入定向正例/反例审计阶段。
+- `book/` 已有 Kenshi、Rocket League、Bills Must Be Paid、Gunpoint、FTL 等 profile，并已建立独立游戏运动史、目标形成、玩家→生产者等书级研究入口。
 
 研究状态以 [`cases/BACKLOG.md`](cases/BACKLOG.md)、各 Case / Evidence Ledger 与 [`claims/README.md`](claims/README.md) 为准；README 只做项目级导航，不替代正式档案。
 
@@ -173,7 +178,7 @@
 
 这里同样拒绝“某一个民族天生更会做某类游戏”之类的简化解释，而是追踪人才、技术、资本、组织与市场路径。
 
-本篇 [证据索引](sister-projects/slavic/evidence/README.md) 包含 8 个编号专题及 2 份保留的并行矩阵稿；专题不等同正式 Case，不计入上面的 31 个独立篇 Case。本篇 [书稿入口](sister-projects/slavic/book/README.md) 当前没有正式 Profile。两篇共享方法论与工具，分别维护资料索引与阅读入口；不按开发者国籍机械搬动独立篇案例。
+本篇 [证据索引](sister-projects/slavic/evidence/README.md) 包含 8 个编号专题及 2 份保留的并行矩阵稿；专题不等同正式 Case，不计入上面的 32 个独立篇 Case。本篇 [书稿入口](sister-projects/slavic/book/README.md) 当前没有正式 Profile。两篇共享方法论与工具，分别维护资料索引与阅读入口；不按开发者国籍机械搬动独立篇案例。
 
 ---
 

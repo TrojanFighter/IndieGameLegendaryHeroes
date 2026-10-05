@@ -34,8 +34,9 @@ Author Corpus 单独标记为 **A0 — Author-Origin**，不并入 P0/P1/S1/S2 �
 - [AC-005 — 品味资本、选择能力与“品味决定命运”](AC-005-taste-capital-and-selection.md)
 - [AC-006 — 偏离惩罚、成功者赦免与功绩条件式宽容](AC-006-deviance-sanctions-and-winners-amnesty.md)
 - [AC-007 — 外部出题、Benchmark 答案化与版本时滞](AC-007-benchmark-meta-convergence.md)
+- [AC-008 — 中国好学生综合征：外部出题、学习主权与开放问题失配](AC-008-china-good-student-syndrome.md)
 
-其中 AC-005 / AC-006 / AC-007 当前都只是**待检验的作者母题**：它们可以指导 Case intake 与外部取证，但不得在没有 P0/P1/S1 支撑时写成跨案例事实。
+其中 AC-005 / AC-006 / AC-007 / AC-008 当前都只是**待检验的作者母题**：它们可以指导 Case intake 与外部取证，但不得在没有 P0/P1/S1 支撑时写成跨案例事实。尤其 AC-008 不是医学诊断、民族性判断或“成绩好有害”命题；其可检验核心是封闭题域能力向开放问题迁移时是否出现问题定义、学习主权与目标形成缺口。
 
 ## 姊妹项目
 
