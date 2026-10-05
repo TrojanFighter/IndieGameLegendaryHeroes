@@ -13,8 +13,8 @@
 
 当前仓库已经形成：
 
-- **37 个编号 Case 档案**，其中 34 个 RESEARCHING、3 个 SKELETON；新增中国候选组包括《戴森球计划》《中国式网游》《边境》《重装前哨》，另以《征途》作为中国产业制度转折 comparator，编号不代表其生产史与独立资格已核实；
-- **37 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **38 个编号 Case 档案**，其中 35 个 RESEARCHING、3 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》，另以《征途》作为中国产业制度转折 comparator，编号不代表其生产史与独立资格已全部核实；
+- **38 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **12 个跨案例 Claim**，检验 runway、能力资本、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
@@ -42,7 +42,9 @@
 | **为什么有的游戏发行时没爆，后来却突然爆了？** | [Among Us](cases/CASE-017-among-us.md) · [Brigador](cases/CASE-026-brigador.md) |
 | **小团队怎样挑战成熟大厂品类？** | [Project Wingman](cases/CASE-009-project-wingman.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Dyson Sphere Program（待核）](cases/CASE-027-dyson-sphere-program.md) |
 | **“小团队”就一定是独立游戏吗？** | [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Boundary（待核）](cases/CASE-029-boundary.md) · [Outpost: Infinity Siege（待核）](cases/CASE-030-outpost-infinity-siege.md) |
-| **中国商业开发者的职业前史怎样影响个人或小团队创作？（新组待核）** | [Dyson Sphere Program](cases/CASE-027-dyson-sphere-program.md) · [Boundary](cases/CASE-029-boundary.md) · [Outpost: Infinity Siege](cases/CASE-030-outpost-infinity-siege.md) · [中国式网游](cases/CASE-028-chinese-online-game.md) |
+| **中国商业开发者的职业前史怎样影响个人或小团队创作？** | [Sultan's Game / 双头龙](cases/CASE-038-sultans-game-double-cross.md) · [中国式网游](cases/CASE-028-chinese-online-game.md) · [Dyson Sphere Program](cases/CASE-027-dyson-sphere-program.md) · [Outpost: Infinity Siege](cases/CASE-030-outpost-infinity-siege.md) |
+| **商业手游经验换到 premium / 独立项目后，哪些能力还能用？** | [Sultan's Game / 双头龙](cases/CASE-038-sultans-game-double-cross.md) · [AC-010 商业游戏训练反转](author-corpus/AC-010-commercial-game-training-inversion.md) |
+| **“中国做独立游戏难”到底难在哪一层？** | [AC-011 双层环境](author-corpus/AC-011-china-two-layer-indie-environment.md) · [AC-004 三座大山](author-corpus/AC-004-china-three-mountains.md) · [AC-009 看不见的墙](author-corpus/AC-009-invisible-wall-distribution-regime.md) |
 | **中国网游为什么会从卖时间走向 F2P、虚拟商品与运营工业？** | [《征途》/ 史玉柱](cases/CASE-033-zhengtu-shi-yuzhu.md) · [中国游戏产业前史](book/research-notes/china-game-industry-prehistory-002.md) · [《符石守护者》vs《不思议迷宫》](book/research-notes/runestone-keeper-vs-gumballs-001.md) |
 | **平台本身能不能把玩家训练成开发者？** | [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
 | **成功以后，第一次成功怎样改变第二作？** | [Into the Breach](cases/CASE-020-into-the-breach.md) |
@@ -53,9 +55,9 @@
 
 ---
 
-## 37 个编号案例档案
+## 38 个编号案例档案
 
-这些 Case 是研究后台的档案，34 个为 RESEARCHING，3 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
+这些 Case 是研究后台的档案，35 个为 RESEARCHING，3 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
 | Case | Subject | 它主要让我们看见什么 |
 |---|---|---|
@@ -96,8 +98,9 @@
 | [CASE-035](cases/CASE-035-factorio-wube.md) | **Factorio / Wube Software** | 自筹 demo、众筹模型修正、官网 paid alpha、creator 放大与 product-led scaling |
 | [CASE-036](cases/CASE-036-manor-lords.md) | **Manor Lords / Slavic Magic** | solo core 与完整 production perimeter 的边界；grant、freelancer、QA 与 publisher 的分工 |
 | [CASE-037](cases/CASE-037-darkwood.md) | **Darkwood / Acid Wizard Studio** | paid contract bridge、crowdfunding gross→真实 runway、工期误判与 EA 延展 |
+| [CASE-038](cases/CASE-038-sultans-game-double-cross.md) | **Sultan's Game / Double Cross** | `CHINA TRANSITION CASE`：同一批商业手游老兵在组织收缩后进入 9 人 premium 团队，职业能力、管理方式和市场接口怎样被重新定价 |
 
-完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。《苏丹的游戏》与 Artless Games 已列为中国创作路径候选；独立资格与生存方式须另行核验。
+完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。Artless Games 仍列为中国创作路径候选；独立资格与生存方式须另行核验。
 
 ---
 
@@ -160,14 +163,16 @@
 
 截至 2026-10-06：
 
-- 37 个编号 Case 已建档，其中 34 个 RESEARCHING、3 个 SKELETON；
-- 37 个对应 Case Evidence Ledger 已建立；
+- 38 个编号 Case 已建档，其中 35 个 RESEARCHING、3 个 SKELETON；
+- 38 个对应 Case Evidence Ledger 已建立；
 - 12 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 当前为 `SUPPORTED`；
 - CASE-027–030 构成“中国生产制度候选组”；《中国式网游》已核官方开发自述，其余三个来源待恢复，不把候选解释视为已证正反例；
 - CASE-031 将 Jonas Tyroller 作为 longitudinal practitioner，持续检验同一开发者跨项目的方法复现、方法修正、市场接入与运气边界；
 - CASE-032 将 Brendan Greene / PLAYERUNKNOWN 作为 `LINEAGE / TRANSITION CASE`，区分 DayZ/Arma mod 的规则发明与社区验证、H1Z1 商业合作、Bluehole/PUBG 公司化放大；
 - CASE-033 将《征途》/史玉柱作为 `CHINA INDUSTRY TRANSITION / BUSINESS-MODEL COMPARATOR`，检验市场调研、F2P、虚拟商品、全国地推和快速运营如何组成高回报商业函数并塑造产业路径；
-- CASE-034–037 新增欧洲/中东欧生产结构组：Landfall（纵向工作室与失败分母）、Factorio/Wube（paid-alpha runway）、Manor Lords（solo-core 与外围边界）、Darkwood（众筹 runway 压力样本）；
+- CASE-034–037 为欧洲/中东欧生产结构组：Landfall（纵向工作室与失败分母）、Factorio/Wube（paid-alpha runway）、Manor Lords（solo-core 与外围边界）、Darkwood（众筹 runway 压力样本）；
+- CASE-038 将《苏丹的游戏》/双头龙作为 `CHINA TRANSITION CASE`，追踪十字星的大型商业手游前史、组织收缩、9 人 premium 生产、Demo / publisher 市场接口，以及开发者本人对旧商业化任务与新“好玩”目标的直接比较；
+- Author Corpus 新增 AC-010 “商业游戏训练反转”与 AC-011 “中国独立开发的双层环境”，目前都保持为待检验作者母题，不因单一成功案例直接升级正式 Claim；
 - CASE-026 仍是第一例正式以 **failure comparator** 为中心编号的 Case；
 - `book/` 已有 Kenshi、Rocket League、Bills Must Be Paid、Gunpoint、FTL 等 profile，并已建立独立游戏运动史、目标形成、玩家→生产者等书级研究入口。
 
@@ -186,7 +191,7 @@
 
 这里同样拒绝“某一个民族天生更会做某类游戏”之类的简化解释，而是追踪人才、技术、资本、组织与市场路径。
 
-本篇 [证据索引](sister-projects/slavic/evidence/README.md) 包含 8 个编号专题及 2 份保留的并行矩阵稿；专题不等同正式 Case，不计入上面的 37 个独立篇 Case。本篇 [书稿入口](sister-projects/slavic/book/README.md) 当前没有正式 Profile。两篇共享方法论与工具，分别维护资料索引与阅读入口；不按开发者国籍机械搬动独立篇案例。
+本篇 [证据索引](sister-projects/slavic/evidence/README.md) 包含 8 个编号专题及 2 份保留的并行矩阵稿；专题不等同正式 Case，不计入上面的 38 个独立篇 Case。本篇 [书稿入口](sister-projects/slavic/book/README.md) 当前没有正式 Profile。两篇共享方法论与工具，分别维护资料索引与阅读入口；不按开发者国籍机械搬动独立篇案例。
 
 ---
 
