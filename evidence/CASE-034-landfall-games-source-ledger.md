@@ -132,6 +132,26 @@
   - the 23 items are not necessarily 23 equally serious commercial bets;
   - prototype count alone does not measure selection quality or expected-value discipline.
 
+## E008 — Direct business-lead interview: self-publishing perimeter and deliberate move toward shorter projects
+
+- Source class: P1 — direct interview with Landfall business leads, hosted by Google Play editorial
+- Title: Meet Kirsten and Rebecca, business leads at Landfall Games
+- Author / Institution: Google Play editorial; interviewees Kirsten-Lee Naidoo and Rebecca Lautner
+- Published: UNKNOWN
+- Accessed: 2026-10-06
+- URL: https://play.google.com/store/apps/editorial?id=mc_games_editorialevergreen_indiedev_interviewseries_landfallgames_fcp
+- Claim use:
+  - Rebecca was brought in years after the studio's creative origin specifically to lead business work; Kirsten later joined to assist with self-publishing and investment;
+  - interview describes Landfall as handling publisher-like functions for its own games rather than assuming developers also absorb all business labor;
+  - Kirsten says the studio has wanted smaller/faster projects since TABS; Content Warning and PEAK are described as roughly two-month-scale projects while TABS and HASTE took several years;
+  - long projects are described as harder for the team to stay motivated on, making shorter commitments an explicit organizational preference rather than an accidental one-off;
+  - Landfall's business layer also evaluates/invests in outside developers while distinguishing this from traditional publishing.
+- Confidence: HIGH for direct role descriptions and current organizational preference
+- Boundary:
+  - interview is retrospective and promotional/editorial rather than audited organizational records;
+  - “about two months” is a studio-level production framing and must not erase post-jam support, polish, release work or external contributors;
+  - current business structure must not be projected backward onto Air Brawl-era Landfall.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
@@ -142,12 +162,14 @@
 - Content Warning and PEAK emerged from unusually concentrated jam structures;
 - HASTE changed product direction after prototype/public-signal stages;
 - Landfall has a visible archive of failed/unreleased prototypes;
-- small core-team counts do not capture the full contributor/marketing/localization perimeter.
+- small core-team counts do not capture the full contributor/marketing/localization/business perimeter;
+- the shift toward shorter projects is now an explicit studio preference linked by its business leads to motivation/commitment costs of multi-year development.
 
 ### SUPPORTED / NEEDS MORE GRANULARITY
 
 - Landfall has converted repeated physics/comedy/social projects into reusable studio capability capital;
 - shorter commitments became more attractive partly because of long-project costs;
+- self-publishing is supported by a specialized business layer rather than being costless founder labor;
 - product watchability/legibility functions as part of market access.
 
 ### PARTIAL / NEXT VERIFY
@@ -156,5 +178,5 @@
 - yearly headcount / contractor map;
 - exact cost and revenue by project;
 - taxonomy of Landfall Archives prototypes and capability reuse;
-- Evil Landfall financing terms and self-publishing/investment boundary;
+- Evil Landfall financing terms and investment boundary;
 - Sweden-specific housing/welfare/environment variables.
