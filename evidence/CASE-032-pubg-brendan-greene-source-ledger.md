@@ -9,7 +9,7 @@
 - Source class: P1 — direct creator interview
 - Title: Talking Battlegrounds with 'PlayerUnknown' Brendan Greene
 - Author / Institution: ABC / triple j; interviewee Brendan Greene
-- Published: 2017（具体日期待补）。
+- Published: UNKNOWN。
 - Accessed: 2026-10-05。
 - URL: https://www.abc.net.au/triplej/programs/triplej-breakfast/player-unknown-iv/9099362
 - Claim use:
@@ -65,7 +65,7 @@
 - Source class: P1 — direct creator conversation
 - Title: How Brendan Greene created the PUBG phenomenon — in conversation with Rami Ismail
 - Author / Institution: GamesBeat; Brendan Greene and Rami Ismail
-- Published: 2019（具体日期待补）。
+- Published: UNKNOWN。
 - Accessed: 2026-10-05。
 - URL: https://gamesbeat.com/brendan-greene-and-rami-ismail/
 - Claim use:
@@ -82,7 +82,7 @@
 - Source class: S1/P1 — reported oral history with creator testimony
 - Title: How It's Made: How Brendan Greene and PUBG revolutionized gaming
 - Author / Institution: ESPN Esports
-- Published: 2020（具体日期待补）。
+- Published: UNKNOWN。
 - Accessed: 2026-10-05。
 - URL: https://www.espn.com/esports/story/_/id/29364632/how-made-how-brendan-greene-pubg-revolutionized-gaming
 - Claim use:
@@ -99,7 +99,7 @@
 - Source class: P1 — direct creator retrospective / professional talk
 - Title: PLAYERUNKNOWN: From Mod Creator to Creative Director of PUBG
 - Author / Institution: Game Developers Conference; speaker Brendan Greene / PUBG Corp.
-- Published: 2018（GDC session；具体日待补）。
+- Published: UNKNOWN。
 - Accessed: 2026-10-05。
 - URL: https://www.gdcvault.com/play/1024986/PLAYERUNKNOWN-From-Mod-Creator-to
 - Video: https://www.youtube.com/watch?v=TJQR1Sfinjk
@@ -115,7 +115,7 @@
 - Source class: P1 — direct creator interview
 - Title: Getting to know PlayerUnknown
 - Author / Institution: PCGamesN; interviewee Brendan Greene
-- Published: 2017（具体日期待补）。
+- Published: UNKNOWN。
 - Accessed: 2026-10-05。
 - URL: https://www.pcgamesn.com/playerunknowns-battlegrounds/pubg-battlegrounds-brendan-greene
 - Claim use:
