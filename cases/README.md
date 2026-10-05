@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 37 个档案中，34 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 38 个档案中，35 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -47,12 +47,13 @@
 | CASE-035 | Factorio / Wube Software | 检验自筹 demo、众筹失误修正、官网 paid alpha、creator 放大与 product-led scaling 如何连续制造 runway | RESEARCHING |
 | CASE-036 | Manor Lords / Slavic Magic | 检验 `solo core` 与完整 production perimeter 的边界，以及 Patreon / MegaGrant / freelancer / QA / publisher 如何分阶段补足单人作者短板 | RESEARCHING |
 | CASE-037 | Darkwood / Acid Wizard Studio | 检验合同工作桥接、众筹 gross 与真实 runway 的错位、工期误判、Early Access 延展与多人功能删除 | RESEARCHING |
+| CASE-038 | Sultan's Game / Double Cross | **CHINA TRANSITION CASE**：检验商业手游老兵在组织收缩后转入 9 人 premium 团队时，哪些能力继续正迁移、哪些旧目标函数 / 工作习惯被重写，以及 Demo / 愿望单 / 众筹 / publisher 如何组成新的市场接口 | RESEARCHING |
 
 ## 规则
 
 - 每个案例先建立事实时间线，再写判断。
 - 所有“研究目的”都是待检验问题，不是当前结论。
-- 案例文件必须回链 Claim 与 Evidence；不得成为孤立传记。
+- 案例文件必须回链 Claim 与 Evidence；若新母题尚不足以升级为跨案例 Claim，可暂以 Author Corpus + Evidence 明示研究问题，并在积累正反样本后再正式建 Claim。
 - **Indie eligibility 与 production scale 分离审计**：公司内部小团队可以很“indie-like”，但若雇佣、runway、IP/所有权、publisher 与市场接入处于母公司体系，就不得仅凭团队小、买断制或创作自主性归入核心独立谱系。
 - **外部发行商本身不自动取消独立资格**：关键要继续核验开发工作室所有权、融资/控制权、IP、是否能独立选择项目与发行关系。`publisher-financed external indie` 与 `corporate-owned internal studio` 必须分开。
 - `NON-INDIE COMPARATOR` 可以保留正式 Case ID，以免破坏既有引用，但不得在 `book/profiles/` 中写成“独立英雄”；其 Transfer 必须明确哪些公司资源外部团队不可默认获得。
@@ -63,7 +64,15 @@
 
 ## 中国独立案例下一优先级
 
-`Sultan's Game / 双头龙工作室 (Double Cross)` 是下一批中国案例候选，优先检验工作室所有权、外部发行、Demo、众筹与传播路径。团队人数、资金关系与“几乎没有买量”等说法须定位原始来源，不预先判为纯独立或自然传播正例。Artless Games 的作品、公开言论与持续创作方式也已进入 [候选池](BACKLOG.md)。
+`Sultan's Game / 双头龙工作室 (Double Cross)` 已升级为 CASE-038，并建立独立 Evidence Ledger；下一轮重点不再是重复证明它“很成功”，而是继续核十字星→双头龙的资金 / ownership / contributor perimeter，以及不同岗位从商业手游转向 premium 时的正迁移与负迁移。
+
+中国线下一批优先补三类对照：
+
+1. CASE-028 《中国式网游》的开发者职业前史，继续保持“腾讯 / 商业手游从业”之类未核说法为 UNKNOWN；
+2. CASE-030 《重装前哨》及其他从成熟商业项目转 premium 的直接开发者复盘，用来检验而不是预设“商业指标误配”；
+3. 与 CASE-038 结构相近但转型失败或未形成市场突破的团队，降低成功者偏差。
+
+Artless Games 的作品、公开言论与持续创作方式仍在 [候选池](BACKLOG.md)。
 
 《植物大战僵尸杂交版》已进入 [`book/research-notes/pvz-hybrid-ugc-production-and-spread-001.md`](../book/research-notes/pvz-hybrid-ugc-production-and-spread-001.md) 的高优先级 UGC / fan-production intake：先核完整协作者、技术栈、免费同人经济结构、IP/授权和传播时间线，再决定是否升正式 `UGC / FAN-PRODUCTION LINEAGE CASE`，不得把商业 IP 的现成认知资本误记为原创 IP 的独立市场验证。
 
