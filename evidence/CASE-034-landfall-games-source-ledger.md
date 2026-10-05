@@ -9,7 +9,7 @@
 - Source class: P0/P1 — official institutional history
 - Title: Landfall Games Press Kit
 - Author / Institution: Landfall Games
-- Published: dynamic page / UNKNOWN
+- Published: UNKNOWN
 - Accessed: 2026-10-06
 - URL: https://landfall.se/landfall-press
 - Claim use:
@@ -28,7 +28,7 @@
 - Source class: P0 — official developer update
 - Title: TABS Roadmap
 - Author / Institution: Landfall Games
-- Published: dynamic page / roadmap text
+- Published: UNKNOWN
 - Accessed: 2026-10-06
 - URL: https://landfall.se/tabs-roadmap
 - Claim use:
@@ -47,7 +47,7 @@
 - Source class: P0 — official press kit
 - Title: ROUNDS Press Kit
 - Author / Institution: Landfall Games
-- Published: 2021-era press kit / dynamic page
+- Published: UNKNOWN
 - Accessed: 2026-10-06
 - URL: https://landfall.se/rounds-press-kit
 - Claim use:
@@ -64,7 +64,7 @@
 - Source class: P0 — official press kit
 - Title: Content Warning Press Kit
 - Author / Institution: Landfall Games
-- Published: 2024 / dynamic page
+- Published: UNKNOWN
 - Accessed: 2026-10-06
 - URL: https://landfall.se/content-warning-press-kit
 - Claim use:
@@ -84,7 +84,7 @@
 - Source class: P0/P1 — official retrospective press kit
 - Title: HASTE Press Kit
 - Author / Institution: Landfall Games
-- Published: 2025 / dynamic page
+- Published: UNKNOWN
 - Accessed: 2026-10-06
 - URL: https://landfall.se/haste-press-kit
 - Claim use:
@@ -103,7 +103,7 @@
 - Source class: P0 — official press kit
 - Title: PEAK Press Kit
 - Author / Institution: Landfall Games / Aggro Crab
-- Published: 2025 / dynamic page
+- Published: UNKNOWN
 - Accessed: 2026-10-06
 - URL: https://landfall.se/peak-press-kit
 - Claim use:
