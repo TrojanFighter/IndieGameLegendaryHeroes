@@ -154,6 +154,27 @@
 - Confidence: HIGH for the retrospective boundary
 - Boundary: exact working hours, medical details and per-person crunch exposure are not independently quantified.
 
+## E010 — Creator-authored narrative-production retrospective: finished story as project seed
+
+- Source class: P1 — creator-authored retrospective published by professional games media (accessible syndicated copy)
+- Title: 15天收入约4000万，《苏丹的游戏》创始人：磨血磨肉，别借鉴
+- Author / Institution: 钻咖 / 游戏葡萄（Sohu accessible copy）
+- Published: 2025-04-15
+- Accessed: 2026-10-06
+- URL: https://www.sohu.com/a/884557438_204824
+- Secondary source: official Steam DLC page for the original novel, https://store.steampowered.com/app/3728320/
+- Claim use:
+  - 钻咖 states that Sultan's Game grew from an already completed short story written by her; the story already contained the logic of the Sultan forcing others to play a game and the “Sultan card” concept;
+  - she says the team had previously tended to start projects from mature stories created inside the team rather than beginning only from market-category analysis;
+  - she describes a readable story as a shared alignment artifact: writers obtain a text/voice sample, artists form concept impressions, designers can attempt to convert story beats into levels, and the combined experiments can approximate a vertical slice;
+  - the Steam DLC later officially identifies 《一个适合苏丹的游戏》 as the original novel and explicitly says players can see the origins of game mechanics and events in it.
+- Confidence: HIGH for creator testimony and the existence/relationship of the original story
+- Boundary:
+  - a finished story is not by itself evidence of product-market fit or production viability;
+  - the team's prior use of story-led project formation is a self-described internal practice, not a universal prescription;
+  - the public article was written after commercial success and may rationalize the production process retrospectively;
+  - “Creative Reserve” remains a cross-case research hypothesis, not a proven causal mechanism.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
@@ -162,6 +183,7 @@
 - the team lineage runs through CrossStar, a previously much larger mobile-game organization;
 - CrossStar had raised major external capital and later contracted severely after project failure/market pressure;
 - Sultan's Game deliberately redefined scope around existing team capabilities;
+- the project grew from a completed short story that already contained important premise/rule seeds, and the team describes mature internal stories as a recurring alignment/starting mechanism;
 - Demo/Steam wishlist validation preceded launch;
 - 2P Games is a publisher in the production/market perimeter;
 - the project sold more than one million Steam copies by the studio/publisher's July 2025 official announcement;
@@ -173,6 +195,7 @@
 - professional mobile-game capability positively transferred into premium small-team production;
 - some old organization/market assumptions were intentionally discarded during the transition;
 - long-term trust and shared taste reduced coordination cost after organizational contraction;
+- pre-existing private/team creative material can shorten project alignment and seed a prototype, but its broader causal importance remains untested;
 - the Demo/creator/Steam interface fit this product better than the team's former high-cost mobile competition model.
 
 ### PARTIAL / NEXT VERIFY
