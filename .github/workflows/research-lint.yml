@@ -23,6 +23,8 @@ jobs:
         run: python tools/research_evidence_lint.py
       - name: Run context-situation-action checks
         run: python tools/context_audit_lint.py
+      - name: Check Case graduation eligibility boundaries
+        run: python tools/case_maturity.py --check
       - name: Run reader-layer drift checks
         run: python tools/reader_layer_lint.py
       - name: Run Case Explorer metadata contract checks
