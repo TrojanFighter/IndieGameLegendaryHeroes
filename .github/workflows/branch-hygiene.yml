@@ -1,0 +1,67 @@
+name: branch-hygiene
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - '.github/workflows/branch-hygiene.yml'
+
+permissions:
+  contents: write
+  pull-requests: read
+
+jobs:
+  cleanup-merged-chatgpt-branches:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Fetch remote branches
+        run: git fetch origin '+refs/heads/*:refs/remotes/origin/*' --prune
+
+      - name: Record branch and PR state
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git for-each-ref --format='%(refname:short)' refs/remotes/origin/chatgpt/ \
+            | sed 's#^origin/##' \
+            | sort -u > chatgpt-branches.txt
+          gh pr list --state open --limit 1000 --json headRefName --jq '.[].headRefName' \
+            | sort -u > open-pr-branches.txt
+          gh pr list --state merged --limit 1000 --json headRefName --jq '.[].headRefName' \
+            | sort -u > merged-pr-branches.txt
+
+      - name: Show cleanup plan
+        run: |
+          set -euo pipefail
+          while IFS= read -r branch; do
+            [ -n "$branch" ] || continue
+            if grep -Fxq "$branch" open-pr-branches.txt; then
+              echo "skip open PR branch: $branch"
+            elif grep -Fxq "$branch" merged-pr-branches.txt; then
+              echo "cleanup candidate: $branch"
+            else
+              echo "skip branch without merged PR: $branch"
+            fi
+          done < chatgpt-branches.txt
+
+      - name: Delete merged chatgpt branches without open PRs
+        if: github.event_name != 'pull_request'
+        run: |
+          set -euo pipefail
+          while IFS= read -r branch; do
+            [ -n "$branch" ] || continue
+            if grep -Fxq "$branch" open-pr-branches.txt; then
+              continue
+            fi
+            if ! grep -Fxq "$branch" merged-pr-branches.txt; then
+              continue
+            fi
+            echo "delete merged PR branch: $branch"
+            git push origin --delete "$branch"
+          done < chatgpt-branches.txt

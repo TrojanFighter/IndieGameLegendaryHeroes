@@ -7,7 +7,7 @@
 ## 来源类型
 
 - **A0-PUBLIC**：知乎“洪荒行者”、微信公众号“游戏炼乳”等公开作者语料。
-- **A0-CHAT**：作者授权使用的历史 ChatGPT 对话中的行业分析、命题演化与案例线索。
+- **A0-CHAT**：作者授权使用、仅讨论公开行业资料的历史 ChatGPT 对话中的行业分析、命题演化与案例线索；私人项目对话及其摘要不得摄取。
 
 来源登记、平台入口和可调用边界见：[`../sources/SOURCE-001-author-platforms-and-chat-corpus.md`](../sources/SOURCE-001-author-platforms-and-chat-corpus.md)。
 
