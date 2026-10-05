@@ -7,10 +7,10 @@
 ## E001 — Giant Interactive 2007 F-1: business model, market structure, distribution and ZT economics
 
 - Source class: P0 — SEC registration filing / company financial disclosure
-- Source Title: Form F-1 Registration Statement, Giant Interactive Group Inc.
-- Author or Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
-- Publication Date: 2007-10-12
-- Access Date: 2026-10-05
+- Title: Form F-1 Registration Statement, Giant Interactive Group Inc.
+- Author / Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
+- Published: 2007-10-12
+- Accessed: 2026-10-05
 - URL: https://www.sec.gov/Archives/edgar/data/1415016/000119312507217827/df1.htm
 - Claim use:
   - ZT Online was commercially launched in January 2006 as a free-to-play MMO;
@@ -29,10 +29,10 @@
 ## E002 — Giant Interactive 2007 full-year results
 
 - Source class: P0 — SEC-filed company financial release
-- Source Title: Giant Interactive Group Inc. consolidated condensed statements / 2007 full-year results
-- Author or Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
-- Publication Date: 2008-02-19
-- Access Date: 2026-10-05
+- Title: Giant Interactive Group Inc. consolidated condensed statements / 2007 full-year results
+- Author / Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
+- Published: 2008-02-19
+- Accessed: 2026-10-05
 - URL: https://www.sec.gov/Archives/edgar/data/1415016/000119312508034863/d6k.htm
 - Claim use:
   - 2007 online-game revenue: RMB1.521bn;
@@ -46,10 +46,10 @@
 ## E003 — 2006 direct Shi Yuzhu interview: free users, high spenders and lower-tier market
 
 - Source class: P1 — direct executive interview
-- Source Title: 商业狂人史玉柱：网游要向丁磊陈天桥学习
-- Author or Institution: 新浪科技；interviewee 史玉柱
-- Publication Date: 2006-04-13
-- Access Date: 2026-10-05
+- Title: 商业狂人史玉柱：网游要向丁磊陈天桥学习
+- Author / Institution: 新浪科技；interviewee 史玉柱
+- Published: 2006-04-13
+- Accessed: 2026-10-05
 - URL: https://tech.sina.com.cn/i/2006-04-13/0913901818.shtml
 - Claim use:
   - Shi says ZT's model is to earn from high-spending players while allowing lower-consumption players to play free;
@@ -64,10 +64,10 @@
 ## E004 — 2008 profile: 500–600 player conversations and ground-marketing organization
 
 - Source class: P1/S1 — reported profile with direct Shi quotations
-- Source Title: 简单史玉柱：以保健品模式卖网络游戏
-- Author or Institution: 新浪财经
-- Publication Date: 2008-01-09
-- Access Date: 2026-10-05
+- Title: 简单史玉柱：以保健品模式卖网络游戏
+- Author / Institution: 新浪财经
+- Published: 2008-01-09
+- Accessed: 2026-10-05
 - URL: https://finance.sina.com.cn/leadership/crz/20080109/15524385308.shtml
 - Claim use:
   - Shi says he had spoken with roughly 500–600 players;
@@ -82,10 +82,10 @@
 ## E005 — 2007 profile: re-entry into IT, talent acquisition and distribution buildout
 
 - Source class: P1/S1 — direct quotes plus reported reconstruction
-- Source Title: 史玉柱：重建“巨人”
-- Author or Institution: 新浪财经
-- Publication Date: 2007-08-30
-- Access Date: 2026-10-05
+- Title: 史玉柱：重建“巨人”
+- Author / Institution: 新浪财经
+- Published: 2007-08-30
+- Accessed: 2026-10-05
 - URL: https://finance.sina.com.cn/g/20070830/10293931771.shtml
 - Claim use:
   - reports a roughly RMB20m initial investment to recruit a game-development group in 2004;
@@ -100,10 +100,10 @@
 ## E006 — 2006 direct interview: product investment and monetization opportunity model
 
 - Source class: P1 — direct executive interview
-- Source Title: 网游是孤独征途 韩国模式不是唯一
-- Author or Institution: 21世纪经济报道 / 新浪游戏转载；interviewee 史玉柱
-- Publication Date: 2006-01-12
-- Access Date: 2026-10-05
+- Title: 网游是孤独征途 韩国模式不是唯一
+- Author / Institution: 21世纪经济报道 / 新浪游戏转载；interviewee 史玉柱
+- Published: 2006-01-12
+- Accessed: 2026-10-05
 - URL: https://games.sina.com.cn/o/n/2006-01-12/1749139735.shtml
 - Claim use:
   - Shi says the company concentrated on one game and gives an RMB40m R&D-investment figure;
@@ -117,10 +117,10 @@
 ## E007 — 2007 direct interview: gaming identity and response to monetization criticism
 
 - Source class: P1 — direct executive interview
-- Source Title: 史玉柱这十年：我的成功不是靠忽悠
-- Author or Institution: 新浪科技；interviewee 史玉柱
-- Publication Date: 2007-09-29
-- Access Date: 2026-10-05
+- Title: 史玉柱这十年：我的成功不是靠忽悠
+- Author / Institution: 新浪科技；interviewee 史玉柱
+- Published: 2007-09-29
+- Accessed: 2026-10-05
 - URL: https://tech.sina.com.cn/i/2007-09-29/15131772089.shtml
 - Claim use:
   - Shi describes himself as originally a programmer, a heavy game player, and frames the move into games as a return to IT;
@@ -133,10 +133,10 @@
 ## E008 — 2006 player-salary experiment: redistributing part of revenue to free/low-spending users
 
 - Source class: S2/P1 — company-supplied article containing direct Shi comments
-- Source Title: 史玉柱给玩家发工资伤及自身利润下滑
-- Author or Institution: 新浪游戏转载；content supplied by 征途网络
-- Publication Date: 2006-08-02
-- Access Date: 2026-10-05
+- Title: 史玉柱给玩家发工资伤及自身利润下滑
+- Author / Institution: 新浪游戏转载；content supplied by 征途网络
+- Published: 2006-08-02
+- Accessed: 2026-10-05
 - URL: https://games.sina.com.cn/o/n/2006-08-02/0956161207.shtml
 - Claim use:
   - company reported the first salary-distribution event sent out more than RMB10m equivalent and reduced short-term profit;
@@ -150,10 +150,10 @@
 ## E009 — 2007 F-1 management biographies: contributor perimeter
 
 - Source class: P0 — SEC registration filing
-- Source Title: Form F-1 — Management biographies
-- Author or Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
-- Publication Date: 2007-10-12
-- Access Date: 2026-10-05
+- Title: Form F-1 — Management biographies
+- Author / Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
+- Published: 2007-10-12
+- Accessed: 2026-10-05
 - URL: https://www.sec.gov/Archives/edgar/data/1415016/000119312507217827/df1.htm
 - Claim use:
   - CTO Shiliang Song had prior software experience including Shanda before joining Zhengtu's R&D center in 2004;
@@ -167,10 +167,10 @@
 ## E010 — 2007/2008 public financial metrics: scale after validation
 
 - Source class: P0 — SEC-filed investor materials
-- Source Title: Giant Interactive key quarterly operating metrics / 2008 investor presentation
-- Author or Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
-- Publication Date: 2008-08-18
-- Access Date: 2026-10-05
+- Title: Giant Interactive key quarterly operating metrics / 2008 investor presentation
+- Author / Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
+- Published: 2008-08-18
+- Accessed: 2026-10-05
 - URL: https://www.sec.gov/Archives/edgar/data/1415016/000119312508187138/d6k.htm
 - Claim use:
   - reports active paying accounts, average concurrent users, peak concurrent users and ARPU across 2007–2008;
