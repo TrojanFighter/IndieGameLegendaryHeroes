@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 33 个档案中，30 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 37 个档案中，34 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -43,6 +43,10 @@
 | CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | **LONGITUDINAL PRACTITIONER**：检验同一开发者如何跨三人、solo-core、两人团队反复出货，并区分快速原型、范围压缩、市场可读性、公开沟通与运气各自的真实作用 | RESEARCHING |
 | CASE-032 | PLAYERUNKNOWN / Brendan Greene: DayZ Battle Royale → H1Z1 → PUBG | **LINEAGE / TRANSITION CASE**：检验非传统作者怎样在 Arma/DayZ mod 中以规则发明和社区验证先获得作品信用，再经 H1Z1 与 Bluehole 两轮商业组织放大为 PUBG；不得把 PUBG 公司生产整体包装成独立游戏 | RESEARCHING |
 | CASE-033 | Zhengtu / Shi Yuzhu | **CHINA INDUSTRY TRANSITION / BUSINESS-MODEL COMPARATOR**：检验市场调研、F2P、虚拟商品、县乡地推、快速运营与玩家分层如何组成中国网游的新商业函数，以及高回报商业模式怎样反向塑造行业能力树；不得包装成独立游戏正例 | RESEARCHING |
+| CASE-034 | Landfall Games / Air Brawl → TABS → Content Warning → HASTE → PEAK | **LONGITUDINAL MICRO-STUDIO**：检验产品验证后扩张、短周期原型、失败分母、长项目技术债与弹性外围如何共同塑造工作室 | RESEARCHING |
+| CASE-035 | Factorio / Wube Software | 检验自筹 demo、众筹失误修正、官网 paid alpha、creator 放大与 product-led scaling 如何连续制造 runway | RESEARCHING |
+| CASE-036 | Manor Lords / Slavic Magic | 检验 `solo core` 与完整 production perimeter 的边界，以及 Patreon / MegaGrant / freelancer / QA / publisher 如何分阶段补足单人作者短板 | RESEARCHING |
+| CASE-037 | Darkwood / Acid Wizard Studio | 检验合同工作桥接、众筹 gross 与真实 runway 的错位、工期误判、Early Access 延展与多人功能删除 | RESEARCHING |
 
 ## 规则
 
