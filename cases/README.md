@@ -6,6 +6,8 @@
 
 编号也不代表证据成熟：当前 31 个档案中，28 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
+除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
+
 | Case ID | Subject | 研究目的 | 状态 |
 |---|---|---|---|
 | CASE-001 | FTL / Subset Games | 检验储蓄、地区成本、前职业经验、众筹与小团队范围控制 | RESEARCHING |
