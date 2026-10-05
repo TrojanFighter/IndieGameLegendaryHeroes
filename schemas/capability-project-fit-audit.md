@@ -40,6 +40,28 @@
 
 优秀案例往往混合三者；研究时要判断主要机制是哪一种，而不是一律写成“少人多能”。
 
+### D. Capability Trap / 能力陷阱
+
+强项也可能成为错误立项的诱因。
+
+典型结构不是“团队不会做”，而是：
+
+```text
+某项能力很强
+→ 因为做得到，所以默认项目应该需要它
+→ 功能 / 技术 / 表现 / 组织复杂度不断向该能力扩张
+→ 生产成本、固定组织和市场解释负担同步上升
+```
+
+因此必须区分：
+
+- `能力可以解决这个问题`；
+- `这个问题值得存在`。
+
+大厂工程、网络、3A 美术、工业管线、多人服务能力等都可能产生 `Capability Trap`。已有能力不是免费资源：一旦它诱发更高资产密度、更多依赖关系、更长周期或更大固定团队，它同样会提高 opportunity cost。
+
+失败 / comparator Case 应专门检查：项目是在利用强项，还是在**为强项寻找用武之地**。
+
 ---
 
 ## Required Questions
@@ -76,6 +98,12 @@
 - 市场传播面是否是产品设计的一部分，而不是完成后临时补营销？
 - 不得把传播结果全部归因于设计；保留平台窗口、算法、媒体、主播和 luck。
 
+进一步检查 `double dividend`：
+
+> **同一个降本决策，是否同时降低 production cost，并提高 market legibility？**
+
+这是比单纯“省钱”更强的信号。矩形角色、翻滚动物、极低精度但高辨识度的 3D、单一核心 mechanic 等都可能属于这一类；但必须由立项期 / 开发期证据证明，而不能只看成品倒推。
+
 ### 5. Counterfactual
 
 至少问一次：
@@ -97,6 +125,7 @@
 - 是否用招聘、融资、外包和开发周期去填补能力错配？
 - 是否出现 `feature accumulation`、工业化模仿或组织先行？
 - 是否有强项未能转化为 market legibility？
+- 是否出现 `Capability Trap`：因为某项能力很强，于是给产品增加了本来不必存在的技术/资产/组织问题？
 
 这不是要求所有独立作者只做舒适区项目；而是要把**跨出舒适区的成本与补偿机制**写清楚。
 
@@ -117,6 +146,13 @@
 
 `作者看起来很会美术，所以一定是为了省程序成本才做这个项目` 只属于 H，除非有行动链证据。
 
+特别防止两种 biography fallacy：
+
+- `曾在赌博公司工作 → 所以一定把赌博设计方法带入游戏`；
+- `曾在大厂 / AAA 工作 → 所以其后所有技术与组织决策都来自大厂训练`。
+
+职业前史只能建立候选机制，必须进一步证明**具体能力 → 具体项目动作 → 具体生产结果**。
+
 ---
 
 ## Recommended Case Insert
@@ -135,6 +171,7 @@
 - `FIT-STRONG`：项目明显围绕团队能力不对称设计；
 - `FIT-MIXED`：有部分重定义，但仍大量依靠手工劳动/外部资本填坑；
 - `FIT-WEAK`：项目系统性要求团队补齐昂贵弱项；
+- `FIT-TRAP`：强项反而诱发不必要复杂度 / 固定成本 / feature accumulation；
 - `UNKNOWN`：缺少立项期证据。
 
 这些标签目前只用于人读审计，不进入 `metadata/cases.json`，避免在跨案例证据不足时过早固化分类。
@@ -145,13 +182,31 @@
 
 这些不是预先判决，只是当前最值得核验的锚点：
 
+### 已有第一批锚点
+
 - **The First Tree / David Wehle** — technical artist / visual-first background、明确自述 coding 弱；项目短、视觉可识别、使用现成资产并通过 GIF / Reddit / Imgur 等形成强传播面。检验“视觉强项 → 产品形态 → marketing surface”是否在立项期已经耦合。
 - **Everything / David OReilly** — 动画作者把抽象能力带入游戏；大量对象/动物不采用传统写实 rig animation，而以程序化/翻滚运动解决，并把限制转化为作品语言。是 `problem redefinition + aesthetic conversion` 的强候选。
-- **Landfall Games** — 物理、喜剧、社交和 community interaction 逐渐形成团队能力资本；反复使用 jam、短周期和小固定团队，同时保留 TABS/HASTE 等长项目作为内部反例。重点研究“工作室是否学会让产品形态服从自己的高杠杆能力”。
+- **Landfall Games** — 物理、喜剧、社交和 community interaction 逐渐形成团队能力资本；反复使用 jam、短周期和小固定团队，同时保留 TABS/HASTE 等长项目作为内部反例。重点研究“工作室是否学会让产品形态服从自己的高杠杆能力”。长期 intake：Issue #25。
 - **CASE-007 Gunpoint / Tom Francis** — 评论者/资深玩家背景如何影响问题选择，需区分 taste 与实现能力。
 - **CASE-018 RollerCoaster Tycoon / Chris Sawyer** — 极强工程能力和长期代码资本如何支撑非常规 OPC production。
 - **CASE-026 Brigador** — 作为失败压力样本，检查强技术/美术执行与市场表达之间是否存在能力—产品错配。
 - **《牛来》 / 信雨萌** — 跨媒介 comparator，不作为游戏 Case。公开访谈显示其从艺术景观背景转入动画、长期自学并以单人核心承担大量传统动画工序。研究重点不是嘲笑粗糙，而是区分：哪些成本被真正重新定义，哪些只是由五年个人劳动替代专业团队。
+
+### Wave 2 — 优先补证对象
+
+- **A Short Hike / Adam Robinson-Yu — PRIORITY A**：CS / software-engineering + game-jam 前史；在大型 Paper-Mario-like RPG 做了一年仍看不到终点后，转向有明确短期限的小型开放世界。重点核 `大项目撤退 → 4-month deadline → tiny open world`，以及 crunchy pixel 3D、对话写法等是否直接降低其弱项成本。它是“不是把 RPG 缩小，而是换一个自己能完成的问题”的强候选。
+- **Thomas Was Alone / Mike Bithell — PRIORITY A**：早期 prototype 因能力/时间限制只使用矩形；后续没有补成传统角色资产，而是利用 graphic-design / minimalism 把矩形升级成视觉语言和叙事投射面。强测 `aesthetic conversion + double dividend`。
+- **Vampire Survivors / Luca Galante — PRIORITY A/B**：程序/系统、Ultima Online server admin、赌博软件前史 + 极低初始资产投入。尤其适合做 biography fallacy 反例：Galante 后来明确说其赌博行业工作主要是 pipeline automation、front-end、modular UI architecture，而非“从老虎机学会了 Vampire Survivors 设计”。研究应拆开系统能力、现成资产、负面行业经验、定价伦理和成品 reward presentation。
+- **Baba Is You / Arvi Teikari — PRIORITY B**：长期实验作 / jam / Clickteam 工具 + Noita artist + puzzle literacy，在 48 小时 jam 中形成核心规则机制。重点核“狭窄工具能力并未被补齐，而是通过规则系统让内容生产更多发生在 puzzle space 而非资产 space”。
+- **Downwell / Ojiro Fumoto — PRIORITY B**：从声乐学生、几乎无编程经验切入，通过 game-a-week 快速形成领域能力；Downwell 不是第一作，而是多次短实验后押中的高杠杆核心 mechanic。重点核 `rapid capability acquisition → mechanic compression → mobile/PC legibility`，避免把“歌剧出身”硬解释成设计因果。
+- **Sokpop Collective — STUDIO-CADENCE COMPARATOR**：把 game-jam 经验直接制度化为高频发售和 Patreon/Steam 商业结构。这里 project fit 不只是单作，而是“什么样的游戏才适合一个月 / 两个月生产函数”。可与 Landfall 做 `cadence as capability capital` 对照。Wave-2 intake 见 Issue #28。
+- **Strange Scaffold / Xalavier Nelson Jr. — ACTIVE PRACTITIONER / PRIORITY A**：项目筛选、contractor constellation、scope rejection、风险分配和高频出货均有大量公开一手言论；2026 仍持续公开 DIDIT 等选题/功能筛选方法。长期 intake：Issue #27。这个对象尤其适合检验“生产方法能否制度化，而不是只依赖创作者直觉”。
+
+### Capability Trap / 反压力线
+
+- **CASE-029 Boundary** 与 **CASE-030 Outpost: Infinity Siege** 可作为候选压力样本：重点不是“中国团队不会独立游戏”，而是核验强商业/工程/工业化能力是否诱发了组织扩张、feature accumulation、表现成本和固定 burn 的提前上升。
+- 后续必须继续找**真正独立、小团队内部**的 `FIT-TRAP` 失败例，避免只拿大组织或中国项目充当反例。
+- 还需寻找 `FIT-STRONG but commercially failed`：即能力—项目高度适配、产品也完成得好，但市场需求不足或 market access 失败。只有这样才能证明 Capability–Project Fit 不是“成功充分条件”。
 
 ---
 
@@ -167,6 +222,8 @@
 
 - 3–5 个结构不同的强正例；
 - 2 个以上失败/反压力样本；
+- 至少 1 个 `FIT-STRONG but commercially failed`，防止把 fit 当成成功充分条件；
+- 至少 1 个 `FIT-TRAP`，证明强项也可能把项目带向错误复杂度；
 - 立项期证据，而非纯事后复盘；
 - 能把能力适配与资金、市场窗口、既有受众、运气分开；
 - 有案例能真正反驳该命题。
