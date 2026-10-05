@@ -55,3 +55,12 @@
 ## Transfer boundary / follow-up
 
 <!-- 这次明确没有解决什么？哪些缺口应交给另一条 Lane / 后续 Issue？ -->
+
+## Translation checks (when applicable)
+
+- [ ] 共享原文 ID 与 Evidence，未新增事实或补齐 UNKNOWN
+- [ ] 核对数字、日期、团队口径、否定词、证据状态和反方证据
+- [ ] manifest 原文哈希对应实际翻译版本；过期译文已声明 STALE
+- [ ] AI 自检没有冒充人工 REVIEWED；修改译文后重新审阅或退回 DRAFT
+- [ ] `python tools/translation_lint.py`
+- [ ] 人工检查 PR 标题、正文、截图、附件等本地钩子未覆盖的公开载体

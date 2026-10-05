@@ -1,42 +1,6 @@
 name: research-lint
 
-on:
-  push:
-    paths:
-      - 'README.md'
-      - 'WORKFLOW.md'
-      - 'book/**'
-      - 'cases/**'
-      - 'claims/**'
-      - 'evidence/**'
-      - 'explorer/**'
-      - 'metadata/**'
-      - 'schemas/**'
-      - 'tools/research_lint.py'
-      - 'tools/research_evidence_lint.py'
-      - 'tools/reader_layer_lint.py'
-      - 'tools/context_audit_lint.py'
-      - 'tools/explorer_lint.py'
-      - 'tools/frontmatter_yaml_lint.py'
-      - '.github/workflows/research-lint.yml'
-  pull_request:
-    paths:
-      - 'README.md'
-      - 'WORKFLOW.md'
-      - 'book/**'
-      - 'cases/**'
-      - 'claims/**'
-      - 'evidence/**'
-      - 'explorer/**'
-      - 'metadata/**'
-      - 'schemas/**'
-      - 'tools/research_lint.py'
-      - 'tools/research_evidence_lint.py'
-      - 'tools/reader_layer_lint.py'
-      - 'tools/context_audit_lint.py'
-      - 'tools/explorer_lint.py'
-      - 'tools/frontmatter_yaml_lint.py'
-      - '.github/workflows/research-lint.yml'
+on: [push, pull_request]
 
 permissions:
   contents: read
@@ -63,3 +27,7 @@ jobs:
         run: python tools/reader_layer_lint.py
       - name: Run Case Explorer metadata contract checks
         run: python tools/explorer_lint.py
+      - name: Check translation registry and source versions
+        run: python tools/translation_lint.py
+      - name: Test public-content and translation guards
+        run: python -m unittest discover -s tests -p 'test_*.py'

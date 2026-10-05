@@ -219,7 +219,7 @@ def validate_cases(doc: dict[str, Any], known_claims: set[str]) -> dict[str, dic
         if status != "SKELETON" and strength in {"none", "low"}:
             warn(f"{cid}: {status} but evidence_strength={strength}")
 
-    disk = {str(p.relative_to(ROOT)) for p in (ROOT / "cases").glob("CASE-*.md")}
+    disk = {p.relative_to(ROOT).as_posix() for p in (ROOT / "cases").glob("CASE-*.md")}
     reg = {str(v.get("file")) for v in out.values()}
     for path in sorted(disk - reg):
         err(f"unregistered Case file {path}")

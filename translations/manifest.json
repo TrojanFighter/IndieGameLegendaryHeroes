@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "canonical_language": "zh",
+  "translations": [
+    {
+      "source": "README.md",
+      "target": "translations/en/README.md",
+      "doc_id": "PROJECT-ENTRY",
+      "kind": "entry",
+      "source_sha256": "8a839a32e6014ee8ff6e169a7eeac1c93d86ec934006c1051af57ece1bd18afe",
+      "status": "DRAFT",
+      "reviewer": null,
+      "reviewed_target_sha256": null
+    },
+    {
+      "source": "CONTRIBUTING.md",
+      "target": "translations/en/CONTRIBUTING.md",
+      "doc_id": "CONTRIBUTING",
+      "kind": "translation",
+      "source_sha256": "2d5151bc3bebf76f2712d713be29ab34fe676d726ff85fbe3e7c533e6795ed4e",
+      "status": "DRAFT",
+      "reviewer": null,
+      "reviewed_target_sha256": null
+    },
+    {
+      "source": "cases/CASE-001-ftl.md",
+      "target": "translations/en/cases/CASE-001-ftl.md",
+      "doc_id": "CASE-001",
+      "kind": "case-translation",
+      "source_sha256": "dd7a5dc3d1dc06a50b01bfe4097739e2758a2d81321efd5df78f999e42a5f99e",
+      "status": "DRAFT",
+      "reviewer": null,
+      "reviewed_target_sha256": null
+    }
+  ]
+}

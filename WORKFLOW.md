@@ -128,3 +128,7 @@ http://localhost:8000/explorer/
 3. 哪些问题明确留给下一条 Lane / 后续任务。
 
 一个 PR 原则上只承担一条 Lane。跨 Lane 不是禁止，但必须说明为什么不能拆分。
+
+## 公开贡献与双语检查
+
+新贡献按 [CONTRIBUTING.md](CONTRIBUTING.md) 使用独立公开上下文、单任务分支和实际差异审阅。英文入口见 [translations/en/README.md](translations/en/README.md)。译文版本与人工审阅规则见 [双语维护](docs/bilingual-maintenance.md)；运行 `python tools/translation_lint.py` 检查登记、源版本、ID 与本地链接。
