@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 30 个档案中，27 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 31 个档案中，28 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 | Case ID | Subject | 研究目的 | 状态 |
 |---|---|---|---|
@@ -38,6 +38,7 @@
 | CASE-028 | Chinese Online Game / 648 Studio | 官方自述单人业余约五年；检验模拟网游体验的表现成本，职业前史与完整协作者边界仍 UNKNOWN | RESEARCHING |
 | CASE-029 | Boundary / Surgical Scalpels Studio | 待核：所有权、融资、团队扩张与停服因果；已定位发行方公告，不据单方声明归责 | SKELETON |
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | 待核：团队归属、职业前史、范围与市场预期；不预设企业内部负例结论 | SKELETON |
+| CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | **LONGITUDINAL PRACTITIONER**：检验同一开发者如何跨三人、solo-core、两人团队反复出货，并区分快速原型、范围压缩、市场可读性、公开沟通与运气各自的真实作用 | RESEARCHING |
 
 ## 规则
 
