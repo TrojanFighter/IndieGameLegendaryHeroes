@@ -51,9 +51,9 @@ Brendan Greene 的故事不是“一个摄影师一夜做出 PUBG”，而是一
 - Bluehole 再提供正式团队与资源实现 standalone Battle Royale；
 - PUBG 最终是公司团队产品，Greene 是 creative director，不是 solo developer。
 
-## Context–Situation–Action Snapshot
+## 2. Context–Situation–Action Snapshot
 
-### Context
+### Era / Production Regime
 
 2013–2017 的几个关键条件同时存在：
 
@@ -63,7 +63,7 @@ Brendan Greene 的故事不是“一个摄影师一夜做出 PUBG”，而是一
 - Steam Early Access 允许未完成 PC 产品先接触全球玩家；
 - 大型公司开始直接观察 mod 社区里的已验证玩法。
 
-### Situation
+### Actor Situation
 
 Greene 是爱尔兰人，公开回忆显示其接受过 art/design 训练，后来做过 graphic/web design、摄影与 DJ，并在巴西生活多年。关系与经济压力使他一度处于很弱的职业/生活状态；他当时不是传统游戏开发者，也没有大型多人项目经验。
 
@@ -71,7 +71,7 @@ Greene 是爱尔兰人，公开回忆显示其接受过 art/design 训练，后�
 
 > **他碰到了一个允许不完整能力结构先测试核心规则的介质。**
 
-### Action / Decision Units
+### Action / Maneuver
 
 | 阶段 | Binding constraint | 行动 | 结果 | Evidence |
 |---|---|---|---|---|
