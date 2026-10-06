@@ -139,6 +139,12 @@
 - 多轮 prototype、precision aiming、custom engine、digital kitbash art pipeline 和 specialist periphery 都与团队能力高度耦合。
 - 但 strong fit 没有自动解决 onboarding / market legibility / audience expectation。
 - Use: “taste”不能被写成单一总分；Capability–Project Fit 也不能被写成成功充分条件。
+### C7. Pressure — CASE-048 The Magic Circle
+- Status: FORMAL CASE / `FIT-STRONG / MARKET-FAILED`。
+- 三位 immersive-sim / AAA veteran 的职业前史直接变成题材、editable-AI mechanic 与高 authorial-density production model。
+- Creator–Project Fit 很强，但 creator-reported sales 仍被评价为不可持续；unclear genre / niche-within-niche / no marketing budget 成为显性问题。
+- Use: 强制把 `Creator–Project Fit` 与 `Project–Market Selection` 分开；“最像自己的项目”不等于“当前最值得做的商业项目”。
+- Case: [CASE-048](../../cases/CASE-048-the-magic-circle.md)
 
 ---
 
@@ -246,6 +252,16 @@
 - Use: explains how CASE-047 acquired prior-hit capital and authorial decision rights.
 - 2026: platform tactics HISTORICAL；specialist periphery / authorial decision rights DURABLE.
 
+### E7. CASE-049 — Outer Wilds / Mobius Digital
+
+- Status: FORMAL CASE / RESEARCHING.
+- Observed: USC thesis/student prototype → IGF validation → Mobius adoption → Fig → publisher/platform partnerships → 2019 release.
+- Why: first formal `CAPABILITY-EXPANDED / EXTERNAL-CAPITAL` comparator. Product thesis/playable evidence existed before commercial-scale expansion; external capital then bought hiring, production runway, publisher/platform support and a larger production perimeter.
+- Compare with CASE-047: The Witness spends founder-owned retained earnings; Outer Wilds uses a multi-stakeholder capital stack.
+- Research value: audit what capital buys, who supplies it, what stakeholder surface appears, and which control rights remain UNKNOWN.
+- Boundary: do not infer that Annapurna/Xbox/Epic forced any specific design or exclusivity decision without contract evidence.
+- Case: [CASE-049](../../cases/CASE-049-outer-wilds.md)
+
 ---
 
 ## F. Solo / generalist
@@ -295,8 +311,8 @@ Formal anchors already sufficient for first comparative pass:
 
 1. **GRIS / Neva / Nomada** — 补 fine artist + experienced production team 的能力翻译结构；
 2. **Zachtronics** — 补 programmer/system author，把 engineering literacy 变成题材与玩法；
-3. **C015 第二失败样本** — Brigador 已填第一份 `FIT-STRONG / LAUNCH-FAILED`；下一步找另一种能力结构的失败者，避免单案例支撑反压力；
-4. **Capability-Expanded 对照扩充** — The Witness 已填 prior-hit-financed 路径；下一步补 publisher-financed 与 VC/grant-financed 的能力扩张路径，比较 control cost。
+3. **C015 failure decomposition** — Brigador + The Magic Circle 已形成两份不同 `FIT-STRONG / MARKET-FAILED`；下一步编码失败发生在 onboarding、category legibility、audience size、timing、cost structure 哪一层。
+4. **Capability-Expanded funding comparison** — The Witness + Outer Wilds 已覆盖 founder-owned 与 external-capital；下一步补 VC / grant 路径，比较 decision rights、milestones、recoup 与 failure tolerance。
 
 暂不为每类强行凑到同样数量。
 
