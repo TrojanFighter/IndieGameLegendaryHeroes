@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055
 
 ## Definition
 
@@ -250,6 +250,28 @@ So C015 requires a negative boundary:
 
 This does not imply custom engines are bad. Early id / DOOM remains the opposite case: technical innovation can create and compress a new product space. The diagnostic variable is whether technical progress reduces remaining product obligations or continuously opens new ones.
 
+### CASE-055 Factorio — deep-tech success with explicit stop conditions
+
+Factorio supplies the success-side pressure control that CASE-054 requires.
+
+Wube is not a “use less technology” studio. It repeatedly rewrote multiplayer, optimized the deterministic simulation, modernized rendering and maintained a highly technical modding / tooling surface. The crucial difference is that the team also leaves unusually explicit evidence of asking when a technical target is **enough**.
+
+Three independent checkpoints matter:
+
+1. after multiplayer work exceeded the original 20–50 player ambition and reached hundreds of players, kovarex explicitly asked whether further scale still improved gameplay or merely continued an internal race, declared roughly 200-player support sufficient, and redirected work toward factory simulation that also benefited single-player;
+2. the team removed fluid-wagon tank-separation mechanics partly because the problem already had a trivial player solution while the mechanic imposed continuing code / UI / bug cost;
+3. in 2019–2020 Wube stated that “done when done” could make development continue forever, publicly locked a 1.0 date, then cancelled / postponed / cut major work so the product could close.
+
+This creates a positive boundary for FIT-TRAP:
+
+> **Technical capability stays leverage when the team can attach an “enough” condition to it and redirect resources once marginal player/product value falls.**
+
+For now `TECHNICAL STOP CONDITION` is a research mechanism, not a formal fit label. One studio is not enough to claim universality.
+
+Together with early id / DOOM, Factorio also separates two successful uses of deep technology:
+- **frontier creation** — new technology directly creates a new playable product space;
+- **frontier discipline** — deep technology remains valuable, but only while it continues to close core product obligations.
+
 ### Other boundaries
 
 - CASE-043 shows redefinition can merely **move** cost: rolling/procedural locomotion deleted conventional animation obligations but created hard systems work.
@@ -343,3 +365,4 @@ This is why some independent games look “strange” relative to industry genre
 5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）+ CASE-052（grant + publisher）已覆盖三种 capability expansion 资本结构；下一步主要缺 **VC/equity-financed** 样本与可观察的 decision-rights / milestone / recoup 数据。
 6. CASE-050 已建立第一份 `CAPABILITY-COMPOSED`；下一步找一个 complementary-founder 结构仍失败/解体的压力样本，避免把“找互补合伙人”写成万能解。
 7. CASE-051 建立 `FIT-LOCK-IN`；下一步找第二个长期作者/工作室样本，检验成功的 capability fit 是否会系统性提高转型成本。
+8. CASE-055 已建立第一份 deep-tech success-side stop-condition 对照，与 CASE-054 形成首个 failure/success pair；下一步再找一个非 Wube 样本，检验 `enough condition / player-facing obligation / maintenance tail / release closure` 是否可跨工作室复现。
