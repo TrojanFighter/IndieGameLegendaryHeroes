@@ -1,0 +1,87 @@
+# 中国国情研究｜游戏产业、教育社会化与创新能力
+
+[返回研究计划总图](../../PROGRAM-MAP.md)
+
+本区研究一个比“中国独立游戏案例”更大的问题：
+
+> 为什么中国拥有庞大的游戏市场、成熟商业化工业和大量高执行力人才，却长期没有按同等规模稳定地产生独立游戏、作者型产品与非共识 0→1 创新？这种差距怎样形成，又在什么时候开始改变？
+
+这不是民族性定论，而是一个需要产业史、教育 / 社会化、组织制度与市场接口共同解释的问题。
+
+## 1. 产业史主轴
+
+优先重建：
+- 单机盗版 / 网吧 / 代理时代；
+- MMO 与点卡；
+- 《征途》式 F2P、虚拟商品、地推和 live ops；
+- 页游 / 卡牌 / 手游、渠道联运与买量；
+- 腾讯、网易等大型组织的专业化语法；
+- Steam / premium PC / creator network 对旧能力树的重新定价；
+- Game Science、Double Cross / Sultan's Game、Gunfire 等旧工业能力在新 regime 中重新组合的案例。
+
+现有入口：
+- [产业前史](../../book/research-notes/china-game-industry-prehistory-002.md)
+- [商业 regime lineage](../../book/research-notes/china-game-commercial-regime-lineage-003.md)
+- [腾讯式专业语法](../../book/research-notes/china-tencent-commercial-hegemonic-grammar-008.md)
+- [五代玩家 × 四代从业者](../../book/research-notes/china-player-worker-generations-009.md)
+- [多维结构性能力模型](../../book/research-notes/china-indie-structural-capability-audit-010.md)
+- [四案例 Production Fundamentals](../../book/research-notes/china-production-fundamentals-four-case-matrix-011.md)
+- [Gunfire × Tripwire 正向基准](../../book/research-notes/gunfire-tripwire-production-fundamentals-012.md)
+- [Game Science × Sultan 能力重新定价](../../book/research-notes/china-capability-repricing-black-myth-sultan-013.md)
+- [NExT portfolio 效率审计](../../book/research-notes/next-studios-portfolio-efficiency-audit-014.md)
+- [本轮 provenance closeout](../../book/research-notes/china-indie-source-intake-closeout-015.md)
+
+## 2. 教育与社会化主轴
+
+需要把“规训”“标准答案”“怕犯错”“不容异类”拆成可研究的问题：
+- 高风险考试与 credential sorting 是否强化 answer-seeking；
+- 家庭投资与失败成本怎样影响职业选择；
+- 学校 / 公司怎样分配 decision rights；
+- deviance / eccentricity 在同伴、组织和招聘中受到什么奖惩；
+- 个人兴趣何时能转成公开作品、portfolio、创业信用；
+- “优秀执行者”与“问题提出者”是否进入不同晋升通道；
+- 集体协调能力与个人作者性之间是否存在真实 trade-off，在哪些制度下不存在。
+
+禁止直接用轶事或人格印象推出“中国人普遍怎样”。
+
+## 3. Individualism / WEIRD 比较
+
+Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可以提供跨社会比较假说，例如 impersonal institutions、voluntary association、individual choice、conformity / nonconformity、trust beyond kin、occupational mobility。
+
+但它只是一组理论和经验文献，不是中国游戏创新差距的总钥匙。任何引用都要区分国家、地区、代际和阶层，区分心理测量与真实产业行为，并寻找东亚内部与西方内部反例。
+
+## 4. 当前正式化状态
+
+008–015 已完成本轮素材 provenance closeout。
+
+下一阶段从“继续搜截图”切换为：
+
+> Case → Evidence → Claim → country-study chapter
+
+当前首批正规化比较组：
+- CASE-029 Boundary；
+- CASE-039 Gunfire Reborn；
+- CASE-040 Tripwire lineage；
+- CASE-041 NExT Studios → SYNCED；
+- CASE-038 Sultan's Game 继续承担 commercial-mobile capability transfer。
+
+保留的 research debt 不构成章节 blocker：
+- T9 formative history；
+- Game Science 早期离职员工身份与原始说法；
+- Hero Entertainment 出售 Game Science 股权的主观动机；
+- 所谓“渠道评级低”的直接材料；
+- “执行主策化”的 JD / 访谈抽样；
+- Egg Party 前后 physics/networking JD 时间序列；
+- “数值卡牌”玩家 / 收入迁移的精确年度边界。
+
+## 5. 预期章节逻辑
+
+暂定不从“中国人不行”开篇，而从产业成功史开始：
+
+1. 先解释中国游戏工业为什么曾经非常成功。
+2. 高回报商业函数怎样训练出强能力，也怎样收窄 objective function。
+3. 市场、渠道、组织和教育 / 社会化怎样共同塑造“什么算好项目、什么人能做决定”。
+4. 为什么部分能力在 premium PC / global market 中突然重新定价。
+5. 中国现在已经在改变什么，哪些结构仍未改变。
+
+这样才能解释“落后”而不是只宣布“落后”。
