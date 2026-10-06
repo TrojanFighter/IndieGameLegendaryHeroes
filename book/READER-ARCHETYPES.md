@@ -23,7 +23,7 @@
 - Wehle 的旧作品集把自己描述为 interactive / motion / multimedia 方向；
 - 前作帮助他进入 The VOID 做 Unity technical artist；
 - GDC 2019 复盘明确以“全职工作 + 两个孩子 + 极少时间”完成 The First Tree 为题；
-- 本项目已经把它列入 Capability–Project Fit 强候选：重点不是“不会代码也能成功”，而是 visual / technical-art 强项是否直接塑造了短时长探索、现成资产改造、强截图/GIF 表达与受控系统复杂度的产品形态。
+- 本项目已经把它正式列入 Capability–Project Fit 样本：重点不是“不会代码也能成功”，而是 visual / technical-art 强项是否直接塑造了短时长探索、现成资产改造、强截图/GIF 表达与受控系统复杂度的产品形态。
 
 **观察窗口：** 约 2016–2019。  
 **2026 状态：** `CONDITIONAL`。
@@ -36,7 +36,8 @@
 
 直接材料：
 - [GDC 2019 — No Time, No Budget, No Problem: Finishing 'The First Tree'](https://www.gdcvault.com/play/1025702/No-Time-No-Budget-No)
-- [The First Tree 官方 FAQ](https://www.thefirsttree.com/) — 作者明确说明会授权/改造现成资产以加速 production，也披露 console port 外围帮助
+- [2016 Game Developer — So Many Projects, So Little Time](https://www.gamedeveloper.com/business/so-many-projects-so-little-time) — 开发中同期说明 technical-artist 身份、short/simple scope、licensed assets 与能力边界
+- [2017 Game Developer — The Mysterious World of DIY Indie Marketing](https://www.gamedeveloper.com/business/the-mysterious-world-of-diy-indie-marketing) — 发售同期记录 GIF / Reddit / PAX / Steam Direct 等 market interface
 - [David Wehle 旧作品集 / About](https://davidwehle.net/home/about/) — Media Arts、motion / interactive / multimedia 前史
 
 研究入口：
@@ -46,10 +47,16 @@
 
 ### 第二站：Everything / David OReilly
 
+> 已升级为 **CASE-043 / RESEARCHING**；它与 The First Tree 构成第二种 visual-first 结构，而不是同一路径的重复。
+
 适合研究：
 > 动画 / 视觉作者怎样把传统动画弱项或高成本问题重新定义成作品语言，而不是硬补完整工业管线。
 
-状态：`CANDIDATE / temporal status UNKNOWN`，需正式建档后再进入成品章节。
+状态：`RESEARCHING`；核心 abstraction / problem-redefinition 机制为 `DURABLE`，2017 平台与注意力环境为 `CONDITIONAL`。
+
+研究入口：
+- [CASE-043 — Everything / David OReilly](../cases/CASE-043-everything-david-oreilly.md)
+- [CASE-043 Evidence Ledger](../evidence/CASE-043-everything-david-oreilly-source-ledger.md)
 
 ---
 
@@ -104,7 +111,7 @@
 
 优先看：
 - [CASE-042 The First Tree / David Wehle](../cases/CASE-042-the-first-tree.md) — `RESEARCHING`；
-- Everything / David OReilly — `CANDIDATE`；
+- [CASE-043 Everything / David OReilly](../cases/CASE-043-everything-david-oreilly.md) — `RESEARCHING`；
 - [Undertale / Toby Fox](../cases/CASE-010-undertale.md) — 音乐、UGC/社区与作者性；
 - [despelote](../cases/CASE-023-despelote.md) — 文化、声音、地点记忆与低资产密度表达。
 
