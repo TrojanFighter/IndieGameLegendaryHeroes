@@ -148,75 +148,96 @@ Gunpoint 的 Crosslink explanation video 也是典型。
 
 这也是为什么“招一个策划，照爆款做个小号版本”经常完全错过独立游戏的生产逻辑。
 
-## 两个关键反压力：Brigador 与 The Witness
+## 四个边界锚点：两种 FIT-STRONG 失败 + 两种 CAPABILITY-EXPANDED
 
 ### Brigador：FIT-STRONG 也会死
 
-Brigador 现在提供了 C015 第一份真正重要的失败压力样本。
+Brigador 提供第一份正式失败压力样本。
 
-开发者同期材料显示，它并不是“团队能力错配”：
+它并不是“团队能力错配”：
 
 - 多轮 prototype 后才进入最终方向；
 - 早期 four-player arena 被放弃，因为团队自己并不喜欢；
 - 慢速、重量感、deliberate combat 与主创长期 taste 对齐；
 - Counter-Strike 型 precision aiming 被转成三维等距瞄准机制；
-- Jack 的 Ma.K. / kitbash 兴趣同时变成视觉语言和单美术高效率 asset pipeline；
-- narrative / music 等非核心能力被交给高度匹配的 specialist。
+- Ma.K. / kitbash 兴趣同时变成视觉语言和单美术高效率 asset pipeline；
+- narrative / music 等非核心能力交给 specialist。
 
-所以它接近：
+所以它接近：`Capability-Shaped / FIT-STRONG`。
 
-> **Capability-Shaped / FIT-STRONG。**
-
-但 2016 launch 仍商业失败。
-
-这使结论必须改成：
+但 2016 launch 仍商业失败。它说明：
 
 > **能力反向立项解决的是“我们能不能高密度地做出一个像自己的产品”，不是“市场一定会买”。**
 
-还必须独立过：
-- onboarding；
-- market legibility；
-- audience expectation；
-- demand size；
-- launch timing；
-- attention concentration。
+### The Magic Circle：最像自己的项目，也可能不是最值得做的项目
 
-### The Witness：有钱时，可以让能力追项目
+CASE-048 把反压力进一步推进了一层。
 
-The Witness 提供另一种边界。
+Question 三位核心成员的 immersive-sim / AAA 前史几乎直接变成游戏：
 
-Jonathan Blow 没有把愿景缩成只需要自己会的事情，而是利用 Braid 的 retained earnings：
+- AI / gameplay programming → player-editable AI；
+- BioShock / Thief / Dishonored 的系统设计经验 → open-ended problem solving；
+- 多年 development hell 经验 → 游戏开发本身成为 meta subject；
+- 对 process-heavy AAA culture 的反感 → 三人高信任、高 authorial-density 的 production model。
 
-- 自己继续主导 puzzle / systems / thesis；
-- 建 core art team；
-- 请 architecture specialist；
-- 请 landscape architects；
-- 调用 sound / platform specialist；
-- 用约七年和数百万美元保持 project thesis。
+这已经不是“项目适合团队”而已，而是：
 
-所以这里出现第二种 project-formation mode：
+> **这个项目几乎只有这几个人才会这样定义。**
 
-> **CAPABILITY-EXPANDED**
+但 Jordan Thomas 公开给出的销量仍被他本人评价为对 Question 不可持续，并把 unclear genre、niche-within-niche、no marketing budget 等列为问题。
+
+因此 C015 必须拆成两个不同判断：
+
+1. **Creator–Project Fit**：这些人是不是异常适合做这个项目？
+2. **Project–Market Selection**：这个项目在这个年份、这个市场、以这种进入方式，是否值得做？
+
+Brigador 与 The Magic Circle 都说明：第一题答“是”，第二题仍可能答“不”。
+
+### The Witness：自己的钱，可以让能力追项目
+
+The Witness 是 `CAPABILITY-EXPANDED / SELF-FINANCED`。
+
+Jonathan Blow 没有把愿景缩成只需要自己会的事情，而是利用 Braid retained earnings 建 core art team，并购买 architecture、landscape、sound / platform 等 specialist capability。
 
 其路径是：
 
-`project thesis → identify missing capability → spend capital / recruit → expand team capability set → preserve thesis`
+`project thesis → identify missing capability → founder-owned capital → expand capability set → preserve thesis`
 
-这意味着独立作者真正可以动的变量有两个：
+它的主要代价是 founder 自己承担 burn / opportunity cost；外部 governance surface 相对较小。
 
-1. **改项目，让它适合现有人。**
-2. **改团队，让它适合现有项目。**
+### Outer Wilds：外部的钱也能扩能力，但会新增 stakeholder surface
 
-哪个更优，取决于：
-- capital；
-- runway；
-- recruiting power；
-- control cost；
-- ownership；
-- time；
-- market window。
+CASE-049 是 `CAPABILITY-EXPANDED / EXTERNAL-CAPITAL`。
 
-### 更大的统一模型
+Outer Wilds 在 USC thesis / playable prototype 阶段已经有相对清楚的产品 thesis，之后才通过：
+
+- Mobius studio support；
+- Fig；
+- 全职招聘扩张；
+- Annapurna；
+- Xbox / Epic partnership
+
+把 student capability set 扩成能完成商业成品的 production organization。
+
+这和 The Witness 的关键区别不是“有没有钱”，而是**钱从哪里来**。
+
+外部资本除了 runway / hiring 之外，还会引入新的：
+
+- backer expectation；
+- publisher / platform stakeholder；
+- milestone / distribution / storefront surface；
+- potential control / approval / recoup obligations。
+
+Outer Wilds 的具体合同权力仍 UNKNOWN，所以不能推出“publisher 强迫某项决定”。能支持的只是：
+
+> **外部资本购买 capability expansion 的同时，也扩张 governance surface。**
+
+于是“能力扩张”本身还要继续拆成：
+
+- `SELF-FINANCED EXPANSION`；
+- `EXTERNAL-CAPITAL EXPANSION`。
+
+## 更大的统一模型
 
 因此“能力反向立项”不应被误写成：
 > 小团队永远只做自己最会的东西。
@@ -245,7 +266,7 @@ C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 
 下一步重点不是继续找英雄，而是找反例：
 
-1. Brigador 已成为第一份 `FIT-STRONG / LAUNCH-FAILED` 正式压力样本；继续寻找第二个结构不同的失败者。
-2. The Witness 已建立第一份 `CAPABILITY-EXPANDED` 对照；继续补 publisher-financed / VC-financed 的能力扩张路径。
+1. Brigador + The Magic Circle 已形成两份结构不同的 `FIT-STRONG / MARKET-FAILED`；下一步比较失败究竟发生在 onboarding、category legibility、audience size、timing 还是 cost structure，而不是机械增加失败者。
+2. The Witness + Outer Wilds 已形成 `SELF-FINANCED` 与 `EXTERNAL-CAPITAL` 两种 `CAPABILITY-EXPANDED`；下一步优先补 VC / grant 路径，并核可观察的 decision-rights / milestone / recoup 变量。
 3. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
 4. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。
