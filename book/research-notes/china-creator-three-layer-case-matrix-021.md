@@ -731,53 +731,41 @@ FTL 的关键结构是：
 
 矩阵已经能工作，但仍有三个明显缺口。
 
-## 1. 教育层缺“真正高自由教育但长期作品失败”的强 P1 个案
+## 1. 教育层原缺口已由 Limit Theory 显著补强
 
-现有“飞翔的子明”是一手个人复盘，但不是著名商业案例。
+参见 `CASE-054-limit-theory-fit-trap.md` 与 `china-creator-three-layer-missing-cells-022.md`。
 
-需要寻找：
+Josh Parnell 同时具备高教育资本、高自主性、强工程能力、长期公开开发与市场兴趣，却仍因 FIT-TRAP / product closure 失败取消项目。
 
-- 资源/教育环境宽松；
-- 有自主兴趣；
-- 有长期制作；
-- 最终明确因 taste / scope / validation failure 没成立。
+因此“自由→创新”的强反压力已经存在。后续重点不再是继续找同型案例，而是比较：
 
-这样才能更强地压力测试“自由→创新”。
+- Capability Capture Risk；
+- specialist frontier 与 product frontier 是否脱节；
+- prototype/community feedback 为什么没有及时迫使产品收敛。
 
-## 2. 社会层缺中国开发者 household-economics 的系统材料
+## 2. 社会层 household-economics 已形成第一批中国样本，但仍需结构化补录
 
-欧美独立开发史大量公开：
+022 已补入：
+- 《奋斗吧！领主大人》：几乎全部积蓄 + 约100万团队投入 + 婚后/生育压力 + 失败后回就业；
+- 《贪婪大地》：房贷、保姆、孩子、配偶失业与约3万元月家庭开支；
+- 《村与地下城》：储蓄 + 配偶无收入 + 孩子读书 + 裸辞一年现金单向流出；
+- 《伏龙记》：伴侣支持背后的 childcare / domestic labor / opportunity cost。
 
-- spouse income；
-- cheap rent；
-- savings；
-- day job。
+下一步不是继续泛搜“家人支持”，而是把同一字段反向补进已有中国 Case，并用欧美同字段做可比。
 
-中国公开采访则经常只写：
+## 3. 行业层原缺口已由 The Magic Circle 补上
 
-> “辞职创业”“坚持梦想”“家人支持”。
+参见 `CASE-048-the-magic-circle.md` 与 022。
 
-需要主动补：
+Question 的 BioShock / Thief / Dishonored 老兵：
+- 明确拒绝旧 AAA process-heavy objective function；
+- 形成三人高信任、强作者性小团队；
+- creator–project fit 很强；
+- 仍因 niche-within-niche、category legibility 与 market access 不足而商业不可持续。
 
-- 城市住房；
-- 家庭现金流；
-- 无薪期；
-- 父母住房；
-- 婚育；
-- 社保；
-- 再就业选项。
+因此已经可以正式保留：
 
-否则“中国人风险偏好低”的讨论没有物质基线。
-
-## 3. 行业层缺“老兵成功卸载旧函数但产品仍失败”的案例
-
-这类最重要。
-
-因为它能证明：
-
-> **即使 deliberate unlearning 做对了，市场仍可以说不。**
-
-否则我们容易把“成功卸载旧版本”暗中写成成功充分条件。
+> **deliberate unlearning + strong fit 仍不是商业成功充分条件。**
 
 ---
 

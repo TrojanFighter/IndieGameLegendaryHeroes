@@ -554,6 +554,7 @@ Production Capital 高速增加
 - [王妙一 × 《太吾绘卷》：教育 / 行业 / 社会三层压力测试](china-creator-three-layer-pressure-tests-019.md)
 - [自由、经验、支持都不能替代现实验证：三层失败压力测试](china-creator-three-layer-failure-pressure-tests-020.md)
 - [三层系统案例矩阵：成功 / 失败 / 混合对照](china-creator-three-layer-case-matrix-021.md)
+- [三层缺口补全：Limit Theory × The Magic Circle × Household Economics](china-creator-three-layer-missing-cells-022.md)
 
 目前得到三个重要修正：
 
