@@ -76,7 +76,7 @@ GRIS 形成于 2010s 中后期：
 - 有技术实现和大型生产经验；
 - 自己也想做更小、更不同的作品。
 
-### Formation Move
+### Action / Maneuver
 
 不是“Conrad 学会做完整游戏”，而是：
 
@@ -87,6 +87,12 @@ GRIS 形成于 2010s 中后期：
 
 这是本案最重要的因果方向。
 
+### Anachronism Check
+
+- 2016–2018 的 boutique-publisher / Gamescom demo 路径不能直接当作 2026 固定打法；
+- 当时高质量 2D hand-drawn presentation、digital-store attention 与 labor/tool cost 都处于特定历史窗口；
+- 可迁移的是 `project thesis → complementary founder composition → demo → selective capability expansion`，不是具体发行渠道；
+- 不能从 GRIS 成功推出“visual artist + AAA programmer”通常会成功，也不能把 cofounder composition 当作无成本招聘。
 ## 3. Why 2D / Side-Scroller Was Not Neutral
 
 2024 Nomada 直接访谈进一步把 capability → product form 说得更清楚：
