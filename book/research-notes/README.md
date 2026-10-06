@@ -27,6 +27,7 @@
 - [`china-indie-source-intake-closeout-015.md`](china-indie-source-intake-closeout-015.md) — 对本轮上传截图、网页与公开证据做逐素材 provenance closeout：记录命题、核验状态、落库位置与 UNKNOWN，防止把私人讨论、社区评论和公开事实混成同一证据层。
 - [`china-catch-up-success-pre-paradigm-creator-016.md`](china-catch-up-success-pre-paradigm-creator-016.md) — 把“春登/老中”讨论翻译成创作者可证伪机制：追赶成功烙印、Production Capital vs Problem-Framing Capital、前范式创作者、资本化错误续命与选拔函数错配；明确拒绝年龄/民族本质论。
 - [`domain-specific-capability-demand-evaluation-017.md`](domain-specific-capability-demand-evaluation-017.md) — 用中国餐饮 × 美国游戏 / 中国游戏 × 美国便利餐饮作跨领域参照，引入领域性能力资本与需求侧评鉴资本，研究成熟消费者怎样既推动创新又放大内卷。
+- [`china-creator-constraints-three-layer-map-018.md`](china-creator-constraints-three-layer-map-018.md) — 将“老中/英雄为什么没有出发”正式拆为教育、行业版本现状、社会版本意识三层；路由现有课题，并补入应试教育反过度归因、organizational learning / competency trap、idiosyncrasy credit 与家庭期待等外部理论锚。
 - [`runestone-keeper-vs-gumballs-001.md`](runestone-keeper-vs-gumballs-001.md) — 《符石守护者》与《不思议迷宫》的路径分化：相近 Roguelike/地牢语法如何在 Steam premium 与中国 mobile/F2P 制度里长成不同生产与收入结构。
 - [`pvz2-china-monetization-001.md`](pvz2-china-monetization-001.md) — PopCap Shanghai 从 Great Wall Edition 到 PVZ2 中国版的商业本地化：盗版/低 premium 回款如何推动 F2P，再如何进入 progression、difficulty 与付费边界。
 - [`china-pc-market-interface-audit-001.md`](china-pc-market-interface-audit-001.md) — 对《波西亚时光》《戴森球计划》《Eastward》《太吾绘卷》《了不起的修仙模拟器》《苏丹的游戏》《边境》七个中国 PC 项目的市场接口、愿望单/验证路径、发行外围与海内外结构做横向审计，检验“看不见的墙”命题。
