@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "last_updated": "2026-10-06",
   "cases": [
     {
@@ -1323,6 +1323,39 @@
       "evidence_ledger": "evidence/CASE-042-the-first-tree-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-043",
+      "file": "cases/CASE-043-everything-david-oreilly.md",
+      "subject": "Everything / David OReilly: animation abstraction → procedural game language",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "medium",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C003",
+        "C004",
+        "C007",
+        "C011"
+      ],
+      "tags": [
+        "creator-archetype",
+        "animation-auteur",
+        "visual-first",
+        "micro-team",
+        "self-funded",
+        "procedural-systems",
+        "problem-redefinition",
+        "specialist-periphery",
+        "capability-project-fit",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-06",
+      "evidence_ledger": "evidence/CASE-043-everything-david-oreilly-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "pending",
       "schema_version": 2,
       "context_audit": "partial"
     }
