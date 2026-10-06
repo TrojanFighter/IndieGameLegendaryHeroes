@@ -54,7 +54,7 @@ Escape from Duckov 又给出一个“团队压缩”版本：五人核心并非�
 
 ### 横向模式：如何“购买下一次原创的选择权”
 
-目前至少出现八种不同机制：
+目前至少出现九种不同机制：
 
 1. **服务业务购买选择权 — Psyonix**：用 work-for-hire / AAA collaboration 支付工资和组织能力，给原创留下生存空间。
 2. **前作 retained earnings 购买选择权 — Subset / Into the Breach**：成功后不把钱全部变成 headcount，而是购买多年低承诺试错时间。
@@ -64,10 +64,13 @@ Escape from Duckov 又给出一个“团队压缩”版本：五人核心并非�
 6. **母公司共享服务购买小核心自主性 — Escape from Duckov**：核心研发保持五人，但工资、发行、本地化、商务和其他外围职能并没有消失，而是由 Bilibili 内部共享；小团队由此不必把所有公司职能内建进核心 headcount。
 7. **founder-owned capital 购买 capability expansion — The Witness**：Braid retained earnings 不只购买时间，也购买 art / architecture / landscape 等缺失能力；主要 governance 成本留在 founder 自己的 burn / opportunity cost，而不是外部 approval surface。
 8. **external capital stack 购买 capability expansion — Outer Wilds**：student prototype / IGF evidence 之后，由 studio、Fig、publisher/platform partnership 连续扩张团队与 runway；它同时增加 backer / publisher / platform stakeholder surface。
+9. **grant + publisher 把外部支持转换为未来内部选择权 — House House**：Film Victoria development/completion funding 先购买 refinement、local hiring 与 accessibility capability；Panic 再补 audio、platform、event 与 publishing periphery；Untitled Goose Game 成功后，这些外部条件最终转化为 Big Walk 阶段更高的 retained-earnings risk tolerance。
 
-这八类都不等同于“融资金额越大越好”。更准确的共同变量是：**降低下一轮原创失败时的承诺成本、延长团队仍有资格继续试错的时间，并把当前资源转换成下一阶段可用的能力、资产、外围服务或融资资格。**
+这九类都不等同于“融资金额越大越好”。更准确的共同变量是：**降低下一轮原创失败时的承诺成本、延长团队仍有资格继续试错的时间，并把当前资源转换成下一阶段可用的能力、资产、外围服务或融资资格。**
 
-当前仍不应独立升级为新 Claim，因为样本主要来自成功者，且六种机制的失败对照尚不充分；现阶段把它作为 C002 + C004 的跨案例解释更稳妥。
+Nomada 又补充一个不是“买”来的机制：`CAPABILITY-COMPOSED`。GRIS 的 visual thesis 先出现，再由 illustrator + AAA programmers 组成 complementary founding team；这里缺失能力的成本更多以 equity / authorship / control sharing 支付，而不是工资。它因此不列入上面的“购买选择权”九类，但属于同一个“主动制造生产条件”的母题。
+
+当前仍不应独立升级为新 Claim，因为样本主要来自成功者，且九种机制的失败对照尚不充分；现阶段把它作为 C002 + C004 的跨案例解释更稳妥。
 
 ## C005 — work-for-hire can cross-subsidize original IP
 
@@ -87,6 +90,8 @@ Psyonix 的直接创始人/设计负责人回顾足以证明“can”：公司�
 
 **新增压力：** The Magic Circle 又提供一个更尖锐的边界：三位核心成员的 BioShock / Thief / Dishonored / immersive-sim 能力确实直接迁移进 mechanic、AI 与题材，但商业结果仍被 creator 评价为不可持续。**AAA capability transfer ≠ project-market selection success。**
 
+**外部 mechanism controls：** Nomada / GRIS 提供海外正向 control：AAA programmer capability 可以与 visual-author capability 重新组合，迁移 engineering / production literacy，却不继承 AAA objective function。House House 则提供非传统游戏职业路径的正向样本：filmmaking / arts / creative-practice backgrounds 可以成为 comedy、visual staging 与 trailer legibility 的能力来源。两者都不能用来推导“某种职业背景天然更优”。
+
 **边界：** 当前不能量化“大厂经历提高成功率多少”，也不能把非 AAA 路径浪漫化为更优。
 
 ## C007 — small teams redefine problem/cost structure
@@ -104,6 +109,9 @@ Psyonix 的直接创始人/设计负责人回顾足以证明“can”：公司�
 - Kenshi：不是小 scope，而是用极长时间、低表现要求和先系统后团队的路径承担大 scope；
 - Into the Breach：最终产品的“简洁”来自多年原型、删减和规则收敛，而不是一开始就有一个小而确定的 specification；
 - Escape from Duckov：不是把 Tarkov 内容简单砍半，而是删除网络多人、mobile 双端、PvP 与大量硬核 simulation 成本，保留 search→risk→extract→progression 的价值循环，再用俯视角/PVE/卡通表现重建可读性和受众边界。
+- TIS-100：Barth 原本想做更大的个人项目，但 art/content burden 与目标生产方式不匹配；最终保留 assembly/system core，删除昂贵 obligation，项目本身因而变成另一种产品。
+- Untitled Goose Game：House House 不是先列 stealth-game feature list，而是从“什么鹅行为会好笑”倒推 AI / object system；项目问题定义直接围绕 comic interaction 的高价值密度收敛。
+- GRIS：2D / side-scroller 不只是预算缩小，而部分来自 Roset 的 visual background 与团队对 pacing/narrative control 的选择。
 
 Duckov 特别说明：**删掉昂贵维度可以同时降低生产成本和创造新市场定位。** multiplayer → single-player、PvP → PvE、双端 → PC-only 不是单纯技术降级，而是把原本无法由五人高质量承担的系统义务移出问题空间。
 
@@ -139,15 +147,21 @@ C007 解决的是“小团队怎样重新定义昂贵问题”；C015 进一步�
 - **CASE-047 The Witness**：Blow 用 Braid retained earnings 保留更大 project thesis，再购买/招聘 art、architecture、landscape、sound 等缺失能力。它提供 `CAPABILITY-EXPANDED` 对照：资本足够时，不必总让项目服从 founder 当前能力，团队能力集合也可以移动。
 - **CASE-048 The Magic Circle**：creator capability、题材与 editable-AI mechanic 高度耦合，但销量仍被团队自己评价为不可持续；它把 `FIT-STRONG ≠ MARKET-SUFFICIENT` 从 Brigador 的 onboarding/legibility 失败扩展到 category / audience-size / meta-niche 选择问题。
 - **CASE-049 Outer Wilds**：和 The Witness 同属 `CAPABILITY-EXPANDED`，但资金来自 studio/crowdfunding/publisher/platform 的组合；它说明 capability expansion 必须进一步按 capital source 拆分，因为外部资本会增加 stakeholder / distribution / governance surface，而具体 control 权力仍需合同证据。
+- **CASE-050 Nomada / GRIS**：项目 thesis 先于公司，由 visual artist + AAA programmers 在 founding stage 组成互补 capability；建立 `CAPABILITY-COMPOSED`，提醒我们 cofounder capability 的价格不是零，而是 equity / authorship / control sharing。
+- **CASE-051 Zachtronics**：长期 engineering-author fit 不只提高效率，也沉淀 brand / tools / fanbase / identity；创始人后来自述很难做出不像 Zachtronics 的作品，因此建立纵向 `FIT-LOCK-IN` 压力。
+- **CASE-052 House House**：Film Victoria grant 与 Panic publisher 分别购买不同 capability bundle；成功后又转成 Big Walk 的 retained-earnings risk buffer，证明 external support 也可能被转化为未来 internal optionality。
 
 因此当前更完整的模型是：
 
-`project requirements ↔ capability supply`
+`project requirements ↔ founding-team composition ↔ capability supply`
 
 作者可以：
 - 改项目以适应能力；
-- 扩能力以适应项目；
-- 或在两侧共同移动。
+- 重新组成 founding team，让共同作者能力适应项目；
+- 用资本/招聘/外围扩能力以适应项目；
+- 或让三者共同移动。
+
+还要沿时间轴继续问：强 fit 是否正在积累成 `FIT-LOCK-IN`。
 
 真正需要审计的是移动哪一侧、成本由谁承担、是否损失 control，以及结果是否仍有 market legibility。
 
@@ -163,7 +177,8 @@ Brigador + The Magic Circle 证明第一项很强也不能保证第二项成立�
 - 不应要求创作者永远留在舒适区；
 - Everything 显示 cost conversion 会制造新的 systems cost；
 - 目前已经有 Brigador + The Magic Circle 两个结构不同的强 fit / 商业失败样本，但仍不足以量化成功率；
-- The Witness + Outer Wilds 已覆盖 self-financed 与 external-capital capability expansion，下一步应补 VC / grant 与真实合同 control 变量，而不是继续机械凑案例。
+- The Witness + Outer Wilds + House House 已覆盖 self-financed、external-stack、grant+publisher capability expansion，下一步只重点缺 VC/equity 与真实合同 control 变量；
+- Nomada 已建立第一份 `CAPABILITY-COMPOSED`，Zachtronics 已建立第一份 `FIT-LOCK-IN`，两者都仍需第二结构样本与压力对照。
 
 ## C008 — infrastructure lowers some barriers while introducing new dependence
 
@@ -194,6 +209,8 @@ Roblox 同时给出反面边界：DevEx 资格、兑换率、发现与用户获�
 - Escape from Duckov 发售前已经约 45 万 Steam wishlist，主动比较 9–11 月 AAA 档期，并由 Bilibili 承担 publisher perimeter；因此“上线后纯口碑突然爆红”不能成立。
 - The Magic Circle 的 Early Access / press / IGF visibility 并没有自动变成足够销量；它显示 `awareness`、`category comprehension`、`audience fit` 与 `conversion` 必须分开。
 - Outer Wilds 的 market access 是 USC/IGF/Fig/Annapurna/Xbox/Epic 多年累积的 institutional chain；市场接口同时也是融资与 stakeholder formation。
+- Zachtronics 把 niche targeting 明确当作 discoverability strategy；到 Opus Magnum，solution GIF 又让核心系统输出本身成为传播表面，属于 product/market coherence。
+- Untitled Goose Game 的 comic power dynamic 几乎可以从一张图/短 trailer 读懂；House House 的 film/creative background 与 Panic 的 publishing periphery 共同把这种 legibility 转成更大的 market surface。
 
 **边界：** “有市场接入”不等于“有传统营销预算”，也不意味着所有项目必须预先拥有粉丝。市场接入还可能把团队绑定在平台、社区承诺、publisher 或母公司考核上。
 
@@ -216,6 +233,9 @@ Roblox 同时给出反面边界：DevEx 资格、兑换率、发现与用户获�
 - Escape from Duckov 的约 22 个月集中生产期之前，核心成员已合作约 4–6 年，做过至少两款商业前作，还经历过 Duckov 早期 mobile 方向失败与平台收缩。
 - The Magic Circle 的两年多独立开发建立在三位核心成员多年的 BioShock / Thief / Dishonored / immersive-sim 职业前史上；正式 indie studio 年限不能当作能力起点。
 - Outer Wilds 的商业制作期之前已经有 USC thesis、学生团队、多年 prototype 与 IGF validation；2015 之后的 studio staffing 是能力扩张，不是项目从零开始。
+- GRIS 的 Nomada 公司史之前，Roset 已有多年职业 illustration，Cuevas/Mendoza 已有多年 AAA programming；studio formation 是既有能力的重新组合，不是能力从零开始。
+- SpaceChem 之前，Zach Barth 已有 college/freeware/Flash/Kongregate 与 engineering/programming 前史；2011 商业化不能当作 game-design capability 起点。
+- Untitled Goose Game 之前，House House 已先作为朋友/业余团队完成 Push Me Pull You，并带着 film/fine-art/creative-practice 背景进入第二作；Goose 不是四人第一次共同创造 artifact。
 
 **边界：** “有前史”不代表每一年都对最终产品具有同等因果贡献；后续应区分直接可迁移能力、组织关系、资本积累与宽泛人生经历。
 
