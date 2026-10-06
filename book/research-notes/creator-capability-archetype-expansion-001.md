@@ -27,9 +27,9 @@
 - 2026: visual-first mechanism = DURABLE；2016–2017 social tactic = HISTORICAL / CONDITIONAL。
 - Case: [CASE-042](../../cases/CASE-042-the-first-tree.md)
 
-### A2. Everything / David OReilly
+### A2. CASE-043 — Everything / David OReilly
 
-- Status: STRONG CANDIDATE / NOT NUMBERED.
+- Status: FORMAL CASE / RESEARCHING.
 - Observed: Mountain 2014 → Everything 2017。
 - Why: animation auteur 进入 game design，不按传统角色动画 / quest / authored-content pipeline 复制商业游戏，而把 abstraction、object agency、procedural movement 变成作品语言。
 - Research question: 这是 `cost avoidance → aesthetic conversion`，还是工程成本只是从动画转移到 simulation / tooling？
@@ -37,6 +37,7 @@
   - Game Developer 2017 — How Everything connects animation and game design: https://www.gamedeveloper.com/design/how-i-everything-i-connects-the-arts-of-animation-and-game-design
   - Game Developer 2017 — animation vs game dev: https://www.gamedeveloper.com/business/animation-vs-game-dev-i-everything-i-creator-david-oreilly-breaks-down-the-differences
 - 2026: underlying problem-redefinition = DURABLE；2017 distribution / attention = CONDITIONAL。
+- Case: [CASE-043](../../cases/CASE-043-everything-david-oreilly.md)
 
 ### A3. GRIS / Neva — Conrad Roset + Nomada Studio
 
@@ -273,12 +274,11 @@ Formal anchors already sufficient for first comparative pass:
 
 按“新增解释维度 / 一手证据成熟 / 对照价值”排序：
 
-1. **Everything / David OReilly** — 补 visual-first 的第二种完全不同 problem-redefinition；
-2. **Garry Newman lineage + s&box current pressure** — 同一个 modder 从成功平台到 2026 新平台压力，天然纵向对照；
-3. **RimWorld / Tynan Sylvester** — 补 design-thesis / selection-first；
-4. **Sandfall / Clair Obscur** — 补 AAA/commercial → authorial studio，但先严查 contributor / finance / publisher perimeter；
-5. **GRIS / Neva / Nomada** — 补 fine artist + experienced production team 的能力翻译结构；
-6. **Zachtronics** — 补 programmer/system author，把 engineering literacy 变成题材与玩法。
+1. **Garry Newman lineage + s&box current pressure** — 同一个 modder 从成功平台到 2026 新平台压力，天然纵向对照；
+2. **RimWorld / Tynan Sylvester** — 补 design-thesis / selection-first；
+3. **Sandfall / Clair Obscur** — 补 AAA/commercial → authorial studio，但先严查 contributor / finance / publisher perimeter；
+4. **GRIS / Neva / Nomada** — 补 fine artist + experienced production team 的能力翻译结构；
+5. **Zachtronics** — 补 programmer/system author，把 engineering literacy 变成题材与玩法。
 
 暂不为每类强行凑到同样数量。
 
