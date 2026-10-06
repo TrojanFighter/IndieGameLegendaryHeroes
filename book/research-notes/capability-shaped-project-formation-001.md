@@ -386,6 +386,54 @@ CASE-054 补上了此前真正缺失的 `FIT-TRAP`。
 
 这也重新解释 DOOM 为什么不是反例。Carmack 的技术突破不是单纯把 engine 做得更复杂，而是直接降低了做出一种新型实时动作游戏的成本并迅速兑现为可玩的 shareware product。Limit Theory 则不断让技术突破打开更多世界模拟 obligation。
 
+### Factorio：技术可以很深，但必须知道什么时候已经够了
+
+CASE-055 给 Limit Theory 补上成功侧对照。
+
+Wube 同样极度 programmer-led，也同样会：
+- rewrite multiplayer；
+- 做 deterministic simulation；
+- 做大量 performance engineering；
+- 维护 custom tooling / modding architecture；
+- 长期打磨一个高度系统化产品。
+
+所以不能把 Limit Theory 读成：
+
+> “程序员不要做技术。”
+
+真正差别在 stop condition。
+
+2016 年 Factorio multiplayer 从原计划几十人一路做到数百人。团队此时没有继续把“还能做更多”当成价值本身，而是公开问：
+
+> 继续做是在改善 gameplay，还是只是在和自己比赛？
+
+随后明确停止追 MMO 级并发，把工作转回同时改善 single-player mega-factory 的 general simulation。
+
+2017 年删除 fluid-wagon tank separation 时，理由又换了一种形式：
+
+> 玩家已有简单替代方案，而 mechanic 会继续制造 code / UI / bug maintenance tail。
+
+2019–2020 年第三次出现同构行为：
+
+> “done when done” 会让项目无限继续，所以公开锁定 1.0，随后 cancel / postpone / cut 大型工作来购买 closure。
+
+因此暂时得到一个正向机制：
+
+> **TECHNICAL STOP CONDITION：强技术能力只有在团队仍能说“够了”时才保持为杠杆。**
+
+它目前不是正式 taxonomy；只有 Factorio 一个强锚点。
+
+与 DOOM 放在一起，成功侧又能拆两类：
+
+- DOOM：**frontier creation** — 技术突破直接创造新玩法空间并迅速兑现成可玩产品；
+- Factorio：**frontier discipline** — 技术不断深入，但每个 frontier 都必须接受 player value / maintenance tail / release closure 的重新审判。
+
+于是 Limit Theory 的问题也更清楚：
+
+不是“技术太多”，而是：
+
+> **技术完成度越来越难被一个外部 product stop condition 截断。**
+
 ## 更大的统一模型
 
 因此“能力反向立项”不应被误写成：
@@ -427,6 +475,6 @@ C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 2. The Witness + Outer Wilds + House House 已覆盖 `SELF-FINANCED / EXTERNAL-STACK / GRANT+PUBLISHER`；下一步只重点补 **VC/equity-financed** expansion 与真实 decision-rights / milestone / recoup 条款。
 3. Nomada 已建立第一份 `CAPABILITY-COMPOSED`；下一步找 complementary-founder 失败/解体压力样本。
 4. Zachtronics 已建立第一份 `FIT-LOCK-IN`；下一步找第二个长期工作室样本。
-5. Limit Theory 已建立第一份真正独立/小团队 `FIT-TRAP`；下一步改为找 **deep-tech 但 stop condition 清晰、技术持续压缩 product obligation** 的成功对照，避免形成“自研技术有罪”的伪理论。
+5. Limit Theory + Factorio 已形成第一组 deep-tech failure/success 对照：前者 engine maturity 与 game closure 脱钩，后者存在 multiplayer enough、feature deletion、1.0 descoping 三类 stop condition。下一步不再补同类英雄，而是再找一个非 Wube 样本验证 `TECHNICAL STOP CONDITION` 是否可泛化，并继续用 DOOM 区分 frontier creation 与 frontier discipline。
 6. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
 7. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。
