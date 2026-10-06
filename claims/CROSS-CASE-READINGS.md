@@ -54,7 +54,7 @@ Escape from Duckov 又给出一个“团队压缩”版本：五人核心并非�
 
 ### 横向模式：如何“购买下一次原创的选择权”
 
-目前至少出现六种不同机制：
+目前至少出现八种不同机制：
 
 1. **服务业务购买选择权 — Psyonix**：用 work-for-hire / AAA collaboration 支付工资和组织能力，给原创留下生存空间。
 2. **前作 retained earnings 购买选择权 — Subset / Into the Breach**：成功后不把钱全部变成 headcount，而是购买多年低承诺试错时间。
@@ -62,8 +62,10 @@ Escape from Duckov 又给出一个“团队压缩”版本：五人核心并非�
 4. **平台基础设施购买选择权 — Roblox creator cluster**：不是先攒一大笔钱，而是让平台承担一部分引擎、托管、支付、发行、市场接入和职业网络成本，从而降低每次试错的组织门槛。
 5. **non-dilutive bridge 购买“下一次融资资格” — despelote**：小额 grant 不承担整个项目，而是在现金断裂点购买一段 full-time runway；这段时间被转换成 vertical slice，再由 vertical slice 换取 publisher financing。
 6. **母公司共享服务购买小核心自主性 — Escape from Duckov**：核心研发保持五人，但工资、发行、本地化、商务和其他外围职能并没有消失，而是由 Bilibili 内部共享；小团队由此不必把所有公司职能内建进核心 headcount。
+7. **founder-owned capital 购买 capability expansion — The Witness**：Braid retained earnings 不只购买时间，也购买 art / architecture / landscape 等缺失能力；主要 governance 成本留在 founder 自己的 burn / opportunity cost，而不是外部 approval surface。
+8. **external capital stack 购买 capability expansion — Outer Wilds**：student prototype / IGF evidence 之后，由 studio、Fig、publisher/platform partnership 连续扩张团队与 runway；它同时增加 backer / publisher / platform stakeholder surface。
 
-这六类都不等同于“融资金额越大越好”。更准确的共同变量是：**降低下一轮原创失败时的承诺成本、延长团队仍有资格继续试错的时间，并把当前资源转换成下一阶段可用的能力、资产、外围服务或融资资格。**
+这八类都不等同于“融资金额越大越好”。更准确的共同变量是：**降低下一轮原创失败时的承诺成本、延长团队仍有资格继续试错的时间，并把当前资源转换成下一阶段可用的能力、资产、外围服务或融资资格。**
 
 当前仍不应独立升级为新 Claim，因为样本主要来自成功者，且六种机制的失败对照尚不充分；现阶段把它作为 C002 + C004 的跨案例解释更稳妥。
 
@@ -82,6 +84,8 @@ Psyonix 的直接创始人/设计负责人回顾足以证明“can”：公司�
 正向：FTL 两位创始人有 2K Shanghai 经历；Lucas Pope 明确把 AAA 中“敢删功能、完成项目”的经验带入 Papers, Please；Subset 在第二作仍继续受益于已形成的职业制作能力。
 
 反向：Dream Quest、Project Wingman、Undertale 等在没有传统 AAA 履历的情况下仍形成足够能力资本，来源包括长期玩家实践、数学/卡牌知识、UGC/mod、互联网学习和社区协作。Roblox cluster 又提供一种更制度化的非 AAA 路径：平台本身同时提供训练、真实用户、合同、实习和产品所有权。Battlestate 的前史则来自较小商业 FPS / Unity 团队，而非典型 AAA 组织。
+
+**新增压力：** The Magic Circle 又提供一个更尖锐的边界：三位核心成员的 BioShock / Thief / Dishonored / immersive-sim 能力确实直接迁移进 mechanic、AI 与题材，但商业结果仍被 creator 评价为不可持续。**AAA capability transfer ≠ project-market selection success。**
 
 **边界：** 当前不能量化“大厂经历提高成功率多少”，也不能把非 AAA 路径浪漫化为更优。
 
@@ -133,6 +137,8 @@ C007 解决的是“小团队怎样重新定义昂贵问题”；C015 进一步�
 
 - **CASE-026 Brigador**：多轮 prototype、团队特定 taste、custom engine、precision aiming、kitbash art pipeline 与 specialist periphery 都显示出很强的 capability-shaped formation，但 2016 launch 仍商业失败。它证明 `FIT-STRONG ≠ MARKET-SUFFICIENT`。
 - **CASE-047 The Witness**：Blow 用 Braid retained earnings 保留更大 project thesis，再购买/招聘 art、architecture、landscape、sound 等缺失能力。它提供 `CAPABILITY-EXPANDED` 对照：资本足够时，不必总让项目服从 founder 当前能力，团队能力集合也可以移动。
+- **CASE-048 The Magic Circle**：creator capability、题材与 editable-AI mechanic 高度耦合，但销量仍被团队自己评价为不可持续；它把 `FIT-STRONG ≠ MARKET-SUFFICIENT` 从 Brigador 的 onboarding/legibility 失败扩展到 category / audience-size / meta-niche 选择问题。
+- **CASE-049 Outer Wilds**：和 The Witness 同属 `CAPABILITY-EXPANDED`，但资金来自 studio/crowdfunding/publisher/platform 的组合；它说明 capability expansion 必须进一步按 capital source 拆分，因为外部资本会增加 stakeholder / distribution / governance surface，而具体 control 权力仍需合同证据。
 
 因此当前更完整的模型是：
 
@@ -145,13 +151,19 @@ C007 解决的是“小团队怎样重新定义昂贵问题”；C015 进一步�
 
 真正需要审计的是移动哪一侧、成本由谁承担、是否损失 control，以及结果是否仍有 market legibility。
 
+还要把两个“fit”分开：
+- `Creator–Project Fit`：团队是否异常适合做这个项目；
+- `Project–Market Selection`：这个项目在这个年份 / 市场 / 进入方式下是否值得做。
+
+Brigador + The Magic Circle 证明第一项很强也不能保证第二项成立；The Witness + Outer Wilds 则说明“扩能力”本身还要区分自己的钱与外部的钱。
+
 **边界 / 反压力：**
 - fit 不是成功充分条件；
 - 不应把缺钱浪漫化；
 - 不应要求创作者永远留在舒适区；
 - Everything 显示 cost conversion 会制造新的 systems cost；
-- 目前成功样本明显多于失败样本；
-- 下一轮必须优先找 `CAPABILITY-SHAPED but commercially failed` 和“能力错配但靠招聘/资本补齐仍成功”的对照。
+- 目前已经有 Brigador + The Magic Circle 两个结构不同的强 fit / 商业失败样本，但仍不足以量化成功率；
+- The Witness + Outer Wilds 已覆盖 self-financed 与 external-capital capability expansion，下一步应补 VC / grant 与真实合同 control 变量，而不是继续机械凑案例。
 
 ## C008 — infrastructure lowers some barriers while introducing new dependence
 
@@ -180,6 +192,8 @@ Roblox 同时给出反面边界：DevEx 资格、兑换率、发现与用户获�
 - Escape from Tarkov 通过官网多档预购、Alpha/Beta access、自有 launcher 和长期社区测试把市场接入直接接到研发现金流上；
 - despelote 的 NYU showcase / Incubator / industry advisor / DAP / vertical slice / Panic pitch 形成连续链，publisher 后续又承担 marketing、ports 与多平台 distribution perimeter；
 - Escape from Duckov 发售前已经约 45 万 Steam wishlist，主动比较 9–11 月 AAA 档期，并由 Bilibili 承担 publisher perimeter；因此“上线后纯口碑突然爆红”不能成立。
+- The Magic Circle 的 Early Access / press / IGF visibility 并没有自动变成足够销量；它显示 `awareness`、`category comprehension`、`audience fit` 与 `conversion` 必须分开。
+- Outer Wilds 的 market access 是 USC/IGF/Fig/Annapurna/Xbox/Epic 多年累积的 institutional chain；市场接口同时也是融资与 stakeholder formation。
 
 **边界：** “有市场接入”不等于“有传统营销预算”，也不意味着所有项目必须预先拥有粉丝。市场接入还可能把团队绑定在平台、社区承诺、publisher 或母公司考核上。
 
@@ -200,6 +214,8 @@ Roblox 同时给出反面边界：DevEx 资格、兑换率、发现与用户获�
 - Escape from Tarkov 前有 Contract Wars 的团队、Unity/FPS 与资金积累，而 EFT 自身又远超 2016 年团队公开预计的交付周期；
 - despelote 的“约七年”又不能被理解为稳定全职开发：前期长期 part-time，期间出现资金耗尽与 freelance，后期才进入约三年的更稳定 full-time，而且最困难的 narrative/product structure 收敛花了多年；
 - Escape from Duckov 的约 22 个月集中生产期之前，核心成员已合作约 4–6 年，做过至少两款商业前作，还经历过 Duckov 早期 mobile 方向失败与平台收缩。
+- The Magic Circle 的两年多独立开发建立在三位核心成员多年的 BioShock / Thief / Dishonored / immersive-sim 职业前史上；正式 indie studio 年限不能当作能力起点。
+- Outer Wilds 的商业制作期之前已经有 USC thesis、学生团队、多年 prototype 与 IGF validation；2015 之后的 studio staffing 是能力扩张，不是项目从零开始。
 
 **边界：** “有前史”不代表每一年都对最终产品具有同等因果贡献；后续应区分直接可迁移能力、组织关系、资本积累与宽泛人生经历。
 
