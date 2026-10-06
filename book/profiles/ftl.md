@@ -4,8 +4,6 @@
 
 > **FTL 最容易被讲成一个 Kickstarter 神话：两个开发者辞职、做了个小太空游戏、众筹 1 万美元，最后拿到 20 万。真正值得学的地方恰恰发生在 Kickstarter 之前。**
 
-研究后台：[`CASE-001`](../../cases/CASE-001-ftl.md) · [`Evidence Ledger`](../../evidence/CASE-001-ftl-source-ledger.md)
-
 ---
 
 如果把 FTL 的故事压缩到 Kickstarter 页面，它几乎完美符合“独立游戏英雄神话”的标准模板。
@@ -335,3 +333,14 @@ FTL 增加的是另一块：
 - 完整 contributor / QA / platform-support 边界；
 - FTL 从 hobby prototype 转商业项目的更精确时间线；
 - Kickstarter 资金在具体生产项上的使用结构。
+
+
+---
+
+## 研究与证据入口
+
+本文使用的事实边界以研究后台为准；储蓄、burn、上海生活成本与完整 contributor boundary 等仍有 UNKNOWN。
+
+- [CASE-001 — FTL / Subset Games](../../cases/CASE-001-ftl.md)
+- [CASE-001 Evidence Ledger](../../evidence/CASE-001-ftl-source-ledger.md)
+- 当前研究状态：**RESEARCHING**

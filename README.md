@@ -17,7 +17,12 @@
 
 > **[进入《第一次来，先从这里读》](book/START-HERE.md)**
 
-它按现实问题组织文章，不要求你先理解 Case / Evidence / Claim。你可以从“我不知道自己以后要做什么”“该不该辞职”“没钱怎么办”“失败很多次还有没有意义”“新技术到底改变了什么”直接进入现成 Profile。
+它按现实问题组织文章，不要求你先理解 Case / Evidence / Claim。你可以从“我不知道自己以后要做什么”“该不该辞职”“没钱怎么办”“失败很多次还有没有意义”“新技术到底改变了什么”直接进入已经写出的跨人物章节，再按兴趣下钻到完整 Profile。
+
+当前书稿已经有三篇章节样稿：
+- [目标不是先想清楚的](book/chapters/01-goals-are-made-not-found.md)
+- [先买几个月试错](book/chapters/02-buy-time-before-betting-your-life.md)
+- [失败不是资产](book/chapters/03-failure-only-matters-if-something-survives.md)
 
 **如果你是研究者、开发者，或者想核每句话：**
 

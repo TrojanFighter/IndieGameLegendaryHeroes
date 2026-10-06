@@ -2,10 +2,6 @@
 
 © 2026 洪荒行者。All Rights Reserved.
 
-> 对应研究档案：[`CASE-012 — Kenshi / Lo-Fi Games`](../../cases/CASE-012-kenshi.md)  
-> 证据账本：[`CASE-012 Evidence Ledger`](../../evidence/CASE-012-kenshi-source-ledger.md)  
-> 当前研究状态：**RESEARCHING**。本文是 reader-layer 样板，不代表 CASE-012 已经封卷。
-
 独立游戏史特别喜欢一种故事：一个人，没有钱，没有团队，只靠执念，在几年甚至十几年里把一款正常公司都嫌太大的游戏硬做了出来。
 
 《Kenshi》看起来几乎就是为这种传奇准备的。
@@ -195,3 +191,6 @@ Siliconera 的采访提到，此后大约两年里团队逐渐出现了额外的
 - **E002 — Lo-Fi Games official history / fact sheet**：支持早期职业程序员前史、2008 年离开旧工作、夜班维生、2013 年后市场收入支持小团队。
 
 完整来源、等级与 UNKNOWN 项见 [`CASE-012 Evidence Ledger`](../../evidence/CASE-012-kenshi-source-ledger.md)。
+
+
+- 研究档案：[CASE-012](../../cases/CASE-012-kenshi.md)
