@@ -1707,12 +1707,6 @@
       "explanatory_importance": "critical",
       "narrative_value": "critical",
       "related_claims": [
-        "C002",
-        "C003",
-        "C004",
-        "C007",
-        "C010",
-        "C011",
         "C015"
       ],
       "tags": [
