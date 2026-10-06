@@ -131,6 +131,42 @@ AC-004 的“范式规训”问：
 - 发布时距 benchmark 爆发的时间差；
 - 团队是否有 kill / pivot 机制阻止版本答案时滞继续吞噬成本。
 
+## 外部理论锚：Exploration / Exploitation 与 Competency Trap
+
+AC-007 不再只依赖作者提出的“版本答案”语言。
+
+组织学习研究已经提供了三个直接相邻的理论锚：
+
+1. **Levitt & March 1988 — Organizational Learning**  
+   组织把历史经验编码进 routines；反复使用某套 routine 会同时提升其效率与继续使用它的概率，可能形成 competency trap。
+
+2. **March 1991 — Exploration and Exploitation**  
+   exploitation 往往比 exploration 更快产生确定回报，因此适应过程可能短期越来越有效、长期却削弱探索新可能性的能力。
+
+3. **Levinthal & March 1993 — Myopia of Learning**  
+   组织学习会产生对远期、远处和失败信息的系统性忽略，并倾向过度投资既有 competence。
+
+这给本项目一个更稳健的翻译：
+
+```text
+真实成功
+→ 组织学习
+→ routine 更熟练
+→ 使用旧 routine 的边际成本继续下降
+→ 组织更有理由相信它
+→ 新路径因初期表现差而更难获得训练机会
+→ competency trap / benchmark lag
+```
+
+因此“春登”“上一版本优秀执行者”不能只理解成心理保守，而应优先解释为：
+
+> **成功经验通过组织学习制造了递增收益。**
+
+Sources:
+- Barbara Levitt & James G. March, “Organizational Learning,” *Annual Review of Sociology* 14, 1988, 319–338. DOI: 10.1146/annurev.so.14.080188.001535.
+- James G. March, “Exploration and Exploitation in Organizational Learning,” *Organization Science* 2(1), 1991, 71–87. DOI: 10.1287/orsc.2.1.71.
+- Daniel A. Levinthal & James G. March, “The Myopia of Learning,” *Strategic Management Journal* 14(S2), 1993, 95–112. DOI: 10.1002/smj.4250141009.
+
 ## Source Origin
 
 - 作者 2026 年围绕“外部出题—内部标准化—社会赛马—家庭/职业自我规训”的历史讨论（A0-CHAT）。
