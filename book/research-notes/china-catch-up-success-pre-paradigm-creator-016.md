@@ -5,6 +5,7 @@
 - Scope: 中国创作者形成、商业游戏职业训练、catch-up capability、problem ownership、pre-paradigm creation
 - Related: `china-indie-structural-capability-audit-010.md`, `china-player-worker-generations-009.md`, `china-capability-repricing-black-myth-sultan-013.md`, `capability-shaped-project-formation-001.md`
 - Boundary: “老中”“春登”“农民发明家”均只作为作者/聊天中的 H-layer 工作标签；本文正式分析制度、训练、反馈架构与历史任务阶段，不建立民族或年龄本质论。
+- Three-layer router: `china-creator-constraints-three-layer-map-018.md`；本文主要承担跨层机制综合，不再把教育、行业和社会因素混写成一个总文化解释。
 
 ## 0. 研究问题
 
