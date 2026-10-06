@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 43 个档案中，41 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 46 个档案中，44 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -53,6 +53,9 @@
 | CASE-041 | NExT Studios portfolio → SYNCED | **CORPORATE-INNOVATION / REGIME-TRANSITION COMPARATOR**：比较早期小型 premium 0→1 与 SYNCED 的 2A/AAA + F2P/GaaS resource escalation，区分产品失败与组织残值 | RESEARCHING |
 | CASE-042 | The First Tree / David Wehle | **TECHNICAL-ARTIST / VISUAL-FIRST CAPABILITY–PROJECT FIT**：检验 motion / interactive / technical-art 强项如何通过短流程、licensed assets、环境叙事与视觉型 market surface 共同重写 solo 3D 项目成本；2016–2017 社媒打法按时效规则审计 | RESEARCHING |
 | CASE-043 | Everything / David OReilly | **ANIMATION-AUTEUR / PROBLEM-REDEFINITION CASE**：检验成熟动画作者如何把 abstraction、procedural movement 与长期 programmer dyad 转成游戏语言，并区分传统动画成本被删除与新系统复杂度被制造 | RESEARCHING |
+| CASE-044 | Garry Newman / Garry's Mod → Rust → s&box | **LONGITUDINAL CREATOR-PLATFORM / CURRENT PRESSURE**：从 2004 mod 商业化到 2026 s&box 多年 false starts、discovery、performance 与 UGC-quality 压力，检验旧成功能力资本为何不能自动给出新 regime 的正确 product model | RESEARCHING |
+| CASE-045 | RimWorld / Tynan Sylvester | **DESIGN-THESIS / SELECTION-FIRST CASE**：用“story generator”而非完整 simulation 作为价值函数，检验 feature omission、prototype failure 与公开反馈如何共同降低 decision entropy | RESEARCHING |
+| CASE-046 | Sandfall / Clair Obscur: Expedition 33 | **AAA→AUTHORIAL / SMALL-CORE + INDUSTRIAL-PERIPHERY COMPARATOR**：拆解 Ubisoft 能力迁移、<30 core、UE5/tool leverage、Kepler 与 438-credit production perimeter，反驳“30 人完成 AAA RPG”神话 | RESEARCHING |
 
 ## 规则
 

@@ -4,7 +4,7 @@ schema_version: 2
 case_id: CASE-043
 status: RESEARCHING
 subject: "Everything / David OReilly: animation abstraction → procedural game language"
-related_claims: [C003, C004, C007, C011]
+related_claims: [C003, C004, C007, C011, C015]
 evidence_strength: MEDIUM
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
@@ -19,7 +19,7 @@ last_verified: 2026-10-06
 - Period covered: animation prehistory → Mountain (2014) → Everything (2017) → retrospective evidence through 2020
 - Research status: RESEARCHING
 - Corpus role: CREATOR-ARCHETYPE / ANIMATION-AUTEUR / VISUAL-FIRST / PROBLEM-REDEFINITION
-- Related Claims: C003, C004, C007, C011
+- Related Claims: C003, C004, C007, C011, C015
 - Evidence Ledger: [来源账本](../evidence/CASE-043-everything-david-oreilly-source-ledger.md)
 
 ## 1. Myth

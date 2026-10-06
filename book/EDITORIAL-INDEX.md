@@ -30,6 +30,7 @@
 - [Program Map](../PROGRAM-MAP.md)
 - [Industrial Revolutions Comparative Lab](../cross-industry/industrial-revolutions/README.md)
 - [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md) — 按主创能力类型补正例、边界例与压力对照
+- [Capability-Shaped Project Formation / 能力反向立项](research-notes/capability-shaped-project-formation-001.md) — 主创能力向量如何反向塑造项目定义
 
 ## 编辑原则
 

@@ -2,7 +2,7 @@
 
 - Status: RESEARCHING
 - Subject: RollerCoaster Tycoon 1/2 / Chris Sawyer
-- Related Claims: C003, C004, C007, C010, C011
+- Related Claims: C003, C004, C007, C010, C011, C015
 
 ## Why this case
 

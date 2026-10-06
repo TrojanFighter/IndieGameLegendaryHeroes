@@ -38,9 +38,9 @@
 
 当前仓库已经形成：
 
-- **43 个编号 Case 档案**，其中 41 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
-- **43 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
-- **14 个跨案例 Claim**，检验 runway、能力资本、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
+- **46 个编号 Case 档案**，其中 44 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
+- **46 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **15 个跨案例 Claim**，检验 runway、能力资本、能力反向立项、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
 - [`book/INDIE-MOVEMENT.md`](book/INDIE-MOVEMENT.md) 解释本书所说的“独立游戏运动”、`independent` 与 `indie` 的区别，以及为什么 mod / UGC → 商业放大的桥梁案例也属于生产谱系研究；
@@ -63,12 +63,14 @@
 | **Early Access / 付费 Alpha 怎样变成生产资本？** | [Minecraft](cases/CASE-014-minecraft.md) · [Kenshi](cases/CASE-012-kenshi.md) · [Schedule I](cases/CASE-019-schedule-i.md) · [Factorio](cases/CASE-035-factorio-wube.md) |
 | **“首款成功”之前其实练了多少年？** | [Lethal Company](cases/CASE-011-lethal-company.md) · [Dream Quest](cases/CASE-008-dream-quest.md) · [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) |
 | **同一个开发者 / 工作室的方法到底能不能跨项目复现？** | [Jonas Tyroller](cases/CASE-031-jonas-tyroller.md) · [Tom Francis](cases/CASE-007-gunpoint.md) · [Into the Breach / Subset](cases/CASE-020-into-the-breach.md) · [Landfall Games](cases/CASE-034-landfall-games.md) |
-| **玩家 / modder 能不能先发明规则，再进入商业游戏工业？** | [PUBG / Brendan Greene](cases/CASE-032-pubg-brendan-greene.md) · [early id / DOOM](cases/CASE-016-early-id-software.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
+| **能不能反过来按自己的能力模型定制项目？** | [C015 能力反向立项](claims/C015-capability-shaped-project-formation.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [The First Tree](cases/CASE-042-the-first-tree.md) · [Dream Quest](cases/CASE-008-dream-quest.md) · [RollerCoaster Tycoon](cases/CASE-018-rollercoaster-tycoon.md) · [Everything](cases/CASE-043-everything-david-oreilly.md) |
+| **玩家 / modder 能不能先发明规则，再进入商业游戏工业？** | [PUBG / Brendan Greene](cases/CASE-032-pubg-brendan-greene.md) · [Garry Newman / s&box](cases/CASE-044-garry-newman-sbox.md) · [Tripwire](cases/CASE-040-tripwire-lineage.md) · [early id / DOOM](cases/CASE-016-early-id-software.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
 | **发行商、孵化器和 grant 什么时候真正有用？** | [despelote](cases/CASE-023-despelote.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) · [Manor Lords](cases/CASE-036-manor-lords.md) · [Dyson Sphere Program（待核）](cases/CASE-027-dyson-sphere-program.md) |
 | **为什么有的游戏发行时没爆，后来却突然爆了？** | [Among Us](cases/CASE-017-among-us.md) · [Brigador](cases/CASE-026-brigador.md) |
 | **小团队怎样挑战成熟大厂品类？** | [Project Wingman](cases/CASE-009-project-wingman.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Dyson Sphere Program（待核）](cases/CASE-027-dyson-sphere-program.md) |
 | **“小团队”就一定是独立游戏吗？** | [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Boundary（待核）](cases/CASE-029-boundary.md) · [Outpost: Infinity Siege（待核）](cases/CASE-030-outpost-infinity-siege.md) |
 | **中国商业开发者的职业前史怎样影响个人或小团队创作？** | [Sultan's Game](cases/CASE-038-sultans-game.md) · [商业游戏训练反转 / Role-Origin Audit](book/research-notes/china-commercial-game-training-role-origin-audit-005.md) · [Dyson Sphere Program](cases/CASE-027-dyson-sphere-program.md) · [Boundary](cases/CASE-029-boundary.md) · [Outpost: Infinity Siege](cases/CASE-030-outpost-infinity-siege.md) · [中国式网游](cases/CASE-028-chinese-online-game.md) |
+| **大厂/AAA 能力转到作者项目时，哪些真的能带走？** | [Papers, Please](cases/CASE-003-papers-please.md) · [Clair Obscur / Sandfall](cases/CASE-046-sandfall-expedition33.md) · [Sultan's Game](cases/CASE-038-sultans-game.md) · [C013](claims/C013-capability-capital-objective-function-specialization.md) |
 | **为什么中国可以同时拥有更好的小团队生产条件和旧产业路径依赖？** | [中国独立游戏“双层环境”](book/research-notes/china-indie-dual-environment-capability-transfer-004.md) · [Sultan's Game](cases/CASE-038-sultans-game.md) · [渠道/市场接口制度](book/research-notes/china-indie-distribution-regime-001.md) |
 | **中国网游为什么会从卖时间走向 F2P、虚拟商品与运营工业？** | [《征途》/ 史玉柱](cases/CASE-033-zhengtu-shi-yuzhu.md) · [中国游戏产业前史](book/research-notes/china-game-industry-prehistory-002.md) · [《符石守护者》vs《不思议迷宫》](book/research-notes/runestone-keeper-vs-gumballs-001.md) |
 | **平台本身能不能把玩家训练成开发者？** | [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
@@ -80,9 +82,9 @@
 
 ---
 
-## 43 个编号案例档案
+## 46 个编号案例档案
 
-这些 Case 是研究后台的档案，41 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
+这些 Case 是研究后台的档案，44 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
 | Case | Subject | 它主要让我们看见什么 |
 |---|---|---|
@@ -129,6 +131,9 @@
 | [CASE-041](cases/CASE-041-next-synced.md) | **NExT Studios portfolio → SYNCED** | `CORPORATE-INNOVATION / REGIME-TRANSITION COMPARATOR`：比较早期小型 0→1 与大型 F2P/GaaS 的 resource escalation 与 error persistence |
 | [CASE-042](cases/CASE-042-the-first-tree.md) | **The First Tree / David Wehle** | Technical Artist / visual-first：能力强项怎样同时重写产品形态、资产生产与视觉型市场接口；2016–2017 tactics 按时效规则审计 |
 | [CASE-043](cases/CASE-043-everything-david-oreilly.md) | **Everything / David OReilly** | Animation-auteur / problem redefinition：抽象动画语言、procedural movement 与核心 programmer dyad 如何替代传统 animation obligation，同时制造新的 systems complexity |
+| [CASE-044](cases/CASE-044-garry-newman-sbox.md) | **Garry Newman / Garry's Mod → Rust → s&box** | modder→studio→creator-platform 的长期纵向样本；2026 launch 后 discovery、performance、UGC-quality 与定位压力提供 CURRENT 反压力 |
+| [CASE-045](cases/CASE-045-rimworld.md) | **RimWorld / Tynan Sylvester** | “story generator”作为 design thesis 如何控制 feature selection、strategic omission 与 simulation cost |
+| [CASE-046](cases/CASE-046-sandfall-expedition33.md) | **Sandfall / Clair Obscur: Expedition 33** | AAA 能力迁移 + <30 core + UE5/tool leverage + publisher/external production perimeter；拆解“30 人 AAA”神话 |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。`Sultan's Game` 已升级为 CASE-038，但工作室所有权、旧投资关系和 publisher financing 仍待继续审计；Artless Games 保留为中国创作路径候选。
 
@@ -172,7 +177,7 @@
 
 - [`cases/`](cases/)：开发者 / 团队 / 项目的可审计 Case；
 - [`evidence/`](evidence/)：逐案来源核实、证据等级与边界；
-- [`claims/`](claims/)：12 个跨案例、可支持也可反驳的命题；
+- [`claims/`](claims/)：15 个跨案例、可支持也可反驳的命题；
 - [`author-corpus/`](author-corpus/)：洪荒行者既有公开观点与授权历史讨论的命题来源；
 - [`sources/`](sources/)：来源方法、纪录片 / 演讲 / 媒体协议；
 - [`schemas/`](schemas/)：Case / Claim / Evidence 标准结构；
@@ -191,17 +196,19 @@
 
 **Phase 2 — Evidence Ingestion + Reader Layer Bootstrap**
 
-截至 2026-10-06：
+截至 2026-10-07：
 
-- 43 个编号 Case 已建档，其中 41 个 RESEARCHING、2 个 SKELETON；
-- 43 个对应 Case Evidence Ledger 已建立；
-- 14 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 / C014 当前为 `SUPPORTED`；C013 当前为 `WEAK`；
+- 46 个编号 Case 已建档，其中 44 个 RESEARCHING、2 个 SKELETON；
+- 46 个对应 Case Evidence Ledger 已建立；
+- 15 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 / C014 / C015 当前为 `SUPPORTED`；C013 当前为 `WEAK`；
 - CASE-027–030 构成“中国生产制度候选组”；《中国式网游》已核官方开发自述，其余三个来源待恢复，不把候选解释视为已证正反例；
 - CASE-031 将 Jonas Tyroller 作为 longitudinal practitioner，持续检验同一开发者跨项目的方法复现、方法修正、市场接入与运气边界；
 - CASE-032 将 Brendan Greene / PLAYERUNKNOWN 作为 `LINEAGE / TRANSITION CASE`，区分 DayZ/Arma mod 的规则发明与社区验证、H1Z1 商业合作、Bluehole/PUBG 公司化放大；
 - CASE-033 将《征途》/史玉柱作为 `CHINA INDUSTRY TRANSITION / BUSINESS-MODEL COMPARATOR`，检验市场调研、F2P、虚拟商品、县乡地推和快速运营如何组成高回报商业函数并塑造产业路径；
 - CASE-034–037 为欧洲/中东欧生产结构组：Landfall（纵向工作室与失败分母）、Factorio/Wube（paid-alpha runway）、Manor Lords（solo-core 与外围边界）、Darkwood（众筹与 EA scope 压力）；
 - CASE-038 将《苏丹的游戏》作为中国商业手游老兵重组为 premium 小团队的能力迁移与组织模型切换案例；
+- CASE-044–046 新增三条纵轴：Garry Newman/s&box 的 creator-platform 成功→CURRENT pressure、RimWorld 的 design-thesis/feature-selection、Sandfall/Expedition 33 的 AAA capability transfer + small core + industrial periphery；
+- C015 正式定义“能力反向立项”：主创先识别自己的能力向量和弱项，再反向塑造项目，而不是把标准游戏机械缩小。
 - `book/research-notes/china-commercial-game-training-role-origin-audit-005.md` 开始以腾讯及相邻样本审计岗位子类型、prototype authority、design-loop proximity 与 ownership span，不把“程序员 > 策划”当成既成结论；
 - CASE-026 仍是第一例正式以 **failure comparator** 为中心编号的 Case；
 - `book/` 已有 Kenshi、Rocket League、Bills Must Be Paid、Gunpoint、FTL 等 profile，并已建立独立游戏运动史、目标形成、玩家→生产者等书级研究入口。

@@ -1,6 +1,6 @@
 {
-  "version": 23,
-  "last_updated": "2026-10-06",
+  "version": 24,
+  "last_updated": "2026-10-07",
   "cases": [
     {
       "case_id": "CASE-001",
@@ -210,7 +210,8 @@
         "C007",
         "C008",
         "C010",
-        "C011"
+        "C011",
+        "C015"
       ],
       "tags": [
         "solo",
@@ -242,7 +243,8 @@
         "C008",
         "C009",
         "C010",
-        "C011"
+        "C011",
+        "C015"
       ],
       "tags": [
         "solo",
@@ -556,7 +558,8 @@
         "C004",
         "C007",
         "C010",
-        "C011"
+        "C011",
+        "C015"
       ],
       "tags": [
         "opc-history",
@@ -1304,7 +1307,8 @@
         "C007",
         "C008",
         "C010",
-        "C011"
+        "C011",
+        "C015"
       ],
       "tags": [
         "creator-archetype",
@@ -1338,7 +1342,8 @@
         "C003",
         "C004",
         "C007",
-        "C011"
+        "C011",
+        "C015"
       ],
       "tags": [
         "creator-archetype",
@@ -1354,6 +1359,114 @@
       ],
       "last_verified": "2026-10-06",
       "evidence_ledger": "evidence/CASE-043-everything-david-oreilly-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "pending",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-044",
+      "file": "cases/CASE-044-garry-newman-sbox.md",
+      "subject": "Garry Newman / Garry's Mod → Rust → s&box: creator-platform lineage and live pressure",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C003",
+        "C004",
+        "C008",
+        "C010",
+        "C011",
+        "C014"
+      ],
+      "tags": [
+        "creator-platform",
+        "modder",
+        "longitudinal",
+        "garrys-mod",
+        "rust",
+        "sbox",
+        "ugc",
+        "current-pressure",
+        "discovery",
+        "error-persistence",
+        "market-access",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-044-garry-newman-sbox-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-045",
+      "file": "cases/CASE-045-rimworld.md",
+      "subject": "RimWorld / Tynan Sylvester: story-generator thesis and contrarian feature selection",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C003",
+        "C004",
+        "C007",
+        "C010",
+        "C011",
+        "C014"
+      ],
+      "tags": [
+        "designer",
+        "selection-first",
+        "story-generator",
+        "simulation",
+        "feature-selection",
+        "prototype-failure",
+        "crowdfunding",
+        "public-development",
+        "problem-redefinition",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-045-rimworld-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-046",
+      "file": "cases/CASE-046-sandfall-expedition33.md",
+      "subject": "Sandfall Interactive / Clair Obscur: Expedition 33: AAA capability transfer, small core and industrial periphery",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "high",
+      "related_claims": [
+        "C003",
+        "C004",
+        "C006",
+        "C007",
+        "C011",
+        "C013"
+      ],
+      "tags": [
+        "aaa-to-indie",
+        "capability-transfer",
+        "small-core",
+        "industrial-periphery",
+        "unreal-engine",
+        "tool-leverage",
+        "publisher",
+        "outsourcing",
+        "credits-audit",
+        "scope-redefinition",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-046-sandfall-expedition33-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "pending",
       "schema_version": 2,

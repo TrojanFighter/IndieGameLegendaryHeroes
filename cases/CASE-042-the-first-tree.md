@@ -4,7 +4,7 @@ schema_version: 2
 case_id: CASE-042
 status: RESEARCHING
 subject: "The First Tree / David Wehle: technical-art capability → visual-first product shape"
-related_claims: [C003, C004, C007, C008, C010, C011]
+related_claims: [C003, C004, C007, C008, C010, C011, C015]
 evidence_strength: MEDIUM
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
@@ -19,7 +19,7 @@ last_verified: 2026-10-06
 - Period covered: 2009–2019, with 2016–2017 as the core production window
 - Research status: RESEARCHING
 - Corpus role: CREATOR-ARCHETYPE / TECHNICAL-ARTIST / VISUAL-FIRST / CAPABILITY–PROJECT FIT
-- Related Claims: C003, C004, C007, C008, C010, C011
+- Related Claims: C003, C004, C007, C008, C010, C011, C015
 - Evidence Ledger: [来源账本](../evidence/CASE-042-the-first-tree-source-ledger.md)
 
 ## 1. Myth
