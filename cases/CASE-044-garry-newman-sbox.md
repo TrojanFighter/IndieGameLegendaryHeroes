@@ -34,7 +34,7 @@ last_verified: 2026-10-07
 
 > **旧 regime 的成功能力资本可以迁移，但不会自动给出新 regime 的正确 product model。**
 
-## Context–Situation–Action Snapshot
+## 2. Context–Situation–Action Snapshot
 
 ### Era / Production Regime
 
