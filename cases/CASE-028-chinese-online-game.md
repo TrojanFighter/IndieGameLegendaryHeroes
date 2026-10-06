@@ -9,7 +9,7 @@ evidence_strength: MEDIUM
 explanatory_importance: HIGH
 narrative_value: HIGH
 context_audit: PARTIAL
-last_verified: 2026-10-05
+last_verified: 2026-10-06
 ---
 # CASE-028 — 中国式网游 / 648工作室
 
@@ -20,7 +20,7 @@ last_verified: 2026-10-05
 - Period covered: 2018–2024+
 - Research status: RESEARCHING
 - Corpus role: CHINESE SOLO / OPC CANDIDATE — COMPLETE PERIMETER UNVERIFIED
-- Last verified: 2026-10-05
+- Last verified: 2026-10-06
 - Evidence Ledger: [`../evidence/CASE-028-chinese-online-game-source-ledger.md`](../evidence/CASE-028-chinese-online-game-source-ledger.md)
 
 ## Why this case
@@ -39,9 +39,9 @@ last_verified: 2026-10-05
 
 过度简化。H：solo + part-time + 约五年可能降低固定现金支出，但现金 burn 尚未核实；时间、机会成本和个人劳动不能因此被忽略。
 
-### 神话 C：作者一定是资深商业游戏从业者
+### 神话 C：作者身份只能从作品题材反推
 
-当前公开证据不足。产品对中国网游高度熟悉，只能证明领域知识深，不能替代职业履历证据。在找到具体公司、岗位和年限前，本项保持 UNKNOWN。
+不成立。公开活动资料已经把《中国式网游》制作人标为刘永涛。作品对中国网游的熟悉度不再承担实名识别功能；完整职业履历、具体公司岗位与年限仍需独立证据，不能从作品内容反推。
 
 ## 2. Context–Situation–Action Snapshot
 
@@ -58,9 +58,10 @@ last_verified: 2026-10-05
 - 大量工作在业余时间完成；
 - 开发约五年；
 - 自己承担策划、程序和简单美术等；
+- 公开活动资料标注制作人为刘永涛；
 - 后续由 Wise Games 发行。
 
-当前不可确认：开发者此前职业履历、五年间的主要生活收入、外部素材/音频/配音规模，以及 Wise Games 是否提供开发资金。
+当前不可确认：刘永涛此前职业履历的公开完整版本、具体任职年份与项目职责；五年间的主要生活收入、外部素材/音频/配音规模，以及 Wise Games 是否提供开发资金。
 
 ### Action / Maneuver
 
@@ -77,7 +78,7 @@ last_verified: 2026-10-05
 
 ## 3. Origin
 
-官方公告以第一人称描述单人核心开发；当前核验的公告未确认作者实名或“涛”这一称呼。此前教育、任职和其他项目经历仍未可靠核实。不得因为作品“太懂中国网游”就反推其职业履历。
+Steam 官方公告以第一人称描述单人核心开发；小黑盒 2024 金盒奖活动页公开标注“刘永涛 / 《中国式网游》制作人”，因此制作人实名已经获得公开身份锚点。此前教育、任职公司、岗位、年限与参与项目仍需继续公开核验；不得因为作品“太懂中国网游”就反推职业履历。
 
 ## 4. Capability
 
@@ -122,6 +123,7 @@ last_verified: 2026-10-05
 - 项目约 2018 年开始；
 - 约五年、主要业余时间；
 - 策划、程序和简单美术等大量工作由一人完成；
+- 制作人为刘永涛；
 - Wise Games 为 publisher；
 - 官方预告 Demo 将参加 Steam 新品节；实际曝光与转化 UNKNOWN。
 
@@ -131,7 +133,7 @@ last_verified: 2026-10-05
 
 ### UNKNOWN / DO NOT ASSERT
 
-- 作者此前是资深商业游戏从业者；
+- 刘永涛完整的此前职业履历、任职年份、参与项目与职责边界；
 - publisher 对产品或销量贡献很小；
 - 精确预算、销量、净收入与分成。
 
@@ -146,7 +148,7 @@ last_verified: 2026-10-05
 
 ## 14. Non-transfer
 
-五年业余开发的生活条件未知；作者对中国网游的领域知识可能难以复制；现代素材/工具生态显著降低了表现成本；职业老手身份尚未证实。
+五年业余开发的生活条件未知；作者对中国网游的领域知识可能难以复制；现代素材/工具生态显著降低了表现成本；此前职业履历的公开完整版本尚未核实。
 
 ## 15. Evidence Index
 
@@ -154,10 +156,11 @@ last_verified: 2026-10-05
 - E002 — 原二手来源失效，待核；不承担事实证明。
 - E003 — 官方公告确认 Steam 新品节参与，不证明曝光排名。
 - E004 — Steam 商店 developer / publisher：648工作室 / Wise Games。
+- E005 — 小黑盒 2024 金盒奖活动页：刘永涛 / 《中国式网游》制作人。
 
 ## 16. Open Questions
 
-1. 开发者的实名、完整职业履历及“涛”这一称呼的原始出处是什么？
+1. 刘永涛完整的此前职业履历、具体任职年份、参与项目与职责边界如何公开核实？
 2. 五年开发期间靠什么收入维持生活？
 3. 累计外包、音乐、配音、素材 contributors 有多少？
 4. Wise Games 在签约、资金、QA、商店、PR 和 creator outreach 上分别做了什么？
