@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052
 
 ## Definition
 
@@ -51,6 +51,8 @@
 | CASE-042:E006 | The First Tree | launch-period reflection ties scope, Asset Store use and visual market surface into one production strategy | high |
 | CASE-043:E006 | Everything | OReilly explicitly frames abstraction/procedural movement as both limitation-aware and artistically intentional | high |
 | CASE-043:E009 | Everything | later direct account confirms locomotion was optimization/problem-redefinition, while still technically difficult | medium-high |
+| CASE-051:E004 | TIS-100 | Barth abandons a more art/content-heavy concept as too expensive and extracts an assembly-code puzzle into a viable product | very high |
+| CASE-052:E001 | Untitled Goose Game | team works backward from desired comic situations into minimal AI/object systems instead of inheriting a standard stealth specification | high |
 
 ## Counterpressure
 
@@ -136,6 +138,79 @@ External money can additionally create:
 
 Exact Outer Wilds contract terms remain UNKNOWN, so this is a governance surface, not a claim that a partner forced any specific design decision.
 
+### CASE-050 Nomada / GRIS — CAPABILITY-COMPOSED
+
+GRIS adds a third formation route.
+
+The project thesis existed before the company, but instead of:
+- shrinking the project to one person's capability; or
+- buying missing capability through later hiring,
+
+Roset, Cuevas and Mendoza formed a complementary founding team around the project.
+
+This suggests:
+
+> **Capability supply can move through founder composition before it moves through payroll.**
+
+That is not free capability.
+
+Cofounder composition pays with:
+- equity;
+- authorship;
+- control sharing;
+- long-term relationship dependency.
+
+So capability acquisition must distinguish:
+- employee;
+- contractor;
+- publisher/service periphery;
+- cofounder / shared author.
+
+### CASE-051 Zachtronics — FIT-LOCK-IN / capability path dependence
+
+Zachtronics adds a longitudinal pressure.
+
+A strong capability–project match can compound:
+- tools;
+- team routines;
+- brand;
+- audience;
+- creator identity;
+- market expectation.
+
+Those assets make the next similar project cheaper and more legible.
+
+But Barth's 2022 closure explanation also shows the reverse:
+
+> **the better the organization becomes at one capability-shaped product family, the more expensive it may become to stop being that organization.**
+
+`FIT-LOCK-IN` is therefore a longitudinal overlay, not a launch-fit score.
+
+### CASE-052 House House — GRANT-FINANCED capability expansion
+
+Untitled Goose Game fills the non-dilutive funding gap.
+
+Film Victoria's official case study records:
+- development funding;
+- completion funding;
+- additional local developer capability, including accessibility work.
+
+Panic then supplied a different capability bundle:
+- audio / music budget;
+- publishing;
+- platform/release operations;
+- event/market infrastructure.
+
+So external capital must be decomposed by:
+
+> **source × capability purchased × governance cost**
+
+Grant money and publisher money are not interchangeable even when both increase runway.
+
+House House also completes a longitudinal conversion:
+
+`grant + publisher support → hit → retained earnings → next-project risk tolerance`.
+
 ### Other boundaries
 
 - CASE-043 shows redefinition can merely **move** cost: rolling/procedural locomotion deleted conventional animation obligations but created hard systems work.
@@ -182,7 +257,7 @@ CASE-047 and CASE-049 now add the mirror image:
 
 So the real design variable is not simply `team size`, but:
 
-> **which side is allowed to move — project requirements, capability supply, or both?**
+> **which side is allowed to move — project requirements, founding-team composition, capability supply, or several at once?**
 
 That creates several recurring transformations:
 
@@ -191,6 +266,9 @@ That creates several recurring transformations:
 - weak art access + strong systems/taste → abstraction becomes product language;
 - unusually strong low-level programmer → simulation scale becomes viable while prestige graphics are rejected;
 - animation auteur + programmer dyad → abstraction becomes interaction grammar instead of missing polish.
+- visual artist + AAA programmers → complementary founders make an art-first product feasible without asking one founder to become a generalist;
+- engineering-author studio → repeated fit compounds into a niche production system, but can later become `FIT-LOCK-IN`;
+- outsider creative collective + grant/publisher periphery → public/non-dilutive and commercial capital buy different missing capabilities.
 
 This is why some independent games look “strange” relative to industry genre templates:
 
@@ -207,7 +285,10 @@ This is why some independent games look “strange” relative to industry genre
 - “缺钱会自动逼出好设计”；
 - “只要项目贴合个人能力就会成功”；
 - “外包弱项永远比内部学习更优”；
-- “所有成功独立游戏都是按主创能力反向定制的”。
+- “所有成功独立游戏都是按主创能力反向定制的”；
+- “找到最适合自己的类型就应该永远做下去”；
+- “共同创始人是免费补能力”；
+- “grant、publisher、VC 只是同一种钱”。
 
 真正的命题是：
 > **显性认识 capability constraints，并把它们用于项目定义，可以成为作者型独立开发的一种可观察设计技术。**
@@ -218,4 +299,6 @@ This is why some independent games look “strange” relative to industry genre
 2. 把 Lucas Pope / Papers, Please 是否属于此机制重新核：目前更多证据是 disciplined cutting，而非明确以弱项反向立项。
 3. 在 Jonas Tyroller 多项目里寻找同一个人是否越来越显性地做 capability–project matching。
 4. 检验 2020s AI / asset / no-code 环境是否扩大了 creator 可选择的项目集合，从而改变“能力反向立项”的边界。
-5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）已经建立两种 `CAPABILITY-EXPANDED`；下一步优先补 VC/grant-financed 样本，并继续核 publisher/platform contract 中真正可观察的 decision-rights / milestone / recoup 变量。
+5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）+ CASE-052（grant + publisher）已覆盖三种 capability expansion 资本结构；下一步主要缺 **VC/equity-financed** 样本与可观察的 decision-rights / milestone / recoup 数据。
+6. CASE-050 已建立第一份 `CAPABILITY-COMPOSED`；下一步找一个 complementary-founder 结构仍失败/解体的压力样本，避免把“找互补合伙人”写成万能解。
+7. CASE-051 建立 `FIT-LOCK-IN`；下一步找第二个长期作者/工作室样本，检验成功的 capability fit 是否会系统性提高转型成本。
