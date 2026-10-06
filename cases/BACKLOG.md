@@ -85,6 +85,7 @@ CASE-027–031 已登记，下一新编号从 CASE-032 起。下一轮从下方 
 
 #### 强候选：The First Tree / David Wehle
 
+- **Observed window: 2016–2019；2026 transfer status: CONDITIONAL。** visual-first / technical-art → product shape 的结构值得继续核验，但 Reddit / Imgur / Tumblr / Twitter 等当时传播生态不得直接写成 2026 tactic。
 - P0/P1 起点：[GDC 2019 — No Time, No Budget, No Problem: Finishing 'The First Tree'](https://gdcvault.com/play/1026455/No-Time-No-Budget-No)；David 自述当时在 The VOID 全职工作、同时养育孩子，只能在极有限时间内完成个人项目。
 - David 后来自述自己 coding 很弱、自学 art/design，并凭前作进入 The VOID 做 Unity technical artist。这里的研究价值不是“不会代码也能成功”，而是检查**技术美术/视觉表达强项是否直接决定了产品问题形态**。
 - 待核链：短时长探索游戏、购买/改造现成资产、鲜明狐狸/森林配色、为截图/GIF 提供极强 visual hook，以及长期通过 Reddit / Imgur / Tumblr / Twitter 等短视觉内容做 top-of-funnel。需要区分哪些是立项时设计，哪些是中途发现营销有效后强化。
