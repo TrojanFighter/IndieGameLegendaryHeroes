@@ -4,7 +4,7 @@ schema_version: 2
 case_id: CASE-049
 status: RESEARCHING
 subject: "Outer Wilds / Mobius Digital: external-capital capability expansion and stakeholder trade-offs"
-related_claims: [C002, C003, C004, C007, C010, C011, C014, C015]
+related_claims: [C002, C003, C004, C010, C011, C014, C015]
 evidence_strength: HIGH
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
@@ -19,7 +19,7 @@ last_verified: 2026-10-07
 - Period covered: USC student thesis → 2013–2015 prototype / IGF → 2015 Fig / Mobius staffing → Annapurna/Xbox/Epic partnerships → 2019 release
 - Research status: RESEARCHING
 - Corpus role: `CAPABILITY-EXPANDED / EXTERNAL-CAPITAL` / STUDENT→STUDIO / FUNDING-CONTROL COMPARATOR
-- Related Claims: C002, C003, C004, C007, C010, C011, C014, C015
+- Related Claims: C002, C003, C004, C010, C011, C014, C015
 - Evidence Ledger: [来源账本](../evidence/CASE-049-outer-wilds-source-ledger.md)
 
 ## 1. Why this case
