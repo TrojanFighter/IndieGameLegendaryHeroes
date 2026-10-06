@@ -38,6 +38,49 @@
 
 这说明“腾讯式商业游戏语法”不是外界强贴标签，而是腾讯内部创新组织设计制度时主动区别的参照物。NExT 同时否定“腾讯人天然不会做创新/作者型游戏”。真正变量仍是 production regime。
 
+## 2.1 腾讯高层公开材料反而明确承认 production-regime boundary
+
+马晓轶 2024 年公开解释腾讯的“0→1 → 1→10 → 10→100”框架时，给出了一个对本研究非常重要的边界条件：
+
+- 对买断制，他把约 300 万销量视作“0→1”的一个合格线，把约 800 万销量视作“1→10”的量级；
+- 对 GaaS / F2P，他明确表示在用户规模很小、仍处于 0→1 时“不建议”做免费游戏，并称在买断产品做到约 800 万销量之前都不建议转免费/GaaS；
+- 他给出的理由不是审美，而是 **scale economics**：用户规模不足时，F2P 的流失率与商业模式无法成立；如果约 200 万销量里 90% 都是核心用户，也没有必要为了理论上的扩圈强做移动端/GaaS；
+- 同一套战略又通过 Tencent Gameplay Innovation Fund（TGIF）从全球寻找 5–10 人级别的小团队和细分赛道 0→1 项目，而不是要求所有团队一开始就按腾讯头部 GaaS 组织形态生产；
+- 马晓轶 2020 年还明确表示“品类没有偏好”，非常小众的品类也值得投资，关键是先得到核心用户认可。
+
+这使原假说需要进一步收窄：
+
+> **不能把“腾讯方法”理解成腾讯高层相信所有项目都应该腾讯化。恰恰相反，腾讯当前的资本配置逻辑公开承认：0→1、细分 premium 与 10→100 / GaaS 是不同 production regime。**
+
+因此更值得研究的不是“腾讯知不知道细分赛道不能照搬 GaaS”，而是：
+
+> **公司层面已经知道 regime boundary，但长期在头部 F2P/live-service 岗位中受训的个人，在离开组织后是否仍会携带原 objective function。**
+
+这把“腾讯式霸权语法”从“管理层错误理论”改写为更强也更可证伪的 **institutional-prior persistence**：一个组织可以在投资层面高度理解多样生产制度，同时其主流业务仍会因为收入结构、岗位 KPI 与晋升机制，大规模训练某一种 problem framing。
+
+### 2.2 “稳定团队 / 1500 个决策”不是“大团队越大越好”
+
+马晓轶在同一轮公开访谈中借与宫崎英高的交流提出：一款产品从立项到上线可能面对约 1500 个不同层面的决策，成熟团队因为长期共事，可以把大量决策转化为已经内化的共同知识；腾讯因此更愿意相信有历史积累的工作室，而不是只挖明星个人重新组队。
+
+这个论点支持的是 **team-specific tacit capital / 团队隐性资本**，而不是“豪华履历 + 大量人力 = 创新”。对本研究反而意味着：
+
+- 从 Ubisoft / 腾讯 / 网易等大厂抽取一批资深个人重新拼队，不等于继承原工作室的团队资本；
+- “在某赛道做过十年”与“这批人作为同一个团队做过十年”必须分开编码；
+- 对小团队而言，长期稳定的共同 prototype / ship history 可能比成员简历总和更有解释力；
+- 大厂离职创业时，真正丢失的可能不仅是资源，还包括原组织替个人吸收的数百个默认决策。
+
+这也是后续 Role-Origin Dataset 应新增 **team continuity / prior shared shipping history** 字段的理由。
+
+### 2.3 NExT 不能暂时编码为“圈养创新完全失败”
+
+用户讨论中提出过“NExT 式内部圈养创新是否失败”的强判断，但当前公开证据不足以支持“完全失败”。2018–2019 年公开材料能确认 NExT 确实使用自下而上提案、100 人日 review、vertical slice、动态追加资源等机制，也产出过多款口碑型中小作品；NExT 官方目前仍以差异化、高品质、跨平台和新玩法探索作为公开定位。
+
+因此当前只能提出更窄的问题：
+
+> **NExT 是否证明了大公司可以制度化地产生 0→1 prototype，却未必证明这种内部创新组织能够稳定产生与其人力投入相匹配的全球商业回报？**
+
+这需要补齐项目级 headcount、budget、销量/收入、取消项目和组织调整资料后再判断。不能用聊天中的“所有游戏都输了”直接升级为公开事实。
+
 ## 3. 三种迁移状态：Persistence / Hybridization / Inversion
 
 ### 3.1 Persistence — Sea /《安尼姆的无尽旅途》
@@ -106,6 +149,14 @@ Status: PROMISING / SELECTION BIAS HIGH.
 > 中国大量中小商业团队可能复制头部公司的 product grammar 和 obligation，却缺少对应规模资源，从而形成“低配大厂”式失配。
 Status: PROMISING / CURRENTLY UNDER-EVIDENCED.
 
+### H5 — Regime boundary can be known institutionally but violated individually
+> 腾讯高层公开资本配置逻辑已经区分细分 0→1 / premium 与大规模 GaaS；因此负迁移若存在，更可能表现为岗位训练形成的 individual prior persistence，而不是“腾讯管理层不知道小赛道怎么做”。
+Status: DIRECT EXECUTIVE EVIDENCE FOR THE BOUNDARY / INDIVIDUAL-TRANSFER CAUSAL LINK STILL NEEDS DATA.
+
+### H6 — Team continuity is distinct from résumé quality
+> 长期共同开发形成的 tacit team capital 可能比单个成员的大厂履历更能解释复杂项目决策质量。
+Status: EXECUTIVE/INDUSTRY HYPOTHESIS / NEEDS PROJECT-LEVEL COMPARISON.
+
 ## 9. Source anchors
 
 - Tencent 2025 annual results: https://static.www.tencent.com/uploads/2026/03/18/559e5d480a4411165e6c7367d61fefbd.pdf
@@ -113,6 +164,10 @@ Status: PROMISING / CURRENTLY UNDER-EVIDENCED.
 - 腾讯招聘 /《英雄联盟》用户运营: https://careers.tencent.com/jobdesc.html?postId=2100246114195390464
 - 腾讯招聘 /《逆战：未来》系统策划: https://careers.tencent.com/jobdesc.html?postId=2054447946463883264
 - GameRes / NExT Studios 负责人访谈: https://www.gameres.com/824633.html
+- 触乐 / 马晓轶“从零到百，以及之后”: https://www.chuapp.com/article/289989.html
+- 触乐 / 马晓轶谈工作室、1500 个决策与 GaaS 边界: https://www.chuapp.com/?a=index&c=Article&id=289990
+- 游戏葡萄 2020 马晓轶创新访谈存档 / 小团队、TGIF、细分品类: https://www.sohu.com/a/404873495_116018
+- NExT Studios 官方定位: https://www.nextstudios.com/cn/to_be_updated/next.html
 - 游戏茶馆 / Sea 腾讯魔方 11 年: https://www.sohu.com/a/747433409_116126
 - 游戏葡萄 / Sea 创业复盘: https://www.taptap.cn/moment/602724648508985028
 - 用户提供存档 /《安尼姆》商业化拆解: https://mp.weixin.qq.com/s/vbFAyFA7qew_RXYacJMmcQ
