@@ -243,3 +243,6 @@ Hagewood 与设计负责人 Corey Davis 的回顾明确谈到前作暴露出的 
 - **E003 / E004** 仍是 verification queue：分别用于继续核 SARPBC→Rocket League 的技术/设计连续性，以及 PS Plus 的具体放大机制。
 
 完整来源、等级与 UNKNOWN 项见 [`CASE-002 Evidence Ledger`](../../evidence/CASE-002-rocket-league-source-ledger.md)。
+
+
+- 研究档案：[CASE-002](../../cases/CASE-002-rocket-league.md)
