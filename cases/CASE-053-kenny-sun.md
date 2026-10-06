@@ -22,7 +22,7 @@ last_verified: 2026-10-07
 - Related Claims: C015
 - Evidence Ledger: [来源账本](../evidence/CASE-053-kenny-sun-source-ledger.md)
 
-## 1. Why this case
+## Why this case
 
 Kenny Sun 不是用来再证明一次“程序员也能做成功独游”。
 
@@ -61,7 +61,7 @@ Kenny 的纵向轨迹要求再加一条尚未正式升格的研究假说：
 
 它没有填补 VC / CAPABILITY-COMPOSED failure / second FIT-LOCK-IN / FIT-TRAP 这四个既有缺口；它补的是**能力形成机制本身**。
 
-## 2. Myth
+## 1. Myth
 
 最容易出现的流行叙事是：
 
@@ -81,7 +81,7 @@ Kenny 的纵向轨迹要求再加一条尚未正式升格的研究假说：
 
 本案因此研究的是**可观察生产链**，不是人格拼图。
 
-## 3. Context–Situation–Action Snapshot
+## 2. Context–Situation–Action Snapshot
 
 ### Era / Production Regime
 
@@ -109,7 +109,7 @@ Kenny 的形成跨越至少三个不同 regime：
 - `Hatbox` 第一次 prototype 时，他仍有全职工作，时间是 binding constraint；
 - `BALL x PIT` 时他已经不再坚持“所有东西都自己做”，而是第一次明确领导一个 specialist team。
 
-### Decision Units
+### Action / Maneuver
 
 | 时间/窗口 | Binding constraint | 具体行动 | 直接结果 | Evidence | Transfer boundary |
 |---|---|---|---|---|---|
@@ -122,7 +122,15 @@ Kenny 的形成跨越至少三个不同 regime：
 | 2021–2022 | 出现高价值外部项目机会 | 暂停一年参与 Return to Monkey Island，负责 gameplay/puzzle/cutscene programming | 增加另一段专业系统实现经验 | E001, E007 | 对 BALL x PIT 的具体因果迁移暂不能直接证明 |
 | 2025 | 项目已超出一人资产生产边界 | 首次明确 lead team；配置 3D、tech art、pixel art、concept、UI/art、music specialist；Devolver publishing | 从“自己做绝大多数”转向 author-led capability composition/periphery | E008 | collaborator 的 employment/equity/decision-right structure 仍 UNKNOWN |
 
-## 4. Origin
+### Anachronism Check
+
+- Flash portals, Steam Greenlight and the 2015 NYU Incubator / festival path are historical conditions, not 2026 tactics.
+- The durable mechanism is not “repeat Ludum Dare → Greenlight → IGF”, but `small public artifact → evidence → next opportunity`.
+- 2021–2025 publisher / remote-specialist access is closer to current conditions, but contract economics and discoverability remain title- and year-dependent.
+- BALL x PIT’s Devolver support must not be projected backward as something Kenny had access to when building Circa Infinity or the first Hatbox prototype.
+- Current AI / asset / no-code tools can widen a 2026 creator’s feasible set, but they cannot be used to retroactively judge why Kenny did or did not internalize art, audio, QA or marketing in earlier periods.
+
+## 3. Origin
 
 当前可确认：
 
@@ -142,7 +150,7 @@ Kenny 的形成跨越至少三个不同 regime：
 
 这些信息可以继续核验，但在取得原始来源前只作为 research lead。
 
-## 5. Capability
+## 4. Capability
 
 ### 早期能力
 
@@ -198,7 +206,7 @@ Harmonix 官方履历可由 Kenny 本人确认的项目包括：
 
 > **作者决策密度仍集中，但执行能力集合开始通过 specialist network 扩张。**
 
-## 6. Runway
+## 5. Runway
 
 | 时段 | 来源 | 金额/口径 | 证据 | 置信度 |
 |---|---|---|---|---|
@@ -213,7 +221,7 @@ Harmonix 官方履历可由 Kenny 本人确认的项目包括：
 
 > **先用工资保护 experimentation，再让 side-project revenue 替代工资，最后才全职独立。**
 
-## 7. Production
+## 6. Production
 
 ### Circa Infinity
 
@@ -250,7 +258,7 @@ Publisher: Devolver Digital。
 
 “六人 team + Kenny”是功能分工层面的 core-team 表述；劳动合同、全职/兼职、equity、外包关系仍需进一步审计。
 
-## 8. Scope / Failure / Reversal
+## 7. Scope / Failure / Reversal
 
 本案最有价值的 failure evidence 不是商业 flop，而是**主动不做**。
 
@@ -276,7 +284,7 @@ Kenny 明确说：
 
 > **项目适配不是只看“这个人最终能不能做”，还要看“此刻的这个人、在此刻的 runway 下能不能便宜地做”。**
 
-## 9. Capability–Project Fit
+## 8. Capability–Project Fit
 
 当前结论：
 
@@ -296,7 +304,7 @@ Kenny 明确说：
 
 > **Capability–Project Fit 不是一次性的人格匹配，而可能是一种反复重算 production frontier 的技术。**
 
-## 10. Market
+## 9. Market
 
 可确认的重要节点：
 
@@ -316,7 +324,7 @@ Kenny 明确说：
 
 > 到 2025，他的 production model 已经从作者单核扩成了 author + specialist team + major indie publisher market perimeter。
 
-## 11. Environment
+## 10. Environment
 
 有利条件：
 
@@ -334,7 +342,7 @@ Kenny 明确说：
 - self-marketing / selling 明确是作者自认弱项；
 - 项目规模变大后，资产、QA、本地化、移植和市场都要求新的组织形态。
 
-## 12. Luck
+## 11. Luck
 
 当前不把任何单一事件指定为主要 luck cause。
 
@@ -346,7 +354,7 @@ Kenny 明确说：
 - BALL x PIT 的 Steam algorithm / Next Fest / creator amplification；
 - 2025 market timing 对其 breakout 的影响。
 
-## 13. Verdict
+## 12. Verdict
 
 成立：
 
@@ -371,7 +379,7 @@ Kenny 明确说：
 - Harmonix 直接塑造其“手感”方法；
 - publisher contracts 的 funding / recoup / IP / approval / milestone / ownership 条款。
 
-## 14. Transfer
+## 13. Transfer
 
 可迁移机制：
 
@@ -383,7 +391,7 @@ Kenny 明确说：
 6. **publisher / specialists 可以被理解为 capability bundle，而不是抽象的“资源”。**
 7. **成功后扩大 production frontier，不必等于稀释 authorial thesis；可以从“自己做”转向“自己决定 + specialist 执行”。**
 
-## 15. Non-transfer
+## 14. Non-transfer
 
 不可直接复制：
 
@@ -395,7 +403,7 @@ Kenny 明确说：
 - 能同时获得多个 publisher offer 的 bargaining position；
 - Raw Fury / Devolver 的具体服务、合同和市场能力。
 
-## 16. Temporal Validity
+## 15. Temporal Validity
 
 | Mechanism | Observed years | 2026 transfer status |
 |---|---:|---|
@@ -406,7 +414,7 @@ Kenny 明确说：
 | specialist core + publisher market perimeter | 2024–2026 | CURRENT / CONDITIONAL |
 | specific Steam / Next Fest / SGF exposure path | 2025 | CURRENT but re-check before transfer |
 
-## 17. Evidence Index
+## 16. Evidence Index
 
 - CASE-053:E001 — Kenny official About：2007+ personal dev、Harmonix、Return to Monkey Island、concert photography。
 - CASE-053:E002 — GameDeveloper 2016：Flash / Newgrounds / Kongregate、NYU courses、GameMaker、Circa development timeline。
@@ -419,7 +427,7 @@ Kenny 明确说：
 - CASE-053:E009 — Devolver FY2025：Steam first ten weeks >1M units。
 - CASE-053:E010 — NYU / current recognition context：Circa / BALL x PIT external validation。
 
-## 18. Open Questions
+## 17. Open Questions
 
 1. 找到可靠原始材料核 NYU degree：是否确为 CS + Mathematics double major？
 2. Cisco 经历是否存在？若存在，时间在 Harmonix 之前还是其他阶段？“父母期待”是否有当事人原话？
