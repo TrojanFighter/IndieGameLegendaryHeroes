@@ -135,6 +135,9 @@ Chapter 不再问：
 
 历史背景由 `cross-industry/industrial-revolutions/` 提供，不在这里写成技术年表。
 
+当前首章：
+- [技术时代不会替你做选择：有人用现成工具，有人重组平台，有人自己造出窗口](chapters/04-technology-will-not-choose-for-you.md)
+
 ## Part V — 市场不是最后一步
 
 核心问题：
