@@ -3,7 +3,7 @@ type: case
 schema_version: 2
 case_id: CASE-042
 status: RESEARCHING
-subject: "The First Tree / David Wehle"
+subject: "The First Tree / David Wehle: technical-art capability → visual-first product shape"
 related_claims: [C003, C004, C007, C008, C010, C011]
 evidence_strength: MEDIUM
 explanatory_importance: CRITICAL
