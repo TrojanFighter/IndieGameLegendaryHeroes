@@ -78,7 +78,7 @@
 
 - `CAPABILITY-SHAPED`：立项 / 早期定义已经明确围绕主创强项与弱项塑形；
 - `CAPABILITY-ADAPTED`：项目先存在，开发中才因能力/成本约束被大幅改写；
-- `CAPABILITY-COMPOSED`：项目 thesis 已有雏形，founding team 通过互补 cofounder capability 被重新组成；成本主要不是工资，而是 equity / authorship / control sharing（如 CASE-050）；
+- `CAPABILITY-COMPOSED`：项目 thesis 已有雏形，founding team 通过互补 cofounder capability 被重新组成；成本主要不是工资，而是 equity / authorship / control sharing（CASE-050 是正向形成样本，CASE-056 是治理成本压力样本）；
 - `CAPABILITY-EXPANDED`：项目核心愿景先存在，缺失能力不是被删除，而是通过 retained earnings、publisher、融资、招聘或 specialist periphery 被主动补齐。继续拆成：`SELF-FINANCED EXPANSION`（如 CASE-047）、`EXTERNAL-CAPITAL EXPANSION`（如 CASE-049）与 `GRANT / NON-DILUTIVE EXPANSION`（如 CASE-052）；
 - `LABOR-COMPRESSED`：项目基本保留行业标准问题，只由更少的人硬扛；
 - `UNKNOWN`：没有足够立项期证据。
@@ -209,6 +209,33 @@ The First Tree 尤其作为首个示范：
 
 CASE-055 Factorio 是第一锚点：Wube 在多人规模、已实现 mechanic、1.0 scope 三个不同层面都留下了“技术仍能继续，但产品已经不值得继续投入”的直接证据。
 
+### 6.6. Founder-composition governance audit
+
+如果缺失能力不是通过 employee / contractor / publisher service，而是进入 **cofounder layer**，不能只问“能力有没有补齐”。
+
+还必须审计：
+
+- **Why founder?** 这项能力为什么必须进入 ownership layer，而不是 hiring / contracting？
+- **Domain authority**：creative / product / technical / production / finance 分别谁有 final say？
+- **Equity / voting**：股份、投票权、董事席位与实际控制权怎样对应？
+- **Deadlock rule**：scope、release、融资、招聘、下一项目发生根本分歧时，怎样结束僵局？
+- **Project cadence**：两位 founder 对“一作值得投入几年”的时间偏好是否一致？
+- **New-project mandate**：上一作完成以后，谁能决定公司继续做什么、多久再做一次？
+- **Authorship**：产品作者性与公司所有权是否被混为一件事？
+- **Buy-sell / exit**：一方想离开时，谁可以买、谁必须卖、怎样定价？
+- **Credits after exit**：退出多年后，作品 credit、production history 与官方叙述怎样处理？
+- **Identity tail**：公司品牌是否与某一 founder 的作者身份不可分，从而放大退出成本？
+
+暂称：
+
+> **FOUNDER-GOVERNANCE DISSOLUTION PRESSURE**
+
+这不是新的 fit taxonomy，而是 `CAPABILITY-COMPOSED` 的治理审计。
+
+CASE-056 Playdead 是第一压力锚点：Jensen 的 authorial thesis 与 Patti 的 production / programming / financing / organization capability 形成了真实互补，而且连续产出成功产品；但 founder relationship 后来仍在 ownership / time horizon / authorship surface 上解体。它说明：
+
+> **capability compatibility 与 governance compatibility 是两件不同的事。**
+
 ## Evidence Standard
 
 不能只根据成品倒推主创能力。
@@ -278,6 +305,7 @@ CASE-055 Factorio 是第一锚点：Wube 在多人规模、已实现 mechanic、
 - **CASE-048 The Magic Circle** — 第二份 `FIT-STRONG / MARKET-FAILED`：creator capability、题材与 mechanic 高度耦合，但商业仍不可持续；用于强制把 `Creator–Project Fit` 与 `Project–Market Selection` 分开。
 - **CASE-049 Outer Wilds** — `FIT-EXPANDED / EXTERNAL-CAPITAL`：学生 thesis 先产生 playable/design evidence，再由 Mobius/Fig/publisher/platform 资金扩张团队与 production perimeter；用于比较 founder-owned capital 与 external capital 的 stakeholder/control surface。
 - **CASE-050 Nomada / GRIS → Neva** — `FIT-COMPOSED / CAPABILITY-COMPOSED`：visual-author thesis 先出现，再由 artist + AAA programmers 组成互补 founding capability；研究 cofounder equity/authorship 与普通 hiring 的不同成本。
+- **CASE-056 Playdead / Arnt Jensen + Dino Patti** — `CAPABILITY-COMPOSED / FOUNDER-GOVERNANCE PRESSURE`：Jensen 的 authorial/game-direction capability 与 Patti 的 programming / production / financing / company-building capability 形成真实互补，并成功支撑 LIMBO / INSIDE；但产品成功并未消除 equity、time horizon、authorship、control 与 exit 的 founder-level 治理成本。
 - **CASE-051 Zachtronics** — `FIT-STRONG + FIT-LOCK-IN`：engineering literacy 长期变成产品语言、niche audience 与 production system，同时 creator 明确报告难以做出不像 Zachtronics 的作品。
 - **CASE-052 House House / Untitled Goose Game** — `GRANT / PUBLISHER EXPANSION`：public completion funding 直接增加 local developer/accessibility capability，publisher 再补 audio / platform / market periphery；用于拆 external capital 的不同 capability bundle。
 - **CASE-053 Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT** — `FIT-STRONG / LONGITUDINAL CAPABILITY ACCRETION`：不是新增 fit 标签，而是提醒 capability map 本身会随项目、职业工作、收入与外围协作变化。Kenny 从 Flash / jam / solo commercial artifact，经 Harmonix + weekend shipping、2016 主动搁置过大 Hatbox、2019 重启、Raw Fury release periphery，最终走到 BALL x PIT 的 first team-lead + specialist core；用于把静态的 `capability → project` 改写成可研究的 `project_t → capability_(t+1)`。
@@ -323,6 +351,6 @@ C015 只主张：
 - 已有 2 个 `CAPABILITY-SHAPED but commercially failed`（Brigador / The Magic Circle），后续重点转向失败类型分解；
 - 已有多种 capability expansion（The Witness / Outer Wilds / House House），仍缺 VC/equity 与真实 control-term 对照；
 - CASE-054 Limit Theory + CASE-055 Factorio 已形成第一组 deep-tech failure/success pressure pair：前者 local engineering progress 与 product closure 脱钩，后者留下 multiplayer enough / feature deletion / release descoping 三类 stop-condition 证据；下一步再补一个非 Wube 成功样本，验证该机制能否泛化；
-- `CAPABILITY-COMPOSED` 与 `FIT-LOCK-IN` 各只有一个强锚点，需要第二样本；
+- `CAPABILITY-COMPOSED` 已有 CASE-050 Nomada 正向形成 + CASE-056 Playdead 治理解体压力对照；下一步缺的是显式治理机制成功样本或 pre-ship founder failure。`FIT-LOCK-IN` 仍只有一个强锚点，需要第二样本；
 - 立项期证据而非成功后叙事；
 - 与资金、平台窗口、既有受众和 luck 的分离。
