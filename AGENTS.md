@@ -318,6 +318,11 @@ Case 可以枯燥、重复、结构化；书稿可以有文学性，但书稿中
 - 新 Claim 应有明确可证伪形式。
 - 新 Case 应说明它为何能增加证据，而不是只因为“有名”。
 - 姊妹篇共享本仓库的方法论与 Evidence 规则，不另起一套互相漂移的标准。
+- 本仓库的研究节目划分以 [PROGRAM-MAP.md](PROGRAM-MAP.md) 为准：A 独立游戏英雄传说；B 斯拉夫游戏英雄传说；C 中国国情研究；D 发达国家创新者与跨行业研究。
+- 研究对象按“它正在回答什么问题”路由，而不是只按国籍或公司规模路由。跨区对象可以被多处引用，但 canonical Case / Evidence 只能保留一份，其他区域通过链接引用。
+- 中国国情研究的入口是 `country-studies/china/`。既有 008–015 research notes 暂不为了目录整齐搬家；新 country-level 综合、教育/社会化比较和跨国制度命题从该入口生长。
+- 跨行业研究入口是 `cross-industry/`。PUBG / Brendan Greene 等已有游戏 Case 可作为桥梁，但 Jobs / Christensen / Musk 等跨行业对象不得直接混入独立篇 Case 统计，除非后续 schema 明确决定。
+- “民族性 / 文化性”语言不得直接升级为 Claim；必须操作化为可观察变量并寻找组内、跨国和失败反例。
 - 斯拉夫姊妹篇资料位于 `sister-projects/slavic/`，独立登记与统计；不得再放入根目录 `evidence/` 或混入独立篇 Case 数量。跨篇比较链接到原档案，按研究问题归属而非开发者国籍分配。
 - Case 是可审计研究档案；Profile 是消费既有研究的叙事稿。两篇均保留这一区别，不将证据矩阵自动升级为 Case 或书稿。
 
