@@ -24,6 +24,7 @@
 - [`gunfire-tripwire-production-fundamentals-012.md`](gunfire-tripwire-production-fundamentals-012.md) — 深挖 T9 的高 ownership-span credits 与 Tripwire 从 Red Orchestra mod / Make Something Unreal 到 Killing Floor / Rising Storm 的 validation ladder，作为 0→1 production fundamentals 正向对照。
 - [`china-capability-repricing-black-myth-sultan-013.md`](china-capability-repricing-black-myth-sultan-013.md) — 比较 Game Science 与 Double Cross：区分 formative/adaptive regime，检验旧商业制度能力在 premium/global 市场被重新定价的假说，同时保留英雄互娱出售动机与早期离职传闻的证据边界。
 - [`next-studios-portfolio-efficiency-audit-014.md`](next-studios-portfolio-efficiency-audit-014.md) — 按 early small-scope / premium / service / scaled 2A 分层梳理 NExT 公开项目，避免用《重生边缘》单作代表全部 NExT，并检验资源扩大后 error-persistence cost 是否非线性上升。
+- [`china-indie-source-intake-closeout-015.md`](china-indie-source-intake-closeout-015.md) — 对本轮上传截图、网页与公开证据做逐素材 provenance closeout：记录命题、核验状态、落库位置与 UNKNOWN，防止把私人讨论、社区评论和公开事实混成同一证据层。
 - [`runestone-keeper-vs-gumballs-001.md`](runestone-keeper-vs-gumballs-001.md) — 《符石守护者》与《不思议迷宫》的路径分化：相近 Roguelike/地牢语法如何在 Steam premium 与中国 mobile/F2P 制度里长成不同生产与收入结构。
 - [`pvz2-china-monetization-001.md`](pvz2-china-monetization-001.md) — PopCap Shanghai 从 Great Wall Edition 到 PVZ2 中国版的商业本地化：盗版/低 premium 回款如何推动 F2P，再如何进入 progression、difficulty 与付费边界。
 - [`china-pc-market-interface-audit-001.md`](china-pc-market-interface-audit-001.md) — 对《波西亚时光》《戴森球计划》《Eastward》《太吾绘卷》《了不起的修仙模拟器》《苏丹的游戏》《边境》七个中国 PC 项目的市场接口、愿望单/验证路径、发行外围与海内外结构做横向审计，检验“看不见的墙”命题。
