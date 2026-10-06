@@ -80,9 +80,9 @@
 
 ---
 
-## 41 个编号案例档案
+## 43 个编号案例档案
 
-这些 Case 是研究后台的档案，39 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
+这些 Case 是研究后台的档案，41 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
 | Case | Subject | 它主要让我们看见什么 |
 |---|---|---|
@@ -127,6 +127,8 @@
 | [CASE-039](cases/CASE-039-gunfire-reborn.md) | **Gunfire Reborn / Duoyi Games Gunfire Studio** | `NON-INDIE PRODUCTION-FUNDAMENTALS COMPARATOR`：premium / Early Access、T9 高 ownership span 与 evidence-led escalation；公司内部资源和 T9 formative history 保持边界 |
 | [CASE-040](cases/CASE-040-tripwire-lineage.md) | **Tripwire / Red Orchestra → Killing Floor → Rising Storm** | `VALIDATION-LADDER / COMMUNITY-AS-PRODUCTION`：mod/community 先产生 playable 与 evidence，再公司化、商业化、吸收外部团队 |
 | [CASE-041](cases/CASE-041-next-synced.md) | **NExT Studios portfolio → SYNCED** | `CORPORATE-INNOVATION / REGIME-TRANSITION COMPARATOR`：比较早期小型 0→1 与大型 F2P/GaaS 的 resource escalation 与 error persistence |
+| [CASE-042](cases/CASE-042-the-first-tree.md) | **The First Tree / David Wehle** | Technical Artist / visual-first：能力强项怎样同时重写产品形态、资产生产与视觉型市场接口；2016–2017 tactics 按时效规则审计 |
+| [CASE-043](cases/CASE-043-everything-david-oreilly.md) | **Everything / David OReilly** | Animation-auteur / problem redefinition：抽象动画语言、procedural movement 与核心 programmer dyad 如何替代传统 animation obligation，同时制造新的 systems complexity |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。`Sultan's Game` 已升级为 CASE-038，但工作室所有权、旧投资关系和 publisher financing 仍待继续审计；Artless Games 保留为中国创作路径候选。
 
@@ -191,8 +193,8 @@
 
 截至 2026-10-06：
 
-- 41 个编号 Case 已建档，其中 39 个 RESEARCHING、2 个 SKELETON；
-- 41 个对应 Case Evidence Ledger 已建立；
+- 43 个编号 Case 已建档，其中 41 个 RESEARCHING、2 个 SKELETON；
+- 43 个对应 Case Evidence Ledger 已建立；
 - 14 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 / C014 当前为 `SUPPORTED`；C013 当前为 `WEAK`；
 - CASE-027–030 构成“中国生产制度候选组”；《中国式网游》已核官方开发自述，其余三个来源待恢复，不把候选解释视为已证正反例；
 - CASE-031 将 Jonas Tyroller 作为 longitudinal practitioner，持续检验同一开发者跨项目的方法复现、方法修正、市场接入与运气边界；
