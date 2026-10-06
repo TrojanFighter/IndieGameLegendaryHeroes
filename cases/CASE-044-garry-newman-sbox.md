@@ -34,6 +34,46 @@ last_verified: 2026-10-07
 
 > **旧 regime 的成功能力资本可以迁移，但不会自动给出新 regime 的正确 product model。**
 
+## Context–Situation–Action Snapshot
+
+### Era / Production Regime
+
+这个谱系跨越三个完全不同的生产环境：
+
+- 2004–2006：Half-Life 2 / Source mod ecology + Steam 早期商业化；
+- 2013–2018：Early Access、survival multiplayer 与 persistent online service 快速扩张；
+- 2026：creator platform 面对高度拥挤的 UGC、算法 discovery、AI-generated low-effort content、跨内容质量治理与平台级 performance obligation。
+
+不能把 2004 年“免费 mod → Valve 邀请商业化”的路径当成 2026 creator-platform 的可复制 acquisition 模板。
+
+### Actor Situation
+
+Newman / Facepunch 到 s&box 时已经拥有：
+
+- 超长期 community / mod / UGC 产品经验；
+- GMod 与 Rust 带来的组织、技术和财务资本；
+- Steam / Source 生态长期经验；
+- 一支成熟 studio，而不是 2004 年的个人 modder 状态。
+
+这恰好使本案成为强反压力：
+> **能力资本和 runway 都很强，仍然不能替代重新寻找 product truth。**
+
+### Action / Maneuver
+
+| 阶段 | 主动动作 | 解决的问题 | 新增 obligation | Evidence |
+|---|---|---|---|---|
+| GMod | 快速 mod iteration → paid Steam product | 把 creator sandbox 变成持续开发产品 | community / compatibility / update responsibility | E001 |
+| Rust | 从 GMod 产品线切到 survival multiplayer | 新品类探索 | persistent online / live community / multiplayer systems | E002 |
+| s&box 多轮开发 | 拒绝只做“GMod on Source 2”，多次重启/换 engine | 寻找下一代 creator-platform thesis | 多年 error persistence | E003 |
+| 2026 release | 先发布，再以真实玩家/创作者行为改 discovery、review、onboarding | 缩短 platform-level player truth | ranking / moderation / performance / creator economics | E004–E007 |
+
+### Anachronism Check
+
+- GMod 的 Steam 商业化发生在完全不同的平台竞争密度下；
+- Rust 的 2013 survival / Early Access 窗口不能直接类比 2026；
+- s&box 的 2026 discovery / AI-slop 问题属于 CURRENT regime，未来仍可能快速变化；
+- 所以可迁移的是“公开产品→真实反馈→快速系统修正”的能力，不是某一代平台 tactic。
+
 ## Origin / Capability
 
 2004 年 Garry's Mod 从 Half-Life 2 / Source mod 生态中长出。2019 年 PC Gamer 对 Newman 与 Valve 的联合回顾确认：
