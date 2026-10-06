@@ -33,6 +33,50 @@ Expedition 33 很容易被压成一句：
 
 > **一个小 core 如何把 AAA 工作经验、现成引擎、commercial tools、publisher、外部 production partners 与强 authorial thesis 组合成远大于 core headcount 的 production perimeter？**
 
+## Context–Situation–Action Snapshot
+
+### Era / Production Regime
+
+核心生产发生在 2020–2025：
+
+- Unreal Engine 4→5、Blueprint、MetaHuman、Nanite、Lumen、World Partition 等成熟工具显著降低部分高规格 3D production obligation；
+- 专业 performance capture、voice、localization、QA、external production 可以通过全球供应链外围化；
+- publisher / platform / contemporary premium-console-PC market 仍承担高昂的 distribution、certification 与 market-access 工作；
+- “core team <30”因此不能和 1990s/2010s 的 30 人团队做裸 headcount 比较。
+
+### Actor Situation
+
+Sandfall 的 founders 并不是从零进入高规格 RPG：
+
+- Guillaume Broche 有 4+ 年 Ubisoft 经历；
+- cofounding team 中存在其他 Ubisoft 开发者；
+- 2021 项目早期已有约 8 人 core；
+- 但离开 AAA 后，原组织里“每个专业问题都有专门专家”的结构消失；
+- 小团队必须重新学习跨职能工作，并决定哪些问题由工具或外部伙伴承担。
+
+### Action / Maneuver
+
+| 生产问题 | Sandfall 的动作 | 被压缩/转移的成本 | Evidence |
+|---|---|---|---|
+| realistic character / animation | Character Creator / ActorCore / Rokoko 等现成工具 | 部分角色/动画 pipeline | E001 |
+| gameplay logic | UE Blueprint | 降低纯 programmer bottleneck，扩大跨 discipline ownership | E002/E003 |
+| cinematic collaboration | Sequencer | 减少跨工具/跨部门同步摩擦 | E003 |
+| environment scale | Nanite / World Partition | 手工 LOD 与 scene contention | E002/E003 |
+| high-end production completion | publisher + voice/performance/QA/external partners | 大量非 core labor | E004–E007 |
+| product thesis | early combat prototype | 在团队继续扩大前验证 turn-based + real-time defense 核心 | E002 |
+
+### Anachronism Check
+
+Expedition 33 是 **2020s tool regime** 的案例。
+
+它不能证明：
+- 30 人今天等于过去 100–300 人；
+- UE5 自动让任何小团队做 AAA；
+- contractor / publisher / platform labor 可以忽略。
+
+可迁移机制是：
+> **small core 通过成熟工具与 industrial periphery 保留更高 authorial decision density；完整成本必须按 production perimeter 而不是公司 payroll 统计。**
+
 ## Founder / Team Prehistory
 
 2021 年开发早期直接采访已经记录：
