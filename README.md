@@ -1,6 +1,6 @@
 # 独立游戏英雄传说
 
-[English entry](translations/en/README.md) | [贡献指南](CONTRIBUTING.md)
+[English entry](translations/en/README.md) | [贡献指南](CONTRIBUTING.md) | [研究计划总图](PROGRAM-MAP.md)
 
 **Indie Game Legendary Heroes**  
 作者 / 主创：**洪荒行者**
@@ -13,9 +13,9 @@
 
 当前仓库已经形成：
 
-- **38 个编号 Case 档案**，其中 35 个 RESEARCHING、3 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》，另以《征途》作为中国产业制度转折 comparator，编号不代表其生产史与独立资格已全部核实；
-- **38 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
-- **12 个跨案例 Claim**，检验 runway、能力资本、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
+- **41 个编号 Case 档案**，其中 39 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》，另以《征途》作为中国产业制度转折 comparator，编号不代表其生产史与独立资格已全部核实；
+- **41 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **14 个跨案例 Claim**，检验 runway、能力资本、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
 - [`book/INDIE-MOVEMENT.md`](book/INDIE-MOVEMENT.md) 解释本书所说的“独立游戏运动”、`independent` 与 `indie` 的区别，以及为什么 mod / UGC → 商业放大的桥梁案例也属于生产谱系研究。
@@ -54,7 +54,7 @@
 
 ---
 
-## 38 个编号案例档案
+## 41 个编号案例档案
 
 这些 Case 是研究后台的档案，35 个为 RESEARCHING，3 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
@@ -88,7 +88,7 @@
 | [CASE-026](cases/CASE-026-brigador.md) | **Brigador / Stellar Jockeys** | 强产品执行仍可被 onboarding、market legibility、受众预期与成本—市场错位击穿 |
 | [CASE-027](cases/CASE-027-dyson-sphere-program.md) | **Dyson Sphere Program / Youthcat Studio** | SKELETON：人数、自筹、职业前史与发行关系待核，不预设独立正例 |
 | [CASE-028](cases/CASE-028-chinese-online-game.md) | **中国式网游 / 648工作室** | 官方自述单人业余约五年；模拟网游体验的表现成本解释为 H，职业前史仍 UNKNOWN |
-| [CASE-029](cases/CASE-029-boundary.md) | **Boundary / Surgical Scalpels Studio** | SKELETON：融资、团队与停服因果待核；发行方公告只作为单方证词 |
+| [CASE-029](cases/CASE-029-boundary.md) | **Boundary / Surgical Scalpels Studio** | 已恢复制作人 / 创始人资料与首发商业信号；检验强 novelty / acquisition 已成立时的长周期 error persistence 与 multiplayer ecosystem obligation |
 | [CASE-030](cases/CASE-030-outpost-infinity-siege.md) | **Outpost: Infinity Siege / Team Ranger** | SKELETON：团队归属、职业前史与产品范围待核，不预设企业负例 |
 | [CASE-031](cases/CASE-031-jonas-tyroller.md) | **Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall** | 同一开发者跨三人、solo-core、两人团队的纵向方法审计：原型筛选、范围压缩、公开沟通与运气 |
 | [CASE-032](cases/CASE-032-pubg-brendan-greene.md) | **PLAYERUNKNOWN / Brendan Greene: DayZ Battle Royale → H1Z1 → PUBG** | `LINEAGE / TRANSITION CASE`：mod 规则发明与社区验证怎样先于商业职位，再被 SOE / Bluehole 放大成大型公司产品 |
@@ -98,6 +98,9 @@
 | [CASE-036](cases/CASE-036-manor-lords.md) | **Manor Lords / Slavic Magic** | solo core 与完整 production perimeter 的边界；grant、freelancer、QA 与 publisher 的分工 |
 | [CASE-037](cases/CASE-037-darkwood.md) | **Darkwood / Acid Wizard Studio** | paid contract bridge、crowdfunding gross→真实 runway、工期误判与 EA 延展 |
 | [CASE-038](cases/CASE-038-sultans-game.md) | **Sultan's Game / Double Cross** | 商业手游老兵在组织收缩后的能力迁移、scope/管理/world-model 重写与 human-cost 边界 |
+| [CASE-039](cases/CASE-039-gunfire-reborn.md) | **Gunfire Reborn / Duoyi Games Gunfire Studio** | `NON-INDIE PRODUCTION-FUNDAMENTALS COMPARATOR`：premium / Early Access、T9 高 ownership span 与 evidence-led escalation；公司内部资源和 T9 formative history 保持边界 |
+| [CASE-040](cases/CASE-040-tripwire-lineage.md) | **Tripwire / Red Orchestra → Killing Floor → Rising Storm** | `VALIDATION-LADDER / COMMUNITY-AS-PRODUCTION`：mod/community 先产生 playable 与 evidence，再公司化、商业化、吸收外部团队 |
+| [CASE-041](cases/CASE-041-next-synced.md) | **NExT Studios portfolio → SYNCED** | `CORPORATE-INNOVATION / REGIME-TRANSITION COMPARATOR`：比较早期小型 0→1 与大型 F2P/GaaS 的 resource escalation 与 error persistence |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。`Sultan's Game` 已升级为 CASE-038，但工作室所有权、旧投资关系和 publisher financing 仍待继续审计；Artless Games 保留为中国创作路径候选。
 
@@ -162,9 +165,9 @@
 
 截至 2026-10-06：
 
-- 38 个编号 Case 已建档，其中 35 个 RESEARCHING、3 个 SKELETON；
-- 38 个对应 Case Evidence Ledger 已建立；
-- 12 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 当前为 `SUPPORTED`；
+- 41 个编号 Case 已建档，其中 39 个 RESEARCHING、2 个 SKELETON；
+- 41 个对应 Case Evidence Ledger 已建立；
+- 14 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 / C014 当前为 `SUPPORTED`；C013 当前为 `WEAK`；
 - CASE-027–030 构成“中国生产制度候选组”；《中国式网游》已核官方开发自述，其余三个来源待恢复，不把候选解释视为已证正反例；
 - CASE-031 将 Jonas Tyroller 作为 longitudinal practitioner，持续检验同一开发者跨项目的方法复现、方法修正、市场接入与运气边界；
 - CASE-032 将 Brendan Greene / PLAYERUNKNOWN 作为 `LINEAGE / TRANSITION CASE`，区分 DayZ/Arma mod 的规则发明与社区验证、H1Z1 商业合作、Bluehole/PUBG 公司化放大；
