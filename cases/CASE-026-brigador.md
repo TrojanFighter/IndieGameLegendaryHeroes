@@ -3,7 +3,7 @@ type: case
 case_id: CASE-026
 status: RESEARCHING
 subject: Brigador / Stellar Jockeys
-related_claims: [C010]
+related_claims: [C010, C015]
 evidence_strength: MEDIUM
 explanatory_importance: CRITICAL
 narrative_value: HIGH
@@ -14,8 +14,9 @@ tags: [failure-comparator, self-funded, custom-engine, long-development, market-
 
 - Status: RESEARCHING — FAILURE COMPARATOR
 - Subject: Brigador / Stellar Jockeys
-- Related Claims: C010
+- Related Claims: C010, C015
 - Evidence Ledger: [`../evidence/CASE-026-brigador-source-ledger.md`](../evidence/CASE-026-brigador-source-ledger.md)
+- C015 role: `FIT-STRONG / LAUNCH-FAILED` counterpressure
 
 ## Why this case
 
@@ -205,6 +206,60 @@ Brigador 不能被纯粹放进任何一边。
 - 五年后才在 launch 时发现 audience expectation 问题，反馈回路过慢。
 
 因此这是 TC-002 “选择失败”目前最有价值的正式 Case 之一。
+
+## Capability–Project Fit Counterpressure — FIT-STRONG, LAUNCH-FAILED
+
+Brigador 现在可以承担 C015 最重要的一类反压力：
+
+> **能力反向立项可以非常强，但它不是商业成功的充分条件。**
+
+这不是事后从成品“看起来很适合团队”倒推。
+
+2015 年 Hugh Monahan 的同期访谈提供了更完整的行动链：
+
+- 团队在 Brigador 前已经做过多轮 student / hobby prototypes；
+- 到最终方向前约经历七个 prototype；
+- 他们最初做过 2D / four-player arena 方向，后来明确意识到团队本身并不喜欢这种游戏，于是放弃；
+- Hugh / Jack 的 taste 更偏 Crusader、MechWarrior、慢速、重量感、deliberate combat；
+- Dale Kim 的 Counter-Strike 背景直接进入 aiming thesis：瞄准应当是需要 precision 的 skill；
+- Jack 的 Ma.K. / kitbash 视觉兴趣不仅塑造 aesthetic，也被转成极高效率的 digital-kitbash asset pipeline；
+- 单艺术家管线之所以可行，不是“少做美术”，而是项目美学和资产生产方式被一起重写；
+- 传统线性叙事被弱化，世界观扩展被转移到 description、novel / audiobook；
+- soundtrack 等外围能力交给高度匹配的 specialist collaborator。
+
+这符合 C015 的核心路径：
+
+`existing taste / capability → project re-selection → production method → player-facing form`
+
+而且 fit 并不弱：
+
+- industrial-design / worldbuilding taste → bulky retro-future vehicles；
+- programmers → custom engine / destructibility / aiming；
+- single artist → kitbash / sprite-render pipeline；
+- specialist writer / musician → peripheralized narrative / music。
+
+但 2016 launch 仍然商业失败。
+
+因此 Brigador 对 C015 的意义不是反驳“能力反向立项存在”，而是反驳更强的成功学版本：
+
+> **FIT-STRONG ≠ MARKET-SUFFICIENT。**
+
+项目仍可能因为：
+- onboarding friction；
+- market legibility；
+- audience expectation；
+- attention concentration；
+- cost / market-size mismatch；
+- feedback-loop timing
+
+而失败。
+
+这也要求后续 Capability–Project Fit Audit 把两个问题分开：
+
+1. 这个项目是不是按团队能力塑形的？
+2. 这个塑形后的项目有没有足够市场、可读性和低摩擦入口？
+
+Brigador 对第一个问题接近 `FIT-STRONG`，对第二个问题的 2016 launch 答案却是否定的。
 
 ## Provisional Verdict
 
