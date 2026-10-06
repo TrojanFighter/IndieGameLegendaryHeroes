@@ -188,6 +188,27 @@ The First Tree 尤其作为首个示范：
 
 ---
 
+### 6.5. Success-side technical stop-condition audit
+
+有强技术能力并不自动构成 `FIT-TRAP`。对 deep-tech / programmer-led 项目，失败侧审计之后再问一组正向问题：
+
+- 这项技术投资关闭了哪个具体 player/product obligation？
+- 核心体验是否会因为这项技术而直接变得更强，而不只是 benchmark 更漂亮？
+- 团队是否提前定义了 `enough condition`？
+- 达到 enough 后，团队有没有真实停止，而不是立刻把目标改成下一个更高 benchmark？
+- 技术资产是否减少未来 content / QA / support / maintenance obligation，还是增加它们？
+- 玩家是否已有足够简单的替代解法，使新增 mechanic 的长期维护成本不再值得？
+- release closure 与 internal polish 冲突时，谁优先？
+- 团队是否有真实 cut / postpone / delete 的记录？
+
+暂称：
+
+> **TECHNICAL STOP CONDITION**
+
+它目前只是研究机制，不是新的 fit taxonomy 标签。
+
+CASE-055 Factorio 是第一锚点：Wube 在多人规模、已实现 mechanic、1.0 scope 三个不同层面都留下了“技术仍能继续，但产品已经不值得继续投入”的直接证据。
+
 ## Evidence Standard
 
 不能只根据成品倒推主创能力。
@@ -261,6 +282,7 @@ The First Tree 尤其作为首个示范：
 - **CASE-052 House House / Untitled Goose Game** — `GRANT / PUBLISHER EXPANSION`：public completion funding 直接增加 local developer/accessibility capability，publisher 再补 audio / platform / market periphery；用于拆 external capital 的不同 capability bundle。
 - **CASE-053 Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT** — `FIT-STRONG / LONGITUDINAL CAPABILITY ACCRETION`：不是新增 fit 标签，而是提醒 capability map 本身会随项目、职业工作、收入与外围协作变化。Kenny 从 Flash / jam / solo commercial artifact，经 Harmonix + weekend shipping、2016 主动搁置过大 Hatbox、2019 重启、Raw Fury release periphery，最终走到 BALL x PIT 的 first team-lead + specialist core；用于把静态的 `capability → project` 改写成可研究的 `project_t → capability_(t+1)`。
 - **CASE-054 Limit Theory / Josh Parnell** — `FIT-TRAP`：real-time rendering / engine 强项支撑 infinite procedural thesis，同时持续打开 custom engine、custom scripting、procedural simulation、economy/AI、modding、performance 与 rewrite 的技术投入面。2018 官方先宣告 2000+ ships / full AI 的 engine success、content/gameplay 尚在后面；取消时 creator 又明确记录 `far from feature completion` 且 engine 比 game code 更 solid。它是第一个真正独立/小团队内部的强 FIT-TRAP 锚点。
+- **CASE-055 Factorio / Wube** — `FIT-STRONG / TECHNICAL STOP CONDITION`（研究机制，非正式标签）：同样具备强 simulation / engine / optimization 能力，但多人 rewrite 做到远超目标后明确宣布 “enough”，并把工作转回核心 factory simulation；同时存在 feature deletion、1.0 public deadline 与 descoping 证据。用于与 CASE-054 区分“技术突破关闭产品义务”和“技术突破继续打开新义务”。
 - **《牛来》 / 信雨萌** — 跨媒介 comparator，不作为游戏 Case。公开访谈显示其从艺术景观背景转入动画、长期自学并以单人核心承担大量传统动画工序。研究重点不是嘲笑粗糙，而是区分：哪些成本被真正重新定义，哪些只是由五年个人劳动替代专业团队。
 
 ### Wave 2 — 优先补证对象
@@ -300,7 +322,7 @@ C015 只主张：
 
 - 已有 2 个 `CAPABILITY-SHAPED but commercially failed`（Brigador / The Magic Circle），后续重点转向失败类型分解；
 - 已有多种 capability expansion（The Witness / Outer Wilds / House House），仍缺 VC/equity 与真实 control-term 对照；
-- 已有 CASE-054 作为第一份强 `FIT-TRAP`；下一步重点不是机械补第二个，而是找成功的 deep-tech stop-condition 对照，验证何时能力会变成 trap；
+- CASE-054 Limit Theory + CASE-055 Factorio 已形成第一组 deep-tech failure/success pressure pair：前者 local engineering progress 与 product closure 脱钩，后者留下 multiplayer enough / feature deletion / release descoping 三类 stop-condition 证据；下一步再补一个非 Wube 成功样本，验证该机制能否泛化；
 - `CAPABILITY-COMPOSED` 与 `FIT-LOCK-IN` 各只有一个强锚点，需要第二样本；
 - 立项期证据而非成功后叙事；
 - 与资金、平台窗口、既有受众和 luck 的分离。
