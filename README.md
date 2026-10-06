@@ -131,6 +131,9 @@
 | [CASE-041](cases/CASE-041-next-synced.md) | **NExT Studios portfolio → SYNCED** | `CORPORATE-INNOVATION / REGIME-TRANSITION COMPARATOR`：比较早期小型 0→1 与大型 F2P/GaaS 的 resource escalation 与 error persistence |
 | [CASE-042](cases/CASE-042-the-first-tree.md) | **The First Tree / David Wehle** | Technical Artist / visual-first：能力强项怎样同时重写产品形态、资产生产与视觉型市场接口；2016–2017 tactics 按时效规则审计 |
 | [CASE-043](cases/CASE-043-everything-david-oreilly.md) | **Everything / David OReilly** | Animation-auteur / problem redefinition：抽象动画语言、procedural movement 与核心 programmer dyad 如何替代传统 animation obligation，同时制造新的 systems complexity |
+| [CASE-044](cases/CASE-044-garry-newman-sbox.md) | **Garry Newman / Garry's Mod → Rust → s&box** | modder→studio→creator-platform 的长期纵向样本；2026 launch 后 discovery、performance、UGC-quality 与定位压力提供 CURRENT 反压力 |
+| [CASE-045](cases/CASE-045-rimworld.md) | **RimWorld / Tynan Sylvester** | “story generator”作为 design thesis 如何控制 feature selection、strategic omission 与 simulation cost |
+| [CASE-046](cases/CASE-046-sandfall-expedition33.md) | **Sandfall / Clair Obscur: Expedition 33** | AAA 能力迁移 + <30 core + UE5/tool leverage + publisher/external production perimeter；拆解“30 人 AAA”神话 |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。`Sultan's Game` 已升级为 CASE-038，但工作室所有权、旧投资关系和 publisher financing 仍待继续审计；Artless Games 保留为中国创作路径候选。
 
