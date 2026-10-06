@@ -56,21 +56,83 @@ Chapter 不再问：
 
 > **一个本来能力很高的人，可能在哪里被学校、行业、成功经验和成熟评分器提前优化成了“上一版本的优秀执行者”？**
 
-当前研究入口：
+总路由：
+- [中国创作者约束三层图：教育 × 行业版本现状 × 社会版本意识](research-notes/china-creator-constraints-three-layer-map-018.md)
 
+### A. 教育｜你是否学会自己出题？
+
+主要研究：
+- learning ownership；
+- closed-domain → open-world transfer；
+- credential substitution；
+- artifact-first learning；
+- failure-as-information；
+- Selection Function Mismatch。
+
+入口：
+- [AC-008 中国好学生综合征](../author-corpus/AC-008-china-good-student-syndrome.md)；
 - [追赶成功、前范式创作者与问题主权](research-notes/china-catch-up-success-pre-paradigm-creator-016.md)；
+- [目标如何在生产中形成](research-notes/goal-formation-through-production-001.md)；
+- [从玩到生产](research-notes/play-to-production-fourth-industrial-revolution-001.md)。
+
+边界：
+> 不把“应试教育”直接等同于“低创造力”；研究的是外部评分器退出后，学习主权和问题定义是否完成迁移。
+
+### B. 行业版本现状｜你在解哪一版的题？
+
+主要研究：
+- production regime；
+- revenue / market interface；
+- Benchmark Meta Convergence；
+- exploration vs exploitation；
+- competency trap；
+- Production Capital vs Problem-Framing Capital；
+- error persistence；
+- demand/production lag；
+- 所有成功经验的年份与版本有效期。
+
+入口：
+- [AC-007 Benchmark 答案化与版本时滞](../author-corpus/AC-007-benchmark-meta-convergence.md)；
+- [中国结构性能力审计](research-notes/china-indie-structural-capability-audit-010.md)；
+- [五代玩家 × 四代从业者](research-notes/china-player-worker-generations-009.md)；
 - [领域性能力与需求侧评鉴资本](research-notes/domain-specific-capability-demand-evaluation-017.md)；
-- [中国独立/中小团队结构性能力审计](research-notes/china-indie-structural-capability-audit-010.md)；
-- [五代玩家 × 四代从业者](research-notes/china-player-worker-generations-009.md)。
+- Role-Origin、NExT、四案例 Production Fundamentals、Black Myth / Sultan 等现有压力测试。
 
-它主要追问：
+边界：
+> 大厂/商业游戏经验既可能留下可迁移能力资本，也可能留下旧 objective function；不能把“有大厂经验”或“没有大厂经验”直接当成创新力 proxy。
 
-- 什么能力在追赶阶段被高额奖励，接近前沿后却可能变成锁定；
-- Production Capital 为什么不能自动替代 Problem-Framing Capital；
-- 为什么独立开发中的前范式创作者常从现象和 prototype 出发，而不是从成熟 genre checklist 出发；
-- 为什么成熟消费者本身也是创新基础设施；
-- 为什么高评鉴资本既提高创新上限，也提高竞争压力和进入门槛；
-- 中国玩家 reference set 的变化是否正在快于旧生产制度的迁移。
+### C. 社会版本意识｜你有没有资格在成功前与众不同？
+
+主要研究：
+- Deviance Sanction；
+- Merit-Conditional Tolerance；
+- Winner's Amnesty；
+- Unproven Deviance Survival Time；
+- family/career expectation；
+- Success-Path Version Lock；
+- version-lagged life advice；
+- runway、再就业能力、关系支持与退出成本。
+
+入口：
+- [AC-006 偏离惩罚、成功者赦免](../author-corpus/AC-006-deviance-sanctions-and-winners-amnesty.md)；
+- [中国独立创作“三座大山”](../author-corpus/AC-004-china-three-mountains.md)；
+- [追赶成功、前范式创作者与问题主权](research-notes/china-catch-up-success-pre-paradigm-creator-016.md)。
+
+边界：
+> “春登”只允许作为成功路径版本锁定的 H-layer 工作标签；同一机制可以出现在年轻人、欧美 AAA 老兵或任何被旧成功高额奖励的人身上。
+
+### 三层合起来才是完整问题
+
+```text
+教育决定：
+你有没有形成 Problem Ownership
+
+行业决定：
+你的异质题目能不能得到 prototype / market validation
+
+社会决定：
+在结果出现之前，你能不能承担继续偏离的成本
+```
 
 这条线服务的是“人生性价比指南”的负面镜像：不仅写英雄怎么成功，也写**英雄可能怎样在出发之前就被合理地训练成另一种优秀。**
 
