@@ -75,6 +75,28 @@
 - Confidence: HIGH for official scope/credit statements
 - Boundary: dynamic FAQ does not reconstruct every external contributor or post-launch porting service.
 
+## E005 — Developer launch story: financial pressure forced EA, success then expanded scope again
+
+- Source class: P0/P1 — direct studio-authored retrospective published at launch
+- Title: We're afraid to play horror games, so we quit our jobs and made one... Here's our story
+- Author / Institution: AcidWizardStudio / Imgur
+- Published: 2017-08-25
+- Accessed: 2026-10-06
+- URL: https://imgur.com/a/xVhDz
+- Secondary source: official Steam announcement “Our story, a week after release”, 2017-08-25, https://store.steampowered.com/news/posts/?appids=274520&enddate=1503930286
+- Claim use:
+  - team explicitly describes itself as three college friends and reports more than four years of development;
+  - says inexperience led to major schedule overrun, scope expansion and late core-design changes;
+  - says the team was forced to enter Steam Early Access in 2014 for financial reasons;
+  - Early Access sold better than expected, after which the team expanded scope further rather than simply converging on release;
+  - repeated missed deadlines then created player frustration/abandonment fears;
+  - official launch-week Steam post says one week of full-release sales equaled roughly half the volume sold over three years of Early Access.
+- Confidence: HIGH for developer-described sequence
+- Boundary:
+  - this is a retrospective narrative and does not quantify the cash threshold that forced Early Access;
+  - strong Early Access reception both improved runway and encouraged further scope expansion, so EA should not be simplified as purely a stabilizing mechanism;
+  - launch-week/EA unit comparison is developer-reported, not audited revenue.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
@@ -84,13 +106,16 @@
 - crowdfunding exceeded its target but the team later judged its one-year development assumption badly wrong;
 - taxes, VAT, licenses, workspace, hardware and reward fulfillment materially reduced usable funds;
 - crowdfunding runway ended in under twelve months;
+- financial pressure pushed the project into Early Access;
+- Early Access improved runway/market validation but also coincided with renewed scope expansion, showing that new money can create new commitment rather than only reduce risk;
 - total development exceeded four years and Early Access lasted about three years;
 - multiplayer was deliberately excluded in favor of single-player focus.
 
 ### SUPPORTED / NEEDS MORE GRANULARITY
 
 - inexperience with long commercial production contributed to schedule/budget error;
-- Early Access functioned as runway extension as well as feedback/distribution;
+- Early Access functioned as runway extension, feedback/distribution and a possible scope-expansion trigger;
+- repeated schedule slips created a market-trust cost even while the product itself remained promising;
 - cultural specificity became a differentiating surface rather than merely a local-market constraint.
 
 ### PARTIAL / NEXT VERIFY
@@ -99,5 +124,5 @@
 - Early Access yearly revenue and burn;
 - complete contributor / porting / QA / localization perimeter;
 - founders' non-game professional backgrounds and transferable skills;
-- exact role of piracy/torrent release in market access;
+- exact role of the developer-released torrent/key-reseller controversy in market access;
 - Polish living-cost/institutional context.

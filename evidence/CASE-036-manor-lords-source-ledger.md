@@ -76,6 +76,25 @@
 - Confidence: HIGH
 - Boundary: this describes post-launch/current expansion and must not be projected backward onto early development.
 
+## E005 — Publisher CEO interview: Manor Lords already had 500k wishlists at signing
+
+- Source class: P1/S1 — direct publisher CEO interview in professional games press
+- Title: Manor Lords exposes the good and bad sides of Steam wishlists
+- Author / Institution: Ed Smith / PCGamesN; interviewee Tim Bender, Hooded Horse CEO
+- Published: 2024-05-18
+- Accessed: 2026-10-06
+- URL: https://www.pcgamesn.com/manor-lords/interview-hooded-horse-ceo
+- Claim use:
+  - Bender says Manor Lords already had about 500,000 Steam wishlists when Hooded Horse signed it;
+  - he explicitly says the game would have been a major success without the publisher, while arguing the publisher could enlarge that success;
+  - describes Hooded Horse's marketing labor as press handling, creator outreach, Discord/community work and repeated exposure to truthful gameplay rather than a single paid-hype event;
+  - distinguishes wishlist quantity from wishlist quality by asking how demand was acquired and how much gameplay information users had seen.
+- Confidence: HIGH for direct publisher testimony; MEDIUM-HIGH for causal interpretation
+- Boundary:
+  - publisher self-assessment cannot independently quantify its incremental sales contribution;
+  - 500k wishlists at signing establishes substantial pre-publisher demand but not the exact signing date, prior marketing spend or developer-side marketing effort;
+  - “would have been successful anyway” is counterfactual opinion, not measurable fact.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
@@ -84,20 +103,22 @@
 - early runway came from part-time freelance video work;
 - Patreon and Epic MegaGrant enabled full-time focus and professional outsourcing;
 - freelancers, assets, QA and publisher labor materially contributed;
-- publisher market-access labor was an explicit part of the system;
+- Manor Lords had already accumulated substantial market demand before Hooded Horse entered, with the publisher CEO placing signing at roughly 500k wishlists;
+- publisher market-access labor was an explicit part of the later system;
 - organization expanded after Early Access success.
 
 ### SUPPORTED / NEEDS MORE GRANULARITY
 
 - non-dilutive funding had unusually high leverage because it converted author time and specialist perimeter simultaneously;
 - retaining a one-person permanent core preserved authorial consistency while outsourcing narrow production functions;
-- Hooded Horse materially improved market access, though exact causal magnitude is unknown.
+- Hooded Horse amplified an already validated project rather than manufacturing demand from zero, though exact causal magnitude remains unknown;
+- wishlist provenance and player information quality mattered to the publisher's confidence, not only raw count.
 
 ### PARTIAL / NEXT VERIFY
 
 - Patreon/MegaGrant amounts and timing;
 - complete credits/contributor map by milestone;
-- signing date and wishlist count when Hooded Horse entered;
+- exact Hooded Horse signing date and contract terms;
 - publisher financial terms;
 - annual development burn and Greg's personal opportunity cost;
 - Polish cost-of-living/environment variables.
