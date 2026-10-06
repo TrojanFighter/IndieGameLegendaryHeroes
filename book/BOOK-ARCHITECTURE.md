@@ -50,6 +50,30 @@ Chapter 不再问：
 
 章节顺序不是“成功方法步骤”，而是一条人通常会经历的生命链。
 
+## 横向问题簇 — 英雄为什么没有出发
+
+这不是新增一套“国民性章节”，而是一条贯穿全书的创作者反向审计线：
+
+> **一个本来能力很高的人，可能在哪里被学校、行业、成功经验和成熟评分器提前优化成了“上一版本的优秀执行者”？**
+
+当前研究入口：
+
+- [追赶成功、前范式创作者与问题主权](research-notes/china-catch-up-success-pre-paradigm-creator-016.md)；
+- [领域性能力与需求侧评鉴资本](research-notes/domain-specific-capability-demand-evaluation-017.md)；
+- [中国独立/中小团队结构性能力审计](research-notes/china-indie-structural-capability-audit-010.md)；
+- [五代玩家 × 四代从业者](research-notes/china-player-worker-generations-009.md)。
+
+它主要追问：
+
+- 什么能力在追赶阶段被高额奖励，接近前沿后却可能变成锁定；
+- Production Capital 为什么不能自动替代 Problem-Framing Capital；
+- 为什么独立开发中的前范式创作者常从现象和 prototype 出发，而不是从成熟 genre checklist 出发；
+- 为什么成熟消费者本身也是创新基础设施；
+- 为什么高评鉴资本既提高创新上限，也提高竞争压力和进入门槛；
+- 中国玩家 reference set 的变化是否正在快于旧生产制度的迁移。
+
+这条线服务的是“人生性价比指南”的负面镜像：不仅写英雄怎么成功，也写**英雄可能怎样在出发之前就被合理地训练成另一种优秀。**
+
 ## Part I — 目标不是先想明白的
 
 核心问题：
