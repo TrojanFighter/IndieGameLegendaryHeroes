@@ -1,7 +1,7 @@
 # Case Backlog — 历史语料与深度研究案例池
 
 - Status: ACTIVE
-- Last updated: 2026-10-05
+- Last updated: 2026-10-06
 
 本表用于回答一个治理问题：**我们过去已经用过哪些案例，它们当时被用来证明什么，现在有没有资格升级为正式 Case？**
 
@@ -47,6 +47,7 @@
 | CASE-029 | Boundary / Surgical Scalpels Studio | CHAT-RESEARCH + COMPARATOR | SKELETON；平台与发行方停服公告已核，组织、融资与争议归责待核 |
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | CHAT-RESEARCH + COMPARATOR | SKELETON；团队归属、职业前史与生产制度解释待原文证据 |
 | CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | CHAT-RESEARCH + EXTERNAL-VERIFIED | 同一开发者跨三人协作、solo-core、两人团队的纵向样本；检验原型筛选、fantasy compression、能力积累、市场接入与方法自我修正 |
+| CASE-042 | The First Tree / David Wehle | CHAT-RESEARCH + EXTERNAL-VERIFIED | Technical Artist / visual-first 能力如何通过 short scope、licensed assets、environment storytelling 与 market surface 共同塑造项目；2016–2017 社媒路径按 Temporal Validity 审计 |
 
 ## 下一批优先正式化 / 深挖
 
@@ -83,13 +84,12 @@ CASE-027–031 已登记，下一新编号从 CASE-032 起。下一轮从下方 
 - `Problem Redefinition`：昂贵问题被重新定义，根本不再需要按行业标准解决；
 - `Capability Leverage`：项目核心体验、视觉、技术或传播面直接放大主创既有强项。
 
-#### 强候选：The First Tree / David Wehle
+#### 已升级：The First Tree / David Wehle → CASE-042
 
-- **Observed window: 2016–2019；2026 transfer status: CONDITIONAL。** visual-first / technical-art → product shape 的结构值得继续核验，但 Reddit / Imgur / Tumblr / Twitter 等当时传播生态不得直接写成 2026 tactic。
-- P0/P1 起点：[GDC 2019 — No Time, No Budget, No Problem: Finishing 'The First Tree'](https://gdcvault.com/play/1026455/No-Time-No-Budget-No)；David 自述当时在 The VOID 全职工作、同时养育孩子，只能在极有限时间内完成个人项目。
-- David 后来自述自己 coding 很弱、自学 art/design，并凭前作进入 The VOID 做 Unity technical artist。这里的研究价值不是“不会代码也能成功”，而是检查**技术美术/视觉表达强项是否直接决定了产品问题形态**。
-- 待核链：短时长探索游戏、购买/改造现成资产、鲜明狐狸/森林配色、为截图/GIF 提供极强 visual hook，以及长期通过 Reddit / Imgur / Tumblr / Twitter 等短视觉内容做 top-of-funnel。需要区分哪些是立项时设计，哪些是中途发现营销有效后强化。
-- 如果成立，它是非常典型的 `能力偏科 → 项目形态 → marketing surface` 三者耦合，而不是“solo dev 把正常 3D 游戏缩小”。
+- 已正式化为 [CASE-042](CASE-042-the-first-tree.md)，来源账本见 [Evidence Ledger](../evidence/CASE-042-the-first-tree-source-ledger.md)。
+- 关键新证据不是只靠 2019 GDC 回忆：2016 年开发中本人已明确写自己是 The VOID technical artist，并同期解释 short/simple scope、licensed assets、environment design / storytelling / UX 等能力边界；2017 launch-period 文章继续记录 GIF / Reddit / PAX / Steam Direct market interface。
+- 因此本案可以正式承担 `visual / technical-art capability → product shape → production model → market surface` 的第一锚点。
+- 仍未解决：家庭 burn / spouse support、完整 licensed-content accounting、各 social surface 对销量的独立 causal weight，以及 visual-first 是立项前明确策略还是传播反馈中强化出来。
 
 #### 强候选：Everything / David OReilly
 
