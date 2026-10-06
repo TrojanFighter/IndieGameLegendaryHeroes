@@ -80,8 +80,22 @@
   - 不证明其此前任职公司、岗位、年限或参与项目；
   - 不说明 648 工作室完整 production perimeter。
 
+## E006 — Firsthand personal communication：此前任凉屋游戏程序岗位
+
+- Source class: P0 / firsthand personal communication, non-public。
+- Source description: 研究贡献者报告曾直接向刘永涛本人询问；刘永涛本人确认此前曾任凉屋游戏程序岗位。
+- Recorded: 2026-10-06。
+- Public URL: NONE。
+- Claim use:
+  - 支持“刘永涛此前曾任凉屋游戏程序岗位”这一有限职业履历事实。
+- Confidence: HIGH as direct subject testimony。
+- Boundary:
+  - 普通读者无法通过公开 URL 独立复核，引用时必须保留 personal communication provenance；
+  - 不证明具体任职年份、参与项目、职级、是否承担制作人/策划职责、离职原因；
+  - 若未来出现公开采访、credits 或履历，应追加公开 corroboration，而不是把本条改写成公开网页证据。
+
 ## Unresolved evidence gap — prior industry career
 
-截至 2026-10-06，制作人实名“刘永涛”已由 E005 公开资料核定；立项前任职公司、岗位、年限、参与项目与职责边界仍缺少可公开复核的完整来源。
+截至 2026-10-06，制作人实名“刘永涛”已由 E005 公开资料核定；E006 以当事人直接个人通信确认其此前曾任凉屋游戏程序岗位。具体任职年份、参与项目、职级与职责边界仍缺少可公开复核的完整来源。
 
 因此制作人身份不再是 UNKNOWN，但此前职业履历仍不能仅凭作品题材或私人线索写成公开已核事实。产品对中国网游的熟悉度可以支持“领域知识很深”，不能替代完整职业履历证据。
