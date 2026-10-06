@@ -2,11 +2,6 @@
 
 © 2026 洪荒行者。All Rights Reserved.
 
-> 对应研究档案：[`CASE-016 — Early id Software`](../../cases/CASE-016-early-id-software.md)  
-> 证据账本：[`CASE-016 Evidence Ledger`](../../evidence/CASE-016-early-id-software-source-ledger.md)  
-> 人生岔路审计：[`DOOM Life Crossroads Audit 001`](../research-notes/doom-life-crossroads-001.md)  
-> 当前研究状态：**RESEARCHING**。本文是 reader-layer 叙事稿，争议事实继续以 Case / Evidence 为准。
-
 如果只看结果，John Carmack 和 John Romero 的故事很容易变成一种最俗的天才传说。
 
 两个年轻人。
@@ -705,3 +700,15 @@ Softdisk 既限制他们，也训练他们、给他们工资、机器和高频 s
 一个人的一生不是一个成功项目。
 
 **成功只是把他送到下一道没有标准答案的题目前。**
+
+
+---
+
+## 研究与证据入口
+
+这篇人物叙事来自仍在持续审计的研究后台；争议事实与精确边界以后台最新版为准。
+
+- [CASE-016 — Early id Software](../../cases/CASE-016-early-id-software.md)
+- [CASE-016 Evidence Ledger](../../evidence/CASE-016-early-id-software-source-ledger.md)
+- [DOOM Life Crossroads Audit 001](../research-notes/doom-life-crossroads-001.md)
+- 当前研究状态：**RESEARCHING**
