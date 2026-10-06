@@ -91,6 +91,7 @@ Nomada 的关键不是“Conrad Roset 画得好”，而是：
 - [CASE-018 RollerCoaster Tycoon / Chris Sawyer](../cases/CASE-018-rollercoaster-tycoon.md) — 极端工程熟练度、长期代码资本与 OPC 上限；
 - [CASE-035 Factorio / Wube](../cases/CASE-035-factorio-wube.md) — 程序能力 + 系统型产品 + paid-alpha feedback loop；
 - [CASE-051 Zachtronics / Zach Barth](../cases/CASE-051-zachtronics.md) — 把 engineering literacy 直接做成玩家语言，并观察长期成功的 fit 如何反过来形成 `FIT-LOCK-IN`。
+- [CASE-053 Kenny Sun / Circa Infinity → BALL x PIT](../cases/CASE-053-kenny-sun.md) — 如果你的问题不是“程序员最适合做什么”，而是“怎样让今天的程序能力经过连续出货，逐步长成 generalist / author / team-lead capability”，优先看这个纵向样本。
 
 **观察窗口：** 1990s–2010s。  
 **2026 状态：**
@@ -106,6 +107,8 @@ Zachtronics 更值得学的是：
 同时要警惕：同一类 fit 长期成功后，工具、团队、品牌和受众会形成路径依赖；“最擅长做什么”也可能变成“很难再做别的什么”。
 
 先看 [Capability Trap / FIT-LOCK-IN](../schemas/capability-project-fit-audit.md)。
+
+Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签当终身能力边界。`Circa Infinity → Harmonix + weekend indie → Hatbox → BALL x PIT` 显示，项目本身也能成为下一轮能力资本。这里值得学的不是“多学几门技能”，而是**用一连串可完成项目不断移动自己的 production frontier**。
 
 ---
 
