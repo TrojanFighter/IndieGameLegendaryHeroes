@@ -69,7 +69,7 @@
 - Class: P0/P1 — official conference session by core artist
 - Title: The Art of The Witness
 - Author / Institution: Luis Antonio / GDC
-- Published: 2014
+- Published: UNKNOWN (GDC 2014 session)
 - Accessed: 2026-10-07
 - URL: https://www.gdcvault.com/play/1020552/The-Art-of-The
 - Claim use: official session frames the visual landscape as a gameplay-supporting design problem and explicitly documents work with architects and landscape designers.
