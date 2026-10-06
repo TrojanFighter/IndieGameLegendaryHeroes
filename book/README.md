@@ -40,6 +40,14 @@ FTL、Kenshi、Psyonix 走了三条完全不同的路，却都在回答同一件
 
 Rocket League 和 Bills Must Be Paid 说明，失败不会自动变成“经验”。真正重要的是有没有留下下一次还能带走的能力、工具、领域知识、平台知识和判断。
 
+### Part IV — 技术时代不会替你做选择
+
+> **别人有了新技术是不是就无所不能？如果我没赶上第一波，是不是已经晚了？**
+
+[第四章：技术时代不会替你做选择——有人用现成工具，有人重组平台，有人自己造出窗口](chapters/04-technology-will-not-choose-for-you.md)
+
+Tom Francis、Brendan Greene 和 John Carmack 分别代表三种不同技术位置：继承已经扩散的工具、重组已有 substrate、以及自己推进 frontier。技术会改变可行解，但不会替创作者完成选择。
+
 ---
 
 ## 接下来会写什么
