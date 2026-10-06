@@ -83,9 +83,12 @@
 ## E006 — Firsthand personal communication：此前任凉屋游戏程序岗位
 
 - Source class: P0 / firsthand personal communication, non-public。
+- Title: 刘永涛对其此前凉屋游戏程序岗位的直接确认。
+- Author / Institution: 刘永涛 / research contributor。
+- Published: UNKNOWN（non-public personal communication）。
+- Accessed: 2026-10-06。
+- Locator: PERSONAL COMMUNICATION — non-public; retained by research contributor。
 - Source description: 研究贡献者报告曾直接向刘永涛本人询问；刘永涛本人确认此前曾任凉屋游戏程序岗位。
-- Recorded: 2026-10-06。
-- Public URL: NONE。
 - Claim use:
   - 支持“刘永涛此前曾任凉屋游戏程序岗位”这一有限职业履历事实。
 - Confidence: HIGH as direct subject testimony。
