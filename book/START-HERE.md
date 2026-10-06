@@ -14,14 +14,26 @@
 
 如果你只是想读故事，从下面选一个和你现在最接近的问题开始。
 
+如果你更愿意像读一本书一样顺序读，目前已经有三篇跨人物章节：
+
+1. [目标不是先想清楚的](chapters/01-goals-are-made-not-found.md)
+2. [先买几个月试错](chapters/02-buy-time-before-betting-your-life.md)
+3. [失败不是资产](chapters/03-failure-only-matters-if-something-survives.md)
+
+完整章节目录见 [Chapters](chapters/README.md)。
+
 ---
 
 ## 我现在根本不知道自己以后要做什么
 
-先读：
+先读跨人物章节：
 
-- [《DOOM启示录》：游戏少年怎样把兴趣变成工具、公司和一个新行业](profiles/early-id-doom.md)
-- [《品味决定命运：Gunpoint 的 Tom Francis》](profiles/gunpoint.md)
+- [目标不是先想清楚的：先做一点，现实才开始回答你是谁](chapters/01-goals-are-made-not-found.md)
+
+再读人物全文：
+
+- [early id / DOOM](profiles/early-id-doom.md)
+- [Gunpoint / Tom Francis](profiles/gunpoint.md)
 
 这两篇共同反对一种很常见的倒写：
 
@@ -71,9 +83,13 @@ Romero、Carmack、Tom Francis 真正值得看的地方，是目标怎样在 **�
 
 ## 我很想辞职做自己的东西，但怕一押就是几年
 
-先读：
+先读跨人物章节：
 
-- [FTL：不是先赌上一切，而是先买几个月试错](profiles/ftl.md)
+- [先买几个月试错：做自己的事之前，先解决谁替你付时间](chapters/02-buy-time-before-betting-your-life.md)
+
+再读人物全文：
+
+- [FTL](profiles/ftl.md)
 - [early id / DOOM](profiles/early-id-doom.md)
 
 FTL 最值得看的不是 Kickstarter 募了多少钱，而是 Kickstarter **之前**：
@@ -98,10 +114,14 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 ## 我没有很多钱，甚至必须一边活着一边做
 
-先读：
+先读跨人物章节：
 
-- [Kenshi：夜班保安如何把时间变成一间工作室](profiles/kenshi.md)
-- [Rocket League：一家公司怎样靠替别人做游戏，养出自己的游戏](profiles/rocket-league.md)
+- [先买几个月试错](chapters/02-buy-time-before-betting-your-life.md)
+
+再读人物全文：
+
+- [Kenshi](profiles/kenshi.md)
+- [Rocket League](profiles/rocket-league.md)
 - [FTL](profiles/ftl.md)
 
 三条路线完全不同：
@@ -122,9 +142,13 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 ## 我已经失败很多次了，是不是说明我不适合做这件事
 
-先读：
+先读跨人物章节：
 
-- [Bills Must Be Paid：七个月爆款之前，是七年和一百个原型](profiles/bills-must-be-paid.md)
+- [失败不是资产：只有留下下一次还能使用的东西，失败才开始值钱](chapters/03-failure-only-matters-if-something-survives.md)
+
+再读人物全文：
+
+- [Bills Must Be Paid](profiles/bills-must-be-paid.md)
 - [Rocket League](profiles/rocket-league.md)
 
 失败当然可能只是失败。
