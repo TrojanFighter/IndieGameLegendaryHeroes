@@ -78,7 +78,8 @@
 
 - `CAPABILITY-SHAPED`：立项 / 早期定义已经明确围绕主创强项与弱项塑形；
 - `CAPABILITY-ADAPTED`：项目先存在，开发中才因能力/成本约束被大幅改写；
-- `CAPABILITY-EXPANDED`：项目核心愿景先存在，缺失能力不是被删除，而是通过 retained earnings、publisher、融资、招聘或 specialist periphery 被主动补齐。继续拆成：`SELF-FINANCED EXPANSION`（如 CASE-047）与 `EXTERNAL-CAPITAL EXPANSION`（如 CASE-049），因为 control / stakeholder cost 不同；
+- `CAPABILITY-COMPOSED`：项目 thesis 已有雏形，founding team 通过互补 cofounder capability 被重新组成；成本主要不是工资，而是 equity / authorship / control sharing（如 CASE-050）；
+- `CAPABILITY-EXPANDED`：项目核心愿景先存在，缺失能力不是被删除，而是通过 retained earnings、publisher、融资、招聘或 specialist periphery 被主动补齐。继续拆成：`SELF-FINANCED EXPANSION`（如 CASE-047）、`EXTERNAL-CAPITAL EXPANSION`（如 CASE-049）与 `GRANT / NON-DILUTIVE EXPANSION`（如 CASE-052）；
 - `LABOR-COMPRESSED`：项目基本保留行业标准问题，只由更少的人硬扛；
 - `UNKNOWN`：没有足够立项期证据。
 
@@ -161,6 +162,8 @@ The First Tree 尤其作为首个示范：
 再加一组 **capability acquisition** 问题：
 
 - 缺失能力是被删除、抽象，还是被购买？
+- 缺失能力是通过 cofounder / employee / contractor / publisher service / grant-funded specialist 哪一种关系进入？
+- 如果是 cofounder，支付的不是现金而是哪些 equity / authorship / veto / long-term dependency？
 - 谁支付招聘 / contractor / specialist 的现金成本？
 - 资本来自 prior hit、publisher、VC、grant、work-for-hire 还是家庭资产？
 - 资本是否带来 ownership / approval / milestone / recoup 等 control obligation？
@@ -227,7 +230,12 @@ The First Tree 尤其作为首个示范：
 - `FIT-WEAK`：项目系统性要求团队补齐昂贵弱项；
 - `FIT-EXPANDED`：项目本身不贴合 founder 当前能力，但团队有意识地用资本/招聘/外围扩张能力集合，并保留核心产品 thesis；
 - `FIT-TRAP`：强项反而诱发不必要复杂度 / 固定成本 / feature accumulation；
+- `FIT-COMPOSED`：核心项目通过互补 founding team 形成可执行 capability set；
 - `UNKNOWN`：缺少立项期证据。
+
+另设一个**纵向 overlay**，不与上述 fit score 互斥：
+
+- `FIT-LOCK-IN`：长期成功的 capability–project match 沉淀为工具、品牌、受众、团队流程与身份，使继续做同类项目更便宜、转型却更昂贵。CASE-051 Zachtronics 是第一锚点。
 
 这些标签目前只用于人读审计，不进入 `metadata/cases.json`，避免在跨案例证据不足时过早固化分类。
 
@@ -248,6 +256,9 @@ The First Tree 尤其作为首个示范：
 - **CASE-047 The Witness** — `FIT-EXPANDED / CAPABILITY-EXPANDED`：Blow 没有把项目削成只需要自己会的东西，而是用 Braid retained earnings 购买 art / architecture / landscape / specialist capability；用于审计“资本让 capability set 追上 project thesis”的另一条路线。
 - **CASE-048 The Magic Circle** — 第二份 `FIT-STRONG / MARKET-FAILED`：creator capability、题材与 mechanic 高度耦合，但商业仍不可持续；用于强制把 `Creator–Project Fit` 与 `Project–Market Selection` 分开。
 - **CASE-049 Outer Wilds** — `FIT-EXPANDED / EXTERNAL-CAPITAL`：学生 thesis 先产生 playable/design evidence，再由 Mobius/Fig/publisher/platform 资金扩张团队与 production perimeter；用于比较 founder-owned capital 与 external capital 的 stakeholder/control surface。
+- **CASE-050 Nomada / GRIS → Neva** — `FIT-COMPOSED / CAPABILITY-COMPOSED`：visual-author thesis 先出现，再由 artist + AAA programmers 组成互补 founding capability；研究 cofounder equity/authorship 与普通 hiring 的不同成本。
+- **CASE-051 Zachtronics** — `FIT-STRONG + FIT-LOCK-IN`：engineering literacy 长期变成产品语言、niche audience 与 production system，同时 creator 明确报告难以做出不像 Zachtronics 的作品。
+- **CASE-052 House House / Untitled Goose Game** — `GRANT / PUBLISHER EXPANSION`：public completion funding 直接增加 local developer/accessibility capability，publisher 再补 audio / platform / market periphery；用于拆 external capital 的不同 capability bundle。
 - **《牛来》 / 信雨萌** — 跨媒介 comparator，不作为游戏 Case。公开访谈显示其从艺术景观背景转入动画、长期自学并以单人核心承担大量传统动画工序。研究重点不是嘲笑粗糙，而是区分：哪些成本被真正重新定义，哪些只是由五年个人劳动替代专业团队。
 
 ### Wave 2 — 优先补证对象
@@ -285,8 +296,9 @@ C015 只主张：
 
 更强的普遍命题——例如“高效率独立项目通常由能力反向立项产生”——仍未成立。要升级到这种强度，仍需：
 
-- 2 个以上 `CAPABILITY-SHAPED but commercially failed`；
-- 至少 1 个 `CAPABILITY-MISMATCH but succeeded via hiring/capital`；
-- 至少 1 个 `FIT-TRAP`；
+- 已有 2 个 `CAPABILITY-SHAPED but commercially failed`（Brigador / The Magic Circle），后续重点转向失败类型分解；
+- 已有多种 capability expansion（The Witness / Outer Wilds / House House），仍缺 VC/equity 与真实 control-term 对照；
+- 仍至少缺 1 个强 `FIT-TRAP`；
+- `CAPABILITY-COMPOSED` 与 `FIT-LOCK-IN` 各只有一个强锚点，需要第二样本；
 - 立项期证据而非成功后叙事；
 - 与资金、平台窗口、既有受众和 luck 的分离。

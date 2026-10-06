@@ -148,7 +148,7 @@ Gunpoint 的 Crosslink explanation video 也是典型。
 
 这也是为什么“招一个策划，照爆款做个小号版本”经常完全错过独立游戏的生产逻辑。
 
-## 四个边界锚点：两种 FIT-STRONG 失败 + 两种 CAPABILITY-EXPANDED
+## 七个结构锚点：两种 FIT-STRONG 失败 + 三种能力扩张 + CAPABILITY-COMPOSED + FIT-LOCK-IN
 
 ### Brigador：FIT-STRONG 也会死
 
@@ -237,6 +237,86 @@ Outer Wilds 的具体合同权力仍 UNKNOWN，所以不能推出“publisher �
 - `SELF-FINANCED EXPANSION`；
 - `EXTERNAL-CAPITAL EXPANSION`。
 
+### Nomada / GRIS：有时要重新组成“人”，而不是改项目或扩编
+
+CASE-050 提供第三种 formation direction：`CAPABILITY-COMPOSED`。
+
+GRIS 的 visual thesis 先于 Nomada Studio；Roset 有强 visual-author capability，但没有完整 game-development capability；Cuevas / Mendoza 有 AAA programming / production capability，却缺 Roset 那种视觉作者性。
+
+所以不是：
+- 一个人补齐所有短板；
+- 后期花钱雇完整团队；
+- 把 project 缩成一个人会做的东西。
+
+而是：
+
+> **让互补的人在 founding stage 共同组成一个新的 capability vector。**
+
+这不是“免费补能力”。cofounder capability 的价格通常不是 salary，而是：
+- equity；
+- authorship；
+- control sharing；
+- veto / governance；
+- long-term relationship dependency。
+
+所以以后问“缺能力怎么办”，至少要区分：hire、contract、publisher service、cofounder。
+
+### Zachtronics：最适合自己的项目，也可能变成路径依赖
+
+CASE-051 把 C015 从单作 fit 推进到纵向组织问题。
+
+Barth 长期把 engineering / programming / problem-solving literacy 直接变成游戏题材和 mechanic。TIS-100 甚至提供很强的 contemporaneous shape-by-constraint：一个 art/content burden 更高的项目被放弃，只保留 assembly/system core，最后长成独立产品。
+
+但到 2022，Barth 又明确说：
+> 团队已经非常擅长做 Zachtronics games，却越来越难做别的。
+
+因此加入纵向 overlay：
+
+> **FIT-LOCK-IN / Capability Path Dependence**
+
+长期强 fit 会沉淀：
+- tools；
+- team routines；
+- brand；
+- audience；
+- creator identity；
+- market expectation。
+
+这些资产让下一款同类项目更便宜、更容易被市场理解；也让转型变得更贵。
+
+所以“找到最适合自己的项目”不是终点，还要问：
+> **这个 fit 是复利资产，还是正在变成局部最优？**
+
+### House House：grant 与 publisher 都是外部钱，但不是同一种钱
+
+CASE-052 补上 `GRANT / NON-DILUTIVE EXPANSION`。
+
+Film Victoria 的 development / completion support 买到的是：
+- 更长 development time；
+- product refinement；
+- partner-negotiation position；
+- local specialist hiring；
+- accessibility capability。
+
+Panic publisher periphery 买到/提供的是：
+- sound / music；
+- platform/release operations；
+- event / PAX presence；
+- business / distribution；
+- market access。
+
+于是 external capital 必须写成：
+
+> **source × capability purchased × governance cost**
+
+而不是笼统写“融资”。
+
+House House 更重要的纵向结果是：
+
+`grant + publisher support → shipped hit → retained earnings → next-project risk tolerance`
+
+到 Big Walk 阶段，团队已经拥有可以承受下一作不成功的 self-funded buffer。也就是说，一轮外部支持如果转化成功，最终可以减少下一轮对外部资本的依赖。
+
 ## 更大的统一模型
 
 因此“能力反向立项”不应被误写成：
@@ -244,21 +324,29 @@ Outer Wilds 的具体合同权力仍 UNKNOWN，所以不能推出“publisher �
 
 更完整的是：
 
-> **作者在 project requirements 与 capability supply 两侧之间主动求解。**
+> **作者在 project requirements、founding-team composition、capability supply 与 capital source 之间主动求解。**
 
 低资本条件下，通常更多移动 project requirements：
 
 `Capability-Shaped`
 
-高资本 / 高 decision-rights 条件下，可以更多移动 capability supply：
+项目 thesis 已经值得保留、但 founding capability 不完整时，可以移动 founding-team composition：
+
+`Capability-Composed`
+
+资本 / recruiting power 足够时，可以移动 capability supply：
 
 `Capability-Expanded`
+
+而 capability expansion 还必须继续拆 capital source：`self-financed / external-stack / grant-non-dilutive / VC-equity ...`
 
 最危险的是两边都不动：
 
 > project requirements 很高，但 capability 既不删除也不购买，只靠更长工时硬扛。
 
 这更接近 `Labor Compression / Capability Mismatch`。
+
+另外还要沿时间轴问：当前 fit 是否正在沉淀成 `FIT-LOCK-IN`。因此项目—能力适配既是**立项时的横截面问题**，也是**工作室长期演化问题**。
 
 ## 下一步检验
 
@@ -267,6 +355,8 @@ C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 下一步重点不是继续找英雄，而是找反例：
 
 1. Brigador + The Magic Circle 已形成两份结构不同的 `FIT-STRONG / MARKET-FAILED`；下一步比较失败究竟发生在 onboarding、category legibility、audience size、timing 还是 cost structure，而不是机械增加失败者。
-2. The Witness + Outer Wilds 已形成 `SELF-FINANCED` 与 `EXTERNAL-CAPITAL` 两种 `CAPABILITY-EXPANDED`；下一步优先补 VC / grant 路径，并核可观察的 decision-rights / milestone / recoup 变量。
-3. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
-4. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。
+2. The Witness + Outer Wilds + House House 已覆盖 `SELF-FINANCED / EXTERNAL-STACK / GRANT+PUBLISHER`；下一步只重点补 **VC/equity-financed** expansion 与真实 decision-rights / milestone / recoup 条款。
+3. Nomada 已建立第一份 `CAPABILITY-COMPOSED`；下一步找 complementary-founder 失败/解体压力样本。
+4. Zachtronics 已建立第一份 `FIT-LOCK-IN`；下一步找第二个长期工作室样本。
+5. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
+6. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。

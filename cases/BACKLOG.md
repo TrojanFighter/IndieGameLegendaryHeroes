@@ -55,10 +55,13 @@
 | CASE-047 | The Witness / Jonathan Blow | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | prior-hit retained earnings 购买 capability expansion：small core + art / architecture / landscape / specialist periphery；检验 C015 的 `CAPABILITY-EXPANDED` 边界和 C014 的高前置承诺成功反压力 |
 | CASE-048 | The Magic Circle / Question | CHAT-RESEARCH + EXTERNAL-VERIFIED + FAILURE PRESSURE | immersive-sim/AAA 能力与题材/AI mechanic 高度耦合但商业不可持续；第二份 C015 `FIT-STRONG / MARKET-FAILED` |
 | CASE-049 | Outer Wilds / Mobius Digital | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | student thesis + playable evidence 经 studio/Fig/publisher/platform 资金扩张为完整团队；第一份 external-capital `CAPABILITY-EXPANDED` 正式对照 |
+| CASE-050 | Nomada Studio / GRIS → Neva | CHAT-RESEARCH + EXTERNAL-VERIFIED | `CAPABILITY-COMPOSED`：visual thesis 先出现，再由 artist + AAA programmer cofounders 组成互补 founding capability；长期看 GRIS→Neva 如何扩 mechanics vocabulary |
+| CASE-051 | Zachtronics / Zach Barth | CHAT-RESEARCH + EXTERNAL-VERIFIED + LONGITUDINAL PRESSURE | programmer/engineering-author 把技术认知做成产品语言；同时建立 `FIT-LOCK-IN / CAPABILITY PATH DEPENDENCE` 第一锚点 |
+| CASE-052 | House House / Untitled Goose Game → Big Walk | CHAT-RESEARCH + EXTERNAL-VERIFIED | Film Victoria grant + Panic publisher periphery → Goose hit → retained-earnings optionality；第一份清晰 grant-financed capability expansion 纵向 |
 
 ## 下一批优先正式化 / 深挖
 
-CASE-027–049 已登记；下一新编号从 CASE-050 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
+CASE-027–052 已登记；下一新编号从 CASE-053 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
 3. 是否提供当前 31 个档案还没有覆盖的生产结构。
@@ -128,7 +131,7 @@ CASE-027–049 已登记；下一新编号从 CASE-050 起。下一轮从下方 
 - `CASE-026 Brigador` — 强技术/美术执行为何没有自动转化为 onboarding / market legibility；
 - `CASE-031 Jonas Tyroller` — Game Design 教育、多原型经验、公共表达能力如何塑造项目筛选与 fantasy compression。
 
-这条线已新增正式 [C015 — Capability-Shaped Project Formation / 能力反向立项](../claims/C015-capability-shaped-project-formation.md)。当前状态为 SUPPORTED，但它只主张“这是一种可观察的作者型立项技术”，**不主张普遍成功率优势**。当前已补 Brigador + The Magic Circle 两份结构不同的 `FIT-STRONG / MARKET-FAILED`，并补 The Witness + Outer Wilds 两种 `CAPABILITY-EXPANDED`；下一步转向比较 publisher/VC/grant 不同资本来源的 control cost，而不是继续单纯增加赢家。
+这条线已新增正式 [C015 — Capability-Shaped Project Formation / 能力反向立项](../claims/C015-capability-shaped-project-formation.md)。当前状态为 SUPPORTED，但它只主张“这是一种可观察的作者型立项技术”，**不主张普遍成功率优势**。当前已补 Brigador + The Magic Circle 两份结构不同的 `FIT-STRONG / MARKET-FAILED`；The Witness / Outer Wilds / House House 已覆盖 founder-owned、external-stack、grant+publisher 三种 capability expansion；Nomada 建立 `CAPABILITY-COMPOSED`，Zachtronics 建立 `FIT-LOCK-IN`。下一步主要缺：**VC/equity-financed expansion、complementary-founder 失败/解体压力样本、第二个 FIT-LOCK-IN 长期样本，以及强 FIT-TRAP。**
 
 ### Artless Games：公开言论、产品与持续创作方式
 
