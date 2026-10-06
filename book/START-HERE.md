@@ -14,11 +14,12 @@
 
 如果你只是想读故事，从下面选一个和你现在最接近的问题开始。
 
-如果你更愿意像读一本书一样顺序读，目前已经有三篇跨人物章节：
+如果你更愿意像读一本书一样顺序读，目前已经有四篇跨人物章节：
 
 1. [目标不是先想清楚的](chapters/01-goals-are-made-not-found.md)
 2. [先买几个月试错](chapters/02-buy-time-before-betting-your-life.md)
 3. [失败不是资产](chapters/03-failure-only-matters-if-something-survives.md)
+4. [技术时代不会替你做选择](chapters/04-technology-will-not-choose-for-you.md)
 
 完整章节目录见 [Chapters](chapters/README.md)。
 
@@ -179,10 +180,16 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 ## 我总觉得别人有了新技术就无所不能，而自己是不是已经晚了
 
-先读：
+先读跨人物章节：
+
+- [技术时代不会替你做选择：有人用现成工具，有人重组平台，有人自己造出窗口](chapters/04-technology-will-not-choose-for-you.md)
+
+再深入：
 
 - [early id / DOOM](profiles/early-id-doom.md)
-- 再读 [工业革命比较实验室](../cross-industry/industrial-revolutions/README.md)
+- [Gunpoint / Tom Francis](profiles/gunpoint.md)
+- [PLAYERUNKNOWN / Brendan Greene 研究档案](../cases/CASE-032-pubg-brendan-greene.md)
+- [工业革命比较实验室](../cross-industry/industrial-revolutions/README.md)
 
 DOOM 特别适合把技术决定论拆开。
 
