@@ -2,7 +2,7 @@
 
 - Case: `CASE-026`
 - Status: ACTIVE
-- Last updated: 2026-10-04
+- Last updated: 2026-10-07
 
 本文件记录 Brigador 作为 failure comparator 的来源、支持边界与禁止推论。
 
@@ -247,11 +247,65 @@ Supports:
 Boundary:
 - current review count/sentiment cannot be projected backward to 2016 launch demand.
 
+## E014 — 2015 Hugh Monahan direct interview: prototype selection, capability imprint, engine risk
+
+- Class: P1 — direct creator interview during Early Access period
+- Source: Hugh Monahan / 80 Level, `Brigador: Three Space Aiming System and a Unique Engine`
+- Published: 2015-11-04
+- URL: https://80.lv/articles/brigador-three-space-aiming-system-and-a-unique-engine
+
+Direct creator statements:
+- Brigador emerged after roughly seven prototypes;
+- an earlier 2D four-player arena direction was abandoned when the team realized they did not actually like that kind of game;
+- Hugh and Jack explicitly preferred slower, more deliberate action inspired by titles such as Crusader / MechWarrior;
+- programmer Dale Kim's Counter-Strike background fed directly into the requirement that aiming be precise and skillful;
+- the custom three-space aiming system took months and multiple reticle prototypes;
+- the team simultaneously built a custom engine, a new art pipeline and a new core gameplay mechanic;
+- Monahan explicitly says doing all of that on a first commercial team project was not something he would recommend;
+- before Brigador, he spent roughly six months in the StarCraft II editor exploring what kinds of game problems he actually wanted to build.
+
+Supports:
+- C015: project direction was selected through repeated prototyping, taste rejection and team-specific capability input rather than simple genre imitation;
+- C003/C011: the shipped product sits on top of prototype and hobbyist prehistory;
+- counterpressure: strong fit did not eliminate production risk or later commercial failure.
+
+Boundary:
+- this evidence supports `FIT-STRONG`, not the stronger claim that the team optimally matched all capabilities;
+- creator retrospective occurs near launch / EA, but some prototype chronology is still recalled after several years.
+
+## E015 — 2016 Hugh Monahan direct interview: kitbash pipeline, narrative peripheralization, launch failure
+
+- Class: P1 — direct creator interview immediately after 1.0 launch
+- Source: Michael Riser interview with Hugh Monahan / Goomba Stomp, `Brigador Interview — Hugh Monahan of Stellar Jockeys`
+- Published: 2016-07-25
+- URL: https://goombastomp.com/brigador-interview-hugh-monahan/
+
+Direct creator statements:
+- Hugh handled most design; Jack handled most art; Harry Hsiao and Dale Kim were programmers;
+- Jack's Ma.K.-influenced digital-kitbash process shaped both the game's aesthetic and art production pipeline;
+- Monahan says that pipeline is the reason one artist could complete the required asset load, with late-project concept-to-engine turnaround sometimes under a day;
+- the game deliberately kept traditional linear narrative out of the main interaction loop and moved more worldbuilding into descriptions plus an externally written novel/audiobook;
+- soundtrack and novel work were given to specialist collaborators whose instincts matched the project;
+- the team simultaneously took on 3-space aiming, destructibility, a new art pipeline and a custom engine;
+- after launch, Monahan says the game still struggled for attention and rejects the naive “build it and they will come” assumption.
+
+Supports:
+- C015: `Strength Loading + Cost Conversion + Specialist Periphery` are all directly observable;
+- CASE-026 becomes a `FIT-STRONG / LAUNCH-FAILED` counterpressure case;
+- C010: market cultivation remained necessary even when product identity and internal production fit were strong.
+
+Boundary:
+- “under a day” asset turnaround is a creator-reported late-project peak, not average production time;
+- this does not establish audited profitability or exact causal weight of fit versus launch failure variables.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
 
 - Brigador had a long, self-funded, high-opportunity-cost development period with a four-person core at EA.
+- The final project direction followed multiple prototypes and explicit rejection of a four-player-arena direction the team did not actually want to make.
+- Team-specific capability shaped the product: design/taste, precision aiming, custom technology, digital kitbash art production and specialist narrative/music periphery were tightly coupled to the final game form.
+- This strong capability–project fit still coexisted with a commercially failed 2016 launch.
 - The 2016 launch was treated by its own creator and GDC as a commercial failure despite strong product reception and substantial pre-launch activity.
 - `zero marketing` is false: conventions, press, PR, creator outreach, EA, preorder and later influencer spikes all existed.
 - The developer explicitly diagnosed a mismatch between product presentation and actual play experience.
