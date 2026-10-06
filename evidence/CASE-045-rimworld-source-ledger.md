@@ -42,7 +42,7 @@
 - Title: 'RimWorld': Contrarian, Ridiculous, and Impossible Game Design Methods.
 - Author / Speaker: Tynan Sylvester.
 - Institution: GDC.
-- Published: 2017.
+- Published: UNKNOWN (GDC 2017 session).
 - Accessed: 2026-10-07.
 - URL: https://www.gdcvault.com/play/1024686/-RimWorld-Contrarian-Ridiculous-and
 - Claim use: story-generator frame, strategic omission, feature-selection methodology, anti-default-planning framing.
