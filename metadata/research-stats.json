@@ -1,18 +1,18 @@
 {
   "cases": {
     "evidence_strength": {
-      "medium": 38,
+      "high": 15,
       "low": 2,
-      "high": 15
+      "medium": 38
     },
     "explanatory_importance": {
-      "high": 9,
       "critical": 45,
+      "high": 9,
       "medium": 1
     },
     "narrative_value": {
-      "high": 25,
-      "critical": 30
+      "critical": 30,
+      "high": 25
     },
     "status": {
       "RESEARCHING": 53,
