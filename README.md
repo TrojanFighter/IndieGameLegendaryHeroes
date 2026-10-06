@@ -38,8 +38,8 @@
 
 当前仓库已经形成：
 
-- **55 个编号 Case 档案**，其中 53 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
-- **55 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **56 个编号 Case 档案**，其中 54 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
+- **56 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **15 个跨案例 Claim**，检验 runway、能力资本、能力反向立项、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
@@ -79,6 +79,7 @@
 | **程序员的强项怎样变成玩法，而不是技术堆料？** | [Zachtronics](cases/CASE-051-zachtronics.md) · [RollerCoaster Tycoon](cases/CASE-018-rollercoaster-tycoon.md) · [Factorio 生产史](cases/CASE-035-factorio-wube.md) · [Factorio 技术止损对照](cases/CASE-055-factorio-stop-conditions.md) · [Limit Theory / FIT-TRAP](cases/CASE-054-limit-theory-fit-trap.md) · [Dwarf Fortress](cases/CASE-005-dwarf-fortress.md) |
 | **找到最适合自己的类型以后，会不会反而被它锁住？** | [Zachtronics](cases/CASE-051-zachtronics.md) · [Garry Newman / s&box](cases/CASE-044-garry-newman-sbox.md) · [Capability–Project Fit Audit](schemas/capability-project-fit-audit.md) |
 | **不会完整做游戏的艺术家，能不能让团队围绕作品重新组成？** | [Nomada / GRIS](cases/CASE-050-nomada-gris-neva.md) · [The First Tree](cases/CASE-042-the-first-tree.md) · [Everything](cases/CASE-043-everything-david-oreilly.md) |
+| **找一个互补共同创始人，就能免费补齐能力吗？** | [Nomada / GRIS](cases/CASE-050-nomada-gris-neva.md) · [Playdead / LIMBO → INSIDE](cases/CASE-056-playdead-founder-governance.md) · [C015 能力反向立项](claims/C015-capability-shaped-project-formation.md) · [Capability–Project Fit Audit](schemas/capability-project-fit-audit.md) |
 | **错误的平台经验会不会反过来害你？** | [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) · [Sultan's Game](cases/CASE-038-sultans-game.md) · [Outpost: Infinity Siege（待核）](cases/CASE-030-outpost-infinity-siege.md) · [跨案例 Claim C009](claims/README.md) |
 | **所谓“纯靠天才 / 纯靠运气 / 零营销”哪里不对？** | [跨案例综合](claims/CROSS-CASE-READINGS.md) · [Claims Index](claims/README.md) |
 
@@ -86,7 +87,7 @@
 
 ---
 
-## 55 个编号案例档案
+## 56 个编号案例档案
 
 这些 Case 是研究后台的档案，52 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
@@ -147,6 +148,7 @@
 | [CASE-053](cases/CASE-053-kenny-sun.md) | **Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT** | 连续小作、职业工作、scope reversal、publisher periphery 与 specialist team 怎样逐轮生产下一阶段能力 |
 | [CASE-054](cases/CASE-054-limit-theory-fit-trap.md) | **Limit Theory / Josh Parnell** | 真正的 FIT-TRAP：工程能力持续成功，为什么完整产品反而越来越远 |
 | [CASE-055](cases/CASE-055-factorio-stop-conditions.md) | **Wube / Factorio — Technical Stop Condition** | deep-tech 成功侧压力对照：多人规模做到远超目标后主动宣布 enough，删除低边际价值机制，并以 1.0 deadline + descoping 购买产品收敛 |
+| [CASE-056](cases/CASE-056-playdead-founder-governance.md) | **Playdead / Arnt Jensen + Dino Patti** | `CAPABILITY-COMPOSED` 治理压力：创意作者 + production/business founder 的互补组合成功做出作品，却仍暴露 equity、authorship、time horizon、control 与 exit 的长期成本 |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。`Sultan's Game` 已升级为 CASE-038，但工作室所有权、旧投资关系和 publisher financing 仍待继续审计；Artless Games 保留为中国创作路径候选。
 
@@ -211,8 +213,8 @@
 
 截至 2026-10-07：
 
-- 55 个编号 Case 已建档，其中 53 个 RESEARCHING、2 个 SKELETON；
-- 55 个对应 Case Evidence Ledger 已建立；
+- 56 个编号 Case 已建档，其中 54 个 RESEARCHING、2 个 SKELETON；
+- 56 个对应 Case Evidence Ledger 已建立；
 - 15 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 / C014 / C015 当前为 `SUPPORTED`；C013 当前为 `WEAK`；
 - CASE-027–030 构成“中国生产制度候选组”；《中国式网游》已核官方开发自述，其余三个来源待恢复，不把候选解释视为已证正反例；
 - CASE-031 将 Jonas Tyroller 作为 longitudinal practitioner，持续检验同一开发者跨项目的方法复现、方法修正、市场接入与运气边界；
