@@ -908,7 +908,8 @@
         "CASE-050",
         "CASE-051",
         "CASE-052",
-        "CASE-053"
+        "CASE-053",
+        "CASE-054"
       ],
       "evidence_ids": [
         "CASE-007:E004",
@@ -946,7 +947,10 @@
         "CASE-052:E003",
         "CASE-052:E007",
         "CASE-053:E005",
-        "CASE-053:E006"
+        "CASE-053:E006",
+        "CASE-054:E003",
+        "CASE-054:E006",
+        "CASE-054:E007"
       ],
       "last_reviewed": "2026-10-07"
     }
