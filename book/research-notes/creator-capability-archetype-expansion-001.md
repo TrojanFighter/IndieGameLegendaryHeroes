@@ -1,7 +1,7 @@
 # Creator Capability Archetype Expansion 001｜主创能力类型案例矩阵
 
 - Status: ACTIVE RESEARCH MATRIX
-- Last updated: 2026-10-06
+- Last updated: 2026-10-07
 - Reader entry: [READER-ARCHETYPES](../READER-ARCHETYPES.md)
 - Method: [Capability–Project Fit Audit](../../schemas/capability-project-fit-audit.md)
 - Temporal rule: [Temporal Validity Gate](../TEMPORAL-VALIDITY.md)
@@ -11,6 +11,8 @@
 它问的是：
 
 > **一个主创者已经拥有什么不对称能力？项目有没有把这种能力变成核心体验、生产杠杆和市场可读性？**
+
+这一轮进一步把“fit”拆成一个更前置的机制：[C015 Capability-Shaped Project Formation](../../claims/C015-capability-shaped-project-formation.md)：主创先识别自己的能力向量与弱项，再反向定义项目。
 
 同一对象可以同时属于多个 archetype。职业 title 只用于导航；最终要核真实 capability、decision rights、runway、scope、periphery 与时代条件。
 
@@ -120,9 +122,9 @@
 - Success-after-success control：有资源以后为什么仍长期删掉做得出来的功能。
 - Use: selection scarcity > execution abundance 的强候选。
 
-### C5. RimWorld / Tynan Sylvester
+### C5. CASE-045 — RimWorld / Tynan Sylvester
 
-- Status: STRONG CANDIDATE.
+- Status: FORMAL CASE / RESEARCHING.
 - Observed: 2013 crowdfunding / alpha → Steam 2016 → 1.0 2018。
 - Why: creator publicly reframed product from conventional colony sim to “story generator,” then used this definition to omit seemingly standard features.
 - Evidence starts:
@@ -130,6 +132,7 @@
   - Game Developer overview: https://www.gamedeveloper.com/design/video-how-i-rimworld-i-found-success-through-ridiculous-contrarian-design
 - Research question: a strong design thesis 是否真正 reduced production cost / decision entropy，还是后验成功叙事？
 - 2026: thesis-driven selection mechanism DURABLE；crowdfunding / Steam window CONDITIONAL。
+- Case: [CASE-045](../../cases/CASE-045-rimworld.md)
 
 ### C6. Pressure — CASE-026 Brigador
 - Strong technical / art execution did not automatically solve onboarding / market legibility.
@@ -151,14 +154,15 @@
 - UGC platform compresses learning、shipping、distribution、income and studio formation。
 - Must retain winner-selection bias.
 
-### D4. Garry Newman / Garry's Mod → Facepunch
+### D4. CASE-044 — Garry Newman / Garry's Mod → Facepunch → s&box
 
-- Status: STRONG LONGITUDINAL CANDIDATE.
+- Status: FORMAL CASE / RESEARCHING.
 - Observed: Half-Life 2 mod era → paid Garry's Mod → Rust → s&box。
 - Why: exceptionally long creator-platform lineage; modding is not merely a résumé but becomes a company and then a creator-platform thesis.
 - Evidence start:
   - PC Gamer 15-year Garry's Mod interview: https://www.pcgamer.com/garrys-mod-interview/
 - Research question: 哪些 mod-era instincts scale to a creator platform，哪些 become liabilities when discovery / quality control / user expectation change？
+- Case: [CASE-044](../../cases/CASE-044-garry-newman-sbox.md)
 
 ### D5. Dean Hall / DayZ
 
@@ -168,9 +172,9 @@
   - GDC 2013 — Designing DayZ: Lessons from Cherno: https://www.gdcvault.com/play/1019027/Designing-DayZ-Lessons-from
 - Use: compare with Brendan Greene / Tripwire to separate “mod success” from what happens after organization / IP / live-service obligations arrive.
 
-### D6. CURRENT pressure sample — s&box / Garry Newman
+### D6. CASE-044 current pressure layer — s&box / Garry Newman
 
-- Status: CURRENT LIVE PRESSURE COMPARATOR, not failure verdict.
+- Status: FORMAL CURRENT LIVE PRESSURE LAYER, not failure verdict.
 - Verified window: 2026-04 → 2026-09.
 - Why: the creator of Garry's Mod explicitly records multi-year false starts, then immediately after release reports mixed reviews, discovery problems, AI-slop moderation, performance problems and confusion over “this isn't Garry's Mod.”
 - Primary sources:
@@ -202,9 +206,9 @@
 - Corporate comparator：同一组织不同 production regime。
 - Use: high capability does not remove error-persistence costs.
 
-### E4. Sandfall Interactive / Clair Obscur: Expedition 33
+### E4. CASE-046 — Sandfall Interactive / Clair Obscur: Expedition 33
 
-- Status: HIGH-PRIORITY COMPARATOR / NOT YET FORMAL CASE.
+- Status: FORMAL CASE / RESEARCHING.
 - Observed: personal after-work prototype → studio founded 2020 → release 2025 → post-success interviews 2025–2026.
 - Evidence starts:
   - 2021 founder interview: Guillaume Broche says he had worked at Ubisoft for 4+ years and founded Sandfall with another Ubisoft developer; team then 8: https://magazine.reallusion.com/2021/06/09/pitch-produce-project-w-sandfall-interactive-studios-develops-ambitious-rpg-game-with-real-time-tools/
@@ -215,7 +219,8 @@
   - what came from tools / contractors / publisher rather than “30-person miracle”?
   - how much of project shape existed before studio funding?
   - is `small core + industrial periphery` the real structure?
-- 2026: CURRENT / CONDITIONAL; much of the public success narrative is very recent and prone to myth-making, so contributor / financing perimeter must be audited before using it as a hero case.
+- 2026: CURRENT / CONDITIONAL；formalized as a comparator, not a “30-person miracle” hero story. Credits currently show a much larger industrial periphery than the <30 core.
+- Case: [CASE-046](../../cases/CASE-046-sandfall-expedition33.md)
 
 ### E5. Jonathan Blow / Braid
 
@@ -274,11 +279,10 @@ Formal anchors already sufficient for first comparative pass:
 
 按“新增解释维度 / 一手证据成熟 / 对照价值”排序：
 
-1. **Garry Newman lineage + s&box current pressure** — 同一个 modder 从成功平台到 2026 新平台压力，天然纵向对照；
-2. **RimWorld / Tynan Sylvester** — 补 design-thesis / selection-first；
-3. **Sandfall / Clair Obscur** — 补 AAA/commercial → authorial studio，但先严查 contributor / finance / publisher perimeter；
-4. **GRIS / Neva / Nomada** — 补 fine artist + experienced production team 的能力翻译结构；
-5. **Zachtronics** — 补 programmer/system author，把 engineering literacy 变成题材与玩法。
+1. **GRIS / Neva / Nomada** — 补 fine artist + experienced production team 的能力翻译结构；
+2. **Zachtronics** — 补 programmer/system author，把 engineering literacy 变成题材与玩法；
+3. **C015 失败/压力对照** — 优先找“明确知道自己能力边界、也做了反向立项，但项目仍失败”的案例，防止能力反向立项变成成功者叙事；
+4. **AAA→authorial 反例** — 找能力与项目错配但靠招聘/资本补齐仍成功的案例，测试 founder capability vector 的边界。
 
 暂不为每类强行凑到同样数量。
 
