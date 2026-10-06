@@ -2,10 +2,10 @@
 
 - Claim ID: C013
 - Statement: 商业游戏训练会积累可迁移的生产能力，同时也会使个人与组织专业化于特定 objective function；跨 production regime 的表现取决于能力与新目标的适配、decision rights 与 deliberate unlearning，而不能由“大厂经验/岗位名称”单独预测。
-- Scope: 中国商业游戏 → premium / small-team 转换；当前不外推为所有国家、所有岗位的普遍规律。
+- Scope: **主要经验对象仍是中国商业游戏 → premium / small-team 转换。** 海外 AAA→authorial 案例只作为 mechanism control / boundary comparator，用来检验“能力迁移 vs objective-function 重写”是否具有跨地区可观察结构；不得用海外样本推断中国行业中的发生率。
 - Status: WEAK
 - Last reviewed: 2026-10-06
-- Related Cases: CASE-038, CASE-039, CASE-041
+- Related Cases: CASE-038, CASE-039, CASE-041, CASE-048, CASE-050
 
 ## Falsification Test
 
@@ -30,6 +30,20 @@
 | CASE-039:E001 | S1 | Gunfire Reborn | T9 同时署名 Producer & Director / Game Designer / Level Designer，显示高 ownership span | medium |
 | CASE-041:E001 | P0 | NExT | 同一工作室 portfolio 横跨小型 premium 0→1 与大型 service 项目 | medium |
 | CASE-041:E003 | P1/S1 | NExT / SYNCED | 大型化过程中公开复盘显示目标、规模与能力建设发生 regime jump | medium |
+
+## External Mechanism Controls — 不用于推断中国发生率
+
+| Evidence ID | Case | What it controls | Boundary |
+|---|---|---|---|
+| CASE-048:E001 | The Magic Circle | AAA / immersive-sim capability 确实能迁移进小型作者项目，但强迁移不保证 project-market selection 成功 | 海外失败 comparator，不说明中国 prevalence |
+| CASE-050:E001 | Nomada / GRIS | AAA programmer capability 与 visual-author capability 可以重新组合到完全不同 objective function | 海外正向 comparator，不证明中国团队同样容易完成重组 |
+| CASE-050:E007 | Nomada / GRIS→Neva | 技术团队显性让 product form 适配 visual-author background，而不是继承 AAA 规格 | post-success direct interview；用于 mechanism，不用于效应量 |
+
+这些海外案例的作用是防止 C013 被误写成“中国人特有问题”。
+
+如果类似的 capability transfer / objective-function specialization 在西班牙、美国团队同样可观察，那么中国研究真正要问的是：
+
+> **哪些组织、岗位和市场制度让这种机制在中国以不同频率、方向或代价出现？**
 
 ## Evidence Against / Counterpressure
 
@@ -60,3 +74,4 @@
 2. T9 formative history。
 3. 更多从 mobile/F2P 转 premium 的成功与失败配对。
 4. 同公司 / 同岗位跨 regime 的纵向对照。
+5. 中国样本与 CASE-048/050 这类海外 control 使用同一 coding schema，比较 decision rights、capability transfer 与 objective-function unlearning，而不是做国别性格归因。
