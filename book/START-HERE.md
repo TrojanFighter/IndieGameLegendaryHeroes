@@ -14,14 +14,21 @@
 
 如果你只是想读故事，从下面选一个和你现在最接近的问题开始。
 
-如果你更愿意像读一本书一样顺序读，目前已经有四篇跨人物章节：
+如果你更愿意像读一本书一样顺序读，目前已经有五篇跨人物章节：
 
 1. [目标不是先想清楚的](chapters/01-goals-are-made-not-found.md)
 2. [先买几个月试错](chapters/02-buy-time-before-betting-your-life.md)
 3. [失败不是资产](chapters/03-failure-only-matters-if-something-survives.md)
 4. [技术时代不会替你做选择](chapters/04-technology-will-not-choose-for-you.md)
+5. [市场不是最后一步](chapters/05-market-interface-is-production.md)
 
 完整章节目录见 [Chapters](chapters/README.md)。
+
+如果你更关心“**像我这种出身 / 能力结构的人先看谁**”，直接进入：
+
+> **[按主创者能力进入｜你手里已经有什么？](READER-ARCHETYPES.md)**
+
+例如 Technical Artist / visual-first 会先导向 The First Tree；程序 / engine-first 会先导向 Carmack、Sawyer、Factorio；modder / server admin 会先导向 PLAYERUNKNOWN、Tripwire、Roblox。
 
 ---
 
