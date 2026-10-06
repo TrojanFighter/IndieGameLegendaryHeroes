@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053
 
 ## Definition
 
@@ -53,6 +53,8 @@
 | CASE-043:E009 | Everything | later direct account confirms locomotion was optimization/problem-redefinition, while still technically difficult | medium-high |
 | CASE-051:E004 | TIS-100 | Barth abandons a more art/content-heavy concept as too expensive and extracts an assembly-code puzzle into a viable product | very high |
 | CASE-052:E001 | Untitled Goose Game | team works backward from desired comic situations into minimal AI/object systems instead of inheriting a standard stealth specification | high |
+| CASE-053:E005 | Kenny Sun / Hatbox | retrospective confirms weekend shipping, 2018 full-time transition and broad solo capability accumulated before Hatbox | high |
+| CASE-053:E006 | Kenny Sun / Hatbox | 2016 prototype was shelved when scope exceeded free-time frontier, then restarted after production conditions changed; later publisher perimeter externalized selling/release weaknesses | very high |
 
 ## Counterpressure
 
@@ -210,6 +212,26 @@ Grant money and publisher money are not interchangeable even when both increase 
 House House also completes a longitudinal conversion:
 
 `grant + publisher support → hit → retained earnings → next-project risk tolerance`.
+
+### CASE-053 Kenny Sun — longitudinal capability formation
+
+Kenny Sun adds a time dimension that C015 previously under-specified.
+
+The same creator did not simply discover one permanent fit. The feasible project set changed through:
+- repeated small releases;
+- professional gameplay-programming work;
+- side-project revenue;
+- deliberate scope reversal;
+- publisher periphery;
+- later specialist-team leadership.
+
+The clearest C015 evidence is the 2016 Hatbox reversal: the project was explicitly judged too large for the available free-time production frontier and shelved. After the creator's runway and capability situation changed, the same idea re-entered the feasible set.
+
+This supports a longitudinal research direction without changing C015 into a universal growth law:
+
+> **project fit can be recalculated over time because previous projects also change the creator's capability vector.**
+
+The broader `project_t → capability_(t+1)` mechanism remains a research hypothesis until additional longitudinal cases are found.
 
 ### Other boundaries
 
