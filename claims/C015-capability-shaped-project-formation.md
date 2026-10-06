@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054
 
 ## Definition
 
@@ -55,6 +55,9 @@
 | CASE-052:E001 | Untitled Goose Game | team works backward from desired comic situations into minimal AI/object systems instead of inheriting a standard stealth specification | high |
 | CASE-053:E005 | Kenny Sun / Hatbox | retrospective confirms weekend shipping, 2018 full-time transition and broad solo capability accumulated before Hatbox | high |
 | CASE-053:E006 | Kenny Sun / Hatbox | 2016 prototype was shelved when scope exceeded free-time frontier, then restarted after production conditions changed; later publisher perimeter externalized selling/release weaknesses | very high |
+| CASE-054:E003 | Limit Theory | custom-engine rationale explicitly combines procedural-control requirements with creator enthusiasm for engine / graphics-engine design | high |
+| CASE-054:E006 | Limit Theory | engine/performance progress culminates in 2000+ ship demo while content implementation / gameplay are still described as next | very high |
+| CASE-054:E007 | Limit Theory | cancellation records far-from-complete product, exhausted resources and an engine more mature than game code | very high |
 
 ## Counterpressure
 
@@ -233,6 +236,20 @@ This supports a longitudinal research direction without changing C015 into a uni
 
 The broader `project_t → capability_(t+1)` mechanism remains a research hypothesis until additional longitudinal cases are found.
 
+### CASE-054 Limit Theory — FIT-TRAP / capability attracts its own problem surface
+
+Limit Theory adds the negative mirror that the capability framework previously lacked.
+
+Josh Parnell entered with unusually strong engine / graphics capability. The project legitimately benefited from that capability: custom technology enabled procedural generation, simulation, tooling and eventually very high entity counts.
+
+But the same capability also created an effectively unbounded local optimization surface. The strongest contemporaneous checkpoint is January 2018: the official site celebrates a PAX demo simulating 2000+ ships with projectiles and full AI and says the engine work has paid off, while content implementation and then gameplay are still described as the next stages. Eight months later, cancellation states that the product remains frighteningly far from feature completion while the engine is materially more solid than the Lua game code.
+
+So C015 requires a negative boundary:
+
+> **A project can fit a creator's strongest capability too well. If that capability keeps generating attractive subproblems whose completion does not close the player product, capability capital becomes a FIT-TRAP rather than leverage.**
+
+This does not imply custom engines are bad. Early id / DOOM remains the opposite case: technical innovation can create and compress a new product space. The diagnostic variable is whether technical progress reduces remaining product obligations or continuously opens new ones.
+
 ### Other boundaries
 
 - CASE-043 shows redefinition can merely **move** cost: rolling/procedural locomotion deleted conventional animation obligations but created hard systems work.
@@ -310,7 +327,9 @@ This is why some independent games look “strange” relative to industry genre
 - “所有成功独立游戏都是按主创能力反向定制的”；
 - “找到最适合自己的类型就应该永远做下去”；
 - “共同创始人是免费补能力”；
-- “grant、publisher、VC 只是同一种钱”。
+- “grant、publisher、VC 只是同一种钱”；
+- “强项越强，越应该让项目无限增加强项相关复杂度”；
+- “自研引擎本身就是 FIT-TRAP”。
 
 真正的命题是：
 > **显性认识 capability constraints，并把它们用于项目定义，可以成为作者型独立开发的一种可观察设计技术。**
