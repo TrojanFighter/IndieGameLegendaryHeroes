@@ -110,6 +110,32 @@ Failure Workshop 可以提供关键反压力：有些非标准选择确实只是
 
 > **怎样在结果未知时，用最低成本让异类想法获得一次被现实而不是身份/常模检验的机会？**
 
+## 外部理论锚：Idiosyncrasy Credit 与 Innovation Credit
+
+AC-006 现有“成功者赦免 / 功绩条件式宽容”不是成熟学界术语，但有明确的相邻社会心理学底座。
+
+Hollander（1958）提出 `idiosyncrasy credit`：
+
+> 个体通过符合群体期待、贡献和地位积累信用；信用越高，越可能获得偏离群体规范的空间。
+
+Abrams et al.（2008）进一步用实验研究 `innovation credit`：不同地位与领导身份的人，在挑战群体规范时会得到不同程度的创新许可。
+
+这与本项目的问题高度一致，但方向要倒过来：
+
+> **独立创作真正困难的阶段，恰恰是创作者还没有 credit 的时候。**
+
+因此 AC-006 后续研究重点固定为：
+
+- pre-credit deviation；
+- 未验证偏离生存期；
+- norm-based rejection vs evidence-based rejection；
+- 第一次市场/玩家验证如何替创作者取得 legitimacy；
+- 成功后是否发生 winner’s amnesty / ex-post assimilation。
+
+Sources:
+- E. P. Hollander, “Conformity, Status, and Idiosyncrasy Credit,” *Psychological Review* 65(2), 1958, 117–127. DOI: 10.1037/h0042501.
+- Dominic Abrams et al., “Innovation Credit: When Can Leaders Oppose Their Group’s Norms?”, *Journal of Personality and Social Psychology* 95(3), 2008, 662–678. DOI: 10.1037/0022-3514.95.3.662.
+
 ## Source Origin
 
 - 2026 年作者与 ChatGPT 关于群体对异类的非正式控制、成功者事后追认、非标准人生路径与创新者处境的连续讨论（A0-CHAT）。
