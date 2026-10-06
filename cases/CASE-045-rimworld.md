@@ -38,7 +38,7 @@ Tynan Sylvester 的核心动作是把项目定义从：
 
 它允许项目故意缺失大量“模拟游戏应该有”的东西，只保留那些会产生、放大或让玩家感知故事的系统。
 
-## Context–Situation–Action Snapshot
+## 2. Context–Situation–Action Snapshot
 
 ### Era / Production Regime
 
