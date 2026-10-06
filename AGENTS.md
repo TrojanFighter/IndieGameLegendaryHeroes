@@ -163,6 +163,23 @@ Kickstarter / publisher advance / grant 金额不得直接等同于总开发预�
 
 Steam 页面、demo、节庆、Discord、开发日志、媒体报道、主播、平台推荐、已有粉丝、发行商渠道都属于市场接入的一部分。
 
+### 关于历史成功经验的时效性
+
+任何从成功案例推出的 `Transfer` 都必须带时间边界。
+
+至少记录：
+- Observed years；
+- 当时的 platform / tool / distribution / payment / creator / cost regime；
+- 2026 transfer status：`DURABLE / CONDITIONAL / HISTORICAL / CURRENT / UNKNOWN`；
+- 今天保留的是 mechanism 还是具体 tactic。
+
+禁止：
+> “2019 年某开发者这样做成功，所以今天应该这样做。”
+
+平台、算法、商店曝光、creator discovery、众筹、引擎成本、生活成本与融资环境属于高时效变量；未经当前核验不得默认为仍有效。
+
+完整规则：`book/TEMPORAL-VALIDITY.md`。
+
 ### 关于成功原因
 
 不得因为成功案例同时具备 A 和 B，就写成 A 导致 B。
@@ -328,6 +345,7 @@ Case 可以枯燥、重复、结构化；书稿可以有文学性，但书稿中
 - “民族性 / 文化性”语言不得直接升级为 Claim；必须操作化为可观察变量并寻找组内、跨国和失败反例。
 - 斯拉夫姊妹篇资料位于 `sister-projects/slavic/`，独立登记与统计；不得再放入根目录 `evidence/` 或混入独立篇 Case 数量。跨篇比较链接到原档案，按研究问题归属而非开发者国籍分配。
 - Case 是可审计研究档案；Profile 是消费既有研究的叙事稿。两篇均保留这一区别，不将证据矩阵自动升级为 Case 或书稿。
+- 普通读者除按现实问题进入外，还可按主创者能力结构进入 `book/READER-ARCHETYPES.md`。职业标签只用于导航，不得把“TA/程序/策划出身”写成因果宿命；必须继续做 Capability–Project Fit 审计。
 
 ## 14. 权利、传播与贡献
 
