@@ -230,6 +230,42 @@ UGC 平台提供了一种“先做作品、再获得身份”的替代资格制�
 5. 哪些组织能把员工从执行者训练成问题定义者？
 6. AI 降低执行门槛以后，这种差异是否进一步从“解题能力”转向“出题 / 选题 / 判断能力”？
 
+## 外部研究压力测试｜2026-10-07
+
+### 应试教育 ≠ 已证明的低创造力
+
+Zheng Ke & Liang Can（2023）对“应试教育与学生创造力”的研究综述明确提醒：虽然“应试教育妨碍创造力”是常见判断，但缺少足够基础证据证明中国学生总体创造力低于其他国家，因此不能把这一关系简单写成总体因果。
+
+Wei Liu（2026）进一步把中国教育描述为一个需要辩证处理的 paradox：高竞争、考试导向可能压缩部分创造性学习空间，但过去二十年的中国技术创新增长本身又反驳了“考试体系必然生产无创新人口”的单线叙事。
+
+因此 AC-008 的研究对象正式收窄为：
+
+> **学习主权、问题形成、开放题域迁移与评价关系。**
+
+而不是“中国教育是否让人失去创造力”。
+
+Sources:
+- Zheng Ke & Liang Can, “Research on the Relationship between Exam-oriented Education and Students’ Creativity,” *Journal of East China Normal University (Educational Sciences)* 41(4), 2023, 72–82. DOI: 10.16382/j.cnki.1000-5560.2023.04.006.
+- Wei Liu, “China’s Educational Paradox: Does an Exam-centric System Allow Space for Creativity?”, *China Report* 62(3), 2026, 358–369. DOI: 10.1177/00094455261447217.
+
+### 家庭期待只证明“路径塑形”，不证明“扼杀创新”
+
+Aizizi et al.（2026）对中国西部 1077 名青少年的研究显示，perceived parental expectations 会显著参与中考后路径选择。Zhou et al.（2023）的三波纵向研究则显示 parental career expectations 与 career adaptability / ambivalence 存在条件性、非线性关系。
+
+这允许本项目提出：
+
+> family expectations 是 career-choice architecture 的一部分。
+
+但不能推出：
+
+> 家庭期待直接导致原创不足。
+
+以后相关 Profile 应把 expectation intensity、autonomy support、household runway 与实际职业选择分开记录。
+
+Sources:
+- Aizizi et al., *Acta Psychologica* 263 (2026), 106142. DOI: 10.1016/j.actpsy.2025.106142.
+- Zhou et al., *Journal of Counseling Psychology* 70(5), 2023, 605–618. DOI: 10.1037/cou0000687.
+
 ## 当前状态
 
 保留为 Author-Origin。可以指导案例摄取、访谈问题和 reader-layer 写作，但**不得在没有外部证据时写成“中国教育已经被本项目证明导致某种产业结果”**。
