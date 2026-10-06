@@ -2,10 +2,6 @@
 
 © 2026 洪荒行者。All Rights Reserved.
 
-> 对应研究档案：[`CASE-002 — Rocket League / Psyonix`](../../cases/CASE-002-rocket-league.md)  
-> 证据账本：[`CASE-002 Evidence Ledger`](../../evidence/CASE-002-rocket-league-source-ledger.md)  
-> 当前研究状态：**RESEARCHING**。本文只使用当前 Evidence Ledger 已支持的事实；PS Plus 的精确因果权重、合同业务金额、完整团队规模仍未核清。
-
 《Rocket League》很容易被讲成一种最讨人喜欢的独立游戏神话：
 
 > 一个足够简单、足够好玩的点子——汽车踢足球——突然被世界发现，然后一夜爆红。
