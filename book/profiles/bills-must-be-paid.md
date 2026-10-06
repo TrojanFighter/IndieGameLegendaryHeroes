@@ -2,10 +2,6 @@
 
 © 2026 洪荒行者。All Rights Reserved.
 
-> 对应研究档案：[`CASE-025 — Bills Must Be Paid / Rike Games`](../../cases/CASE-025-bills-must-be-paid.md)  
-> 证据账本：[`CASE-025 Evidence Ledger`](../../evidence/CASE-025-bills-must-be-paid-source-ledger.md)  
-> 当前研究状态：**RESEARCHING**。本文只使用当前已登记证据，不把未知 budget、利润和渠道归因补成故事。
-
 如果只看结果，《Bills Must Be Paid》很像是 2026 年最标准的一种独立游戏传奇。
 
 两个人，一对夫妻，没有发行商，没有外部融资。七个月做完。Steam 首发不到 72 小时，团队宣布卖出十万份以上。
