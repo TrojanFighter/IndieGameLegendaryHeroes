@@ -148,13 +148,104 @@ Gunpoint 的 Crosslink explanation video 也是典型。
 
 这也是为什么“招一个策划，照爆款做个小号版本”经常完全错过独立游戏的生产逻辑。
 
+## 两个关键反压力：Brigador 与 The Witness
+
+### Brigador：FIT-STRONG 也会死
+
+Brigador 现在提供了 C015 第一份真正重要的失败压力样本。
+
+开发者同期材料显示，它并不是“团队能力错配”：
+
+- 多轮 prototype 后才进入最终方向；
+- 早期 four-player arena 被放弃，因为团队自己并不喜欢；
+- 慢速、重量感、deliberate combat 与主创长期 taste 对齐；
+- Counter-Strike 型 precision aiming 被转成三维等距瞄准机制；
+- Jack 的 Ma.K. / kitbash 兴趣同时变成视觉语言和单美术高效率 asset pipeline；
+- narrative / music 等非核心能力被交给高度匹配的 specialist。
+
+所以它接近：
+
+> **Capability-Shaped / FIT-STRONG。**
+
+但 2016 launch 仍商业失败。
+
+这使结论必须改成：
+
+> **能力反向立项解决的是“我们能不能高密度地做出一个像自己的产品”，不是“市场一定会买”。**
+
+还必须独立过：
+- onboarding；
+- market legibility；
+- audience expectation；
+- demand size；
+- launch timing；
+- attention concentration。
+
+### The Witness：有钱时，可以让能力追项目
+
+The Witness 提供另一种边界。
+
+Jonathan Blow 没有把愿景缩成只需要自己会的事情，而是利用 Braid 的 retained earnings：
+
+- 自己继续主导 puzzle / systems / thesis；
+- 建 core art team；
+- 请 architecture specialist；
+- 请 landscape architects；
+- 调用 sound / platform specialist；
+- 用约七年和数百万美元保持 project thesis。
+
+所以这里出现第二种 project-formation mode：
+
+> **CAPABILITY-EXPANDED**
+
+其路径是：
+
+`project thesis → identify missing capability → spend capital / recruit → expand team capability set → preserve thesis`
+
+这意味着独立作者真正可以动的变量有两个：
+
+1. **改项目，让它适合现有人。**
+2. **改团队，让它适合现有项目。**
+
+哪个更优，取决于：
+- capital；
+- runway；
+- recruiting power；
+- control cost；
+- ownership；
+- time；
+- market window。
+
+### 更大的统一模型
+
+因此“能力反向立项”不应被误写成：
+> 小团队永远只做自己最会的东西。
+
+更完整的是：
+
+> **作者在 project requirements 与 capability supply 两侧之间主动求解。**
+
+低资本条件下，通常更多移动 project requirements：
+
+`Capability-Shaped`
+
+高资本 / 高 decision-rights 条件下，可以更多移动 capability supply：
+
+`Capability-Expanded`
+
+最危险的是两边都不动：
+
+> project requirements 很高，但 capability 既不删除也不购买，只靠更长工时硬扛。
+
+这更接近 `Labor Compression / Capability Mismatch`。
+
 ## 下一步检验
 
 C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 
 下一步重点不是继续找英雄，而是找反例：
 
-1. 很清楚自己能力边界，但项目仍失败；
-2. 明明项目与 founder capability 严重错配，却因资金/招聘补齐而成功；
+1. Brigador 已成为第一份 `FIT-STRONG / LAUNCH-FAILED` 正式压力样本；继续寻找第二个结构不同的失败者。
+2. The Witness 已建立第一份 `CAPABILITY-EXPANDED` 对照；继续补 publisher-financed / VC-financed 的能力扩张路径。
 3. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
 4. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。

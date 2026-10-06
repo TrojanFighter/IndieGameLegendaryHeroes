@@ -52,10 +52,11 @@
 | CASE-044 | Garry Newman / Garry's Mod → Rust → s&box | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | modder→studio→creator-platform 的同人纵向；2026 CURRENT pressure 用于检验旧成功能力资本、长期 false starts、discovery 与 positioning |
 | CASE-045 | RimWorld / Tynan Sylvester | CHAT-RESEARCH + EXTERNAL-VERIFIED | “story generator”作为 design thesis；检验 feature omission、prototype failure 与 selection-first 的生产逻辑 |
 | CASE-046 | Sandfall / Clair Obscur: Expedition 33 | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | AAA→authorial 能力迁移；<30 core + tool leverage + publisher + 438-credit industrial periphery，拆“小团队奇迹”神话 |
+| CASE-047 | The Witness / Jonathan Blow | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | prior-hit retained earnings 购买 capability expansion：small core + art / architecture / landscape / specialist periphery；检验 C015 的 `CAPABILITY-EXPANDED` 边界和 C014 的高前置承诺成功反压力 |
 
 ## 下一批优先正式化 / 深挖
 
-CASE-027–046 已登记；下一新编号从 CASE-047 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
+CASE-027–047 已登记；下一新编号从 CASE-048 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
 3. 是否提供当前 31 个档案还没有覆盖的生产结构。

@@ -135,8 +135,10 @@
 - Case: [CASE-045](../../cases/CASE-045-rimworld.md)
 
 ### C6. Pressure — CASE-026 Brigador
-- Strong technical / art execution did not automatically solve onboarding / market legibility.
-- Use: “taste”不能被写成单一总分；selection、communication、audience fit 必须拆开。
+- 已升级为 `FIT-STRONG / LAUNCH-FAILED`。
+- 多轮 prototype、precision aiming、custom engine、digital kitbash art pipeline 和 specialist periphery 都与团队能力高度耦合。
+- 但 strong fit 没有自动解决 onboarding / market legibility / audience expectation。
+- Use: “taste”不能被写成单一总分；Capability–Project Fit 也不能被写成成功充分条件。
 
 ---
 
@@ -222,14 +224,26 @@
 - 2026: CURRENT / CONDITIONAL；formalized as a comparator, not a “30-person miracle” hero story. Credits currently show a much larger industrial periphery than the <30 core.
 - Case: [CASE-046](../../cases/CASE-046-sandfall-expedition33.md)
 
-### E5. Jonathan Blow / Braid
+### E5. CASE-047 — The Witness / Jonathan Blow
 
-- Status: STRONG HISTORICAL CANDIDATE.
+- Status: FORMAL CASE / RESEARCHING.
+- Observed: Braid retained earnings → 2009–2016 production → strong first-week release signal.
+- Why: first formal `CAPABILITY-EXPANDED` comparator. Blow kept the larger project thesis and used founder-owned capital to add core art, architecture, landscape and other specialist capability instead of deleting those obligations.
+- Use:
+  - C015 boundary: capability-shaped formation is not the only authorial route;
+  - C014 counterpressure: high upfront commitment can still work under unusual prior capital / reputation / thesis stability;
+  - decision-rights audit: retained earnings can buy missing capability without publisher control.
+- Boundary: first-week gross success does not equal audited lifetime profit; this is not “spend millions” advice.
+- Case: [CASE-047](../../cases/CASE-047-the-witness.md)
+
+### E6. Jonathan Blow / Braid
+
+- Status: HISTORICAL PREHISTORY / CASE-047 feeder, not separately numbered yet.
 - Observed: prototype 2004 → XBLA 2008.
 - Why: contract programmer / designer and industry critic becomes author-controlled indie developer; hires David Hellman for art rather than internalizing every discipline.
 - Evidence start:
   - Game Developer 2008 — The Path to Braid: https://www.gamedeveloper.com/design/jonathan-blow-the-path-to-i-braid-i-
-- Use: pre-2010 authorial-indie baseline; must separate XBLA window from durable author-control mechanisms.
+- Use: explains how CASE-047 acquired prior-hit capital and authorial decision rights.
 - 2026: platform tactics HISTORICAL；specialist periphery / authorial decision rights DURABLE.
 
 ---
@@ -281,8 +295,8 @@ Formal anchors already sufficient for first comparative pass:
 
 1. **GRIS / Neva / Nomada** — 补 fine artist + experienced production team 的能力翻译结构；
 2. **Zachtronics** — 补 programmer/system author，把 engineering literacy 变成题材与玩法；
-3. **C015 失败/压力对照** — 优先找“明确知道自己能力边界、也做了反向立项，但项目仍失败”的案例，防止能力反向立项变成成功者叙事；
-4. **AAA→authorial 反例** — 找能力与项目错配但靠招聘/资本补齐仍成功的案例，测试 founder capability vector 的边界。
+3. **C015 第二失败样本** — Brigador 已填第一份 `FIT-STRONG / LAUNCH-FAILED`；下一步找另一种能力结构的失败者，避免单案例支撑反压力；
+4. **Capability-Expanded 对照扩充** — The Witness 已填 prior-hit-financed 路径；下一步补 publisher-financed 与 VC/grant-financed 的能力扩张路径，比较 control cost。
 
 暂不为每类强行凑到同样数量。
 

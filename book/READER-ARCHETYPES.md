@@ -171,6 +171,29 @@
 
 ---
 
+## 我已经有一笔可支配资本 / 前作成功，想做更大的作者项目
+
+优先看：
+- [CASE-047 The Witness / Jonathan Blow](../cases/CASE-047-the-witness.md) — `CAPABILITY-EXPANDED`：不是继续把项目缩到 founder 当前能力，而是用 Braid retained earnings 购买 art / architecture / landscape / specialist capability；
+- [Into the Breach / Subset](../cases/CASE-020-into-the-breach.md) — 同样是 prior success，但选择把资本变成长时间 low burn / design search，而不是显著扩张 production perimeter；
+- [CASE-046 Clair Obscur / Sandfall](../cases/CASE-046-sandfall-expedition33.md) — 另一种 small-core + industrial-periphery 路径。
+
+核心问题变成：
+
+> **有了钱以后，你应该移动哪一侧：把项目继续改得更贴合现有能力，还是购买新能力让团队追上项目？**
+
+这两种都可能合理。真正要审的是：
+- hiring / contractor cost；
+- ownership / control；
+- burn；
+- time-to-player-truth；
+- authorial decision density；
+- market window。
+
+The Witness 不是“有钱就堆人”的模板。它的特殊前提是 prior hit、founder-owned capital 和很强的 authorial control。
+
+---
+
 ## 我不知道自己的强项是什么
 
 先不要选职业标签。
@@ -188,7 +211,7 @@
 
 > **什么项目形态会让你已有的能力产生复利，同时让最昂贵的弱项少出现。**
 
-这正是 [C015 能力反向立项](../claims/C015-capability-shaped-project-formation.md) 要检验的东西：不是“补齐自己”，而是先问**什么作品会把你的能力向量变成设计优势**。
+这正是 [C015 能力反向立项](../claims/C015-capability-shaped-project-formation.md) 要检验的东西：低资本时，先问**什么作品会把你的能力向量变成设计优势**；而 CASE-047 又提醒我们，资本足够时也可以反过来问**哪些缺失能力值得购买，而不是删掉项目野心**。
 
 ---
 
