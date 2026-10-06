@@ -32,6 +32,11 @@
 必须重核：
 > 当年的 Reddit / Imgur / Tumblr / Twitter 传播路径、独立 3D 视觉稀缺度、商店竞争密度。
 
+直接材料：
+- [GDC 2019 — No Time, No Budget, No Problem: Finishing 'The First Tree'](https://gdcvault.com/play/1026455/No-Time-No-Budget-No)
+- [The First Tree 官方 FAQ](https://www.thefirsttree.com/) — 作者明确说明会授权/改造现成资产以加速 production，也披露 console port 外围帮助
+- [David Wehle 旧作品集 / About](https://davidwehle.net/home/about/) — Media Arts、motion / interactive / multimedia 前史
+
 研究入口：
 - [Capability–Project Fit Audit](../schemas/capability-project-fit-audit.md)
 - [Backlog — The First Tree](../cases/BACKLOG.md)
