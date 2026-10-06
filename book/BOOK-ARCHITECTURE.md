@@ -58,6 +58,7 @@ Chapter 不再问：
 
 总路由：
 - [中国创作者约束三层图：教育 × 行业版本现状 × 社会版本意识](research-notes/china-creator-constraints-three-layer-map-018.md)
+- [第一次人物压力测试：王妙一 × 《太吾绘卷》](research-notes/china-creator-three-layer-pressure-tests-019.md)
 
 ### A. 教育｜你是否学会自己出题？
 
