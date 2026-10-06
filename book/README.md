@@ -14,6 +14,13 @@
 
 如果你第一次来，不需要知道 Case、Evidence、Claim 是什么。
 
+你有两种进入方式：
+
+- **按问题进入**：从“我不知道想做什么 / 没钱怎么活 / 失败是不是白费 / 新技术改变什么 / 市场什么时候进入生产”选择章节；
+- **按自己进入**：[按主创者能力进入](READER-ARCHETYPES.md)，从 Technical Artist、程序、策划/评论、modder、大厂转作者、solo/generalist 等能力结构找第一批案例。
+
+所有历史经验同时受 [Temporal Validity Gate](TEMPORAL-VALIDITY.md) 约束：成功于 2013/2019 的具体打法，不默认在 2026 仍然成立。
+
 ## 从一本书开始读
 
 ### Part I — 目标不是先想明白的
@@ -47,6 +54,15 @@ Rocket League 和 Bills Must Be Paid 说明，失败不会自动变成“经验�
 [第四章：技术时代不会替你做选择——有人用现成工具，有人重组平台，有人自己造出窗口](chapters/04-technology-will-not-choose-for-you.md)
 
 Tom Francis、Brendan Greene 和 John Carmack 分别代表三种不同技术位置：继承已经扩散的工具、重组已有 substrate、以及自己推进 frontier。技术会改变可行解，但不会替创作者完成选择。
+
+
+### Part V — 市场不是最后一步
+
+> **东西做出来以前，市场什么时候已经开始影响它能不能继续被做？**
+
+[第五章：市场不是最后一步——有时玩家、钱和反馈在“做完之前”就已经进入生产系统](chapters/05-market-interface-is-production.md)
+
+Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可能同时提供 runway、反馈、legibility 和约束；有曝光也不等于市场接口有效。
 
 ---
 
