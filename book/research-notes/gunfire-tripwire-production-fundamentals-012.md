@@ -222,3 +222,30 @@ https://steamcommunity.com/app/418460/discussions/3/3288067088088393530/
 因此最稳妥结论是：
 
 > **正向案例的共同点不是“穷”“年轻”或“外国”，而是 validation ladder 与 ownership loop 更短：先让真实玩家证明核心，然后工业化已经成立的东西。**
+
+## 10. T9 provenance closeout
+
+本轮继续追查后，仍只确认到公开 credits / 社交存档层面的项目身份：
+
+- T9 = 《枪火重生》Producer & Director；
+- 同时署名 Game Designer / Level Designer；
+- 曾公开自述为 Gunfire Studio head / Gunfire Reborn director。
+
+截至 2026-10-06，仍未获得足够可靠公开证据闭环：
+
+- 中文实名；
+- 年龄/教育；
+- formative job；
+- 入多益时间；
+- Gunfire Studio 第一款产品；
+- 《枪火重生》最初 prototype 团队与周期；
+- 内部 greenlight / 资源追加链。
+
+因此这里的结论必须停在：
+
+> **T9 的公开 credits 足以证明高 ownership span，不足以证明其“年轻”“程序出身”或某种完整职业形成史。**
+
+下一轮最小取证动作不是继续用聚合站猜实名，而是寻找 T9 本人长访谈、开发者大会/直播、完整旧社媒、Duoyi 内部公开分享或第一作 credits chain。
+
+本轮所有相关截图/网页的 provenance 见：
+- `china-indie-source-intake-closeout-015.md`

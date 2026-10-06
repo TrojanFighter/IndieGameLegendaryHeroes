@@ -187,3 +187,21 @@ Status: PROMISING / NEEDS FAILURES AND NEGATIVE CONTROLS.
 - creative reserve；
 - cost visibility；
 - ability to unlearn。
+
+## 9. Closeout lock：三条不得从事后结果反推的说法
+
+本轮素材审计后，以下三条继续保持 OPEN / UNKNOWN，不应因为《黑神话：悟空》最终成功而事后补成“早有定论”：
+
+1. **“英雄互娱因为觉得 Game Science 不够优秀、黑猴做不成，所以急于卖股。”**
+   - 当前只有结果与交易/财务压力证据；
+   - 没有可靠一手动机证据。
+2. **“Game Science 手游阶段在国内安卓渠道评级很低。”**
+   - 当前缺少可审计评级、排期、合同或当事人公开复盘。
+3. **“某早期员工因为项目没有明确 benchmark，觉得公司坑爹，所以在广智/黑风山 playable 成立前离职。”**
+   - 具体人物仍未锁定；
+   - 已知著名前员工的时间线不能直接承担这条故事。
+
+没有新的 P1/P2 证据前，不再重复搜索结果式转述把它们升级。
+
+对应 provenance：
+- `china-indie-source-intake-closeout-015.md`
