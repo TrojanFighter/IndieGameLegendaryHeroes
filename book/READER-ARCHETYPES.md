@@ -60,6 +60,28 @@
 - [CASE-043 — Everything / David OReilly](../cases/CASE-043-everything-david-oreilly.md)
 - [CASE-043 Evidence Ledger](../evidence/CASE-043-everything-david-oreilly-source-ledger.md)
 
+
+### 第三站：Nomada / GRIS → Neva
+
+> **CASE-050 / RESEARCHING**。这不是“美术去补程序”的路线，而是 `CAPABILITY-COMPOSED`：visual thesis 先出现，再由 illustrator + AAA programmers 组成互补 founding capability。
+
+适合先看，如果你的问题是：
+> **我有很强的视觉/叙事作者性，但自己并不具备完整游戏生产能力；应该学成 generalist，还是找共同作者？**
+
+Nomada 的关键不是“Conrad Roset 画得好”，而是：
+- project thesis 先于公司；
+- Roset 的 visual-author capability 与 Cuevas/Mendoza 的 technical/AAA capability 在 founding stage 组合；
+- 2D / side-scroller 本身部分服务 Roset 的背景与 pacing control；
+- 共同创始人不是免费补能力：真正成本是 equity、authorship、control sharing 与长期关系依赖。
+
+**2026 状态：** `DURABLE` mechanism；2016–2018 publisher / Gamescom / indie-art market window 为 `HISTORICAL / CONDITIONAL`。
+
+研究入口：
+- [CASE-050 — Nomada / GRIS → Neva](../cases/CASE-050-nomada-gris-neva.md)
+- [CASE-050 Evidence Ledger](../evidence/CASE-050-nomada-gris-neva-source-ledger.md)
+
+---
+
 ---
 
 ## 我是程序员 / engine / systems-first
@@ -67,7 +89,8 @@
 优先看：
 - [early id / John Carmack](profiles/early-id-doom.md) — 技术能力不仅降低成本，也可能直接创造新产品空间；
 - [CASE-018 RollerCoaster Tycoon / Chris Sawyer](../cases/CASE-018-rollercoaster-tycoon.md) — 极端工程熟练度、长期代码资本与 OPC 上限；
-- [CASE-035 Factorio / Wube](../cases/CASE-035-factorio-wube.md) — 程序能力 + 系统型产品 + paid-alpha feedback loop。
+- [CASE-035 Factorio / Wube](../cases/CASE-035-factorio-wube.md) — 程序能力 + 系统型产品 + paid-alpha feedback loop；
+- [CASE-051 Zachtronics / Zach Barth](../cases/CASE-051-zachtronics.md) — 把 engineering literacy 直接做成玩家语言，并观察长期成功的 fit 如何反过来形成 `FIT-LOCK-IN`。
 
 **观察窗口：** 1990s–2010s。  
 **2026 状态：**
@@ -77,7 +100,12 @@
 不要学：
 > 因为你技术强，所以项目就应该技术复杂。
 
-先看 [Capability Trap](../schemas/capability-project-fit-audit.md)。
+Zachtronics 更值得学的是：
+> **把你理解问题的方式变成玩家能操作、比较和表达的系统。**
+
+同时要警惕：同一类 fit 长期成功后，工具、团队、品牌和受众会形成路径依赖；“最擅长做什么”也可能变成“很难再做别的什么”。
+
+先看 [Capability Trap / FIT-LOCK-IN](../schemas/capability-project-fit-audit.md)。
 
 ---
 
@@ -117,7 +145,8 @@
 - [CASE-042 The First Tree / David Wehle](../cases/CASE-042-the-first-tree.md) — `RESEARCHING`；
 - [CASE-043 Everything / David OReilly](../cases/CASE-043-everything-david-oreilly.md) — `RESEARCHING`；
 - [Undertale / Toby Fox](../cases/CASE-010-undertale.md) — 音乐、UGC/社区与作者性；
-- [despelote](../cases/CASE-023-despelote.md) — 文化、声音、地点记忆与低资产密度表达。
+- [despelote](../cases/CASE-023-despelote.md) — 文化、声音、地点记忆与低资产密度表达；
+- [CASE-050 Nomada / GRIS → Neva](../cases/CASE-050-nomada-gris-neva.md) — 视觉作者不被要求先变成全能开发者，而是通过 complementary cofounders 组成项目所需能力。
 
 核心问题不是：
 > “美术强怎么补程序？”
@@ -134,6 +163,7 @@
 - [Sultan's Game / Double Cross](../cases/CASE-038-sultans-game.md)
 - [CASE-046 Clair Obscur / Sandfall](../cases/CASE-046-sandfall-expedition33.md) — Ubisoft/AAA 能力迁移、<30 core 与工业外围的真实边界；
 - [CASE-048 The Magic Circle / Question](../cases/CASE-048-the-magic-circle.md) — 三位 immersive-sim / AAA 老兵做出极度“像自己”的项目，却仍卖到团队认为不可持续；
+- [CASE-050 Nomada / GRIS → Neva](../cases/CASE-050-nomada-gris-neva.md) — AAA programmer capability 与 visual-author capability 重新组合到完全不同 objective function；
 - [Gunfire Reborn comparator](../cases/CASE-039-gunfire-reborn.md)
 - [C013 — commercial capability / objective-function specialization](../claims/C013-capability-capital-objective-function-specialization.md)
 
@@ -165,7 +195,8 @@
 - [Rocket League / Psyonix](profiles/rocket-league.md) — work-for-hire 购买组织寿命；
 - [Minecraft](../cases/CASE-014-minecraft.md) — 产品、收费、社区、开发融资耦合；
 - [Factorio](../cases/CASE-035-factorio-wube.md) — 众筹失配后改成持续 paid-alpha；
-- [Bills Must Be Paid](profiles/bills-must-be-paid.md) — 平台迁移和 market model correction。
+- [Bills Must Be Paid](profiles/bills-must-be-paid.md) — 平台迁移和 market model correction；
+- [CASE-052 House House / Untitled Goose Game → Big Walk](../cases/CASE-052-house-house-goose-game.md) — public grant、publisher periphery 和 hit 后 retained earnings 如何连续制造组织选择权。
 
 注意：
 > 2013、2017、2019、2026 的平台条件不能混成一套“增长黑客”。
@@ -177,6 +208,7 @@
 优先看：
 - [CASE-047 The Witness / Jonathan Blow](../cases/CASE-047-the-witness.md) — `CAPABILITY-EXPANDED / SELF-FINANCED`：不是继续把项目缩到 founder 当前能力，而是用 Braid retained earnings 购买 art / architecture / landscape / specialist capability；
 - [CASE-049 Outer Wilds / Mobius Digital](../cases/CASE-049-outer-wilds.md) — `CAPABILITY-EXPANDED / EXTERNAL-CAPITAL`：先有 student thesis / playable evidence，再用 studio、crowdfunding、publisher 与 platform partnership 扩张能力；
+- [CASE-052 House House / Untitled Goose Game → Big Walk](../cases/CASE-052-house-house-goose-game.md) — `GRANT / NON-DILUTIVE + PUBLISHER`：public funding 先买 development/completion 与 specialist capability，publisher 再补 audio/platform/market periphery，成功后变成下一作的 self-funded risk buffer；
 - [Into the Breach / Subset](../cases/CASE-020-into-the-breach.md) — 同样是 prior success，但选择把资本变成长时间 low burn / design search，而不是显著扩张 production perimeter；
 - [CASE-046 Clair Obscur / Sandfall](../cases/CASE-046-sandfall-expedition33.md) — 另一种 small-core + industrial-periphery 路径。
 
@@ -199,6 +231,9 @@ The Witness 不是“有钱就堆人”的模板。它的特殊前提是 prior h
 Outer Wilds 则提醒：
 > **外部资本不仅购买能力，也会增加 backer / publisher / platform 的期望与约束面。**
 
+House House 再补一层：
+> **grant 与 publisher 都叫“外部资金”，但它们购买的 capability bundle 和 governance cost 并不相同。**
+
 这不等于“publisher 会夺走创作权”。真正要看合同与 decision rights，不能从“有发行商”直接推断失去控制。
 
 ---
@@ -220,7 +255,7 @@ Outer Wilds 则提醒：
 
 > **什么项目形态会让你已有的能力产生复利，同时让最昂贵的弱项少出现。**
 
-这正是 [C015 能力反向立项](../claims/C015-capability-shaped-project-formation.md) 要检验的东西：低资本时，先问**什么作品会把你的能力向量变成设计优势**；而 CASE-047/049 又提醒我们，资本足够时也可以反过来问**哪些缺失能力值得购买，而不是删掉项目野心；以及谁的钱会以什么 governance 代价买来这些能力**。
+这正是 [C015 能力反向立项](../claims/C015-capability-shaped-project-formation.md) 要检验的东西：低资本时，先问**什么作品会把你的能力向量变成设计优势**；而 CASE-047/049/052 又提醒我们，资本足够时也可以反过来问**哪些缺失能力值得购买，而不是删掉项目野心；以及 founder money、grant、publisher/platform money 会以什么不同 governance 代价买来这些能力**。CASE-050 进一步提醒：有时缺失能力不是雇来的，而是通过共同创始人进入，这时你支付的是 authorship / equity / control。
 
 ---
 
