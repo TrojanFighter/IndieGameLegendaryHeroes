@@ -92,6 +92,7 @@ Nomada 的关键不是“Conrad Roset 画得好”，而是：
 - [CASE-035 Factorio / Wube](../cases/CASE-035-factorio-wube.md) — 程序能力 + 系统型产品 + paid-alpha feedback loop；
 - [CASE-051 Zachtronics / Zach Barth](../cases/CASE-051-zachtronics.md) — 把 engineering literacy 直接做成玩家语言，并观察长期成功的 fit 如何反过来形成 `FIT-LOCK-IN`。
 - [CASE-053 Kenny Sun / Circa Infinity → BALL x PIT](../cases/CASE-053-kenny-sun.md) — 如果你的问题不是“程序员最适合做什么”，而是“怎样让今天的程序能力经过连续出货，逐步长成 generalist / author / team-lead capability”，优先看这个纵向样本。
+- [CASE-054 Limit Theory / Josh Parnell](../cases/CASE-054-limit-theory-fit-trap.md) — 反例入口：技术能力极强时，如何出现 `engine completeness ↑ / game completeness ↔`，最终把最强能力变成 FIT-TRAP。
 
 **观察窗口：** 1990s–2010s。  
 **2026 状态：**
@@ -100,6 +101,8 @@ Nomada 的关键不是“Conrad Roset 画得好”，而是：
 
 不要学：
 > 因为你技术强，所以项目就应该技术复杂。
+
+Limit Theory 把这句话变成了可审计的负例：**最危险的不是技术失败，而是技术不断成功、却没有减少剩余产品 obligation。**
 
 Zachtronics 更值得学的是：
 > **把你理解问题的方式变成玩家能操作、比较和表达的系统。**

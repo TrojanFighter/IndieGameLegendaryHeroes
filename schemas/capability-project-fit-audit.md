@@ -260,6 +260,7 @@ The First Tree 尤其作为首个示范：
 - **CASE-051 Zachtronics** — `FIT-STRONG + FIT-LOCK-IN`：engineering literacy 长期变成产品语言、niche audience 与 production system，同时 creator 明确报告难以做出不像 Zachtronics 的作品。
 - **CASE-052 House House / Untitled Goose Game** — `GRANT / PUBLISHER EXPANSION`：public completion funding 直接增加 local developer/accessibility capability，publisher 再补 audio / platform / market periphery；用于拆 external capital 的不同 capability bundle。
 - **CASE-053 Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT** — `FIT-STRONG / LONGITUDINAL CAPABILITY ACCRETION`：不是新增 fit 标签，而是提醒 capability map 本身会随项目、职业工作、收入与外围协作变化。Kenny 从 Flash / jam / solo commercial artifact，经 Harmonix + weekend shipping、2016 主动搁置过大 Hatbox、2019 重启、Raw Fury release periphery，最终走到 BALL x PIT 的 first team-lead + specialist core；用于把静态的 `capability → project` 改写成可研究的 `project_t → capability_(t+1)`。
+- **CASE-054 Limit Theory / Josh Parnell** — `FIT-TRAP`：real-time rendering / engine 强项支撑 infinite procedural thesis，同时持续打开 custom engine、custom scripting、procedural simulation、economy/AI、modding、performance 与 rewrite 的技术投入面。2018 官方先宣告 2000+ ships / full AI 的 engine success、content/gameplay 尚在后面；取消时 creator 又明确记录 `far from feature completion` 且 engine 比 game code 更 solid。它是第一个真正独立/小团队内部的强 FIT-TRAP 锚点。
 - **《牛来》 / 信雨萌** — 跨媒介 comparator，不作为游戏 Case。公开访谈显示其从艺术景观背景转入动画、长期自学并以单人核心承担大量传统动画工序。研究重点不是嘲笑粗糙，而是区分：哪些成本被真正重新定义，哪些只是由五年个人劳动替代专业团队。
 
 ### Wave 2 — 优先补证对象
@@ -274,8 +275,8 @@ The First Tree 尤其作为首个示范：
 
 ### Capability Trap / 反压力线
 
-- **CASE-029 Boundary** 与 **CASE-030 Outpost: Infinity Siege** 可作为候选压力样本：重点不是“中国团队不会独立游戏”，而是核验强商业/工程/工业化能力是否诱发了组织扩张、feature accumulation、表现成本和固定 burn 的提前上升。
-- 后续必须继续找**真正独立、小团队内部**的 `FIT-TRAP` 失败例，避免只拿大组织或中国项目充当反例。
+- **CASE-054 Limit Theory** 已补上第一个真正独立/小团队内部的强 `FIT-TRAP`：局部 engineering capability 持续成功，但 engine maturity 与 shipped-game maturity 明显脱钩。
+- **CASE-029 Boundary** 与 **CASE-030 Outpost: Infinity Siege** 仍保留为不同组织尺度的候选压力样本：用于检验强商业/工程/工业化能力是否诱发组织扩张、feature accumulation、表现成本和 fixed burn，而不再承担“唯一 FIT-TRAP 反例”的职责。
 - 还需寻找 `FIT-STRONG but commercially failed`：即能力—项目高度适配、产品也完成得好，但市场需求不足或 market access 失败。只有这样才能证明 Capability–Project Fit 不是“成功充分条件”。
 
 ---
@@ -299,7 +300,7 @@ C015 只主张：
 
 - 已有 2 个 `CAPABILITY-SHAPED but commercially failed`（Brigador / The Magic Circle），后续重点转向失败类型分解；
 - 已有多种 capability expansion（The Witness / Outer Wilds / House House），仍缺 VC/equity 与真实 control-term 对照；
-- 仍至少缺 1 个强 `FIT-TRAP`；
+- 已有 CASE-054 作为第一份强 `FIT-TRAP`；下一步重点不是机械补第二个，而是找成功的 deep-tech stop-condition 对照，验证何时能力会变成 trap；
 - `CAPABILITY-COMPOSED` 与 `FIT-LOCK-IN` 各只有一个强锚点，需要第二样本；
 - 立项期证据而非成功后叙事；
 - 与资金、平台窗口、既有受众和 luck 的分离。

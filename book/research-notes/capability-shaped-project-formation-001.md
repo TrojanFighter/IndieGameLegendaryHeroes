@@ -358,6 +358,34 @@ CASE-053 暴露出当前框架的一个静态偏差。
 
 目前只有 CASE-053 作为清晰纵向锚点，不能升级成正式 Claim。后续至少需要第二、第三个不同背景样本，并主动找一例“连续出货没有形成有效能力复利、反而形成错误惯性”的压力对照。
 
+### Limit Theory：能力最危险的时候，是它一直在局部证明自己
+
+CASE-054 补上了此前真正缺失的 `FIT-TRAP`。
+
+这不是一个“作者能力不足”的故事。恰恰相反，Josh Parnell 的 engine / graphics / procedural capability 在开发期间不断产出真实成果：
+
+- custom engine；
+- custom scripting / later Lua architecture；
+- procedural generation；
+- economy / macro AI；
+- moddability / live authoring；
+- performance engineering；
+- 2018 PAX demo 的 2000+ ships / projectiles / full AI。
+
+问题是这些成功逐渐不能代理 `game completeness`。
+
+最终形成一个很危险的结构：
+
+`strong capability → more solvable technical subproblems → visible local progress → larger technical frontier → product closure delayed`
+
+取消时作者自己留下了极其罕见的审计句：源码不是 working game、大片区域 half-refactored / half-complete，但 engine 是相对 solid 的 engineering，明显强于 Lua game code。
+
+因此 `能力是资本` 必须加一个负向条件：
+
+> **只有当能力持续减少 remaining product obligations 时，它才是生产资本；如果它主要扩大自己可以继续优化的对象集合，它可能已经变成 capability trap。**
+
+这也重新解释 DOOM 为什么不是反例。Carmack 的技术突破不是单纯把 engine 做得更复杂，而是直接降低了做出一种新型实时动作游戏的成本并迅速兑现为可玩的 shareware product。Limit Theory 则不断让技术突破打开更多世界模拟 obligation。
+
 ## 更大的统一模型
 
 因此“能力反向立项”不应被误写成：
@@ -399,5 +427,6 @@ C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 2. The Witness + Outer Wilds + House House 已覆盖 `SELF-FINANCED / EXTERNAL-STACK / GRANT+PUBLISHER`；下一步只重点补 **VC/equity-financed** expansion 与真实 decision-rights / milestone / recoup 条款。
 3. Nomada 已建立第一份 `CAPABILITY-COMPOSED`；下一步找 complementary-founder 失败/解体压力样本。
 4. Zachtronics 已建立第一份 `FIT-LOCK-IN`；下一步找第二个长期工作室样本。
-5. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
-6. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。
+5. Limit Theory 已建立第一份真正独立/小团队 `FIT-TRAP`；下一步改为找 **deep-tech 但 stop condition 清晰、技术持续压缩 product obligation** 的成功对照，避免形成“自研技术有罪”的伪理论。
+6. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
+7. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。
