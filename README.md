@@ -15,9 +15,10 @@
 
 **如果你第一次来，只想读人和故事：**
 
-> **[进入《第一次来，先从这里读》](book/START-HERE.md)**
+> **[进入《第一次来，先从这里读》](book/START-HERE.md)**  
+> **[或直接进入章节目录](book/chapters/README.md)**
 
-它按现实问题组织文章，不要求你先理解 Case / Evidence / Claim。你可以从“我不知道自己以后要做什么”“该不该辞职”“没钱怎么办”“失败很多次还有没有意义”“新技术到底改变了什么”直接进入现成 Profile。
+书稿现在按现实问题组织，而不是按 Case 编号：目标怎么形成、谁替你支付试错时间、失败到底留下了什么。读完章节后，再按兴趣进入单个人物 Profile。
 
 **如果你是研究者、开发者，或者想核每句话：**
 
@@ -29,7 +30,7 @@
 - **41 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **14 个跨案例 Claim**，检验 runway、能力资本、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
-- 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
+- [`book/`](book/) 已形成 **章节层 + 人物 Profile 层**：当前 3 篇跨人物章节、6 篇完整人物 Profile，把研究档案翻译成普通读者可连续阅读的人生与生产史；
 - [`book/INDIE-MOVEMENT.md`](book/INDIE-MOVEMENT.md) 解释本书所说的“独立游戏运动”、`independent` 与 `indie` 的区别，以及为什么 mod / UGC → 商业放大的桥梁案例也属于生产谱系研究；
 - [`cross-industry/industrial-revolutions/`](cross-industry/industrial-revolutions/) 建立工业革命比较实验室，追踪技术从 invention → engineering maturity → economic viability → diffusion → complementary fit → organizational absorption，并为每个英雄人物的 Technical Opportunity Window 提供时代背景。
 
