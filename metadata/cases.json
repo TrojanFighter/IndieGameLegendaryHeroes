@@ -1,5 +1,5 @@
 {
-  "version": 28,
+  "version": 29,
   "last_updated": "2026-10-07",
   "cases": [
     {
@@ -1788,6 +1788,39 @@
       ],
       "last_verified": "2026-10-07",
       "evidence_ledger": "evidence/CASE-055-factorio-stop-conditions-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-056",
+      "file": "cases/CASE-056-playdead-founder-governance.md",
+      "subject": "Playdead / Arnt Jensen + Dino Patti: complementary founders, authorial control and governance dissolution",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C015"
+      ],
+      "tags": [
+        "capability-composed",
+        "complementary-founders",
+        "founder-governance",
+        "creative-director",
+        "executive-producer",
+        "equity",
+        "authorship",
+        "decision-rights",
+        "founder-exit",
+        "playdead",
+        "limbo",
+        "inside",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-056-playdead-founder-governance-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "partial",
       "schema_version": 2,

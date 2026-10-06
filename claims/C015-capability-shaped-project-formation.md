@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056
 
 ## Definition
 
@@ -272,6 +272,28 @@ Together with early id / DOOM, Factorio also separates two successful uses of de
 - **frontier creation** — new technology directly creates a new playable product space;
 - **frontier discipline** — deep technology remains valuable, but only while it continues to close core product obligations.
 
+### CASE-056 Playdead — complementary founders solve capability gaps but create governance obligations
+
+Playdead supplies the missing pressure case for `CAPABILITY-COMPOSED`.
+
+The formation evidence is unusually clean. Arnt Jensen's LIMBO thesis and visual/game-direction work precede the full studio. Dino Patti joins later with programming / production experience and becomes central to hiring, financing, company building and execution. In the 2012 joint interview, the structure is already visible: Patti's initial aim was to help Jensen realize the creative vision; Jensen says he had originally wanted to make it himself, while Patti helped turn the project into a financed team and company.
+
+This composition clearly **worked as production**. The pair built Playdead and shipped LIMBO and later INSIDE. So CASE-056 is not a story of obvious founder mismatch.
+
+The pressure appears later. Despite product success, the founder relationship dissolved; Patti exited nearly half ownership for DKK 50m after a severe conflict. Patti's later direct accounts identify both the personal fallout and disagreement with entering another extremely long development horizon as relevant dimensions. Years after the exit, authorship / credit remained part of an active legal dispute.
+
+This gives `CAPABILITY-COMPOSED` a necessary cost boundary:
+
+> **A complementary cofounder does not merely supply missing labor. Founder-level capability is purchased with shared equity, authority, authorship, time-horizon dependency, deadlock exposure and exit cost.**
+
+Therefore Nomada / GRIS must not be read as “find a complementary cofounder and the capability gap disappears.” The more accurate model is:
+
+`missing capability → founder composition → executable capability set + shared governance surface`
+
+The product side can be highly successful while the governance side later becomes the dominant cost.
+
+For now `FOUNDER-GOVERNANCE DISSOLUTION PRESSURE` is only a research mechanism, not a new taxonomy label or Claim.
+
 ### Other boundaries
 
 - CASE-043 shows redefinition can merely **move** cost: rolling/procedural locomotion deleted conventional animation obligations but created hard systems work.
@@ -349,6 +371,7 @@ This is why some independent games look “strange” relative to industry genre
 - “所有成功独立游戏都是按主创能力反向定制的”；
 - “找到最适合自己的类型就应该永远做下去”；
 - “共同创始人是免费补能力”；
+- “互补共同创始人只要成功做成过产品，治理结构就已经被永久验证”；
 - “grant、publisher、VC 只是同一种钱”；
 - “强项越强，越应该让项目无限增加强项相关复杂度”；
 - “自研引擎本身就是 FIT-TRAP”。
@@ -363,6 +386,6 @@ This is why some independent games look “strange” relative to industry genre
 3. 在 Jonas Tyroller 多项目里寻找同一个人是否越来越显性地做 capability–project matching。
 4. 检验 2020s AI / asset / no-code 环境是否扩大了 creator 可选择的项目集合，从而改变“能力反向立项”的边界。
 5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）+ CASE-052（grant + publisher）已覆盖三种 capability expansion 资本结构；下一步主要缺 **VC/equity-financed** 样本与可观察的 decision-rights / milestone / recoup 数据。
-6. CASE-050 已建立第一份 `CAPABILITY-COMPOSED`；下一步找一个 complementary-founder 结构仍失败/解体的压力样本，避免把“找互补合伙人”写成万能解。
+6. CASE-050 Nomada + CASE-056 Playdead 已形成第一组 `CAPABILITY-COMPOSED` 正例 / 治理解体压力对照：互补能力可以把 thesis 变成可执行组织，但 founder-level capability 同时绑定 equity / authorship / authority / exit。下一步优先找一例**显式设计 deadlock / buy-sell / role authority 并长期运作成功**的治理对照，或一例在产品完成前就因 composition/governance 失败的样本。
 7. CASE-051 建立 `FIT-LOCK-IN`；下一步找第二个长期作者/工作室样本，检验成功的 capability fit 是否会系统性提高转型成本。
 8. CASE-055 已建立第一份 deep-tech success-side stop-condition 对照，与 CASE-054 形成首个 failure/success pair；下一步再找一个非 Wube 样本，检验 `enough condition / player-facing obligation / maintenance tail / release closure` 是否可跨工作室复现。
