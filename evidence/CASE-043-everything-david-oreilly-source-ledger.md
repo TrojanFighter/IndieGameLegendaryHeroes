@@ -21,7 +21,7 @@
 - Source class: P0 — launch-day direct creator interview.
 - Title: David O'Reilly Talks About Life, the Universe and 'Everything'.
 - Author / Institution: Ben Roazen / Hypebeast; interviewee David OReilly.
-- Published: 2017-04.
+- Published: 2017-04-27.
 - Accessed: 2026-10-06.
 - URL: https://hypebeast.com/2017/4/david-oreilly-everything-video-game-interview
 - Claim use: directly establishes self-funding and ownership, Damien Di Fede as the coder for Mountain and Everything, the six-month estimate expanding toward three years, additional music / sound / modeling / PS4-optimization contributors, and OReilly's stated poverty/debt burden.
@@ -93,7 +93,7 @@
 - Source class: P0 — publisher / creator distribution pages.
 - Title: Everything.
 - Author / Institution: Double Fine Productions; David OReilly / itch.io.
-- Published: 2017.
+- Published: UNKNOWN (2017 release/distribution page).
 - Accessed: 2026-10-06.
 - URL: https://www.doublefine.com/games/everything
 - Corroborating URL: https://davidoreilly.itch.io/everything
