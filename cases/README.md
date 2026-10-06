@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 38 个档案中，35 个为 RESEARCHING，3 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 41 个档案中，39 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -38,7 +38,7 @@
 | CASE-026 | Brigador / Stellar Jockeys | 失败 comparator：检验强产品执行为何仍可因 onboarding、market legibility、受众预期与成本—市场错位导致首发商业失败 | RESEARCHING |
 | CASE-027 | Dyson Sphere Program / Youthcat Studio | 待核：团队前史、人数、runway、范围控制与发行关系；原引用不能支撑独立正例判定 | SKELETON |
 | CASE-028 | Chinese Online Game / 648 Studio | 官方自述单人业余约五年；检验模拟网游体验的表现成本，职业前史与完整协作者边界仍 UNKNOWN | RESEARCHING |
-| CASE-029 | Boundary / Surgical Scalpels Studio | 待核：所有权、融资、团队扩张与停服因果；已定位发行方公告，不据单方声明归责 | SKELETON |
+| CASE-029 | Boundary / Surgical Scalpels Studio | **LONG-CYCLE MULTIPLAYER FAILURE-PRESSURE CASE**：已确认三人起步、PVE 成本压力、多次方向变化、首日 >100k paid copies 与后续停服；检验 novelty/acquisition 已成立时的 error-persistence 与 ecosystem obligation，不做单一责任归因 | RESEARCHING |
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | 待核：团队归属、职业前史、范围与市场预期；不预设企业内部负例结论 | SKELETON |
 | CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | **LONGITUDINAL PRACTITIONER**：检验同一开发者如何跨三人、solo-core、两人团队反复出货，并区分快速原型、范围压缩、市场可读性、公开沟通与运气各自的真实作用 | RESEARCHING |
 | CASE-032 | PLAYERUNKNOWN / Brendan Greene: DayZ Battle Royale → H1Z1 → PUBG | **LINEAGE / TRANSITION CASE**：检验非传统作者怎样在 Arma/DayZ mod 中以规则发明和社区验证先获得作品信用，再经 H1Z1 与 Bluehole 两轮商业组织放大为 PUBG；不得把 PUBG 公司生产整体包装成独立游戏 | RESEARCHING |
@@ -48,6 +48,9 @@
 | CASE-036 | Manor Lords / Slavic Magic | 检验 `solo core` 与完整 production perimeter 的边界，以及 Patreon / MegaGrant / freelancer / QA / publisher 如何分阶段补足单人作者短板 | RESEARCHING |
 | CASE-037 | Darkwood / Acid Wizard Studio | 检验合同工作桥接、众筹 gross 与真实 runway 的错位、工期误判、Early Access 延展与多人功能删除 | RESEARCHING |
 | CASE-038 | Sultan's Game / Double Cross | **CHINA INDUSTRY TRANSITION / CAPABILITY-TRANSFER CASE**：检验商业手游老兵如何在组织收缩后保留专业能力、重写 scope/管理/市场接口，并区分能力正迁移、world-model 负迁移与 human-cost；独立资格与融资边界继续审计 | RESEARCHING |
+| CASE-039 | Gunfire Reborn / Duoyi Games Gunfire Studio | **NON-INDIE PRODUCTION-FUNDAMENTALS COMPARATOR**：检验 premium / Early Access、T9 高 ownership span 与证据后扩张；公司内部资源与 T9 formative history 继续审计 | RESEARCHING |
+| CASE-040 | Tripwire: Red Orchestra → Killing Floor → Rising Storm | **VALIDATION-LADDER / COMMUNITY-AS-PRODUCTION CASE**：检验 mod/community playable 如何先形成证据，再公司化、商业化与吸收外部团队 | RESEARCHING |
+| CASE-041 | NExT Studios portfolio → SYNCED | **CORPORATE-INNOVATION / REGIME-TRANSITION COMPARATOR**：比较早期小型 premium 0→1 与 SYNCED 的 2A/AAA + F2P/GaaS resource escalation，区分产品失败与组织残值 | RESEARCHING |
 
 ## 规则
 
