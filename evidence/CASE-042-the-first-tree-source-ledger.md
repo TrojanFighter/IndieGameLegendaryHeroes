@@ -10,7 +10,7 @@
 - Title: No Time, No Budget, No Problem: Finishing 'The First Tree'
 - Author / Speaker: David Wehle.
 - Institution: Game Developers Conference / GDC Vault.
-- Published: 2019-03 (GDC 2019 session).
+- Published: UNKNOWN (GDC 2019 session).
 - Accessed: 2026-10-06.
 - URL: https://www.gdcvault.com/play/1025702/No-Time-No-Budget-No
 - Claim use: confirms Wehle framed the project around finishing while working 40+ hours at The VOID and raising two children; supports the time-budget constraint and retrospective production framing.
