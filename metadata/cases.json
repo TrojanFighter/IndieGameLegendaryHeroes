@@ -1,5 +1,5 @@
 {
-  "version": 20,
+  "version": 21,
   "last_updated": "2026-10-06",
   "cases": [
     {
@@ -886,24 +886,28 @@
       "case_id": "CASE-029",
       "file": "cases/CASE-029-boundary.md",
       "subject": "Boundary / Surgical Scalpels Studio",
-      "research_status": "SKELETON",
-      "evidence_strength": "low",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "medium",
       "explanatory_importance": "critical",
       "narrative_value": "high",
-      "related_claims": [],
+      "related_claims": [
+        "C014"
+      ],
       "tags": [
         "china-comparator",
-        "source-recovery",
-        "eligibility-unverified",
         "multiplayer",
-        "live-service"
+        "live-service",
+        "long-cycle",
+        "novelty-hook",
+        "error-persistence",
+        "source-recovery"
       ],
-      "last_verified": "2026-10-05",
+      "last_verified": "2026-10-06",
       "evidence_ledger": "evidence/CASE-029-boundary-source-ledger.md",
       "contributor_audit": "pending",
       "market_access_audit": "pending",
       "schema_version": 2,
-      "context_audit": "pending"
+      "context_audit": "partial"
     },
     {
       "case_id": "CASE-030",
@@ -1177,7 +1181,8 @@
         "C009",
         "C010",
         "C011",
-        "C012"
+        "C012",
+        "C013"
       ],
       "tags": [
         "china-industry-transition",
@@ -1193,6 +1198,93 @@
       ],
       "last_verified": "2026-10-06",
       "evidence_ledger": "evidence/CASE-038-sultans-game-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-039",
+      "file": "cases/CASE-039-gunfire-reborn.md",
+      "subject": "Gunfire Reborn / Duoyi Games Gunfire Studio",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "medium",
+      "explanatory_importance": "critical",
+      "narrative_value": "high",
+      "related_claims": [
+        "C013",
+        "C014"
+      ],
+      "tags": [
+        "china-comparator",
+        "non-indie-comparator",
+        "premium",
+        "early-access",
+        "ownership-span",
+        "feedback-loop",
+        "resource-escalation",
+        "t9-history-open",
+        "market-access"
+      ],
+      "last_verified": "2026-10-06",
+      "evidence_ledger": "evidence/CASE-039-gunfire-reborn-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-040",
+      "file": "cases/CASE-040-tripwire-lineage.md",
+      "subject": "Tripwire lineage: Red Orchestra mod → Killing Floor → Rising Storm",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C014"
+      ],
+      "tags": [
+        "lineage-case",
+        "modding",
+        "community-validation",
+        "make-something-unreal",
+        "commercialization",
+        "feedback-loop",
+        "resource-escalation",
+        "market-access"
+      ],
+      "last_verified": "2026-10-06",
+      "evidence_ledger": "evidence/CASE-040-tripwire-lineage-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-041",
+      "file": "cases/CASE-041-next-synced.md",
+      "subject": "NExT Studios portfolio → SYNCED",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "medium",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C013",
+        "C014"
+      ],
+      "tags": [
+        "china-corporate-innovation",
+        "next-studios",
+        "synced",
+        "portfolio",
+        "regime-transition",
+        "live-service",
+        "resource-escalation",
+        "error-persistence"
+      ],
+      "last_verified": "2026-10-06",
+      "evidence_ledger": "evidence/CASE-041-next-synced-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "partial",
       "schema_version": 2,
