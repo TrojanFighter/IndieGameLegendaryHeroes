@@ -368,6 +368,23 @@ Steam 后来直接把《一个适合苏丹的游戏》作为“原著小说”DL
 
 ---
 
+## 10.8 下一轮 Role-Origin Dataset 新增强制字段
+
+本轮四案例与截图摄取显示，原来的 role-title 编码仍然不够。后续每个人必须再补：
+
+- **formative regime**：真正形成能力的生产制度，而不是最后一家公司；
+- **adaptive regime**：后来为了市场/岗位临时适配的制度；
+- **team continuity**：与核心同伴共同 ship / prototype 的年限；
+- **benchmark dependence**：无 benchmark 时是否还能工作；
+- **time-to-playable**：idea 到 playable 的典型延迟；
+- **capital-at-risk-before-validation**：验证前已有多少人力/资金暴露；
+- **error persistence cost**：重大错误能活多久；
+- **market-interface literacy**：是否知道目标玩家在哪、如何得到付费反馈；
+- **platform capital dependence**：旧组织替个人提供了多少默认能力；
+- **unlearning evidence**：是否主动删掉旧 regime 的做法。
+
+这些字段优先于“程序/策划”二分。
+
 ## 11. 下一轮应该怎样把它做成真正可检验的人才史研究
 
 ### 11.1 建立 Role-Origin Dataset，而不是继续收段子
