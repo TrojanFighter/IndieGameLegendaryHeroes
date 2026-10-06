@@ -1,8 +1,8 @@
-# 凉屋内部制度对照：programmer-producer 到 plannerized live-service
+# 凉屋内部制度对照：programmer-producer 与 hybrid plannerized live-service
 
 - Status: RESEARCH NOTE / WITHIN-FIRM COMPARATOR / NOT A FORMAL CLAIM
 - Last verified: 2026-10-06
-- Scope: 凉屋游戏从早期 programmer-producer / no-dedicated-planner 结构，演化到当前存在专职玩法、数值、经济策划与 live-service 项目的组织变化
+- Scope: 凉屋游戏如何在保留自下而上、小队原型与制作人 ownership 的同时，叠加专职玩法、数值、经济策划与 live-service 职能
 - Related: `china-commercial-game-training-role-origin-audit-005.md`, `CASE-028 Chinese Online Game`
 - Claim status: **NOT A FORMAL CLAIM**
 
@@ -51,7 +51,7 @@ Role-Origin Audit 的一个关键难题是：如果只把人按“程序 / 策�
 
 ---
 
-## 2. 当前凉屋：专职策划重新出现
+## 2. 当前凉屋：专职策划重新出现，但早期小队制度没有被替换
 
 当前凉屋官网与招聘页面已经出现明确的专业策划岗位：
 
@@ -79,6 +79,20 @@ Role-Origin Audit 的一个关键难题是：如果只把人按“程序 / 策�
 
 这说明当前凉屋的 production regime 已经不能再用 2017 年的“没有专职策划”描述。
 
+2026 年 4Gamer 对李泽阳的采访又补上了关键反压力：公司虽已接近 200 人、同时运行十条以上开发线，但大部分项目仍由员工主动发起，管理层自上而下推动的项目不多；新项目通常只有 4–5 人起步，产品跑起来后再增加成员。也就是说，凉屋没有简单从 author-driven 小队“转型成”传统职能制大团队，而是形成了**小队自组织 + 专业职能叠加**的混合结构。
+
+因此这里的纵向变化应写成 **hybridization**，而不是 linear replacement：
+
+```text
+早期：1–3 人、无专职策划、programmer/artist-producer
+↓
+规模扩大、live-service obligation 增加
+↓
+当前：4–5 人起步的自组织项目仍保留
+     + 专职玩法 / 数值 / 经济 / 文案等策划
+     + 赛季、经济、长期运营、数据反馈职能
+```
+
 ### 重要边界
 
 这不等于凉屋放弃制作人主导，也不等于现代凉屋是传统大厂结构。
@@ -87,7 +101,7 @@ Role-Origin Audit 的一个关键难题是：如果只把人按“程序 / 策�
 
 更准确的表述是：
 
-> **原有的 author-driven producer model 上，叠加了专业化策划、长期运营、经济系统与数据反馈职能。**
+> **原有的 author-driven producer model 没有消失，而是在更大的组织中与专业化策划、长期运营、经济系统与数据反馈职能并存。**
 
 ---
 
@@ -99,7 +113,7 @@ Role-Origin Audit 的一个关键难题是：如果只把人按“程序 / 策�
 
 | 维度 | 《中国式网游》 | 《元气骑士前传》 |
 |---|---|---|
-| 核心生产结构 | solo core；作者自述策划、程序、简单美术大量工作一人承担 | 多岗位项目团队；当前公开招聘包含项目玩法策划、数值/经济策划等 |
+| 核心生产结构 | solo core；作者自述策划、程序、简单美术大量工作一人承担 | 项目仍可能从 4–5 人自组织小队起步，但成熟 live-service 线已拥有玩法、数值/经济等专业岗位 |
 | 商业接口 | premium / 买断制单机 | 移动 live-service；包含广告与应用内购买 |
 | 时间结构 | 有限作品，把长期网游经验压缩成单机流程 | 赛季持续更新、长期回流与成长 |
 | progression | 充值、成长、排行榜、活动等被转换为模拟/讽刺对象 | 职业、技能、装备、羁绊、专精、赛季等构成真实长期成长系统 |
@@ -163,7 +177,7 @@ Role-Origin Audit 的一个关键难题是：如果只把人按“程序 / 策�
 - 这个 feature 值不值得自己的实现成本；
 - 小团队能否完成。
 
-plannerized live-service 项目中的专业岗位则更频繁面对：
+hybrid plannerized live-service 项目中的专业岗位则更频繁面对：
 
 - 数值经济是否稳定；
 - 长期成长是否成立；
@@ -264,6 +278,9 @@ plannerized live-service 项目中的专业岗位则更频繁面对：
 - 新浪 / 游戏陀螺（2019）：扩张后的制作人有美术、有程序，“唯独没有策划”。  
   https://games.sina.cn/cyfw/cyxw/2019-07-15/detail-ihytcitm2122276.d.html
 
+- 4Gamer（2026-06-23）：李泽阳说明凉屋接近 200 人、十条以上开发线，大部分项目仍由员工主动发起，新项目通常 4–5 人起步，跑起来后再扩人。  
+  https://www.4gamer.net/games/963/G096388/20260609005/
+
 - 凉屋当前招聘：游戏策划、主策/资深数值策划；职责包含系统、经济、玩家行为、生命周期与付费模式。  
   https://www.chilly.tech/zh/join-us
 
@@ -280,7 +297,7 @@ plannerized live-service 项目中的专业岗位则更频繁面对：
 
 截至 2026-10-06，这个 within-firm comparator 最多支持：
 
-> **同一开发公司的商业模式、组织规模与 service obligation 变化，可以伴随岗位专业化和反馈函数变化；因此“程序 / 策划”职位标签本身不足以解释独立游戏能力迁移。**
+> **同一开发公司可以在保留小队自组织与制作人 ownership 的同时，因商业模式、组织规模与 service obligation 增加而叠加专业策划职能；因此“程序 / 策划”职位标签本身不足以解释独立游戏能力迁移。**
 
 它尚不能支持：
 
