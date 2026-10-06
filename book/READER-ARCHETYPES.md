@@ -12,6 +12,8 @@
 
 每条入口同时标记历史年份和 **2026 时效状态**。具体平台打法过期，不等于案例失去价值；真正要保留的是项目如何围绕能力不对称重新定义问题。
 
+这里新增一个更前置的机制：**能力反向立项（Capability-Shaped Project Formation）**。有些作者不是先想一个标准游戏再按预算削减，而是先知道自己会什么、不会什么，再反过来定义一个最适合这组能力的项目。正式命题见 [C015](../claims/C015-capability-shaped-project-formation.md)，综合笔记见 [能力反向立项](research-notes/capability-shaped-project-formation-001.md)。
+
 ## 我是 Technical Artist / 技术美术 / visual-first
 
 ### 第一站：The First Tree / David Wehle
@@ -84,7 +86,8 @@
 优先看：
 - [Gunpoint / Tom Francis](profiles/gunpoint.md) — 九年评论与比较怎样变成 idea selection、scope deletion 和 prototype；
 - [CASE-031 Jonas Tyroller](../cases/CASE-031-jonas-tyroller.md) — 多原型、公开表达、项目筛选；
-- [CASE-008 Dream Quest / Peter Whalen](../cases/CASE-008-dream-quest.md) — 重度玩家知识与规则设计前史。
+- [CASE-008 Dream Quest / Peter Whalen](../cases/CASE-008-dream-quest.md) — 重度玩家知识与规则设计前史；
+- [CASE-045 RimWorld / Tynan Sylvester](../cases/CASE-045-rimworld.md) — 用“story generator”作为价值函数控制 feature selection。
 
 **观察窗口：** 2010s–2020s。  
 **2026 状态：** comparison → hypothesis → prototype 为 `DURABLE`；具体 Steam/媒体曝光面 `CONDITIONAL`。
@@ -99,6 +102,7 @@
 优先看：
 - [CASE-032 PLAYERUNKNOWN / Brendan Greene](../cases/CASE-032-pubg-brendan-greene.md)
 - [CASE-040 Tripwire lineage](../cases/CASE-040-tripwire-lineage.md)
+- [CASE-044 Garry Newman / Garry's Mod → s&box](../cases/CASE-044-garry-newman-sbox.md) — 从成功 modder 到 2026 creator-platform pressure 的同人纵向；
 - [CASE-021 Roblox Creator Cluster](../cases/CASE-021-roblox-creator-cluster.md)
 - [early id / DOOM mod ecology](profiles/early-id-doom.md)
 
@@ -128,6 +132,7 @@
 优先看：
 - [Papers, Please / Lucas Pope](../cases/CASE-003-papers-please.md)
 - [Sultan's Game / Double Cross](../cases/CASE-038-sultans-game.md)
+- [CASE-046 Clair Obscur / Sandfall](../cases/CASE-046-sandfall-expedition33.md) — Ubisoft/AAA 能力迁移、<30 core 与工业外围的真实边界；
 - [Gunfire Reborn comparator](../cases/CASE-039-gunfire-reborn.md)
 - [C013 — commercial capability / objective-function specialization](../claims/C013-capability-capital-objective-function-specialization.md)
 
@@ -182,6 +187,8 @@
 本书真正想帮你找的不是“职业人格”，而是：
 
 > **什么项目形态会让你已有的能力产生复利，同时让最昂贵的弱项少出现。**
+
+这正是 [C015 能力反向立项](../claims/C015-capability-shaped-project-formation.md) 要检验的东西：不是“补齐自己”，而是先问**什么作品会把你的能力向量变成设计优势**。
 
 ---
 
