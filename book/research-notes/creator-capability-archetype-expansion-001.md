@@ -41,16 +41,16 @@
 - 2026: underlying problem-redefinition = DURABLE；2017 distribution / attention = CONDITIONAL。
 - Case: [CASE-043](../../cases/CASE-043-everything-david-oreilly.md)
 
-### A3. GRIS / Neva — Conrad Roset + Nomada Studio
+### A3. CASE-050 — Nomada Studio / GRIS → Neva
 
-- Status: STRONG CANDIDATE / HYBRID AUTHOR–PRODUCTION TEAM.
-- Observed: GRIS development → 2018 release → Neva 2024。
-- Why: a fine-art illustrator's existing visual language becomes the studio's product identity, while experienced game developers translate it into game production rather than asking Roset to become a conventional all-round game developer.
-- Research question: artist-led vision + experienced implementation team 是否比“artist learns every production discipline”更高效？哪些 internal tools were built specifically to reproduce Roset's traditional-media workflow?
-- Evidence starts:
-  - Conrad Roset interview on GRIS visual language: https://www.mundodeportivo.com/videojuegos/20190123/461468537231/conrad-roset-gris-nomada-studio-entrevista.html
-  - 2026 Nomada interview noting technical translation of Roset's tools: https://orgullogamers.com/videojuegos/entrevista-a-nomada-studio/
-- 2026: capability-translation mechanism = DURABLE；specific engine / publisher / market surface must be re-audited.
+- Status: FORMAL CASE / RESEARCHING.
+- Observed: visual thesis → complementary founder formation → GRIS 2018 → Neva 2024。
+- Why: Roset 的 illustrator/visual-author capability 与 Cuevas/Mendoza 的 AAA programming capability 不是后期 outsourcing，而是在 founding stage 组成项目需要的 capability set。
+- New mode: `CAPABILITY-COMPOSED`。项目 thesis 可以先出现，再通过 complementary cofounders 形成 founding capability vector。
+- Production boundary: core founding team 很小，但 art/animation production perimeter 明显更大；公开 headcount 口径约 17–26，定义不同，禁止压成“三个人做出 GRIS”。
+- Longitudinal value: Neva 保留 visual-author core，同时扩展 combat/mechanics vocabulary，说明 capability fit 可以演化而不是只能重复。
+- 2026: complementary-founder mechanism = DURABLE；2016–2018 publisher/demo/market window = HISTORICAL / CONDITIONAL。
+- Case: [CASE-050](../../cases/CASE-050-nomada-gris-neva.md)
 
 ### A4. CASE-023 — despelote
 
@@ -85,15 +85,16 @@
 - Representation-cost redefinition：复杂系统深度并不要求行业标准视觉资产生产。
 - Use: extreme systems-first longevity comparator。
 
-### B5. Zach Barth / Zachtronics
+### B5. CASE-051 — Zachtronics / Zach Barth
 
-- Status: STRONG CANDIDATE.
-- Observed: early freeware / Infiniminer → SpaceChem / Infinifactory / TIS-100 / SHENZHEN I/O / Opus Magnum。
-- Why: programmer / engineering culture 被直接转成 puzzle language，而不是只作为幕后 implementation。
-- Evidence start:
-  - GDC Vault — Inside the Indie Mind: Zach Barth: https://gdcvault.com/play/1024969/Inside-the-Indie-Mind-Zach
-- Research question: `technical literacy as subject matter` 如何扩大作者性，同时限制 audience size？
-- 2026: mechanism DURABLE；specific freeware / Steam-era discoverability HISTORICAL / CONDITIONAL。
+- Status: FORMAL CASE / RESEARCHING.
+- Observed: college/freeware → SpaceChem → TIS-100 / SHENZHEN I/O / Opus Magnum → deliberate 2022 studio closure。
+- Why: computer science / computer engineering / programming literacy 不只是 implementation capital，而被直接转成 open-ended engineering puzzle language。
+- Strong C015 evidence: TIS-100 来自一个 art/content burden 过高的更大个人项目；Barth 删除昂贵 obligation，保留 assembly/system-author core，项目 identity 因此改变。
+- Market coherence: programmer niche 被显性当作 discoverability strategy；Opus Magnum solution GIF 又让 core system output 直接变成传播表面。
+- Longitudinal pressure: Barth 2022 明确说团队已经非常擅长做 “Zachtronics games”，却越来越难做别的；因此建立第一份 `FIT-LOCK-IN / CAPABILITY PATH DEPENDENCE` 锚点。
+- 2026: engineering-as-game-language = DURABLE；2011–2018 Steam niche economics = HISTORICAL / CONDITIONAL。
+- Case: [CASE-051](../../cases/CASE-051-zachtronics.md)
 
 ### B6. Missing control
 
@@ -295,6 +296,7 @@ Formal anchors already sufficient for first comparative pass:
 - CASE-035 Factorio — crowdfunding misfit → paid-alpha system；
 - CASE-025 Bills Must Be Paid — market-model correction；
 - CASE-034 Landfall — studio-level portfolio / short-cycle system。
+- CASE-052 House House / Untitled Goose Game → Big Walk — public grant + publisher periphery + retained-earnings optionality；同一纵向里比较 grant、publisher、hit revenue 分别购买什么能力。
 
 这条线下一步需要找的不是“营销高手”，而是：
 
@@ -309,10 +311,11 @@ Formal anchors already sufficient for first comparative pass:
 
 按“新增解释维度 / 一手证据成熟 / 对照价值”排序：
 
-1. **GRIS / Neva / Nomada** — 补 fine artist + experienced production team 的能力翻译结构；
-2. **Zachtronics** — 补 programmer/system author，把 engineering literacy 变成题材与玩法；
-3. **C015 failure decomposition** — Brigador + The Magic Circle 已形成两份不同 `FIT-STRONG / MARKET-FAILED`；下一步编码失败发生在 onboarding、category legibility、audience size、timing、cost structure 哪一层。
-4. **Capability-Expanded funding comparison** — The Witness + Outer Wilds 已覆盖 founder-owned 与 external-capital；下一步补 VC / grant 路径，比较 decision rights、milestones、recoup 与 failure tolerance。
+1. **CAPABILITY-COMPOSED 压力样本** — CASE-050 Nomada 已建立正例；下一步找 complementary-founder 结构最终失败、解体或 authorship/control 冲突的样本。
+2. **FIT-LOCK-IN 第二锚点** — CASE-051 Zachtronics 已建立第一份长期路径依赖；下一步找另一工作室检验成功 fit 是否真的提高转型成本。
+3. **VC / equity-financed capability expansion** — CASE-047/049/052 已覆盖 self-financed、external-stack、grant+publisher；下一步只缺真正 equity/VC 路径及 decision-rights 证据。
+4. **FIT-TRAP** — 仍缺一个证据足够强、最好来自真正独立小团队内部的“强项诱发不必要复杂度”失败样本。
+5. **Failure decomposition** — Brigador + The Magic Circle 已足够作为第一轮两种 strong-fit 商业失败；后续改做 failure type coding，而不是继续凑名字。
 
 暂不为每类强行凑到同样数量。
 
