@@ -129,6 +129,22 @@ C007 解决的是“小团队怎样重新定义昂贵问题”；C015 进一步�
 
 > **作品形态本身，部分就是主创能力向量的可见投影。**
 
+**新增反压力：**
+
+- **CASE-026 Brigador**：多轮 prototype、团队特定 taste、custom engine、precision aiming、kitbash art pipeline 与 specialist periphery 都显示出很强的 capability-shaped formation，但 2016 launch 仍商业失败。它证明 `FIT-STRONG ≠ MARKET-SUFFICIENT`。
+- **CASE-047 The Witness**：Blow 用 Braid retained earnings 保留更大 project thesis，再购买/招聘 art、architecture、landscape、sound 等缺失能力。它提供 `CAPABILITY-EXPANDED` 对照：资本足够时，不必总让项目服从 founder 当前能力，团队能力集合也可以移动。
+
+因此当前更完整的模型是：
+
+`project requirements ↔ capability supply`
+
+作者可以：
+- 改项目以适应能力；
+- 扩能力以适应项目；
+- 或在两侧共同移动。
+
+真正需要审计的是移动哪一侧、成本由谁承担、是否损失 control，以及结果是否仍有 market legibility。
+
 **边界 / 反压力：**
 - fit 不是成功充分条件；
 - 不应把缺钱浪漫化；
