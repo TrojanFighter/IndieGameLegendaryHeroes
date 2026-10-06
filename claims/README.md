@@ -18,6 +18,7 @@
 | C012 | 同一环境变量对不同能力结构的开发者作用不同，不能用国家/福利/资本条件单变量解释独立游戏产出 | UNVERIFIED |
 | C013 | 商业游戏训练会积累可迁移的生产能力，同时也会使个人与组织专业化于特定 objective function；跨 production regime 的表现取决于能力与新目标的适配、decision rights 与 deliberate unlearning，而不能由“大厂经验/岗位名称”单独预测。 | WEAK |
 | C014 | 在高不确定度的 0→1 游戏生产中，较短的 time-to-player-truth 与“证据增强后再升级资源”的 escalation discipline 会降低单次方向错误的持续成本；当多人生态、内容 obligation、团队与资产规模在核心假设充分验证前升级时，error persistence cost 会显著上升。 | SUPPORTED |
+| C015 | 在资源受限的作者型游戏中，一部分高价值项目不是先确定“完整游戏愿景”再被迫缩小，而是主创先识别自己的不对称能力、已知弱项与可获得外围资源，再反向选择或重写项目，使核心体验主要由强项产生，并把弱项相关的高成本 obligation 删除、抽象、复用或外围化；这种“能力反向立项”本身是一种设计能力，而不只是项目管理。 | SUPPORTED |
 
 ## 使用规则
 
