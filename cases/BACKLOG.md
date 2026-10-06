@@ -1,7 +1,7 @@
 # Case Backlog — 历史语料与深度研究案例池
 
 - Status: ACTIVE
-- Last updated: 2026-10-06
+- Last updated: 2026-10-07
 
 本表用于回答一个治理问题：**我们过去已经用过哪些案例，它们当时被用来证明什么，现在有没有资格升级为正式 Case？**
 
@@ -49,10 +49,13 @@
 | CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | CHAT-RESEARCH + EXTERNAL-VERIFIED | 同一开发者跨三人协作、solo-core、两人团队的纵向样本；检验原型筛选、fantasy compression、能力积累、市场接入与方法自我修正 |
 | CASE-042 | The First Tree / David Wehle | CHAT-RESEARCH + EXTERNAL-VERIFIED | Technical Artist / visual-first 能力如何通过 short scope、licensed assets、environment storytelling 与 market surface 共同塑造项目；2016–2017 社媒路径按 Temporal Validity 审计 |
 | CASE-043 | Everything / David OReilly | CHAT-RESEARCH + EXTERNAL-VERIFIED | 动画作者如何把 abstraction / procedural movement / programmer dyad 转成 game language；检验 problem redefinition 删除传统动画 obligation 后又制造了哪些 systems cost |
+| CASE-044 | Garry Newman / Garry's Mod → Rust → s&box | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | modder→studio→creator-platform 的同人纵向；2026 CURRENT pressure 用于检验旧成功能力资本、长期 false starts、discovery 与 positioning |
+| CASE-045 | RimWorld / Tynan Sylvester | CHAT-RESEARCH + EXTERNAL-VERIFIED | “story generator”作为 design thesis；检验 feature omission、prototype failure 与 selection-first 的生产逻辑 |
+| CASE-046 | Sandfall / Clair Obscur: Expedition 33 | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | AAA→authorial 能力迁移；<30 core + tool leverage + publisher + 438-credit industrial periphery，拆“小团队奇迹”神话 |
 
 ## 下一批优先正式化 / 深挖
 
-CASE-027–043 已登记；下一新编号从 CASE-044 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
+CASE-027–046 已登记；下一新编号从 CASE-047 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
 3. 是否提供当前 31 个档案还没有覆盖的生产结构。
@@ -122,7 +125,7 @@ CASE-027–043 已登记；下一新编号从 CASE-044 起。下一轮从下方 
 - `CASE-026 Brigador` — 强技术/美术执行为何没有自动转化为 onboarding / market legibility；
 - `CASE-031 Jonas Tyroller` — Game Design 教育、多原型经验、公共表达能力如何塑造项目筛选与 fantasy compression。
 
-这条线暂不新增正式 Claim。至少需要 3–5 个结构不同的正例、2 个以上失败/反压力样本，并能把能力适配与资金、受众、平台窗口和 luck 分离后再升格。
+这条线已新增正式 [C015 — Capability-Shaped Project Formation / 能力反向立项](../claims/C015-capability-shaped-project-formation.md)。当前状态为 SUPPORTED，但它只主张“这是一种可观察的作者型立项技术”，**不主张普遍成功率优势**。下一步必须优先补 2 个以上失败/反压力样本，把能力适配与资金、受众、平台窗口和 luck 分离。
 
 ### Artless Games：公开言论、产品与持续创作方式
 
