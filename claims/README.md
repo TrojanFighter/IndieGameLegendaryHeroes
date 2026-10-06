@@ -16,6 +16,8 @@
 | C010 | 市场接入是生产系统的一部分；“零营销”常常只是“零广告预算”的误记 | SUPPORTED |
 | C011 | 成功案例的“正式开发周期”经常系统性低估了此前技能、旧项目、工具与失败原型的积累时间 | SUPPORTED |
 | C012 | 同一环境变量对不同能力结构的开发者作用不同，不能用国家/福利/资本条件单变量解释独立游戏产出 | UNVERIFIED |
+| C013 | 商业游戏训练会积累可迁移的生产能力，同时也会使个人与组织专业化于特定 objective function；跨 production regime 的表现取决于能力与新目标的适配、decision rights 与 deliberate unlearning，而不能由“大厂经验/岗位名称”单独预测。 | WEAK |
+| C014 | 在高不确定度的 0→1 游戏生产中，较短的 time-to-player-truth 与“证据增强后再升级资源”的 escalation discipline 会降低单次方向错误的持续成本；当多人生态、内容 obligation、团队与资产规模在核心假设充分验证前升级时，error persistence cost 会显著上升。 | SUPPORTED |
 
 ## 使用规则
 
