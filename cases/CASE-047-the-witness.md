@@ -4,7 +4,7 @@ schema_version: 2
 case_id: CASE-047
 status: RESEARCHING
 subject: "The Witness / Jonathan Blow: capitalized capability expansion beyond founder fit"
-related_claims: [C002, C003, C004, C007, C010, C011, C014, C015]
+related_claims: [C002, C003, C004, C007, C011, C014, C015]
 evidence_strength: HIGH
 explanatory_importance: CRITICAL
 narrative_value: HIGH
@@ -19,7 +19,7 @@ last_verified: 2026-10-07
 - Period covered: Braid success → 2008/2009 concept formation → 2010–2016 production → first-week commercial signal
 - Research status: RESEARCHING
 - Corpus role: CAPABILITY-EXPANDED / HIGH-CAPITAL AUTHORIAL COMPARATOR / C015 BOUNDARY / C014 COUNTERPRESSURE
-- Related Claims: C002, C003, C004, C007, C010, C011, C014, C015
+- Related Claims: C002, C003, C004, C007, C011, C014, C015
 - Evidence Ledger: [来源账本](../evidence/CASE-047-the-witness-source-ledger.md)
 
 ## 1. Why this case
