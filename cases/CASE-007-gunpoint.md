@@ -2,7 +2,7 @@
 
 - Status: RESEARCHING
 - Subject: Gunpoint / Tom Francis
-- Related Claims: C002, C003, C004, C006, C007, C008, C010, C011
+- Related Claims: C002, C003, C004, C006, C007, C008, C010, C011, C015
 
 ## Why this case
 
