@@ -1697,6 +1697,37 @@
       "market_access_audit": "partial",
       "schema_version": 2,
       "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-053",
+      "file": "cases/CASE-053-kenny-sun.md",
+      "subject": "Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT: longitudinal capability accretion from solo experiments to team-led production",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C015"
+      ],
+      "tags": [
+        "programmer-generalist",
+        "longitudinal-practitioner",
+        "capability-shaped",
+        "capability-expanded",
+        "serial-shipping",
+        "scope-abandonment",
+        "publisher-periphery",
+        "solo-to-team-lead",
+        "harmonix",
+        "ball-x-pit",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-053-kenny-sun-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
     }
   ]
 }

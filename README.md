@@ -38,8 +38,8 @@
 
 当前仓库已经形成：
 
-- **52 个编号 Case 档案**，其中 50 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
-- **52 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **53 个编号 Case 档案**，其中 51 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
+- **53 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **15 个跨案例 Claim**，检验 runway、能力资本、能力反向立项、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
@@ -86,9 +86,9 @@
 
 ---
 
-## 52 个编号案例档案
+## 53 个编号案例档案
 
-这些 Case 是研究后台的档案，50 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
+这些 Case 是研究后台的档案，51 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
 | Case | Subject | 它主要让我们看见什么 |
 |---|---|---|
@@ -144,6 +144,7 @@
 | [CASE-050](cases/CASE-050-nomada-gris-neva.md) | **Nomada Studio / GRIS → Neva** | `CAPABILITY-COMPOSED`：visual thesis 先出现，再由 illustrator + AAA programmers 组成互补 founding capability；把 cofounder composition 纳入生产设计 |
 | [CASE-051](cases/CASE-051-zachtronics.md) | **Zachtronics / Zach Barth** | programmer/engineering-author：把 engineering literacy 变成核心 game language；同时提供第一份 `FIT-LOCK-IN` 长期路径依赖锚点 |
 | [CASE-052](cases/CASE-052-house-house-goose-game.md) | **House House / Untitled Goose Game → Big Walk** | grant + publisher 购买不同 capability bundle；成功后再变成 retained-earnings optionality，补齐 non-dilutive expansion 路线 |
+| [CASE-053](cases/CASE-053-kenny-sun.md) | **Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT** | 连续小作、职业工作、scope reversal、publisher periphery 与 specialist team 怎样逐轮生产下一阶段能力 |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。`Sultan's Game` 已升级为 CASE-038，但工作室所有权、旧投资关系和 publisher financing 仍待继续审计；Artless Games 保留为中国创作路径候选。
 

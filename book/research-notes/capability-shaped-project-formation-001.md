@@ -317,6 +317,47 @@ House House 更重要的纵向结果是：
 
 到 Big Walk 阶段，团队已经拥有可以承受下一作不成功的 self-funded buffer。也就是说，一轮外部支持如果转化成功，最终可以减少下一轮对外部资本的依赖。
 
+### Kenny Sun：项目不只“适配能力”，还会生产下一轮能力
+
+CASE-053 暴露出当前框架的一个静态偏差。
+
+到目前为止，我们主要问：
+
+`capability_t → project_t`
+
+也就是作者已经会什么，再看项目如何围绕这组不对称能力塑形。
+
+但 Kenny Sun 的纵向链要求再问一次：
+
+`project_t → shipped evidence / new skill / revenue / network → capability_(t+1)`
+
+可观察链条是：
+
+`Flash / Newgrounds → Ludum Dare + Circa Infinity → Harmonix + weekend shipping → indie revenue → full-time indie → Hatbox scope reversal → Raw Fury periphery → Return to Monkey Island systems work → BALL x PIT specialist team + Devolver`
+
+其中最有价值的节点不是成功，而是 **2016 年主动放弃 Hatbox prototype**。同一个 idea 在当时是：
+
+`scope > free-time production frontier`
+
+所以正确动作不是“坚持”，而是 shelve。2019 年当 runway / capability 改变后，同一个 idea 才重新进入 feasible set。
+
+到 BALL x PIT，Kenny 又没有继续把“solo generalist”身份神圣化，而是第一次真正 lead team，把 3D、technical art、pixel art、concept、UI/art、music 等能力通过 specialist core 引入。
+
+因此需要保留一个新的**研究方向**，但暂不新增 taxonomy 标签：
+
+> **Longitudinal Capability Accretion / 能力纵向累积**：创作者可以通过一连串可完成项目、职业经验、现金流与外围合作，持续改变未来项目的可行集合。
+
+它同时修正两种误读：
+
+- “找到自己擅长的项目，然后永远待在舒适区”；
+- “先补齐全部能力，再开始真正项目”。
+
+更准确的作者型路径可能是：
+
+> **用当前能力做得完的项目，去购买下一阶段才需要的能力。**
+
+目前只有 CASE-053 作为清晰纵向锚点，不能升级成正式 Claim。后续至少需要第二、第三个不同背景样本，并主动找一例“连续出货没有形成有效能力复利、反而形成错误惯性”的压力对照。
+
 ## 更大的统一模型
 
 因此“能力反向立项”不应被误写成：
