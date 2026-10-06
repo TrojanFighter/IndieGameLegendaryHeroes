@@ -1,7 +1,7 @@
 # CASE-029 Evidence Ledger — 边境 / 柳叶刀工作室
 
-- Last verified: 2026-10-05
-- Status: ACTIVE / SOURCE RECOVERY PARTIALLY RESOLVED
+- Last verified: 2026-10-06
+- Status: ACTIVE / SOURCE RECOVERY RESOLVED ENOUGH FOR RESEARCHING
 - Case: [CASE-029](../cases/CASE-029-boundary.md)
 - [未核原稿存档](../sources/research-intake/CASE-029-boundary-unverified-20261005.md) 保留原说法与原引用，不承担事实证明。既有 E 编号保留；新核验来源使用新编号。
 
