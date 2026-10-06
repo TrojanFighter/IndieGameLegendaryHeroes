@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-042, CASE-043
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047
 
 ## Definition
 
@@ -54,6 +54,45 @@
 
 ## Counterpressure
 
+### CASE-026 Brigador — FIT-STRONG / LAUNCH-FAILED
+
+Brigador is now the strongest direct pressure against turning C015 into success doctrine.
+
+Direct creator evidence shows:
+- multiple prototypes before the final direction;
+- explicit rejection of a four-player arena project the team did not actually like;
+- team-specific taste/capability entering the final design;
+- custom technology, three-space aiming and a digital-kitbash art pipeline tightly coupled to the product;
+- narrative/music specialist work peripheralized to collaborators.
+
+Yet the 2016 launch was still commercially unsuccessful.
+
+Therefore:
+
+> **Capability–Project Fit can be strong while market fit, onboarding, legibility and timing are weak.**
+
+C015 describes a project-formation technique, not a commercial success condition.
+
+### CASE-047 The Witness — CAPABILITY-EXPANDED counter-model
+
+The Witness demonstrates a second route:
+
+> **Instead of changing the project to fit the founder's current capability set, a founder with sufficient capital can acquire capabilities until the organization fits the project.**
+
+Blow's Braid proceeds purchased a long runway and allowed him to preserve authorial control while adding:
+- a core art team;
+- architects;
+- landscape architects;
+- specialist sound / platform work.
+
+This does not refute C015. It limits its domain:
+
+> **Capability-shaped formation is most binding when capability acquisition is expensive, slow, control-diluting or unavailable.**
+
+When founder-owned capital and recruiting power are unusually strong, a project may be `CAPABILITY-EXPANDED` instead.
+
+### Other boundaries
+
 - CASE-043 shows redefinition can merely **move** cost: rolling/procedural locomotion deleted conventional animation obligations but created hard systems work.
 - CASE-008 does not yet prove Dream Quest was selected *because* Whalen lacked art; abstraction may be both taste and constraint. It is supporting, not decisive.
 - CASE-018 is an extreme capability outlier. Sawyer's assembler choice is evidence for personal capability-fit, not a general recommendation to choose niche technology.
@@ -88,9 +127,17 @@ The five cases support a stronger interpretation of indie design than “do less
 
 > **Indie scope can be personalized rather than merely reduced.**
 
-For a large organization, project definition often assumes a broad labor market: missing capabilities can be hired.
+For a large or well-capitalized organization, project definition can assume a broader labor market: missing capabilities can be hired.
 
 For a very small authorial team, the team itself is a hard design constraint. The sophisticated response is not necessarily to imitate a normal project with fewer people. It can be to invent a project whose highest-value problems are exactly the problems this person is unusually cheap/good at solving.
+
+CASE-047 now adds the mirror image:
+
+> **When authorial capital is high enough, the founder can choose to expand the capability set instead of shrinking/redefining the project.**
+
+So the real design variable is not simply `team size`, but:
+
+> **which side is allowed to move — project requirements, capability supply, or both?**
 
 That creates several recurring transformations:
 
@@ -122,8 +169,8 @@ This is why some independent games look “strange” relative to industry genre
 
 ## Next Evidence Needed
 
-1. 找至少 2 个“明确知道能力边界 → 反向立项”的失败项目，避免只看成功者。
+1. Brigador 已满足第一份 `FIT-STRONG / LAUNCH-FAILED` 压力样本；继续找至少 1 个结构不同的第二失败样本，避免一个项目承担全部反证。
 2. 把 Lucas Pope / Papers, Please 是否属于此机制重新核：目前更多证据是 disciplined cutting，而非明确以弱项反向立项。
 3. 在 Jonas Tyroller 多项目里寻找同一个人是否越来越显性地做 capability–project matching。
 4. 检验 2020s AI / asset / no-code 环境是否扩大了 creator 可选择的项目集合，从而改变“能力反向立项”的边界。
-5. 与商业团队做对照：当缺失能力可以通过招聘补齐时，project formation 是否更少受 founder capability vector 约束。
+5. CASE-047 已建立第一份 `CAPABILITY-EXPANDED` 对照；继续找 publisher-financed / VC-financed / prior-hit-financed 三种不同能力扩张模式，比较 capital source 对 decision rights 的影响。
