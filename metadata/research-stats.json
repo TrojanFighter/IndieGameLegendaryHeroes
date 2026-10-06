@@ -3,22 +3,22 @@
     "evidence_strength": {
       "high": 3,
       "low": 2,
-      "medium": 37
+      "medium": 38
     },
     "explanatory_importance": {
-      "critical": 32,
+      "critical": 33,
       "high": 9,
       "medium": 1
     },
     "narrative_value": {
-      "critical": 20,
+      "critical": 21,
       "high": 22
     },
     "status": {
-      "RESEARCHING": 40,
+      "RESEARCHING": 41,
       "SKELETON": 2
     },
-    "total": 42
+    "total": 43
   },
   "claims": {
     "evidence_strength": {
