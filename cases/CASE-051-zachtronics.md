@@ -88,6 +88,24 @@ Barth 的前史非常集中：
 而是长期：
 > `engineering knowledge → freeware artifact → player feedback → commercial product`
 
+### Action / Maneuver
+
+Barth 没有把 engineering capability 只留在幕后 implementation。
+
+可观察的连续动作包括：
+- college/freeware 阶段持续把 programming / engineering problem-solving 变成可玩的 artifact；
+- SpaceChem 把更接近编程思维的开放式问题转译成商业 puzzle product；
+- TIS-100 在更大、art/content burden 更高的个人项目失败后，主动删除昂贵 obligation，只保留 assembly/system core；
+- SHENZHEN I/O 继续服务已被验证的 programmer niche；
+- Opus Magnum 把 solution GIF 内建为 player output / market surface；
+- 长期重复后，团队最终承认这种高 fit 也形成了难以跳出的产品路径。
+
+### Anachronism Check
+
+- Flash/Kongregate、2011 early-Steam scarcity、2015–2018 niche-PC discovery 都属于历史窗口；
+- SpaceChem 的 `$4k cash budget` 不能换算成 2026 同等生产成本，也不包含大量 unpaid/free-time opportunity cost；
+- 可迁移的是 `technical literacy → player-facing problem language`、constraint-driven problem redefinition 与 specialization lock-in；
+- 不可推出“程序员天然更适合独立开发”或“越技术越小众越好”。
 ## 3. Engineering Literacy as Subject Matter
 
 Barth 自己在 2013 访谈里说得很直接：
