@@ -277,6 +277,16 @@ Romero、Carmack、Tom Francis 并不能证明：
 
 ---
 
+## 时效性卡｜“目标通过行动形成”不等于照抄当年的入口
+
+| 历史路径 | 观察年份 | 当时条件 | 2026 状态 | 今天保留什么 |
+|---|---:|---|---|---|
+| Romero / Carmack 从可编程个人电脑、杂志投稿、修改软件进入生产 | 1980s–early 1990s | Apple II / early PC、计算机杂志、低层可修改软件文化 | HISTORICAL tactics / DURABLE mechanism | 把兴趣推进成可公开、可反馈的 artifact；具体硬件与投稿渠道不可复制 |
+| Tom Francis 从长期评论转 prototype | c. 2000s–2013 | PC 游戏媒体职业、GameMaker、devlog/IGF/Steam | CONDITIONAL | 长期比较 → 显性判断 → 低成本 prototype；媒体职业带来的网络与曝光不可默认存在 |
+| DOOM modder → professional pathway | 1990s | WAD/mod 开放、当时 PC mod 社区、职业公司吸收 | HISTORICAL / CONDITIONAL | public artifact 可以成为 credential；具体 mod 生态与招聘入口需按今天平台重核 |
+
+完整规则见 [Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
+
 ## 继续读
 
 人物全文：
