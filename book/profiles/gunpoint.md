@@ -507,3 +507,6 @@ Crosslink 很长时间只是“好像有潜力”。
 - **E008 — `Gunpoint And The Other Game` (2010)**：同期开发中主动删除昂贵、但对游戏核心贡献有限的 scripted content。
 
 完整来源、证据等级、禁止推论与 UNKNOWN 项见 [`CASE-007 Evidence Ledger`](../../evidence/CASE-007-gunpoint-source-ledger.md)。
+
+
+- 研究档案：[CASE-007](../../cases/CASE-007-gunpoint.md)
