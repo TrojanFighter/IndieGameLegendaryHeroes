@@ -3,7 +3,7 @@
 - Status: RESEARCH NOTE / SYNTHESIS / PRE-CLAIM AUDIT
 - Last verified: 2026-10-06
 - Scope: 中国商业游戏职业训练、独立/中小团队生产、production-regime transfer、平台/渠道与人才筛选
-- Related: `china-game-commercial-regime-lineage-003.md`, `china-indie-dual-environment-capability-transfer-004.md`, `china-commercial-game-training-role-origin-audit-005.md`, `china-commercial-game-training-role-origin-audit-006-tencent-producer-pressure-test.md`, `china-tencent-commercial-hegemonic-grammar-008.md`, `china-player-worker-generations-009.md`
+- Related: `china-game-commercial-regime-lineage-003.md`, `china-indie-dual-environment-capability-transfer-004.md`, `china-commercial-game-training-role-origin-audit-005.md`, `china-commercial-game-training-role-origin-audit-006-tencent-producer-pressure-test.md`, `china-tencent-commercial-hegemonic-grammar-008.md`, `china-player-worker-generations-009.md`, `china-indie-source-intake-closeout-015.md`
 - Boundary: 本文研究的是制度、职业训练、反馈架构与市场接口，不把任何观察解释为民族、国籍或先天能力差异。
 
 ## 0. 研究问题重写
@@ -224,6 +224,14 @@ Game Science 与 Double Cross /《苏丹的游戏》是重要候选，但不能�
 - “Boundary 失败证明太空 FPS 没市场”；
 - “大厂经验对独立开发没有价值”；
 - “欧美商业游戏训练天然比中国好”。
+
+## 7.1 素材 provenance
+
+本轮截图、上传网页与私人讨论材料的逐项归宿统一见：
+
+- `china-indie-source-intake-closeout-015.md`
+
+015 的职责是防止把 A0-CHAT、社区评论、用户截图、公开采访和正式 Case evidence 混成同一层级。任何从本笔记升级到正式 Claim 的内容，都应先确认其在 015 中不是 Anecdote / UNKNOWN。
 
 ## 8. 后续最小取证动作
 
