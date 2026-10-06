@@ -1,7 +1,7 @@
 # Case Backlog — 历史语料与深度研究案例池
 
 - Status: ACTIVE
-- Last updated: 2026-10-05
+- Last updated: 2026-10-06
 
 本表用于回答一个治理问题：**我们过去已经用过哪些案例，它们当时被用来证明什么，现在有没有资格升级为正式 Case？**
 
@@ -47,10 +47,12 @@
 | CASE-029 | Boundary / Surgical Scalpels Studio | CHAT-RESEARCH + COMPARATOR | SKELETON；平台与发行方停服公告已核，组织、融资与争议归责待核 |
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | CHAT-RESEARCH + COMPARATOR | SKELETON；团队归属、职业前史与生产制度解释待原文证据 |
 | CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | CHAT-RESEARCH + EXTERNAL-VERIFIED | 同一开发者跨三人协作、solo-core、两人团队的纵向样本；检验原型筛选、fantasy compression、能力积累、市场接入与方法自我修正 |
+| CASE-042 | The First Tree / David Wehle | CHAT-RESEARCH + EXTERNAL-VERIFIED | Technical Artist / visual-first 能力如何通过 short scope、licensed assets、environment storytelling 与 market surface 共同塑造项目；2016–2017 社媒路径按 Temporal Validity 审计 |
+| CASE-043 | Everything / David OReilly | CHAT-RESEARCH + EXTERNAL-VERIFIED | 动画作者如何把 abstraction / procedural movement / programmer dyad 转成 game language；检验 problem redefinition 删除传统动画 obligation 后又制造了哪些 systems cost |
 
 ## 下一批优先正式化 / 深挖
 
-CASE-027–031 已登记，下一新编号从 CASE-032 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
+CASE-027–043 已登记；下一新编号从 CASE-044 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
 3. 是否提供当前 31 个档案还没有覆盖的生产结构。
@@ -83,20 +85,19 @@ CASE-027–031 已登记，下一新编号从 CASE-032 起。下一轮从下方 
 - `Problem Redefinition`：昂贵问题被重新定义，根本不再需要按行业标准解决；
 - `Capability Leverage`：项目核心体验、视觉、技术或传播面直接放大主创既有强项。
 
-#### 强候选：The First Tree / David Wehle
+#### 已升级：The First Tree / David Wehle → CASE-042
 
-- **Observed window: 2016–2019；2026 transfer status: CONDITIONAL。** visual-first / technical-art → product shape 的结构值得继续核验，但 Reddit / Imgur / Tumblr / Twitter 等当时传播生态不得直接写成 2026 tactic。
-- P0/P1 起点：[GDC 2019 — No Time, No Budget, No Problem: Finishing 'The First Tree'](https://gdcvault.com/play/1026455/No-Time-No-Budget-No)；David 自述当时在 The VOID 全职工作、同时养育孩子，只能在极有限时间内完成个人项目。
-- David 后来自述自己 coding 很弱、自学 art/design，并凭前作进入 The VOID 做 Unity technical artist。这里的研究价值不是“不会代码也能成功”，而是检查**技术美术/视觉表达强项是否直接决定了产品问题形态**。
-- 待核链：短时长探索游戏、购买/改造现成资产、鲜明狐狸/森林配色、为截图/GIF 提供极强 visual hook，以及长期通过 Reddit / Imgur / Tumblr / Twitter 等短视觉内容做 top-of-funnel。需要区分哪些是立项时设计，哪些是中途发现营销有效后强化。
-- 如果成立，它是非常典型的 `能力偏科 → 项目形态 → marketing surface` 三者耦合，而不是“solo dev 把正常 3D 游戏缩小”。
+- 已正式化为 [CASE-042](CASE-042-the-first-tree.md)，来源账本见 [Evidence Ledger](../evidence/CASE-042-the-first-tree-source-ledger.md)。
+- 关键新证据不是只靠 2019 GDC 回忆：2016 年开发中本人已明确写自己是 The VOID technical artist，并同期解释 short/simple scope、licensed assets、environment design / storytelling / UX 等能力边界；2017 launch-period 文章继续记录 GIF / Reddit / PAX / Steam Direct market interface。
+- 因此本案可以正式承担 `visual / technical-art capability → product shape → production model → market surface` 的第一锚点。
+- 仍未解决：家庭 burn / spouse support、完整 licensed-content accounting、各 social surface 对销量的独立 causal weight，以及 visual-first 是立项前明确策略还是传播反馈中强化出来。
 
-#### 强候选：Everything / David OReilly
+#### 已升级：Everything / David OReilly → CASE-043
 
-- P1 起点：[The Creative Independent interview](https://thecreativeindependent.com/wisdom/david-oreilly-on-making-sure-you-keep-going/) 与 [Cartoon Brew interview](https://www.cartoonbrew.com/shorts/everything-creator-david-oreilly-hard-truths-moving-away-animation-150296.html)。
-- OReilly 是动画作者出身，公开解释动物的程序化/翻滚移动既与成本有关，也来自他对 abstraction 的长期训练；作品中大量对象因此不需要传统写实角色 rig / walk-cycle pipeline。
-- 这不是“低成本动画做得粗”，而是把原本的生产缺口直接转化成可识别的作品语言：`cost avoidance → aesthetic conversion`。
-- 要进一步审计哪些对象仍使用 rig、系统本身的工程成本、外部 contributors 与 Mountain → Everything 的能力/收入桥梁，避免把“没有传统动画”误写成“没有动画成本”。
+- 已正式化为 [CASE-043](CASE-043-everything-david-oreilly.md)，来源账本见 [Evidence Ledger](../evidence/CASE-043-everything-david-oreilly-source-ledger.md)。
+- 关键边界：OReilly 是 authorial / visual core，但 Damien Di Fede 是长期核心 programmer；另有 music、sound、modeling、PS4 optimization 等外围，不能写成 solo-coded art game。
+- 最重要的机制不是“省掉 walk cycle”，而是 animation abstraction → procedural rule → recognizable game language；同时保留 project 从约 6 个月扩到接近 3 年这一内部反压力，证明 problem redefinition 只是转移复杂度，不保证总工期下降。
+- 仍待核：完整 credits、Mountain→Everything runway、Double Fine Presents 的商业边界、custom-tool 细节与完整 market chronology。
 
 #### 跨媒介压力样本：《牛来》 / 信雨萌
 
