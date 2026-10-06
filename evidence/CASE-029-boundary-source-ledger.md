@@ -85,7 +85,7 @@
 - Source class: P1/S1 — direct producer retrospective published by games media archive.
 - Title: 从国产之光到边境已死，制作人自述：我不后悔离职腾讯创业
 - Author / Institution: producer retrospective / archived WeChat article.
-- Published: 2026 (exact day in archive to retain from source page).
+- Published: UNKNOWN（2026 archive; exact publication date not independently recovered in this pass）.
 - Accessed: 2026-10-06.
 - URL: https://mp.weixin.qq.com/s/oQKr3F9E3t9zcp2jAHfc6A
 - Claim use:
@@ -103,14 +103,15 @@
 
 ## E010 — International founder interviews: three-developer origin and differentiation thesis
 
-- Source class: P1 — direct interviews with Surgical Scalpels founders.
-- Titles / URLs:
-  - Boundary Interview with Technical Director and Co-Founder Frank Mingbo-Li, 2020-08-13:
-    https://www.capsulecomputers.com.au/2020/08/boundary-interview-with-technical-director-and-co-founder-frank-mingbo-li/
-  - Boundary interview with Surgical Scalpels, 2019-06-26:
-    https://passthecontrolleruk.weebly.com/features/boundary-interview-with-surgical-scalpels
-  - Boundary – Intervista agli sviluppatori, 2019-11-29:
-    https://www.playstationzone.it/speciali/boundary-intervista-agli-sviluppatori/
+- Source class: P1 — direct founder interview.
+- Title: Boundary Interview with Technical Director and Co-Founder Frank Mingbo-Li.
+- Author / Institution: Capsule Computers / Frank Mingbo-Li interview.
+- Published: 2020-08-13.
+- Accessed: 2026-10-06.
+- URL: https://www.capsulecomputers.com.au/2020/08/boundary-interview-with-technical-director-and-co-founder-frank-mingbo-li/
+- Corroborating interviews:
+  - Pass the Controller, "Boundary interview with Surgical Scalpels", 2019-06-26: https://passthecontrolleruk.weebly.com/features/boundary-interview-with-surgical-scalpels
+  - PlayStation Zone, "Boundary – Intervista agli sviluppatori", 2019-11-29: https://www.playstationzone.it/speciali/boundary-intervista-agli-sviluppatori/
 - Claim use:
   - studio says it originated from three developers leaving stable jobs to make a distinctive FPS;
   - concept predated company formation;
@@ -136,8 +137,9 @@
 ## E012 — Former community employee retrospective: adversarial organization testimony
 
 - Source class: S2 — former employee account, republished with explicit caveats.
-- Title: 柳叶刀《边境》前员工发表《钝刃之死，梦的落幕》一文
-- Published: 2026 archive.
+- Title: 柳叶刀《边境》前员工发表《钝刃之死，梦的落幕》一文.
+- Author / Institution: archived WeChat republisher; original text attributed to a former Surgical Scalpels community/market employee.
+- Published: UNKNOWN（2026 archive; exact publication date not independently recovered in this pass）.
 - Accessed: 2026-10-06.
 - URL: https://mp.weixin.qq.com/s/ZO7W-GyCyeF0f8XKyX51cQ
 - Claim use:
