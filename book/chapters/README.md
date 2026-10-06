@@ -10,36 +10,23 @@
 
 ### 第一章｜[你不需要十八岁就知道自己要做什么](01-goals-are-made-not-found.md)
 
-讨论：
-
 > 目标到底是先想明白再行动，还是在长期兴趣、第一次作品、第一次陌生人反馈和第一次收入里逐渐形成？
 
-主要人物：
-- John Romero；
-- John Carmack；
-- Tom Francis。
+人物：John Romero、John Carmack、Tom Francis。
 
-延伸 Profile：
-- [early id / DOOM](../profiles/early-id-doom.md)
-- [Gunpoint / Tom Francis](../profiles/gunpoint.md)
+### 第二章｜[谁在替你支付试错时间？](02-who-pays-for-your-time.md)
+
+> 想做自己的东西时，你真正要买的往往不是“创业”这个身份，而是一段可以继续找答案的时间。
+
+人物：Chris Hunt / Kenshi、Justin Ma & Matthew Davis / FTL、Psyonix / Rocket League。
+
+### 第三章｜[失败不是资产，留下来的东西才是](03-failure-only-matters-if-something-remains.md)
+
+> 为什么有些失败让下一次更便宜，有些失败只是把两年和一笔钱烧掉？
+
+人物：Psyonix / Rocket League、Rike Games / Bills Must Be Paid。
 
 ## 正在建设的章节
-
-### Part II｜先买时间，再谈梦想
-候选主章：
-- 谁在替你支付试错时间？
-- 辞职不是勇气测试。
-- 一笔融资和一个可持续生活结构有什么区别？
-
-人物：Kenshi、FTL、Rocket League、Stardew Valley、Hollow Knight。
-
-### Part III｜失败不是资产，留下来的东西才是
-候选主章：
-- 为什么有些失败让下一次更便宜，有些只是把钱烧掉？
-- 七个月爆款为什么可能站在七年失败史上？
-- 前作不成功，为什么仍然值得再做一次？
-
-人物：Bills Must Be Paid、Rocket League、R.E.P.O.、Landfall、Tarkov lineage。
 
 ### Part IV｜技术时代给你什么牌，你又能不能自己造牌
 候选主章：
