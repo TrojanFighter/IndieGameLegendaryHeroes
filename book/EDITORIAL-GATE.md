@@ -151,22 +151,35 @@ Profile 的结尾优先回到：
 
 ## 8. Provenance 与叙事分层
 
-每篇必须保留 Case / Evidence 回链，但建议分成两个层级：
+每篇必须保留 Case / Evidence 回链，但 **普通读者第一屏不展示研究后台状态**。
 
-### 顶部最小 provenance
+### 顶部：只让读者遇见文章
 
-- 对应 Case；
+标题下面可以有：
+- 一句真正服务阅读的 deck / opening thesis；
+- 版权信息；
+- 必要的内容说明。
+
+默认不放：
+- Case ID；
 - Evidence Ledger；
-- 必要时一句当前状态。
+- `RESEARCHING / SKELETON`；
+- P0 / P1 / S1 / S2；
+- “本案尚未封卷”等研究状态。
 
-### 文末 research boundary
+这些信息不是删除，而是下沉。
 
-集中列：
+### 文末：Research Basis / 研究依据与边界
 
+集中放：
+- 对应 Case / Evidence 回链；
+- 当前研究状态；
 - 仍 UNKNOWN；
 - 关键证据；
 - 不可直接复制条件；
 - 尚未解决的因果问题。
+
+这样普通读者先读人，研究者仍然可以一键向下追溯。
 
 不要让同一研究状态免责声明在正文中反复出现。
 
@@ -196,7 +209,22 @@ Profile 的结尾优先回到：
 
 ---
 
-## 10. 发布前人工检查
+## 10. Profile 不是最终章节单位
+
+`book/profiles/` 是**人物材料层**。真正面向普通读者连续阅读的默认单位是 `book/chapters/`：从一个现实人生问题出发，横向调用多个 Profile。
+
+因此：
+- 不要求 1 Case = 1 Profile = 1 Chapter；
+- 一个 Profile 可以被多个章节重复使用；
+- 一个 Chapter 应至少比较两个结构不同的人生样本，除非单人故事本身具有不可替代的完整论证价值；
+- Chapter 不以“介绍案例”为目标，而以“帮助读者看清一个选择问题”为目标；
+- 跨案例综合、选择地图和书级观点优先放 Chapter，不继续压进每篇 Profile。
+
+完整结构见 [MANUSCRIPT-ARCHITECTURE](MANUSCRIPT-ARCHITECTURE.md)。
+
+---
+
+## 11. 发布前人工检查
 
 每篇 profile 升级前至少问一次：
 
@@ -208,8 +236,9 @@ Profile 的结尾优先回到：
 6. 文章是否把同一个 thesis 说了三遍以上？
 7. 结尾是在结束这个人的故事，还是又替整本书写总论？
 8. UNKNOWN / transfer boundary 是否仍然清楚？
-9. Case / Evidence 回链是否存在？
+9. Case / Evidence 回链是否存在于文末，而不是占据第一屏？
 10. 这篇和上一篇在开头、节奏、结尾上是否明显不同？
+11. 这篇主要会服务哪些 book chapter？如果完全说不清，是否只是为了“补齐 Case”而写？
 
 ## Automation boundary
 
