@@ -191,18 +191,31 @@ CASE-016 现有证据已经支持两层：
 2. 上一代条件下什么特别昂贵？
 3. 新技术降低了哪一个约束？
 4. 本人是否明确意识到这个窗口？
-5. 同时代有多少人也能拿到？
-6. 当时仍然有什么做不到？
+5. **这个窗口是谁创造的？** 是公共技术扩散、把已有技术重新组合成新用途，还是主角 / 团队自己把 frontier 往前推？
+6. 同时代有多少人也能拿到？
+7. 当时仍然有什么做不到？
+
+人物篇应优先区分三种窗口位置：
+
+- **Inherited / Diffused Window — 继承窗口**：关键技术已经扩散，人物的优势主要是更早识别、吸收或正确使用。例如 GameMaker 对 Gunpoint。
+- **Recombined Window — 重组窗口**：底层能力已存在，但人物把平台、mod、网络、市场接口或规则以此前少见的方式组合。例如 Arma / DayZ substrate 对 PLAYERUNKNOWN。
+- **Endogenous / Created Window — 主动创造窗口**：人物 / 团队本身就是 frontier creator，先创造新的技术能力，再把它转成产品可能性。early id / Carmack 是当前最强锚点。
 
 ### Early id
 
-目前已有证据可以组合成：
+CASE-016 E015 使这里的表述必须比“PC hardware + 自研工具”更强。
 
-> professional high-frequency shipping + PC hardware + 自研工具 + shareware + direct distribution + moddability。
+Carmack 本人直接描述 early id 的模式：从 2D scrolling 到早期 3D / DOOM，团队不断探索当时 **barely possible** 的技术边界，再围绕刚刚做出来的能力决定什么游戏真正可行；同时目标体验又反过来驱动技术开发。
 
-不能简化成：
+因此 early id 不是简单的：
 
 > “PC 终于够快，所以 DOOM 自然出现。”
+
+而是：
+
+> **外部 PC / shareware 条件 + 团队内部 frontier creation + 极短的 technology↔design feedback loop → 自己创造自己的 Technical Opportunity Window。**
+
+人物篇必须能识别这种情况，否则会把真正的技术创新者误写成技术扩散的被动受益者。
 
 ### Gunpoint
 
