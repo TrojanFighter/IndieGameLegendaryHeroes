@@ -30,14 +30,16 @@
 
 所有历史成功经验受 [Temporal Validity Gate](book/TEMPORAL-VALIDITY.md) 约束：年份、当时 regime 与 2026 时效状态必须分开写。
 
+研究后台正在按主创能力类型补齐正例、边界例与失败/压力对照；当前矩阵见 [Creator Capability Archetype Expansion 001](book/research-notes/creator-capability-archetype-expansion-001.md)。
+
 **如果你是研究者、开发者，或者想核每句话：**
 
 继续留在本页。下面的 Case / Evidence / Claim 是研究后台，可以逐项追来源、UNKNOWN、反例和禁止外推。
 
 当前仓库已经形成：
 
-- **41 个编号 Case 档案**，其中 39 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
-- **41 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **42 个编号 Case 档案**，其中 40 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
+- **42 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **14 个跨案例 Claim**，检验 runway、能力资本、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
