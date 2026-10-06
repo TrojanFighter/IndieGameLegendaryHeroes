@@ -21,7 +21,7 @@
 - Source class: P0 — platform listing.
 - Title: Gunfire Reborn — Steam store.
 - Institution: Valve / Steam.
-- Published: dynamic page.
+- Published: UNKNOWN (dynamic page).
 - Accessed: 2026-10-06.
 - URL: https://store.steampowered.com/app/1217060/Gunfire_Reborn/
 - Source-derived statement: the product entered Steam Early Access on 2020-05-22 before later full release.
@@ -31,10 +31,12 @@
 ## E003 — Duoyi official product and update history
 
 - Source class: P0 — developer / publisher official pages.
-- Institution: Duoyi Games / Gunfire Reborn official site.
+- Title: Gunfire Reborn official site and update archive.
+- Author / Institution: Duoyi Games / Gunfire Reborn official site.
+- Published: UNKNOWN (multiple official pages / dynamic archive).
 - Accessed: 2026-10-06.
-- URLs:
-  - https://qh.duoyi.com/
+- URL: https://qh.duoyi.com/
+- Corroborating URLs:
   - https://qh.duoyi.com/news/news_17691.shtm
   - https://qh.duoyi.com/news/news_33734.shtm
   - https://qhsy.duoyi.com/news/news_25772.shtm
@@ -59,6 +61,7 @@
 - Source class: H/S2 — third-party social archive.
 - Title: archived T9 social profile.
 - Institution: TwStalker mirror.
+- Published: UNKNOWN.
 - Accessed: 2026-10-06.
 - URL: https://mobile.twstalker.com/Game_T9
 - Source-derived lead: archive records self-description as former Gunfire Studio head / Gunfire Reborn director and later departure.
