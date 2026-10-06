@@ -29,6 +29,7 @@
 - [Claims](../claims/README.md)
 - [Program Map](../PROGRAM-MAP.md)
 - [Industrial Revolutions Comparative Lab](../cross-industry/industrial-revolutions/README.md)
+- [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md) — 按主创能力类型补正例、边界例与压力对照
 
 ## 编辑原则
 
