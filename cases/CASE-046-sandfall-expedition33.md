@@ -33,7 +33,7 @@ Expedition 33 很容易被压成一句：
 
 > **一个小 core 如何把 AAA 工作经验、现成引擎、commercial tools、publisher、外部 production partners 与强 authorial thesis 组合成远大于 core headcount 的 production perimeter？**
 
-## Context–Situation–Action Snapshot
+## 2. Context–Situation–Action Snapshot
 
 ### Era / Production Regime
 
