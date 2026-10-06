@@ -133,6 +133,7 @@
 - [Papers, Please / Lucas Pope](../cases/CASE-003-papers-please.md)
 - [Sultan's Game / Double Cross](../cases/CASE-038-sultans-game.md)
 - [CASE-046 Clair Obscur / Sandfall](../cases/CASE-046-sandfall-expedition33.md) — Ubisoft/AAA 能力迁移、<30 core 与工业外围的真实边界；
+- [CASE-048 The Magic Circle / Question](../cases/CASE-048-the-magic-circle.md) — 三位 immersive-sim / AAA 老兵做出极度“像自己”的项目，却仍卖到团队认为不可持续；
 - [Gunfire Reborn comparator](../cases/CASE-039-gunfire-reborn.md)
 - [C013 — commercial capability / objective-function specialization](../claims/C013-capability-capital-objective-function-specialization.md)
 
@@ -174,7 +175,8 @@
 ## 我已经有一笔可支配资本 / 前作成功，想做更大的作者项目
 
 优先看：
-- [CASE-047 The Witness / Jonathan Blow](../cases/CASE-047-the-witness.md) — `CAPABILITY-EXPANDED`：不是继续把项目缩到 founder 当前能力，而是用 Braid retained earnings 购买 art / architecture / landscape / specialist capability；
+- [CASE-047 The Witness / Jonathan Blow](../cases/CASE-047-the-witness.md) — `CAPABILITY-EXPANDED / SELF-FINANCED`：不是继续把项目缩到 founder 当前能力，而是用 Braid retained earnings 购买 art / architecture / landscape / specialist capability；
+- [CASE-049 Outer Wilds / Mobius Digital](../cases/CASE-049-outer-wilds.md) — `CAPABILITY-EXPANDED / EXTERNAL-CAPITAL`：先有 student thesis / playable evidence，再用 studio、crowdfunding、publisher 与 platform partnership 扩张能力；
 - [Into the Breach / Subset](../cases/CASE-020-into-the-breach.md) — 同样是 prior success，但选择把资本变成长时间 low burn / design search，而不是显著扩张 production perimeter；
 - [CASE-046 Clair Obscur / Sandfall](../cases/CASE-046-sandfall-expedition33.md) — 另一种 small-core + industrial-periphery 路径。
 
@@ -188,9 +190,16 @@
 - burn；
 - time-to-player-truth；
 - authorial decision density；
-- market window。
+- market window；
+- **资本来源**：自己的钱、publisher、平台、VC、grant 或 crowdfunding；
+- **stakeholder surface**：谁能影响 milestone、distribution、storefront、scope 或 launch。
 
 The Witness 不是“有钱就堆人”的模板。它的特殊前提是 prior hit、founder-owned capital 和很强的 authorial control。
+
+Outer Wilds 则提醒：
+> **外部资本不仅购买能力，也会增加 backer / publisher / platform 的期望与约束面。**
+
+这不等于“publisher 会夺走创作权”。真正要看合同与 decision rights，不能从“有发行商”直接推断失去控制。
 
 ---
 
@@ -211,7 +220,7 @@ The Witness 不是“有钱就堆人”的模板。它的特殊前提是 prior h
 
 > **什么项目形态会让你已有的能力产生复利，同时让最昂贵的弱项少出现。**
 
-这正是 [C015 能力反向立项](../claims/C015-capability-shaped-project-formation.md) 要检验的东西：低资本时，先问**什么作品会把你的能力向量变成设计优势**；而 CASE-047 又提醒我们，资本足够时也可以反过来问**哪些缺失能力值得购买，而不是删掉项目野心**。
+这正是 [C015 能力反向立项](../claims/C015-capability-shaped-project-formation.md) 要检验的东西：低资本时，先问**什么作品会把你的能力向量变成设计优势**；而 CASE-047/049 又提醒我们，资本足够时也可以反过来问**哪些缺失能力值得购买，而不是删掉项目野心；以及谁的钱会以什么 governance 代价买来这些能力**。
 
 ---
 
