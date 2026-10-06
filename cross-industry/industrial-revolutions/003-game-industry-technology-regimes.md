@@ -94,6 +94,29 @@
 
 最后一项目前属于 thesis candidate，不能因当前 AI 热潮直接写成定论。
 
+## 2.5 技术窗口不是都由“时代”发下来：Inherited / Recombined / Created
+
+工业革命研究如果只追踪“某项技术何时扩散到开发者手里”，仍然会漏掉一类最重要的创新者：**他们自己就是技术前沿的创造者。**
+
+人物 / 团队与技术窗口至少有三种关系：
+
+1. **Inherited / Diffused Window — 继承窗口**  
+   核心能力已经被别的公司、研究机构或上一代工程师创造并扩散，当事人的任务主要是识别和吸收。
+   - 示例：GameMaker → Gunpoint。
+   - 研究重点：价格、可得性、学习成本、diffusion lag。
+
+2. **Recombined Window — 重组窗口**  
+   单项技术并不新，但某个作者首次把已有平台、mod substrate、网络能力、market interface 或 production ecology 组合成一个过去少见的 product opportunity。
+   - 示例：Arma / DayZ substrate → PLAYERUNKNOWN。
+   - 研究重点：为什么这组能力此前没有被这样组合；规则 / market / community innovation 与底层工程如何分工。
+
+3. **Endogenous / Created Window — 主动创造窗口**  
+   创作者 / 团队本身就在推进 frontier。新的技术能力不是“时代背景”，而是作品生产过程的一部分，并直接创造新的 design / product space。
+   - 强锚点：early id / John Carmack。
+   - 研究重点：技术突破从哪里来；目标体验如何反过来驱动工程；新 capability 何时从单团队优势扩散成行业基础设施。
+
+这一区分对第四次工业革命研究尤其重要。不能因为今天很多模型、引擎、云服务已经以 API / SaaS 形态提供，就倒推历史上的所有英雄也只是“聪明地使用现成工具”。同样，也不能因为少数 frontier creator 能主动推进技术，就把普通开发者都想象成可以同时发明全部底层能力的万能个体。
+
 ## 3. Technical Opportunity Window — 人物篇接口
 
 人物 Profile 不写“某年技术进步了”这种背景板。
@@ -113,16 +136,28 @@
 
 ### Early id / DOOM
 
+CASE-016 E015 使它成为本框架的 **Created Window** 锚点，而不只是“PC diffusion”案例。
+
 已有 Evidence 支持：
 - Softdisk 高频职业出货形成能力；
-- Commander Keen 在工资/公司硬件条件下 moonlight；
-- NeXTStep、DoomEd、ANSI C 等工具选择用于降低迭代/porting friction；
+- Commander Keen 在工资 / 公司硬件条件下 moonlight；
+- Carmack 直接描述 early id 从 2D scrolling 到 Wolfenstein / ShadowCaster / DOOM 的工作方式，是不断探索当时 **barely possible** 的技术边界，再围绕实际做到的能力决定游戏形态；
+- DOOM 相对 Wolfenstein 扩大了可用空间表达、动态光照、地板 / 天花板变化等实时世界能力，且 multiplayer 也是关键技术—产品突破；
+- NeXTStep、DoomEd、ANSI C 等工具选择进一步降低迭代 / porting friction；
 - shareware / direct distribution 改变小公司的资金与发行边界；
-- WAD / specs openness 形成外部 mod 生态。
+- WAD / specs openness 又把内部技术突破扩散成外部 mod / talent ecology。
 
-因此这里不是“PC 性能突然够了”，而是：
+因此不能再写成：
 
-> compute + 自研工具 + shareware + 小团队高频出货 + open mod ecology 的组合窗口。
+> compute + 自研工具 + shareware 恰好构成了 id 抓住的时代窗口。
+
+更准确的是：
+
+> **外部 PC / shareware substrate + Carmack 等人的 endogenous frontier creation + Hall / Romero / art / level-design 的快速产品化 + 市场反馈 → id 给自己制造窗口，并把其中一部分窗口扩散成后来整个产业的基础设施。**
+
+这是工业革命研究里非常重要的一类机制：
+
+> **innovation actor can be both the user of a technological regime and one of the agents changing that regime.**
 
 ### Gunpoint / Tom Francis
 
