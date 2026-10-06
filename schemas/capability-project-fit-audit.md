@@ -68,6 +68,25 @@
 
 对每个进入 `REVIEW / STABLE` 的人物型、OPC、micro-team 或强作者性 Case，尽量回答：
 
+### 0. Project-formation direction / 项目到底从哪里长出来
+
+先于一般的 capability map，必须问一次：
+
+> **这是“先有项目，再补能力”，还是“先有能力向量，再反向生成项目”？**
+
+至少区分：
+
+- `CAPABILITY-SHAPED`：立项 / 早期定义已经明确围绕主创强项与弱项塑形；
+- `CAPABILITY-ADAPTED`：项目先存在，开发中才因能力/成本约束被大幅改写；
+- `LABOR-COMPRESSED`：项目基本保留行业标准问题，只由更少的人硬扛；
+- `UNKNOWN`：没有足够立项期证据。
+
+判断 `CAPABILITY-SHAPED` 不能只看成品“好像很适合作者”。至少寻找一条立项期 / 开发期行动链：
+
+`self-knowledge / constraint → project decision → removed/transformed obligation → player-facing result`
+
+正式跨案例命题见 [C015 — Capability-Shaped Project Formation](../claims/C015-capability-shaped-project-formation.md)。
+
 ### 1. Pre-project capability map
 
 - 主创在立项前的职业、教育、长期爱好、mod/UGC、旧作、工具经验是什么？
@@ -232,20 +251,25 @@ The First Tree 尤其作为首个示范：
 
 ---
 
-## Claim Gate
+## Formal Claim Status
 
-当前只作为审计框架，不立即新增正式 Claim。
+本审计框架中的一个**窄命题**已经升级为正式 Claim：
 
-未来若要形成类似：
+- [C015 — Capability-Shaped Project Formation / 能力反向立项](../claims/C015-capability-shaped-project-formation.md) — `SUPPORTED`。
 
-> `高效率独立项目往往不是缩小行业标准产品，而是围绕创作者的能力不对称重新定义产品。`
+C015 只主张：
 
-至少需要：
+> **显性认识 capability constraints，并把它们用于项目定义，可以成为作者型独立开发的一种可观察设计技术。**
 
-- 3–5 个结构不同的强正例；
-- 2 个以上失败/反压力样本；
-- 至少 1 个 `FIT-STRONG but commercially failed`，防止把 fit 当成成功充分条件；
-- 至少 1 个 `FIT-TRAP`，证明强项也可能把项目带向错误复杂度；
-- 立项期证据，而非纯事后复盘；
-- 能把能力适配与资金、市场窗口、既有受众、运气分开；
-- 有案例能真正反驳该命题。
+它**不**主张：
+- 这种方法普遍提高成功率；
+- 所有优秀独游都从 founder capability 反向生成；
+- 能力匹配可以替代市场、runway、execution 或 luck。
+
+更强的普遍命题——例如“高效率独立项目通常由能力反向立项产生”——仍未成立。要升级到这种强度，仍需：
+
+- 2 个以上 `CAPABILITY-SHAPED but commercially failed`；
+- 至少 1 个 `CAPABILITY-MISMATCH but succeeded via hiring/capital`；
+- 至少 1 个 `FIT-TRAP`；
+- 立项期证据而非成功后叙事；
+- 与资金、平台窗口、既有受众和 luck 的分离。
