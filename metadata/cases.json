@@ -1728,6 +1728,39 @@
       "market_access_audit": "partial",
       "schema_version": 2,
       "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-054",
+      "file": "cases/CASE-054-limit-theory-fit-trap.md",
+      "subject": "Josh Parnell / Limit Theory: true-indie FIT-TRAP — engineering success inside product failure",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C015"
+      ],
+      "tags": [
+        "true-indie",
+        "fit-trap",
+        "programmer-author",
+        "engine-programming",
+        "procedural-generation",
+        "custom-engine",
+        "kickstarter",
+        "scope",
+        "rewrite",
+        "production-failure",
+        "human-cost",
+        "limit-theory",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-054-limit-theory-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
     }
   ]
 }
