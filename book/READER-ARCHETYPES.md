@@ -16,6 +16,8 @@
 
 ### 第一站：The First Tree / David Wehle
 
+> 当前仍是 **research candidate**，不是正式 Case / Profile；这里把它作为能力入口的首个定向研究对象。
+
 为什么适合先看：
 
 - Wehle 的旧作品集把自己描述为 interactive / motion / multimedia 方向；
