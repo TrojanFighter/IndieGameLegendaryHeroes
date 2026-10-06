@@ -447,3 +447,6 @@ feedback + creators + Steam + China + Next Fest
 - **E006–E008**：SteamDB、browser distribution 与后续 mobile-publishing retrospective 的交叉补充。
 
 完整来源、证据等级与 UNKNOWN 项见 [`CASE-025 Evidence Ledger`](../../evidence/CASE-025-bills-must-be-paid-source-ledger.md)。
+
+
+- 研究档案：[CASE-025](../../cases/CASE-025-bills-must-be-paid.md)
