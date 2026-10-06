@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 54 个档案中，52 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 55 个档案中，53 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -64,6 +64,7 @@
 | CASE-052 | House House / Untitled Goose Game → Big Walk | **GRANT-FINANCED CAPABILITY EXPANSION / LONGITUDINAL OPTIONALITY**：Film Victoria grant 买 development/completion 与 specialist capability，Panic 补 publisher periphery，成功后再转成 Big Walk 的 retained-earnings risk buffer | RESEARCHING |
 | CASE-053 | Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT | **LONGITUDINAL CAPABILITY ACCRETION / PROGRAMMER-GENERALIST / SOLO→TEAM-LEAD**：检验能力向量如何被连续小作、职业工作、scope reversal、publisher periphery 与 specialist team 逐轮生产出来，而不是把“主创能力”当成固定出身标签 | RESEARCHING |
 | CASE-054 | Josh Parnell / Limit Theory | **TRUE-INDIE FIT-TRAP / ENGINEERING-CAPABILITY OVERINVESTMENT**：强 engine / graphics / procedural 能力不断产出真实局部成果，但 technical frontier 与 shipped-game closure 脱钩；以 engine 比 game code 更成熟、六年后仍远离 feature completion 的一手记录检验“能力也是陷阱” | RESEARCHING |
+| CASE-055 | Wube / Factorio | **DEEP-TECH SUCCESS COUNTERPOINT / TECHNICAL STOP CONDITION**：同样拥有强 simulation / engine / optimization 能力，却多次显式声明“enough”、删除低边际价值 mechanic、锁定 1.0 并 descoping；检验何时技术能力关闭 product obligation、何时只是继续扩大技术前沿 | RESEARCHING |
 
 ## 规则
 
