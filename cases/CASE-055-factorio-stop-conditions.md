@@ -138,6 +138,14 @@ Wube 最初是非常工程型的 founding core。
 | 2023–2024 | Space Age 新系统原型容易继续堆复杂度 | prototype 中删除 intermediates / mechanics | 只保留在完整 game flow 中产生足够价值的复杂度 | stop-condition 不是 1.0 一次性行为 |
 | 2026 | 2.1 仍可继续扩 content | 明确 no new planets / enemies / research trees / resource chains，并计划转长期 support | 主动宣布 active gameplay development 接近结束 | 长期组织层面的 closure discipline |
 
+### Anachronism Check
+
+- 不能用 2026 的 Unity / Unreal / Godot、现代 ECS、云服务、成熟资产生态或 AI-assisted coding 倒推 2012 年 Wube 的技术选择。
+- 本案不是用“Factorio 成功”反向证明 custom C++ stack 必然合理；只记录 Wube 实际选择了高度定制的技术路线，并持续用玩家产品结果约束其继续投入。
+- 2013 paid-alpha / direct-preorder 环境、2016 Steam Early Access 竞争密度与今天不同，不能把当年的长期公开开发周期当作 2026 默认 go-to-market recipe。
+- “约 200 人足够”是 Factorio 当时的项目级 stop condition，不是多人游戏的普遍并发上限。
+- 2026 可迁移的是判断方法：技术目标必须回链 player obligation、maintenance tail 与 release closure，而不是复制具体技术栈或数值阈值。
+
 ## 3. Origin
 
 2012 年 10 月官方第一篇博客已经把 Factorio 描述为：
