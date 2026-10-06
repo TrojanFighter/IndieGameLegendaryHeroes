@@ -63,7 +63,7 @@
 - Source class: S1 — structured shipped-game credits transcription.
 - Title: Clair Obscur: Expedition 33 credits (Windows, 2025).
 - Author / Institution: MobyGames.
-- Published: 2025.
+- Published: UNKNOWN (2025 shipped-game credits).
 - Accessed: 2026-10-07.
 - URL: https://www.mobygames.com/game/241065/clair-obscur-expedition-33/credits/windows/
 - Claim use: ~438 people / 429 professional roles / 530 credits; demonstrates broad external production perimeter including voice, performance, production partners and testing.
