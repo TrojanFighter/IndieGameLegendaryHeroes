@@ -1,24 +1,55 @@
-# 《独立游戏英雄传说》｜Reader Layer
+# 《独立游戏英雄传说》｜书稿与阅读入口
 
-本目录只放独立篇叙事稿；[斯拉夫姊妹篇书稿入口](../sister-projects/slavic/book/README.md) 单独维护。Case 是研究档案，Profile 是人物与生产史叙事，不是另一份事实数据库或另一个语言版本。
+本目录是《独立游戏英雄传说》的公开书稿入口；[斯拉夫姊妹篇书稿入口](../sister-projects/slavic/book/README.md) 单独维护。
 
 © 2026 洪荒行者。All Rights Reserved.
 
-## 第一次来？不要从研究规则开始读
+## 如果你只是来读书
 
-如果你不是来审计证据，而只是想读《独立游戏英雄传说》，请直接进入：
+从这里开始：
 
-> **[《第一次来，先从这里读》](START-HERE.md)**
+> **[第一次来，先从这里读](START-HERE.md)**
 
-那里不按 Case 编号，也不先解释 Evidence / Claim，而是按现实中的问题选故事：不知道自己要做什么、爱好能不能变成能力、该不该辞职、没钱怎么办、失败很多次意味着什么、技术时代窗口究竟怎么影响个人。
+或者直接进入：
 
-本页以下内容主要是 **Reader Layer 的编辑后台与完整目录**。第一次阅读没有必要顺序读完。
+> **[章节目录｜按人生问题连续阅读](chapters/README.md)**
 
-这个目录不是新的研究数据库，也不是 `cases/` 的镜像。
+目前已经有三篇跨人物章节：
 
-它只负责一件事：**把已经经过 Case / Evidence / Claim 审计的研究，写成读者愿意连续读下去的生产史。**
+1. [你不需要十八岁就知道自己要做什么](chapters/01-goals-are-made-not-found.md)
+2. [谁在替你支付试错时间？](chapters/02-who-pays-for-your-time.md)
+3. [失败不是资产，留下来的东西才是](chapters/03-failure-only-matters-if-something-remains.md)
 
-本书的总编辑使命见 [`EDITORIAL-MISSION.md`](EDITORIAL-MISSION.md)：把项目史写回人的一生，解释目标怎样在关键人生岔路中形成；并研究体验资本、需求发现、创新认知、玩家→生产者转换与 Technical Opportunity Window 如何在特定条件下汇合。人物篇默认遵守 [`Reader Profile Schema`](../schemas/profile-template.md)，统一内容维度见 [`HERO-PROFILE-DIMENSIONS.md`](HERO-PROFILE-DIMENSIONS.md)。
+这些章节不按 Case 编号写，也不要求读者先认识开发者。它们从现实问题出发，再把不同人的经历放在一起比较。
+
+## 如果你想深入某个人
+
+进入 [`profiles/`](profiles/)。
+
+Profile 是人物材料层：一篇尽量把一个人 / 团队的能力前史、关键选择、生产条件、失败和成功后的变化讲完整。
+
+## 如果你想核证据
+
+再进入：
+- [Cases](../cases/README.md)
+- [Evidence](../evidence/)
+- [Claims](../claims/README.md)
+
+整套出版结构是：
+
+> **研究后台按事实组织 → Profile 按人物组织 → Chapter 按人的问题组织。**
+
+详见 [`MANUSCRIPT-ARCHITECTURE.md`](MANUSCRIPT-ARCHITECTURE.md)。
+
+---
+
+## 以下是编辑后台
+
+下面保留 Reader Layer 的编辑规则、命题孵化、Profile 清单和研究边界。第一次阅读没有必要顺序读完。
+
+这个目录不是 `cases/` 的镜像。它负责把已经经过 Case / Evidence / Claim 审计的研究写成可连续阅读的人物史和章节。
+
+本书的总编辑使命见 [`EDITORIAL-MISSION.md`](EDITORIAL-MISSION.md)；人物篇默认遵守 [`Reader Profile Schema`](../schemas/profile-template.md)，统一内容维度见 [`HERO-PROFILE-DIMENSIONS.md`](HERO-PROFILE-DIMENSIONS.md)。
 
 ## 这里和研究后台有什么区别？
 
