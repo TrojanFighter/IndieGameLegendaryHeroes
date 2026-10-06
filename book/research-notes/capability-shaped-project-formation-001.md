@@ -434,6 +434,69 @@ Wube 同样极度 programmer-led，也同样会：
 
 > **技术完成度越来越难被一个外部 product stop condition 截断。**
 
+### Playdead：互补 founder 买到的不是劳务，而是共同治理
+
+CASE-056 给 Nomada / GRIS 补上了此前缺失的治理压力样本。
+
+LIMBO 的 thesis、视觉与 game direction 明显先来自 Arnt Jensen。Dino Patti 后加入，带着 programming / production 背景，随后把自己的角色扩成：
+- hiring；
+- financing；
+- company building；
+- production / execution；
+- 对 creative core 的组织保护。
+
+所以这不是普通的：
+
+`artist hires programmer`
+
+而是：
+
+`authorial thesis + complementary founder capability → a company capable of shipping the thesis`
+
+而且这个组合不是失败组合。
+
+它连续做成了 LIMBO 与 INSIDE。
+
+真正重要的是：
+
+> **产品成功以后，founder composition 的治理成本仍然存在。**
+
+到 2015–2016，双方关系严重恶化，Patti 最终出售接近一半的公司股份、退出 Playdead。后来的直接采访又说明，除了 personal fallout，是否愿意继续进入另一个可能长达多年甚至十年的开发周期，也是双方未来路径分叉的重要维度之一。退出多年后，credit / historical contribution 仍然能进入新的法律争议。
+
+所以 cofounder capability 的 accounting 应该改成：
+
+`capability benefit`
+= missing capability supplied
++ shared risk
++ high-context decision speed
++ long-term commitment
+
+同时：
+
+`governance cost`
+= equity
++ authority
++ authorship
++ deadlock
++ cadence / life-horizon dependency
++ exit pricing
++ credit / IP tail
+
+这使 CASE-050 Nomada 与 CASE-056 Playdead 组成第一组真正有用的对照：
+
+- **Nomada**：互补 founder 让 visual thesis 获得可执行 capability set；
+- **Playdead**：同样的互补逻辑确实成功生产了作品，但 founder-level capability 最终暴露出长期治理成本。
+
+因此不能从 Nomada 得出：
+
+> “缺能力就找个互补合伙人。”
+
+更准确的问题是：
+
+> **这项能力真的值得进入 founder / ownership layer 吗？还是 employee、contractor、publisher service 已经足够？**
+
+如果必须进入 founder layer，那么 role authority、deadlock、下一项目、时间尺度、buy-sell、credit after exit 都属于 production design，而不是“以后真吵架再说”的法务尾项。
+
 ## 更大的统一模型
 
 因此“能力反向立项”不应被误写成：
@@ -473,7 +536,7 @@ C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 
 1. Brigador + The Magic Circle 已形成两份结构不同的 `FIT-STRONG / MARKET-FAILED`；下一步比较失败究竟发生在 onboarding、category legibility、audience size、timing 还是 cost structure，而不是机械增加失败者。
 2. The Witness + Outer Wilds + House House 已覆盖 `SELF-FINANCED / EXTERNAL-STACK / GRANT+PUBLISHER`；下一步只重点补 **VC/equity-financed** expansion 与真实 decision-rights / milestone / recoup 条款。
-3. Nomada 已建立第一份 `CAPABILITY-COMPOSED`；下一步找 complementary-founder 失败/解体压力样本。
+3. Nomada + Playdead 已形成第一组 `CAPABILITY-COMPOSED` 正例 / 治理解体压力对照。下一步优先找显式 role authority / deadlock / buy-sell 机制长期运作成功的共同创始人样本，或产品完成前就因 founder composition 解体的样本，以区分 capability compatibility 与 governance compatibility。
 4. Zachtronics 已建立第一份 `FIT-LOCK-IN`；下一步找第二个长期工作室样本。
 5. Limit Theory + Factorio 已形成第一组 deep-tech failure/success 对照：前者 engine maturity 与 game closure 脱钩，后者存在 multiplayer enough、feature deletion、1.0 descoping 三类 stop condition。下一步不再补同类英雄，而是再找一个非 Wube 样本验证 `TECHNICAL STOP CONDITION` 是否可泛化，并继续用 DOOM 区分 frontier creation 与 frontier discipline。
 6. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
