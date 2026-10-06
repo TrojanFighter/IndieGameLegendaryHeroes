@@ -252,6 +252,16 @@ Rike Games 自己会说 Keep Going。
 
 ---
 
+## 时效性卡｜失败残值是结构问题，不是某一代平台秘诀
+
+| 历史路径 | 观察年份 | 当时条件 | 2026 状态 | 今天保留什么 |
+|---|---:|---|---|---|
+| SARPBC → Rocket League | 2008–2015 | 同团队长期存在、服务业务供血、同一问题二次下注 | DURABLE mechanism | 失败前作是否留下 tacit knowledge / team / tooling / second-shot option |
+| Rike Games 高频 mobile prototype → Steam 项目 | 2019–2026 | mobile publisher prototype 制度、web/mobile/Steam 迁移 | CURRENT history / CONDITIONAL transfer | 高频 shipping 可形成能力；mobile KPI 世界模型不能直接迁到 premium Steam |
+| staging project 先支付平台学习成本 | 2020s | 不同商店/构建/发行流程 | DURABLE mechanism | 让真正想押的项目少承担“第一次学平台”的不确定性；具体平台流程持续变化 |
+
+完整规则见 [Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
+
 ## 继续读
 
 人物全文：
