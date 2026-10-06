@@ -2,10 +2,6 @@
 
 © 2026 洪荒行者。All Rights Reserved.
 
-> 对应研究档案：[`CASE-007 — Gunpoint / Tom Francis`](../../cases/CASE-007-gunpoint.md)  
-> 证据账本：[`CASE-007 Evidence Ledger`](../../evidence/CASE-007-gunpoint-source-ledger.md)  
-> 当前研究状态：**RESEARCHING**。本文是 reader-layer 叙事稿，不代表 CASE-007 已经封卷。
-
 独立游戏圈很喜欢讨论技术。
 
 会不会编程，会不会画画，会不会做音乐，会不会用 Unity、Godot、GameMaker，会不会写网络同步，会不会做 shader。
