@@ -16,7 +16,7 @@
 
 ### 第一站：The First Tree / David Wehle
 
-> 当前仍是 **research candidate**，不是正式 Case / Profile；这里把它作为能力入口的首个定向研究对象。
+> 已升级为 **CASE-042 / RESEARCHING**；这里把它作为 Technical Artist / visual-first 的第一批正式锚点。
 
 为什么适合先看：
 
@@ -35,13 +35,14 @@
 > 当年的 Reddit / Imgur / Tumblr / Twitter 传播路径、独立 3D 视觉稀缺度、商店竞争密度。
 
 直接材料：
-- [GDC 2019 — No Time, No Budget, No Problem: Finishing 'The First Tree'](https://gdcvault.com/play/1026455/No-Time-No-Budget-No)
+- [GDC 2019 — No Time, No Budget, No Problem: Finishing 'The First Tree'](https://www.gdcvault.com/play/1025702/No-Time-No-Budget-No)
 - [The First Tree 官方 FAQ](https://www.thefirsttree.com/) — 作者明确说明会授权/改造现成资产以加速 production，也披露 console port 外围帮助
 - [David Wehle 旧作品集 / About](https://davidwehle.net/home/about/) — Media Arts、motion / interactive / multimedia 前史
 
 研究入口：
 - [Capability–Project Fit Audit](../schemas/capability-project-fit-audit.md)
-- [Backlog — The First Tree](../cases/BACKLOG.md)
+- [CASE-042 — The First Tree](../cases/CASE-042-the-first-tree.md)
+- [CASE-042 Evidence Ledger](../evidence/CASE-042-the-first-tree-source-ledger.md)
 
 ### 第二站：Everything / David OReilly
 
@@ -102,7 +103,7 @@
 ## 我是美术 / 动画 / 视觉叙事作者
 
 优先看：
-- The First Tree / David Wehle — `CANDIDATE`；
+- [CASE-042 The First Tree / David Wehle](../cases/CASE-042-the-first-tree.md) — `RESEARCHING`；
 - Everything / David OReilly — `CANDIDATE`；
 - [Undertale / Toby Fox](../cases/CASE-010-undertale.md) — 音乐、UGC/社区与作者性；
 - [despelote](../cases/CASE-023-despelote.md) — 文化、声音、地点记忆与低资产密度表达。
@@ -136,7 +137,7 @@
 - [Kenshi / Chris Hunt](profiles/kenshi.md)
 - [FTL / Subset](profiles/ftl.md)
 - [Stardew Valley](../cases/CASE-004-stardew-valley.md)
-- The First Tree / David Wehle — 作为“偏科但覆盖多工种”的候选对照。
+- [CASE-042 The First Tree / David Wehle](../cases/CASE-042-the-first-tree.md) — 作为“偏科但覆盖多工种”的正式研究对照。
 
 核心问题：
 > 你是在 **Labor Compression**，还是已经真正 **Problem Redefinition**？
@@ -190,3 +191,14 @@
 > **哪一年？当时什么平台、工具和竞争条件？到 2026 哪些仍成立？**
 
 如果没有答案，默认 `UNKNOWN`，不当作行动建议。
+
+
+---
+
+## 研究后台：各类型的下一批正例与压力对照
+
+本页只给普通读者第一站。更完整的纵轴研究池见：
+
+- [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md)
+
+其中已把 visual-first、programmer/systems-first、designer/critic、modder/UGC、商业/AAA 转作者、solo/generalist、business/operations 分开，并为每类维护正例、边界例和失败/压力对照。
