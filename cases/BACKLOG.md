@@ -53,10 +53,12 @@
 | CASE-045 | RimWorld / Tynan Sylvester | CHAT-RESEARCH + EXTERNAL-VERIFIED | “story generator”作为 design thesis；检验 feature omission、prototype failure 与 selection-first 的生产逻辑 |
 | CASE-046 | Sandfall / Clair Obscur: Expedition 33 | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | AAA→authorial 能力迁移；<30 core + tool leverage + publisher + 438-credit industrial periphery，拆“小团队奇迹”神话 |
 | CASE-047 | The Witness / Jonathan Blow | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | prior-hit retained earnings 购买 capability expansion：small core + art / architecture / landscape / specialist periphery；检验 C015 的 `CAPABILITY-EXPANDED` 边界和 C014 的高前置承诺成功反压力 |
+| CASE-048 | The Magic Circle / Question | CHAT-RESEARCH + EXTERNAL-VERIFIED + FAILURE PRESSURE | immersive-sim/AAA 能力与题材/AI mechanic 高度耦合但商业不可持续；第二份 C015 `FIT-STRONG / MARKET-FAILED` |
+| CASE-049 | Outer Wilds / Mobius Digital | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | student thesis + playable evidence 经 studio/Fig/publisher/platform 资金扩张为完整团队；第一份 external-capital `CAPABILITY-EXPANDED` 正式对照 |
 
 ## 下一批优先正式化 / 深挖
 
-CASE-027–047 已登记；下一新编号从 CASE-048 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
+CASE-027–049 已登记；下一新编号从 CASE-050 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
 3. 是否提供当前 31 个档案还没有覆盖的生产结构。
@@ -126,7 +128,7 @@ CASE-027–047 已登记；下一新编号从 CASE-048 起。下一轮从下方 
 - `CASE-026 Brigador` — 强技术/美术执行为何没有自动转化为 onboarding / market legibility；
 - `CASE-031 Jonas Tyroller` — Game Design 教育、多原型经验、公共表达能力如何塑造项目筛选与 fantasy compression。
 
-这条线已新增正式 [C015 — Capability-Shaped Project Formation / 能力反向立项](../claims/C015-capability-shaped-project-formation.md)。当前状态为 SUPPORTED，但它只主张“这是一种可观察的作者型立项技术”，**不主张普遍成功率优势**。下一步必须优先补 2 个以上失败/反压力样本，把能力适配与资金、受众、平台窗口和 luck 分离。
+这条线已新增正式 [C015 — Capability-Shaped Project Formation / 能力反向立项](../claims/C015-capability-shaped-project-formation.md)。当前状态为 SUPPORTED，但它只主张“这是一种可观察的作者型立项技术”，**不主张普遍成功率优势**。当前已补 Brigador + The Magic Circle 两份结构不同的 `FIT-STRONG / MARKET-FAILED`，并补 The Witness + Outer Wilds 两种 `CAPABILITY-EXPANDED`；下一步转向比较 publisher/VC/grant 不同资本来源的 control cost，而不是继续单纯增加赢家。
 
 ### Artless Games：公开言论、产品与持续创作方式
 

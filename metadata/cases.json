@@ -1,5 +1,5 @@
 {
-  "version": 25,
+  "version": 26,
   "last_updated": "2026-10-07",
   "cases": [
     {
@@ -1506,6 +1506,81 @@
       ],
       "last_verified": "2026-10-07",
       "evidence_ledger": "evidence/CASE-047-the-witness-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-048",
+      "file": "cases/CASE-048-the-magic-circle.md",
+      "subject": "The Magic Circle / Question: capability-shaped immersive-sim veterans, strong fit and unsustainable sales",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "high",
+      "related_claims": [
+        "C003",
+        "C004",
+        "C006",
+        "C007",
+        "C010",
+        "C011",
+        "C013",
+        "C015"
+      ],
+      "tags": [
+        "aaa-to-indie",
+        "immersive-sim",
+        "capability-shaped",
+        "fit-strong",
+        "market-failed",
+        "meta-game",
+        "early-access",
+        "genre-legibility",
+        "market-access",
+        "failure-comparator",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-048-the-magic-circle-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-049",
+      "file": "cases/CASE-049-outer-wilds.md",
+      "subject": "Outer Wilds / Mobius Digital: external-capital capability expansion and stakeholder trade-offs",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C002",
+        "C003",
+        "C004",
+        "C010",
+        "C011",
+        "C014",
+        "C015"
+      ],
+      "tags": [
+        "student-project",
+        "capability-expanded",
+        "external-capital",
+        "fig",
+        "publisher",
+        "platform-partnership",
+        "runway",
+        "team-expansion",
+        "stakeholder-surface",
+        "outer-wilds",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-049-outer-wilds-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "partial",
       "schema_version": 2,

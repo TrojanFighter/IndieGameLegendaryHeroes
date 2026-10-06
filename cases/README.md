@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 47 个档案中，45 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 49 个档案中，47 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -57,6 +57,8 @@
 | CASE-045 | RimWorld / Tynan Sylvester | **DESIGN-THESIS / SELECTION-FIRST CASE**：用“story generator”而非完整 simulation 作为价值函数，检验 feature omission、prototype failure 与公开反馈如何共同降低 decision entropy | RESEARCHING |
 | CASE-046 | Sandfall / Clair Obscur: Expedition 33 | **AAA→AUTHORIAL / SMALL-CORE + INDUSTRIAL-PERIPHERY COMPARATOR**：拆解 Ubisoft 能力迁移、<30 core、UE5/tool leverage、Kepler 与 438-credit production perimeter，反驳“30 人完成 AAA RPG”神话 | RESEARCHING |
 | CASE-047 | The Witness / Jonathan Blow | **CAPABILITY-EXPANDED / HIGH-CAPITAL AUTHORIAL COMPARATOR**：检验 Braid retained earnings 如何让作者不必缩项目，而是购买 art / architecture / landscape 等缺失能力；同时作为 C015 边界与 C014 高前置承诺成功反压力 | RESEARCHING |
+| CASE-048 | The Magic Circle / Question | **FIT-STRONG / MARKET-FAILED / AAA→AUTHORIAL**：三位 immersive-sim 老兵的能力与题材/AI mechanic 高度耦合，却仍因 genre illegibility、niche market 与零 marketing budget 等导致商业不可持续；作为 C015 第二失败压力样本 | RESEARCHING |
+| CASE-049 | Outer Wilds / Mobius Digital | **CAPABILITY-EXPANDED / EXTERNAL-CAPITAL COMPARATOR**：USC thesis / playable evidence 经 Mobius、Fig、Annapurna、Xbox、Epic 等层层扩张团队与 runway；比较外部资本如何购买能力并扩大 stakeholder surface | RESEARCHING |
 
 ## 规则
 

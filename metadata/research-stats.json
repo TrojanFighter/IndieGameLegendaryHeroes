@@ -1,24 +1,24 @@
 {
   "cases": {
     "evidence_strength": {
-      "high": 7,
+      "high": 9,
       "low": 2,
       "medium": 38
     },
     "explanatory_importance": {
-      "critical": 37,
+      "critical": 39,
       "high": 9,
       "medium": 1
     },
     "narrative_value": {
-      "critical": 23,
-      "high": 24
+      "critical": 24,
+      "high": 25
     },
     "status": {
-      "RESEARCHING": 45,
+      "RESEARCHING": 47,
       "SKELETON": 2
     },
-    "total": 47
+    "total": 49
   },
   "claims": {
     "evidence_strength": {

@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049
 
 ## Definition
 
@@ -91,6 +91,51 @@ This does not refute C015. It limits its domain:
 
 When founder-owned capital and recruiting power are unusually strong, a project may be `CAPABILITY-EXPANDED` instead.
 
+### CASE-048 The Magic Circle — second FIT-STRONG / MARKET-FAILED pressure
+
+The Magic Circle adds a structurally different failure sample.
+
+Its three core creators had unusually strong fit with the project:
+- immersive-sim design / narrative / FX / AI prehistory;
+- game-development culture used as subject matter;
+- player-editable AI used as the core mechanic;
+- deliberate rejection of process-heavy AAA collaboration norms.
+
+Yet creator-reported sales were still unsustainable, and the team itself diagnosed unclear genre, niche-within-niche framing and lack of a marketing budget.
+
+Therefore the audit must separate:
+
+1. **Creator–Project Fit** — are these people unusually suited to make this game?
+2. **Project–Market Selection** — is this game, in this market and at this time, a sufficiently good commercial bet?
+
+The Magic Circle is strong on the first and weak on the second.
+
+### CASE-049 Outer Wilds — external-capital CAPABILITY-EXPANDED
+
+Outer Wilds adds the missing capital-source comparison.
+
+The Witness used founder-owned retained earnings. Outer Wilds moved from student thesis / playable evidence into:
+- Mobius studio support;
+- Fig funding;
+- team expansion;
+- Annapurna publishing;
+- Xbox / Epic partnerships.
+
+The developer explicitly connected those partnerships to keeping the studio alive long enough to ship at the desired quality.
+
+This introduces a new distinction:
+
+> **Capability expansion is not one mechanism. Its control cost depends on who supplies the capital.**
+
+Founder-owned money primarily costs burn / opportunity cost.
+External money can additionally create:
+- investor / backer expectations;
+- publisher / platform milestones;
+- distribution commitments;
+- additional approval / stakeholder surfaces.
+
+Exact Outer Wilds contract terms remain UNKNOWN, so this is a governance surface, not a claim that a partner forced any specific design decision.
+
 ### Other boundaries
 
 - CASE-043 shows redefinition can merely **move** cost: rolling/procedural locomotion deleted conventional animation obligations but created hard systems work.
@@ -131,9 +176,9 @@ For a large or well-capitalized organization, project definition can assume a br
 
 For a very small authorial team, the team itself is a hard design constraint. The sophisticated response is not necessarily to imitate a normal project with fewer people. It can be to invent a project whose highest-value problems are exactly the problems this person is unusually cheap/good at solving.
 
-CASE-047 now adds the mirror image:
+CASE-047 and CASE-049 now add the mirror image:
 
-> **When authorial capital is high enough, the founder can choose to expand the capability set instead of shrinking/redefining the project.**
+> **When enough capital can be mobilized, the team can choose to expand the capability set instead of shrinking/redefining the project. The source of that capital changes the control/stakeholder surface.**
 
 So the real design variable is not simply `team size`, but:
 
@@ -169,8 +214,8 @@ This is why some independent games look “strange” relative to industry genre
 
 ## Next Evidence Needed
 
-1. Brigador 已满足第一份 `FIT-STRONG / LAUNCH-FAILED` 压力样本；继续找至少 1 个结构不同的第二失败样本，避免一个项目承担全部反证。
+1. Brigador + The Magic Circle 已满足第一轮两份结构不同的 `FIT-STRONG / MARKET-FAILED` 压力样本；下一步不再机械增加失败者，而是比较失败发生在 onboarding、category legibility、audience size、timing 还是 capital structure。
 2. 把 Lucas Pope / Papers, Please 是否属于此机制重新核：目前更多证据是 disciplined cutting，而非明确以弱项反向立项。
 3. 在 Jonas Tyroller 多项目里寻找同一个人是否越来越显性地做 capability–project matching。
 4. 检验 2020s AI / asset / no-code 环境是否扩大了 creator 可选择的项目集合，从而改变“能力反向立项”的边界。
-5. CASE-047 已建立第一份 `CAPABILITY-EXPANDED` 对照；继续找 publisher-financed / VC-financed / prior-hit-financed 三种不同能力扩张模式，比较 capital source 对 decision rights 的影响。
+5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）已经建立两种 `CAPABILITY-EXPANDED`；下一步优先补 VC/grant-financed 样本，并继续核 publisher/platform contract 中真正可观察的 decision-rights / milestone / recoup 变量。

@@ -38,8 +38,8 @@
 
 当前仓库已经形成：
 
-- **47 个编号 Case 档案**，其中 45 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
-- **47 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **49 个编号 Case 档案**，其中 47 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
+- **49 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **15 个跨案例 Claim**，检验 runway、能力资本、能力反向立项、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
@@ -57,15 +57,15 @@
 | **没钱的人到底怎么把游戏做出来？** | [Kenshi](cases/CASE-012-kenshi.md) · [FTL](cases/CASE-001-ftl.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [Stardew Valley](cases/CASE-004-stardew-valley.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) · [Darkwood](cases/CASE-037-darkwood.md) |
 | **“一个人做游戏”到底有多真？** | [Papers, Please](cases/CASE-003-papers-please.md) · [RollerCoaster Tycoon](cases/CASE-018-rollercoaster-tycoon.md) · [Schedule I](cases/CASE-019-schedule-i.md) · [Kenshi](cases/CASE-012-kenshi.md) · [中国式网游](cases/CASE-028-chinese-online-game.md) · [Manor Lords](cases/CASE-036-manor-lords.md) |
 | **失败前作 / 废案是不是白做了？** | [Rocket League](cases/CASE-002-rocket-league.md) · [R.E.P.O.](cases/CASE-006-repo.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) · [Landfall Games](cases/CASE-034-landfall-games.md) |
-| **好游戏为什么仍然可能卖不动？** | [Brigador](cases/CASE-026-brigador.md) · [Among Us](cases/CASE-017-among-us.md) |
+| **好游戏为什么仍然可能卖不动？** | [Brigador](cases/CASE-026-brigador.md) · [The Magic Circle](cases/CASE-048-the-magic-circle.md) · [Among Us](cases/CASE-017-among-us.md) |
 | **上班养游戏、接活养原创，真的能成立吗？** | [Kenshi](cases/CASE-012-kenshi.md) · [early id Software](cases/CASE-016-early-id-software.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [Rocket League](cases/CASE-002-rocket-league.md) · [Darkwood](cases/CASE-037-darkwood.md) |
 | **众筹到底解决什么，不解决什么？** | [FTL](cases/CASE-001-ftl.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) · [Project Wingman](cases/CASE-009-project-wingman.md) · [Factorio](cases/CASE-035-factorio-wube.md) · [Darkwood](cases/CASE-037-darkwood.md) |
 | **Early Access / 付费 Alpha 怎样变成生产资本？** | [Minecraft](cases/CASE-014-minecraft.md) · [Kenshi](cases/CASE-012-kenshi.md) · [Schedule I](cases/CASE-019-schedule-i.md) · [Factorio](cases/CASE-035-factorio-wube.md) |
 | **“首款成功”之前其实练了多少年？** | [Lethal Company](cases/CASE-011-lethal-company.md) · [Dream Quest](cases/CASE-008-dream-quest.md) · [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) · [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) |
 | **同一个开发者 / 工作室的方法到底能不能跨项目复现？** | [Jonas Tyroller](cases/CASE-031-jonas-tyroller.md) · [Tom Francis](cases/CASE-007-gunpoint.md) · [Into the Breach / Subset](cases/CASE-020-into-the-breach.md) · [Landfall Games](cases/CASE-034-landfall-games.md) |
-| **能不能反过来按自己的能力模型定制项目？** | [C015 能力反向立项](claims/C015-capability-shaped-project-formation.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [The First Tree](cases/CASE-042-the-first-tree.md) · [Dream Quest](cases/CASE-008-dream-quest.md) · [RollerCoaster Tycoon](cases/CASE-018-rollercoaster-tycoon.md) · [Everything](cases/CASE-043-everything-david-oreilly.md) |
+| **能不能反过来按自己的能力模型定制项目？** | [C015 能力反向立项](claims/C015-capability-shaped-project-formation.md) · [Gunpoint](cases/CASE-007-gunpoint.md) · [The First Tree](cases/CASE-042-the-first-tree.md) · [Brigador](cases/CASE-026-brigador.md) · [The Magic Circle](cases/CASE-048-the-magic-circle.md) |
 | **玩家 / modder 能不能先发明规则，再进入商业游戏工业？** | [PUBG / Brendan Greene](cases/CASE-032-pubg-brendan-greene.md) · [Garry Newman / s&box](cases/CASE-044-garry-newman-sbox.md) · [Tripwire](cases/CASE-040-tripwire-lineage.md) · [early id / DOOM](cases/CASE-016-early-id-software.md) · [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
-| **发行商、孵化器和 grant 什么时候真正有用？** | [despelote](cases/CASE-023-despelote.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) · [Manor Lords](cases/CASE-036-manor-lords.md) · [Dyson Sphere Program（待核）](cases/CASE-027-dyson-sphere-program.md) |
+| **发行商、孵化器和 grant 什么时候真正有用？** | [Outer Wilds](cases/CASE-049-outer-wilds.md) · [despelote](cases/CASE-023-despelote.md) · [Hollow Knight](cases/CASE-015-hollow-knight.md) · [Manor Lords](cases/CASE-036-manor-lords.md) · [Dyson Sphere Program（待核）](cases/CASE-027-dyson-sphere-program.md) |
 | **为什么有的游戏发行时没爆，后来却突然爆了？** | [Among Us](cases/CASE-017-among-us.md) · [Brigador](cases/CASE-026-brigador.md) |
 | **小团队怎样挑战成熟大厂品类？** | [Project Wingman](cases/CASE-009-project-wingman.md) · [Escape from Tarkov](cases/CASE-022-escape-from-tarkov-lineage.md) · [Dyson Sphere Program（待核）](cases/CASE-027-dyson-sphere-program.md) |
 | **“小团队”就一定是独立游戏吗？** | [Escape from Duckov](cases/CASE-024-escape-from-duckov.md) · [Boundary（待核）](cases/CASE-029-boundary.md) · [Outpost: Infinity Siege（待核）](cases/CASE-030-outpost-infinity-siege.md) |
@@ -75,6 +75,7 @@
 | **中国网游为什么会从卖时间走向 F2P、虚拟商品与运营工业？** | [《征途》/ 史玉柱](cases/CASE-033-zhengtu-shi-yuzhu.md) · [中国游戏产业前史](book/research-notes/china-game-industry-prehistory-002.md) · [《符石守护者》vs《不思议迷宫》](book/research-notes/runestone-keeper-vs-gumballs-001.md) |
 | **平台本身能不能把玩家训练成开发者？** | [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
 | **成功以后，第一次成功怎样改变第二作？** | [Into the Breach](cases/CASE-020-into-the-breach.md) |
+| **自己的钱与外部的钱，扩团队时有什么不同？** | [The Witness](cases/CASE-047-the-witness.md) · [Outer Wilds](cases/CASE-049-outer-wilds.md) · [Capability–Project Fit Audit](schemas/capability-project-fit-audit.md) |
 | **错误的平台经验会不会反过来害你？** | [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) · [Sultan's Game](cases/CASE-038-sultans-game.md) · [Outpost: Infinity Siege（待核）](cases/CASE-030-outpost-infinity-siege.md) · [跨案例 Claim C009](claims/README.md) |
 | **所谓“纯靠天才 / 纯靠运气 / 零营销”哪里不对？** | [跨案例综合](claims/CROSS-CASE-READINGS.md) · [Claims Index](claims/README.md) |
 
@@ -82,9 +83,9 @@
 
 ---
 
-## 47 个编号案例档案
+## 49 个编号案例档案
 
-这些 Case 是研究后台的档案，45 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
+这些 Case 是研究后台的档案，47 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
 | Case | Subject | 它主要让我们看见什么 |
 |---|---|---|
@@ -135,6 +136,8 @@
 | [CASE-045](cases/CASE-045-rimworld.md) | **RimWorld / Tynan Sylvester** | “story generator”作为 design thesis 如何控制 feature selection、strategic omission 与 simulation cost |
 | [CASE-046](cases/CASE-046-sandfall-expedition33.md) | **Sandfall / Clair Obscur: Expedition 33** | AAA 能力迁移 + <30 core + UE5/tool leverage + publisher/external production perimeter；拆解“30 人 AAA”神话 |
 | [CASE-047](cases/CASE-047-the-witness.md) | **The Witness / Jonathan Blow** | `CAPABILITY-EXPANDED`：用 prior-hit retained earnings 扩张 art / architecture / landscape / specialist capability，而不是让项目完全服从 founder 当前能力；同时压力测试 C014/C015 |
+| [CASE-048](cases/CASE-048-the-magic-circle.md) | **The Magic Circle / Question** | `FIT-STRONG / MARKET-FAILED`：AAA/immersive-sim 前史直接变成 mechanic 与题材，但销量仍被 creator 评价为不可持续；检验 creator–project fit 与 project–market selection 的分离 |
+| [CASE-049](cases/CASE-049-outer-wilds.md) | **Outer Wilds / Mobius Digital** | `CAPABILITY-EXPANDED / EXTERNAL-CAPITAL`：playable thesis 先成立，再通过 studio/crowdfunding/publisher/platform 资金扩张能力；检验不同资本来源的 control / stakeholder cost |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。`Sultan's Game` 已升级为 CASE-038，但工作室所有权、旧投资关系和 publisher financing 仍待继续审计；Artless Games 保留为中国创作路径候选。
 
@@ -199,8 +202,8 @@
 
 截至 2026-10-07：
 
-- 47 个编号 Case 已建档，其中 45 个 RESEARCHING、2 个 SKELETON；
-- 47 个对应 Case Evidence Ledger 已建立；
+- 49 个编号 Case 已建档，其中 47 个 RESEARCHING、2 个 SKELETON；
+- 49 个对应 Case Evidence Ledger 已建立；
 - 15 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 / C014 / C015 当前为 `SUPPORTED`；C013 当前为 `WEAK`；
 - CASE-027–030 构成“中国生产制度候选组”；《中国式网游》已核官方开发自述，其余三个来源待恢复，不把候选解释视为已证正反例；
 - CASE-031 将 Jonas Tyroller 作为 longitudinal practitioner，持续检验同一开发者跨项目的方法复现、方法修正、市场接入与运气边界；
@@ -211,6 +214,7 @@
 - CASE-044–046 新增三条纵轴：Garry Newman/s&box 的 creator-platform 成功→CURRENT pressure、RimWorld 的 design-thesis/feature-selection、Sandfall/Expedition 33 的 AAA capability transfer + small core + industrial periphery；
 - C015 正式定义“能力反向立项”：主创先识别自己的能力向量和弱项，再反向塑造项目，而不是把标准游戏机械缩小。
 - CASE-026 Brigador 现在作为 `FIT-STRONG / LAUNCH-FAILED` 反压力：项目能力适配很强也仍可能商业失败；CASE-047 The Witness 则建立 `CAPABILITY-EXPANDED` 对照，说明资本足够时也可以让能力集合追上项目愿景。
+- CASE-048 The Magic Circle 提供第二种 `FIT-STRONG / MARKET-FAILED`，证明“最像自己的项目”仍可能不是最值得做的商业项目；CASE-049 Outer Wilds 提供第一份 `EXTERNAL-CAPITAL / CAPABILITY-EXPANDED`，开始比较 founder-owned money 与 publisher/platform money 的 stakeholder/decision-rights 差异。
 - `book/research-notes/china-commercial-game-training-role-origin-audit-005.md` 开始以腾讯及相邻样本审计岗位子类型、prototype authority、design-loop proximity 与 ownership span，不把“程序员 > 策划”当成既成结论；
 - CASE-026 仍是第一例正式以 **failure comparator** 为中心编号的 Case；
 - `book/` 已有 Kenshi、Rocket League、Bills Must Be Paid、Gunpoint、FTL 等 profile，并已建立独立游戏运动史、目标形成、玩家→生产者等书级研究入口。
