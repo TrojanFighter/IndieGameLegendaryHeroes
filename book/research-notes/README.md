@@ -30,6 +30,7 @@
 - [`china-creator-constraints-three-layer-map-018.md`](china-creator-constraints-three-layer-map-018.md) — 将“老中/英雄为什么没有出发”正式拆为教育、行业版本现状、社会版本意识三层；路由现有课题，并补入应试教育反过度归因、organizational learning / competency trap、idiosyncrasy credit 与家庭期待等外部理论锚。
 - [`china-creator-three-layer-pressure-tests-019.md`](china-creator-three-layer-pressure-tests-019.md) — 用王妙一 / 《WILL》与茄子 / 《太吾绘卷》做三层第一次人物压力测试：高学历与大厂经历不必消灭 Problem Ownership；大厂能力可以选择性迁移；社会规范许可与经济 runway 必须拆开。
 - [`china-creator-three-layer-failure-pressure-tests-020.md`](china-creator-three-layer-failure-pressure-tests-020.md) — 故意引入失败样本：自学/自由不等于设计判断，大厂退出不等于评价函数退出，资本与支持也不能替代现实裁决；新增 Reality Adjudication 与“Survival Time without Reality Feedback = Error Persistence”。
+- [`china-creator-three-layer-case-matrix-021.md`](china-creator-three-layer-case-matrix-021.md) — 将三层框架整理为系统案例矩阵，要求每层同时有成功/失败/混合样本，并用跨国对照约束“中国性”误归因；同时建立 reader-facing 自测和正式章节写作门槛。
 - [`runestone-keeper-vs-gumballs-001.md`](runestone-keeper-vs-gumballs-001.md) — 《符石守护者》与《不思议迷宫》的路径分化：相近 Roguelike/地牢语法如何在 Steam premium 与中国 mobile/F2P 制度里长成不同生产与收入结构。
 - [`pvz2-china-monetization-001.md`](pvz2-china-monetization-001.md) — PopCap Shanghai 从 Great Wall Edition 到 PVZ2 中国版的商业本地化：盗版/低 premium 回款如何推动 F2P，再如何进入 progression、difficulty 与付费边界。
 - [`china-pc-market-interface-audit-001.md`](china-pc-market-interface-audit-001.md) — 对《波西亚时光》《戴森球计划》《Eastward》《太吾绘卷》《了不起的修仙模拟器》《苏丹的游戏》《边境》七个中国 PC 项目的市场接口、愿望单/验证路径、发行外围与海内外结构做横向审计，检验“看不见的墙”命题。
