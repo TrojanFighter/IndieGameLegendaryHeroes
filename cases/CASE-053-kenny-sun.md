@@ -4,7 +4,7 @@ schema_version: 2
 case_id: CASE-053
 status: RESEARCHING
 subject: "Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT: longitudinal capability accretion from solo experiments to team-led production"
-related_claims: [C002, C003, C004, C007, C010, C011, C015]
+related_claims: [C015]
 evidence_strength: HIGH
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
@@ -19,7 +19,7 @@ last_verified: 2026-10-07
 - Period covered: 2007 early Flash experiments → 2014–2015 Circa Infinity → Harmonix + weekend indie → 2018 full-time indie → 2019–2023 Hatbox → 2025–2026 BALL x PIT
 - Research status: RESEARCHING
 - Corpus role: `LONGITUDINAL CAPABILITY ACCRETION / PROGRAMMER-GENERALIST / SOLO→TEAM-LEAD / PUBLISHER-PERIPHERY`
-- Related Claims: C002, C003, C004, C007, C010, C011, C015
+- Related Claims: C015
 - Evidence Ledger: [来源账本](../evidence/CASE-053-kenny-sun-source-ledger.md)
 
 ## 1. Why this case
