@@ -165,7 +165,7 @@
 - Source class: P0 — official press kit.
 - Title: Factorio Press Kit.
 - Author / Institution: Wube Software.
-- Published: continuously maintained.
+- Published: UNKNOWN.
 - Accessed: 2026-10-07.
 - URL: https://www.factorio.com/press-kit
 - Claim use: development began May 2012; successful crowdfunding February 2013; Wube founded September 2014; Steam February 2016; 1.0 August 2020; original core described as a tiny programmer-led garage company.
