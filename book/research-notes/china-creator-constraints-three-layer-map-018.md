@@ -552,6 +552,7 @@ Production Capital 高速增加
 三层模型的第一次人物级压力测试见：
 
 - [王妙一 × 《太吾绘卷》：教育 / 行业 / 社会三层压力测试](china-creator-three-layer-pressure-tests-019.md)
+- [自由、经验、支持都不能替代现实验证：三层失败压力测试](china-creator-three-layer-failure-pressure-tests-020.md)
 
 目前得到三个重要修正：
 
