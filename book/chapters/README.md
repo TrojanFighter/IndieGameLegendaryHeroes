@@ -20,6 +20,10 @@ Profiles 写“一个人发生了什么”；Chapters 写“这些人生放在�
 
 3. [失败不是资产：只有留下下一次还能使用的东西，失败才开始值钱](03-failure-only-matters-if-something-survives.md)
 
+### Part IV — 技术时代不会替你做选择
+
+4. [技术时代不会替你做选择：有人用现成工具，有人重组平台，有人自己造出窗口](04-technology-will-not-choose-for-you.md)
+
 完整书稿结构见 [BOOK-ARCHITECTURE](../BOOK-ARCHITECTURE.md)。
 
 如果你想先选“和我现在最像的问题”，进入 [第一次来，先从这里读](../START-HERE.md)。
