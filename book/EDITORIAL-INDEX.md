@@ -10,6 +10,7 @@
 - [EDITORIAL-MISSION](EDITORIAL-MISSION.md) — 全书编辑使命
 - [EDITORIAL-GATE](EDITORIAL-GATE.md) — reader layer 写作门槛
 - [HERO-PROFILE-DIMENSIONS](HERO-PROFILE-DIMENSIONS.md) — 人物形成维度
+- [TEMPORAL-VALIDITY](TEMPORAL-VALIDITY.md) — 历史成功经验的年份 / regime / 2026 时效门槛
 - [THESIS-CANDIDATES](THESIS-CANDIDATES.md) — 尚未升级成正式 Claim 的书级母题
 - [Reader Profile Schema](../schemas/profile-template.md) — Profile 结构规则
 
@@ -18,6 +19,7 @@
 - [Chapters](chapters/README.md) — 跨人物正式章节
 - [Profiles](profiles/) — 单人物 / 单团队完整生产史
 - [START-HERE](START-HERE.md) — 按现实人生问题导读
+- [READER-ARCHETYPES](READER-ARCHETYPES.md) — 按主创者能力 / 出身类型找第一批案例
 - [INDIE-MOVEMENT](INDIE-MOVEMENT.md) — 独立游戏运动与谱系说明
 
 ## Research Backend
@@ -36,4 +38,6 @@
 4. Chapter 以现实问题为主角，人物作为比较样本；不把多个 Profile 简单拼接。
 5. 所有 reader-layer 判断仍必须可回溯到 Profile → Case → Evidence。
 6. 不为了可读性填补 UNKNOWN，也不为了严谨性把后台术语塞满正文。
-7. 公开研究与私人商业利益边界继续遵守 AGENTS.md / PROGRAM-MAP.md。
+7. 所有“今天值得学什么”必须写观察年份与时效状态；成功经验不能无日期。
+8. 主创者类型入口只用于导航；职业出身不能替代 Capability–Project Fit 证据。
+9. 公开研究与私人商业利益边界继续遵守 AGENTS.md / PROGRAM-MAP.md。
