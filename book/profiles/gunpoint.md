@@ -2,10 +2,6 @@
 
 © 2026 洪荒行者。All Rights Reserved.
 
-> 对应研究档案：[`CASE-007 — Gunpoint / Tom Francis`](../../cases/CASE-007-gunpoint.md)  
-> 证据账本：[`CASE-007 Evidence Ledger`](../../evidence/CASE-007-gunpoint-source-ledger.md)  
-> 当前研究状态：**RESEARCHING**。本文是 reader-layer 叙事稿，不代表 CASE-007 已经封卷。
-
 独立游戏圈很喜欢讨论技术。
 
 会不会编程，会不会画画，会不会做音乐，会不会用 Unity、Godot、GameMaker，会不会写网络同步，会不会做 shader。
@@ -498,6 +494,8 @@ Crosslink 很长时间只是“好像有潜力”。
 ---
 
 ## 研究依据
+
+对应研究档案：[CASE-007 — Gunpoint / Tom Francis](../../cases/CASE-007-gunpoint.md)。当前状态：**RESEARCHING**；“Taste Capital”仍是需要跨案例反压力的书级候选命题，不因为 Tom Francis 这一案叙事清晰就自动升级为普遍定律。
 
 本文当前基于 CASE-007 已登记的一手/直接访谈证据：
 
