@@ -48,10 +48,11 @@
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | CHAT-RESEARCH + COMPARATOR | SKELETON；团队归属、职业前史与生产制度解释待原文证据 |
 | CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | CHAT-RESEARCH + EXTERNAL-VERIFIED | 同一开发者跨三人协作、solo-core、两人团队的纵向样本；检验原型筛选、fantasy compression、能力积累、市场接入与方法自我修正 |
 | CASE-042 | The First Tree / David Wehle | CHAT-RESEARCH + EXTERNAL-VERIFIED | Technical Artist / visual-first 能力如何通过 short scope、licensed assets、environment storytelling 与 market surface 共同塑造项目；2016–2017 社媒路径按 Temporal Validity 审计 |
+| CASE-043 | Everything / David OReilly | CHAT-RESEARCH + EXTERNAL-VERIFIED | 动画作者如何把 abstraction / procedural movement / programmer dyad 转成 game language；检验 problem redefinition 删除传统动画 obligation 后又制造了哪些 systems cost |
 
 ## 下一批优先正式化 / 深挖
 
-CASE-027–031 已登记，下一新编号从 CASE-032 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
+CASE-027–043 已登记；下一新编号从 CASE-044 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
 3. 是否提供当前 31 个档案还没有覆盖的生产结构。
@@ -91,12 +92,12 @@ CASE-027–031 已登记，下一新编号从 CASE-032 起。下一轮从下方 
 - 因此本案可以正式承担 `visual / technical-art capability → product shape → production model → market surface` 的第一锚点。
 - 仍未解决：家庭 burn / spouse support、完整 licensed-content accounting、各 social surface 对销量的独立 causal weight，以及 visual-first 是立项前明确策略还是传播反馈中强化出来。
 
-#### 强候选：Everything / David OReilly
+#### 已升级：Everything / David OReilly → CASE-043
 
-- P1 起点：[The Creative Independent interview](https://thecreativeindependent.com/wisdom/david-oreilly-on-making-sure-you-keep-going/) 与 [Cartoon Brew interview](https://www.cartoonbrew.com/shorts/everything-creator-david-oreilly-hard-truths-moving-away-animation-150296.html)。
-- OReilly 是动画作者出身，公开解释动物的程序化/翻滚移动既与成本有关，也来自他对 abstraction 的长期训练；作品中大量对象因此不需要传统写实角色 rig / walk-cycle pipeline。
-- 这不是“低成本动画做得粗”，而是把原本的生产缺口直接转化成可识别的作品语言：`cost avoidance → aesthetic conversion`。
-- 要进一步审计哪些对象仍使用 rig、系统本身的工程成本、外部 contributors 与 Mountain → Everything 的能力/收入桥梁，避免把“没有传统动画”误写成“没有动画成本”。
+- 已正式化为 [CASE-043](CASE-043-everything-david-oreilly.md)，来源账本见 [Evidence Ledger](../evidence/CASE-043-everything-david-oreilly-source-ledger.md)。
+- 关键边界：OReilly 是 authorial / visual core，但 Damien Di Fede 是长期核心 programmer；另有 music、sound、modeling、PS4 optimization 等外围，不能写成 solo-coded art game。
+- 最重要的机制不是“省掉 walk cycle”，而是 animation abstraction → procedural rule → recognizable game language；同时保留 project 从约 6 个月扩到接近 3 年这一内部反压力，证明 problem redefinition 只是转移复杂度，不保证总工期下降。
+- 仍待核：完整 credits、Mountain→Everything runway、Double Fine Presents 的商业边界、custom-tool 细节与完整 market chronology。
 
 #### 跨媒介压力样本：《牛来》 / 信雨萌
 
