@@ -191,3 +191,6 @@ Siliconera 的采访提到，此后大约两年里团队逐渐出现了额外的
 - **E002 — Lo-Fi Games official history / fact sheet**：支持早期职业程序员前史、2008 年离开旧工作、夜班维生、2013 年后市场收入支持小团队。
 
 完整来源、等级与 UNKNOWN 项见 [`CASE-012 Evidence Ledger`](../../evidence/CASE-012-kenshi-source-ledger.md)。
+
+
+- 研究档案：[CASE-012](../../cases/CASE-012-kenshi.md)
