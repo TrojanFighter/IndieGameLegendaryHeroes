@@ -12,7 +12,15 @@
 
 因为这里的人通常钱不多、团队很小、失败很公开、反馈很快。你能看见他们怎么谋生、怎么学会东西、怎么试错、怎么被市场拒绝、怎么换方法，也能看见“后来成功”之前那些通常会被传奇删掉的几年。
 
-如果你只是想读故事，从下面选一个和你现在最接近的问题开始。
+如果你只想把它当一本书读，当前最简单的顺序是：
+
+1. [第一章｜你不需要十八岁就知道自己要做什么](chapters/01-goals-are-made-not-found.md)
+2. [第二章｜谁在替你支付试错时间？](chapters/02-who-pays-for-your-time.md)
+3. [第三章｜失败不是资产，留下来的东西才是](chapters/03-failure-only-matters-if-something-remains.md)
+
+完整章节入口见 [`chapters/`](chapters/README.md)。
+
+如果你不想顺读，也可以从下面选一个和你现在最接近的问题开始。
 
 ---
 
@@ -20,8 +28,11 @@
 
 先读：
 
-- [《DOOM启示录》：游戏少年怎样把兴趣变成工具、公司和一个新行业](profiles/early-id-doom.md)
-- [《品味决定命运：Gunpoint 的 Tom Francis》](profiles/gunpoint.md)
+- [第一章｜你不需要十八岁就知道自己要做什么](chapters/01-goals-are-made-not-found.md)
+
+想继续深入人物，再读：
+- [early id / DOOM](profiles/early-id-doom.md)
+- [Gunpoint / Tom Francis](profiles/gunpoint.md)
 
 这两篇共同反对一种很常见的倒写：
 
@@ -73,7 +84,10 @@ Romero、Carmack、Tom Francis 真正值得看的地方，是目标怎样在 **�
 
 先读：
 
-- [FTL：不是先赌上一切，而是先买几个月试错](profiles/ftl.md)
+- [第二章｜谁在替你支付试错时间？](chapters/02-who-pays-for-your-time.md)
+
+再深入：
+- [FTL](profiles/ftl.md)
 - [early id / DOOM](profiles/early-id-doom.md)
 
 FTL 最值得看的不是 Kickstarter 募了多少钱，而是 Kickstarter **之前**：
@@ -100,8 +114,11 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 先读：
 
-- [Kenshi：夜班保安如何把时间变成一间工作室](profiles/kenshi.md)
-- [Rocket League：一家公司怎样靠替别人做游戏，养出自己的游戏](profiles/rocket-league.md)
+- [第二章｜谁在替你支付试错时间？](chapters/02-who-pays-for-your-time.md)
+
+再深入：
+- [Kenshi](profiles/kenshi.md)
+- [Rocket League](profiles/rocket-league.md)
 - [FTL](profiles/ftl.md)
 
 三条路线完全不同：
@@ -124,7 +141,10 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 先读：
 
-- [Bills Must Be Paid：七个月爆款之前，是七年和一百个原型](profiles/bills-must-be-paid.md)
+- [第三章｜失败不是资产，留下来的东西才是](chapters/03-failure-only-matters-if-something-remains.md)
+
+再深入：
+- [Bills Must Be Paid](profiles/bills-must-be-paid.md)
 - [Rocket League](profiles/rocket-league.md)
 
 失败当然可能只是失败。
