@@ -19,10 +19,16 @@
 
 它按现实问题组织文章，不要求你先理解 Case / Evidence / Claim。你可以从“我不知道自己以后要做什么”“该不该辞职”“没钱怎么办”“失败很多次还有没有意义”“新技术到底改变了什么”直接进入已经写出的跨人物章节，再按兴趣下钻到完整 Profile。
 
-当前书稿已经有三篇章节样稿：
+当前书稿已经有五篇章节样稿：
 - [目标不是先想清楚的](book/chapters/01-goals-are-made-not-found.md)
 - [先买几个月试错](book/chapters/02-buy-time-before-betting-your-life.md)
 - [失败不是资产](book/chapters/03-failure-only-matters-if-something-survives.md)
+- [技术时代不会替你做选择](book/chapters/04-technology-will-not-choose-for-you.md)
+- [市场不是最后一步](book/chapters/05-market-interface-is-production.md)
+
+想按自己的能力结构找案例：进入 [按主创者能力进入](book/READER-ARCHETYPES.md)。Technical Artist / visual-first、程序/engine、策划/评论、modder、大厂转作者、solo/generalist 都有不同起点。
+
+所有历史成功经验受 [Temporal Validity Gate](book/TEMPORAL-VALIDITY.md) 约束：年份、当时 regime 与 2026 时效状态必须分开写。
 
 **如果你是研究者、开发者，或者想核每句话：**
 

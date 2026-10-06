@@ -163,6 +163,9 @@ Chapter 不再问：
 - Among Us；
 - Brigador。
 
+当前首章：
+- [市场不是最后一步：有时玩家、钱和反馈在“做完之前”就已经进入生产系统](chapters/05-market-interface-is-production.md)
+
 ## Part VI — 第一次成功以后，题目会换掉
 
 核心问题：

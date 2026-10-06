@@ -24,6 +24,10 @@ Profiles 写“一个人发生了什么”；Chapters 写“这些人生放在�
 
 4. [技术时代不会替你做选择：有人用现成工具，有人重组平台，有人自己造出窗口](04-technology-will-not-choose-for-you.md)
 
+### Part V — 市场不是最后一步
+
+5. [市场不是最后一步：有时玩家、钱和反馈在“做完之前”就已经进入生产系统](05-market-interface-is-production.md)
+
 完整书稿结构见 [BOOK-ARCHITECTURE](../BOOK-ARCHITECTURE.md)。
 
 如果你想先选“和我现在最像的问题”，进入 [第一次来，先从这里读](../START-HERE.md)。

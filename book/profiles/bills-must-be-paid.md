@@ -435,6 +435,17 @@ feedback + creators + Steam + China + Next Fest
 
 ---
 
+## 时效性｜这是 2026 近时样本，但平台 surface 仍会快速过期
+
+- **Observed:** 2019–2026 能力形成；核心 Steam launch path 发生于 2026。
+- **2026 status:** `CURRENT — Verified 2026-10` for 已登记 demo / creator / Steam / browser chronology；具体算法和 surface 效果仍是 `CONDITIONAL`。
+- **不要照抄：** 某个 Trending / Next Fest / creator 数量公式。
+- **今天真正保留：** 允许外部信号修正 launch plan；不要把 mobile KPI 世界模型机械迁移到 premium Steam。
+
+完整规则：[Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
+
+---
+
 ## 研究依据
 
 本文只使用仓库中已登记的 CASE-025 证据边界：

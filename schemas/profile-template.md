@@ -260,6 +260,32 @@ play / fascination
 
 ---
 
+## 8.5. Temporal Transferability / 时效性审计
+
+成功路径必须带年份。
+
+每个重要 Transfer 至少记录：
+
+| 做法 / 机制 | Observed years | 当时 regime | 2026 status | 今天真正保留什么 |
+|---|---:|---|---|---|
+
+状态使用：
+- `DURABLE`：结构机制仍有解释力；
+- `CONDITIONAL`：机制可能成立，但平台 /竞争 /成本已变，使用前重核；
+- `HISTORICAL`：主要作为历史参考，具体打法不直接复制；
+- `CURRENT`：最近 12–18 个月已重新核验，标 Verified 日期；
+- `UNKNOWN`：当前未核。
+
+尤其禁止：
+> 某人在 2019 年靠某平台打法成功 → 2026 年读者应该照抄。
+
+应写成：
+> 当时什么条件让它有效；今天哪些条件还存在；真正跨时代的是哪一层机制。
+
+完整规则见 `book/TEMPORAL-VALIDITY.md`。
+
+---
+
 ## 9. Hidden Supports and Costs
 
 传记不能只写个人意志。

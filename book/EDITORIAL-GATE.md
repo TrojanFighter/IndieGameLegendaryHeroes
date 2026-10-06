@@ -193,6 +193,23 @@ Profile 的结尾优先回到：
 
 ---
 
+## 8.5. 所有“值得学”都必须有年份与时效性
+
+Reader layer 一旦从历史事实推出“今天可以学什么”，必须同时回答：
+
+- **Observed When**：这个做法真正发生在什么年份；
+- **Regime**：当时的平台、工具、发行、支付、社区、竞争与成本条件；
+- **2026 Transfer Status**：`DURABLE / CONDITIONAL / HISTORICAL / CURRENT / UNKNOWN`；
+- **Mechanism vs Tactic**：今天保留的是结构机制，还是某个已经过期的渠道打法。
+
+禁止把“2019 年成功经验”写成无日期的通则。
+
+平台 / 算法 / 商店曝光 / creator discovery / 众筹 / 生活成本 / 融资环境属于高时效变量；未做当前核验时默认 `CONDITIONAL / UNKNOWN`。
+
+完整规则见 [`TEMPORAL-VALIDITY.md`](TEMPORAL-VALIDITY.md)。
+
+---
+
 ## 9. 场景化不等于小说化
 
 优先使用已有证据中的具体东西：
@@ -231,6 +248,8 @@ Profile 的结尾优先回到：
 8. UNKNOWN / transfer boundary 是否仍然清楚？
 9. Case / Evidence 回链是否存在？
 10. 这篇和上一篇在开头、节奏、结尾上是否明显不同？
+11. 所有可迁移经验是否写明观察年份和 2026 时效状态？
+12. 是否把某个历史平台 tactic 误写成 timeless mechanism？
 
 ## Automation boundary
 
@@ -238,7 +257,7 @@ Profile 的结尾优先回到：
 
 原因：以上问题多数依赖语境和叙事判断。只有未来出现明确、重复、可机械识别的错误（例如 provenance 缺失、链接漂移、固定字段缺失），才升级为工具 / CI。
 
-## 8. 研究元数据下沉，不占读者第一屏
+## 11. 研究元数据下沉，不占读者第一屏
 
 Profile / Chapter 第一屏原则上不出现：
 - CASE 编号；

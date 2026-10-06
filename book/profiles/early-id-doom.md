@@ -704,6 +704,17 @@ Softdisk 既限制他们，也训练他们、给他们工资、机器和高频 s
 
 ---
 
+## 时效性｜1990s 的路径只能学机制
+
+- **Observed:** 1980s prehistory → 1990–1996 early id / DOOM / Quake。
+- **2026 status:** `HISTORICAL` for shareware/direct-order economics and specific PC frontier；`DURABLE` for tool leverage、staged commitment、frontier creation、small-core + specialist-periphery。
+- **不要照抄：** BBS/shareware、当时单位经济、极端工时、DOS/NeXT 技术栈。
+- **今天真正保留：** 把技术与工具投资对准真实 bottleneck；让原创项目在证据增强后购买更多选择权。
+
+完整规则：[Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
+
+---
+
 ## 研究与证据入口
 
 这篇人物叙事来自仍在持续审计的研究后台；争议事实与精确边界以后台最新版为准。

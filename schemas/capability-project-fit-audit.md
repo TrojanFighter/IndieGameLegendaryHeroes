@@ -104,6 +104,28 @@
 
 这是比单纯“省钱”更强的信号。矩形角色、翻滚动物、极低精度但高辨识度的 3D、单一核心 mechanic 等都可能属于这一类；但必须由立项期 / 开发期证据证明，而不能只看成品倒推。
 
+### 4.5. Temporal fit / 能力—项目—时代三者是否同时匹配
+
+能力—项目适配不能脱离年份。
+
+同一能力结构在 2013、2019、2026 可能面对完全不同的：
+- engine / asset / AI tool availability；
+- platform competition；
+- creator / social discovery；
+- labor / outsourcing cost；
+- audience expectation；
+- financing and distribution options。
+
+因此任何“这类出身适合做这类项目”的结论都必须同时记录：
+
+| Creator strength | Project shape | Observed years | Enabling regime | 2026 transfer status |
+|---|---|---:|---|---|
+
+The First Tree 尤其作为首个示范：
+> 2017–2019 的 visual-first / technical-art 路径值得研究，但当年的 Reddit / Imgur / Tumblr / Twitter 传播生态不能默认在 2026 仍以同样方式成立。
+
+具体时效规则见 `../book/TEMPORAL-VALIDITY.md`。
+
 ### 5. Counterfactual
 
 至少问一次：

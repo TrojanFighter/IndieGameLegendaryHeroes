@@ -493,6 +493,17 @@ Crosslink 很长时间只是“好像有潜力”。
 
 ---
 
+## 时效性｜GameMaker 窗口属于 2010–2013，判断—原型机制更耐久
+
+- **Observed:** c. 2009–2013 Gunpoint 开发与发售。
+- **2026 status:** `DURABLE` for comparison → explicit judgment → cheap prototype → feedback；`CONDITIONAL` for 当时 GameMaker、媒体职业网络、IGF/Steam discoverability。
+- **不要照抄：** “当记者九年就能做出游戏”或 2013 indie media path。
+- **今天真正保留：** 工具价值在于缩短 judgment → playable → tester truth，而不是替代 selection。
+
+完整规则：[Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
+
+---
+
 ## 研究依据
 
 本文当前基于 CASE-007 已登记的一手/直接访谈证据：

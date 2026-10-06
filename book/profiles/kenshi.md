@@ -183,6 +183,17 @@ Siliconera 的采访提到，此后大约两年里团队逐渐出现了额外的
 
 ---
 
+## 时效性｜Kenshi 是长期低 burn 的历史极端，不是夜班模板
+
+- **Observed:** 2000s–2010s 长周期个人开发与后续 Early Access 扩张。
+- **2026 status:** `DURABLE` for “谁替你支付试错时间 / 保持低固定成本”；`CONDITIONAL` for 个人夜班 + 长周期 EA 的具体可复制性。
+- **不要照抄：** 把极端个人牺牲写成普遍职业建议。
+- **今天真正保留：** runway 是一种生活/现金流结构，不只是一笔融资。
+
+完整规则：[Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
+
+---
+
 ## 研究依据
 
 本文当前只使用仓库中已经登记的 CASE-012 证据边界：

@@ -593,6 +593,16 @@ Carmack 则和团队一起把技术边界本身向前推，创造了自己的窗
 
 ---
 
+## 时效性卡｜技术窗口必须和发生年代一起读
+
+| 历史路径 | 观察年份 | 当时条件 | 2026 状态 | 今天保留什么 |
+|---|---:|---|---|---|
+| early id / Carmack 主动创造 renderer / engine frontier | 1990–1993 | DOS PC、快速硬件演进、shareware、小型高密度团队 | HISTORICAL window / DURABLE mechanism | 有时产品团队本身就是 frontier creator；具体 PC 技术与渠道不可复刻 |
+| Gunpoint / GameMaker | c. 2009–2013 | novice-friendly 2D tool、公开开发、PC indie 分发 | CONDITIONAL | 工具扩散降低 judgment→playable 成本；今天应重新核工具与竞争密度 |
+| PLAYERUNKNOWN / Arma-DayZ substrate | 2013–2017 | 开放 mod/server 生态、survival boom、Twitch、Steam EA | HISTORICAL-CONDITIONAL | 用现成 substrate 先验证最稀缺规则；具体 mod 开放度和 streamer 窗口已变化 |
+
+完整规则见 [Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
+
 ## 继续读人物
 
 - [early id / DOOM：Carmack 如何与团队一起创造技术—产品窗口](../profiles/early-id-doom.md)
