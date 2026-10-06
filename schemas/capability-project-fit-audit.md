@@ -78,6 +78,7 @@
 
 - `CAPABILITY-SHAPED`：立项 / 早期定义已经明确围绕主创强项与弱项塑形；
 - `CAPABILITY-ADAPTED`：项目先存在，开发中才因能力/成本约束被大幅改写；
+- `CAPABILITY-EXPANDED`：项目核心愿景先存在，缺失能力不是被删除，而是通过 retained earnings、publisher、融资、招聘或 specialist periphery 被主动补齐；
 - `LABOR-COMPRESSED`：项目基本保留行业标准问题，只由更少的人硬扛；
 - `UNKNOWN`：没有足够立项期证据。
 
@@ -157,6 +158,15 @@ The First Tree 尤其作为首个示范：
 
 > 如果作者补齐弱项的唯一办法是多招 5–20 人，这个项目是否还保持原来的经济性？
 
+再加一组 **capability acquisition** 问题：
+
+- 缺失能力是被删除、抽象，还是被购买？
+- 谁支付招聘 / contractor / specialist 的现金成本？
+- 资本来自 prior hit、publisher、VC、grant、work-for-hire 还是家庭资产？
+- 资本是否带来 ownership / approval / milestone / recoup 等 control obligation？
+- team capability 扩张以后，authorial decision density 是否仍然存在？
+- 如果不允许 hiring，这个项目会被改写成什么样？
+
 ### 6. Failure-side audit
 
 失败案例同样检查：
@@ -212,6 +222,7 @@ The First Tree 尤其作为首个示范：
 - `FIT-STRONG`：项目明显围绕团队能力不对称设计；
 - `FIT-MIXED`：有部分重定义，但仍大量依靠手工劳动/外部资本填坑；
 - `FIT-WEAK`：项目系统性要求团队补齐昂贵弱项；
+- `FIT-EXPANDED`：项目本身不贴合 founder 当前能力，但团队有意识地用资本/招聘/外围扩张能力集合，并保留核心产品 thesis；
 - `FIT-TRAP`：强项反而诱发不必要复杂度 / 固定成本 / feature accumulation；
 - `UNKNOWN`：缺少立项期证据。
 
@@ -230,7 +241,8 @@ The First Tree 尤其作为首个示范：
 - **Landfall Games** — 物理、喜剧、社交和 community interaction 逐渐形成团队能力资本；反复使用 jam、短周期和小固定团队，同时保留 TABS/HASTE 等长项目作为内部反例。重点研究“工作室是否学会让产品形态服从自己的高杠杆能力”。长期 intake：Issue #25。
 - **CASE-007 Gunpoint / Tom Francis** — 评论者/资深玩家背景如何影响问题选择，需区分 taste 与实现能力。
 - **CASE-018 RollerCoaster Tycoon / Chris Sawyer** — 极强工程能力和长期代码资本如何支撑非常规 OPC production。
-- **CASE-026 Brigador** — 作为失败压力样本，检查强技术/美术执行与市场表达之间是否存在能力—产品错配。
+- **CASE-026 Brigador** — 已升级为 `FIT-STRONG / LAUNCH-FAILED`：多轮 prototype、团队特定 taste、custom engine、precision aiming 与 digital-kitbash art pipeline 都与成品高度耦合，但首发仍因 onboarding / market legibility / audience expectation 等失败。它证明 fit 不是商业成功充分条件。
+- **CASE-047 The Witness** — `FIT-EXPANDED / CAPABILITY-EXPANDED`：Blow 没有把项目削成只需要自己会的东西，而是用 Braid retained earnings 购买 art / architecture / landscape / specialist capability；用于审计“资本让 capability set 追上 project thesis”的另一条路线。
 - **《牛来》 / 信雨萌** — 跨媒介 comparator，不作为游戏 Case。公开访谈显示其从艺术景观背景转入动画、长期自学并以单人核心承担大量传统动画工序。研究重点不是嘲笑粗糙，而是区分：哪些成本被真正重新定义，哪些只是由五年个人劳动替代专业团队。
 
 ### Wave 2 — 优先补证对象
