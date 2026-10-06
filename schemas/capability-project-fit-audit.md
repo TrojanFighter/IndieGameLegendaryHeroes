@@ -78,7 +78,7 @@
 
 - `CAPABILITY-SHAPED`：立项 / 早期定义已经明确围绕主创强项与弱项塑形；
 - `CAPABILITY-ADAPTED`：项目先存在，开发中才因能力/成本约束被大幅改写；
-- `CAPABILITY-EXPANDED`：项目核心愿景先存在，缺失能力不是被删除，而是通过 retained earnings、publisher、融资、招聘或 specialist periphery 被主动补齐；
+- `CAPABILITY-EXPANDED`：项目核心愿景先存在，缺失能力不是被删除，而是通过 retained earnings、publisher、融资、招聘或 specialist periphery 被主动补齐。继续拆成：`SELF-FINANCED EXPANSION`（如 CASE-047）与 `EXTERNAL-CAPITAL EXPANSION`（如 CASE-049），因为 control / stakeholder cost 不同；
 - `LABOR-COMPRESSED`：项目基本保留行业标准问题，只由更少的人硬扛；
 - `UNKNOWN`：没有足够立项期证据。
 
@@ -164,6 +164,9 @@ The First Tree 尤其作为首个示范：
 - 谁支付招聘 / contractor / specialist 的现金成本？
 - 资本来自 prior hit、publisher、VC、grant、work-for-hire 还是家庭资产？
 - 资本是否带来 ownership / approval / milestone / recoup 等 control obligation？
+- 是否新增 backer / platform / storefront expectation？
+- 资本方能否否决 prototype / scope / launch window，还是只提供 runway？
+- external capital 的“钱”与“能力”分别是什么：招聘预算、QA、发行、平台、营销、技术支持还是用户入口？
 - team capability 扩张以后，authorial decision density 是否仍然存在？
 - 如果不允许 hiring，这个项目会被改写成什么样？
 
@@ -243,6 +246,8 @@ The First Tree 尤其作为首个示范：
 - **CASE-018 RollerCoaster Tycoon / Chris Sawyer** — 极强工程能力和长期代码资本如何支撑非常规 OPC production。
 - **CASE-026 Brigador** — 已升级为 `FIT-STRONG / LAUNCH-FAILED`：多轮 prototype、团队特定 taste、custom engine、precision aiming 与 digital-kitbash art pipeline 都与成品高度耦合，但首发仍因 onboarding / market legibility / audience expectation 等失败。它证明 fit 不是商业成功充分条件。
 - **CASE-047 The Witness** — `FIT-EXPANDED / CAPABILITY-EXPANDED`：Blow 没有把项目削成只需要自己会的东西，而是用 Braid retained earnings 购买 art / architecture / landscape / specialist capability；用于审计“资本让 capability set 追上 project thesis”的另一条路线。
+- **CASE-048 The Magic Circle** — 第二份 `FIT-STRONG / MARKET-FAILED`：creator capability、题材与 mechanic 高度耦合，但商业仍不可持续；用于强制把 `Creator–Project Fit` 与 `Project–Market Selection` 分开。
+- **CASE-049 Outer Wilds** — `FIT-EXPANDED / EXTERNAL-CAPITAL`：学生 thesis 先产生 playable/design evidence，再由 Mobius/Fig/publisher/platform 资金扩张团队与 production perimeter；用于比较 founder-owned capital 与 external capital 的 stakeholder/control surface。
 - **《牛来》 / 信雨萌** — 跨媒介 comparator，不作为游戏 Case。公开访谈显示其从艺术景观背景转入动画、长期自学并以单人核心承担大量传统动画工序。研究重点不是嘲笑粗糙，而是区分：哪些成本被真正重新定义，哪些只是由五年个人劳动替代专业团队。
 
 ### Wave 2 — 优先补证对象
