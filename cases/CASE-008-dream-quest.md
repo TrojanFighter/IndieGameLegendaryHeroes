@@ -2,7 +2,7 @@
 
 - Status: RESEARCHING
 - Subject: Dream Quest / Peter Whalen
-- Related Claims: C003, C004, C006, C007, C008, C009, C010, C011
+- Related Claims: C003, C004, C006, C007, C008, C009, C010, C011, C015
 
 ## Why this case
 
