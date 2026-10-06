@@ -219,6 +219,26 @@ Supports:
 Boundary:
 - use contemporary observation to describe production strain; do not assign founder blame or diagnose personalities from a magazine profile.
 
+## E015 — Carmack on technology creating the early-id product frontier
+
+- Class: P1 — direct creator retrospective interview
+- Source: WIRED, `Q&A: Doom's Creator Looks Back on 20 Years of Demonic Mayhem`, 2013-12-10
+- URL: https://www.wired.com/2013/12/john-carmack-doom/
+
+Carmack explicitly rejects a passive “hardware became good enough, therefore DOOM appeared” reading. He describes early id — from 2D scrolling through Wolfenstein / ShadowCaster to DOOM — as repeatedly working at the edge of what was barely possible, then discovering what game could be built around the newly created technical capability. He also stresses that the relation was bidirectional: the team wanted a certain kind of game, pushed technology into that quadrant, then redesigned around what the technology actually achieved.
+
+For DOOM specifically, Carmack describes technical advances beyond Wolfenstein including non-tile-constrained arbitrary line geometry, dynamic lighting, changing floor / ceiling heights and other rendering/world capabilities; the interview also identifies multiplayer / deathmatch as another major product capability rather than reducing the breakthrough to graphics alone.
+
+Supports:
+- early id as an **endogenous technical-window creator**, not only a beneficiary of industry diffusion;
+- a `desired experience ↔ technical invention ↔ newly feasible design` loop rather than one-way technological determinism;
+- the claim that Carmack's graphics / engine work materially expanded the feasible product space that id itself could exploit before the broader industry absorbed those techniques.
+
+Boundary:
+- Carmack is describing his own historical role retrospectively; use contemporary E007 and independent technical histories for triangulation;
+- do not claim id invented first-person perspective, 3D graphics, BSP as a mathematical concept, or every later FPS convention;
+- distinguish creating / productizing a technical frontier from later industry-wide diffusion and genre standardization.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
@@ -227,6 +247,7 @@ Boundary:
 - shareware revenue helped purchase organizational independence;
 - finite production time directly shaped scope;
 - by the Wolfenstein/DOOM period, id deliberately invested in internal tools and a development environment that reduced iteration/porting friction;
+- Carmack directly describes early id as repeatedly creating technical capabilities at the edge of what was barely possible and then building games around the newly opened space; this makes early id a case of endogenous opportunity-window creation, not merely technology adoption;
 - DOOM's business boundary changed from publisher/distributor dependence toward more direct strategic control plus outsourced operations;
 - the team explicitly tolerated/encouraged modification and technical openness, helping create an external content/tool ecosystem;
 - DOOM remained a small-core project with meaningful specialist/external contribution boundaries;
