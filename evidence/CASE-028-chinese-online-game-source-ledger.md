@@ -1,6 +1,6 @@
 # CASE-028 Evidence Ledger — 中国式网游 / 648工作室
 
-- Last verified: 2026-10-05
+- Last verified: 2026-10-06
 - Status: RESEARCHING
 - Case: [`../cases/CASE-028-chinese-online-game.md`](../cases/CASE-028-chinese-online-game.md)
 
@@ -64,12 +64,24 @@
 - Boundary:
   - 商店字段不能说明 publisher 合同、融资金额、分成或实际 labor contribution。
 
+## E005 — 小黑盒 2024 金盒奖：刘永涛 / 《中国式网游》制作人
+
+- Source class: P1 / public event listing。
+- Title: 小黑盒金盒奖 2024。
+- Author / Institution: 小黑盒 / Heybox。
+- Published: UNKNOWN（2024 年度活动页）。
+- Accessed: 2026-10-06。
+- URL: https://web.xiaoheihe.cn/activity/heybox_gold_2024
+- Claim use:
+  - 公开标注“刘永涛 / 《中国式网游》制作人”；
+  - 用于核定制作人实名。
+- Confidence: HIGH for public identity label。
+- Boundary:
+  - 不证明其此前任职公司、岗位、年限或参与项目；
+  - 不说明 648 工作室完整 production perimeter。
+
 ## Unresolved evidence gap — prior industry career
 
-截至 2026-10-05，尚未找到足够可靠的公开来源核定开发者姓名、立项前任职公司、岗位与年限。
+截至 2026-10-06，制作人实名“刘永涛”已由 E005 公开资料核定；立项前任职公司、岗位、年限、参与项目与职责边界仍缺少可公开复核的完整来源。
 
-因此以下命题当前必须标 UNKNOWN：
-
-> “《中国式网游》是资深商业游戏行业老手离职后做出的 OPC 项目。”
-
-产品对中国网游的熟悉度可以支持“领域知识很深”，不能替代职业履历证据。
+因此制作人身份不再是 UNKNOWN，但此前职业履历仍不能仅凭作品题材或私人线索写成公开已核事实。产品对中国网游的熟悉度可以支持“领域知识很深”，不能替代完整职业履历证据。
