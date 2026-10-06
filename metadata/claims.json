@@ -1,5 +1,5 @@
 {
-  "version": 22,
+  "version": 23,
   "last_updated": "2026-10-07",
   "claims": [
     {
@@ -909,7 +909,8 @@
         "CASE-051",
         "CASE-052",
         "CASE-053",
-        "CASE-054"
+        "CASE-054",
+        "CASE-055"
       ],
       "evidence_ids": [
         "CASE-007:E004",
@@ -950,7 +951,11 @@
         "CASE-053:E006",
         "CASE-054:E003",
         "CASE-054:E006",
-        "CASE-054:E007"
+        "CASE-054:E007",
+        "CASE-055:E007",
+        "CASE-055:E008",
+        "CASE-055:E010",
+        "CASE-055:E011"
       ],
       "last_reviewed": "2026-10-07"
     }
