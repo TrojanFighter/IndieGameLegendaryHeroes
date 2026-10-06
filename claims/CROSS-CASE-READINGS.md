@@ -1,7 +1,7 @@
 # Cross-Case Readings — 第一轮跨案例综合
 
 - Status: ACTIVE
-- Last reviewed: 2026-10-04
+- Last reviewed: 2026-10-07
 
 本文件不是书稿结论，而是把已经进入 Evidence Ledger 的 Case 反向用于检验 Claim。`SUPPORTED` 只表示当前材料允许使用该命题作为**工作性解释**；不得升级成必要条件、充分条件或普遍因果。
 
@@ -104,6 +104,38 @@ Psyonix 的直接创始人/设计负责人回顾足以证明“can”：公司�
 Duckov 特别说明：**删掉昂贵维度可以同时降低生产成本和创造新市场定位。** multiplayer → single-player、PvP → PvE、双端 → PC-only 不是单纯技术降级，而是把原本无法由五人高质量承担的系统义务移出问题空间。
 
 **边界：** 巨大 scope 仍可能失败；Kenshi/DF 是极端幸存者。Duckov 也不证明“做单机就更容易成功”，其公司外围、前作能力和市场窗口都必须一起计算。
+
+## C015 — Capability-Shaped Project Formation / 能力反向立项
+
+**Status: SUPPORTED, WITH NARROW SCOPE**
+
+C007 解决的是“小团队怎样重新定义昂贵问题”；C015 进一步追问：
+
+> **为什么会选择这种问题定义？项目是否一开始就被主创自己的能力向量反向塑形？**
+
+当前至少出现五种结构：
+
+- **Gunpoint**：Tom Francis 的长期评论/比较能力提供 taste / selection capital，但实现能力有限；GameMaker 把想法变成低成本 prototype，他没有复制 Deus Ex 的资产规模，而把“聪明地改变空间规则”的快感压成 Crosslink，并在同期 roadmap 中删除高编码成本、低游戏价值的 scripted sequences。
+- **The First Tree**：证据最直接。Wehle 在开发中明确写自己是 technical artist，环境设计、storytelling、UX 是强项，deep coding 不是；于是项目主动 short/simple，models/music/scripts 可以购买或改造，视觉强项同时承担体验价值与 GIF/trailer market legibility。
+- **Dream Quest**：数学、卡牌知识、已有数字卡牌 engine 与弱/不稳定美术资源共同对应一个高度抽象、系统密集的产品；但“因为弱美术而反向立项”的因果证据不如 Gunpoint / The First Tree 强，所以权重较低。
+- **RollerCoaster Tycoon**：Sawyer 把极端熟练的低层技术栈用于高密度 simulation，并在 RCT2 明确拒绝耗时数年的 prestige graphics upgrade，把资源继续压在 interaction/construction/gameplay 上。
+- **Everything**：动画作者 OReilly 与核心 programmer dyad 没有复制传统角色动画 obligation，而把 abstraction / procedural movement 变成作品语言；同时项目从约六个月扩到近三年，证明“反向立项”只是重新配置成本，不会让成本消失。
+
+这组案例支持的不是“限制产生创意”这种宽泛格言，而是一个更具体的设计动作：
+
+> **creator self-knowledge → project selection / redefinition → strength loading → weakness deletion / conversion / peripheralization。**
+
+它解释了为什么某些独立游戏不像“缩水版商业游戏”：
+
+> **作品形态本身，部分就是主创能力向量的可见投影。**
+
+**边界 / 反压力：**
+- fit 不是成功充分条件；
+- 不应把缺钱浪漫化；
+- 不应要求创作者永远留在舒适区；
+- Everything 显示 cost conversion 会制造新的 systems cost；
+- 目前成功样本明显多于失败样本；
+- 下一轮必须优先找 `CAPABILITY-SHAPED but commercially failed` 和“能力错配但靠招聘/资本补齐仍成功”的对照。
 
 ## C008 — infrastructure lowers some barriers while introducing new dependence
 
