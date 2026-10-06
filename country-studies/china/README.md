@@ -31,7 +31,15 @@
 - [NExT portfolio 效率审计](../../book/research-notes/next-studios-portfolio-efficiency-audit-014.md)
 - [本轮 provenance closeout](../../book/research-notes/china-indie-source-intake-closeout-015.md)
 
-## 2. 教育与社会化主轴
+## 2. Experience Capital / Demand Discovery 假说线
+
+作者旧文中关于“体验水平 / 有效需求 / 技术价值”的判断不直接升级为本书结论，统一先进入可证伪的 hypothesis intake：
+
+- [`001 — Experience Capital / Demand Discovery`](001-experience-capital-demand-discovery-hypotheses.md)
+
+这里把“国民体验水平”拆成 reference breadth、comparative literacy、player→producer conversion、benchmark dependence、decision rights 等可观察变量，并要求用中国内部差异、东亚反例、斯拉夫 / 北欧 / 新西兰等跨国 comparator 做压力测试。
+
+## 3. 教育与社会化主轴
 
 需要把“规训”“标准答案”“怕犯错”“不容异类”拆成可研究的问题：
 - 高风险考试与 credential sorting 是否强化 answer-seeking；
@@ -44,13 +52,13 @@
 
 禁止直接用轶事或人格印象推出“中国人普遍怎样”。
 
-## 3. Individualism / WEIRD 比较
+## 4. Individualism / WEIRD 比较
 
 Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可以提供跨社会比较假说，例如 impersonal institutions、voluntary association、individual choice、conformity / nonconformity、trust beyond kin、occupational mobility。
 
 但它只是一组理论和经验文献，不是中国游戏创新差距的总钥匙。任何引用都要区分国家、地区、代际和阶层，区分心理测量与真实产业行为，并寻找东亚内部与西方内部反例。
 
-## 4. 当前正式化状态
+## 5. 当前正式化状态
 
 008–015 已完成本轮素材 provenance closeout。
 
@@ -74,7 +82,7 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 - Egg Party 前后 physics/networking JD 时间序列；
 - “数值卡牌”玩家 / 收入迁移的精确年度边界。
 
-## 5. 预期章节逻辑
+## 6. 预期章节逻辑
 
 暂定不从“中国人不行”开篇，而从产业成功史开始：
 
