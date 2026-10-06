@@ -3,7 +3,7 @@ type: case
 schema_version: 2
 case_id: CASE-043
 status: RESEARCHING
-subject: "Everything / David OReilly"
+subject: "Everything / David OReilly: animation abstraction → procedural game language"
 related_claims: [C003, C004, C007, C011]
 evidence_strength: MEDIUM
 explanatory_importance: CRITICAL
