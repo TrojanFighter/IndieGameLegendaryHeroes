@@ -38,6 +38,49 @@ Tynan Sylvester 的核心动作是把项目定义从：
 
 它允许项目故意缺失大量“模拟游戏应该有”的东西，只保留那些会产生、放大或让玩家感知故事的系统。
 
+## Context–Situation–Action Snapshot
+
+### Era / Production Regime
+
+RimWorld 的关键形成期在 2012–2014：
+
+- Unity / PC digital distribution 已让个人或极小团队承担复杂 simulation；
+- Kickstarter 可以同时承担 demand signal、community formation 与 runway；
+- Dwarf Fortress 等系统型作品证明 emergent simulation 有受众，但其复杂度/可读性也提供明确反题；
+- 2013 的 crowdfunding 与 later Steam ecosystem 不能直接当作 2026 市场模板。
+
+### Actor Situation
+
+Sylvester 开工时已有：
+
+- Unreal Tournament level-design 前史；
+- Irrational Games 职业经验；
+- game-design writing / theory；
+- 离职后连续 prototype / discard 的经验；
+- 对自己适合长期独立、稳定推进的工作方式已有认识。
+
+他的核心约束不是“完全不会做 simulation”，而是：
+> **一个小团队不可能用完整 world simulation + 全套内容生产去追求所有可能的涌现。**
+
+### Action / Maneuver
+
+| 设计判断 | 被拒绝的默认问题 | 新问题定义 | Evidence |
+|---|---|---|---|
+| story generator | “模拟得越完整越好” | 哪些系统最容易制造玩家能读出的故事？ | E001/E007 |
+| small memorable cast | 大量匿名单位 | 玩家能否记住并叙述具体人物？ | E001/E007 |
+| storyteller | 纯系统自然演化 | 用 pacing/event control 提高故事产率 | E001/E003 |
+| strategic omission | genre checklist | feature 是否服务核心价值函数 | E004/E005 |
+| public alpha / crowdfunding | 长期闭门完成 | 用真实玩家逐步修正系统 | E002/E003 |
+
+### Anachronism Check
+
+不能把 2013 Kickstarter 成功直接翻译为“今天先众筹”。
+
+真正较耐久的是：
+> **把一句明确的 design thesis 变成 feature-selection function。**
+
+平台、众筹转化率、Steam discovery 和玩家对 colony-sim 的预期到 2026 已显著变化；这些必须单独重核。
+
 ## Capability Prehistory
 
 Sylvester 不是第一次碰 game design：
