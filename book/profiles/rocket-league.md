@@ -234,6 +234,17 @@ Hagewood 与设计负责人 Corey Davis 的回顾明确谈到前作暴露出的 
 
 ---
 
+## 时效性｜2008–2015 的第二次下注机制仍值得看，合同市场不直接复刻
+
+- **Observed:** SARPBC 2008 → Rocket League 2015。
+- **2026 status:** `DURABLE` for failure residue、second-shot option、work-for-hire as organizational runway；`CONDITIONAL` for 当时外包/合同市场、平台与发行条件。
+- **不要照抄：** “接外包就能养原创”。
+- **今天真正保留：** 服务业务是否真的留下现金、团队、工具和第二次原创下注权。
+
+完整规则：[Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
+
+---
+
 ## 研究依据
 
 本文当前只使用仓库中已经登记的 CASE-002 证据边界：
