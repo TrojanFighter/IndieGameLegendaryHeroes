@@ -202,6 +202,83 @@ Romero 后来甚至说，《Wolfenstein 3D》已经大约是自己的第 87 款�
 
 ---
 
+## DOOM 最不能被写错的一点：Carmack 不是等窗口的人，他是造窗口的人
+
+如果把 early id 写成：
+
+> PC 性能终于上来了，一群聪明年轻人及时抓住机会。
+
+那会漏掉这个案例最异常、也最有历史价值的一半。
+
+**John Carmack 本人就是那个时代 PC 游戏图形与引擎前沿的推进者之一。**
+
+在 2013 年回顾 DOOM 时，Carmack 直接把 early id 的工作方式概括为：早期团队不断逼近当时“barely possible”的技术边界，再看围绕刚刚做出来的能力究竟能产生什么游戏。更重要的是，这不是“先在真空里造一台引擎，再问能做什么”的单向技术决定论。他描述的实际循环更接近：
+
+```text
+我们想获得一种以前没有的游戏体验
+→ Carmack 推技术去逼近那个方向
+→ 新 renderer / engine / tool 真正做到了一部分
+→ Hall / Romero / 团队围绕实际能力重新设计
+→ 设计又继续逼出新的技术要求
+```
+
+这条循环在《Commander Keen》之前已经出现。
+
+PC 当时不是天然就有主机式流畅横向卷轴。Carmack 为此研究并实现新的 scrolling 方法；技术不是“时代已经发给所有人的现成牌”，而是团队自己制造出来的一张牌。随后，Tom Hall 的设计又必须理解这种技术具体允许什么、限制什么。
+
+进入 3D 路线以后，这种关系更加明显。
+
+Hovertank、Catacomb 3-D、Wolfenstein 3D、ShadowCaster 到 DOOM，并不是一组作品被动跟着 PC 性能年表升级。Carmack 持续改变实时第一人称世界在普通 PC 上的可计算方式；到 DOOM，非纯 tile 的空间表达、动态光照、变化的地板与天花板高度、更自由的几何关系，以及联网 multiplayer 等能力，直接扩大了 Romero、Hall 和整个团队可以设计的体验空间。
+
+于是 early id 对“Technical Opportunity Window”提供了一个必须单列的类型：
+
+> **Endogenous / Created Window — 主角自己把技术前沿往前推，于是给自己的团队创造了原本不存在的机会窗口。**
+
+这和 Gunpoint 很不一样。
+
+Tom Francis 主要是在吸收一个已经扩散到普通个人的 GameMaker 窗口；Brendan Greene 主要是在重组 Arma / DayZ 已存在的 simulation、server 和 mod substrate；而 early id 的关键技术能力，有相当一部分就是团队内部新造出来的。
+
+所以这里不能写成：
+
+> technology → DOOM。
+
+也不能写成：
+
+> genius → DOOM。
+
+更准确的是：
+
+> **技术创造者就在产品团队内部；技术突破和玩法突破互相追赶，团队因此不断创造自己的 adjacent possible。**
+
+这也解释了 DOOM 为什么不只是一款“恰逢好时代的成功作品”。WIRED 在二十周年回顾中直接把它描述为一场游戏文化革命，并指出它把 first-person shooter 推成了后来长期占据产业中心位置的类型之一。id 不只是找到了一条现成赛道，而是在很大程度上帮助把这条赛道铺成了高速公路。
+
+当然，这仍然不意味着 Carmack 一个人创造了 FPS、3D 图形或所有底层数学。更严谨的边界是：
+
+- 3D graphics、simulation、first-person viewpoint 在 id 之前都已存在；
+- Carmack 的贡献在于把一组图形学 / renderer / engine 思路推进、组合并产品化到当时普通 PC 的实时动作游戏约束下；
+- Romero、Hall、Adrian Carmack、Kevin Cloud 等人把这些新能力转成关卡、节奏、视觉、规则和作品；
+- shareware、网络、工具链和玩家社区继续决定技术突破能否扩散成产业突破。
+
+因此 early id 的完整窗口不是“外界条件咬合以后，他们刚好抓住”。
+
+而是：
+
+```text
+时代已有 PC / 可编程环境 / shareware 等外部条件
++
+Carmack 等人主动创造新的 renderer / engine / tool capability
++
+团队把新 capability 迅速压成可玩的产品
++
+市场与玩家证明新体验成立
++
+技术与类型向整个产业扩散
+```
+
+**有些英雄抓住时代窗口；有些英雄则先亲手制造一扇窗，再从里面跳出去。**
+
+---
+
 ## 第一个关键岔路：有新技术以后，他们没有立刻辞职
 
 Carmack 做出了 PC 平滑横向卷轴的重要技术突破。

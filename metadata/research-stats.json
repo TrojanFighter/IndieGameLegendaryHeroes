@@ -1,44 +1,45 @@
 {
   "cases": {
     "evidence_strength": {
-      "high": 2,
-      "low": 3,
-      "medium": 33
+      "high": 3,
+      "low": 2,
+      "medium": 36
     },
     "explanatory_importance": {
-      "critical": 28,
+      "critical": 31,
       "high": 9,
       "medium": 1
     },
     "narrative_value": {
-      "critical": 17,
-      "high": 21
+      "critical": 19,
+      "high": 22
     },
     "status": {
-      "RESEARCHING": 35,
-      "SKELETON": 3
+      "RESEARCHING": 39,
+      "SKELETON": 2
     },
-    "total": 38
+    "total": 41
   },
   "claims": {
     "evidence_strength": {
-      "low": 4,
-      "medium": 8
+      "low": 5,
+      "medium": 9
     },
     "explanatory_importance": {
-      "critical": 5,
+      "critical": 7,
       "high": 6,
       "medium": 1
     },
     "narrative_value": {
-      "high": 8,
+      "high": 10,
       "medium": 4
     },
     "status": {
-      "SUPPORTED": 8,
-      "UNVERIFIED": 4
+      "SUPPORTED": 9,
+      "UNVERIFIED": 4,
+      "WEAK": 1
     },
-    "total": 12
+    "total": 14
   },
   "source": [
     "metadata/cases.json",

@@ -4,7 +4,7 @@ schema_version: 2
 case_id: CASE-038
 status: RESEARCHING
 subject: "Sultan's Game / Double Cross: commercial-mobile veterans, organizational collapse and small-team premium transition"
-related_claims: [C003, C004, C006, C007, C009, C010, C011, C012]
+related_claims: [C003, C004, C006, C007, C009, C010, C011, C012, C013]
 evidence_strength: MEDIUM
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
@@ -16,7 +16,7 @@ last_verified: 2026-10-06
 
 - Case ID: CASE-038
 - Subject: Sultan's Game / Double Cross（双头龙工作室）
-- Related Claims: C003, C004, C006, C007, C009, C010, C011, C012
+- Related Claims: C003, C004, C006, C007, C009, C010, C011, C012, C013
 - Period covered: 2016–2026, emphasis 2023–2025
 - Research status: RESEARCHING
 - Corpus role: **CHINA INDUSTRY TRANSITION / SMALL-TEAM REORGANIZATION / CAPABILITY-TRANSFER / PREMIUM-MARKET INTERFACE**

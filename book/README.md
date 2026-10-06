@@ -4,11 +4,21 @@
 
 © 2026 洪荒行者。All Rights Reserved.
 
+## 第一次来？不要从研究规则开始读
+
+如果你不是来审计证据，而只是想读《独立游戏英雄传说》，请直接进入：
+
+> **[《第一次来，先从这里读》](START-HERE.md)**
+
+那里不按 Case 编号，也不先解释 Evidence / Claim，而是按现实中的问题选故事：不知道自己要做什么、爱好能不能变成能力、该不该辞职、没钱怎么办、失败很多次意味着什么、技术时代窗口究竟怎么影响个人。
+
+本页以下内容主要是 **Reader Layer 的编辑后台与完整目录**。第一次阅读没有必要顺序读完。
+
 这个目录不是新的研究数据库，也不是 `cases/` 的镜像。
 
 它只负责一件事：**把已经经过 Case / Evidence / Claim 审计的研究，写成读者愿意连续读下去的生产史。**
 
-本书的总编辑使命见 [`EDITORIAL-MISSION.md`](EDITORIAL-MISSION.md)：把项目史写回人的一生，解释目标怎样在关键人生岔路中形成；并从第四次工业革命的技能结构出发，研究游戏兴趣如何在特定条件下转换成 taste、modding、工具、创作、社区与职业能力。人物篇默认遵守 [`Reader Profile Schema`](../schemas/profile-template.md)。
+本书的总编辑使命见 [`EDITORIAL-MISSION.md`](EDITORIAL-MISSION.md)：把项目史写回人的一生，解释目标怎样在关键人生岔路中形成；并研究体验资本、需求发现、创新认知、玩家→生产者转换与 Technical Opportunity Window 如何在特定条件下汇合。人物篇默认遵守 [`Reader Profile Schema`](../schemas/profile-template.md)，统一内容维度见 [`HERO-PROFILE-DIMENSIONS.md`](HERO-PROFILE-DIMENSIONS.md)。
 
 ## 这里和研究后台有什么区别？
 
@@ -59,6 +69,9 @@ Case 可以枯燥、重复、结构化。
 8. 每篇都必须让读者分得清：**可迁移机制 / 不可复制条件 / 仍待核验的地方**。
 9. 重要人物不能默认从“项目成立”开篇；应尽量追溯能力前史、目标形成与 3–7 个关键人生岔路。
 10. 不把“玩游戏”自动写成能力；只有出现 `play → compare / mod / make / publish / feedback / profession` 的具体转换链时，才讨论游戏经验的生产价值。
+11. 不把“技术更先进”自动写成作品更先进；重要人物应核对当时本人实际可获得的技术、降低了什么约束、仍有什么做不到，以及本人是否明确识别了窗口。
+12. Experience Capital / Demand Discovery / Innovation Epistemology 都必须落到具体行为和证据，不得写成“有品味”“有眼光”的人格赞美。
+13. 公开书稿不得从历史案例推导或公开项目所有者自己的未公开游戏设计、数值、系统、关卡、竞争或生产方案。
 
 ### Thesis incubation / 命题孵化
 
@@ -71,6 +84,8 @@ Case 可以枯燥、重复、结构化。
 - “生存条件 → 能力资本 → 选择 → scope → 执行 → 市场接入 → 下一轮生产条件”的候选全书结构。
 
 这些条目不是正式 Claim；没有达到正例、反例与证据门槛前，不得写成“研究已经证明”。
+
+人物 Profile 的长期内容维度另见 [`HERO-PROFILE-DIMENSIONS.md`](HERO-PROFILE-DIMENSIONS.md)。其中 Experience Capital、Demand Discovery、Innovation Epistemology 和 Player → Producer 不是新建四套理论，而是人物形成史里按证据选择使用的观察维度。
 
 第一轮定向审计见 [`research-notes/taste-capital-audit-001.md`](research-notes/taste-capital-audit-001.md)：它把 Papers, Please / Into the Breach / Dream Quest 与 Artifact / Brigador 反压力候选放进同一个可证伪框架。
 
@@ -139,6 +154,29 @@ Among Us 式延迟爆发、Twitch/Drops、平台推荐、主播、媒体事件�
 第四次工业革命语境下，不把“游戏”简单归类为学习的反面，而是审计游戏兴趣在什么时候通过比较、hacking、mod、UGC、工具学习、公开反馈和社群，真实转换成数字生产能力。
 
 这条阅读线不主张“玩得多就更有能力”；它只追踪可观察的转换动作。当前最强历史锚点是 early id / DOOM：玩家对游戏内部结构的好奇 → hacking / programming → 职业高频出货；DOOM 的 moddability 又让后来的玩家 / 地图作者获得作品集、声誉甚至职业入口。其他候选包括 Gunpoint、Undertale、Roblox creator cluster、Lethal Company、Dream Quest。
+
+### 10. 体验资本、需求发现与创新认知
+
+这条阅读线研究的不是“谁更懂游戏”，而是：
+
+- 长期体验是否形成 reference stock 和比较能力；
+- 当事人怎样把“我不喜欢 / 我想要”变成可检验的 unmet-need hypothesis；
+- 他凭什么相信一个 idea 值得做；
+- prototype、玩家反馈、销量或失败怎样让他更新判断。
+
+当前最强锚点是 Gunpoint / Tom Francis；Papers, Please、Into the Breach、Dream Quest 继续用于正向与反压力审计。
+
+### 11. 技术机会窗口
+
+每个英雄都在特定技术条件下行动。
+
+人物篇应问：当时什么技术已经从 frontier 扩散到本人可用，什么成本刚刚下降，什么仍然做不到，当事人是否明确意识到了这一窗口。
+
+这条线不写“技术到了所以成功”，而写：
+
+> **技术改变了可行解空间，人仍然需要识别、组合、验证并承担选择。**
+
+工业革命和游戏技术分代的 canonical 研究入口见 [`../cross-industry/industrial-revolutions/`](../cross-industry/industrial-revolutions/)。
 
 ---
 
