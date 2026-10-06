@@ -337,6 +337,17 @@ FTL 增加的是另一块：
 
 ---
 
+## 时效性｜Kickstarter 是时代入口，staged commitment 才是结构机制
+
+- **Observed:** 2011–2012 prototype / festival / Kickstarter / launch。
+- **2026 status:** `DURABLE` for bounded experiment、回撤能力、证据增强后再加码；`HISTORICAL / CONDITIONAL` for 早期 Kickstarter/IGF 路径。
+- **不要照抄：** “辞职做 demo → Kickstarter 超募”。
+- **今天真正保留：** 先购买一个可失败的实验窗口，而不是第一天购买完整创业。
+
+完整规则：[Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
+
+---
+
 ## 研究与证据入口
 
 本文使用的事实边界以研究后台为准；储蓄、burn、上海生活成本与完整 contributor boundary 等仍有 UNKNOWN。
