@@ -62,8 +62,15 @@ def source_locator_errors(block: str) -> list[str]:
         for key, value in re.findall(r"^-[ \t]+([^:\n]+):[ \t]*([^\n]+)$", block, re.M)
     }
     issues = []
-    if not re.search(r"https?://[^\s<>]+", fields.get("url", "")):
-        issues.append("missing specific source URL")
+    url_ok = bool(re.search(r"https?://[^\s<>]+", fields.get("url", "")))
+    nonpublic_locator = fields.get("locator", "")
+    source_class = fields.get("source class", "")
+    personal_communication_ok = (
+        source_class.upper().startswith("P0")
+        and re.match(r"PERSONAL COMMUNICATION\b", nonpublic_locator, re.I)
+    )
+    if not url_ok and not personal_communication_ok:
+        issues.append("missing specific source URL or accepted P0 personal-communication locator")
     if not fields.get("title") or fields["title"].upper().startswith("UNKNOWN"):
         issues.append("missing source title")
     author = next((fields[key] for key in ("author", "institution", "author / institution") if fields.get(key)), "")
