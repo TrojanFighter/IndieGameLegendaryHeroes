@@ -53,7 +53,42 @@ Film Victoria 官方年报明确写：
 这正是我们一直在追的：
 > **资源如何被转换成下一轮原创的选择权。**
 
-## 2. Actor Prehistory — Not Traditional Game Specialists
+## 2. Context–Situation–Action Snapshot
+
+### Era / Production Regime
+
+Untitled Goose Game 的核心形成跨 2016–2019：
+- Australian state-level games funding 可以承担 development / completion bridge；
+- boutique publisher 能为极小团队补 audio、platform、event、release 与 market-access periphery；
+- digital PC/console distribution 与短视频/社媒传播允许高度 visual-legible 的怪项目触达非核心玩家；
+- 但这些 funding program、publisher economics 与 attention channels 都具有年份依赖。
+
+### Actor Situation
+
+House House 的四位核心先是朋友与业余/side-project 合作者，而非传统 AAA 生产线。
+
+进入 Goose 前已经具备：
+- Push Me Pull You 的共同 shipping/collaboration 经验；
+- film / fine-art / graphic / creative-practice background；
+- visual comedy、staging、animation、trailer/media expression 等可迁移能力；
+- 但缺少完整的 specialist audio、accessibility、platform release、publishing/business perimeter。
+
+### Action / Maneuver
+
+团队没有把这些缺口全部 internalize，而是分层解决：
+- 从 funny goose situations 倒推最小 AI / object-system requirements；
+- 先用 public development/completion funding 购买时间、refinement 与 local specialist capability；
+- 再通过 Panic 补 sound/music、platform/release、event 与 publishing periphery；
+- 让核心团队继续集中在 comic interaction / character behavior / world staging；
+- Goose 成功后，再把外部支持转化出的 hit revenue 变成 Big Walk 阶段的 retained-earnings risk buffer。
+
+### Anachronism Check
+
+- 2017–2018 Film Victoria program、2019 Panic publishing environment 与当时 social/trailer novelty 不等于 2026 常规条件；
+- 可迁移的是 `grant/publisher as capability bundles` 与 `external support → shipped evidence → retained-earnings optionality`；
+- 不能推出“拿 grant 就容易成功”“政府资助创造了 Goose 的创意”或“publisher 一定不影响 control”；
+- exact grant amount、Panic contract、recoup/IP terms 仍保持 UNKNOWN。
+## 3. Actor Prehistory — Not Traditional Game Specialists
 
 House House 的四位核心最初是朋友，不是先成立公司再找项目。
 
@@ -76,7 +111,7 @@ House House 的四位核心最初是朋友，不是先成立公司再找项目�
 - character readability；
 - cross-media legibility。
 
-## 3. Project Formation — The Goose Was Initially Too Weird
+## 4. Project Formation — The Goose Was Initially Too Weird
 
 House House 自己说：
 - 先想做 expressive third-person character；
@@ -89,7 +124,7 @@ House House 自己说：
 
 > **项目并不是从 genre white space 推导出来，而是从 group taste / humor / capability 中长出来，再被 prototype 验证。**
 
-## 4. Capability-Shaped Design
+## 5. Capability-Shaped Design
 
 核心 mechanic 不是“大量 authored stealth content”。
 
@@ -113,7 +148,7 @@ House House 自己说：
 
 `desired comic interaction → minimal systemic requirements → iterative AI / object rules`
 
-## 5. Grant as Capability Acquisition
+## 6. Grant as Capability Acquisition
 
 Film Victoria 的官方 case study 是关键。
 
@@ -137,7 +172,7 @@ Film Victoria 的官方 case study 是关键。
 
 而且它是 non-dilutive / public support 路径，不等同于 publisher / equity capital。
 
-## 6. Publisher as Specialist Periphery
+## 7. Publisher as Specialist Periphery
 
 Panic 的官方 podcast 给出非常细的双方直接叙述。
 
@@ -156,7 +191,7 @@ Panic 的官方 podcast 给出非常细的双方直接叙述。
 
 > 不需要让四位 core dev 都学成 producer / platform ops / PR / sound designer。
 
-## 7. Grant Money vs Publisher Money
+## 8. Grant Money vs Publisher Money
 
 House House 让我们第一次能把外部资本继续细分。
 
@@ -186,7 +221,7 @@ House House 让我们第一次能把外部资本继续细分。
 
 Film Victoria grant 与 Panic publisher money 即使都叫“外部资金”，治理结构完全不同。
 
-## 8. Market Coherence — Film/Comedy Capability Becomes Trailer Legibility
+## 9. Market Coherence — Film/Comedy Capability Becomes Trailer Legibility
 
 ABC 采访指出：
 - House House 有 filmmaking / arts backgrounds；
@@ -206,7 +241,7 @@ Panic podcast 也说得更直接：
 
 传播表面就是核心 interaction 的压缩。
 
-## 9. The Success Transition — From External Funding to Retained Earnings
+## 10. The Success Transition — From External Funding to Retained Earnings
 
 Film Victoria 年报已经指出：
 
@@ -227,7 +262,7 @@ Film Victoria 年报已经指出：
 
 > **最成功的 grant 不只是补一个预算洞，而是把团队送到以后可以自己承担风险的位置。**
 
-## 10. A Useful Counterpoint to The Witness
+## 11. A Useful Counterpoint to The Witness
 
 The Witness：
 > prior hit first → self-finance capability expansion.
@@ -245,7 +280,7 @@ House House：
 
 这使“成功前和成功后资本”的区别变得清楚。
 
-## 11. C015 Extension — Funding Is Part of Capability Topology
+## 12. C015 Extension — Funding Is Part of Capability Topology
 
 能力审计不能只画：
 
@@ -264,7 +299,7 @@ House House 给出至少四类：
 
 这些能力不必成为 founder permanent skill。
 
-## 12. Boundary
+## 13. Boundary
 
 不能推出：
 
@@ -278,7 +313,7 @@ House House 给出至少四类：
 
 > **已经存在的怪项目和小团队，可以通过 non-dilutive public funding 与 publisher specialist periphery 有选择地扩能力，而不必把 core team 变成全职能公司。**
 
-## 13. Temporal Validity
+## 14. Temporal Validity
 
 ### Durable
 - grant can purchase evidence/hiring, not just cash runway；
@@ -293,7 +328,7 @@ House House 给出至少四类：
 - pre-2019 social-media novelty；
 - specific PAX economics.
 
-## 14. Verdict
+## 15. Verdict
 
 House House 的故事不是：
 
@@ -307,7 +342,7 @@ House House 的故事不是：
 
 > **capability accumulation → external capability expansion → hit → optionality accumulation**
 
-## 15. Evidence Index
+## 16. Evidence Index
 
 - E001 — Game Developer 2020 Road to IGF: four-person group design, contributor perimeter, goose idea and iterative AI/object system.
 - E002 — Panic Podcast 2020 direct publisher/developer transcript: hobby origin, publisher selection, bigger budget, specialist audio, platform/PAX/release periphery.
@@ -318,7 +353,7 @@ House House 的故事不是：
 - E007 — ABC 2026 Big Walk interview: Goose success created financial buffer and tolerance for a possible flop.
 - E008 — Film Victoria 2018/19 Annual Report: pre-release support/market infrastructure context.
 
-## 16. Open Questions
+## 17. Open Questions
 
 1. Film Victoria exact dollar amounts；
 2. grant conditions / milestone / recoup structure；
