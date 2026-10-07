@@ -6,6 +6,7 @@
 - Parent: [001 — Experience Capital / Demand Discovery](001-experience-capital-demand-discovery-hypotheses.md)
 - Demand-side: [017 — Demand-Side Creator Selection](017-demand-side-creator-selection-player-veto.md)
 - Commercial regime: [018 — 富豪阶级游戏性、玩家社会化与 Design Attractor](018-wealth-class-gameplay-player-socialization-design-attractor.md)
+- Author-brand extension: [020 — Author Brand Capital](020-author-brand-capital-portable-demand-bargaining-power.md)
 - Boundary: 本文研究“玩家如何学会识别、讨论、支持游戏作品与作者”，不是把某国玩家做道德高低排序。
 
 ## 0. 核心命题
@@ -1017,3 +1018,28 @@ Taste
 ## 14. 当前最小结论
 
 > **所谓“高审美玩家”不是天然人群，而是由长期Access、Interpretation、Legitimation、Practice、Transaction与Memory共同生产的。中国早期并不缺信息与鉴赏尝试，但长期存在“文化输入强、作者回流弱”的错位；盗版与汉化既可能大幅补贴Experience Capital，也可能削弱正式Creator Return。Steam、Bilibili和premium市场增长的重要性，在于它们开始把既有玩家经验重新接到合法交易、作者识别与下一轮资本配置上。**
+
+
+## 15. Memory 不只形成作品canon，也形成作者资产
+
+019此前把 `MEMORY` 定义为让作品进入下一代reference stock。020进一步要求区分：
+
+- `WORK MEMORY`：玩家记住作品；
+- `IP MEMORY`：玩家记住系列；
+- `STUDIO MEMORY`：玩家记住工作室；
+- `AUTHOR MEMORY`：玩家把具体设计判断与具体人绑定。
+
+只有最后一类进一步转成：
+```text
+next-project attention
+→ purchase expectation
+→ financing / publisher trust
+→ stronger outside option
+```
+时，才构成强 `AUTHOR_BRAND_CAPITAL`。
+
+所以未来“中国玩家作者识别率”不能只问“听没听过名字”，而要问：
+> **换IP、换公司后，你是否仍会因为这个人而关注/购买？**
+
+Canonical:
+- [020 — Author Brand Capital](020-author-brand-capital-portable-demand-bargaining-power.md)
