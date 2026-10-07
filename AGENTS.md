@@ -298,6 +298,8 @@ Case 可以枯燥、重复、结构化；书稿可以有文学性，但书稿中
 
 对既有 reader profiles / chapters 的改写与去模板化，先读 [Editorial Gate](book/EDITORIAL-GATE.md) 及其 [Historical Fidelity Rewrite Protocol](book/EDITORIAL-REWRITE-PROTOCOL.md)。Agent 不得批量自动覆盖书稿；先锁定事实、保留原版、独立编辑审查和作者验收。
 
+新写 profiles / chapters / life-routes 同样必须先读 [Editorial Gate 的新稿写作入口](book/EDITORIAL-GATE.md#05-新稿写作入口预防模板化)，在正文生成前留下事实锁与 Narrative Packet，再按人物、处境、行动和后果组织叙述。不得先套统一的“神话→反转→理论总结”大纲，再把不同人生填进去；不得为了去模板化削弱作者观点或虚构细节。初稿也必须执行 Delete → Restore Person → Rhythm 与 Fidelity Readback；没有旧稿时不伪造 A/B，交付中明确作者验收仍待完成。
+
 不得为了戏剧性：
 
 - 隐去失败前史

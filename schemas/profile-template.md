@@ -16,6 +16,16 @@ book/profiles/ 不是 Case 的散文化改写，也不是“成功项目复盘�
 
 ---
 
+## 0. Before Drafting / 动笔前的编辑入口
+
+本模板第1–13节是有证据才回答的研究维度，**不是正文的固定章节顺序，也不要求每个人物重复同一套理论总结**。
+
+生成新 Profile 正文前，先执行 [Editorial Gate：新稿写作入口](../book/EDITORIAL-GATE.md#05-新稿写作入口预防模板化)：留下事实锁与 Narrative Packet，确定人物、时代、处境、关键选择、主问题、叙述方式及作者观点边界。以现有 Case / Evidence 选定叙述材料，再决定文章结构；未知不补、回忆不倒写、支持者不隐去。
+
+初稿交付前执行 Delete → Restore Person → Rhythm 与 Fidelity Readback。旧稿重写另按 [Historical Fidelity Rewrite Protocol](../book/EDITORIAL-REWRITE-PROTOCOL.md) 保存原版与比较结果。编辑判断不能替代作者验收。
+
+---
+
 ## 1. Life Before the Famous Project
 
 重要人物原则上不能从 New Project 或 Company Founded 开始。

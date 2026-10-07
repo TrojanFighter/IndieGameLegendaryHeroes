@@ -111,6 +111,12 @@ Signal 协议见 [`signal-decision-protocol.md`](signal-decision-protocol.md)。
 
 Lane C 只能消费已经进入 Case / Evidence / Claim 的事实。
 
+### Lane C 写作入口
+
+新稿先执行 [Editorial Gate：新稿写作入口](../book/EDITORIAL-GATE.md#05-新稿写作入口预防模板化)，留下事实锁与 Narrative Packet 后再组织正文；初稿也需 Delete → Restore Person → Rhythm、Fidelity Readback 和明确的作者验收状态。人物模板的研究字段不能自动成为每篇相同的叙事大纲。旧稿改写按既有 Rewrite Protocol 保存基线及 A/B；没有旧版的新稿不伪造比较结果。
+
+这些编辑流程规则由 Lane A 维护；Lane C 执行，不以源头防错为由改变 canonical research facts。
+
 ### Lane C 禁止事项
 
 - 为了故事顺畅补 UNKNOWN；
