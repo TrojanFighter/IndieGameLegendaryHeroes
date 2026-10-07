@@ -497,6 +497,28 @@ Canonical research anchor:
 
 ---
 
+## 11D. Attribution Politics / Credit Regime
+
+当人物来自大团队、外包、F2P/GaaS、多人创作，或后世归因可能受媒体/公司叙事影响时，额外记录：
+
+- `credit_visibility`: 是否公开署名；
+- `credit_persistence`: 离职/版本更新后是否保留；
+- `role_legibility`: 外界能否知道实际负责什么；
+- `credit_money_coupling`: credit是否连接royalty/bonus/薪资/融资；
+- `credit_rights_coupling`: 成功credit是否转成下一轮decision rights；
+- `attribution_risk`: harassment / poaching / scapegoating / credit appropriation；
+- `decision_provenance`: 谁提出问题、谁定quality bar、谁有kill right；
+- `attribution_authority_alignment`: public attribution是否大致匹配真实权力与贡献。
+
+强制检查两个极端：
+- `CREDIT WITHOUT POWER`
+- `POWER WITHOUT CREDIT`
+
+Canonical:
+- [China 021 — Attribution Politics](../country-studies/china/021-attribution-politics-credit-regimes-author-power.md)
+
+---
+
 ## 12. Capability Scaling
 
 当核心成立后，创作者是否能把它做成稳定产品：
@@ -591,6 +613,7 @@ Canonical research anchor:
 - Market sufficiency / legibility:
 - Demand-side selection / consumer veto: # when relevant
 - Author brand / portable demand: # when relevant
+- Attribution politics / credit regime: # when relevant
 - Capability scaling:
 - Major unknowns:
 ```
