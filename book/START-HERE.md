@@ -239,7 +239,7 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 《Rocket League》则更极端：团队早在 2008 年就把“汽车踢球”做过一次。第一次没有得到后来的商业结果，但它没有因此变成零。
 
-这些毕竟都是后来被媒体看见的人物。想看没有成名、只做过小作品的公开经验，还可以阅读 [Week Sauce 2022.04 的18个普通参赛项目](research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)：有人仅做了两天，有人因生活事务来不及改 Bug，有人明确不知道会不会继续，有人后来真的做出了更完整版本。**这18个项目不是独立游戏行业成功率的统计分母。**
+这些毕竟都是后来被媒体看见的人物。想看没有成名、只做过小作品的公开经验，还可以阅读 [Week Sauce 2022.04 的18个普通参赛项目](research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)，以及 [2026年18个投稿账号的公开后续回访](research-notes/week-sauce-2022-public-creator-followup-033.md)：有人仅做了两天，有人因生活事务来不及改 Bug，有人明确不知道会不会继续，有人后来真的做出了更完整版本。**这18个项目不是独立游戏行业成功率的统计分母。**
 
 ---
 
