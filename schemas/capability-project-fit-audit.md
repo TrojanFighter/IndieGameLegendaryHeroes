@@ -311,6 +311,7 @@ CASE-057 thatgamecompany 是当前第一份强 `VC-EQUITY` 锚点：2012 Benchma
 
 - `FIT-LOCK-IN`：长期成功的 capability–project match 沉淀为工具、品牌、受众、团队流程与身份，使继续做同类项目更便宜、转型却更昂贵。CASE-051 Zachtronics + CASE-058 Spiderweb 是当前两个异质锚点。
 - `LOCK-IN PREVENTION / OPTIONALITY PRESERVATION`：第一次成功后，不立即把 hit 转换成 sequel obligation / fixed payroll / early public commitment，而用低 burn、延迟承诺和私下搜索保留重新定义下一项目的空间。CASE-020 Into the Breach 是当前第一锚点。它**不是**成熟 FIT-LOCK-IN escape。
+- `MATURE-GRAMMAR ESCAPE / STAGED DECOUPLING`：长期 fit 已沉淀为产品语法、熟练工具与固定品牌后，先保留仍有效的生产底座、单独替换 player-facing thesis，并补足新专业能力与玩家反馈；必要时更晚独立替换过时技术。CASE-060 Croteam 为第一强正例，但 2014 和 2023 属不同所有权制度，不能合并成本口径。
 
 这些标签目前只用于人读审计，不进入 `metadata/cases.json`，避免在跨案例证据不足时过早固化分类。
 
@@ -335,6 +336,7 @@ CASE-057 thatgamecompany 是当前第一份强 `VC-EQUITY` 锚点：2012 Benchma
 - **CASE-056 Playdead / Arnt Jensen + Dino Patti** — `CAPABILITY-COMPOSED / FOUNDER-GOVERNANCE PRESSURE`：Jensen 的 authorial/game-direction capability 与 Patti 的 programming / production / financing / company-building capability 形成真实互补，并成功支撑 LIMBO / INSIDE；但产品成功并未消除 equity、time horizon、authorship、control 与 exit 的 founder-level 治理成本。
 - **CASE-051 Zachtronics** — `FIT-STRONG + FIT-LOCK-IN`：engineering literacy 长期变成产品语言、niche audience 与 production system，同时 creator 明确报告难以做出不像 Zachtronics 的作品。
 - **CASE-058 Spiderweb Software / Jeff Vogel** — `FIT-STRONG + FIT-LOCK-IN`：低成本重文本 CRPG grammar、engine/assets、12–14 月级 production cadence、niche audience 与 back catalog 长期复利；Queen's Wish 的 new-engine/new-system 转型把 production reset + audience replacement cost 显性化，并最终改变 trilogy scope。
+- **CASE-060 Croteam / Serious Sam → The Talos Principle → UE5** — `MATURE-GRAMMAR ESCAPE / STAGED DECOUPLING`：十余年 Serious Sam 后把不适配 shooter 的 puzzle prototype 独立成新 IP；保留 Serious Engine/Editor 和空间生产能力，补写作/谜题测试，并用真实 alpha 反馈修改产品；2020 收购后再独立完成 engine → UE5 的第二阶段技术迁移。
 - **CASE-020 Into the Breach / Subset Games** — `LOCK-IN PREVENTION / OPTIONALITY PRESERVATION`：FTL hit 后不以“超越前作/满足旧粉丝”作为第二作主目标，长期延迟公开并保持极低 fixed cost，让下一作可以在旧成功尚未固化成多年生产 grammar 之前发生实质分叉。用于区分**预防 lock-in** 与**逃离成熟 lock-in**。
 - **CASE-052 House House / Untitled Goose Game** — `GRANT / PUBLISHER EXPANSION`：public completion funding 直接增加 local developer/accessibility capability，publisher 再补 audio / platform / market periphery；用于拆 external capital 的不同 capability bundle。
 - **CASE-053 Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT** — `FIT-STRONG / LONGITUDINAL CAPABILITY ACCRETION`：不是新增 fit 标签，而是提醒 capability map 本身会随项目、职业工作、收入与外围协作变化。Kenny 从 Flash / jam / solo commercial artifact，经 Harmonix + weekend shipping、2016 主动搁置过大 Hatbox、2019 重启、Raw Fury release periphery，最终走到 BALL x PIT 的 first team-lead + specialist core；用于把静态的 `capability → project` 改写成可研究的 `project_t → capability_(t+1)`。
@@ -380,6 +382,6 @@ C015 只主张：
 - 已有 2 个 `CAPABILITY-SHAPED but commercially failed`（Brigador / The Magic Circle），后续重点转向失败类型分解；
 - capability expansion 已覆盖 The Witness / Outer Wilds / House House / thatgamecompany 四种资本路径；仍缺的是更细颗粒度的公开 control terms（veto / liquidation / milestone / board voting / buyback）与跨案例可比性；
 - CASE-054 Limit Theory + CASE-055 Factorio 已形成第一组 deep-tech failure/success pressure pair：前者 local engineering progress 与 product closure 脱钩，后者留下 multiplayer enough / feature deletion / release descoping 三类 stop-condition 证据；下一步再补一个非 Wube 成功样本，验证该机制能否泛化；
-- `CAPABILITY-COMPOSED` 已有 CASE-050 Nomada 正向形成 + CASE-056 Playdead 治理解体压力对照；下一步缺的是显式治理机制成功样本或 pre-ship founder failure。`FIT-LOCK-IN` 已有 CASE-051 Zachtronics + CASE-058 Spiderweb 两个异质强锚点；CASE-020 则提供早期 `LOCK-IN PREVENTION` 对照。下一步优先寻找**多年固定 grammar 之后真正成功突破 lock-in** 的反例，而不是把第一次成功后的产品分叉误写成成熟逃逸。
+- `CAPABILITY-COMPOSED` 已有 CASE-050 Nomada 正向形成 + CASE-056 Playdead 治理解体压力对照；下一步缺的是显式治理机制成功样本或 pre-ship founder failure。`FIT-LOCK-IN` 已有 CASE-051 Zachtronics + CASE-058 Spiderweb 两个异质压力锚点，CASE-020 是早期 `LOCK-IN PREVENTION`，CASE-060 Croteam 则是第一强成熟逃逸正例。下一步寻找第二个不同产业/技术制度下的成功逃逸，并量化 product-grammar 与 toolchain 两类 switching cost。
 - 立项期证据而非成功后叙事；
 - 与资金、平台窗口、既有受众和 luck 的分离。

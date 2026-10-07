@@ -627,7 +627,35 @@ Subset 当时只有一个 FTL hit，并没有 Spiderweb / Zachtronics 那种几�
 → **FIT-LOCK-IN**
 
 `mature lock-in`
-→ **escape mechanism still UNKNOWN**
+→ **CASE-060 Croteam 提供 first positive staged-decoupling comparator；普遍性/成本仍 UNKNOWN**
+
+### Croteam：保留旧引擎，先换玩家价值；后来再换引擎
+
+CASE-060 为成熟 `FIT-LOCK-IN` 引入第一份真正有条件的成功侧反例。
+
+2001–2012 年，Croteam 已经是玩家心中的 Serious Sam / Serious Engine 工作室。2012 年从 Serious Sam 4 的 Jammer 等实验中发现：有些好机制在旧 FPS 产品语法里无法发挥价值。
+
+他们没有“为了转型”拆掉一切：
+- 同一套 Serious Engine/Editor 继续提供第一人称 3D 场景、工具和空间技术；
+- 把解谜机制拆成独立项目 The Talos Principle，而不是把 shooter 改得四不像；
+- 新增 Tom Jubert、Jonas Kyratzes 等哲学叙事专长；
+- 建立 puzzle difficulty、public alpha、自动测试与实际删改机制。
+
+2014 年新 IP 发行，随后获得 IGF 与玩家的强认可，并形成持续作品线。因此这是十余年成熟 genre identity 后的**有效产品 grammar 分叉**，不是 FTL 只有一部 hit 后的早期 optionality。
+
+更罕见的是第二个转型阶段。2020 Devolver 收购 Croteam 之后，团队发现继续追赶 UE 的现代 renderer 与引擎特性代价过高，于是 2023 年用 UE5 制作 Talos 2。
+
+所以不能笼统写“打破路径依赖要换引擎/换人/换题材”。
+
+真正可观察的分解是：
+
+`2014: Keep Technology Substrate + Change Player-facing Grammar + Add New Specialists`
+
+`2023: Keep New Puzzle Grammar + Change Technology Substrate`
+
+**别把两个已经摊销过的资本维度在同一时间全部烧掉。**
+
+边界也必须保留：2014 原作净利润、旧玩家流失和 Devolver 的具体合同权力尚未知；2023 的 engine 迁移发生于 Devolver-owned regime，不能倒写成同等条件的独立工作室选择。
 
 ### Spiderweb：最便宜的下一作，往往也是最贵的转型
 
@@ -735,7 +763,7 @@ C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 1. Brigador + The Magic Circle 已形成两份结构不同的 `FIT-STRONG / MARKET-FAILED`；下一步比较失败究竟发生在 onboarding、category legibility、audience size、timing 还是 cost structure，而不是机械增加失败者。
 2. The Witness + Outer Wilds + House House + thatgamecompany 已覆盖 `SELF-FINANCED / EXTERNAL-STACK / GRANT+PUBLISHER / VC-EQUITY`。下一步停止按融资标签扩案例，改为重点找公开 term-sheet 级证据：board voting、protective provisions、milestone approval、recoup、liquidation、buyback、founder-removal 等真实 decision-right costs。
 3. Nomada + Playdead 已形成第一组 `CAPABILITY-COMPOSED` 正例 / 治理解体压力对照。下一步优先找显式 role authority / deadlock / buy-sell 机制长期运作成功的共同创始人样本，或产品完成前就因 founder composition 解体的样本，以区分 capability compatibility 与 governance compatibility。
-4. Zachtronics + Spiderweb 已建立两个异质 `FIT-LOCK-IN` 锚点；Into the Breach 则补上第一次成功后的 `LOCK-IN PREVENTION / OPTIONALITY PRESERVATION`。下一步只优先找**多年固定 production grammar 以后仍成功转型**的反例，不能把第二作“做得不同”自动当成成熟逃逸。
+4. Zachtronics + Spiderweb 是成熟 `FIT-LOCK-IN` 压力侧，Into the Breach 是第一次成功后避免锁定；Croteam 已提供第一例多年固定 FPS grammar 后成功建立独立解谜线的正侧。下一步重点检验**保留技术/人员底座，改变产品 grammar，并分期替换昂贵旧技术**是否可跨 studio 复现，特别要核完整资本、营销、受众迁移成本。
 5. Limit Theory + Factorio 已形成第一组 deep-tech failure/success 对照：前者 engine maturity 与 game closure 脱钩，后者存在 multiplayer enough、feature deletion、1.0 descoping 三类 stop condition。下一步不再补同类英雄，而是再找一个非 Wube 样本验证 `TECHNICAL STOP CONDITION` 是否可泛化，并继续用 DOOM 区分 frontier creation 与 frontier discipline。
 6. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
 7. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。
