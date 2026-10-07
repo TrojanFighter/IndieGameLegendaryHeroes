@@ -562,6 +562,92 @@ MEMORY
 - 哪一层断掉；
 - 断掉后出现什么替代性地下/灰色制度。
 
+## 10.1 `TASTE MEDIATION REGIMES / 鉴赏中介制度`
+
+“Taste Institution”并不天然提高taste。它本身也有objective function。
+
+至少区分四类：
+
+### A. `EDITORIAL_GATEKEEPING`
+杂志/专业媒体由少数编辑决定：
+- 什么值得报道；
+- 如何解释；
+- 什么进入canon。
+
+优点：
+- 可形成长期语境与历史记忆；
+- 有能力逆热门做主动选题；
+- 评价语言较连贯。
+
+风险：
+- 编辑群体taste可能高度同质；
+- access门槛高；
+- 很容易把自身偏好误当大众需求。
+
+### B. `PROFESSIONAL_LEGITIMATION`
+IGF / festival /同行奖项：
+- 不一定代表大市场；
+- 但可以给非主流作品声誉、行业注意与融资信号。
+
+它解决的是：
+> “虽然它还没卖很多，但专业共同体认为值得认真看。”
+
+### C. `CROWD_DISCOVERY`
+Greenlight / review / wishlist / user tags：
+- 把部分selection交给大量玩家；
+- 降低单一编辑/发行商误判；
+- 更早建立玩家真相接口。
+
+Valve 2012明确用community帮助选择新作；2014 Discovery Update又加入个性化推荐、朋友推荐、用户标签与Curator，并直接称Curator可以成为“taste maker”。
+
+Sources:
+- https://store.steampowered.com/news/8761/
+- https://store.steampowered.com/news/14478/
+- https://store.steampowered.com/curators/aboutcurators/
+
+### D. `ALGORITHMIC_TASTE_MEDIATION`
+视频/商店推荐系统根据行为信号决定：
+- 什么获得曝光；
+- 哪类创作者更容易成长；
+- 什么内容形式被复制。
+
+对Bilibili的现有研究至少支持：
+- 平台推荐并非中立分发；
+- 算法可强化已有大创作者曝光，同时平台也有人审/纠偏机制；
+- 2025跨平台样本中，Bilibili比Douyin呈现更多长视频、instructional内容和amateur creator，但两者都受各自推荐逻辑塑造；
+- 推荐状态本身显著影响Bilibili内容engagement。
+
+Sources:
+- Zhang & Wu 2022, *Platformed playworkers*:
+  https://journals.sagepub.com/doi/10.1177/20594364221096498
+- Zhao & Shi 2026, Bilibili vs Douyin:
+  https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1801241/full
+- EMAC 2026 Bilibili uploader study:
+  https://proceedings.emac-online.org/pdfs/A2021-94666.pdf/pdfs/index.cfm?Relationship+Between+Video+Content+and+Audience+En=&abstractid=A2026-133189
+
+因此新增研究变量：
+
+# `TASTE_INSTITUTION_OBJECTIVE_FUNCTION`
+
+> **这个鉴赏中介真正优化的是什么：编辑判断、专业创新、玩家购买概率、watch time、engagement、广告价值，还是社区长期知识？**
+
+以及：
+
+# `TASTE_CAPTURE_RISK`
+
+> **当鉴赏中介的收入/推荐目标与深度鉴赏不一致时，它会不会反过来把玩家taste训练成更容易被自己货币化的形状？**
+
+这与018的 `DESIGN_ATTRACTOR` 完全同构：
+- 产品商业模式可以训练玩家；
+- 内容推荐商业模式也可以训练玩家。
+
+因此“有B站/有Steam”本身不证明Taste Institution健康，必须继续检查：
+- 深度内容能否获得稳定曝光；
+- 小创作者能否被发现；
+- 好评/播放是否转化成购买；
+- 热点生命周期是否压缩memory/canon；
+- 具体作者能否积累长期reputation。
+
 ## 11. 中国历史的第一版阶段假说
 
 ### 1990s—early 2000s
