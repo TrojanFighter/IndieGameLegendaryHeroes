@@ -27,6 +27,7 @@
 - [006 — 2021独立游戏开发奖励8案纵向队列](006-2021-indie-game-award-cohort-followup.md)：完整追踪获奖者发售/未发售状态，并明确 selected-winner conversion 不能冒充政策因果效果。
 - [007 — 两岸游戏产业的选择效应](007-cross-strait-selection-effects-information-talent-regulation.md)：补入2002→2017人才价格梯度反转、台湾成人向专业发行生态、早期日本/欧美信息先发与类型移植，以及“今天留下的人≠原始创作者人口”的方法论修正。
 - [008 — 台湾成人独游市场的长尾与发行基础设施](008-adult-indie-market-long-tail-publisher-infrastructure.md)：从Mango Party / PlayMeow / LewdLoco的完整目录、普通低评项目、工具链和平台风险重建R18独游生态，避免只看爆款。
+- [009 — 2025成人独游可见发行队列与作者第二作存活](009-adult-indie-2025-visible-cohort-author-persistence.md)：用三家专业发行商的2025可见目录和开发者历史，检验收益偏斜、发行商重叠及低尾作者是否继续下一作。
 
 ## 研究分工（单一权威，不重复记账）
 
