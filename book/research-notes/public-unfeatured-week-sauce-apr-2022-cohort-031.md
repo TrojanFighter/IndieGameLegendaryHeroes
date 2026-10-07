@@ -6,6 +6,7 @@
 - Frame: [Week Sauce (Apr 2022) 公开提交总表](https://itch.io/jam/weeksauce-4/entries) · [当期规则与 18 条公开项目目录](https://itch.io/jam/weeksauce-4)
 - Companion gate: [028 媒体选择与分母协议](media-selection-survivorship-and-denominator-protocol-028.md) / [Creator Visibility Sampling Gate](../../schemas/creator-visibility-sampling-gate.md)
 - Scope restriction: 英文 itch.io 公开小型 jam，**不是中国/斯拉夫研究**；不增加 Case / Claim，也不声称统计总体失败率。
+- **2026-10-07 跟进：** 18 个主提交账号已逐一回访，公开作品集与较晚时间锚见 [032 四年追踪](week-sauce-2022-public-creator-followup-032.md)；本篇保留原提交名册和作品状态快照，不用后续资料覆盖最初观察。
 
 ## 一、先保住分母：谁被列入，为什么
 
@@ -169,10 +170,10 @@ Cerbyo 的 [AgainstheCurrent](https://cerbyo.itch.io/againsthecurrent-the-legend
 
 这五个问题的公开证据可见性完全不同。不宜用某一页没更新来替代其它四个答案。
 
-## 五、下一轮如何才可能减少 UNKNOWN，而不是假装知道了
+## 五、下一轮如何才可能减少 UNKNOWN，而不是假装知道了（032 已完成主账号主页回访）
 
 1. 固定 18 条 URL 的历史快照，并记录页面最后可见的**确切日期**（没有的写 UNKNOWN；不以 2026 抓取日期冒充发布日期）。
-2. 对所有 18 个作者页面以同一协议核查公开后续项目。要注意有的作品多人、有的账号不是真实身份；需要改用 project-to-creator 的多对多关系，不能偷偷把“18项目”改成“18人”。
+2. **已完成初步账号回访：** [032](week-sauce-2022-public-creator-followup-032.md) 逐项记录 18 个主账号的作品集。剩余应推进 project-to-account-to-contributor 的多对多证据连接，不能偷偷把“18项目”改成“18人”。
 3. 单独记录 `NO NEW PUBLIC PROJECT OBSERVED`，**永远不编码为** `STOPPED_DEVELOPING`。
 4. 不主动挖掘私人家庭财务、居住、医疗或社会账户；若要补机会成本，优先使用作者自己公开说明的时间、工资/工作状态、协作者、收费、发行节点。
 5. 第二个独立公开队列应选 **不同组织条件** 的小型 jam（例如严格两天、限制报名者身份或允许长期协作），测试这次 Week Sauce 对工作/家庭议题的**自选择效应**。
