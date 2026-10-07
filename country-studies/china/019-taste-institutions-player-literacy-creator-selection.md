@@ -731,6 +731,231 @@ Sources:
 
 > **中国不是突然在2020s“玩家审美觉醒”；更可能是此前长期存在的Experience Capital终于获得更高的Taste-to-Money conversion，于是原本难以被产业看见的偏好开始变成更强财务信号。**
 
+## 11.1 七节点时间轴：1994 → 2025
+
+这条时间轴不按“技术平台更先进”排序，而按 `Taste Institution Stack` 中哪一层被修复来理解。
+
+| 节点 | 主要基础设施 | ACCESS | INTERPRETATION | PRACTICE | TRANSACTION | 核心结构 |
+|---|---|---:|---:|---:|---:|---|
+| 1994 | 游戏杂志 / 盗版盘 / PC与主机灰色输入 | ↑ | ↑ | 低 | 弱 | 文化输入开始系统化 |
+| 2000 | 纸媒成熟 + console/arcade正式商业收缩 + PC/网吧继续 | ↑/分裂 | ↑ | 低→中 | premium弱 | 高benchmark、低creator return |
+| 2005 | 网吧 + 17173等网游门户 + 点卡/在线收费 | 很高 | 转向网游语法 | 中 | **网游很强** | Taste→Money第一次大规模闭环，但闭在online service |
+| 2010 | 66RPG / 汉化组 /论坛 / GGJ萌芽 | 高 | 多中心 | **显著增强** | hobbyist弱 | Taste→Creation开始出现草根路网 |
+| 2015 | CiGA / indiePlay / GGJ扩张 + Steam中国用户增长 | 高 | premium/indie合法化增强 | 高 | 中 | 非主流创作开始获得公开Legitimation与市场桥 |
+| 2020 | Steam国际版 + Bilibili/直播 +国产premium样本 | 很高 | 算法+UP主+社区 | 高 | **明显增强** | Taste→Money开始与premium重新耦合 |
+| 2025 | Steam/global + creator network +比赛/平台扶持/主机桥 | 很高 | 多层并存 | 很高 | 较强但仍分层 | Taste→Money→Author可能形成新正循环 |
+
+### 1994 — `EDITORIAL DISCOVERY`
+
+1994《电子游戏软件》创刊，1995《大众软件》创刊并达到约10万册创刊号发行记录，随后《游戏机实用技术》《游戏批评》等形成连续专业出版谱系。
+
+这一节点最重要的不是销量，而是：
+- 作品开始被系统分类、比较、评价；
+- 玩家开始积累跨作品reference；
+- 媒体开始生产“什么值得玩”的词汇和canon。
+
+Sources:
+- https://www.gamearchive.cn/game_archive_journal_vol1/section_4_3
+- https://www.gamearchive.cn/game_archive_journal_vol1/section_5_2
+
+### 2000 — `FORMAL MARKET SHRINKS, INFORMAL INPUT SURVIVES`
+
+国办发〔2000〕44号压缩了电子游戏设备的正式生产、销售、进口和经营空间，但PC、网吧、盗版、水货与纸媒并未因此停止海外游戏输入。
+
+所以这一节点更像：
+> **正式交易层收缩，但文化输入层继续扩张。**
+
+这强化了 `CULTURAL-INPUT / CREATOR-RETURN ASYMMETRY`。
+
+Official:
+- https://big5.www.gov.cn/gate/big5/www.gov.cn/gongbao/content/2000/content_60240.htm
+
+### 2005 — `ONLINE TRANSACTION TAKEOVER`
+
+2004–05，中国网游已经成为互联网最重要的收入模式之一。17173自身历史显示：
+- 2004每日UV约150万、峰值200万；
+- 2005第五届网游调查约15万人参与；
+- 同年网游市场约40.7亿元；
+- 网吧仍是客户端分发、点卡销售、渠道推广的重要节点，全国约20万家网吧。
+
+《魔兽世界》2005年商业化后数月内即报告275万付费用户、最高同时在线50万，说明海外高规格内容也已能通过本地代理/点卡结构完成强交易回路。
+
+Sources:
+- https://about.17173.com/history.shtml
+- https://news.17173.com/content/2005-12-15/20051215013334545.shtml
+- https://news.17173.com/content/2005-1-20/n672_588448.html
+- https://news.17173.com/content/2005-11-21/20051121180444849.shtml
+
+因此2005的历史意义不是“玩家taste下降”，而是：
+> **Taste-to-Money第一次在中国大规模成功闭环，但成功闭环的主要对象是网络游戏与持续服务，而不是premium作者型游戏。**
+
+这会重新训练媒体、渠道、职业岗位与玩家习惯。
+
+### `FIRST_CLOSED_LOOP_ADVANTAGE / 首个闭环优势`
+
+2001–2004的市场数字显示，这个转折不是抽象印象。
+
+当年不同报告统计口径并不一致，因此不能把单个绝对值硬拼成连续序列；但方向高度一致：
+- 行业回顾称2001年中国电脑游戏市场约5亿元，其中网络游戏约3.1亿元，已经超过单机；
+- IDC口径：2002网络游戏约9.1亿元；同期单机约4亿元；
+- 官方2003产业报告：网络游戏实际销售13.2亿元；另一同期官方转述称PC单机销售仅约1亿元、同比下降56.52%；
+- 《大众软件》自己的2003产业报告因统计方法不同给出网游34.8亿元、单机3亿元，但同样显示网游/单机已出现数量级级差。
+
+Sources:
+- https://games.sina.com.cn/z/war3/2003-10-22/57987.shtml
+- https://games.sina.com.cn/newgames/2004/01/011912369.shtml
+- https://news.17173.com/content/2004-2-4/n242_158699.html
+- https://games.sina.com.cn/newgames/2004/07/071532779.shtml
+
+因此新增：
+
+# `FIRST_CLOSED_LOOP_ADVANTAGE`
+
+> **当一个新兴产业存在多种潜在需求，但只有其中一种较早形成可靠的“用户→支付→公司现金流→再投资”闭环时，这条闭环会抢先吸收资本、人才、媒体注意、渠道和组织学习，并把自己的objective function逐渐变成行业默认答案。**
+
+这比“玩家主动选择网游、抛弃单机”更精确。
+
+中国早期可能发生的是：
+
+```text
+premium taste exists
+but weak/unstable legal transaction
+
+while
+
+online service
+→ point cards / internet cafés / accounts
+→ repeat payment
+→ measurable retention
+→ strong cash flow
+→ capital/talent migration
+```
+
+所以产业output不能直接当作全部latent preference的民意调查。
+
+### `TRANSACTION_PATH_DEPENDENCE / 交易闭环路径依赖`
+
+一旦某条闭环先成功，它会进一步：
+- 培养对应玩家习惯；
+- 建立媒体栏目与攻略语言；
+- 建立岗位与职业晋升；
+- 建立渠道利益联盟；
+- 训练投资者“什么数据才可靠”；
+- 让后进入的其他模式必须证明自己能达到既有现金流标准。
+
+于是“什么最赚钱”逐渐被误读成“玩家真正只想要什么”。
+
+这正是 `DESIGN_ATTRACTOR` 在交易层的历史起点之一。
+
+### 2010 — `TASTE → PRACTICE`
+
+66RPG 2005–2017提供最强草根证据。2026开放获取研究显示：
+- 2006–2009快速增长；
+- 系统化RPG Maker中文教程总时长超过1000小时；
+- 社区把“先做出来再说”作为重要文化；
+- 关闭前存档超过86万用户 / 329万帖子；
+- 核心成员后来有人进入正式游戏行业。
+
+这说明至少到2010前后，中国已经出现真正的：
+```text
+player
+→ tutorial
+→ maker
+→ public work
+→ community reputation
+```
+
+Source:
+- https://journals.sagepub.com/doi/10.1177/20594364251413750
+
+但其商业桥仍薄，所以这是 `Taste-to-Creation ↑`，不是 `Taste-to-Money` 已解决。
+
+### 2015 — `LEGITIMATION BRIDGE`
+
+2015 CiGA的活动表已经同时出现：
+- Global Game Jam；
+- IndieACE开发者沙龙；
+- IndieACE Game Jam；
+- 第一届indiePlay。
+
+CiGA后续十年回顾也明确把自身定位为连接国内开发者、海外组织、玩家和市场的长期独立游戏基础设施；2023 indiePlay已经达到近500款游戏、3600+开发者报名。
+
+Sources:
+- https://www.ciga.me/2015
+- https://www.ciga.me/blog/ciga-10
+- https://www.ciga.me/blog/indieplay2014
+
+2015节点真正新增的是：
+> **“自己做怪游戏”开始不仅是论坛内部行为，而能进入公开比赛、现场试玩、同行评价、媒体报道和国际桥接。**
+
+即 `PRACTICE → LEGITIMATION → MARKET BRIDGE`。
+
+### 2020 — `TASTE–REVENUE REALIGNMENT BECOMES VISIBLE`
+
+2019 Niko已估计Steam在中国有4000万+活跃用户，并认为数字分发、可支配收入、DRM、本地支付和海外AAA供给共同使B2P重新具备商业可行性。
+
+2020更出现两个强信号：
+
+1. 《赛博朋克2077》在中国虽无正式ISBN，但通过Steam/GOG成为PC预购重要市场；上线首日中国三大直播平台有7500+主播、1900万+观众。
+2. 《黑神话：悟空》2020首支13分钟实机在Bilibili后来累计达到6500万+播放，且很快出现数百万级深度解读视频；这说明Bilibili已不只是资讯渠道，而能同时承担 `EXPOSURE + INTERPRETATION + LEGITIMATION`。
+
+Sources:
+- https://nikopartners.com/wp-content/uploads/2019/06/Tencent-Games-Strategy-2019.pdf
+- https://nikopartners.com/cyberpunk-2077-off-to-a-strong-start-in-china/
+- https://www.bilibili.com/video/BV1x54y1e7zf
+- https://www.bilibili.com/video/BV11D4y127tj/
+
+因此2020可作为一个象征节点：
+> **过去“懂海外精品但不给本土premium形成强现金回路”的群体，开始通过Steam + 视频平台成为产业可见的正式需求。**
+
+### 2025 — `TASTE → MONEY → AUTHOR` 是否形成代际闭环？
+
+到2024/25：
+- 53.1%的中国PC付费玩家在近3个月购买过premium；
+- premium购买者中79.5%使用Steam国际版；
+- CiGA/indiePlay、GGJ、CUSGA、China Hero等创作/扶持路网已多层存在；
+- China Hero明确提供研发资金、QA、middleware、代码审查、全球发行伙伴和营销支持；
+- Steam国际版仍让中国开发者直接面对国内与全球玩家。
+
+Sources:
+- https://nikopartners.com/wp-content/uploads/2024/11/2024.09.23-Niko-Knowledge-Brief_The-Wukong-Effect.pdf
+- https://www.playstation.com/zh-hans-cn/china-hero-project/
+- https://www.ciga.me/
+
+所以2025真正的研究问题已经不是“有没有premium市场”，而是：
+
+> **这套基础设施能否把一次购买进一步转换成作者识别、第二作资金、失败后的再尝试，以及下一代玩家→创作者？**
+
+换言之，测试的是：
+```text
+Taste
+→ Money
+→ Author Brand / Bargaining Power
+→ Second Attempt
+→ New Works
+→ Next Generation Taste
+```
+
+若这条链连续成立，才说明新的premium creator attractor真正形成。
+
+## 11.2 与五代玩家 / 四代从业者的对齐
+
+时间轴和既有代际模型可以初步对应，但禁止机械一一配对：
+
+| Taste Institution阶段 | 主要玩家形成环境 | 更容易训练出的生产能力 |
+|---|---|---|
+| 1994–2000 纸媒/盗版/PC | 第一代“红警老登” | 单机、多面手、海外benchmark |
+| 2001–2008 网吧/网游门户 | 第二代“传奇兄弟” | server/economy/social/long-term service |
+| 2009–2015 论坛/汉化/手游/UGC并存 | 第二/三代重叠 | F2P工业 + hobbyist side-route |
+| 2015–2020 Steam/indie route变厚 | 第三/第五代开始分叉 | global benchmark / prototype / small-team authorship |
+| 2020–2025 Steam+Bilibili+国产premium | 第四/第五代并存 | high-spec GaaS 与 premium creator 两种吸引子并行 |
+
+真正值得验证的不是“哪一代更高级”，而是：
+
+> **Taste Institution变化是否早于Production Regime变化？如果玩家已经开始为premium投票，但岗位、资本和组织仍被旧F2P value network锁定，就会出现显著的 demand–production lag。**
+
+这正是 [中国双代际模型](../../book/research-notes/china-player-worker-generations-009.md) 的核心H之一。
+
 ## 12. 对“国内玩家长期审美落后”的进一步修正
 
 可以保留的强问题不是：
