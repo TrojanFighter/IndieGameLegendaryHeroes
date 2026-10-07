@@ -25,6 +25,10 @@ Chapter 必须做到：
 
 ---
 
+本 Gate 规定质量原则；涉及已有 reader prose 的去模板化、重写或结构清理时，按 [Editorial Rewrite & Historical Fidelity Protocol](EDITORIAL-REWRITE-PROTOCOL.md) 执行 **Fact Lock → Narrative Packet → Delete / Person / Rhythm → Fidelity Readback → A/B → Author Acceptance**。不得把“AI 味少了”作为不必核对 Case / Evidence 的理由。
+
+---
+
 ## 0. 事实边界先于文风
 
 - 关键事实必须能回指 Case / Evidence。
@@ -266,6 +270,18 @@ Reader layer 一旦从历史事实推出“今天可以学什么”，必须同�
 10. 这篇和上一篇在开头、节奏、结尾上是否明显不同？
 11. 所有可迁移经验是否写明观察年份和 2026 时效状态？
 12. 是否把某个历史平台 tactic 误写成 timeless mechanism？
+
+## 10.5. 既有书稿重写必须留下可审计差异
+
+- 先保留原文 SHA，明确只改哪些章节；不能无差别清洗全书。
+- 先删除重复论点，再恢复人物与行动，最后调整节奏；不能只替换疑似 AI 词汇。
+- 修改后的时间、归责、否定、情态、数字口径、来源和 UNKNOWN 边界要做 Fidelity Readback。
+- 有条件时对不同版本进行匿名 A/B 对照；不达标可以保留旧稿。
+- 由作者确认新稿才合并；Agent 不自动把“更好读”当成批准。
+
+详见 [改写执行协议](EDITORIAL-REWRITE-PROTOCOL.md)。
+
+---
 
 ## Automation boundary
 
