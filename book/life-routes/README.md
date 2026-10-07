@@ -28,3 +28,5 @@
 ## 当前 Routes
 
 - [LR-001 — 名校 / 大厂高绩效者转作者型独立：先退出评分器，再退出公司](big-company-veteran-to-author-001.md)
+- [LR-002 — 有稳定工资的创作者：先购买证据，再购买自由](salaried-creator-staged-commitment-002.md)
+- [LR-003 — 房贷、育儿与高家庭支出的创作者：项目风险不能吞掉家庭现金流](household-high-burn-creator-003.md)
