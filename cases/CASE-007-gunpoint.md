@@ -317,3 +317,20 @@ Gunpoint 的生产函数同时包括：
 5. PC Gamer 身份究竟提供了多少早期媒体可见性，如何做反事实？
 6. 能否从 GDC 2013 完整 transcript/slides 中进一步拆出 Francis 对“love/hate games”如何转化为设计判断的具体方法？
 7. 在后续 *Heat Signature* / *Tactical Breach Wizards* 中，这套 taste→constraint 方法有哪些失败例，避免只收成功证据？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** 已有约九年 PC 游戏评论/编辑职业前史；以全职媒体工作维持三年业余开发，launch 时处于 sabbatical。
+- **Household:** relationship / children / housing `UNKNOWN`；本案当前不依赖家庭支持叙事。
+- **Runway:** PC Gamer salary + spare-time development；launch week 销售超过预设辞职阈值后才不回原岗位。
+- **Household burn:** `UNKNOWN`，但 day job 把现金风险和项目承诺显著分离。
+- **Exit / recovery:** **HIGH EXIT OPTIONALITY** — 开发期持续保留职业身份与工资，正式转独立以前设有销售阈值；launch 前并非 success-or-bankruptcy。
+- **Capability vector:** criticism / market comparison / writing / taste capital 强；初始 coding 弱；后续自学 GameMaker；外部美术、音乐按 sample/revenue-share 等方式补齐。
+- **Problem ownership:** **HIGH** — Francis 自己定义 mechanic、scope 与删改优先级。
+- **Validation architecture:** idea / criticism → <1 month movement prototype → testers → devlog / explanatory video → wider interest → collaborators → launch。
+- **Reality adjudication:** **STRONG** — 明确把“我觉得应该这样”转为“做出来让人试”，并根据 roadmap / 测试删除低价值 scripted work。
+- **Capability capture risk:** **LOW** — 当前证据反而显示 taste 被用于拒绝不值得支付的内容义务；但不等于后续项目永远低风险。
+- **Market sufficiency / legibility:** **STRONG** — Crosslink 等机制可被视频清楚解释，devlog/媒体/测试形成发售前可读市场面。
+- **Capability scaling:** core design/programming ownership 保持集中；visual/audio 通过全球 collaborators 扩张，未要求 founder 补成六边形。
+- **Major unknowns:** household economics、开发三年的总时间投入、各 collaborator compensation 细节。
