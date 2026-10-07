@@ -107,7 +107,7 @@ Romero、Carmack、Tom Francis 真正值得看的地方，是目标怎样在 **�
 
 - [early id / DOOM：Romero 的家庭冲突、继父买电脑与职业形成](profiles/early-id-doom.md)；
 - [第一章：目标不是先想清楚的](chapters/01-goals-are-made-not-found.md)。
-- [梁其伟2007年被迫把《雨血》暂停一年、2008年重新开工的第一人称纵向研究](research-notes/family-gate-china-near-miss-liang-qiwei-030.md) — 区分母亲早年保存画作、挂科/保研资格失效后的家庭压力，以及换环境后的第二次机会。
+- [梁其伟2007年被迫把《雨血》暂停一年、2008年重新开工的纵向研究](research-notes/family-gate-china-near-miss-liang-qiwei-030.md) — 童年部分画作被家人毁弃、成年后母亲珍藏留存画稿，与挂科/保研资格失效后再受家庭压力都必须同时记录。
 
 有些家庭反对的是**玩游戏占用学习时间**，却欢迎学习编程、画画和写作；有些家庭允许游戏和作品，但不愿让你承担无保障的职业风险；也有家庭不理解，却尊重成年人的选择。它们对应完全不同的问题，不能只归结为“家长不支持”。
 
@@ -122,6 +122,8 @@ Romero、Carmack、Tom Francis 真正值得看的地方，是目标怎样在 **�
 [《DOOM启世录》人物传记](profiles/early-id-doom.md) 在作品成功以后还有一条家族故事：Romero曾因玩街机被继父殴打，1993年前后继父承认不该否定游戏职业，1999年又在外界争论中维护他的作品；Carmack母亲后来会玩《Commander Keen》。Romero成年后则选择和孩子一起玩游戏。
 
 但**有人改口说职业有前途，并不等于过去的伤害已经获得完整道歉**。同样，父母可能始终未能认可一个没有成功的孩子，而这个人仍然有权决定成年后的生活。
+
+2011年知名游戏评论人Croshaw说父母仍不认可工作；2013年前Lionhead老兵Keith Judge复盘则说明配偶工资和储蓄也不能保证独立项目完成。两例详见 [成功不等于认可、支持不等于成功 034](research-notes/family-acceptance-non-success-countercases-035.md)。
 
 如果想理解这种错综复杂的晚期人物关系，读 [家庭代际和解纵向研究 032](research-notes/doom-intergenerational-reconciliation-032.md)；其中国对照（《雨血》梁其伟）只记录已能查到的家长态度变化，不能臆造最后和解的情节。
 
