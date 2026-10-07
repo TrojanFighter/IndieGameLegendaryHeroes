@@ -27,6 +27,13 @@
 - [市场不是最后一步](book/chapters/05-market-interface-is-production.md)
 - [你缺的真是一支团队吗？](book/chapters/06-you-do-not-need-a-standard-studio.md) — 《GRIS》《Gunpoint》《Playdead》等案例中的能力选择与合伙代价
 
+现在新增三篇完整人物稿，研究第一次成功前的能力前史、真实机会成本和成功后的职业选择：
+- [Nomada / GRIS → Neva](book/profiles/nomada-gris-neva.md) — 插画家与 AAA 程序员如何成为共同作者。
+- [David Wehle / The First Tree](book/profiles/david-wehle-first-tree.md) — 上班、育儿与个人作品的时间结构。
+- [Zach Barth / Zachtronics](book/profiles/zach-barth-zachtronics.md) — 工程谜题作者的成长、低现金预算与长期职业路径锁定。
+
+[全部九篇人物传记](book/profiles/README.md) · [机会成本与失败退出比较](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)
+
 如果你当前正面临实际项目抉择，优先走 [按处境进入｜作者型项目决策路由](book/DECISION-ROUTER.md)：把能力结构、runway/household risk 和项目阶段放到一起，判断这次应移动项目、团队、资本、能力，还是承诺。已经确认具体职业转换处境的读者可继续看 [Life Risk Routes](book/life-routes/README.md)（包括[作品方向已定但团队能力不足的 LR-004](book/life-routes/project-thesis-capability-gap-004.md)）；只想按专业强项找人物，再进入 [按主创者能力进入](book/READER-ARCHETYPES.md)。
 
 所有历史成功经验受 [Temporal Validity Gate](book/TEMPORAL-VALIDITY.md) 约束：年份、当时 regime 与 2026 时效状态必须分开写。
