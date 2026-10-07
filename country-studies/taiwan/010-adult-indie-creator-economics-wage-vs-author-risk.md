@@ -1,0 +1,422 @@
+# 010 — 台湾成人独游创作者经济学：工资制内容生产、作者押注与“第二次尝试”的现金流
+
+- Status: LABOR-MARKET / CREATOR-ECONOMICS AUDIT / PRE-CLAIM
+- Program: C Taiwan comparator
+- As of: 2026-10-08
+- Scope: 台湾R18/成人独立游戏的劳动市场，不讨论作品内容价值判断；重点区分“拿工资做成人游戏”和“押注自己IP做成人独游”两种完全不同的人生风险
+- Predecessors:
+  - [008 — 成人独游市场长尾与发行基础设施](008-adult-indie-market-long-tail-publisher-infrastructure.md)
+  - [009 — 2025可见发行队列与作者第二作存活](009-adult-indie-2025-visible-cohort-author-persistence.md)
+- Restriction:
+  - 个别招聘薪资不是产业平均工资；
+  - 开发者自报销量不是审计收入；
+  - “收入足够全职”只说明当事人跨过个人生存阈值，不等于高利润；
+  - 不把雇员、签约作者、外部社团、publisher-funded项目混成同一种劳动关系。
+
+## 0. 第一轮结论：成人独游已经形成“双轨劳动市场”，并出现混合形态
+
+此前容易把台湾R18独游理解成：
+> 一个绘师/作者做自己的作品 → 找发行商 → 成功就全职。
+
+当前公开证据显示至少存在三种劳动组织：
+
+### Track A — SALARIED CONTENT PRODUCTION
+公司直接招聘：
+- 成人向游戏企划/写手；
+- UI/平面设计；
+- Spine动画；
+- 社群运营；
+- 独立游戏制作/美术设计。
+
+员工领取固定月薪，公司拥有生产管线、工具、发行渠道和项目组合。
+
+### Track B — AUTHOR-RISK / OWN-IP
+个人先以：
+- 失业空档；
+- 兼职接案；
+- 原职业收入；
+- 长期业余创作
+
+承担早期风险，再通过低代码工具和发行商把作品推向市场；只有市场收入足够后才转全职。
+
+### Track C — HYBRID / PUBLISHER-INCUBATED
+发行商/平台：
+- 提供编辑器；
+- 选择有潜力Demo；
+- 提供资源/发行支持；
+- 甚至邀请作者加入团队；
+- 或允许外部团队洽谈签约合作。
+
+也就是说，台湾成人独游不只是“indie creator economy”，而已经同时具有：
+**small content studio + author economy + publisher incubation**。
+
+---
+
+# 1. 工资制成人游戏生产已经真实存在，而且并非高薪就业天堂
+
+## TW-R18-LABOR-E01｜PlayMeow当前约20人，内部直接生产AVG
+
+104公司页（2026-10抓取）：
+https://www.104.com.tw/company/1a2x6bll5o
+
+公开资料：
+- 玩喵有限公司；
+- 员工约20人；
+- 2021-04成立；
+- 公司业务包括PlayMeow平台、ACGcreator编辑器、游戏研发与作品销售推广；
+- 公司明确称内部也由旗下团队进行游戏研发，而不只是代理外部作品。
+
+这说明PlayMeow已经不是“两个发行人帮indie上传Steam”的结构，而是一个小型、垂直整合的内容/工具/发行公司。
+
+## TW-R18-LABOR-E02｜成人向游戏企划/写手：NT$30,000–40,000/月
+
+同一104页面当前招聘：
+“成人向 游戏企划 & 游戏制作写手”
+- 台北；
+- 学历不拘；
+- 经验不拘；
+- 月薪NT$30,000–40,000；
+- 使用公司ACG爱创作工具制作日系成人AVG；
+- 工作内容包括剧情大纲、角色设定、CG需求、与美术沟通、整合文本/音乐/图像并实际完成游戏。
+
+这不是传统“纯文案”岗位，而是：
+**writer + content designer + asset coordinator + low-code integrator**。
+
+2026台湾法定月最低工资为NT$29,500。
+劳动部：
+https://www.mol.gov.tw/1607/28162/28166/28180/28182/28188/29025/
+https://www.mol.gov.tw/1607/1632/1640/84947/
+
+因此该职位薪资区间低端仅比2026最低工资高NT$500。
+
+### 边界
+
+不能据此说：
+“台湾成人游戏行业平均工资接近最低工资。”
+
+目前只能说：
+> **至少一家该领域最可见的专业公司，其面向无经验/不限学历的核心内容生产岗位，公开起薪接近法定最低工资。**
+
+这对“成人赛道很赚钱→从业者也高薪”的直觉构成重要反证。
+
+---
+
+## TW-R18-LABOR-E03｜同公司视觉岗约NT$40,000，专业技能溢价有限但可见
+
+PlayMeow当前“游戏平面设计”：
+- 月薪NT$40,000；
+- 要求2年以上经验；
+- 涉及UI、Logo、广告素材、实体展会物料等。
+
+104：
+https://www.104.com.tw/company/1a2x6bll5o
+
+Spine动画师、独立游戏制作/美术设计等其他岗位为待遇面议。
+
+这说明在同一20人左右公司内已经出现职能分工：
+content writing / game integration
+vs
+visual production
+vs
+animation
+vs
+community/publishing。
+
+成人indie正在从“作者自己全部做”走向小型专业生产组织。
+
+---
+
+## TW-R18-LABOR-E04｜第二家公司也存在接近最低工资的R18写作岗位
+
+104当前可见“侍达游戏艺术有限公司”的：
+“剧本企划－成人男性向”
+- 台北；
+- 1年以上经验；
+- 月薪NT$29,500–50,000；
+- 工作包括游戏/角色剧本、世界观、CG/背景需求、美术沟通、剧情演出与文本/配音资料整理。
+
+Source:
+https://www.104.com.tw/jobs/search/?area=6001001000%2C6001002000%2C6001004000%2C6001003000&jobcat=2004002005
+
+其薪资区间低端**正好等于2026法定最低工资**。
+
+因此“低端R18内容生产岗位并不具有显著成人行业风险溢价”至少已经有第二家公司支持。
+
+仍不能计算行业中位数。
+
+---
+
+# 2. 成人内容的“职业污名成本”直接进入招聘条件
+
+## TW-R18-LABOR-E05｜公司明确要求应聘者事先考虑家庭/伴侣是否接受
+
+侍达R18剧本企划公开招聘中，除了要求理解成人游戏，还直接提醒：
+- 应聘前确认自身情况；
+- 家人、亲友、伴侣是否排斥游戏业与R18；
+- 有顾虑者不要应聘。
+
+同一104搜索页：
+https://www.104.com.tw/jobs/search/?area=6001001000%2C6001002000%2C6001004000%2C6001003000&jobcat=2004002005
+
+这说明成人游戏就业存在普通游戏岗位之外的额外career cost：
+
+**social disclosure / family acceptance / partner acceptance / future résumé signaling**。
+
+这种成本没有体现在月薪里，但会影响谁愿意进入行业。
+
+### 新变量：STIGMA COST
+
+跨行业比较时需要单独编码：
+- 能否公开作品；
+- 能否把履历写进下一份工作；
+- 家庭/伴侣阻力；
+- 社交身份管理；
+- 是否使用社团名/笔名；
+- 转回普通游戏/互联网公司的可逆性。
+
+---
+
+# 3. 工资制路径还可能压缩“白天上班、晚上做自己IP”的过渡策略
+
+## TW-R18-LABOR-E06｜PlayMeow某运营岗明确禁止私下兼职
+
+PlayMeow 104当前“游戏社群运营APM（绅士向游戏）”职位说明中明确写：
+> 本公司严禁私下兼职。
+
+Source:
+https://www.104.com.tw/company/1a2x6bll5o
+
+这只是一个岗位/公司的制度，不能推广到整个行业。
+
+但它揭示一个重要的人生设计问题：
+
+成人独游作者最常见的低风险转型路线是：
+**day job / freelance income + night/weekend own IP → sales validation → full-time author**。
+
+如果加入某些专业发行/研发公司后受到副业限制，
+工资制轨道和作者轨道可能不是自由叠加的，而是存在机会成本：
+
+stable salary
+vs
+ownership/upside of own IP.
+
+这需要后续核劳动合同的竞业、副业、职务作品/IP归属条款。
+
+---
+
+# 4. 作者轨道：真实路径往往不是“裸辞做黄油”
+
+## TW-R18-AUTHOR-E01｜狐狸姊姊：近三年开发，先接案兼职，再逐步转全职
+
+4Gamers 2025-09专访：
+https://www.4gamers.com.tw/news/detail/74308/sex-change-contract-and-molester-girl-developer-interview
+
+当事人回顾：
+- 项目制作近三年；
+- 最初仍兼职接案；
+- 后来逐渐转为全职；
+- 原职业是营销；
+- 选择做游戏的重要动机之一，是希望为自己的产品工作，而不是永远帮别人推广产品；
+- 使用ACG爱创作减少程序开发负担；
+- 上线一周内2.2万套为开发者/发行方公开口径，未审计；
+- 已规划续作和另一新作。
+
+这条路径更接近：
+
+existing occupation / freelance
+→ long part-time own-IP production
+→ publisher/tool support
+→ product launch
+→ revenue validation
+→ full-time creator + next title.
+
+它不是先有资本再全职，而是创作者自己承担了很长一段未付/低付劳动。
+
+---
+
+## TW-R18-AUTHOR-E02｜Vincent：失业冲击成为创业窗口，四作之后才形成稳定全职
+
+4Gamers 2025-03：
+https://www.4gamers.com.tw/news/detail/70918/playmeow-acg-creator-and-milf-conditioning-developer-interview
+
+当事人/平台披露：
+- COVID期间失业后开始做自己的游戏；
+- 一人承担剧本、角色设计和开发；
+- 至采访时已制作4款；
+- 累计30万套为当事人/平台公开口径；
+- 当前收入已经足以维持全职个人开发，不需返回一般职场。
+
+最重要的信息不是30万套，而是：
+
+**full-time independence happened after multiple releases and accumulated revenue，not necessarily before first release.**
+
+这进一步支持：
+成人indie的职业价值可能来自“较低第二次尝试成本”，而不是“首作高胜率”。
+
+---
+
+# 5. 两轨的风险收益完全不同
+
+| 维度 | 工资制内容生产 | 作者押注/自有IP |
+|---|---|---|
+| 现金流 | 固定月薪 | 前期不稳定/可能为0 |
+| 当前可见收入 | NT$29.5k–40k+的内容岗位样本 | 极端右偏，无法给中位数 |
+| 初始风险 | 低 | 高 |
+| 产品失败风险 | 主要由公司承担 | 作者承担时间/机会成本 |
+| IP/作品所有权 | 未核，通常需合同确认 | 理论上较高，但发行合同可能分权 |
+| upside | 工资/奖金为主 | 可能获得持续版税/利润/IP价值 |
+| 进入门槛 | R18文化理解+岗位技能 | 能完成prototype/作品 |
+| side project | 某公司岗位明确限制 | 本身就是核心 |
+| stigma cost | 履历直接绑定R18公司 | 可用社团名/笔名，公开程度可控 |
+| career reversibility | 待核 | 待核 |
+| 第二次尝试 | 公司安排项目 | 作者自行决定，需现金继续 |
+
+### 重要判断
+
+成人独游的“高人均收益故事”和“接近最低工资的内容岗位”可以同时成立。
+
+因为收益分配结构不是：
+> 游戏赚很多 → 每个参与者都赚很多。
+
+而可能是：
+- IP owner / hit author获得右尾；
+- publisher通过portfolio分散风险并获得长期资产；
+- salaried creator用固定工资换低风险；
+- external artists/voice/localizers按件或合同获得确定收入。
+
+这也是为什么产业规模扩大不必然提高普通从业者工资。
+
+---
+
+# 6. PlayMeow正在把创作者经济转化为“生产系统”
+
+104公司介绍显示其未来重点包括：
+- 自有平台；
+- AVG编辑器；
+- AVG研发。
+
+Current job roles又把同一编辑器写进内部生产流程。
+
+结合此前008/009：
+- 外部创作者也用ACG爱创作；
+- 平台已有40—50款完成作品（公司口径）；
+- 有潜力作品可能获得资源/发行；
+- 公司同时直接雇人用同一工具生产成人AVG。
+
+这意味着ACG爱创作的功能已经不只是“降低indie门槛”，而是：
+
+**standardized production technology**。
+
+它连接：
+external creator
+↔ publisher incubation
+↔ internal salaried production。
+
+### 潜在结果
+
+正面：
+- 降低程序依赖；
+- 缩短生产周期；
+- 便于多语言和跨平台；
+- 公司可训练无游戏开发经验的内容人才。
+
+负面风险：
+- UI/系统同质化；
+- 设计能力被工具边界锁定；
+- 市场快速堆积相似产品；
+- 创作者议价权可能从“会做游戏”转向“谁有美术/IP/流量”。
+
+这些后半部分目前属于HYPOTHESIS，需要目录/玩家评价和作者访谈继续验证。
+
+---
+
+# 7. 一个重要的新结论：R18是“低门槛作者进入器”，不是“高薪游戏就业部门”
+
+目前证据更支持这句话。
+
+### 作为就业部门
+
+至少两个当前招聘样本显示：
+- 核心内容/剧本岗位低端约等于或接近台湾最低工资；
+- 有专业美术技能后可以上到NT$40k或更高，但没有证据显示存在显著R18风险溢价。
+
+### 作为作者创业入口
+
+却有：
+- 无程序作者可进入；
+- 兼职/接案可以逐步试做；
+- 专门发行商承担市场/本地化外围；
+- 小scope允许多次尝试；
+- 爆款右尾足够高，能把极少数作者推到全职。
+
+因此成人indie的核心经济价值不是：
+> “进这个行业工资高”。
+
+而是：
+> **“它让没有传统程序/3D工业资本的人，用较低成本获得自有IP和全球销售的期权。”**
+
+这和普通商业公司就业是两种完全不同的人生投资。
+
+---
+
+# 8. 对大陆比较的新意义
+
+大陆的监管结构使合法的R18工资制游戏公司、成人publisher、低代码creator pipeline都很难以相同形式公开形成。
+
+因此台湾的制度优势不仅创造了“多几款黄油”，而是创造了一整套劳动市场：
+
+- R18剧本岗位；
+- R18美术/Spine岗位；
+- specialized publishing；
+- creator incubation；
+- low-code tools；
+- events；
+- localization；
+- adult-game marketing；
+- solo-author entrepreneurship。
+
+大陆需求仍可能存在，但生产、就业和作者创业链条更容易被：
+- 地下化；
+- 海外化；
+- 匿名化；
+- 平台外迁
+
+从而失去公开职业路径。
+
+这就是监管差异怎样改变**职业结构**，而不只是改变游戏内容。
+
+---
+
+# 9. 下一轮真正需要找的是“钱如何分”
+
+目前最大UNKNOWN：
+
+## Publisher contract
+- advance / MG；
+- revenue split；
+- recoup；
+- localization/voice/marketing cost谁承担；
+- IP ownership；
+- sequel/first-refusal；
+- exclusivity；
+- Steam/DLsite account ownership。
+
+## Author household economics
+- 兼职阶段每周多少小时；
+- 接案收入；
+- 储蓄；
+- 住房/家庭支持；
+- 第几款作品后才能不接案；
+- 失败作品如何融资下一作。
+
+## Wage worker mobility
+- R18岗位离职后去哪；
+- 能否回普通游戏/广告/互联网；
+- 薪资涨幅；
+- 履历污名是否真实影响就业；
+- 员工是否获得项目奖金/分红。
+
+只有补到这些，才能回答：
+> 台湾成人独游到底是一条“普通人可复制的职业路径”，还是一条“低薪雇员支撑少数作者/发行商高右尾”的产业。
+
+当前不能预判答案。
