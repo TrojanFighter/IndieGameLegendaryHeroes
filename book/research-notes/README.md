@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`creator-exit-reentry-economics-044.md`](creator-exit-reentry-economics-044.md) — OQ-002/005/006 的失败后人生结果层：GBGames、Atomic Armies、PONCHO、Mountaincore、Iron Cross→Attack at Dawn 与 Drunk Shotgun；建立 Exit Outcome Vector / Reversibility Capital，区分项目、公司、就业、作者性和残余资产，不把“回上班”“出第二作”“法人关闭”混成一个结局。
+
 - [`carmack-romero-complementary-error-correction-network-042.md`](carmack-romero-complementary-error-correction-network-042.md) — Dangerous Dave、Wolf3D push walls、Doom editor/glue与Quake反馈延迟：将Carmack×Romero从技能互补升级为跨域翻译/可否决/角色可塑/快速shared-build的纠错网络，并以Tom Hall与Playdead CASE-056反证二人神话和治理永久有效。
 
 - [`truth-shield-to-narcissism-shield-ion-storm-governance-041.md`](truth-shield-to-narcissism-shield-ion-storm-governance-041.md) — Romero 2023自认把id成功公式错误迁移到Ion Storm；用Dallas/Austin同公司对照拆出feedback integrity、规模断层、互补能力依赖、decision-right accountability，并引入Exit/Voice/Loyalty和20项未展开研究欠账。
