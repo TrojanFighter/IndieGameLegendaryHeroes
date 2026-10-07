@@ -5,6 +5,7 @@
 - As-of: 2026-10-08
 - Demand-side parent: [017 — Demand-Side Creator Selection](017-demand-side-creator-selection-player-veto.md)
 - Taste institutions: [019 — Taste Institutions](019-taste-institutions-player-literacy-creator-selection.md)
+- Attribution politics: [021 — Credit Regimes and Author Power](021-attribution-politics-credit-regimes-author-power.md)
 - Author-right comparator: [015 — 中国 × 日本](015-japan-comparator-frontier-permeability-author-rights-and-creator-replacement.md)
 - Boundary: 本文研究“作者声誉能否转成可迁移的经济/组织权利”，不是主张所有游戏都应 auteur-centered，也不把商业成功直接归因于个人天才。
 
@@ -711,3 +712,27 @@ AI也可能产生相反结果：
 ## 15. 当前最小结论
 
 > **作者品牌资本不是名气，而是“对作者判断的信任能否跨越作品、IP与雇主继续产生经济和组织后果”。它可以通过玩家选择转成融资、自筹能力、发行伙伴竞争和更强outside option，从而提升作者权；但它不是所有游戏工业的必要条件，成熟IP/工作室也可以承载品牌信任。真正该比较的是brand locus在哪里、谁拥有客户关系，以及成功后这份市场资本能否被创作者带入下一局。**
+
+
+## 16. 作者品牌的上游：Attribution Politics
+
+020只回答“作者名声能不能变成portable demand”，021进一步回答“作者名声为什么会落到这个人身上”。
+
+强制链条：
+
+```text
+real contribution / decision rights
+→ credit attribution
+→ public interpretation
+→ memory / reputation
+→ portable demand
+→ author brand capital
+```
+
+如果第二步断裂，即使个人真实贡献极大，也可能无法形成后续 portable market capital。
+
+因此：
+> **Author Brand Capital 不是自然结果，而是 Attribution Infrastructure 的下游产物。**
+
+Canonical:
+- [021 — Attribution Politics](021-attribution-politics-credit-regimes-author-power.md)
