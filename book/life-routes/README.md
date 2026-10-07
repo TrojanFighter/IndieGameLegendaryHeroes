@@ -2,6 +2,8 @@
 
 这里不是“成功方法”。
 
+如果尚不确定自己的真实处境和首要瓶颈，请先使用 [作者型项目决策总分诊](../DECISION-ROUTER.md)；本目录只承接已经明确的人生路径问题。
+
 每条 Route 面向一种现实处境，把 Case / Evidence / Creator Life Audit 压成一个可执行的决策界面：
 
 ```text

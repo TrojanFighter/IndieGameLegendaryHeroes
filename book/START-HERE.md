@@ -24,11 +24,22 @@
 
 完整章节目录见 [Chapters](chapters/README.md)。
 
-如果你更关心“**像我这种出身 / 能力结构的人先看谁**”，直接进入：
+如果你更关心“**像我这种处境，现在下一步应该先动什么？**”，优先进入：
+
+> **[按你的处境进入｜先判断你现在缺的到底是什么](DECISION-ROUTER.md)**
+
+它不先问职业，而先问三件事：
+- 你已经拥有什么 capability；
+- 你能承担多大的 household / runway / exit risk；
+- 你这次应该移动项目、能力、团队、资本，还是承诺本身。
+
+如果你已经确定自己属于某种具体的人生转型处境，还可以进入 [Life Risk Routes](life-routes/README.md)。例如：[LR-001 — 名校 / 大厂高绩效者转作者型独立](life-routes/big-company-veteran-to-author-001.md) 专门研究能力迁移、旧评价函数、家庭与退出约束。
+
+如果你只是想找“**和我能力结构相近的人先看谁**”，再进入：
 
 > **[按主创者能力进入｜你手里已经有什么？](READER-ARCHETYPES.md)**
 
-例如 Technical Artist / visual-first 会先导向 The First Tree；程序 / engine-first 会先导向 Carmack、Sawyer、Factorio；modder / server admin 会先导向 PLAYERUNKNOWN、Tripwire、Roblox。
+Technical Artist / visual-first、程序 / engine-first、策划 / 评论、modder / server admin、大厂转作者、solo/generalist 都有不同历史对照。
 
 ---
 
@@ -245,6 +256,16 @@ Carmack 不是坐等 PC 发展到某个年份，然后领取一项“现在可�
 ---
 
 ## 我已经成功过一次，为什么事情反而越来越复杂
+
+这时先把“扩张”拆成两个问题：
+
+> **我真的需要更多 capability，还是更需要保留不承诺的选择权？**
+
+补读：
+- [Into the Breach / Subset Games](../cases/CASE-020-into-the-breach.md) — 第一次成功以后，用 retained earnings 买低 burn、延迟公开和长期 prototype，而不是立刻把 FTL 成功固化成续作与更高 fixed cost；
+- [thatgamecompany](../cases/CASE-057-thatgamecompany-vc-equity-expansion.md) — 另一条路径：用 equity 直接扩公司 capability，但同时进入 board / ownership / fundraising governance；
+- [Zachtronics](../cases/CASE-051-zachtronics.md) + [Spiderweb Software](../cases/CASE-058-spiderweb-fit-lock-in.md) — 如果一种成功 grammar 已经积累多年，转型成本会怎样反过来变高。
+
 
 先读：
 

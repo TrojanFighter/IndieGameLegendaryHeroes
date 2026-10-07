@@ -6,6 +6,21 @@
 
 研究后台继续按 Case / Evidence / Claim 工作；Profile 继续保存一个人物或团队的完整生产史；真正的章节则跨人物、跨时代回答一个普通人会遇到的问题。
 
+## 阅读前门｜按处境诊断，再寻找人物
+
+这本书的阅读前门不应是案例编号，也不应直接是“程序员 / 美术 / 策划”职业分类。读者首先需要知道自己的当前约束与下一步生产选择。
+
+- [START-HERE](START-HERE.md)：按当下困惑、阅读问题进入。
+- [DECISION-ROUTER](DECISION-ROUTER.md)：总分诊，按 **Capability Position × Risk Position × Project Maneuver** 判断该移动项目、能力、团队、资本还是承诺。
+- [Life Risk Routes](life-routes/README.md)：已经确定某一类具体人生处境后的深入审计和实践边界；当前有 [LR-001 大厂高绩效者转作者项目](life-routes/big-company-veteran-to-author-001.md)。
+- [READER-ARCHETYPES](READER-ARCHETYPES.md)：第二级按专业能力结构寻找相似创作者的索引。
+
+默认链路：
+
+`现实问题 / 当前处境 → 约束与决策变量 → life route 或 capability archetype → 正反案例 → Chapter / Profile → 必要时 Case / Evidence`
+
+只共享职业、国籍、年龄、学历或一家曾经供职的公司，不足以证明某个历史成功者与读者具有可比性；至少同时核对 **能力、runway / household / exit risk、项目阶段、外部验证、资本治理** 之中的两个独立维度。
+
 ## 三层结构
 
 ### Layer 1 — Research Backend
@@ -148,7 +163,7 @@ Chapter 不再问：
 
 研究笔记足够成熟以后，不要求读者自己翻 Case 拼答案。
 
-统一进入 [`life-routes/`](life-routes/README.md)，按现实处境提供：
+先从 [DECISION-ROUTER 总分诊](DECISION-ROUTER.md)识别处境、最大风险与应移动的生产变量，再进入 [`life-routes/`](life-routes/README.md) 的具体人生路径，按现实处境提供：
 
 ```text
 处境
@@ -284,23 +299,29 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 
 核心问题：
 
-> 为什么成功以后反而更难？
+> 为什么成功以后反而更难？成功的钱应先购买新能力，还是购买暂不承诺的选择权？
 
 研究：
-- optionality；
-- 团队扩张；
-- founder alignment；
-- governance；
-- 第二作试错权；
-- 成功路径依赖；
-- 什么时候旧优势开始制造新成本。
+- optionality / retained earnings；
+- **扩 capability** 与 **保留 option value** 的区别；
+- 团队扩张、永久 headcount 与 fixed burn；
+- founder alignment / authorship / governance；
+- capital source 与 control surface；
+- 第二作的试错权、延迟公开与 `LOCK-IN PREVENTION`；
+- 长期 `FIT-LOCK-IN`：production grammar、资产复利、受众替换成本；
+- 成熟工作室真正跨越固定 grammar 的转型条件。
 
 主要人物池：
 - early id → Quake；
-- FTL → Into the Breach；
-- Minecraft / Mojang；
-- Among Us；
-- Rocket League / Psyonix。
+- FTL → Into the Breach：第一次成功后保留 option value；
+- The Witness：自有资金购买额外 capability；
+- House House：grant/publisher 支持与后续 retained earnings；
+- thatgamecompany：equity 扩组织，也扩治理义务；
+- Zachtronics + Spiderweb：成熟 FIT-LOCK-IN；
+- Playdead：共同创始人治理压力；
+- Minecraft / Mojang、Among Us、Rocket League / Psyonix：成功后的组织变化。
+
+**明确保留的证据缺口：** 一个已经形成多年固定 production grammar 的作者或工作室，如何真正成功、可检验地突破 `FIT-LOCK-IN`。不得用 FTL → Into the Breach 的早期分叉直接冒充成熟 lock-in 逃逸。
 
 ---
 
