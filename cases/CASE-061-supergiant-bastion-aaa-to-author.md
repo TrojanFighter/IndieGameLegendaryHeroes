@@ -106,7 +106,7 @@ Do not infer universal EA effect, US workplace freedoms, actual family wealth, o
 - Against Chinese 王妙一: both selectively retained mature tech/production standards, chose capability-matching form.
 - Against Red Hook: self-funding and authorial autonomy do not eliminate household downside.
 
-## Anachronism Check
+### Anachronism Check
 
 - 2010 PAX10, Xbox Live Arcade, IGF, Warner Bros. marketing access and XBLA certification belong to the 2009–2011 regime, not a contemporary Steam discovery formula.
 - Father-provided housing/office space and low founder wages were part of this specific team’s material feasibility; cannot be assumed for later entrepreneurs.
