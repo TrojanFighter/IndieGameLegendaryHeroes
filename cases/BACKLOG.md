@@ -1,7 +1,7 @@
 # Case Backlog — 历史语料与深度研究案例池
 
 - Status: ACTIVE
-- Last updated: 2026-10-07
+- Last updated: 2026-10-08
 
 本表用于回答一个治理问题：**我们过去已经用过哪些案例，它们当时被用来证明什么，现在有没有资格升级为正式 Case？**
 
