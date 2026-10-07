@@ -67,6 +67,21 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 当前中日机制比较入口：
 - [015 — 中国 × 日本：边疆豁免、作者权位置与创作者代际更新](015-japan-comparator-frontier-permeability-author-rights-and-creator-replacement.md)：把“个人主义”进一步拆成 `FRONTIER_EXEMPTION / AGENCY_TAX / REGIME_TAX / PROTOTYPE_RIGHT / SECOND_ATTEMPT_CAPACITY / CREATOR_REPLACEMENT`。当前核心H不是“日本更自由”，而是**日本游戏黄金时代的破格较常发生于企业内部，而中国完整作者权更常通过创业、离职重组和新组织取得**；该差异仍需普通员工与失败队列分母验证。
 
+### 4.2 美国early id：个人主义不是答案，**异端判断的存活成本**才是可比较变量
+
+新增 [040 — early id战略性不忠诚、美国个人主义与Sierra未收购](../../book/research-notes/early-id-strategic-disloyalty-american-individualism-040.md)，并与现有[015日本比较](015-japan-comparator-frontier-permeability-author-rights-and-creator-replacement.md)统一。
+
+当前裁决：
+- 美国WEIRD/autonomy、frontier/rugged individualism与历史职业流动可能降低**离开雇主/权威/既有成功**的社会成本；但没有人物证据表明Romero/Carmack本人以American exceptionalism或“神选美国”解释公司决策。
+- Bellah式American civil religion（Exodus/Chosen People/Promised Land/共和实验）与“旧世界权威可被重新建制”的创业神话存在结构同构，暂为**远端文化H层**，不是early id人物动机。
+- 更接近人物的机制是**shareware/开放PC/直接用户市场**：outside option把“不服权威”转换为可执行exit和真实议价权。Sierra 1992案例显示id不是原则拒绝资本，而是重新定价future upside与decision rights。
+- 日本015进一步修正：日本不需要复制美国式高退出人格，也能通过`FRONTIER_EXEMPTION / PROTOTYPE_RIGHT / FAILURE_SHELTER`等公司内部孔洞，或同人圈等外部生态保护少数判断；同时这些孔洞的普遍性仍不能浪漫化。
+
+因此中国后续优先问：
+> **尚未被证明正确的不同判断，能否在家庭/学校/公司/平台之外找到低成本prototype、内部破格位、第二市场、退出与再入场接口？**
+
+这比“缺个人主义”更可证伪，也与009–015正在建立的decision-right / frontier-permeability矩阵兼容。
+
 ## 4.5 非媒体发现样本｜首个 Public-Attempt Pilot（WIP）
 
 媒体采访/明星 Case 只能支撑具体人生与项目机制，不可推出中美从业者平均行为。新增：
