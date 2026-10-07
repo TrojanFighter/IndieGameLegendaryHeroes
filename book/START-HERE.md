@@ -33,6 +33,8 @@
 - 你能承担多大的 household / runway / exit risk；
 - 你这次应该移动项目、能力、团队、资本，还是承诺本身。
 
+如果你已经确定自己属于某种具体的人生转型处境，还可以进入 [Life Risk Routes](life-routes/README.md)。例如：[LR-001 — 名校 / 大厂高绩效者转作者型独立](life-routes/big-company-veteran-to-author-001.md) 专门研究能力迁移、旧评价函数、家庭与退出约束。
+
 如果你只是想找“**和我能力结构相近的人先看谁**”，再进入：
 
 > **[按主创者能力进入｜你手里已经有什么？](READER-ARCHETYPES.md)**
