@@ -361,6 +361,80 @@ Pocketpair / 溝部拓郎 2024 回顾 Craftopia → Palworld 时明确说：
 
 ---
 
+## 12.5 选择错误：创新制度真正配置的是“错养”与“错杀”的相对成本
+
+2025 年 Sharapov / Dahlander 的《Organization Science》论文给本框架一个直接的实证锚点。研究追踪一个 accelerator 的 **3,580 个申请项目**、三个连续 selection regime，并同时追踪 funded 与 rejected 项目的后续结果，因此能观察两类通常很难同时看到的错误：
+
+### COMMISSION ERROR / FALSE POSITIVE
+> 组织选中了后来失败的项目——“错养”。
+
+### OMISSION ERROR / FALSE NEGATIVE
+> 组织拒绝了后来成功的项目——“错杀”。
+
+研究发现两类错误在不同制度下都持续存在；更值得本项目注意的是，最后一个强调 applicant track record、增加预筛选的 regime 并没有简单变得“更会选”，反而更容易出现 selection errors。在作者追查的 false-negative cases 中，最后阶段一个高频拒绝理由正是 **lack of track record**。
+
+这使“春登”可以进一步从文化语言翻译成 selection architecture：
+
+> **一个高度依赖过去履历、成熟 benchmark 与多层 approval 的制度，可能确实降低某些明显坏点子的存活率，但它同时可能提高尚未拥有旧世界证明材料的新答案被提前处决的概率。**
+
+这里不主张“少审批一定更创新”。Csaszar 2012 基于 Sah–Stiglitz 与 signal detection 的组织设计模型明确说明，不同 decision structures 会在 omission / commission errors 之间形成 trade-off；不存在不付代价、同时消灭两类错误的简单结构。
+
+### INNOVATION ERROR BUDGET / 创新错误预算
+
+H 级概念：
+
+> **组织必须决定自己更愿意承担哪类错误、承担多少，以及在哪个阶段承担。**
+
+追赶 / exploitation 环境中，已有成熟答案很多，错误投入一个明显劣于成熟解的异端方案可能很昂贵，因此抑制 false positive 往往是合理策略。
+
+前沿 / exploration 环境中，答案本身未知，若仍用上一阶段的高门槛证明体系过滤项目，false negative 的机会成本可能上升。
+
+这形成一个待检验的：
+
+### FRONTIER ERROR-SHIFT HYPOTHESIS / 前沿错误重心迁移假说
+
+> **越接近未知前沿，组织越不能只优化“不要投错”，而必须显式管理“不要在现实验证前错杀”。**
+
+这不是说前沿环境应无条件容忍更多浪费；真正需要改变的是**错误发生的阶段和单位成本**。
+
+### PROOF COST / 证明成本
+
+> **一个非共识假说从“有人提出”走到“可被现实裁决的 artifact / prototype / market test”所需的时间、资金、权限与社会许可。**
+
+### HERESY SURVIVAL WINDOW / 异端存活窗
+
+> **在尚未满足 incumbent KPI 之前，一个新假说能获得多长、多大的有限资源，以抵达第一次可信现实验证。**
+
+这把 Permissionless Production / Protected Heresy 与 selection-error 文献接起来：
+
+> 好制度不是“更相信怪人”，而是**把证明怪人到底对不对的成本压低**。
+
+当 proof cost 足够低时，组织可以允许更宽的初始 search portfolio，同时在后续证据恶化时快速停掉项目，从而避免把“容忍探索”误写成“长期养垃圾”。
+
+Klingebiel / Rammer 的创新组合研究与这一方向一致：更宽的早期 project breadth 与更晚阶段的 selectiveness 组合，与更高的新产品销售相关，而且在追求更 novel 产品时这种 breadth-selectiveness 效应更强；他们后续研究也发现，更擅长中止项目的 firms 往往同时运行更多项目、采用分阶段资源配置，并为有效 abandonment 建立制度。
+
+因此，本项目当前更强的制度模型是：
+
+```text
+broad cheap search
+→ low proof cost
+→ protected but bounded survival window
+→ reality arbitration
+→ selective later commitment
+→ cheap kill / resource reallocation
+```
+
+而不是：
+
+```text
+expert identifies genius in advance
+→ organization makes one perfect bet
+```
+
+这也进一步解释为什么“举出一个成功异类”不能回答制度问题：真正要比较的是**提交池、被测试比例、被拒比例、false-negative outcomes、每次 proof 的成本以及成功后资源如何放大**。
+
+---
+
 ## 13. “春登 / 农民发明家”在这里的严格化
 
 ### INCUMBENT EPISTEMOLOGY / 春登
@@ -497,6 +571,31 @@ versus
     https://www.pcgamer.com/games/fps/doom-the-dark-ages-review/  
     用于：streamlining 可能过度的反方压力；只当评论样本，不当总体玩家结论。  
     等级：S1 review / counterevidence。
+
+13. **James G. March**, “Exploration and Exploitation in Organizational Learning”, *Organization Science* 2(1), 1991.  
+    https://pubsonline.informs.org/doi/10.1287/orsc.2.1.71  
+    用于：exploration of new possibilities vs exploitation of old certainties；短期 exploitation 强化可能造成长期自我破坏的经典组织学习框架。  
+    等级：S1 foundational academic.
+
+14. **Dmitry Sharapov & Linus Dahlander**, “Selection Regimes and Selection Errors”, *Organization Science* 36(6), 2025.  
+    https://pubsonline.informs.org/doi/10.1287/orsc.2023.17482  
+    用于：3,580 submissions、false positives / false negatives、三种 selection regimes，以及 track-record-heavy preselection 仍产生更多 selection errors。  
+    等级：S1 academic / mixed-method longitudinal.
+
+15. **Felipe A. Csaszar**, “An Efficient Frontier in Organization Design: Organizational Structure as a Determinant of Exploration and Exploitation”, *Organization Science* 24(4), 2013（2012 online）.  
+    https://pubsonline.informs.org/doi/10.1287/orsc.1120.0784  
+    用于：organization structure 与 omission / commission error trade-off；signal-detection / Sah–Stiglitz 桥梁。  
+    等级：S1 academic.
+
+16. **Ronald Klingebiel & Christian Rammer**, “Resource Allocation Strategy for Innovation Portfolio Management”, *Strategic Management Journal* 35(2), 2014.  
+    https://doi.org/10.1002/smj.2107  
+    用于：较宽 project breadth + 后期 selectiveness 与创新绩效关系，尤其 novel innovation。  
+    等级：S1 academic.
+
+17. **Ronald Klingebiel & Christian Rammer**, “Optionality and Selectiveness in Innovation”, *Academy of Management Discoveries* 7(3), 2021.  
+    https://doi.org/10.5465/amd.2018.0024  
+    用于：selectors 运行更多项目、更广活动、分阶段 allocation、portfolio management 与 abandonment incentives。  
+    等级：S1 academic.
 
 ---
 
