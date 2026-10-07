@@ -30,6 +30,7 @@
 - [Program Map](../PROGRAM-MAP.md)
 - [Industrial Revolutions Comparative Lab](../cross-industry/industrial-revolutions/README.md)
 - [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md) — 按主创能力类型补正例、边界例与压力对照
+- [Family Gate / US-China Creator Formation](research-notes/family-gates-game-creator-us-china-027.md) — 家庭如何在设备、玩、制作、第一笔反馈和职业抉择阶段赋能或否决；以 1980s DOOM 传记与中国代际经验作证据分层对照。
 - [Early id 1980s US Life Decisions](research-notes/early-id-1980s-america-life-decisions-001.md) — 时代机会分布、家庭与学校接入、第一笔付费、公司岗位与个人承担风险；避免把 Softdisk→DOOM 写成两位天才的必然命运。
 - [Masters of Doom Longitudinal Study](research-notes/masters-of-doom-longitudinal-master-study-001.md) — 以 early id / Quake / Ion Storm 作技术窗口、产品闭环与组织治理的跨时期比较；原书作为 S1，另有第一人称/同期复盘。
 - [Capability-Shaped Project Formation / 能力反向立项](research-notes/capability-shaped-project-formation-001.md) — 主创能力向量如何反向塑造项目定义
