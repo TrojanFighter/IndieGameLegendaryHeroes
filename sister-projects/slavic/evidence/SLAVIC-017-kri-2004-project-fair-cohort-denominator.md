@@ -145,6 +145,44 @@ Project Fair是完整的展示/对接母体，不是按公司年龄筛选的“�
 - Eagle Dynamics 1991：https://www.digitalcombatsimulator.com/en/news/newsletters/8eb7cbecd4108168f022270d2eca4374/
 - Absolutist 2000：https://absolutist.com/about-us/
 
+
+
+## 三点二、newcomer capability age：新组织不等于新能力
+
+为了与中国2005网游子集保持同口径，对当前6个“确认新人”继续拆 Capability Age：
+
+| 团队 | 2004新人资格 | 核心成员此前游戏经验 | 判定 |
+|---|---|---|---|
+| Ghost Software | 2001成立 | 当前未找到足够早期核心履历 | UNKNOWN |
+| Digital Spray Studios | 2001成立 | 2004同期采访明确答复：团队所有成员此前都在其他乌克兰公司工作过 | **PRE-EXISTING CONFIRMED** |
+| Sigma Team | 2003成立 | 创始人Michael Murashov后来回忆自己先在一家shareware游戏公司任producer，数年后与同样在游戏公司工作的人组建Sigma | **PRE-EXISTING SUPPORTED (retrospective)** |
+| MindLink Studio | 2003成立 | 2004联合创始人Andrew Beletsky同期称团队虽年轻，但多数成员此前参与过很多乌克兰/俄罗斯游戏 | **PRE-EXISTING CONFIRMED** |
+| Spector Studio | 2001成立 | 当前未找到核心成员此前商业游戏履历 | UNKNOWN |
+| Temporal Games | 2004时少年团队 | 同期《Игромания》明确称全队15—16岁；《Tales of Walenir》为首个/出道项目 | **TRUE NOVICE / YOUTH CONFIRMED** |
+
+来源：
+- Digital Spray同期采访：https://www.sector.sk/clanok/15653/you-are-empty.htm
+- MindLink 2004同期采访：https://www.ggmania.com/full.php3?show=telladar-chronicles-decline-q-amp-a-5672
+- Sigma创始人回顾：https://www.arcadeattack.co.uk/michael-murashov/
+- Sigma官方成立年：https://www.sigma-team.com/
+- Temporal Games同期报道：https://djvu.online/file/NHc7dPBDdXlA2
+- Temporal首作/取消：https://www.gamepressure.com/games/the-tales-of-walenir/ze1823
+
+### 当前只允许的数量描述
+
+在6个确认newcomer中：
+- **2/6** 有同期一手证据明确继承既有游戏业经验（Digital Spray、MindLink）；
+- 若纳入Sigma的多年后创始人回顾，则为 **3/6** 有既有行业经验信号；
+- **1/6** 可明确判为真正少年/首作型新人（Temporal）；
+- **2/6** 仍UNKNOWN（Ghost、Spector）。
+
+由于N=6且KRI本身存在参展筛选，这些比例**不得与中国15/27直接做显著性或总体比例比较**。
+
+真正重要的纠错是：
+> 中国“新公司多为老核心重组”不能与“俄罗斯新人从零成长”构成对照，因为俄方Project Fair新人同样包含明显的老能力重组。
+
+后续需要统一使用 LN / TN / Capability Age / PDN 四时钟。
+
 ### 最重要的反浪漫化
 即使最终比例上升，这个母体已经证明：
 > **KRI Project Fair不是‘参展团队都会成长为20年老兵’的体系；真正的新人子集仍需先筛选后再计算成熟率。淘汰、关闭、项目失败和转型非常普遍。**
