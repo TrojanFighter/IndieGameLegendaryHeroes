@@ -38,7 +38,7 @@
 - [Masters of Doom Longitudinal Study](research-notes/masters-of-doom-longitudinal-master-study-001.md) — 以 early id / Quake / Ion Storm 作技术窗口、产品闭环与组织治理的跨时期比较；原书作为 S1，另有第一人称/同期复盘。
 - [Capability-Shaped Project Formation / 能力反向立项](research-notes/capability-shaped-project-formation-001.md) — 主创能力向量如何反向塑造项目定义
 
-- [Week Sauce Contributor/Credit Graph 034](research-notes/week-sauce-contributor-collaboration-graph-034.md) — 追踪真实署名共同创作者，而不仅是主提交账号；将2024 Jam到2025 Steam产品的可能谱系保留为待核假说。
+- [Week Sauce Contributor/Credit Graph 034](research-notes/week-sauce-contributor-collaboration-graph-034.md) — 追踪真实署名共同创作者，而不仅是主提交账号；2024 Jam→2025 Steam制作谱系已由CASE-063开发者一手证词核实；仍不代表盈利或全员持续合作。
 - [Week Sauce 2022.04 Four-Year Follow-up 033](research-notes/week-sauce-2022-public-creator-followup-033.md) — 十八个主投稿账号2026回访与有日期的后续作品，明确项目／账号／团队／个人差异。
 - [Week Sauce 2022.04 Public Attempt Cohort](research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md) — 18份按公开提交名册完整枚举的游戏/互动作品；发现平台Released标签、作者未完成自述与后续改版可能不一致；不能据此推断职业成功率。
 - [Creator Life Cost / Exit Comparative Note](research-notes/creator-life-cost-exit-comparison-2026-10-07.md) — 在成功和失败对照中分开现金、劳动、机会成本、家庭风险与残值；不打假精确 ROI。

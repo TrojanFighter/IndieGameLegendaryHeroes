@@ -7,6 +7,7 @@
 - Population/unit: **project-submission-linked primary itch account**；**不是**18 位经实名核验、互相独立的自然人；多人制作的原始团队不可由一个提交账号代表
 - No changes: 中国篇、斯拉夫篇、正式 CASE/CLAIM 不动
 - Gate: [028 媒体可见性与分母协议](media-selection-survivorship-and-denominator-protocol-028.md) / [Creator Visibility Sampling Gate](../../schemas/creator-visibility-sampling-gate.md)
+- **经正式 Evidence 核证的后续：** 原型《Don't shake the babies》（GGJ2024）→ 商业版《Shake the Baby!》（Steam2025）的开发者直接证词现见 [CASE-063](../../cases/CASE-063-ivories-ggj-to-steam.md)、[Evidence Ledger](../../evidence/CASE-063-ivories-ggj-to-steam-source-ledger.md)。这改正034当时的‘只是相似’判断，不增加任何个体收入/就业推论。
 
 ## 一、回访首先发现：作者主页与作品页面属于不同观察对象
 
@@ -96,7 +97,7 @@ Lake Monster Games 在 2022 年《Guns N’ Roses》页说明，项目由 Mike �
 - 目前不能证明 2025 年商业产品中的每一个具体工作都由 2022 年三位 jam 作者共同完成；
 - Steam 有售不等于盈利，也不意味着这几个人以游戏为唯一生活来源。
 
-所以这是**商业作品组织相关性线索**，并非一条已完成的“从业余逆袭成工作室”的人生传记。
+**2026-10-07 新证据升级：** 由 Zeyt8 官方 Steam 开发公告与发售期开发成员回顾直接确认，2024 GGJ 原型后来扩展为2025年《Shake the Baby!》，详见 [CASE-063](../../cases/CASE-063-ivories-ggj-to-steam.md)。但2021年已有商业前作，不能写成首次商业创业；团队职位、全职收入、盈利仍未核，是一条**已确立产品谱系、尚未确立人生经济结果**的历史。
 
 ### D. 最可能被错误归类为“消失的人”，如今在做另一种游戏工具
 
