@@ -60,7 +60,7 @@ Romero 的故事并不能只从“他选择了游戏”说起。那位严厉禁�
 
 这里有一个比“是不是够努力”更前置的问题：**你曾被允许反复尝试多少种不同的事，直到其中一件真的产生作品和反馈？**
 
-[家庭如何控制游戏创作者的经验入口和职业出口：中美历史对照与证据边界](../research-notes/family-gates-game-creator-us-china-027.md)。
+[家庭如何控制游戏创作者的经验入口和职业出口：中美历史对照与证据边界](../research-notes/family-gates-game-creator-us-china-029.md)。
 
 ---
 
