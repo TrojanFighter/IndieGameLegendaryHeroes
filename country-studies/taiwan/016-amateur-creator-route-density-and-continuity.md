@@ -451,6 +451,93 @@ GameWorks太新，当前只能确认组织意图与资源整合存在，不能�
 
 ---
 
+# 12.5. 最强的“路网”证据：同一批人真的把社群、国际知识与资本桥接起来
+
+## TW-ROUTE-E12｜林容生：IGDShare → IGDA Taiwan → TGDF → Manapool
+
+TGDF 2017讲者页提供一条罕见的个人—机构连续记录：
+- 林容生自2011年初投入独立游戏相关活动推广；
+- 长期参与IGDShare；
+- 同时担任IGDA Taiwan联系人；
+- 是TGDF共同发起人之一。
+
+Source:
+https://2017.tgdf.tw/speakers/%E6%9E%97%E5%AE%B9%E7%94%9F/
+
+同一页面还记录了更关键的资本桥：
+- 2013 TGDF邀请美国Indie Fund发起人之一来台介绍独立游戏融资模式；
+- 当时台湾团队实际上很难直接成为Indie Fund资助对象；
+- 2015年底Muse Games创办人曹之昊提出在台湾寻找类似投资标的；
+- 数月接洽后形成“Manapool 法力池”；
+- 该模式随后与赤烛《返校》发生实际合作。
+
+这构成一条罕见的可验证路径：
+
+foreign indie-finance idea
+→ TGDF local knowledge import
+→ community connector
+→ local investor relationship
+→ Taiwan-specific funding vehicle
+→ local indie production.
+
+它直接支持：
+**BRIDGE_OVERLAP并非只是活动同时存在，而可能由同一批中介者把不同资源层连起来。**
+
+这也是台湾小型生态的潜在优势之一：
+一个活跃社群组织者可能同时知道开发者、海外经验、会议、publisher/investor，从而降低“我知道有这条路，但不知道找谁”的中介成本。
+
+边界：
+- Manapool/《返校》是成功且媒体可见案例，不能据此推断多数台湾indie能获得投资；
+- 这里证明的是“桥可以被走通”和机构之间真实连接，不是资本可得率。
+
+---
+
+# 12.7. 学生路线也不是只靠大学课程：2014已有跨校学生社群
+
+TGDF 2017合作伙伴资料记录“学生游戏梦”：
+- 2014由学生创立；
+- 最初从校内免费授课发展；
+- 后来建立线上互动社群；
+- 举办Student Game Jam与Student Game Elite Conference；
+- 明确目标是推动学生之间游戏开发技术交流，并让独立开发者成长。
+
+Source:
+https://2017.tgdf.tw/partners/
+
+这补上016此前较弱的一层：
+
+SCHOOL COURSE
+并不是学生唯一入口；
+
+还存在：
+STUDENT PEER COMMUNITY
+→ STUDENT JAM
+→ CROSS-SCHOOL SHARING
+→ PROFESSIONAL COMMUNITY / TGDF.
+
+因此“学生毕业前就能想象作者路线”不只来自学校制度，也可能来自跨校同龄人网络。
+
+---
+
+# 12.8. 地理集中依然成立，但Game Jam至少出现北中南冗余
+
+IGDShare 2026 Faust Game Jam公告显示：
+- 台北、台中、台南三会场同步串联；
+- 公开邀请各地开发者参加。
+
+Source:
+https://igda.tw/
+
+这不能否定台湾主要专业活动高度集中于台北。
+
+但它说明至少在低门槛prototype层：
+**ROUTE_REDUNDANCY并非完全等于TAIPEI_ONLY。**
+
+后续应分别编码：
+- Taipei-only professional routes；
+- multi-city jam/community routes；
+- online routes。
+
 # 13. 台湾路网不是“一个漏斗”，而是多个可进入、可回退的层
 
 当前可观察结构：
