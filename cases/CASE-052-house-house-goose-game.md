@@ -365,3 +365,20 @@ House House 的故事不是：
 8. how much Goose retained earnings financed Big Walk；
 9. current House House ownership / governance；
 10. whether Big Walk changed the team's capability topology through online multiplayer production.
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL / TEAM-LEVEL
+- **Life stage:** friends/outsider creative practitioners first formed through side projects, then moved from Push Me Pull You into Untitled Goose Game and later retained-earnings stage.
+- **Household:** individual relationship / children / housing / family support `UNKNOWN`。
+- **Runway:** side-project collaboration → Film Victoria development support → completion support / local hiring → Panic publisher budget/periphery → Goose hit → retained earnings enabling Big Walk risk tolerance.
+- **Household burn:** `UNKNOWN`；public grant and publisher support clearly absorb project costs, but personal household exposure is not yet documented.
+- **Exit / recovery:** **MEDIUM→HIGH ORGANIZATIONAL OPTIONALITY** — prior cross-media skills and later hit revenue provide fallback/choice; exact personal reemployment path unknown.
+- **Capability vector:** film/fine-art/graphic/creative practice、visual comedy/staging、interaction design；missing audio/accessibility/platform/business capabilities bought through grant/publisher/specialists.
+- **Problem ownership:** **HIGH** — goose thesis and comic interaction came from group taste; external support expanded capability rather than supplying the core idea.
+- **Validation architecture:** side-project team → goose prototype / funny-situation testing → grant-supported refinement → publisher interface → launch → hit → retained-earnings next-project buffer.
+- **Reality adjudication:** **STRONG** — funding was staged around development/completion evidence; publisher expanded perimeter only after a legible thesis existed.
+- **Capability capture risk:** **LOW / POSITIVE OUTSIDER FIT** — outsider creative skills became product/marketing language rather than being forced into standard AAA grammar.
+- **Market sufficiency / legibility:** **STRONG** — goose action is instantly readable in trailer/GIF form; visual market coherence is tightly coupled to core mechanic.
+- **Capability scaling:** **GRANT-FINANCED CAPABILITY EXPANSION + PUBLISHER PERIPHERY → RETAINED EARNINGS OPTIONALITY**。
+- **Major unknowns:** exact grant amounts、Panic contract/IP/recoup、individual household、Big Walk burn、how much hit revenue remains as current runway。
