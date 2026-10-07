@@ -161,6 +161,7 @@ DOOM 绝不是“两个 John 做完一切”。同期资料显示：
 - **CAPABILITY-CREATED-WINDOW / Endogenous Window**：Carmack 推进图形/引擎可行域，Romero、Hall、Adrian、Petersen 等将技术变成可玩空间和 content grammar；非两位 John 独立完成的单线史。
 - **Created-window 是机会来源维度，不是新的互斥立项标签**：可与 CAPABILITY-COMPOSED、CAPABILITY-SHAPED 同时成立。
 - **Quake 反向成本**：技术能力仍增长，但先行关卡/资产不能充分发挥不断变化的引擎，人员协作、设计方向与组织成本升高。Quake 是产品成功、治理/开发代价高的混合结果，不可倒写成失败游戏。
+- **后续组织压力测试**：early id 本 Case 的证据边界仍止于早期阶段；成熟 id 的 Rage / Doom 4 / DOOM 2016 不并入本 Case 的 canonical facts，而转由 [043](../book/research-notes/doom-organizational-aging-rejuvenation-043.md) 研究“benchmark capture → problem sovereignty → reality arbitration”的组织复兴问题。
 - **Ion Storm 对照**：Daikatana 发生显著引擎迁移成本；同公司 Austin 的 Deus Ex 最终成功，同时留下设计双负责人和 Dallas→Austin 异地矩阵管理失误的同期复盘（E018）。不把个人优劣当成组织的完整因果解释。
 - **暂不扩编 Case 数量**：后期 Ion Storm 的融资/控制权仍缺合同级证据，作为 CASE-016 的纵向 comparator 而非已定论的新 Case。
 - **Temporal boundary**：1990s shareware、DOS/NeXT 与当时图形 frontier 为 HISTORICAL；互补能力、项目边界、研发收束与决策权是可供 2026 再验证的 DURABLE 分析问题。

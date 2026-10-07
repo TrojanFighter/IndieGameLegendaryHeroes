@@ -325,6 +325,7 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 ## 横向研究入口 — 谁有资格告诉强作者“你错了”？
 
 - [042 — Carmack × Romero：互补能力如何变成高频纠错网络](research-notes/carmack-romero-complementary-error-correction-network-042.md)：Dangerous Dave技术突破的战略解释、Wolf3D push-wall争执、Doom design↔engine翻译、Quake纠错延迟，以及Tom Hall/市场作为第三方反压力。
+- [043 — 从答案追赶到问题主权：DOOM 组织老化、后发化与再年轻](research-notes/doom-organizational-aging-rejuvenation-043.md)：把 Quake→Rage→Doom 4→DOOM 2016 作为创新组织生命周期；新增 benchmark capture、problem sovereignty、reality arbitration、sunk-cost kill capacity、protected heresy 与 invariant recomposition，并以 Eternal / The Dark Ages 作下一轮压力测试。
 - [CASE-056 Playdead founder governance](../cases/CASE-056-playdead-founder-governance.md)：能力组合与产品成功不能替代长期共同创始治理。
 
 这一横向问题服务多个Part：找合伙人不是补技能岗位，而是决定谁能改变你的判断、错误多久暴露、组合拆开后什么能力会消失。
