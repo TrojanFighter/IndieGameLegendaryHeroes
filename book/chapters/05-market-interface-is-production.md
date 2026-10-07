@@ -278,6 +278,34 @@ Brigador 是必要反例。
 
 ---
 
+## 一款 2024 年的小型 Jam 游戏，真的变成了 2025 年的商业产品
+
+2024 年 Global Game Jam 上，一支成员分散在不同国家的小团队做了件多少有点荒谬的事：他们设计一种需要被捡起、组合、摇晃、然后投向敌人的特殊武器。系统里的不同效果可以叠加。Jam 版本叫《Don't shake the babies》，作者署名只有几个平时一起做项目的账号。
+
+这个点子并不是他们突然拥有的商业计划。Ivories Studios 此前已经在 Steam 发行过《The Handbook》，此后还想过续作，也试过一些没有继续推进的项目。
+
+在 2024 年 12 月的开发者公告里，Zeyt8 回忆，他们从参加 Global Game Jam 的原型里看见了新方向。
+
+到了 2025 年 3 月正式发行《Shake the Baby!》时，团队成员又补上了一段生产细节：**Jam 做完后，他们没有只在自己的群聊里反复称赞这个主意，而是把可玩的版本带到本地独立开发者聚会。** 参加聚会的人觉得应该把它做成完整游戏。
+
+于是他们承担了随后约一年的制作工作：把可以玩几分钟的原型变成一部有不同关卡、可叠加的武器效果、战斗节奏和速通排行榜的第一人称射击游戏。
+
+2025 年 3 月 27 日，游戏正式在 Steam 发售。
+
+这不是我们从两张相似截图推测出来的“可能有原型继承”。团队既在[2024 年末的正式开发公告](https://steamraw.com/app/1637520/the-handbook/)中提过 GGJ 的起点，也在[发售周的本人说明](https://www.reddit.com/r/Games/comments/1jnjxt1/shake_the_baby_ivories_studios_old_school_first/)中讲过试玩、反馈与继续制作的过程。
+
+但还有一个不能省掉的结尾：截至 2026 年 10 月，Steam 公共页面仍只有少量用户评论。没有公开的全年工时、支出、净销量或分成数据，我们**不能断言这一年开发已经回本**。
+
+Jam 原型被当地同行喜欢，证明了一种可玩的趣味与继续投入的理由。
+
+后来的 Steam 发售，证明团队完成了扩充与交付。
+
+**这两个成果仍然不能替市场完成第三次回答：有没有足够多的人愿意付钱，来养活制作它的人？**
+
+这段生产史的原始游戏页、开发者证词、历史窗口和财务 UNKNOWN，见[Ivories Studios 一年制作轨迹](../research-notes/ivories-studios-ggj-to-steam-036.md)。它不同于 Minecraft 那种“玩家已经提前付钱”的模型：当地聚会提供的是早期产品判断，不是资金承诺。
+
+---
+
 ## 六、产品很好，也可能在“第一分钟怎么被理解”这里失败
 
 Brigador 的 Steam 评价和媒体口碑证明，至少有一群真正进入产品的人很喜欢它。
@@ -501,6 +529,7 @@ Brigador：
 | Factorio 众筹 → 官网 paid alpha / direct sales | 2012–2015 | Indiegogo、官网支付、YouTube/论坛、Steam 尚非第一入口 | HISTORICAL / CONDITIONAL | 让市场接口同时承担验证与融资；支付/平台实现不可照抄 |
 | Bills Must Be Paid demo / creator / Next Fest 路径 | 2026 | 当代 Steam demo、creator、browser portals、Next Fest 等 | CURRENT — Verified 2026-10 | 允许外部信号改变 launch plan；不能把某个 surface 的结果当固定算法公式 |
 | Brigador EA / convention / PR / creator outreach 仍未解决 launch | 2015–2017 | 当时 Steam/媒体/展会环境 | DURABLE mechanism / HISTORICAL tactics | reach ≠ legibility；市场活动数量不等于正确市场接口 |
+| Ivories Studios：GGJ prototype → meetup → Steam shipping | 2024–2025 | 有2021商业前作的跨国小团队、GGJ、本地 indie meetup、Steam | CURRENT HISTORY / CONDITIONAL transfer | early peer feedback can justify prototype expansion; finishing a product is not proof of recoup or market size |
 
 完整规则见 [Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
 
@@ -513,6 +542,7 @@ Brigador：
 - [Factorio](../../cases/CASE-035-factorio-wube.md)
 - [Bills Must Be Paid](../profiles/bills-must-be-paid.md)
 - [Brigador](../../cases/CASE-026-brigador.md)
+- [Ivories Studios / 2024 GGJ → 2025 Steam 生产史](../research-notes/ivories-studios-ggj-to-steam-036.md)
 
 研究命题：
 - [C010 — 市场接入是生产系统的一部分](../../claims/README.md)
