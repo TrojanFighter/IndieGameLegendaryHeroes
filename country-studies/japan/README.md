@@ -14,7 +14,9 @@
 2. **ie / adoption / corporate household**：日本历史组织如何在强家制度下容纳非血缘人才。
 3. **商业游戏的作者角色制度史**：director / producer / small-team prototype / internal greenlight。
 4. **doujin作为绿灯外基础设施**：Comiket、同人店、PC、自出版。
-5. **BOUNDED_ECCENTRICITY**：社会整体不必高度个人主义，只要给怪人提供合法角色与市场，仍可能大量生产作者性。
-6. **失败与衰退反例**：日本大厂保守化、HD成本、移动转型与Galápagos问题，防止浪漫化。
+5. **BOUNDED_ECCENTRICITY，但不浪漫化**：合法怪人生态位并不等于社会普遍宽容异类；继续区分 `FRONTIER_EXEMPTION`、`PATRON_GATED_PERMEABILITY`、`SENIORITY_TAX` 与非正式先辈权力。
+6. **作者代际更新**：不只数宫本茂 / 铃木裕等成功大师，还要追 `CREATOR_REPLACEMENT`——成功一代掌权后，新人还能否取得同等级problem ownership。
+7. **失败与衰退反例**：日本大厂保守化、HD成本、移动转型与Galápagos问题，防止浪漫化。
+8. **中国对照**：见 [中国015：边疆豁免、作者权位置与创作者代际更新](../china/015-japan-comparator-frontier-permeability-author-rights-and-creator-replacement.md)。
 
 本区与中国研究共享 evidence gate，但不把日本案例直接外推为中国政策建议。
