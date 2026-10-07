@@ -577,6 +577,35 @@ Canonical:
 
 ---
 
+## 11G. Mobility / Spinout Topology
+
+当人物从大厂离职、创业、重组团队，或案例涉及竞业/挖角/前同事网络时，额外记录：
+
+- `effective_mobility_friction`: low / medium / high / unknown；
+- `noncompete_or_restrictions`；
+- `mobility_to_ownership_conversion`: 跳槽是否转成founder/equity/IP；
+- `spinout_conversion_rate_context`；
+- `alumni_network_capital`；
+- `left_with_team`；
+- `parent_behavior`: hostile / neutral / supportive / investor / first-client；
+- `first_funding_after_exit`；
+- `first_contract_after_exit`；
+- `spinout_legitimation_effect`；
+- `second_generation_spinout`；
+- `knowledge_protection_vs_general_skill_boundary`。
+
+强制区分：
+- job hopping ≠ entrepreneurship；
+- entrepreneurship ≠ creator ownership；
+- noncompete law ≠ effective mobility by itself；
+- case existence ≠ high spinout rate；
+- parent hostility/support must be evidenced, not inferred.
+
+Canonical:
+- [China 024 — Creator Mobility & Spinout Topology](../country-studies/china/024-creator-mobility-spinout-topology-noncompete.md)
+
+---
+
 ## 12. Capability Scaling
 
 当核心成立后，创作者是否能把它做成稳定产品：
@@ -674,6 +703,7 @@ Canonical:
 - Attribution politics / credit regime: # when relevant
 - Creative surplus allocation / future capture: # when relevant
 - Creator-class formation / ecosystem externality: # when relevant
+- Mobility / spinout topology: # when relevant
 - Capability scaling:
 - Major unknowns:
 ```

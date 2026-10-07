@@ -682,3 +682,31 @@ AI降低生产成本后，稀缺支持更可能转向：
 ## 18. 当前最小结论
 
 > **一个创新社会不能只生产孤立的作者英雄，还需要让作者成功后的Creative Surplus产生跨代外部性。Double Fine、Coffee Stain、Chucklefish、Team17、Valve、Kepler分别展示了publisher、受众借出、开发者转发行、机构化greenlight、modder职业化和creator co-owned capital等不同机制；中国椰岛/IndieACE则证明本土也存在creator-to-infrastructure路径。但这些个案只证明机制存在，不证明数量级。判断“创作者阶层”是否真正形成，必须看成功者中有多少把Future Capture进一步转成Future Transfer，受益者是否获得Second Attempt，以及第二代是否继续扶持第三代。**
+
+
+## 19. Creator Class需要种子离开母树
+
+023强调Future Transfer，但如果核心人才无法离开、重组、创业，创作者阶层仍可能被锁在少数incumbent内部。
+
+因此所有Forest Test继续进入 [024](024-creator-mobility-spinout-topology-noncompete.md)，至少追：
+
+- `effective_mobility_friction`；
+- `mobility_to_ownership_conversion`；
+- `spinout_conversion_rate`；
+- `alumni_network_capital`；
+- parent对spinout是诉讼、容忍、投资还是第一单支持；
+- second-generation spinout。
+
+关键边界：
+
+> **高跳槽率 ≠ 高creator-class reproduction。**
+
+如果流动主要是：
+```text
+big firm → big firm
+```
+而不是：
+```text
+experienced creator → creator-owned organization
+```
+则产业可以非常流动，却仍然缺少新的产权节点。
