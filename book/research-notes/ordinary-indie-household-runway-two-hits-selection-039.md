@@ -32,7 +32,7 @@
 **P1回顾性第一人称：** Khai Simon，`Devlog#18: Developing games is our dream, but Mom is the reason we never gave up`，Medium **2025-07-04**（文章页署名与当前时间戳；部分搜索结果/转载可能出现7月8日，优先原站作者页可见时间），https://medium.com/@sogastudio.us/devlog-18-developing-games-is-our-dream-but-mom-is-the-reason-we-never-gave-up-3d024acac7fb 。
 
 **时间线必须拆成两次游戏：**
-- 2024-03-06两人制作的越南恐怖游戏《Taken Soul | Đoạt Mệnh》先发售。作者2025年回忆说投入接近全部储蓄，遭玩家严厉批评、销量差，心态崩溃；Steam原始发售记录标为2024-03-06，开发主体SOGA Std。Steam：https://store.steampowered.com/app/2185010/Taken_Soul/
+- 2024-03-06两人制作的越南恐怖游戏《Taken Soul | Đoạt Mệnh》先发售。作者2025年回忆说投入接近全部储蓄，遭玩家严厉批评、销量差，心态崩溃；Steam原始发售记录标为2024-03-06，开发主体SOGA Std。Steam：https://store.steampowered.com/app/2633540/Taken_Soul__Doat_Menh/
 - 首作挫折之后，他曾询问母亲应该放弃还是继续，称母亲虽不理解他制作游戏的具体工作，却鼓励他继续做喜欢的事情。**支持发生在第二作商业成绩出现之前**，但这句话只有2025年其本人追忆，**没有当时的采访、家属录音或独立母亲版本**；也不等于母亲直接支付制作资金。
 - 第二作《Cabin Crew Life Simulator》在**2025-02-19**进入Steam **Early Access**，不是完成1.0。作者说这是与妻子二人共同开发：他写代码和集成发行，她负责美术、对话、社区回复、玩家关系，夫妻共同策划/开发；第二作的启动预算主要来自婚礼礼金，**不是第一作已卖出充分利润，也不等于母亲投资**。当时刚刚摆脱第一作的现金困境。
 - 作者在2025-07稿称累计售出**超过15,000份**，第1天`US$10,000`、第1周`US$59,000`、第1月`US$105,000`，但未说明是税前毛销售还是扣平台佣金和退款后的结算到手，也不是独立审计收入/净利润。Steam可用于确证2025-02-19 EA状态，不能用平台评价数自行推出精确销量。
@@ -81,6 +81,6 @@ Thomas Henshell，`My Wife Wants Me To Make Video Games`，原拟作为“妻子
 - Giguère本人，2018-03-13 `Year 1: My full time indie developer life`，P0当期年度第一人称成本报表 / 自我归因，https://www.gamedeveloper.com/business/year-1-my-full-time-indie-developer-life
 - Giguère本人，2021-02-23 `Year 4: My full time indie developer life`，P1针对2020年份回顾，https://www.gamedeveloper.com/business/year-4-my-full-time-indie-developer-life
 - Khai Simon本人，2025-07-04 `Devlog#18:Developing games is our dream, but Mom is the reason we never gave up`，P1对2024家人/项目经历的成功后追忆、悼文和部分2025当期开发事实，https://medium.com/@sogastudio.us/devlog-18-developing-games-is-our-dream-but-mom-is-the-reason-we-never-gave-up-3d024acac7fb
-- Valve Steam `Taken Soul` P0商店版本/年月 https://store.steampowered.com/app/2185010/Taken_Soul/
+- Valve Steam `Taken Soul` P0商店版本/年月 https://store.steampowered.com/app/2633540/Taken_Soul__Doat_Menh/
 - Valve Steam `Cabin Crew Life Simulator` P0发行EA状态 https://store.steampowered.com/app/2959610/Cabin_Crew_Life_Simulator/
 - Thomas Henshell本人，`My Wife Wants Me To Make Video Games`，旧博客具体发布日期、家务描述和作者观点本轮未核实，UNVERIFIED，只作未来线索，https://thomashenshell.com/my-wife-wants-me-to-make-video-games/
