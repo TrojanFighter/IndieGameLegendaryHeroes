@@ -446,3 +446,20 @@ Limit Theory 的危险恰好相反：
 6. 核 mental-health hiatus 与 architecture reset 的时序，防止把两条因果错误合并。
 7. 审 Kickstarter backer feedback：community 是否奖励 technical spectacle，形成外部 reinforcement loop？
 8. 找一个“技术同样深，但因为 stop condition 清晰而成功”的独立对照，优先考虑 Factorio / early id / Zachtronics，而不是只在失败者内部论证。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** Stanford CS / graphics 学生转全职 founder；Kickstarter 成功后离开 Stanford，六年长期投入。
+- **Household:** relationship / children / housing / family transfers `UNKNOWN`。
+- **Runway:** 2012 Kickstarter $187,865 pledged + personal resources；取消时作者称投入已超过 initial funding 并耗尽大部分 personal savings；2017 后低预算团队加入。
+- **Household burn:** `UNKNOWN`；作者明确记录 financial + mental/emotional stamina 均成为终止条件。
+- **Exit / recovery:** `UNKNOWN` — 高工程能力可推测职业可迁移，但本项目禁止用职业标签代替真实再就业条件。
+- **Capability vector:** real-time rendering / engine / procedural generation / system architecture / performance engineering 极强；game content / closure 相对落后。
+- **Problem ownership:** **HIGH** — founder 对 thesis、技术栈和 scope 拥有极高控制。
+- **Validation architecture:** Kickstarter vision/prototype → long-running devlogs/community → 2013 prototype → 2018 PAX technical demo → cancellation。
+- **Reality adjudication:** **WEAK / MISALIGNED** — 外部反馈长期奖励技术进展和愿景，但没有足够早地迫使 feature completion / complete game loop 收敛。
+- **Capability capture risk:** **HIGH** — 本案核心；engine/graphics/procedural frontier 持续吸收资源，局部成功与 shipped-game progress 脱钩。
+- **Market sufficiency / legibility:** **STRONG interest / NOT REACHED as product** — Kickstarter 与社区证明愿景吸引力，但最终没有完成产品，不能把预售式兴趣当最终 market fit。
+- **Capability scaling:** late team expansion 未能弥补长期 product-closure debt；engine asset 成熟度高于 game code。
+- **Major unknowns:** household economics、年度 burn、团队 compensation、取消后的职业回撤。

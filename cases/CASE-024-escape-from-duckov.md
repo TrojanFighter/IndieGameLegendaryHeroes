@@ -340,3 +340,20 @@ Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持�
 7. Steam Workshop 的 mods 对销量、留存和长尾到底贡献多少？当前只能确认团队从一开始把 modding 当成产品能力。
 8. 作为 Bilibili 内部小团队，前两次失败到 Duckov 成功之间的立项治理、失败容忍与内部复盘机制是什么？
 9. Bilibili 自有流量、BW/站内内容、外部主播、Steam discovery 与海外自然传播各自对 wishlist 和销量的贡献是多少？当前没有可靠 attribution 数据。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL / ORGANIZATION-LEVEL
+- **Life stage:** Jeff / Team Soda 的完整年龄、婚育与 household 阶段 `UNKNOWN`；成员已有 4–6 年共同开发与多款前作经验。
+- **Household:** `UNKNOWN`；本案核心 runway 由 Bilibili 雇佣体系提供，不能用公司工资替代个人家庭审计。
+- **Runway:** Bilibili employer salary + corporate production / publishing perimeter；Duckov 核心 R&D 约五人，但发行、本地化、市场与商务外围由公司承担。
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** `UNKNOWN`；公司内部雇佣降低 founder 个人现金风险，但离开公司后的个人回撤能力未核。
+- **Capability vector:** 长期磨合 shooter team；program/design + art 多职能；前作积累射击手感、工具与小组协作；Jeff 兼 production / programming / technical art。
+- **Problem ownership:** **HIGH at product level / LOW capital independence** — 团队有较强产品自主，但工资、IP、publisher 与 market perimeter 处于 Bilibili 公司体系。
+- **Validation architecture:** Snake Force / Soda Crisis 前作 → mobile attempt failure → PC/mobile contraction → single-player extraction thesis → wishlist ~450k → launch → right-tail sales。
+- **Reality adjudication:** **STRONG** — 前作商业表现、移动方向失败、多人/双平台成本判断都进入下一作 scope；但公司内部 kill/greenlight 机制仍不透明。
+- **Capability capture risk:** **LOW / POSITIVE FIT** — 团队保留擅长的射击/卡通/工具，把风险集中到 extraction loop；没有证据显示最强能力吸走 product closure。
+- **Market sufficiency / legibility:** **STRONG** — “单机轻量 extraction + 鸭子视觉”可读性高，launch 前 wishlist 已形成显著需求；Bilibili perimeter 是不可忽略的 market-access 条件。
+- **Capability scaling:** strong through 5-person R&D core + corporate publisher/localization/market periphery；不等同 external indie scaling。
+- **Major unknowns:** founders household economics、内部预算、利润/IP安排、Bilibili market contribution、personal exit options。

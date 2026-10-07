@@ -116,3 +116,20 @@ UNKNOWN：生活支持、资金、工具、人才与市场条件的可复制边�
 3. 五个月技术验证、一个月美术验证的原始采访在哪里？
 4. 周讯在帕斯亚的岗位和年限如何核验？
 5. Gamera / Gamirror 的名称沿革、合作时间、具体劳动与融资控制权是什么？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PENDING
+- **Life stage:** `UNKNOWN`
+- **Household:** `UNKNOWN`
+- **Runway:** `UNKNOWN`；当前仅有 Steam developer / publisher 身份，不能据未核线索补创业现金流。
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** `UNKNOWN`
+- **Capability vector:** `UNKNOWN`；职业前史、核心人数与早期 prototype 仍需 source recovery。
+- **Problem ownership:** `UNKNOWN`
+- **Validation architecture:** `UNKNOWN`
+- **Reality adjudication:** `UNKNOWN`
+- **Capability capture risk:** `UNKNOWN`
+- **Market sufficiency / legibility:** `UNKNOWN`
+- **Capability scaling:** `UNKNOWN`
+- **Major unknowns:** 该 Case 当前仍为 SKELETON，尚不能用于“辞职 / runway / household /人生风险”横向比较。

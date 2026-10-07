@@ -82,3 +82,20 @@ Barone 2019 官方澄清是重要边界证据：
 3. 早期社区反馈对产品 scope/重做有多大影响？
 4. 发售前 publisher 商业/营销支持具体投入和合同结构？
 5. “四年/4.5年”不同口径对应何种开工定义？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL
+- **Life stage:** 2011 CS 毕业后的 early-career 阶段；与女友共同生活。
+- **Household:** partnered / cohabiting；开发期是否有子女、住房结构与家庭转移支付当前未建立。
+- **Runway:** 本人影院兼职 + 女友研究生 stipend / 校内收入；4–4.5 年 pre-launch 开发；后期 Chucklefish 承担商业/发行外围。
+- **Household burn:** 金额、房租、医疗、家庭支出均 `UNKNOWN`；但伴侣收入明确属于项目得以持续的生产条件。
+- **Exit / recovery:** `UNKNOWN` — CS 学位与最初求职目标存在，但四年开发后的真实再就业条件未闭环。
+- **Capability vector:** 起步时 programming / C# 仍在学习；项目内逐步形成 programming、pixel art、music/audio、design、content production 的 generalist capability。
+- **Problem ownership:** **HIGH** — pre-launch core design / code / art / audio 由 Barone 主导。
+- **Validation architecture:** personal project → Greenlight / public community → publisher discovery/support → launch → post-launch expansion。
+- **Reality adjudication:** **PARTIAL** — 大量反复重做证明内部模型持续更新；社区具体改变哪些系统仍待核。
+- **Capability capture risk:** **UNKNOWN** — 极长周期与大规模返工存在，但没有足够证据把它归因于某一最强能力。
+- **Market sufficiency / legibility:** **PARTIAL→STRONG** — Harvest Moon-like reference 提供可读入口，Greenlight / community 提供 pre-launch signal；精确 early-demand chronology 仍需补。
+- **Capability scaling:** pre-launch solo core；business / marketing / localization / ports / multiplayer 后续由 publisher / collaborators 扩 capability perimeter。
+- **Major unknowns:** household 月 burn、伴侣收入比例、住房、医疗、完整 Greenlight→publisher 时间线。

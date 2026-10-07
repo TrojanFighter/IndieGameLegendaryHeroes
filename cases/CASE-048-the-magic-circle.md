@@ -280,3 +280,20 @@ The Magic Circle：
 5. Early Access 到 1.0 的 sales curve；
 6. 2016 之后 lifetime sales / break-even；
 7. 如果当时做更清晰 genre 的 debut，Question 自己认为会牺牲什么？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** 三位核心均为成熟 AAA / immersive-sim 老兵，属于高职业资本转作者型创业。
+- **Household:** relationship / children / housing / household burn `UNKNOWN`。
+- **Runway:** self-funded core；Shin 早期兼有外部 contract，后停止外部合同转全职；完整预算未知。
+- **Household burn:** `UNKNOWN`；no marketing budget 可确认是市场约束之一，但不能替代生活成本审计。
+- **Exit / recovery:** **MEDIUM EXIT OPTIONALITY** — 三人拥有较强 AAA 职业资本，且至少 Shin 曾保持外部 contract；但 studio 失败后的具体回撤条件未知。
+- **Capability vector:** systemic design / narrative / directing + VFX / narrative art + AI / gameplay programming；三人能力互补且与产品 thesis 高度耦合。
+- **Problem ownership:** **HIGH** — 明确拒绝旧 AAA process-heavy approval 文化，核心团队直接控制题材和 mechanic。
+- **Validation architecture:** internal prototype → Early Access / public QA → reviews / previews / IGF → launch sales。
+- **Reality adjudication:** **PARTIAL→STRONG post hoc** — EA 提供真实玩家面，但团队仍高估“好游戏会自然被发现”；launch 后明确修正对 marketing/category 的判断。
+- **Capability capture risk:** **LOW / NOT PRIMARY** — failure 更接近 market legibility / audience sufficiency，而不是 specialist frontier 吸走 closure。
+- **Market sufficiency / legibility:** **WEAK** — creator 自己指出 genre 不清、meta satire niche-within-niche、零 marketing budget；约 16.5k copies 的阶段性销量不足以维持 Question。
+- **Capability scaling:** 产品完成并上市，但 commercial organization 未能靠首作销售形成可持续规模；后续 studio 轨迹需另案看。
+- **Major unknowns:** household economics、audited budget、marketing labor、long-tail lifetime sales。

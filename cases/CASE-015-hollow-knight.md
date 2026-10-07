@@ -73,3 +73,20 @@ Kickstarter 后团队迁移到 Unity，并使用 PlayMaker 等工具加速敌人
 3. 外部 QA、移植、本地化、平台支持的完整 contributor map？
 4. 阿德莱德成本优势应如何与同期悉尼/墨尔本/美国案例比较？
 5. 哪些 stretch goals 实际增加了延期和后续义务？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** 已有职业能力的成人小团队；成员处于不同 household 条件。
+- **Household:** Gibson 有此前动画业务储蓄；Pellen 的伴侣全职工作；后续核心程序员的伴侣也有全职工作；Adelaide 较低生活成本被团队明确视为 runway 条件。住房、子女、家庭 burn 仍不完整。
+- **Runway:** personal savings + partner incomes + Kickstarter AU$57,138 + later Indie Fund；Kickstarter 不能视为完整预算。
+- **Household burn:** 精确金额 `UNKNOWN`；已确认 household income 与地区成本实质延长 runway。
+- **Exit / recovery:** `UNKNOWN` — 成员有动画 / web 等职业前史，但项目失败时的实际回撤能力未充分核。
+- **Capability vector:** Gibson animation / visual；Pellen web/game making；第三核心 programmer；Chris Larkin 等 specialist periphery；Unity / PlayMaker 降低 implementation burden。
+- **Problem ownership:** **HIGH** — core team 直接掌握 product direction。
+- **Validation architecture:** game jam → Hungry Knight / early concept → Kickstarter / backers → production → additional financing → launch。
+- **Reality adjudication:** **PARTIAL** — game-jam / crowdfunding 提供外部信号，但哪些设计因玩家反馈被杀掉仍需补证。
+- **Capability capture risk:** **MEDIUM / UNKNOWN** — scope 明显扩张且作品最终成立；当前不能把扩张归因于某一强项捕获。
+- **Market sufficiency / legibility:** **STRONG** — prototype、visual identity、Kickstarter 与后续市场 signal 较清楚。
+- **Capability scaling:** strong — 小核心 + tools + specialist contributors + external financing 共同承担超出最初小团队的 scope。
+- **Major unknowns:** household burn、完整 contributor perimeter、Indie Fund 金额与阶段、伴侣收入在总 runway 中的比例。

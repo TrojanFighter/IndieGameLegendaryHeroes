@@ -1,0 +1,410 @@
+{
+  "version": 1,
+  "last_updated": "2026-10-07",
+  "purpose": "Coverage-only index for schemas/creator-life-decision-audit.md. No household or personal facts are duplicated here.",
+  "statuses": [
+    "pending",
+    "partial",
+    "substantial",
+    "complete"
+  ],
+  "scopes": [
+    "individual",
+    "organization_level",
+    "pending"
+  ],
+  "cases": [
+    {
+      "case_id": "CASE-001",
+      "file": "cases/CASE-001-ftl.md",
+      "audit_status": "partial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-002",
+      "file": "cases/CASE-002-rocket-league.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-003",
+      "file": "cases/CASE-003-papers-please.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-004",
+      "file": "cases/CASE-004-stardew-valley.md",
+      "audit_status": "partial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-005",
+      "file": "cases/CASE-005-dwarf-fortress.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-006",
+      "file": "cases/CASE-006-repo.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-007",
+      "file": "cases/CASE-007-gunpoint.md",
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-008",
+      "file": "cases/CASE-008-dream-quest.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-009",
+      "file": "cases/CASE-009-project-wingman.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-010",
+      "file": "cases/CASE-010-undertale.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-011",
+      "file": "cases/CASE-011-lethal-company.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-012",
+      "file": "cases/CASE-012-kenshi.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-013",
+      "file": "cases/CASE-013-rise-of-the-white-sun.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-014",
+      "file": "cases/CASE-014-minecraft.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-015",
+      "file": "cases/CASE-015-hollow-knight.md",
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-016",
+      "file": "cases/CASE-016-early-id-software.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-017",
+      "file": "cases/CASE-017-among-us.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-018",
+      "file": "cases/CASE-018-rollercoaster-tycoon.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-019",
+      "file": "cases/CASE-019-schedule-i.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-020",
+      "file": "cases/CASE-020-into-the-breach.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-021",
+      "file": "cases/CASE-021-roblox-creator-cluster.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-022",
+      "file": "cases/CASE-022-escape-from-tarkov-lineage.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-023",
+      "file": "cases/CASE-023-despelote.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-024",
+      "file": "cases/CASE-024-escape-from-duckov.md",
+      "audit_status": "partial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-025",
+      "file": "cases/CASE-025-bills-must-be-paid.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-026",
+      "file": "cases/CASE-026-brigador.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-027",
+      "file": "cases/CASE-027-dyson-sphere-program.md",
+      "audit_status": "pending",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-028",
+      "file": "cases/CASE-028-chinese-online-game.md",
+      "audit_status": "partial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-029",
+      "file": "cases/CASE-029-boundary.md",
+      "audit_status": "partial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-030",
+      "file": "cases/CASE-030-outpost-infinity-siege.md",
+      "audit_status": "pending",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-031",
+      "file": "cases/CASE-031-jonas-tyroller.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-032",
+      "file": "cases/CASE-032-pubg-brendan-greene.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-033",
+      "file": "cases/CASE-033-zhengtu-shi-yuzhu.md",
+      "audit_status": "partial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-034",
+      "file": "cases/CASE-034-landfall-games.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-035",
+      "file": "cases/CASE-035-factorio-wube.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-036",
+      "file": "cases/CASE-036-manor-lords.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-037",
+      "file": "cases/CASE-037-darkwood.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-038",
+      "file": "cases/CASE-038-sultans-game.md",
+      "audit_status": "partial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-039",
+      "file": "cases/CASE-039-gunfire-reborn.md",
+      "audit_status": "partial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-040",
+      "file": "cases/CASE-040-tripwire-lineage.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-041",
+      "file": "cases/CASE-041-next-synced.md",
+      "audit_status": "partial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-042",
+      "file": "cases/CASE-042-the-first-tree.md",
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-043",
+      "file": "cases/CASE-043-everything-david-oreilly.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-044",
+      "file": "cases/CASE-044-garry-newman-sbox.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-045",
+      "file": "cases/CASE-045-rimworld.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-046",
+      "file": "cases/CASE-046-sandfall-expedition33.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-047",
+      "file": "cases/CASE-047-the-witness.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-048",
+      "file": "cases/CASE-048-the-magic-circle.md",
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-049",
+      "file": "cases/CASE-049-outer-wilds.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-050",
+      "file": "cases/CASE-050-nomada-gris-neva.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-051",
+      "file": "cases/CASE-051-zachtronics.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-052",
+      "file": "cases/CASE-052-house-house-goose-game.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-053",
+      "file": "cases/CASE-053-kenny-sun.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-054",
+      "file": "cases/CASE-054-limit-theory-fit-trap.md",
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-055",
+      "file": "cases/CASE-055-factorio-stop-conditions.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    },
+    {
+      "case_id": "CASE-056",
+      "file": "cases/CASE-056-playdead-founder-governance.md",
+      "audit_status": "pending",
+      "audit_scope": "pending",
+      "has_audit_section": false
+    }
+  ]
+}

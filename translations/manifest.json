@@ -28,7 +28,7 @@
       "doc_id": "CASE-001",
       "kind": "case-translation",
       "source_sha256": "dd7a5dc3d1dc06a50b01bfe4097739e2758a2d81321efd5df78f999e42a5f99e",
-      "status": "DRAFT",
+      "status": "STALE",
       "reviewer": null,
       "reviewed_target_sha256": null
     }

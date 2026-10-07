@@ -64,6 +64,22 @@ Schema v2 在 `metadata/cases.json` 中同时登记：
 
 `last_verified` 使用 `YYYY-MM-DD`；尚未真正核验时用 `null`。
 
+### Creator life audit
+
+当 Case 被用于“人生性价比 / 读者处境匹配”时，可在 Case 正文记录 `Creator Life / Decision Audit`。当前不要求把 household 事实复制进 `metadata/cases.json`，避免形成第二份事实源。
+
+机器索引如需记录，只允许记录覆盖率状态，而不得复制：
+- spouse income；
+- mortgage；
+- children；
+- savings；
+- household burn；
+- personal health / family detail。
+
+Canonical facts 始终保留在 Case / Evidence Markdown。
+
+完整字段见 [`creator-life-decision-audit.md`](creator-life-decision-audit.md)。
+
 ### Context audit
 
 `context_audit` 专门回答：**这个 Case 是否已经把关键行动放回当时的时代技术条件和作者具体处境中审计？**

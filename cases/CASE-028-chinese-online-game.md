@@ -167,3 +167,20 @@ Steam 官方公告以第一人称描述单人核心开发；小黑盒 2024 金�
 3. 累计外包、音乐、配音、素材 contributors 有多少？
 4. Wise Games 在签约、资金、QA、商店、PR 和 creator outreach 上分别做了什么？
 5. Demo / Next Fest / B站 / Steam organic 各自贡献如何？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL
+- **Life stage:** solo / OPC 候选；开发期主要利用业余时间，持续约五年；具体年龄、婚育与家庭阶段 `UNKNOWN`。
+- **Household:** `UNKNOWN`
+- **Runway:** 已确认 part-time development；具体主业收入、家庭支持、publisher advance、储蓄与月 burn 均 `UNKNOWN`。
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** `UNKNOWN` — 研究贡献者报告其此前有凉屋程序岗位，但缺公开完整职业时间线，不能据此直接评级。
+- **Capability vector:** solo core 中可确认 programming / planning / simple art；此前游戏行业程序经历为 firsthand personal communication lead；完整领域能力仍需公开补证。
+- **Problem ownership:** **HIGH** — 作品核心 thesis、representation 与 solo scope 由制作人直接控制；publisher 介入后的 decision rights 未公开。
+- **Validation architecture:** long part-time production → public Demo / Steam Next Fest planned participation → external publisher Wise Games → release；实际 Demo conversion / wishlist /销量路径仍未闭环。
+- **Reality adjudication:** **PARTIAL / UNKNOWN** — 平台/玩家反馈接口存在，但五年开发过程中哪些设计被现实否决没有足够公开日志。
+- **Capability capture risk:** **LOW / UNKNOWN** — 当前更像 representation-cost redefinition；缺少时间线证明某强项捕获 scope。
+- **Market sufficiency / legibility:** **PARTIAL** — “模拟中国网游体验”具有共享文化可读性，但实际 market signal、销量和传播归因仍未知。
+- **Capability scaling:** core solo + publisher perimeter；音乐、音效、配音、QA、本地化等贡献边界未完成 contributor audit。
+- **Major unknowns:** household economics、主业收入、publisher funding、完整职业前史、外包外围、销量与净收入。

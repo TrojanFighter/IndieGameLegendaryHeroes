@@ -32,6 +32,7 @@
 - [`china-creator-three-layer-failure-pressure-tests-020.md`](china-creator-three-layer-failure-pressure-tests-020.md) — 故意引入失败样本：自学/自由不等于设计判断，大厂退出不等于评价函数退出，资本与支持也不能替代现实裁决；新增 Reality Adjudication 与“Survival Time without Reality Feedback = Error Persistence”。
 - [`china-creator-three-layer-case-matrix-021.md`](china-creator-three-layer-case-matrix-021.md) — 将三层框架整理为系统案例矩阵，要求每层同时有成功/失败/混合样本，并用跨国对照约束“中国性”误归因；同时建立 reader-facing 自测和正式章节写作门槛。
 - [`china-creator-three-layer-missing-cells-022.md`](china-creator-three-layer-missing-cells-022.md) — 补齐三处硬缺口：Limit Theory 作为高自主/高能力失败控制，The Magic Circle 作为“老兵成功卸载旧函数仍商业失败”控制，并用《奋斗吧！领主大人》《贪婪大地》《村与地下城》《伏龙记》把中国 household economics 从“家人支持”还原成现金流、房贷、育儿、无薪劳动和再就业能力。
+- [`creator-life-decision-audit-backfill-023.md`](creator-life-decision-audit-backfill-023.md) — 建立统一 Creator Life / Decision Audit，把 household、runway、退出能力、capability、problem ownership、validation、market sufficiency 等字段反向回填到中外 Case；第一批已覆盖 16 个案例，并建立全 56 Case 覆盖率索引。
 - [`runestone-keeper-vs-gumballs-001.md`](runestone-keeper-vs-gumballs-001.md) — 《符石守护者》与《不思议迷宫》的路径分化：相近 Roguelike/地牢语法如何在 Steam premium 与中国 mobile/F2P 制度里长成不同生产与收入结构。
 - [`pvz2-china-monetization-001.md`](pvz2-china-monetization-001.md) — PopCap Shanghai 从 Great Wall Edition 到 PVZ2 中国版的商业本地化：盗版/低 premium 回款如何推动 F2P，再如何进入 progression、difficulty 与付费边界。
 - [`china-pc-market-interface-audit-001.md`](china-pc-market-interface-audit-001.md) — 对《波西亚时光》《戴森球计划》《Eastward》《太吾绘卷》《了不起的修仙模拟器》《苏丹的游戏》《边境》七个中国 PC 项目的市场接口、愿望单/验证路径、发行外围与海内外结构做横向审计，检验“看不见的墙”命题。

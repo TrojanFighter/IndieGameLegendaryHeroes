@@ -126,3 +126,20 @@ Gunfire Reborn 是中国 commercial organization 内部出现的 premium / EA �
 3. 最初 prototype 有多少人、多久、如何 greenlight？
 4. 团队在 EA 前后的 headcount / burn 如何变化？
 5. 哪些系统或资产来自多益共享基础设施？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL / ORGANIZATION-LEVEL
+- **Life stage:** T9 的年龄、教育、家庭与职业形成史仍 `UNKNOWN`；本案当前只能做 production-architecture 比较。
+- **Household:** `UNKNOWN`
+- **Runway:** 多益内部工资 / shared resources；项目级预算、cross-subsidy 与 founder personal risk `UNKNOWN`。
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** `UNKNOWN`
+- **Capability vector:** 可确认的是 T9 在本项目同时署名 Producer & Director、Game Designer、Level Designer；其 prior capability origin 仍未知。
+- **Problem ownership:** **MEDIUM→HIGH observable at project role level / corporate control unknown** — product owner 靠近玩法和关卡，但 internal greenlight / veto 权限未公开。
+- **Validation architecture:** internal development → Steam Early Access → paid player feedback → content expansion → 1.0 → DLC / mobile / console。
+- **Reality adjudication:** **STRONG at product interface** — EA 把真实付费玩家反馈置于资源扩张之前；哪些具体系统被 feedback 推翻仍需补。
+- **Capability capture risk:** `UNKNOWN` — 没有足够 formative / internal production timeline。
+- **Market sufficiency / legibility:** **STRONG** — premium roguelite FPS + solo/co-op 形成可理解 category，EA/销量证明 audience sufficiency。
+- **Capability scaling:** strong — core product 成立后逐步扩英雄、内容、DLC、移动/主机与外部发行。
+- **Major unknowns:** T9 life history、household economics、prototype 人数/周期、internal budget、shared departments。

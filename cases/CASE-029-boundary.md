@@ -163,3 +163,20 @@ E011 说明 initial hook / acquisition 不是零。真正失败发生在把注�
 3. 虎牙、腾讯等资金的融资、股权、IP 与发行控制如何区分？
 4. 开发方与 Skystone 争议的双方完整原始材料是什么？
 5. 首发后 DAU / retention / matchmaking health 如何变化？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL
+- **Life stage:** 三位创始开发者离开稳定工作后开始；完整年龄、婚育与 household 阶段 `UNKNOWN`。
+- **Household:** relationship / children / housing / family support 均 `UNKNOWN`。
+- **Runway:** China Hero Project 支持被创始人认为重要；虎牙、腾讯及其他资金/股权/发行关系尚未完成拆分；不得估总预算。
+- **Household burn:** `UNKNOWN`；当前只知道从稳定工作转创业发生了真实职业收入风险。
+- **Exit / recovery:** `UNKNOWN` — 有稳定工作前史，但项目长期化之后的再就业/回撤条件没有公开闭环。
+- **Capability vector:** 零重力 FPS、networked shooter、技术表现与国际市场 hook 较强；multiplayer ecosystem / live-service capability 是否同步成熟不能从成品表现反推。
+- **Problem ownership:** **MIXED / UNKNOWN CONTROL BOUNDARY** — 创始概念很早由核心团队提出，但后续融资、发行、benchmark 与 approval 权限未核清。
+- **Validation architecture:** early PVE prototype / cost realization → PvP pivot → China Hero / public exposure → long development → Early Access >100k paid first-day signal → retention/ecosystem failure → shutdown。
+- **Reality adjudication:** **PARTIAL / LATE** — PVE 成本很早迫使团队改方向；但 acquisition signal 与 sustainable multiplayer truth 被分开验证，后者到较晚阶段才充分暴露。
+- **Capability capture risk:** **MEDIUM / HYPOTHESIS** — 高技术/novelty 可持续制造外部关注，但当前不足以证明技术强项本身主导了 scope capture。
+- **Market sufficiency / legibility:** **STRONG acquisition / WEAK ecosystem sufficiency** — 首日购买证明 hook 可读；长期 multiplayer liquidity/retention 没有成立。
+- **Capability scaling:** 技术与团队规模长期扩大，但 live ecosystem 未形成可持续闭环。
+- **Major unknowns:** founders household economics、ownership/股权、各阶段团队规模、项目预算、publisher control、DAU/retention。
