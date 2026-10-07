@@ -41,6 +41,14 @@ https://www.goha.ru/intervyu-s-konstantinom-koshutinym-avtorom-indi-hitov-highfl
 **J04** Snowball 未发布项目历史，DTF 2021 (S1 + 开发者 P1)。
 https://dtf.ru/games/716140-13-let-obeshanii-istoriya-razrabotki-vseslava-charodeya
 
+### 新增候选：个人离世后，设计共同体是否仍能制度化延续？
+
+K-D LAB 的自述历史记载 Krank 在2022年去世后，原团队决定成立扶持独立创作的组织；**2023-02-20 确有名为“K-D LAB 独立游戏创作者支持协会”的法人在加里宁格勒注册，负责人是原公司共同创始人 Yulia Novikova**（RBC Companies/法人登记信息）。
+- https://kdlab.com/about/en
+- https://companies.rbc.ru/id/1233900001763-assotsiatsiya-podderzhki-nezavisimyih-sozdatelej-igr-k-d-lab/
+
+这是**已经实现的注册行为**，尚不是**已经证明有效的资金/培训/知识传承机制**。下一轮须核其2023—2026活动与实际受助项目（项目、资金、课程、后续发行），否则不能把“保留了机构”升级为“复利产生了下一代作者”。
+
 ### 必须纠错
 
 “90% Slavjank 都没有价值”“俄罗斯失败品比较有创意”“奇怪游戏是学派必要土壤”，目前**都没有可用分母**，不得写作统计事实。
