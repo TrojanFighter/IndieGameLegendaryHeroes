@@ -91,6 +91,9 @@ Chapter 不再问：
 
 - [不必靠爆款赢回家人：2019 Joysteak × 2022–2026 Toby Đỗ × 2010–2026 Berardi](research-notes/family-legitimacy-visible-labor-and-fifteen-year-exit-037.md) — 可见劳动、学历/奖项等非收入证明、家庭未认可到认可的中间状态，以及十五年仍以雇员身份创造的人；不是中国/美国样本比率。
 
+- [GGJ 2026参与、作品、问卷不是同一分母；旧GGJ研究档案2027面临删除](research-notes/ggj-2026-survey-and-archive-denominator-038.md) — 普通参与者与未入场者必须分开取样。
+- [两条家庭风险生命史：Giguère昂贵首作、越南SOGA夫妻共同创业](research-notes/ordinary-indie-household-runway-two-hits-selection-039.md) — 成本、父母劝勉、共同作者投入和成功后追忆的选择偏差。
+
 ### A. 教育｜你是否学会自己出题？
 
 主要研究：
