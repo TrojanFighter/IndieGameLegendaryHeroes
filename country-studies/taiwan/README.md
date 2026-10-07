@@ -31,6 +31,7 @@
 - [010 — 成人独游创作者经济学：工资制 vs 作者押注](010-adult-indie-creator-economics-wage-vs-author-risk.md)：用当前招聘与作者访谈拆分低风险工资劳动、自有IP高方差路径及发行商孵化混合形态。
 - [011 — 成人独游Revenue Waterfall与发行合同黑箱](011-adult-indie-revenue-waterfall-publisher-contract-opacity.md)：区分商店gross、平台抽成、发行recoup/split与作者take-home，并记录标准合同长期不公开的问题。
 - [012 — 外部资讯摩擦与弱信号时延](012-external-information-friction-signal-latency.md)：区分重大新闻传播速度与日常原始资料/海外社群接触摩擦，检验台湾较宽global reference set对类型吸收、国际发行与fast-follower倾向的影响。
+- [013 — 学生/业余独游的默认生产意识](013-student-amateur-indie-default-production-awareness.md)：把“意识差距”拆成reference breadth、作者身份、Steam商品化、全球路线显著度等变量；台湾学生生态与大陆CUSGA/中传强反例并列压力测试。
 
 ## 研究分工（单一权威，不重复记账）
 
