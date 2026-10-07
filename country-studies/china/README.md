@@ -112,6 +112,10 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 
 新增 [016 — 中国创作者路网拓扑](016-creator-route-topology-from-66rpg-to-modern-bridges.md)。2026年66RPG数字民族志证明中国早在2005前后已形成大规模hobbyist game-making commons，关闭前档案有86万+用户/329万帖子；梁其伟《雨血》从该社区进入海外商业市场。2009 IGF China、2011后GGJ、2015后CiGA/indiePlay/GWB、2016 China Hero、2023后TapTap Spotlight进一步说明现代旁路数量已明显增加。当前问题从`ROUTE_COUNT`转向`ROUTE_DURABILITY / ROUTE_SWITCHABILITY / ROUTE_REVERSIBILITY / AUTHORIAL_SECOND_ATTEMPT`；不再使用“中国没有创作者生态”的粗断言。
 
+## 4.9 成功创作者是否会变成下一代基础设施？
+
+新增 [021 — 椰岛 × 鹰角/开拓芯：CREATOR_TO_INFRASTRUCTURE_CONVERSION](021-creator-to-infrastructure-conversion-coconut-hypergryph-coreblazer.md)。椰岛代表第一代：`creator success -> Game Jam / IndieACE / CiGA / publishing`，先把“场景”做出来；鹰角/开拓芯代表第二代：`creator success -> patient equity / incubator / office / legal-finance / publisher matching / second-attempt support`。2026公开口径已投资近30队、12支创业队首作上线并进入正循环，约三分之一工作室开始第二作；但失败后续投率和被扶持者是否反过来扶持第三代仍OPEN。
+
 ## 5. 当前正式化状态
 
 008–015 已完成本轮素材 provenance closeout。
