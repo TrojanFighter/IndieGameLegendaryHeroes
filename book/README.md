@@ -139,7 +139,7 @@ Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可�
 
 ### 不是所有创作者都有媒体专访
 
-我们也开始从完整公开名册而不是成功新闻出发：[Week Sauce 2022.04 的18个普通提交作品](research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)。包含耗时两天的未完成原型、作者对 scope 的直接承认、完整版本和过期状态标签等真实边界。它是小型公开尝试队列，不是“普通人成功率”。
+我们也开始从完整公开名册而不是成功新闻出发：[Week Sauce 2022.04 的18个普通提交作品](research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)，以及 [2026 年对18个原提交账号的后续回访](research-notes/week-sauce-2022-public-creator-followup-033.md)。包含耗时两天的未完成原型、作者对 scope 的直接承认、完整版本和过期状态标签等真实边界。它是小型公开尝试队列，不是“普通人成功率”。
 
 ## 想核证据，进入研究后台
 
