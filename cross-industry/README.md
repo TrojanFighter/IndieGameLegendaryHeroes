@@ -55,6 +55,10 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 理论家不等于成功 builder。disruption、value network、incumbent incentive、overserving、resource dependence 应作为可被案例支持或反驳的解释工具，而不是先验定律。
 
+### 当前综合节点
+
+- [001 — Innovation Survival, Selection & AI Funnel](001-innovation-survival-selection-ai-funnel.md) — 将 Craft / Search / Selection、Innovation Rights、创新熵增、异类存活漏斗与生成式 AI 的 bottleneck migration 合并为可证伪研究地图；只作为跨案例综合与待证假说，不把 Jobs / Christensen / Grove / Nintendo / Pixar 个案提前写成已证普遍规律。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
