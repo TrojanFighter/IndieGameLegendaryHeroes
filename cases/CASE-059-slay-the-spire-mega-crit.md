@@ -344,6 +344,9 @@ Slay the Spire 是这类变形的反例。
 - **Exit / recovery:** **HIGH PROFESSIONAL OPTIONALITY** — CS degrees + QA/software work history；但实际失败后的 reemployment plan 未公开。
 - **Capability vector:** Casey QA/compatibility/visual+design judgment；Anthony card-game taste/design/programming；两人共同 programming/design；外部 artist/audio contributors later added。
 - **Problem ownership:** **HIGH** — thesis 来自 Anthony 的 card/roguelike synthesis 与两人长期 taste，不由 employer/publisher benchmark 提供。
+- **Identity coupling:** **LOW / PARTIAL EVIDENCE** — Casey 能把 Amazon 描述为一段喜欢但可退出的工作，而不是最终身份；但家庭/同侪 status pressure 未公开，不能写成全面低耦合。
+- **Parallel authorial thread:** **STRONG** — college hobby games、旧 collaborator、Anthony 的 card/roguelike taste 与工作期间 design doc 构成持续公司外作者线。
+- **Prestige-preserving distortion:** **LOW in observed first-project structure** — 两位 CS/QA/software 从业者没有用大团队、高规格表现或成熟公司流程证明专业性，而是用小 prototype + playtest + metrics 先验证 core。
 - **Validation architecture:** college hobby games → professional employment → design doc → prototype → external card-player playtests/metrics → full build → Early Access → weekly patches/community/data → 1.0。
 - **Reality adjudication:** **STRONG** — early telemetry + external playtests + EA weekly iteration；团队明确承认直觉不足以平衡复杂系统。
 - **Capability capture risk:** **LOW / CONTROLLED** — QA/engineering能力服务 game loop and balance；没有 evidence 显示技术/流程 prestige 吞噬 product closure。
