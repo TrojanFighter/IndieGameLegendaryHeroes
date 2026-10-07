@@ -33,7 +33,7 @@
 
 ## 1.5. 俄罗斯／后苏联核心对照组：跨制度十维矩阵（2026-10-07）
 
-- [俄／后苏联—中国游戏产业制度对照（1995—2026）](russia-china-game-industry-regime-comparison-1995-2026.md)：国内外收入、GaaS/F2P/P2W、长短期能力复利、原创/benchmark、技术与涌现、投资者专业化和政府资助效果。按证据等级保留未知分母，明确俄国 Playrix 与中国《戴森球计划》、Gamera Games 等反例。
+- [俄／后苏联—中国游戏产业制度对照（1995—2026）](russia-china-game-industry-regime-comparison-1995-2026.md)：国内外收入、GaaS/F2P/P2W、长期能力复利、原创/benchmark、技术与涌现、投资者专业化和政府资助效果；**优先检验原创作者/懂行中介的数量级、人口与开发者分母、历史形成率和系统性抑制机制**。俄裔 Playrix 与中国《戴森球计划》、Gamera Games 仅是具体反例，不允许以少数存在个案否认整个生态可能具有结构性问题；另对照中国自研约三分之一海外收入权重与 MY.GAMES 2020 国际收入75%等不同分母证据。
 - 对应俄罗斯侧原始档案仍在 [SLAVIC-009—014](../../sister-projects/slavic/evidence/README.md)，不复制两份主账；中国线只保留对照矩阵、中文史料与尚待验证的国别比较命题。
 
 ## 2. Experience Capital / Demand Discovery 假说线
