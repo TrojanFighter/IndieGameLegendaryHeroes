@@ -18,7 +18,7 @@ last_verified: 2026-10-07
 - Subject: Amir Rao / Gavin Simon / Greg Kasavin / early Supergiant
 - Period covered: EA Command & Conquer work → 2009 independent founding → 2011 Bastion → 2019 longitudinal check
 - Research status: RESEARCHING
-- Related Claims: none (PRE-CLAIM comparison only)
+- Related Claims: []
 - Corpus role: `AAA-SKILL-TRANSFER / OBJECTIVE-FUNCTION-DECOUPLING / CAPABILITY-SHAPED-TEAM / HOUSEHOLD-SUBSIDY / IP-CONTROL`
 - Evidence Ledger: [E001–E006](../evidence/CASE-061-supergiant-bastion-aaa-to-author-source-ledger.md)
 
