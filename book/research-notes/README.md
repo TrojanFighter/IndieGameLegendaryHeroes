@@ -6,6 +6,7 @@
 
 ## 当前索引
 
+- [`masters-of-doom-longitudinal-master-study-001.md`](masters-of-doom-longitudinal-master-study-001.md) — Softdisk→Keen→Wolfenstein→DOOM→Quake→Ion Storm/Deus Ex：技术窗口创造、团队互补、生产转化和治理失配的纵向母案例。
 - [`doom-life-crossroads-001.md`](doom-life-crossroads-001.md) — Early id / DOOM 的人生关键节点与目标变化。
 - [`play-to-production-fourth-industrial-revolution-001.md`](play-to-production-fourth-industrial-revolution-001.md) — 玩家如何通过 mod / UGC / 工具 / artifact 转向数字生产者。
 - [`goal-formation-through-production-001.md`](goal-formation-through-production-001.md) — 目标是否在行动、反馈、能力积累和身份转换中逐渐形成。
