@@ -302,3 +302,20 @@ Everything 提供一个对 Capability–Project Fit 很重要的内部压力：
 6. movement system 相比传统 rig / walk cycle 到底省了哪些成本、增加了哪些工程成本？
 7. Everything 的 festival / press / platform chronology 如何影响市场接入？
 8. Mountain → Everything 的既有 audience carryover 有多大？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** 已建立动画/电影作者职业与专业网络后转向 interactive work；不是 early-career outsider。
+- **Household:** relationship / children / housing / dependents `UNKNOWN`。
+- **Runway:** project self-funded；OReilly 明确保留 ownership，并雇佣 collaborators；公开说创作可能把自己推向 poverty / debt。Mountain 收入、其他职业收入与 Double Fine 条款仍未知。
+- **Household burn:** 精确金额 `UNKNOWN`；但个人承担 financial downside 是明确事实。
+- **Exit / recovery:** **MEDIUM→HIGH PROFESSIONAL OPTIONALITY** — 已有成熟 animation / film career 与专业网络，但项目期间真实现金回撤条件未量化。
+- **Capability vector:** visual language / animation abstraction / conceptual framing / mechanics / realtime visual thinking 强；coding 通过 Damien 长期互补；audio/modeling/PS4 optimization 等外围外部化。
+- **Problem ownership:** **HIGH** — 核心概念、视觉、mechanics 与 creative ownership 集中在 OReilly。
+- **Validation architecture:** prior animation/realtime experiments → Mountain collaboration → Everything prototype/system build → festival/press/platform exposure → PS4/PC launch。
+- **Reality adjudication:** **PARTIAL** — 项目从 6 个月膨胀到近 3 年，说明作者持续遇到技术现实；但哪些 core ideas 被玩家反馈推翻仍缺细证。
+- **Capability capture risk:** **MEDIUM** — 强视觉/抽象能力成功重写传统 animation obligation，但 procedural systems 又制造新复杂度；属于“重写成本而非消灭成本”。
+- **Market sufficiency / legibility:** **PARTIAL** — 独特视觉/动作语言高度可辨识，但作者自己已意识到 2017 indie saturation；完整 market-access / sales chronology 未闭环。
+- **Capability scaling:** strong authorial core + deeply coupled programmer + specialist periphery；不是 solo execution。
+- **Major unknowns:** household economics、Mountain revenue、project debt magnitude、Double Fine terms、完整 contributor / sales chronology。
