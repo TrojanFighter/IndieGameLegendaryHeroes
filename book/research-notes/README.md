@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`truth-shield-to-narcissism-shield-ion-storm-governance-041.md`](truth-shield-to-narcissism-shield-ion-storm-governance-041.md) — Romero 2023自认把id成功公式错误迁移到Ion Storm；用Dallas/Austin同公司对照拆出feedback integrity、规模断层、互补能力依赖、decision-right accountability，并引入Exit/Voice/Loyalty和20项未展开研究欠账。
+
 - [`early-id-strategic-disloyalty-american-individualism-040.md`](early-id-strategic-disloyalty-american-individualism-040.md) — Softdisk→shareware→Sierra报价与Keen→3D连续切割：把“美国个人主义”拆成文化许可、frontier/rugged individualism、American civil religion远端H层与PC/shareware可执行outside option；提出Strategic Disloyalty / Optionality Protection并以日本内部边疆豁免反证其非必要性。
 
 - [`week-sauce-contributor-collaboration-graph-034.md`](week-sauce-contributor-collaboration-graph-034.md) — 从2022 Week Sauce 部分具名多人项目追踪2023–2025不同作品的重复合作者与新成员：Snails in Peril三名署名者跨2022/2023再合作；THE CURE四位具名作者再出现在2023；区分合作关系的署名证据与由 CASE-063 已核实的2024 GGJ→2025 Steam制作谱系。
