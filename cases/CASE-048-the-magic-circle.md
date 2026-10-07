@@ -233,6 +233,21 @@ The Magic Circle：
 - conversion；
 - launch concentration。
 
+## 8.5 Longitudinal continuation: failure of market sufficiency ≠ end of studio
+
+2016 The Magic Circle 的当期销售不符合 Thomas 对 Question 的持续经营要求，但 Question 没有因此立刻解散。这是本案失利—回撤审计的重要界限。
+
+2016 NYU Game Center 直接采访中，Thomas 已经说明他在制作阶段担心高度元叙事的概念要求玩家理解太多层指涉；它对理解这一幽默的用户很有效，但在外部市场极难简要解释（新增 E007）。
+
+2018 Thomas 在直接访谈中描述了下一作选题如何主动寻找 **“团队仍有兴趣” × “用户会购买”** 的交集，并选择更容易识别的 cooperative horror（E008）。Question 官方团队史与 2018 同期行业报道确认随后增加 Michael Kelly / David Pittman / Sam Gauss 等制作合作者，并开发《The Blackout Club》（E009–E010）。
+
+因此至少存在以下连续性：
+`FIT-STRONG / MARKET-INSUFFICIENT first title → explicit second-title market re-selection → continuing studio organization`
+
+仍然 UNKNOWN：The Blackout Club 的完整收入与利润、融资口径、员工薪酬、是否真正恢复了第一作的损失、相关个人退出/家庭恢复。
+
+**Forbidden inference：** 不得将《The Magic Circle》写成“Question 破产或立即解散”；也不得以 Question 做出下一作反推第一作其实财务成功。
+
 ## 9. Verdict
 
 ### Strongly supported
@@ -246,7 +261,7 @@ The Magic Circle：
 - exact audited budget unknown；
 - 16.5k figure is creator-reported at a specific 2016 point, not lifetime sales；
 - commercial underperformance does not mean artistic/product failure；
-- later studio survival and Blackout Club are separate outcomes。
+- Question 后来持续开发 Blackout Club 是已核的组织延续；其盈利/财务回撤是另一项尚未量化的 outcome。
 
 ## 10. Transfer
 
@@ -281,6 +296,11 @@ The Magic Circle：
 6. 2016 之后 lifetime sales / break-even；
 7. 如果当时做更清晰 genre 的 debut，Question 自己认为会牺牲什么？
 
+- E007 — NYU Game Center 2016 direct interview: Thomas acknowledged market legibility doubts and niche category friction.
+- E008 — Thomas 2018 direct interview: next-project selection based on overlap of creative interest and real customer purchasing.
+- E009 — Question studio team history: group continued and expanded after The Magic Circle.
+- E010 — Game Developer 2018 contemporaneous coverage of The Blackout Club / Early Access.
+
 ## Creator Life / Decision Audit
 
 - **Audit status:** SUBSTANTIAL
@@ -295,5 +315,5 @@ The Magic Circle：
 - **Reality adjudication:** **PARTIAL→STRONG post hoc** — EA 提供真实玩家面，但团队仍高估“好游戏会自然被发现”；launch 后明确修正对 marketing/category 的判断。
 - **Capability capture risk:** **LOW / NOT PRIMARY** — failure 更接近 market legibility / audience sufficiency，而不是 specialist frontier 吸走 closure。
 - **Market sufficiency / legibility:** **WEAK** — creator 自己指出 genre 不清、meta satire niche-within-niche、零 marketing budget；约 16.5k copies 的阶段性销量不足以维持 Question。
-- **Capability scaling:** 产品完成并上市，但 commercial organization 未能靠首作销售形成可持续规模；后续 studio 轨迹需另案看。
+- **Capability scaling:** 产品完成并上市；首作销售未能支撑原经营预期，但 Question 后续确实继续并扩充团队开发《The Blackout Club》；长期财务可持续性 UNKNOWN。
 - **Major unknowns:** household economics、audited budget、marketing labor、long-tail lifetime sales。
