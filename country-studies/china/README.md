@@ -58,6 +58,15 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 
 但它只是一组理论和经验文献，不是中国游戏创新差距的总钥匙。任何引用都要区分国家、地区、代际和阶层，区分心理测量与真实产业行为，并寻找东亚内部与西方内部反例。
 
+## 4.5 非媒体发现样本｜首个 Public-Attempt Pilot（WIP）
+
+媒体采访/明星 Case 只能支撑具体人生与项目机制，不可推出中美从业者平均行为。新增：
+
+- [002 — GGJ 2024 深圳南山站：公开尝试队列试点](002-ggj-2024-shenzhen-nanshan-public-attempt-pilot.md)：以官方游戏目录而非媒体成功者为入口；站点官网目前列出 **16 个目录条目、15 个不同标题**（其中 `BOOM CHASE` 出现两次）；**条目的永久 URL 与唯一游戏数量仍待核**；就业/教育/后续命运一律 UNKNOWN/NOT_ASSESSED，不出比率。
+- [媒体选择、幸存者偏差与分母协议 028](../../book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md) 和 [Creator Visibility Sampling Gate](../../schemas/creator-visibility-sampling-gate.md)：区分人物传记的机制证据与总体研究的可观察分母。
+
+此入口研究的是**公开参赛项目**，不是名校毕业生、大厂员工或潜在创业者；不能把找不到持续公开作品误写成“失去作者性”。下一步先核对站内16个 listing 的永久链接并解决同名条目，再判断是否有足够公开职业证据进入 AC-010 的声望管道检验。
+
 ## 5. 当前正式化状态
 
 008–015 已完成本轮素材 provenance closeout。
