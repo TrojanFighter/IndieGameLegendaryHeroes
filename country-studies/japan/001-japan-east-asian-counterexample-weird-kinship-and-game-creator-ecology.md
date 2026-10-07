@@ -278,3 +278,153 @@ https://ndlsearch.ndl.go.jp/books/R000000004-I10857153
 **日本很可能证明Layer B可以部分抵消Layer A。**
 
 如果这一点成立，日本将是整个“老中研究”里最重要的国家比较之一。
+
+
+## 10. 2026-10-08 修正：不是“日本宽容异类”，而是局部打穿等级秩序
+
+前文的 `BOUNDED_ECCENTRICITY` 需要进一步去浪漫化。现有材料不支持“日本社会 / 日本企业普遍宽容异类”。更准确、也更可证伪的命题是：
+
+> **日本的常态组织秩序可以高度重视同调、年资和长期关系；但在新产业边疆、强势高层担保、边缘/失败项目或非正式旁路中，少数低资历个体有时能够提前取得异常大的问题主权。日本游戏黄金时代的原创能力，可能来自“长期工艺积累 × 局部破格通道”，而不是普遍个人主义。**
+
+这也是对前文“制度化怪人”的限定：**合法怪人生态位真实存在，不代表所有尚未证明自己的新人都被同等保护。**
+
+### 10.1 `FRONTIER_EXEMPTION / 边疆豁免`
+
+定义：当产业、技术或品类足够新，旧资历对“谁更懂”失去信息价值时，正常年功秩序临时允许低资历者承担完整产品责任。
+
+当前锚点：
+- 铃木裕回忆，1983进入SEGA、约一年后即成为Project Leader；他明确称当时正常约需7–8年经验，且通常由企划部门出任。该案例支持“电子游戏边疆期可局部越过年资”，但不能外推为SEGA所有新人均有同等机会。
+- Nintendo《Splatoon》官方开发访谈显示，团队先产生约70个新游戏方案，再由可玩prototype竞争；最终胜出的不是既有IP任务，而是程序员做出的“豆腐喷墨”原型。团队成员还明确回忆，多人都经历过“从零提出方案—公开提案—当场被否”的训练。
+
+Sources:
+- Yu Suzuki / GameCores retrospective interview, 2019: https://www.phantomriverstone.com/2019/01/yu-suzuki-interview-by-gamecores-part.html
+- Nintendo, *Iwata Asks: Splatoon*: https://iwataasks.nintendo.com/interviews/wiiu/splatoon/0/0/
+- Nintendo, prototype selection: https://iwataasks.nintendo.com/interviews/wiiu/splatoon/0/1/
+- Nintendo, proposal/rejection experience: https://iwataasks.nintendo.com/interviews/wiiu/splatoon/0/3/
+
+Evidence status: **SUPPORTED as mechanism examples; national/company-wide incidence UNKNOWN.**
+
+### 10.2 `PATRON_GATED_PERMEABILITY / 恩主开闸`
+
+定义：异端并非由稳定制度自动保护，而是由拥有足够正式权力的高层个人临时绕过中层、预算或资历门槛。
+
+中村修二的蓝LED研发是最强跨行业压力测试。Nobel Prize官方自传材料支持：
+- 日亚早期设备预算不足，中村绕过直接上级向创始社长小川信雄申请测试设备并获批；
+- 随后又获得约5亿日元、约占公司当年销售额2%的高风险蓝LED研发预算；
+- 同期部分年长员工认为他多年未给公司创造销售成果、是在浪费钱；
+- 中村之所以可以独自押注当时冷门的GaN路线，一个重要条件正是公司内部几乎无人能在该技术上有效约束其方法选择；他本人回顾称，大公司很可能会否决这种“失败材料”路线。
+
+Source:
+- Shuji Nakamura, Nobel Prize biographical account: https://www.nobelprize.org/prizes/physics/2014/nakamura/biographical/
+
+这里的结论不是“日亚制度宽容异端”，而是：
+
+> **低制度化的高层直接授权可以暂时制造极大的个人问题主权；其可复制性取决于patron是否存在、是否持续、是否愿意承担失败。**
+
+因此后续所有“日本大公司培养天才”案例强制记录：
+- 权利来自正式流程还是某位高层；
+- patron离场后是否继续；
+- 同级普通员工有没有同样入口。
+
+### 10.3 `SENIORITY_TAX / 年资税`
+
+定义：个人当前能力不能立即兑换成相称的职位、收入或决策权，而需先完成一段组织忠诚 / 年资积累。
+
+OECD 2024与2026日本经济调查仍把传统日本雇佣模型概括为长期雇佣、年功工资与晋升、企业内训练和低劳动流动；2026报告称平均任职年限约12.4年，46.7%劳动者在同一雇主工作10年以上。OECD同时指出，传统年功工资的典型机制是年轻员工工资低于边际生产率、长年资员工高于边际生产率，从而强化留在企业内的激励。
+
+Sources:
+- OECD Economic Survey: Japan 2024: https://www.oecd.org/en/publications/oecd-economic-surveys-japan-2024_41e807f9-en/full-report/component-5.html
+- OECD Economic Survey: Japan 2026: https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/05/oecd-economic-surveys-japan-2026_9457bba4/54cc833d-en.pdf
+
+这不能简化成“老人一定欺负新人”。更准确地说，年资制度把年轻人的一部分回报延期，并把人力资本、关系与身份绑定在组织内部；这会提高越级、退出和快速作者化的成本。
+
+### 10.4 `INFORMAL_AUTHORITY × LOW_ACCOUNTABILITY × LOW_EXIT`：先辈制何时转成霸凌风险
+
+日本厚生劳动省资料显示，职场power harassment的典型定义要求存在“优越关系”背景，但不只限正式上司；历史全国调查中，“先辈→后辈”明确构成一类常见关系。2016年度调查中，报告受害者所指加害关系以“上司→部下”76.9%最高，“先辈→后辈”15.5%居次。2023年度全国调查则有19.3%的劳动者称过去三年经历过职场power harassment；厚劳省同时发现“失败不被允许 / 失败容忍度低”等特征在有无霸凌经历的职场之间存在明显差异。
+
+Sources:
+- MHLW workplace harassment survey portal: https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/0000165756.html
+- MHLW 2023 survey summary / 2024 publication: https://www.mhlw.go.jp/stf/houdou_kouhou/kouhou_shuppan/magazine/202412_001.html
+- MHLW historical relation table: https://www.mhlw.go.jp/content/11200000/0000165752.pdf
+
+因此正式写法固定为：
+
+> **senpai–kohai既可能承担训练、保护和隐性知识传递，也可能在非正式权力高、问责低、退出成本高时演化为压制或harassment。**
+
+禁止写成“日本职场就是霸凌新人”。
+
+### 10.5 `FAILURE_SHELTER / 失败庇护`
+
+定义：因为项目已被视为低价值、边缘、试验或失败，组织反而降低控制强度，使异端方案获得实验空间。
+
+该变量优先用于后续核验《Demon's Souls》等案例；在未完成FromSoftware / Sony的一手证据链前，本文件只把它保留为**研究变量，不升级成日本一般机制**。
+
+强制问题：
+- 项目失败后是谁继续承担工资与资源；
+- “没人管”是正式授权、管理失焦，还是事后回忆；
+- 失败后项目成员能否留在组织；
+- 同类失败项目的分母是多少。
+
+### 10.6 `CREATOR_REPLACEMENT / 作者代际更新率`
+
+日本案例提出一个比“能不能培养大师”更严格的问题：
+
+> **当第一代成功作者已经取得资历、预算和组织地位以后，体系还能否持续把同等级问题主权交给尚未证明自己的下一代？**
+
+这是对幸存者偏差的直接修正。宫本茂、小岛秀夫、铃木裕等人的存在只能证明体系曾经让某些人穿透；不能证明同代 / 后代新人拥有相同机会。
+
+因此日本研究以后不只统计：
+- recognizable directors / producers；
+- 长寿IP与大师职业长度；
+
+还必须找：
+- 新人提案总数与greenlight率；
+- 首次担任director / project lead时的年资分布；
+- 被取消项目后是否还有第二次机会；
+- 同一老作者长期占据核心IP时，新作者的进入率；
+- 作品成功后，个人是否获得下一轮`decision rights`，还是只增加执行责任。
+
+### 10.7 对日本黄金时代的暂定“双发动机”模型
+
+当前最值得压力测试的假说：
+
+```text
+CRAFT_ACCUMULATION
+长期雇佣 / 师徒制 / 稳定团队
+        ↓
+隐性知识与工艺深度
+
+×
+FRONTIER_PERMEABILITY
+新产业 / 小团队 / 低既有权威 / 可玩原型
+        ↓
+低资历者提前取得完整问题主权
+
+= 日本游戏黄金时代的一种可能组织条件
+```
+
+随着产业成熟：
+- 团队扩大；
+- IP资产化；
+- 项目失败成本上升；
+- 第一代成功者占据决策位；
+
+则可能出现：
+`CRAFT_ACCUMULATION ↑` 同时 `FRONTIER_PERMEABILITY ↓`。
+
+这可以产生“产品工艺仍强、老作者仍强，但新作者出现速度下降”的局面。该命题目前状态：**H / 需要代际分母与失败样本。**
+
+### 10.8 对中国比较新增的强制变量
+
+以后中日比较至少统一编码：
+
+- `AGENCY_TAX`：坚持非共识判断的家庭 / 收入 / 身份 / 职业总成本；
+- `SENIORITY_TAX`：能力兑换成正式权利前必须支付的年资成本；
+- `PATRON_DEPENDENCE`：创新权是否依赖单一高层；
+- `PROTOTYPE_RIGHT`：低层能否先做可玩物再申请许可；
+- `FAILURE_SHELTER`：失败是否还能保留人、知识和第二次机会；
+- `CREDIT_APPROPRIATION`：成果能否转成个人声誉、财富与下一轮决策权；
+- `CREATOR_REPLACEMENT`：成功一代之后新作者是否持续产生；
+- `EXIT_TO_RECOMBINATION`：离开组织后是否有市场、平台、圈子和资本把个人重新组合成生产单元。
+
+这组变量服务于跨国机制比较，不是民族性评分表。

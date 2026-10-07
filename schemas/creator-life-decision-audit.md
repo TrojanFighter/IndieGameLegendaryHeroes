@@ -248,6 +248,71 @@ self-generated problem
 
 ---
 
+## 7B. Authorial Access / Institutional Path to Authorship
+
+当 Case 涉及公司内部晋升、创业、spinout、失败项目接管、side project 转正或新产业窗口时，必须额外追问：
+
+> **这个人究竟通过什么路径取得了“我有权决定做什么”的资格？这种资格是制度化的、恩主授予的、市场换来的，还是必须退出原组织以后才获得？**
+
+这不是“自由人格”评分，而是可观察的 decision-right chain。
+
+### Authorial Rights Chain
+
+至少检查：
+
+| 字段 | 核心问题 |
+|---|---|
+| `problem_origin_right` | 能否自己提出项目 / 核心问题？ |
+| `pre_greenlight_resource` | 正式立项前能否获得带薪时间、工具、人手或基础设施？ |
+| `prototype_right` | 能否先做 playable / artifact 再接受评审？ |
+| `greenlight_right` | 谁决定进入更高资源级别？ |
+| `kill_right` | 谁能终止项目或核心假设？ |
+| `rescope_right` | 项目遇阻时能否缩队 / 回炉，而不是作者与问题一起清零？ |
+| `parent_budget_right` | 工作室之外谁能撤销整个项目 / 创新制度的预算？ |
+| `credit_appropriation` | 成功后个人能否获得声誉、财富、职位或下一轮 decision rights？ |
+
+### Access Mechanism
+
+如果证据允许，标记取得作者权的主要机制（可多选）：
+
+- `INSTITUTIONALIZED`：稳定流程赋权，与特定领导者无关；
+- `FRONTIER_EXEMPTION`：新产业 / 新技术使旧资历暂时失去信息价值；
+- `PATRON_GATED`：关键高层直接开闸、绕过正常层级；
+- `FAILURE_SHELTER`：边缘 / 失败项目因控制下降反而获得实验空间；
+- `SIDE_PROJECT_CONVERSION`：私人 / 业余原型被组织吸收为正式项目；
+- `EXIT_REQUIRED`：离开原组织、创业或spinout后才取得完整作者权；
+- `MARKET_LEGITIMATED`：demo / mod / sales / community等外部结果先赋予合法性，再换取组织资源；
+- `UNKNOWN / MIXED`。
+
+### Agency / Seniority / Regime Cost
+
+对取得作者权之前的成本分开记录：
+
+- `AGENCY_TAX`：坚持非共识判断需要额外承担的家庭、收入、身份、职业、融资与失败成本；
+- `SENIORITY_TAX`：当前能力兑换成正式职位 / 决策权前必须支付的年资成本；
+- `REGIME_TAX`：从旧生产制度的成功路径转向新范式时，需要放弃多少既有职位、收入、团队、声誉与行业常识。
+
+**不得因为当事人最终成功，就把这些成本事后改写成“必要磨炼”。**
+
+### Second Attempt / Creator Replacement
+
+一次成功不能证明生态健康。至少继续追：
+
+- `failure_shelter`：首个项目失败后人是否仍有工资 / 组织位置；
+- `second_attempt_capacity`：是否真实获得下一次自定问题的机会；
+- `team_continuity`：核心能力与协作关系是否保留；
+- `creator_replacement_context`：当已有大师 / founder / director占据资源后，新一代是否仍有进入同等级作者权的可见通道。
+
+这组字段尤其用于避免两种幸存者偏差：
+1. 只研究最终破格成功的人，而忽略同代未穿透者；
+2. 看到一个组织培养过一位大师，就推定它持续拥有创作者代际更新能力。
+
+Comparative research anchors:
+- [Japan 001 — Bounded eccentricity → frontier exemption / seniority tax / creator replacement](../country-studies/japan/001-japan-east-asian-counterexample-weird-kinship-and-game-creator-ecology.md)
+- [China 015 — frontier location / agency tax / regime tax / authorial continuity](../country-studies/china/015-japan-comparator-frontier-permeability-author-rights-and-creator-replacement.md)
+
+---
+
 ## 8. Validation Architecture
 
 必须重建：

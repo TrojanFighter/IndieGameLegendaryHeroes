@@ -64,6 +64,9 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 
 但它只是一组理论和经验文献，不是中国游戏创新差距的总钥匙。任何引用都要区分国家、地区、代际和阶层，区分心理测量与真实产业行为，并寻找东亚内部与西方内部反例。
 
+当前中日机制比较入口：
+- [015 — 中国 × 日本：边疆豁免、作者权位置与创作者代际更新](015-japan-comparator-frontier-permeability-author-rights-and-creator-replacement.md)：把“个人主义”进一步拆成 `FRONTIER_EXEMPTION / AGENCY_TAX / REGIME_TAX / PROTOTYPE_RIGHT / SECOND_ATTEMPT_CAPACITY / CREATOR_REPLACEMENT`。当前核心H不是“日本更自由”，而是**日本游戏黄金时代的破格较常发生于企业内部，而中国完整作者权更常通过创业、离职重组和新组织取得**；该差异仍需普通员工与失败队列分母验证。
+
 ## 4.5 非媒体发现样本｜首个 Public-Attempt Pilot（WIP）
 
 媒体采访/明星 Case 只能支撑具体人生与项目机制，不可推出中美从业者平均行为。新增：
