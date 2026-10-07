@@ -301,3 +301,20 @@ Luck 不否定 production strategy，但禁止把 viral reach 写成可稳定复
 5. Reddit / Imgur / Tumblr / Twitter 各自到底贡献 reach、wishlist、sales 的多少？现有公开材料只能支持“参与市场接入”，不能支持精确归因。
 6. visual-first 是立项前明确策略，还是中途从传播反馈强化出来？需要更多 2016 devlog / social chronology。
 7. 2026 年今天，什么现代 market surface 真正承担了当年 GIF / Reddit 的等价功能？这属于当前市场研究，不能从历史案例自动推出。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** The First Tree 核心开发期为 full-time Unity technical artist，同时已为父亲；2019 回顾明确提到 full-time job + two kids 的时间约束。
+- **Household:** partnered/family context 可确认到育儿责任存在；spouse income、住房、childcare 分工与家庭月 burn `UNKNOWN`。
+- **Runway:** full-time job salary + 前作收入参与下一作生产；launch 后收入再支持 console 扩展；精确现金结构未知。
+- **Household burn:** `UNKNOWN`；家庭责任主要以时间约束被公开记录。
+- **Exit / recovery:** **HIGH EXIT OPTIONALITY** — 核心开发期保留 technical-artist 全职职业；项目不是裸辞式单点押注。
+- **Capability vector:** technical art / motion / environment / editing / UX / storytelling 强；traditional coding 较弱；licensed assets 与 scripts 外部化弱项；console port 调用 DO Games。
+- **Problem ownership:** **HIGH** — project form 明确围绕个人视觉/叙事能力与时间约束设计。
+- **Validation architecture:** 前作 shipping → visual prototype → GIF/social audience → Steam / launch → console expansion。
+- **Reality adjudication:** **PARTIAL** — visual market response 持续进入生产，但玩家反馈如何改变 core design 仍需更细时间线。
+- **Capability capture risk:** **LOW / POSITIVE FIT** — 强 visual capability 被用来重写产品形态，而非无限扩张 technical frontier；仍存在 project-duration growth 压力。
+- **Market sufficiency / legibility:** **STRONG for 2016–2017 regime** — visual hook 与可传播 GIF 高度一致；具体社媒 tactic 到 2026 仅 CONDITIONAL/HISTORICAL。
+- **Capability scaling:** licensed asset ecology + specialist periphery + console partner；不是 founder 全工种补齐。
+- **Major unknowns:** spouse/household finance、childcare、total cash spend、launch revenue chronology。
