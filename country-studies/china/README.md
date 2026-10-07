@@ -119,3 +119,4 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 这样才能解释“落后”而不是只宣布“落后”。
 
 - [013 — 大陆创作者生命周期镜像：个人原型→公司化→第一笔钱→全职化→平台/发行](013-creator-lifecycle-capital-interface-taiwan-mirror.md)：用《戴森球计划》《失落之魂》、TiGames与《浣熊推币机》拆出四种不同路径，并与台湾资本梯子逐关比较。
+- [014 — China Hero Project 第一/二期固定入选队列](014-china-hero-project-phase1-phase2-cohort-followup.md)：不用明星案例估平台扶持效果；追踪2017十案与2019七案的发售、长期延期、失联、发售后停服及争议。
