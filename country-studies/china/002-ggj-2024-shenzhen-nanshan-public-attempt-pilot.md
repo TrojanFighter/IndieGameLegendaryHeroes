@@ -73,7 +73,7 @@ forbidden_inference: "中国独立项目或大厂员工的创业率、创新能�
 | SZ24-15 | Just A Scratch | https://globalgamejam.org/games/2024/just-scratch-1 | NOT_ASSESSED / UNKNOWN |
 | SZ24-16 | BOOM CHASE〔官网列表中的第二个同名位置〕 | https://globalgamejam.org/group/499/games | NOT_ASSESSED / UNKNOWN |
 
-**Reconciliation debt**：16 个列表位置已能读出，但并非 16 个已确认互异项目。\`BOOM CHASE\` 的两次出现还不能判断是同一个页面重复、两次提交还是同名作品；待核逐条官方 URL/ID，不能仅凭题名去重。2024 itch.io 另有 [同名作品](https://anyi-zerio.itch.io/boom-chase)，只能作为待匹配线索，**不能默认链接的是哪一个 GGJ 目录位置或证明职业延续**。
+**Reconciliation debt**：16 个列表位置已能读出，但并非 16 个已确认互异项目。`BOOM CHASE` 的两次出现还不能判断是同一个页面重复、两次提交还是同名作品；待核逐条官方 URL/ID，不能仅凭题名去重。2024 itch.io 另有 [同名作品](https://anyi-zerio.itch.io/boom-chase)，只能作为待匹配线索，**不能默认链接的是哪一个 GGJ 目录位置或证明职业延续**。
 
 第一方抽查的最小观察例：`Attack on otter` 页面可直接核对 2024 / Make Me Laugh / 深圳南山站 / Windows / Unreal Engine；`Office Laziness Battle` 页面列有 Windows / Unity 及作品说明。**引擎或题材不能证明开发者来自大厂/名校，也不能证明后续有商业发行。**
 
@@ -97,7 +97,7 @@ forbidden_inference: "中国独立项目或大厂员工的创业率、创新能�
 ## 5. 下轮操作——严格先抽样后追踪，禁止追名人
 
 ### Gate A｜名册完整性（当前未通过）
-- 已从第一方搜索快照读齐 16 个**列表位置的题名**；下步核齐逐行永久 URL/ID，区分 \`BOOM CHASE\` 的同名/重复/二次提交，记录快照时间与网页版本。
+- 已从第一方搜索快照读齐 16 个**列表位置的题名**；下步核齐逐行永久 URL/ID，区分 `BOOM CHASE` 的同名/重复/二次提交，记录快照时间与网页版本。
 - 保留网站不可用证据，必要时交叉官方 Web Archive / organiser 导出；不可使用“媒体搜得到”为补齐唯一标准。
 - 16 个目录位置虽已可读，但永久 URL / 唯一项目 ID 尚未全部核对，故 `denominator_status=PARTIAL`；可展示条目存在，不能推断独立作品的存续率。
 
@@ -140,7 +140,7 @@ source_links: []
 
 - 不再由“值得讲故事”决定抽样名单；只由既定名册决定被观察的机会。
 - 不再把沉默误当放弃、把没发售误当能力不足、把进大厂误当作者性消亡。
-- 即使之后能逐项追踪全部 16 个公开项目，也只能说明**这个站点的公开项目轨迹**，不能把比例套进国民性或中美比较。
+- 即使之后能逐项追踪全部 16 个目录条目，也只能说明**这个站点的公开项目记录及其可核验的后续轨迹**，不能把比例套进国民性或中美比较。
 
 ## 7. Source ledger / review debt
 
