@@ -12,7 +12,7 @@ Early id 是《独立游戏英雄传说》需要的历史基准：在 Steam、Un
 
 本案因此正式把研究范围从 Keen 延伸到 DOOM。不是为了证明“今天照抄 shareware 就行”，而是研究一个更一般的问题：**当行业标准产品规模与你的资源不匹配时，能否同时改变产品长度、生产节拍、工具链、分发方式、社区边界和现金回流周期？**
 
-## Why *Masters of Doom* / 《DOOM启示录》 Matters
+## Why *Masters of Doom* / 《DOOM启世录》 Matters
 
 David Kushner 的 *Masters of Doom*（2003）应当作为本案的重要**叙事脊柱**录入，而不是当作不可质疑的唯一事实源。
 
@@ -131,7 +131,7 @@ DOOM 绝不是“两个 John 做完一切”。同期资料显示：
 
 因此本案真正值得研究的是**高密度小核心如何组织专业外围**，以及核心成员之间的互补一旦转化成目标冲突，会怎样破坏原来的低协调成本。
 
-《DOOM启示录》在这一层尤其有用：它不只讲产品成功，也完整追踪“成功之后为什么会裂”。这正是很多英雄叙事会故意删掉的一半。
+《DOOM启世录》在这一层尤其有用：它不只讲产品成功，也完整追踪“成功之后为什么会裂”。这正是很多英雄叙事会故意删掉的一半。
 
 
 ## Longitudinal pressure test: DOOM → Quake → Ion Storm
@@ -168,7 +168,7 @@ DOOM 绝不是“两个 John 做完一切”。同期资料显示：
 - E003 — Scott Miller 2015 direct interview：shareware 收入、Keen 后全职独立的商业逻辑。
 - E004 — older Romero interview archive：Keen 收入足以让团队离开 Softdisk。
 - E005 — Shacknews oral history：无贷款、依赖游戏现金流与 Softdisk 义务的张力。
-- E006 — David Kushner, *Masters of Doom* / 《DOOM启示录》：Carmack/Romero、id 发展、商业与组织裂变的二手叙事脊柱；不得单源承载争议事实。
+- E006 — David Kushner, *Masters of Doom* / 《DOOM启世录》：Carmack/Romero、id 发展、商业与组织裂变的二手叙事脊柱；不得单源承载争议事实。
 - E007 — *Game Developer*, January 1994, `Monsters From the Id: The Making of Doom`：同期记录七人公司、Wolfenstein shareware economics、NeXT/DoomEd、C/assembly 取舍、Tom Hall 离开、DOOM 自营分发与 modding 立场。
 - E008 — WIRED 1996, `The Egos at Id`：同期观察 id 的 code-sharing / mod ecosystem 与公司文化。
 - E009 — John Romero, *DOOM Guy*（2023）及相关 direct interviews：第一人称补充 early id / DOOM / Quake 的生产与组织史，用于对 Kushner 叙事做交叉核验。
