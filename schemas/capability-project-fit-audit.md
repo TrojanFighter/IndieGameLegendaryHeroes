@@ -236,6 +236,32 @@ CASE-056 Playdead 是第一压力锚点：Jensen 的 authorial thesis 与 Patti 
 
 > **capability compatibility 与 governance compatibility 是两件不同的事。**
 
+### 6.7. Capital-source / decision-rights audit
+
+当 `CAPABILITY-EXPANDED` 依赖资本时，不得把所有外部资金统一写成“融资”。
+
+至少拆成：
+
+`capital source × capability purchased × control surface × repayment/return structure × future dependency`
+
+对每笔关键资金问：
+
+- **Source**：retained earnings / publisher advance / platform money / grant / debt / crowdfunding / VC-equity / strategic investment？
+- **Level**：钱进入 project 还是 company？
+- **Capability purchased**：只是 runway，还是具体招聘、工具、营销、发行、客服、平台、live-ops 能力？
+- **Ownership**：是否稀释 equity？谁持股？
+- **Board / voting**：谁进入 board？哪些事项需要公司级批准？
+- **Product approval**：是否存在 concept / milestone / budget / scope / launch / platform veto？
+- **Economics**：recoup、revenue share、royalty、liquidation preference、interest 或 investor-return 结构是什么？
+- **Burn step-up**：融资后固定组织成本增加多少？
+- **Next-round dependency**：本轮资金是否足以走到 revenue，还是组织扩张后反而必须继续融资？
+- **Founder attention**：融资、board、investor relations 会占用多少关键创作者/CEO 时间？
+- **Exit horizon**：资本回报时间尺度与作者型开发周期是否一致？
+
+CASE-057 thatgamecompany 是当前第一份强 `VC-EQUITY` 锚点：2012 Benchmark $5.5M 同时伴随 board seat；2014 $7M 明确用于 development + self-publishing / marketing / distribution capability；但 Chen 又直接区分 company-level investor governance 与 product-level creative input。它说明：
+
+> **资本来源改变的不只是“钱多钱少”，还改变 control surface 在哪里。**
+
 ## Evidence Standard
 
 不能只根据成品倒推主创能力。
@@ -349,7 +375,7 @@ C015 只主张：
 更强的普遍命题——例如“高效率独立项目通常由能力反向立项产生”——仍未成立。要升级到这种强度，仍需：
 
 - 已有 2 个 `CAPABILITY-SHAPED but commercially failed`（Brigador / The Magic Circle），后续重点转向失败类型分解；
-- 已有多种 capability expansion（The Witness / Outer Wilds / House House），仍缺 VC/equity 与真实 control-term 对照；
+- capability expansion 已覆盖 The Witness / Outer Wilds / House House / thatgamecompany 四种资本路径；仍缺的是更细颗粒度的公开 control terms（veto / liquidation / milestone / board voting / buyback）与跨案例可比性；
 - CASE-054 Limit Theory + CASE-055 Factorio 已形成第一组 deep-tech failure/success pressure pair：前者 local engineering progress 与 product closure 脱钩，后者留下 multiplayer enough / feature deletion / release descoping 三类 stop-condition 证据；下一步再补一个非 Wube 成功样本，验证该机制能否泛化；
 - `CAPABILITY-COMPOSED` 已有 CASE-050 Nomada 正向形成 + CASE-056 Playdead 治理解体压力对照；下一步缺的是显式治理机制成功样本或 pre-ship founder failure。`FIT-LOCK-IN` 仍只有一个强锚点，需要第二样本；
 - 立项期证据而非成功后叙事；
