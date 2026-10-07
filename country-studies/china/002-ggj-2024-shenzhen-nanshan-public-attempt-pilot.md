@@ -148,6 +148,14 @@ source_links: []
 - 不再把沉默误当放弃、把没发售误当能力不足、把进大厂误当作者性消亡。
 - 即使之后能逐项追踪全部 16 个目录条目，也只能说明**这个站点的公开项目记录及其可核验的后续轨迹**，不能把比例套进国民性或中美比较。
 
+## 6.5 GGJ 2027旧档案下线对本项目的真实影响
+
+2026-07-03 GGJ官方宣布V3旧站2014–2023历史作品文件将于2027年结束在线托管，且公告正文与日期表对2027-02-28/03-31截止彼此冲突。[研究038](../../book/research-notes/ggj-2026-survey-and-archive-denominator-038.md)保留来源与审计。
+
+**本pilot是2024深圳南山GGJ，属于官网V4，不是V3。** 绝不可用旧站风险制造“本站2027年2月会被删除”的恐慌。尽管如此，现有官网目录16个listing/15个题名，重复的BOOM CHASE条目以及未完成的稳定项目ID/URL仍须先解决，以防目录版本漂移。
+
+另据GGJ2026调查，39,197名参与者与9,874作品、3,535自愿问卷是不同分析单位；这个全球活动的自选问卷**不能填补深圳本地家庭门控、报名者/未投稿者、工作室生存与非报名潜在作者的未知字段**。旧站公共元数据保全须保留合法引用与内容许可，不收集参与者私人家庭信息，不通过同名账号拼身份。
+
 ## 7. Source ledger / review debt
 
 - **P0 / first-party venue:** Global Game Jam, `GGJ China 2024 × CiGA – Shenzhen - Nanshan`, event page, 2024 event, accessed/search-audited 2026-10-07. https://globalgamejam.org/jam-sites/2024/ggj-china-2024-ciga-shenzhen-nanshan
