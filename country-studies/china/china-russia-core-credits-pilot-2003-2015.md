@@ -1,5 +1,7 @@
 # 中俄核心 credits 老兵密度试验：2003—2015
 
+> **2026-10-08 方法纠错**：本文件的7v7目的性样本只能做机制探索，不能推断国别老兵密度、seniority pipeline或任何数量级差异。数量级审计见 [中俄游戏从业者老兵数量级审计（2018—2021）](china-russia-veteran-scale-audit-2018-2021.md)。在获得行业/子行业分母前，所有“俄方更高密度”表述均撤回为 UNKNOWN。
+
 - Type: Person-level credits pilot / veteran-density audit
 - Status: PILOT — PURPOSEFUL SAMPLE, NOT REPRESENTATIVE
 - Date: 2026-10-08
