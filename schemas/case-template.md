@@ -265,6 +265,29 @@ Evidence 在 Claim metadata 中引用时必须使用全局可解析格式：
 
 不要只写 `E001`，因为不同 Case 可以各自拥有 `E001`。
 
-## 16. Open Questions
+## 16. Creator Life / Decision Audit
+
+当 Case 需要进入“人生性价比”横向比较时，按 [`creator-life-decision-audit.md`](creator-life-decision-audit.md) 增补统一字段：
+
+- Audit status；
+- Life stage；
+- Household；
+- Runway；
+- Household burn；
+- Exit / recovery；
+- Capability vector；
+- Problem ownership；
+- Validation architecture；
+- Reality adjudication；
+- Capability capture risk；
+- Market sufficiency / legibility；
+- Capability scaling；
+- Major unknowns。
+
+这不是 Schema v2 的强制事实补齐项；没有来源时必须写 `UNKNOWN`。历史 Case 不得在库运维中凭常识补家庭、收入、婚育、房贷等事实。
+
+只有完成最低可比记录的 Case，才可用于回答“这种人是否适合辞职 / 创业 / 做几年独立游戏”一类 reader-facing 问题。
+
+## 17. Open Questions
 
 尚未解决的问题。重要空白必须保留，不准模型自行填平。
