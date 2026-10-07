@@ -12,7 +12,7 @@
 - Source class: P0
 - Title: Don't shake the babies.
 - Author / Institution: Zeyt8, blueTimber, TheDarkVoice / itch.io / Global Game Jam 2024.
-- Publication date: 2024 (GGJ context; day UNKNOWN).
+- Publication date: UNKNOWN (GGJ2024 event window only).
 - Accessed: 2026-10-07.
 - URL: https://zeyt8.itch.io/dont-shake-the-babies
 - Source-derived fact: a playable HTML5 and downloadable Windows first-person shooter project explicitly linked to GGJ 2024; authors are three public accounts. Description includes collecting baby-shaped weapons, merging, charging by shaking and throwing.
@@ -27,7 +27,7 @@
 - Author / Institution: Zeyt8 / Ivories Studios, Steam Community announcement in The Handbook's official news feed.
 - Publication date: 2024-12-06 17:19 UTC.
 - Accessed: 2026-10-07.
-- Original URL: https://steamcommunity.com/ogg/1637520/announcements/detail/518573379039527596
+- URL: https://steamcommunity.com/ogg/1637520/announcements/detail/518573379039527596
 - Public event-index text and metadata: https://steamraw.com/app/1637520/the-handbook/
 - Source-derived fact: author discusses The Handbook as existing release, several later unsuccessful or backlogged projects, attendance at Game Jams, and explicitly says a Global Game Jam project became the basis of their second official release. Reports positive feedback from local game-dev community and subsequent development.
 - Boundary: retrospective from December 2024 looking back to earlier-2024 jam; summary snippet rather than direct open original in this environment. Do not treat approximate "about a year ago" as exact twelve-month interval. This source alone doesn't name all contributor identities, prove profitability, or quantify outside feedback.
@@ -39,7 +39,7 @@
 - Source class: P0 — first-person description published during product launch.
 - Title: Shake the Baby! - Ivories Studios - Old school first person shooter.
 - Author / Institution: TheAlabrehon, self-identified Ivories Studios developer / r/Games.
-- Publication date: 2025-03 (post contemporaneous with 2025-03-27 release; exact post day not independently captured).
+- Publication date: UNKNOWN (release-week March 2025; exact day not independently captured).
 - Accessed: 2026-10-07.
 - URL: https://www.reddit.com/r/Games/comments/1jnjxt1/shake_the_baby_ivories_studios_old_school_first/
 - Source-derived fact: multinational teammates gather for Global Game Jam; 2024 jam project was prototype for this game; component/module combination system was promising; they brought build to local indie meetups, received encouragement to expand into full title, and spent approximately the ensuing year developing game; describes old-shooter inspiration, compounded baby-weapon effects, arenas/linear sections, intentional speedrunning and in-game leaderboard.
@@ -78,7 +78,7 @@
 - Source class: P0
 - Title: Steam Developer: Ivories Studios.
 - Author / Institution: Valve Steam Store / Ivories Studios.
-- Publication date: living developer page; accessed 2026-10-07.
+- Publication date: UNKNOWN (living developer page; checked 2026-10-07).
 - Accessed: 2026-10-07.
 - URL: https://store.steampowered.com/developer/ivories-studios
 - Source-derived fact: lists The Handbook launched 2021-06-04 and Shake the Baby! launched 2025-03-27.
