@@ -139,6 +139,18 @@ Strong National Museum of Play 2014 年馆藏报告（CASE-016 E030）保存 Rom
 
 这组直接证据反驳**美国天然许可异类 / 中国天然扼杀异类**的文化二分，也指出更精确的矛盾：家庭支持 **计算机技能** 可能同时禁止 **游戏消费** 或 **游戏职业**。
 
+## 6.7 个人主义并不足以解释early id；真正可观察的是“战略性不忠诚 × 外部选择权”
+
+新增 [040 — early id战略性不忠诚、美国个人主义与Sierra未收购](early-id-strategic-disloyalty-american-individualism-040.md)。核心修正：
+
+- 1990–1993 early id反复把雇主、成熟产品方向、发行权威和收购机会视为**可重新谈判的安排**，而非永久身份。该行为可命名为 `STRATEGIC_DISLOYALTY / REVERSIBLE_LOYALTY`，但不是道德上的“不讲义气”。
+- Sierra 1992不是“反资本所以不卖”：Romero 2022回顾与Ken Williams同场确认，Sierra提出约US$2.5m股票收购，id要求额外US$100k现金与意向书；Williams拒绝。更准确是**双方对future upside / decision rights估值不同**，而非独立主义教条。
+- 美国个人主义只能作为**概率性文化许可**：frontier/rugged individualism、较弱身份绑定、职业/地域流动和“旧权威可被挑战”的文化背景，可能降低退出旧安排的心理/社会成本；没有人物证据表明Romero/Carmack以“美国天选/神国”解释公司选择。
+- shareware/PC开放分发是更近的可观察机制：没有可信outside option，个人主义只是一种性格；Apogee/BBS/direct order把退出权变成真实议价能力。
+- 日本的公司作者+同人生态构成必要反例：高总体个人主义不是作者创新的必要条件，制度化的`BOUNDED ECCENTRICITY`也能保护异端判断。
+
+因此跨国比较从“美国人更个人主义”升级为：**一个社会是否让尚未被证明正确的少数判断，以可承受成本存活到现实验证。**
+
 ## 7. 跨国研究如何使用这一美国基准
 
 与俄罗斯/乌克兰/中国比时，**不要提取美国英雄的性格，再寻找别国为什么缺这类性格**。应比较五个可以查史料的现实入口：
