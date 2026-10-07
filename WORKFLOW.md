@@ -82,7 +82,24 @@ python tools/case_maturity.py --check
 
 机器只阻止明显过早的 `REVIEW / STABLE` 晋级，**不会自动升级 Case**。UNKNOWN / H / weak Signal 本身不阻止 STABLE；真正阻塞的是对核心 Verdict / Transfer 有实质影响、且仍存在合理核验路径但尚未处理的问题。
 
-## Source Health
+## Editorial rewrite / 防模板化及历史忠实性
+
+现行编辑质量原则见 [Editorial Gate](book/EDITORIAL-GATE.md)；对已存在的 Profile / Chapter / Life Route 进行清理、重写、删减时，必须读 [Editorial Rewrite & Historical Fidelity Protocol](book/EDITORIAL-REWRITE-PROTOCOL.md)。
+
+```text
+Baseline SHA + Case/Evidence Fact Lock
+  → Narrative Packet（时代 / 作者处境 / 决策）
+  → Delete / Restore Person / Rhythm
+  → Fidelity Readback
+  → A/B editorial comparison
+  → 作者验收后合并
+```
+
+Lane A 维护此协议；真正改写正文是单独的 Lane C PR。不得为了“去 AI 味”创造史料之外的场景、删掉 UNKNOWN 或替换 Case 的归因；也不设禁词和短句比例的 CI 硬阈值。
+
+首轮只用 [Gunpoint](book/profiles/gunpoint.md)、[early id / DOOM](book/profiles/early-id-doom.md) 和 [Limit Theory](book/profiles/josh-parnell-limit-theory.md) 校准流程；先小段对照，不执行全库自动清洗。
+
+
 
 外部来源可达性由 [`tools/check_source_health.py`](tools/check_source_health.py) 与 Source Health workflow 维护。状态定义与边界见 [`schemas/source-health.md`](schemas/source-health.md)。
 
