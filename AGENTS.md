@@ -296,6 +296,8 @@ Steam 页面、demo、节庆、Discord、开发日志、媒体报道、主播、
 
 Case 可以枯燥、重复、结构化；书稿可以有文学性，但书稿中的关键事实必须能回指 Case / Claim / Evidence。
 
+对既有 reader profiles / chapters 的改写与去模板化，先读 [Editorial Gate](book/EDITORIAL-GATE.md) 及其 [Historical Fidelity Rewrite Protocol](book/EDITORIAL-REWRITE-PROTOCOL.md)。Agent 不得批量自动覆盖书稿；先锁定事实、保留原版、独立编辑审查和作者验收。
+
 不得为了戏剧性：
 
 - 隐去失败前史

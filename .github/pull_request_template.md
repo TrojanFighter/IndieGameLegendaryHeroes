@@ -56,6 +56,14 @@
 
 <!-- 这次明确没有解决什么？哪些缺口应交给另一条 Lane / 后续 Issue？ -->
 
+## Editorial rewrite review (only for Lane C prose rewrites)
+
+- [ ] 已保存原稿 SHA 与具体修改范围，未顺手改 Case/Evidence/Claim
+- [ ] 已按 [Editorial Rewrite Protocol](../book/EDITORIAL-REWRITE-PROTOCOL.md) 执行 Delete → Person → Rhythm
+- [ ] 已回读 chronology / actor / negation / modality / source / UNKNOWN / time-regime
+- [ ] 重大改写的 Evidence 依据和 `NEEDS_VERIFY` 项已列出
+- [ ] A/B 对照结果或尚未盲测的原因已说明；作者验收仍是独立步骤
+
 ## Translation checks (when applicable)
 
 - [ ] 共享原文 ID 与 Evidence，未新增事实或补齐 UNKNOWN
