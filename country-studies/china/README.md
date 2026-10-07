@@ -38,6 +38,7 @@
 
 ## 1.5.1. Premium PC 生态分叉：完美世界／Runic × Nival（2000—2017）
 
+- [2001—2006 中俄 Premium PC 项目母体：第一版项目级编码](russia-china-premium-pc-project-motherbody-2001-2006.md)：把目标、像素、上海软星、祖龙/欢乐亿派与1C/Buka/Nival/K-D LAB/Ice-Pick等同期项目放入 shipped / cancelled / converted / online-pivot 同一母体；当前结论是中国更像“谱系改道”而非“人才消失”，俄罗斯则仍保有同时资助多问题域项目的发行槽位。当前不是完整清单，下一步补2003中国13款、2004寥寥数款、1C 2005三十款及KRI失败项目。
 - [中俄 Premium PC 生态分叉：完美世界／Runic 与 Nival 裂变链](russia-china-premium-pc-ecology-divergence-2000-2017.md)：新增“机会成本规训／创作生态避难所／能力所有权≠能力再生产／whole-firm pivot vs organizational fission”四个机制。中国2002—2005网游收入迅速压倒单机；俄罗斯到2008仍高度PC化、2010—2012才由online完成收入反超。完美世界2010收购Runic用于全球研发能力、Runic仍成功交付《Torchlight II》，但2017母公司明确因聚焦GaaS关闭其唯一开发办公室；Nival则在Ener1控制权冲突、Nival Online→Astrum→Mail.ru整合中发生组织裂变，同时策略研发支系继续存在。当前只把“俄罗斯更厚的Premium粮道+更高裂变率”列为H，下一步必须做2000/2005/2010/2015 cohort数量化。
 
 ## 1.6. 渠道—热钱—模仿：2013—2019 机制证据层
