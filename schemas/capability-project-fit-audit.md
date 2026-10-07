@@ -333,6 +333,7 @@ CASE-057 thatgamecompany 是当前第一份强 `VC-EQUITY` 锚点：2012 Benchma
 - **CASE-050 Nomada / GRIS → Neva** — `FIT-COMPOSED / CAPABILITY-COMPOSED`：visual-author thesis 先出现，再由 artist + AAA programmers 组成互补 founding capability；研究 cofounder equity/authorship 与普通 hiring 的不同成本。
 - **CASE-056 Playdead / Arnt Jensen + Dino Patti** — `CAPABILITY-COMPOSED / FOUNDER-GOVERNANCE PRESSURE`：Jensen 的 authorial/game-direction capability 与 Patti 的 programming / production / financing / company-building capability 形成真实互补，并成功支撑 LIMBO / INSIDE；但产品成功并未消除 equity、time horizon、authorship、control 与 exit 的 founder-level 治理成本。
 - **CASE-051 Zachtronics** — `FIT-STRONG + FIT-LOCK-IN`：engineering literacy 长期变成产品语言、niche audience 与 production system，同时 creator 明确报告难以做出不像 Zachtronics 的作品。
+- **CASE-058 Spiderweb Software / Jeff Vogel** — `FIT-STRONG + FIT-LOCK-IN`：低成本重文本 CRPG grammar、engine/assets、12–14 月级 production cadence、niche audience 与 back catalog 长期复利；Queen's Wish 的 new-engine/new-system 转型把 production reset + audience replacement cost 显性化，并最终改变 trilogy scope。
 - **CASE-052 House House / Untitled Goose Game** — `GRANT / PUBLISHER EXPANSION`：public completion funding 直接增加 local developer/accessibility capability，publisher 再补 audio / platform / market periphery；用于拆 external capital 的不同 capability bundle。
 - **CASE-053 Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT** — `FIT-STRONG / LONGITUDINAL CAPABILITY ACCRETION`：不是新增 fit 标签，而是提醒 capability map 本身会随项目、职业工作、收入与外围协作变化。Kenny 从 Flash / jam / solo commercial artifact，经 Harmonix + weekend shipping、2016 主动搁置过大 Hatbox、2019 重启、Raw Fury release periphery，最终走到 BALL x PIT 的 first team-lead + specialist core；用于把静态的 `capability → project` 改写成可研究的 `project_t → capability_(t+1)`。
 - **CASE-054 Limit Theory / Josh Parnell** — `FIT-TRAP`：real-time rendering / engine 强项支撑 infinite procedural thesis，同时持续打开 custom engine、custom scripting、procedural simulation、economy/AI、modding、performance 与 rewrite 的技术投入面。2018 官方先宣告 2000+ ships / full AI 的 engine success、content/gameplay 尚在后面；取消时 creator 又明确记录 `far from feature completion` 且 engine 比 game code 更 solid。它是第一个真正独立/小团队内部的强 FIT-TRAP 锚点。
@@ -377,6 +378,6 @@ C015 只主张：
 - 已有 2 个 `CAPABILITY-SHAPED but commercially failed`（Brigador / The Magic Circle），后续重点转向失败类型分解；
 - capability expansion 已覆盖 The Witness / Outer Wilds / House House / thatgamecompany 四种资本路径；仍缺的是更细颗粒度的公开 control terms（veto / liquidation / milestone / board voting / buyback）与跨案例可比性；
 - CASE-054 Limit Theory + CASE-055 Factorio 已形成第一组 deep-tech failure/success pressure pair：前者 local engineering progress 与 product closure 脱钩，后者留下 multiplayer enough / feature deletion / release descoping 三类 stop-condition 证据；下一步再补一个非 Wube 成功样本，验证该机制能否泛化；
-- `CAPABILITY-COMPOSED` 已有 CASE-050 Nomada 正向形成 + CASE-056 Playdead 治理解体压力对照；下一步缺的是显式治理机制成功样本或 pre-ship founder failure。`FIT-LOCK-IN` 仍只有一个强锚点，需要第二样本；
+- `CAPABILITY-COMPOSED` 已有 CASE-050 Nomada 正向形成 + CASE-056 Playdead 治理解体压力对照；下一步缺的是显式治理机制成功样本或 pre-ship founder failure。`FIT-LOCK-IN` 已有 CASE-051 Zachtronics + CASE-058 Spiderweb 两个异质强锚点；下一步优先寻找成功突破 lock-in 的反例，而不是继续堆同类长期作者。
 - 立项期证据而非成功后叙事；
 - 与资金、平台窗口、既有受众和 luck 的分离。
