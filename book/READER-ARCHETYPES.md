@@ -181,6 +181,8 @@ Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签�
 - [Gunfire Reborn comparator](../cases/CASE-039-gunfire-reborn.md)
 - [C013 — commercial capability / objective-function specialization](../claims/C013-capability-capital-objective-function-specialization.md)
 - [CASE-059 Slay the Spire / Mega Crit](../cases/CASE-059-slay-the-spire-mega-crit.md) — Amazon QA / software career 并没有替代 college-era hobby-game author thread；适合看“保留公司能力、丢掉公司 objective function”。
+- [CASE-061 Supergiant / Bastion](../cases/CASE-061-supergiant-bastion-aaa-to-author.md) — EA 游戏工业团队通过家中低成本办公室、自筹现金和七人专业互补，重组创作权与 production grammar。
+- [CASE-062 Red Hook / Darkest Dungeon](../cases/CASE-062-red-hook-darkest-dungeon-veteran-household-risk.md) — 成熟设计/美术/程序经验与原创作品并存，但房贷、育儿、借款、无薪期和 Kickstarter 是其真实风险条件。
 - [AC-010 声望管道耦合与平行作者线程](../author-corpus/AC-010-prestige-pipeline-coupling-and-authorial-continuity.md) — 如果你的风险不是“不会做”，而是“项目必须配得上名校/名企/职级”，先做身份审计。
 
 核心问题：

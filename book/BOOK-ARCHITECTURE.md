@@ -12,7 +12,7 @@
 
 - [START-HERE](START-HERE.md)：按当下困惑、阅读问题进入。
 - [DECISION-ROUTER](DECISION-ROUTER.md)：总分诊，按 **Capability Position × Risk Position × Project Maneuver** 判断该移动项目、能力、团队、资本还是承诺。
-- [Life Risk Routes](life-routes/README.md)：确定具体人生/生产处境后深入审计；含 [LR-001 大厂转作者](life-routes/big-company-veteran-to-author-001.md)、[LR-002 有工资的分阶段投入](life-routes/salaried-creator-staged-commitment-002.md)、[LR-003 家庭现金风险](life-routes/household-high-burn-creator-003.md)、[LR-004 项目能力缺口](life-routes/project-thesis-capability-gap-004.md)。
+- [Life Risk Routes](life-routes/README.md)：确定具体人生/生产处境后深入审计；含 [LR-001 大厂转作者](life-routes/big-company-veteran-to-author-001.md)、[LR-002 有工资的分阶段投入](life-routes/salaried-creator-staged-commitment-002.md)、[LR-003 家庭现金风险](life-routes/household-high-burn-creator-003.md)、[LR-004 项目能力缺口](life-routes/project-thesis-capability-gap-004.md)、[LR-005 工业能力转作者型团队](life-routes/industrial-capability-authorial-studio-005.md)。
 - [READER-ARCHETYPES](READER-ARCHETYPES.md)：第二级按专业能力结构寻找相似创作者的索引。
 
 默认链路：
@@ -81,6 +81,7 @@ Chapter 不再问：
 - [Creator Life P0 回填：第一版人生风险决策对照](research-notes/creator-life-decision-audit-p0-backfill-024.md)
 - [Creator Life P1 回填：Runway 结构与 Evidence-Following Scaling](research-notes/creator-life-decision-audit-p1-backfill-025.md)
 - [声望管道与作者连续性：名校 / 名企 / 大厂老兵为什么会出现不同转型](research-notes/prestige-pipeline-authorial-continuity-026.md)
+- [工业能力 × 独立作者性：EA、Amazon、Ubisoft、Red Hook 与中国跨岗位对照](research-notes/industrial-capability-independent-authorship-comparison-027.md)
 
 ### A. 教育｜你是否学会自己出题？
 
