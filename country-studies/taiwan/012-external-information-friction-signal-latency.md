@@ -581,6 +581,8 @@ X/Reddit/YouTube/Steam Community上的个人经验和small trend。
 ---
 
 # 12. 当前结论
+业余创作者“把作品放回全球公共栈”的具体比较见：[015 — 台北 × 深圳GGJ公共作品栈](015-amateur-public-artifact-platform-stack-taipei-vs-shenzhen.md)。015把信息接入进一步扩展为REFERENCE RECIPROCITY：不只看见海外信号，还要比较作品是否默认进入可被海外开发者发现和反馈的公共平台。
+
 学生/业余层的creator-formation延伸见：[013 — 学生/业余独游的默认生产意识](013-student-amateur-indie-default-production-awareness.md)。013不再比较重大新闻速度，而追踪global reference、Steam/product行为和作者路线是否在就业前已经显著可见。
 
 
