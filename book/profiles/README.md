@@ -8,7 +8,7 @@
 
 研究账本在各篇末尾；看不见公开证据的生活细节不补写。
 
-**证据与全文核对：** [GRIS / Nomada Evidence Ledger](../../evidence/CASE-050-nomada-gris-neva-source-ledger.md) · [Zachtronics Evidence Ledger](../../evidence/CASE-051-zachtronics-source-ledger.md) · [The First Tree Evidence Ledger](../../evidence/CASE-042-the-first-tree-source-ledger.md)。
+**证据与全文核对：** [CASE-042 The First Tree](../../cases/CASE-042-the-first-tree.md) · [CASE-050 GRIS / Nomada](../../cases/CASE-050-nomada-gris-neva.md) · [CASE-051 Zachtronics](../../cases/CASE-051-zachtronics.md)。相应来源账本：[The First Tree Evidence Ledger](../../evidence/CASE-042-the-first-tree-source-ledger.md) · [GRIS Evidence Ledger](../../evidence/CASE-050-nomada-gris-neva-source-ledger.md) · [Zachtronics Evidence Ledger](../../evidence/CASE-051-zachtronics-source-ledger.md)。
 
 ## 我还在形成自己的目标
 
