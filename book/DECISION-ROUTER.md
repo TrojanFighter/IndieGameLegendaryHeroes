@@ -23,7 +23,7 @@
 2. **Risk position** — 你能承担多大不可逆成本；
 3. **Project maneuver** — 这次到底应该移动什么。
 
-如果你已经知道自己属于某种具体人生处境，还可以继续进入 [Life Risk Routes](life-routes/README.md)。现有路线包括 [LR-001 — 名校 / 大厂转作者型独立](life-routes/big-company-veteran-to-author-001.md)、[LR-002 — 有稳定工资先做证据](life-routes/salaried-creator-staged-commitment-002.md)、[LR-003 — 高家庭支出与照护风险](life-routes/household-high-burn-creator-003.md)、[LR-004 — 工业能力如何组成独立作者型团队](life-routes/industrial-capability-authorial-studio-004.md)。
+如果你已经知道自己属于某种具体人生处境，还可以继续进入 [Life Risk Routes](life-routes/README.md)。现有路线包括 [LR-001 — 名校 / 大厂转作者型独立](life-routes/big-company-veteran-to-author-001.md)、[LR-002 — 有稳定工资先做证据](life-routes/salaried-creator-staged-commitment-002.md)、[LR-003 — 高家庭支出与照护风险](life-routes/household-high-burn-creator-003.md)、[LR-004 — 项目已定但能力不足](life-routes/project-thesis-capability-gap-004.md)、[LR-005 — 工业能力转作者型团队](life-routes/industrial-capability-authorial-studio-005.md)。
 
 如果你只是想按职业/能力结构找人物，再去看 [按主创者能力进入](READER-ARCHETYPES.md)。
 
@@ -65,6 +65,8 @@
 ---
 
 ## B. 我已经有很清楚的作品 thesis，但缺关键能力
+
+如果你正在为这个缺口决定花钱、雇人或找合伙人，先读 [LR-004 — 改作品还是补能力？](life-routes/project-thesis-capability-gap-004.md)。它先区分“自己已有想法”与“玩家已有证据”，再选择要移动的变量。
 
 典型状态：
 - 视觉作者知道自己想做什么，但不会完成整套游戏技术；
@@ -407,7 +409,7 @@ FTL 成功以后，Subset 没有把“玩家想要 FTL 2”直接变成产品规
 
 - **“我会很多，但不知道该做什么。”** → [能力反向立项](../claims/C015-capability-shaped-project-formation.md)
 - **“我不敢辞职。”** → [先买几个月试错](chapters/02-buy-time-before-betting-your-life.md)
-- **“我缺关键能力。”** → Nomada / Witness / House House / TGC
+- **“作品已经想好了，但团队缺关键能力。”** → [LR-004 改作品还是补能力？](life-routes/project-thesis-capability-gap-004.md)（Nomada / Witness / House House / TGC 为对照）
 - **“我技术很强，但项目越做越大。”** → Limit Theory + Factorio
 - **“我成功过一次，不知道该不该扩张。”** → Into the Breach
 - **“我已经被自己最擅长的类型锁住了。”** → Zachtronics + Spiderweb（代价）→ [Croteam（分阶段转型）](../cases/CASE-060-croteam-staged-lockin-escape.md)
