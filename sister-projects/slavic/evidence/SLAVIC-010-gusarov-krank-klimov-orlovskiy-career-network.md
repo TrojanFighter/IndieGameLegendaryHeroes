@@ -43,6 +43,26 @@ https://kdlab.com/krank （2026-10-07）
 **K02** Konstantin Koshutin，GoHa.ru 访谈（约2022，P1，具体发布日期待再核）。
 https://www.goha.ru/intervyu-s-konstantinom-koshutinym-avtorom-indi-hitov-highfleet-i-hammerfight-xkmVD3
 
+### K-D LAB 2004年分裂：不能把一整家公司按 Krank 一人的人生写掉
+
+**K03** K-D LAB 官方历史（机构内部回顾，P1 / 有利益相关者立场）：
+https://kdlab.com/about/en （2026-10-07）
+
+2004 年 Krank 离开后，**Yulia “ULITKA” Novikova、Mikhail “SNARK” Piskunov、Evgeny “STILLER” Khudenko、Alexander “SICHER” Kotlyar** 等其他创始人与骨干成立 **KD Vision**，继承原 K-D LAB 的产品和技术，并开发 **Vista Engine**。其后仍承担 1C 的《Perimeter》资料片/续作合同；官方称《Perimeter 2》在 2008 年由剩余团队自筹经费完成。**因此出现一条和 Krank→KranX 并行的团队、合同、技术谱系**，需要分别核人事、所有权、引擎/代码和成果。
+
+**K04** Alexey Shchyogolev，Rugrad 2016-07-07 对 Krank 原始长访谈，P1：
+https://rugrad.online/afisha/news/andrey-krank-kuzmin-my-mogli-kruche-chem-amerikantsy/ （2026-10-07）
+- 早期商业软件/其他小生意为办公室提供过现金流。Krank 明确说艺术主管/美术能力进入团队是起步转折，其中有其伴侣/共同创始人的长期劳动；**不宜用“一个男技术天才凭空创造 K-D LAB”覆盖共同创始人**。
+- Vangers 初期经 Buka 提供合同，总成本他估计约 15 万美元，海外签约现金曾大致覆盖成本两倍；1998 年危机后俄国版权/海外转售及发行商破产导致后续版税落空。**重要：公司一度有项目资金，并不意味着作品净利润/长期 IP 控制权稳固**。
+- 《Perimeter》自述开发中途重大返工、裁剪团队，开发支出约 50 万美元、advance 约100万美元；原始合同未知，不能把“成本低于预付款”直接算净利润。
+- 2004 年离职与婚姻、经营冲突同时发生；这是 Krank 单方自述，其他共同创始人的反方版本应收集。
+- KranX/1C 的外部项目筛选关系：本人公开点名《A Farewell to Dragons》（《Не время для драконов》）、《Pravda o devjatoj rote》（《Правда о девятой роте》）属于接手并完成的困难项目，另外不少被取消。这是**当事人归纳**，实际 rescue 作用和失败名单仍待找合同/原团队证词。
+- 他确认 2007 年《Soma》做到 alpha；2008 年发行商 1C 因市场风险取消。这是 **商业环境使 high-variation 项目退出** 的较直接证词。
+
+**K05** 2023年02月20日，俄罗斯地方企业登记资料显示 **“Ассоциация поддержки независимых создателей игр «К-Д ЛАБ»”**（K-D LAB独立游戏创作者支持协会）登记成立，Yulia Novikova 为协会负责人（来源：RBC Companies 汇编俄罗斯法人登记）。
+https://companies.rbc.ru/id/1233900001763-assotsiatsiya-podderzhki-nezavisimyih-sozdatelej-igr-k-d-lab/ （2026-10-07）
+K-D LAB 官方在 Krank 2022 年逝世后宣布有意设立支持独立项目的协会。**正式法人已证，但是否实际资助/辅导多少后辈团队、是否形成经济上可持续的保存机制，目前 UNKNOWN**。这条能检验“学派是否从个人传承升级到法人社群机构”，不能仅凭注册宣布已成功。
+
 ## 3. Sergey Klimov：失败原创开发→本地化、发行与生产判断
 
 **C01** Alexey Afanasyev，《13 лет обещаний: история разработки «Всеслава Чародея»》，DTF，2021-05-01；采访/引用 Klimov 和原开发者 Mikhail Kolbasnikov。S1 包含 P1 回忆片段（转述与直接证词分开）。
