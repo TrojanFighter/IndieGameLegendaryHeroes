@@ -225,6 +225,37 @@ Sources:
 
 这正是016所说的 ROUTE BRIDGE STACKING：创作者不需要某一家机构包办全部问题，只需要多个桥能够接起来。
 
+## 14.7 鹰角不是孤例：莉莉丝提供另一种 creator-origin capital route
+
+莉莉丝同样符合：SUCCESSFUL CREATOR COMPANY -> EXTERNAL CREATOR SUPPORT。
+
+官方存档的2016 GGJ采访显示：《刀塔传奇》成功后，公司从18人增长到约150人；莉莉丝第一次与独立游戏生态发生系统交集之一，就是联合主办上海Global Game Jam，现场200+开发者；同期内部还在尝试“小作战单位 + 人人可提案 + 评审后获得资源”的孵化机制。
+
+Source: https://ancient.lilith.com/cn/dt_detail_20160201.html
+
+莉莉丝随后并不只办活动：投资/发行胖布丁《迷失岛2》《古镜记》等；2018公开称希望寻找“有积累、有理想”的团队，给资金、技术/美术与全球发行支持，同时尽量给制作人自由；当时胖布丁已被其视为较成功的外部合作团队。
+
+Sources:
+- https://ancient.lilith.com/cn/news?id=224
+- https://talesofthemirror.lilith.com/presskit.html
+- https://store.steampowered.com/app/823580/Isoland_2__Ashes_of_Time/
+
+### 2024–2025：联合创始人袁帅重新启动小型独游投资
+
+2025游戏葡萄对莉莉丝联合创始人袁帅的长访谈记录：2024起重新投资独游团队；2025采访时已投3个项目；单个规模大致几百万元；关注10–20人以下、以玩法设计驱动的小团队；有Demo才容易进入判断，没有Demo大概率不投；公开称持股比例已有约10%–40%的不同情况；不要求绑定莉莉丝发行；不设置“达不到目标就撤资”的硬性条款；研发方向基本不直接干预；可以提供全球发行、本地化、QA、运营、宣发、用户/市场分析等能力。
+
+Source: https://www.taptap.cn/moment/685428313518247779
+
+这说明中国creator-origin capital至少已经出现两种模式：
+
+Hypergryph / COREBLAZER 更像系统型孵化器：很早接触学生/Demo团队，补公司注册、办公、财务法务，并把公开活动和投资发现连接起来，更强调团队长期连续与第二作。
+
+Lilith / 袁帅投资更像 founder-judgment capital：入口更依赖已做出来的Demo，强调玩法设计判断，单个项目投资金额可更高，依赖资深制作人的个人审美，同时提供成熟全球发行体系。
+
+新增 CAPITAL_ENTRY_STAGE：资源在“只有创意 / Game Jam Demo / mature demo / already-shipped product”的哪个阶段进入？
+
+莉莉丝当前公开口径说明其证据前置要求明显较高；COREBLAZER则可在学生原型和公司尚未成立阶段进入。两种模式服务的创作者人群不相同。
+
 ## 15. 椰岛与鹰角代表两代完全不同的“回馈行业”
 
 | Dimension | Coconut Island / IndieACE | Hypergryph / COREBLAZER |
