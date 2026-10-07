@@ -590,7 +590,83 @@ AUTHOR BRAND CAPITAL
 
 这组变量防止把“著名制作人”写成未经检验的英雄神话。
 
-## 13. 中国接下来最值得做的实证
+## 13. AI时代：执行商品化以后，信任可能更稀缺
+
+第四次工业革命对作者品牌的影响，不应先假设成“AI让作者不重要”。
+
+相反，一个值得跟踪的H是：
+
+```text
+production cost ↓
+content supply ↑↑
+visible quality floor ↑
+choice overload ↑
+→ player search / trust cost ↑
+→ reliable author/studio reputation becomes more valuable
+```
+
+即：
+
+# `TRUST BOTTLENECK / 信任瓶颈`
+
+> **当大量团队都能低成本制造“看起来像产品”的内容时，真正稀缺的可能从production capacity转向judgment credibility。**
+
+玩家需要判断：
+- 谁不会拿AI批量灌水；
+- 谁有稳定taste；
+- 谁能完成而非只做漂亮demo；
+- 谁值得几十小时注意力；
+- 谁的下一作即使看不懂也愿意试。
+
+因此AI时代可能同时强化两种brand locus：
+
+### A. `AUTHOR TRUST CAPITAL`
+适合：
+- small auteur；
+- strong design thesis；
+- essay/devlog/direct audience；
+- personally portable reputation。
+
+### B. `STUDIO TRUST CAPITAL`
+适合：
+- 小中团队；
+- 多人核心能力；
+- 希望降低key-person risk；
+- 让玩家信任“一群人的共同taste”。
+
+对中国尤其重要：
+> 不一定要复制“Kojima明星导演制”；更现实的健康目标可能是让 **Game Science / S-GAME / 下一代小中团队** 获得可迁移的studio trust，同时让核心作者保留足够credit和outside option。
+
+### `PLATFORM-CAPTURE RISK`
+
+AI也可能产生相反结果：
+- 供给爆炸后更依赖推荐算法；
+- creator reach越来越由Steam/Bilibili/TikTok/平台feed决定；
+- 个人“粉丝很多”未必等于自己拥有customer relationship。
+
+因此新增：
+
+# `AUDIENCE_OWNERSHIP`
+
+> **作者/工作室的受众关系有多少是平台可随时重新排序的attention，有多少是能跨平台带走的direct demand？**
+
+可观察：
+- cross-platform following；
+- mailing/community；
+- Discord/论坛/自有站；
+- wishlist迁移；
+- direct store / crowdfunding；
+- platform change后reach retention。
+
+所以AI降低 `PRODUCTION ENTRY COST`，但不保证降低：
+- discovery cost；
+- trust cost；
+- customer acquisition cost。
+
+未来英雄传说应重点研究：
+> **谁不仅用AI把东西做出来，还建立了可跨平台迁移的“相信我下一次判断”的玩家关系？**
+
+## 14. 中国接下来最值得做的实证
 
 ### P0 — 作者识别率
 抽样中国premium玩家：
@@ -632,6 +708,6 @@ AUTHOR BRAND CAPITAL
 
 没有这些分母，Author Brand Capital会滑成“成功大师循环论证”。
 
-## 14. 当前最小结论
+## 15. 当前最小结论
 
 > **作者品牌资本不是名气，而是“对作者判断的信任能否跨越作品、IP与雇主继续产生经济和组织后果”。它可以通过玩家选择转成融资、自筹能力、发行伙伴竞争和更强outside option，从而提升作者权；但它不是所有游戏工业的必要条件，成熟IP/工作室也可以承载品牌信任。真正该比较的是brand locus在哪里、谁拥有客户关系，以及成功后这份市场资本能否被创作者带入下一局。**
