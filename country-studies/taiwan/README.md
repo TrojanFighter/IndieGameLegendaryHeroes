@@ -34,6 +34,7 @@
 - [013 — 学生/业余独游的默认生产意识](013-student-amateur-indie-default-production-awareness.md)：把“意识差距”拆成reference breadth、作者身份、Steam商品化、全球路线显著度等变量；台湾学生生态与大陆CUSGA/中传强反例并列压力测试。
 - [014 — 放视大赏 × CUSGA学生决赛层商品化固定队列](014-selected-student-cohort-productization-taiwan-vs-cusga.md)：19个台湾PC/主机决选项目对26个大陆CUSGA决赛项目；Steam/Demo/productization高度收敛，提出SELECTION_COMPRESSION并把真正差距问题前移到未筛选层。
 - [015 — 台北 × 深圳GGJ公共作品栈](015-amateur-public-artifact-platform-stack-taipei-vs-shenzhen.md)：把普通jam层的“意识差距”拆成global discoverability、GmHub/B站本地栈、dual-posting与observability friction；拒绝用GitHub搜不到直接推导大陆创作者不公开。
+- [016 — 独立创作者路网密度与连续性](016-amateur-creator-route-density-and-continuity.md)：重建2010以来社群、Game Jam、学生比赛、TGDF、G-EIGHT、TGS IGA、GameWorks等不同入口的重叠，提出ROUTE_REDUNDANCY与PUBLIC_AUTHORSHIP_NORMALIZATION。
 
 ## 研究分工（单一权威，不重复记账）
 

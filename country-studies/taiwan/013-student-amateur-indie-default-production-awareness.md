@@ -574,6 +574,8 @@ INDUSTRIAL ENGINEERING DEPTH.
 ---
 
 # 14. 当前Verdict
+台湾“作者路线为什么长期可见”的制度解释见：[016 — 独立创作者路网密度与连续性](016-amateur-creator-route-density-and-continuity.md)。016将AUTHOR_ROUTE_SALIENCE进一步拆成社群、Jam、公开展、专业知识、国际评比与资本接口的长期重叠，而不是归因于单一学校或比赛。
+
 固定决赛层的直接压力测试见：[014 — 放视大赏 × CUSGA商品化队列](014-selected-student-cohort-productization-taiwan-vs-cusga.md)。014发现到2026-10两边决赛层当前Steam-positive比例约31.6% vs 30.8%，赛事前SteamDB记录比例也未显示台湾优势；因此013的核心假说必须明确限定为**普通/上游 creator formation 与 route salience**，不能用决赛者证明。
 
 
