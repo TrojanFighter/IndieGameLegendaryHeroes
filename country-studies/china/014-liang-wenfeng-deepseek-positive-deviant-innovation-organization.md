@@ -256,6 +256,10 @@ DeepSeek只支持：
 ### P2 — Full-cycle Team Density的跨行业外部效度
 如果DeepSeek、DJI、Unitree等positive deviants都呈现“小核心团队 + founder技术判断 + 前期真实资源 + 年轻人问题所有权 + 非线性探索”，则可形成更强的跨行业假说；但必须加入失败样本和普通公司反例。
 
+## 10.5 Pocketpair对“原创 vs 模仿”提出跨产业修正
+
+[Japan 003](../japan/003-nintendo-pocketpair-two-alien-routes-originality-vs-recombination.md)显示，游戏等创意产业不能直接把“原创”压成组件层首次发明。Pocketpair创始人公开拒绝对组件独创性的强执念，却通过genre组合、市场选择、Steam/community验证和生产方式形成高度差异化产品。后续跨行业研究正式区分：**FRONTIER_SCIENTIFIC_ORIGINALITY / MECHANIC_COMPONENT_ORIGINALITY / RECOMBINATIVE_ORIGINALITY / MARKET_FORMAT_ORIGINALITY**。梁文锋的判断在AI前沿仍有解释力，但不得机械外推到所有创意产业。
+
 ## 11. 可出版的限缩结论
 
 目前最强的表述不是：

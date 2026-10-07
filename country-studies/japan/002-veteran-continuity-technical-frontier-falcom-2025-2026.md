@@ -292,6 +292,12 @@ Falcom《空轨 the 1st》本身就是一个很好的阶段性正例：
 ### INTERGENERATIONAL_RECOMBINATION
 > 老人提供长期品类资本，年轻人获得真实修改权，而不是只复刻上一代答案。
 
+## 9.5 任天堂说明：高组织记忆并不必然导致legacy lock-in
+
+[003](003-nintendo-pocketpair-two-alien-routes-originality-vs-recombination.md)提供一个重要反例。任天堂2026平均勤续14.6年，同样是长期雇佣型组织；但官方长期记录了年轻开发者获得新IP责任、程序员prototype竞争和高层主动委托authority。因而Falcom式 MEMORY 与 Nintendo式 MEMORY+RENEWAL 必须分开编码。
+
+换言之，真正目标不是降低资深员工比例，而是测：**长期记忆是否同时伴随新人problem ownership。**
+
 ## 10. 以后日本线要正式用四维矩阵，而不是“先进/落后”
 
 每个公司/项目编码：
