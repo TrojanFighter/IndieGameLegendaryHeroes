@@ -70,6 +70,8 @@ Anchors: [family gate US-China research 027](../book/research-notes/family-gates
 - **初期毁画与晚期保留应同时写：** 2016记者对梁其伟的采访记录童年某些漫画/手绘被毁，成年后母亲珍藏幸存本，且功成名就仍不清楚他具体做什么；不能以2014本人“母亲收画册”制造自小无条件支持。
 - **同一家庭成年人并非一个意见体：** Bithell父母限制普通游戏，父亲又曾私下带DOOM进家。此例来自2014 Guardian采访编辑转述，而非可定位的一手逐字稿。
 
+**增加商业失败后的家庭状态检查：[李远扬 × Gianfranco Berardi 036](../book/research-notes/family-support-after-commercial-failure-li-yuanyang-berardi-036.md)**。对于未回本、未正式发售或已返回全职就业的主创，记录家属态度 `PRE-ATTEMPT / AFTER-FIRST-SALE / AFTER-DISAPPOINTING-SALES / AFTER-EXIT` 的**时间序列**。家庭支持至少拆成 `encouraged-art-education`、`allowed-game-career`、`supported-household-cash`、`protected-personal-dignity-on-exit`；不能把任何一条单独升级为“无条件支持”。夫妻/父母不能作为同一种家庭关系混用；父亲、母亲、伴侣及家族其他成员各自何时在世/在场/被采访必须记清。未获得家属本人叙述，采用开发者转述并记录`NO INDEPENDENT HOUSEHOLD VOICE`；`disappointment at product` ≠ `disapproval of person`。
+
 来源边界：真实对话若仅见于多年后传记只能标S1、不能伪装同期录音。例见 [DOOM代际和解审计 032](../book/research-notes/doom-intergenerational-reconciliation-032.md) E031–E037。心理学的条件性认可概念不能直接给历史人物做心理诊断。
 
 ## 2. Life Crossroads / 人生关键岔路
