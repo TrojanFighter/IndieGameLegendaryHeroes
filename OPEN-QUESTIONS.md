@@ -216,7 +216,7 @@ payer-user alignment / refund / review power / platform discoverability / ad att
 external signal latency / source directness / reference breadth / platform access / event network / foreign-language source use。
 
 **Current owner**
-台湾012先做；大陆镜像另开专题。
+台湾012已处理行业层资讯摩擦；台湾013继续处理学生/业余creator formation；大陆镜像另开专题。
 
 ---
 
