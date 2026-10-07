@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-020, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056, CASE-057, CASE-058, CASE-059
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-020, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056, CASE-057, CASE-058, CASE-059, CASE-060
 
 ## Definition
 
@@ -56,6 +56,7 @@
 | CASE-053:E005 | Kenny Sun / Hatbox | retrospective confirms weekend shipping, 2018 full-time transition and broad solo capability accumulated before Hatbox | high |
 | CASE-053:E006 | Kenny Sun / Hatbox | 2016 prototype was shelved when scope exceeded free-time frontier, then restarted after production conditions changed; later publisher perimeter externalized selling/release weaknesses | very high |
 | CASE-020:E003 | Into the Breach | after FTL, Subset deliberately avoids designing to fan expectations, delays announcement, and tries to make a new/different game while retaining shared design ethos; supports early lock-in prevention rather than mature lock-in escape | high |
+| CASE-060:E002 | Croteam / The Talos Principle | old Serious Sam mechanics spawned a separate puzzle thesis; cross-testing, public alpha, deletion and automation formed a new product validation grammar on retained engine capability | very high |
 | CASE-054:E003 | Limit Theory | custom-engine rationale explicitly combines procedural-control requirements with creator enthusiasm for engine / graphics-engine design | high |
 | CASE-054:E006 | Limit Theory | engine/performance progress culminates in 2000+ ship demo while content implementation / gameplay are still described as next | very high |
 | CASE-054:E007 | Limit Theory | cancellation records far-from-complete product, exhausted resources and an engine more mature than game code | very high |
@@ -275,6 +276,28 @@ not:
 > **successful escape from mature FIT-LOCK-IN**.
 
 That mature escape cell remains open.
+
+### CASE-060 Croteam — escaping mature product grammar by staged decoupling
+
+Croteam supplies the first strong positive *mature* `FIT-LOCK-IN` escape pressure case rather than another instance of lock-in itself.
+
+From 2001 to 2012 its studio/brand/tooling were identified with high-tempo Serious Sam FPS titles and the Serious Engine. New Jammer/puzzle mechanics prototyped for Serious Sam 4 in 2012 proved hard to contain inside that established shooter grammar. In mid-2013 Croteam and Devolver agreed to separate the idea into The Talos Principle; the resulting 2014 release became a highly acclaimed new product line.
+
+The key is not that the team threw away old capability:
+- **retained substrate:** first-person 3D production, Serious Engine/Editor, spatial level/toolchain capital;
+- **replaced player thesis:** high-speed combat grammar → logic puzzles, exploration and philosophical narrative;
+- **added capability:** writing specialists Tom Jubert / Jonas Kyratzes, puzzle difficulty testing, public-alpha design adjudication, automated state/QA verification;
+- **publisher interface:** Devolver published the new product, but finance/approval terms remain UNKNOWN.
+
+The 2015 GDC postmortem records actual product-response decisions: internal difficulty stats, public alpha, removing redundant puzzles and an entire level, and redesigning Sigils/pacing. The mature FPS team's skill was not assumed to mean it could instantly judge puzzle player value.
+
+A second, separate regime followed: after Devolver acquired Croteam in 2020, the team evaluated in-house engine upgrade cost and released The Talos Principle 2 on UE5 in 2023. That engine switch was a **toolchain** escape while retaining the new Talos puzzle grammar; it does not belong to the same independent ownership regime as the 2014 genre pivot.
+
+This qualifies the lock-in overlay:
+
+> **Mature product grammar can sometimes be escaped by keeping useful old technical capital while changing the player-facing thesis, adding missing specialty and rebuilding feedback channels. Product-grammar and toolchain lock-in need not be solved simultaneously.**
+
+Boundaries: 2014 financial profitability, audience churn, publisher contract and actual cost of the later UE5 migration remain UNKNOWN. One positive studio is not a general rule.
 
 ### CASE-052 House House — GRANT-FINANCED capability expansion
 
@@ -500,5 +523,5 @@ This is why some independent games look “strange” relative to industry genre
 4. 检验 2020s AI / asset / no-code 环境是否扩大了 creator 可选择的项目集合，从而改变“能力反向立项”的边界。
 5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）+ CASE-052（grant + publisher）+ CASE-057（VC/equity）现已覆盖四种 capability expansion 资本结构。下一步不再补“谁融过资”，而是优先寻找**公开 term sheet / board / veto / liquidation / milestone / buyback 等更细 decision-right evidence**，并验证 capital source 是否系统性改变 capability bundle 与 control surface。
 6. CASE-050 Nomada + CASE-056 Playdead 已形成第一组 `CAPABILITY-COMPOSED` 正例 / 治理解体压力对照：互补能力可以把 thesis 变成可执行组织，但 founder-level capability 同时绑定 equity / authorship / authority / exit。下一步优先找一例**显式设计 deadlock / buy-sell / role authority 并长期运作成功**的治理对照，或一例在产品完成前就因 composition/governance 失败的样本。
-7. CASE-051 Zachtronics + CASE-058 Spiderweb 已形成两个异质 `FIT-LOCK-IN` 锚点；CASE-020 Into the Breach 则提供更早阶段的 `LOCK-IN PREVENTION / OPTIONALITY PRESERVATION` 对照。下一步不再机械补第三个被锁住的案例，而是寻找**成熟 production grammar 之后真正成功突破 lock-in** 的反例，识别哪些条件能降低 switching cost。
+7. CASE-051 Zachtronics + CASE-058 Spiderweb 是两个成熟 `FIT-LOCK-IN` 压力锚点；CASE-020 是更早阶段的 `LOCK-IN PREVENTION`；CASE-060 Croteam 则成为第一份**成熟 grammar 逃逸成功侧**。下一步重点检验其分阶段解耦能否在其他工作室复现，并补 Devolver 合同/开发预算/受众迁移等仍未知成本，不能仅凭口碑把因果链视为闭合。
 8. CASE-055 已建立第一份 deep-tech success-side stop-condition 对照，与 CASE-054 形成首个 failure/success pair；下一步再找一个非 Wube 样本，检验 `enough condition / player-facing obligation / maintenance tail / release closure` 是否可跨工作室复现。
