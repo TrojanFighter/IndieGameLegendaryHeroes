@@ -2,7 +2,7 @@
 
 - Status: RESEARCHING
 - Subject: Into the Breach / Subset Games
-- Related Claims: C002, C003, C004, C006, C007, C010, C011
+- Related Claims: C002, C003, C004, C006, C007, C010, C011, C015
 
 ## Why this case
 
@@ -69,6 +69,69 @@ Justin Ma 在 2018 TGDF 演讲中回顾，最终游戏大约只剩他们最初�
 
 这给 C010 一个必要边界：市场是生产系统的一部分，但**市场暴露本身也会制造承诺成本**。
 
+## Lock-In Prevention / Optionality Preservation
+
+本案还提供一个后来在 CASE-051 / CASE-058 才变得清晰的纵向机制：
+
+> **第一次成功以后，团队可以主动阻止成功经验过早固化成 production lock-in。**
+
+2018 年 Ma / Davis 在 Game Developer 访谈中直接讨论了“如何跟进一款 hit”。
+
+他们没有把问题定义成：
+> 怎样做一个更大的 FTL？
+
+而是刻意采取了几项降低路径依赖的动作：
+
+- 不以“超越 FTL”作为第二作目标；
+- 明确想做一个新的、不同的游戏；
+- 不让已有粉丝期待成为主要 design input；
+- 长期不公布项目，避免 early imagery / fan expectation 提前锁定产品；
+- 仍然保留两位作者共同的 design ethos，而不是把所有旧能力一起抛弃。
+
+这和成熟 `FIT-LOCK-IN` 有重要区别。
+
+Spiderweb / Zachtronics 的 lock-in 已经积累了：
+- 多代产品；
+- 专用工具；
+- 固定受众；
+- 品牌期待；
+- production cadence；
+- 大量已经摊销的生产资本。
+
+FTL → Into the Breach 发生得更早。
+
+因此更准确的标签是：
+
+> **LOCK-IN PREVENTION / OPTIONALITY PRESERVATION**
+
+机制是：
+
+`first hit`
+→ audience expectation + money + sequel pressure
+→ **do not immediately raise fixed cost or product commitment**
+→ private search / deletion / different product
+→ preserve authorial optionality
+
+这说明 prior-hit capital 可以购买两种完全不同的东西：
+
+1. **Capability expansion** — 雇人、买 art / production / distribution；
+2. **Option value** — 不宣布、不扩 permanent payroll、不急着融资，让错误方向仍可以被丢掉。
+
+CASE-020 主要属于第二种。
+
+### Boundary
+
+这不能被写成“成功逃出 FIT-LOCK-IN”。
+
+原因很简单：
+
+> **一次 hit 还没有等于几十年 production grammar。**
+
+Into the Breach 更适合证明：
+> lock-in 可以在形成早期被主动减速。
+
+成熟 lock-in 如何被真正低成本突破，仍是开放问题。
+
 ## Preliminary Verdict
 
 > `Into the Breach` 展示的不是“成功之后自然升级”，而是成功如何被转换为低 burn、低承诺、可长时间试错的生产自由。FTL 给 Subset Games 的最重要资产之一，不是让他们有能力雇更多人，而是让他们有能力不雇更多人、不融资、不提前承诺，并反复扔掉做错的东西。
@@ -102,7 +165,7 @@ Justin Ma 在 2018 TGDF 演讲中回顾，最终游戏大约只剩他们最初�
 - **Problem ownership:** **HIGH** — 团队主动拒绝 FTL 续作、拒绝立即扩 headcount，并长期保持“可以整个扔掉”的产品控制。
 - **Validation architecture:** retained earnings → long private prototype phase → repeated internal deletion → later public market interface / launch。
 - **Reality adjudication:** **STRONG internally, deliberately delayed externally** — 大量系统被删；团队故意延迟公开以避免外部承诺锁定错误设计。
-- **Capability capture risk:** **LOW** — 现有证据显示能力被用于缩减 decision entropy，而不是不断扩张 specialist frontier。
+- **Capability capture risk:** **LOW / OPTIONALITY-PRESERVING** — 现有证据显示团队没有把 FTL 的成功直接固化成续作义务，而是通过延迟公开、低固定成本和长期试错保留重新定义产品的空间。
 - **Market sufficiency / legibility:** **STRONG BY REPUTATION + PRODUCT**, 但早期无需 market truth 维持生存；已有 FTL audience 是重要不可复制条件。
 - **Capability scaling:** two-person core + selective specialists；成功资本被优先兑换成时间与删除权，而不是 permanent payroll。
-- **Major unknowns:** FTL retained earnings 规模、家庭条件、contractor 进入时间、已有 audience 对 launch 的精确贡献。
+- **Major unknowns:** FTL retained earnings 规模、家庭条件、contractor 进入时间、已有 audience 对 launch 的精确贡献；以及如果团队立即制作 FTL 续作，真实 opportunity cost / counterfactual outcome 会怎样。
