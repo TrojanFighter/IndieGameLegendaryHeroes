@@ -419,7 +419,34 @@ AC-010 不是第四层。
 
 ---
 
-## 11. Research Gate
+## 11. 外部研究锚与竞争性解释｜2026-10-07
+
+这里增加两项可核验学术压力，避免把“Prestige Pipeline Coupling”写成已经证明的中美总体差别。
+
+**教育声望确实可成为真实经济信号。** Démurger、Hanushek、Zhang（2024, *Economic Development and Cultural Change*, 73(1):339–379, DOI 10.1086/727519）发现，在控制入学选拔分数后，中国精英大学学历在就业入口仍有显著工资溢价，且溢价随职业生涯变化。这支持“离开声望管道具有客观机会成本”，**不支持**“该溢价导致创作者失去作者性”。
+
+**雇主认同与职业认同并非同一变量。** Lee & Paik（2023, *SAGE Open*, DOI 10.1177/21582440231173914）通过同一家跨国企业不同职业成员访谈发现，职业身份会影响雇员如何理解组织身份。这提供一个更好的检验方式：同样进入大企业，QA、工具程序、产品制作人、商业运营者可能保留不同的职业与作者认同。不能把“Amazon QA 的 Casey Yano”与“腾讯手游制作人月下”当作控制了职位的中美对照。
+
+因此至少存在四类**竞争性解释**：
+- **Pre-entry selection**：Casey/Anthony 在入职之前就长期共同制作游戏、拥有桌游 taste；观察到的保留作者性可能主要由入职前选择差异解释。
+- **Role/task exposure**：QA 的可迁移资产包括质量、兼容性、用户体验与大量游戏比较；与面向 KPI/发行的制作岗位不同，不能将差异全部归因国别。
+- **Material optionality**：存款、家庭支出、职业可逆性、side-project/IP 权利和合同会影响独立试验能否存在。
+- **Prestige coupling**：学历/名企/职级与本人及社会的自我价值如何绑定，可能带来“看起来配得上履历”的无效范围成本；这是待检验机制，而非已证事实。
+
+### 后续最小识别设计
+
+优先做**同岗跨国**与**同国跨岗**两个对照，再配中国强反例王妙一。对每个个案记录：入职前作者 artifact；岗位/团队任务；雇佣期间作者线程；离职时家庭/合同成本；第一款独立作品 prototype 规格；最早陌生玩家反馈；扩团队的先后顺序。
+
+特别寻找反例：美国名企员工虽然保留 side project，却因声望保全而把项目做大；中国名校大厂员工完全没有“履历配得上”焦虑，仍坚持低成本玩具原型。若反例占优，应下修 Prestige Coupling 的解释权重。
+
+Sources:
+- Démurger, Hanushek & Zhang, “Employer Learning and the Dynamics of Returns to Universities: Evidence from Chinese Elite Education during University Expansion,” 2024, DOI 10.1086/727519.
+- Lee & Paik, “Sensemaking About the Organization–Occupation Relationship in Constructing Identification at Work,” 2023, DOI 10.1177/21582440231173914.
+- Seattle Indies, “Seattle Indies Spotlight: Mega Crit Games,” 2017（CASE-059 Evidence E001）。
+
+---
+
+## 12. Research Gate
 
 升级正式 Claim 前至少需要：
 
