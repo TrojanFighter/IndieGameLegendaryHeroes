@@ -148,7 +148,7 @@ Gunpoint 的 Crosslink explanation video 也是典型。
 
 这也是为什么“招一个策划，照爆款做个小号版本”经常完全错过独立游戏的生产逻辑。
 
-## 七个结构锚点：两种 FIT-STRONG 失败 + 三种能力扩张 + CAPABILITY-COMPOSED + FIT-LOCK-IN
+## 结构锚点组：能力塑形、扩张、组成、陷阱、锁定与可选性
 
 ### Brigador：FIT-STRONG 也会死
 
@@ -567,6 +567,68 @@ Journey 结束时，TGC 的 Sony 三作合同已经结束。Sony era 给它提�
 
 下一步真正缺的已经不是第五种“钱”，而是更接近合同层的 decision-right evidence。
 
+### Into the Breach：第一次成功之后，先别急着把自己变成某一种公司
+
+CASE-020 给 `FIT-LOCK-IN` 增加了一个重要的前置阶段：
+
+> **lock-in 不是只能等形成以后再想办法逃；第一次成功之后，也可以主动减慢它的形成。**
+
+FTL 给 Subset Games 带来了钱、声誉和现成 audience。
+
+最容易发生的路径其实是：
+
+`FTL hit`
+→ sequel expectation
+→ larger fixed team
+→ earlier public promise
+→ “Subset = FTL-like games”
+→ path dependence begins compounding
+
+但 2018 年 Ma / Davis 的直接访谈显示，他们选择了另一套动作：
+
+- 接受 FTL 可能永远是自己最 popular 的作品，不以“超越它”作为第二作目标；
+- 明确想做一个新的、不同的游戏；
+- 不让“FTL audience 会不会喜欢”成为主要设计变量；
+- 长时间不公开项目，避免 early image / fan expectation 把尚未稳定的设计提前锁死；
+- 保留两人的共同 design ethos，而不是保留 FTL 的具体 product grammar。
+
+所以 retained earnings 在这里买到的不是更多 headcount，而是：
+
+> **option value。**
+
+它允许：
+
+`money`
+→ low burn
+→ delayed announcement
+→ private prototyping
+→ repeated deletion
+→ lower commitment cost
+
+这和 The Witness / thatgamecompany 等 capability expansion 路径不一样。
+
+因此成功资本至少有两种高价值用途：
+
+1. **买 capability**；
+2. **买不承诺的时间。**
+
+但这里必须严格区分：
+
+> Into the Breach 是 **LOCK-IN PREVENTION**，不是“成熟 lock-in 成功逃逸”。
+
+Subset 当时只有一个 FTL hit，并没有 Spiderweb / Zachtronics 那种几十年 accumulated grammar、固定 audience、专用工具和 catalog economics。
+
+所以现在时间轴应写成：
+
+`first hit`
+→ **optional lock-in prevention**
+
+`repeated fit success`
+→ **FIT-LOCK-IN**
+
+`mature lock-in`
+→ **escape mechanism still UNKNOWN**
+
 ### Spiderweb：最便宜的下一作，往往也是最贵的转型
 
 CASE-058 让 `FIT-LOCK-IN` 不再只靠 Zachtronics。
@@ -662,7 +724,7 @@ Zachtronics 与 Spiderweb 的共同点不在 genre，而在同一机制：
 
 这更接近 `Labor Compression / Capability Mismatch`。
 
-另外还要沿时间轴问：当前 fit 是否正在沉淀成 `FIT-LOCK-IN`。因此项目—能力适配既是**立项时的横截面问题**，也是**工作室长期演化问题**。
+另外还要沿时间轴问：第一次成功以后有没有主动保留 optionality；当前 fit 是否正在沉淀成 `FIT-LOCK-IN`；如果 lock-in 已成熟，转换成本究竟来自技术、流程、brand、audience 还是资本结构。因此项目—能力适配既是**立项时的横截面问题**，也是**工作室长期演化问题**。
 
 ## 下一步检验
 
@@ -673,7 +735,7 @@ C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 1. Brigador + The Magic Circle 已形成两份结构不同的 `FIT-STRONG / MARKET-FAILED`；下一步比较失败究竟发生在 onboarding、category legibility、audience size、timing 还是 cost structure，而不是机械增加失败者。
 2. The Witness + Outer Wilds + House House + thatgamecompany 已覆盖 `SELF-FINANCED / EXTERNAL-STACK / GRANT+PUBLISHER / VC-EQUITY`。下一步停止按融资标签扩案例，改为重点找公开 term-sheet 级证据：board voting、protective provisions、milestone approval、recoup、liquidation、buyback、founder-removal 等真实 decision-right costs。
 3. Nomada + Playdead 已形成第一组 `CAPABILITY-COMPOSED` 正例 / 治理解体压力对照。下一步优先找显式 role authority / deadlock / buy-sell 机制长期运作成功的共同创始人样本，或产品完成前就因 founder composition 解体的样本，以区分 capability compatibility 与 governance compatibility。
-4. Zachtronics 已建立第一份 `FIT-LOCK-IN`；下一步找第二个长期工作室样本。
+4. Zachtronics + Spiderweb 已建立两个异质 `FIT-LOCK-IN` 锚点；Into the Breach 则补上第一次成功后的 `LOCK-IN PREVENTION / OPTIONALITY PRESERVATION`。下一步只优先找**多年固定 production grammar 以后仍成功转型**的反例，不能把第二作“做得不同”自动当成成熟逃逸。
 5. Limit Theory + Factorio 已形成第一组 deep-tech failure/success 对照：前者 engine maturity 与 game closure 脱钩，后者存在 multiplayer enough、feature deletion、1.0 descoping 三类 stop condition。下一步不再补同类英雄，而是再找一个非 Wube 样本验证 `TECHNICAL STOP CONDITION` 是否可泛化，并继续用 DOOM 区分 frontier creation 与 frontier discipline。
 6. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
 7. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。
