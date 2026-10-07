@@ -51,6 +51,10 @@
 
 [中国首批7项交易/权力案例](../../country-studies/china/game-capital-transactions-and-decision-rights-2013-2018.md) 已区分announced/completed/contract right/actual interference，参照2014 SEC乐逗手游合同和2014行业报告：发行/有经验研发方可介入重设计、虚拟商品定价与开发者建议，但某些协议也明确保留开发者审核批准权。俄方最需要补相同口径的 **Buka—Nival / Buka—K-D LAB / 1C—KranX / Ener1—Nival** 四组合同，比较谁在什么节点有原创设计否决权，而不靠业界传奇互相映衬。
 
+### 新的中国微观人物对照：2016《少女前线》同人组/发行组裂变（2026-10-07）
+
+[上海交大／StudioGM／云母组人物史](../../country-studies/china/sjtu-acg-peer-network-career-histories-2005-2026.md) 已新增 **2016触乐同时采访姚蒙、羽中双方的原始证言**：2008同人论坛→2013《面包房少女》实际PC战棋交付→2015 100万元发行/股权合作→2016服务器三测崩溃、修改设计需三个月/新资金、协议/渠道/第三方资本争议→两家公司分裂；2013 Bangumi 旧作credits识别未成名贡献者。与Krank/KranX/KD Vision、Klimov/Snowball、Gusarov/发行商争议做**四变量严格配对：原型与交付、money+IP+distribution rights、产能与技术债、断裂后人员/技能留存**。不以人际“背叛”粉丝传闻代替同期双边证词。
+
 ## C. 设计与人物谱系待核
 
 - Four founders：Gusarov—Krank—Klimov—Orlovskiy 每人 **第一次赚钱、第一次商业交付、第一次项目崩盘、商业模式变化、治理/控制权代价**，并做 20 年时间轴。
