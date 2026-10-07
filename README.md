@@ -87,7 +87,7 @@
 
 ---
 
-## 58 个编号案例档案
+## 59 个编号案例档案
 
 这些 Case 是研究后台的档案，52 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
