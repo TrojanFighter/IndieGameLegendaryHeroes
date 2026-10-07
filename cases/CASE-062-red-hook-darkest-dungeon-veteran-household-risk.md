@@ -18,7 +18,7 @@ last_verified: 2026-10-07
 - Subject: Chris Bourassa + Tyler Sigman + Kelvin McDowell / Darkest Dungeon
 - Period covered: career/collaboration prehistory → 2013 full-time commitment → 2014 Kickstarter → 2015 EA → 2016 1.0
 - Research status: RESEARCHING
-- Related Claims: none (PRE-CLAIM comparison only)
+- Related Claims: []
 - Corpus role: `INDUSTRY-VETERAN-AUTHORSHIP / HOUSEHOLD-EXPOSURE / STAGED-MARKET-CREDIBILITY / PRE-FINANCE-ARTIFACT / SCOPE-PRUNING`
 - Evidence Ledger: [E001–E006](../evidence/CASE-062-red-hook-darkest-dungeon-veteran-household-risk-source-ledger.md)
 
