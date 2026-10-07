@@ -428,6 +428,17 @@ cofounder 通常没有这么简单。
 - 2016 split details：`PARTIALLY DISPUTED`；
 - 2025–2026 litigation：`CURRENT / UNRESOLVED` as of 2026-10-07.
 
+## 13.5 与 early id 042 的互补关系
+
+[042 — Carmack × Romero：互补能力如何变成高频纠错网络](../book/research-notes/carmack-romero-complementary-error-correction-network-042.md)把“互补 founder”进一步拆成三层：
+
+1. capability composition；
+2. epistemic correction；
+3. governance durability。
+
+Playdead是第三层最强压力样本之一：Jensen + Patti 的能力组合经过两个成功产品验证，但这并没有自动解决未来项目周期、ownership、control、exit与历史作者身份。也就是说：**产品成功能验证合作产能，不能永久验证共同创始治理。**
+
+反过来，early id则说明第一、二层很强也不保证第三层可持续；Quake时期feedback latency、股权/工作量认知与未来公司规模偏好都开始撕裂原组合。
 ## 14. Verdict
 
 ### Strongly supported
