@@ -38,8 +38,8 @@
 
 当前仓库已经形成：
 
-- **60 个编号 Case 档案**，其中 58 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
-- **60 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
+- **62 个编号 Case 档案**，其中 60 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
+- **62 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **15 个跨案例 Claim**，检验 runway、能力资本、能力反向立项、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
 - 正在建立的 [`book/`](book/) **读者层 / 成品叙事层**，让研究档案真正长成可连续阅读的《英雄传说》；
@@ -87,9 +87,9 @@
 
 ---
 
-## 60 个编号案例档案
+## 62 个编号案例档案
 
-这些 Case 是研究后台的档案，58 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
+这些 Case 是研究后台的档案，60 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
 | Case | Subject | 它主要让我们看见什么 |
 |---|---|---|
@@ -153,6 +153,8 @@
 | [CASE-058](cases/CASE-058-spiderweb-fit-lock-in.md) | **Spiderweb Software / Jeff Vogel** | 第二个 `FIT-LOCK-IN` 长期锚点：几十年 niche/engine/assets/audience 复利让同类项目越来越便宜，也让 Queen's Wish 式转型同时支付生产 reset 与受众替换成本 |
 | [CASE-059](cases/CASE-059-slay-the-spire-mega-crit.md) | **Slay the Spire / Mega Crit** | Amazon QA / software career 与 college-era author thread 并存：检验 Parallel Authorial Thread、prestige pipeline、选择性能力迁移、metrics-driven reality adjudication 与 pre-paradigm genre formation |
 | [CASE-060](cases/CASE-060-croteam-staged-lockin-escape.md) | **Croteam / Serious Sam → The Talos Principle → UE5** | 成熟产品语法的正向逃逸：沿用 FPS 引擎/工具生产新解谜体验、叙事/测试能力；随后在公司被 Devolver 收购的另一制度阶段才切换 UE5。区分产品与工具两类 lock-in |
+| [CASE-061](cases/CASE-061-supergiant-bastion-aaa-to-author.md) | **Supergiant / Bastion** | EA 经验并不要求复制 AAA 组织：自筹资金、家中办公、七人互补、IP 保留和玩家验证共同构成作者型小团队 |
+| [CASE-062](cases/CASE-062-red-hook-darkest-dungeon-veteran-household-risk.md) | **Red Hook / Darkest Dungeon** | 资深游戏职业能力与作者题目并存，但房贷、育儿、无薪、借款、众筹与 EA 现金桥梁必须进入真正人生账本 |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。`Sultan's Game` 已升级为 CASE-038，但工作室所有权、旧投资关系和 publisher financing 仍待继续审计；Artless Games 保留为中国创作路径候选。
 
