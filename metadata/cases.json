@@ -1,5 +1,5 @@
 {
-  "version": 31,
+  "version": 32,
   "last_updated": "2026-10-07",
   "cases": [
     {
@@ -619,7 +619,8 @@
         "C006",
         "C007",
         "C010",
-        "C011"
+        "C011",
+        "C015"
       ],
       "tags": [
         "second-project",
@@ -629,9 +630,11 @@
         "scope-deletion",
         "specialist-contractors",
         "commitment-cost",
-        "market-access"
+        "market-access",
+        "lock-in-prevention",
+        "optionality-preservation"
       ],
-      "last_verified": "2026-10-04",
+      "last_verified": "2026-10-07",
       "evidence_ledger": "evidence/CASE-020-into-the-breach-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "partial"
