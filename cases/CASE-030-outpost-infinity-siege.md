@@ -116,3 +116,20 @@ UNKNOWN：生活支持、资金、工具、人才与市场条件的可复制边�
 3. Team Ranger 是公司内部团队还是外部发行伙伴？需要股权或直接组织身份资料。
 4. 公司管理层有关生产能力和留存导向的具体公告、日期及适用范围是什么？
 5. 项目级预算、峰值人数和发行方劳动有哪些可靠记录？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PENDING
+- **Life stage:** `UNKNOWN`
+- **Household:** `UNKNOWN`
+- **Runway:** `UNKNOWN`；当前 Steam developer / publisher 字段不能证明历史公司资源、个人储蓄或融资结构。
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** `UNKNOWN`
+- **Capability vector:** `UNKNOWN`；不得从成品规格反推主创前史。
+- **Problem ownership:** `UNKNOWN`
+- **Validation architecture:** `UNKNOWN`；原稿关于 prototype、留存与宣传错位的线索尚未恢复为可追溯证据。
+- **Reality adjudication:** `UNKNOWN`
+- **Capability capture risk:** `UNKNOWN`
+- **Market sufficiency / legibility:** `UNKNOWN`
+- **Capability scaling:** `UNKNOWN`
+- **Major unknowns:** 该 Case 尚未达到人生性价比横向比较门槛；须先恢复制作人原始复盘、组织归属、团队规模、资金与开发时间线。
