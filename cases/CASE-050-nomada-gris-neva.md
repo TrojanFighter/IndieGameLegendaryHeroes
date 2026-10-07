@@ -297,3 +297,20 @@ GRIS 的真正“能力模型”不是：
 7. GRIS success 之后 retained earnings 在 Neva 中占多大比例；
 8. 哪些 technical tools 是专门为 Roset 的 illustration workflow 创建的；
 9. Nomada 未来如果进入 3D，capability fit 会怎样改变。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** 三位创始人均已有成熟职业能力；Roset 是职业插画/艺术作者，Cuevas/Mendoza 是 AAA technical veterans。公开材料支持三位 founder 在 demo 阶段离开原工作。
+- **Household:** relationship / children / housing / dependents / partner income `UNKNOWN`。
+- **Runway:** founders quit jobs → build demo → Gamescom/publisher pitch → external partnership / publisher financing → team expansion；个人储蓄与 demo 阶段 burn 未闭环。
+- **Household burn:** `UNKNOWN`；离职本身产生真实收入风险，但不能猜家庭安全网。
+- **Exit / recovery:** **HIGH PROFESSIONAL OPTIONALITY** — 三人都有成熟插画或 AAA 技术职业资本；实际失败时是否能/会返回原行业仍未知。
+- **Capability vector:** Roset visual authorship / illustration；Cuevas/Mendoza programming / AAA production / technical shipping；后续 art/animation-heavy production team 补规模。
+- **Problem ownership:** **HIGH / SHARED FOUNDER AUTHORSHIP** — GRIS thesis 先于公司形成，studio 围绕项目与互补 founders 组成；publisher decision rights 未完全公开。
+- **Validation architecture:** visual thesis → complementary founders → demo → Gamescom publisher interface → financing/team expansion → launch → Neva longitudinal follow-up。
+- **Reality adjudication:** **PARTIAL→STRONG** — demo 先于大团队扩张，后续 Neva 又显示团队会主动重新评估 2D/combat 等边界；具体 playtest kill history 仍待补。
+- **Capability capture risk:** **LOW / POSITIVE COMPOSITION** — visual capability 被放到产品架构上游，而不是要求 visual founder 补成全栈；治理成本另由 cofounder/publisher 结构承担。
+- **Market sufficiency / legibility:** **STRONG** — strong visual identity 本身构成 store/trailer legibility；具体 2016–2018 boutique-publisher / discovery 路径属 HISTORICAL/CONDITIONAL。
+- **Capability scaling:** **CAPABILITY-COMPOSED → CAPABILITY-EXPANDED** — 先通过 cofounder composition 补执行能力，再用资本/招聘扩 art/animation production。
+- **Major unknowns:** founders household、demo runway、publisher advance/recoup/IP、17 vs ~26 headcount 口径、Neva retained earnings。
