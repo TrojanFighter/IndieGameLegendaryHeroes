@@ -6,6 +6,7 @@
 
 ## 当前索引
 
+- [`ivories-studios-ggj-to-steam-036.md`](ivories-studios-ggj-to-steam-036.md) — 2024 GGJ《Don't shake the babies》原型→本地开发者 meetups→2025-03-27 Steam《Shake the Baby!》：2024官方公告与2025开发成员回忆直接确认制作谱系；发售非回本，岗位、家庭与财务仍UNKNOWN。
 - [`week-sauce-contributor-collaboration-graph-034.md`](week-sauce-contributor-collaboration-graph-034.md) — 从2022 Week Sauce 部分具名多人项目追踪2023–2025不同作品的重复合作者与新成员：Snails in Peril三名署名者跨2022/2023再合作；THE CURE四位具名作者再出现在2023；区分合作证据与Steam原型谱系假设。
 - [`week-sauce-2022-public-creator-followup-033.md`](week-sauce-2022-public-creator-followup-033.md) — 18个原主提交账号的2022–2026公开页面回访，区分其它作品清单、明确年份的新作品、合作工作室、个人职业未知；失效作品链接不等于创作者消失。
 - [`family-acceptance-non-success-countercases-035.md`](family-acceptance-non-success-countercases-035.md) — Croshaw2011已成名父母仍否定职业、Keith Judge2011–13靠储蓄/伴侣工资却未完成独立项目、Mike Bithell父亲秘密带DOOM回家、梁其伟2016毁画与留存画册/家长仍不太理解游戏职业；反驳“成功必和解／家人支援必成功”。
