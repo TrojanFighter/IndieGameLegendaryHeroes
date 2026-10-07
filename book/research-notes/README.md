@@ -8,6 +8,7 @@
 
 - [`week-sauce-contributor-collaboration-graph-034.md`](week-sauce-contributor-collaboration-graph-034.md) — 从2022 Week Sauce 部分具名多人项目追踪2023–2025不同作品的重复合作者与新成员：Snails in Peril三名署名者跨2022/2023再合作；THE CURE四位具名作者再出现在2023；区分合作关系的署名证据与由 CASE-063 已核实的2024 GGJ→2025 Steam制作谱系。
 - [`week-sauce-2022-public-creator-followup-033.md`](week-sauce-2022-public-creator-followup-033.md) — 18个原主提交账号的2022–2026公开页面回访，区分其它作品清单、明确年份的新作品、合作工作室、个人职业未知；失效作品链接不等于创作者消失。
+- [`family-support-after-commercial-failure-li-yuanyang-berardi-036.md`](family-support-after-commercial-failure-li-yuanyang-berardi-036.md) — 2017/2019李远扬亲述家庭由管束游戏到支持创作、三次商业失利后未施压（2019发售/版号/外包现金对照）；2012/2013美国GBGames Berardi失利并回受雇后妻子仍肯定其尝试。不是无条件家庭资助，亦非中国/美国人群频率。
 - [`family-acceptance-non-success-countercases-035.md`](family-acceptance-non-success-countercases-035.md) — Croshaw2011已成名父母仍否定职业、Keith Judge2011–13靠储蓄/伴侣工资却未完成独立项目、Mike Bithell父亲秘密带DOOM回家、梁其伟2016毁画与留存画册/家长仍不太理解游戏职业；反驳“成功必和解／家人支援必成功”。
 - [`doom-intergenerational-reconciliation-032.md`](doom-intergenerational-reconciliation-032.md) — 《DOOM启世录》后期家长认错、作品认可、母亲开始玩Keen、1999年为DOOM辩护、Romero与下一代同玩的长时段传记；中美对照中把成功后的认可与实际伤害修复严格拆开。
 - [`public-unfeatured-week-sauce-apr-2022-cohort-031.md`](public-unfeatured-week-sauce-apr-2022-cohort-031.md) — 2022年4月 Week Sauce 18条公开提交作品全样本名册（含实体桌游、未完成原型与失效链接），2026逐项公开页面检查；可观察的普通创作时间/后续，不把未更新误判职业失败。仅代表特定 jam 的 public attempt frame。
