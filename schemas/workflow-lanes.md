@@ -107,6 +107,7 @@ Signal 协议见 [`signal-decision-protocol.md`](signal-decision-protocol.md)。
 - 叙事节奏；
 - 写作风格；
 - 成书导出。
+- 既有 reader prose 的逐篇编辑与历史忠实性回读；具体过程见 [Editorial Rewrite Protocol](../book/EDITORIAL-REWRITE-PROTOCOL.md)。
 
 Lane C 只能消费已经进入 Case / Evidence / Claim 的事实。
 
@@ -118,6 +119,7 @@ Lane C 只能消费已经进入 Case / Evidence / Claim 的事实。
 - 把 reviewer / publisher / platform / family support 隐去；
 - 因为文章需要高潮而重排真实因果顺序；
 - 在 reader layer 直接创造 canonical facts。
+- 因为表面上的“AI 文风问题”对全部文章进行无差别批量重写或强行统一叙述风格。
 
 ## Handoff rule
 
