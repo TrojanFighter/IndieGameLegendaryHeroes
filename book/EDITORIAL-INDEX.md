@@ -29,11 +29,10 @@
 - [Claims](../claims/README.md)
 - [Program Map](../PROGRAM-MAP.md)
 - [Industrial Revolutions Comparative Lab](../cross-industry/industrial-revolutions/README.md)
+- [Strategic Disloyalty / American Individualism 040](research-notes/early-id-strategic-disloyalty-american-individualism-040.md) — early id如何把雇主、成熟产品、publisher权威和收购报价视为可撤销安排；Sierra 1992 future-option定价、shareware outside option、美国rugged individualism/civil religion边界及日本slot-based反例。
 - [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md) — 按主创能力类型补正例、边界例与压力对照
 - [GGJ 2026 Survey/Archive Selection & Sunset 038](research-notes/ggj-2026-survey-and-archive-denominator-038.md) — 39,197参与、9,874作品、3,535答卷分别是什么分母；2014–23旧GGJ作品归档的2027紧迫期限及官方日期矛盾。
 - [Nonhit Indie Production Costs & Family Voices 039](research-notes/ordinary-indie-household-runway-two-hits-selection-039.md) — 加拿大Giguère两作2017年低收入与累计外包投入、越南SOGA首作失利和母亲鼓励、妻子实质共同开发及2025追忆后的名人可见性。
-- [GGJ Survey Selection & 2027 Archive Sunset 038](research-notes/ggj-2026-survey-and-archive-denominator-038.md) — 2026参与者、作品、志愿答卷三种分母及2014—23遗留游戏档案移除风险。
-- [Nonhit Indie Costs & Family Narratives 039](research-notes/ordinary-indie-household-runway-two-hits-selection-039.md) — 加拿大Kevin Giguère成本公开复盘、越南SOGA首作失败与母亲/妻子支持，缺家属独立证词。
 - [Family Legitimacy Before Sales & Fifteen-Year Exit 037](research-notes/family-legitimacy-visible-labor-and-fifteen-year-exit-037.md) — Joysteak 2019父母从可见劳动而非卖座榜单改变看法、Berardi 2010–2025兼职创作与职业边界、Toby Đỗ 2022–2026有家庭艺术支持仍未正式发售；配偶匿名公开口供证据审计。
 - [Supported After Failure — Li Yuanyang & Gianfranco Berardi 036](research-notes/family-support-after-commercial-failure-li-yuanyang-berardi-036.md) — 厦门地心/《纽扣兄弟》从2017家长认可到2019市场失败仍无明显家属压力；美国GBGames从2012未婚妻支持到2013复职后仍被肯定尝试。
 - [Family Approval/Success Countercases 035](research-notes/family-acceptance-non-success-countercases-035.md) — Croshaw/Keith Judge/Mike Bithell/梁其伟：声望≠家长认可、家庭收入支援≠项目成品、留存画作≠童年未遭作品破坏。
