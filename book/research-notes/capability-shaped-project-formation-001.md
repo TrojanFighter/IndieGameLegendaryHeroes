@@ -567,6 +567,72 @@ Journey 结束时，TGC 的 Sony 三作合同已经结束。Sony era 给它提�
 
 下一步真正缺的已经不是第五种“钱”，而是更接近合同层的 decision-right evidence。
 
+### Spiderweb：最便宜的下一作，往往也是最贵的转型
+
+CASE-058 让 `FIT-LOCK-IN` 不再只靠 Zachtronics。
+
+Jeff Vogel 的 Spiderweb 几乎是长期 capability fit 的极端实验：
+- 三十多年低预算、重文本、回合制 fantasy RPG；
+- engine / code / art 大量复用；
+- 熟悉 grammar 下通常 12–14 个月级开发；
+- loyal niche audience；
+- back catalog 长期继续卖；
+- 作者本人对 writing / systems / low-cost production 的能力极其熟悉。
+
+这些东西叠起来以后，下一款“Spiderweb 游戏”会异常便宜。
+
+但这也意味着真正改变方向时，要同时重新购买：
+- technology；
+- interface；
+- visual language；
+- production estimates；
+- player expectations；
+- market acquisition。
+
+Queen's Wish 正好提供一次真实的 transition experiment。
+
+它不是完全跨 genre，却已经足够大幅改变：
+- new world；
+- new engine；
+- new game system；
+- new visual approach；
+- first Kickstarter。
+
+结果也不是简单失败：
+- 第一作最终找到自己的 audience；
+- 但第二作到 2026 的 Steam sales 约为第一作一半；
+- 完整第三作变得不再 feasible；
+- Spiderweb 先靠 remasters 稳定财务，再用较小免费 epilogue 收尾。
+
+Vogel 对原因的总结比外部理论更重要：
+
+> 要保持新鲜就必须变化；但变化会丢掉一批老玩家。你必须赚到足够的新玩家补回来。
+
+所以 `FIT-LOCK-IN` 可以更精确地写成：
+
+`old fit capital`
+= reusable tech
++ assets
++ tacit skill
++ production cadence
++ audience
++ brand
++ catalog cashflow
+
+`switching cost`
+= production reset
++ learning
++ longer cycle
++ old-audience churn
++ new-audience acquisition
+
+因此：
+
+> **长期成功不会让转型“不可能”，但会把转型从设计选择变成资本再配置。**
+
+Zachtronics 与 Spiderweb 的共同点不在 genre，而在同一机制：
+**历史上越成功地把自己塑造成某一种生产机器，就越需要为“不再是这台机器”付费。**
+
 ## 更大的统一模型
 
 因此“能力反向立项”不应被误写成：
