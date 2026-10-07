@@ -72,6 +72,13 @@ Anchors: [family gate US-China research 027](../book/research-notes/family-gates
 
 **增加商业失败后的家庭状态检查：[李远扬 × Gianfranco Berardi 036](../book/research-notes/family-support-after-commercial-failure-li-yuanyang-berardi-036.md)**。对于未回本、未正式发售或已返回全职就业的主创，记录家属态度 `PRE-ATTEMPT / AFTER-FIRST-SALE / AFTER-DISAPPOINTING-SALES / AFTER-EXIT` 的**时间序列**。家庭支持至少拆成 `encouraged-art-education`、`allowed-game-career`、`supported-household-cash`、`protected-personal-dignity-on-exit`；不能把任何一条单独升级为“无条件支持”。夫妻/父母不能作为同一种家庭关系混用；父亲、母亲、伴侣及家族其他成员各自何时在世/在场/被采访必须记清。未获得家属本人叙述，采用开发者转述并记录`NO INDEPENDENT HOUSEHOLD VOICE`；`disappointment at product` ≠ `disapproval of person`。
 
+**创作身份跨十五年的结局也要审计：[037](../book/research-notes/family-legitimacy-visible-labor-and-fifteen-year-exit-037.md)**：
+
+- 区分 `VISIBLE_WORK`（家人实际看见按周工作的过程）/`INSTITUTIONAL_PROOF`（学历、jam奖项、专业师友、发行合同）/`COMMERCIAL_PROOF`（产品真实净收入与创作者分得现金）/ `GAMES_RELATED_COMPENSATION`（外包/甲方/雇佣工作与自己游戏收入），证据不足时用 UNKNOWN，不把这些成绩与亲人改变态度的时间同现写成必然因果。
+- 结局至少继续观察`AFTER_EXIT` → `5_YEARS_LATER` → `10_YEARS_LATER`；例如Berardi2012回受雇、2013发文、2025仍未第二次全职独立却持续发布小产品。职位变化不等于创造终止；无第二次全职indie不等于个人失败或作品未交付。
+- `PLANNED_RELEASE`、`COMING_SOON`、`RELEASED`、`CANCELLED`、`COMMERCIAL_DISAPPOINTMENT`、`PERMANENT_CAREER_EXIT`是不同标签。2022众筹成功、2026Steam仍未发售的项目不应被随意标记失败。
+- 第二方亲属言说标`FAMILY_MEMBER_SELF_REPORTED`，但验证`relationship_identity_verified`和`promotional_context`；匿名社交营销帖即使自称配偶也是低可信线索，不能据此推出普遍支持率、收入分担和家庭幸福。
+
 来源边界：真实对话若仅见于多年后传记只能标S1、不能伪装同期录音。例见 [DOOM代际和解审计 032](../book/research-notes/doom-intergenerational-reconciliation-032.md) E031–E037。心理学的条件性认可概念不能直接给历史人物做心理诊断。
 
 ## 2. Life Crossroads / 人生关键岔路
