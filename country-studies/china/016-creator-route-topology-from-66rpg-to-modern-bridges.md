@@ -216,7 +216,7 @@ P1 — Failure-to-Reentry：以首作失败/停更/未发售项目为frame，跟
 
 新增 [021](021-creator-to-infrastructure-conversion-coconut-hypergryph-coreblazer.md)。中国路线不仅数量增加，而且已有两代 creator-origin infrastructure：椰岛把自身市场成功转成 Game Jam / IndieACE / CiGA 与第三方发行；鹰角把《明日方舟》成功后的资本与生产经验转成开拓芯，开始为年轻团队提供长期资金、办公、公司化、发行和第二作支持。由此新增 CREATOR_TO_INFRASTRUCTURE_CONVERSION / INFRASTRUCTURE_CONVERSION_PROPENSITY / RECURSIVE_REPRODUCTION。
 
-关键未决点从“有没有扶持”转为：**被扶持的第二代创作者会不会继续成为第三代人的基础设施。**
+关键未决点从“有没有扶持”进一步拆开：**社群层已有“参与者→组织者”的递归案例；真正未决的是资本/发行层，被扶持的第二代团队会不会继续成为第三代人的资金与市场基础设施。**
 
 ## 14. Verdict
 
