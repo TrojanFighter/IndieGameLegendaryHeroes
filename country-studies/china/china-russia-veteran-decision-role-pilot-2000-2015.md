@@ -1,5 +1,7 @@
 # 中俄老兵决策位：个人级试验矩阵（2000—2015）
 
+> **2026-10-08 方法纠错**：本文件为selected-case pilot，不得由若干长期主创推断俄罗斯的Veteran Decision-Role Density高于中国。数量级与经验分布审计见 [中俄游戏从业者老兵数量级审计（2018—2021）](china-russia-veteran-scale-audit-2018-2021.md)。跨国密度结论目前为 UNKNOWN。
+
 - Type: Cross-country person-level pilot / decision-role audit
 - Status: PILOT — SELECTED CASES, NOT REPRESENTATIVE
 - Date: 2026-10-08
