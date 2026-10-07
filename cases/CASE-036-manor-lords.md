@@ -133,3 +133,20 @@ Greg 多年 Unreal 熟练度、Manor Lords 题材/视觉的市场吸引力、Meg
 3. credits audit：freelancer、QA、music、mocap、art、porting；
 4. 核 Hooded Horse 签约时 wishlist 基线与之后增长；
 5. 跟踪 post-launch team expansion 是否改变 Slavic Magic 组织模型。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** 长期 hobby / part-time solo-core 创作者，早期靠视频自由职业维持；后在 Patreon / MegaGrant 后转 full-time。
+- **Household:** relationship / children / housing / dependents `UNKNOWN`。
+- **Runway:** video freelance income → Patreon → Epic MegaGrant → external freelancers / full-time focus → publisher market perimeter → Early Access sales。
+- **Household burn:** `UNKNOWN`；但自由职业占用作者时间是明确 binding constraint，grant 的第一价值之一是买回 full-time focus。
+- **Exit / recovery:** **MEDIUM / UNKNOWN** — 有可变现的视频自由职业能力，但转 full-time 后真实回撤能力未核。
+- **Capability vector:** long-horizon Unreal / game-making generalist；product/engineering core 强；mocap cleanup、illustration、QA、marketing/distribution 等选择性外部化。
+- **Problem ownership:** **HIGH** — 长期唯一 permanent studio member，核心 product thesis 与关键工程控制集中；publisher 主要补市场/分发外围。
+- **Validation architecture:** hobby build / community → Patreon → MegaGrant → public wishlist / Next Fest → publisher amplification → Early Access → post-launch team expansion。
+- **Reality adjudication:** **PARTIAL→STRONG market-side** — wishlist / demo / EA 提供强外部 truth；早期核心设计如何被 playtest 否决仍需补。
+- **Capability capture risk:** **MEDIUM / UNKNOWN** — 强 Unreal/technical generalist 可能承担过多，但现有证据更支持 selective outsourcing，而非技术前沿自我吞噬。
+- **Market sufficiency / legibility:** **STRONG** — 题材/视觉/城市建设定位可读性高，wishlist / Next Fest / EA 形成强需求信号。
+- **Capability scaling:** **ELASTIC PERIMETER** — permanent core 极小，通过 assets、freelancers、QLOC、Hooded Horse 与 post-launch hires 补 throughput。
+- **Major unknowns:** household economics、Patreon/MegaGrant 金额、publisher financing、个人累计投入、精确 freelancer/credit perimeter。
