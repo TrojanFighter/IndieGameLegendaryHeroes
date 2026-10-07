@@ -250,3 +250,20 @@ Steam 后来将《一个适合苏丹的游戏》作为“原著小说”DLC 正�
 5. 恢复海外销售结构、本地化成本与英语/日语版本改进时间线；
 6. 找 2–3 个同样来自中国手游工业、但 premium 转型失败或表现一般的对照案例；
 7. 用更多项目检验 Creative Reserve：私人小说 / prototype / mod 是否真的降低了立项与团队对齐成本，还是成功后的叙事偏差。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL
+- **Life stage:** 核心为多年商业手游老兵；组织从约 200 人商业公司收缩到不足 20 人，再以约 9 人 core 生产 premium 项目。
+- **Household:** 各核心成员 relationship / children / housing / family support `UNKNOWN`；不得把公司危机直接等同个人 household crisis。
+- **Runway:** 旧公司曾有过亿元融资，后因项目失败严重收缩；Sultan's Game 开发期实际可用现金、旧投资人剩余权利、2P Games advance/MG、摩点净融资仍未闭环。
+- **Household burn:** `UNKNOWN`；已确认 human cost / crunch 很高，但不等于家庭现金流已知。
+- **Exit / recovery:** `UNKNOWN` — 成员拥有成熟行业能力，但公司收缩时各自可选职业路径和 household risk 未公开。
+- **Capability vector:** 高密度文本/事件、美术、系统设计、版本生产、长期团队 tacit capital；动作/高成本表现被主动弱化；已有短篇小说形成 creative reserve。
+- **Problem ownership:** **HIGH / CONTROL BOUNDARY PARTIAL** — 剩余核心按“冰箱里有什么”反推项目并主动放松旧手游 objective function；但 publisher / investor decision rights 未完全核。
+- **Validation architecture:** creative reserve / short story → playable Demo → Steam Next Fest / wishlist >100k public signal → publisher/crowdfunding perimeter → premium launch → post-launch localization/community updates。
+- **Reality adjudication:** **STRONG** — Demo / Steam 玩家在大规模发售前提供直接 signal；团队也持续修本地化与体验。
+- **Capability capture risk:** **LOW / UNKNOWN** — 现有材料更支持 capability-shaped scope；主要风险反而是 human cost 和 scope 仍偏大。
+- **Market sufficiency / legibility:** **STRONG** — Demo、wishlists、首周销量与后续官方百万销量信号都显示产品 category / premise 具备足够市场吸引力。
+- **Capability scaling:** strong through veteran core + publisher / community / localization perimeter；但 scalability 伴随明显 human-cost。
+- **Major unknowns:** household economics、Double Cross ownership、2P financing/recoup、旧资本权利、真实 burn 与成员 compensation。
