@@ -75,7 +75,7 @@
 
 ## 美国 PC 纵向对照组：early id / DOOM → Quake → Ion Storm
 
-《独立篇》的 [《DOOM启世录》纵向母案例](../../book/research-notes/masters-of-doom-longitudinal-master-study-001.md) 作为**跨书对照**引用，而非在本篇重建一份美国案例。它帮助把 GSC→4A 的组织裂变、PC 工程传统、俄罗斯/乌克兰游戏的全球发行结构等问题转为可比较变量：
+《独立篇》的 [《DOOM启世录》纵向母案例](../../book/research-notes/masters-of-doom-longitudinal-master-study-001.md) 及 [1980年代美国人物生命史与机会分布](../../book/research-notes/early-id-1980s-america-life-decisions-001.md) 作为**跨书对照**引用，而非在本篇重建一份美国案例。它帮助把 GSC→4A 的组织裂变、PC 工程传统、俄罗斯/乌克兰游戏的全球发行结构等问题转为可比较变量：
 
 - 技术机会是被动继承、重新组合，还是由本团队主动推进 frontier？
 - 谁把技术突破转译为实际玩家体验、内容生产工艺与商业发行接口？
