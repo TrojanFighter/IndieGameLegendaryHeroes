@@ -185,6 +185,69 @@ Evidence Strength 继续由 Case Schema 单独管理。
 
 ---
 
+## 7A. Career Prestige / Authorial Continuity
+
+当 Case 涉及名校、名企、AAA、大厂、专业服务公司或其他高声望职业路径时，额外检查三项。
+
+### Identity Coupling
+
+> 学历 / 雇主 / 职级是否只是能力与收入来源，还是已经成为主要自我价值证明？
+
+可观察：
+- 离开高声望机构是否被当成身份降级；
+- 小项目/粗原型是否带来 status shame；
+- 是否必须做“配得上履历”的项目；
+- 是否仍等待外部权威批准方向。
+
+建议：
+- `LOW`
+- `MEDIUM`
+- `HIGH`
+- `UNKNOWN`
+
+### Parallel Authorial Thread
+
+> 正式教育/雇佣之外，是否长期存在独立问题定义—作品—反馈链？
+
+可记录：
+- side project；
+- game jam / mod / UGC；
+- criticism / writing；
+- open-source；
+- board game / music / film / art；
+- non-work collaborator；
+- public artifact / audience。
+
+关键不是“有爱好”，而是是否存在：
+
+```text
+self-generated problem
+→ artifact
+→ external feedback
+→ revision
+→ continuity
+```
+
+### Prestige-Preserving Project Distortion
+
+> 独立项目是否为了维持过去学历/雇主/职级的专业身份，而承担了产品验证并不需要的成本？
+
+检查：
+- prototype over-polish；
+- headcount-before-evidence；
+- pipeline-before-problem；
+- benchmark-as-legitimacy；
+- status-preserving scope；
+- 对 2D / toy / mod / ugly prototype 的 status aversion。
+
+核心反事实问题：
+
+> **If nobody knew your résumé, would you still build the project this way?**
+
+没有证据时写 `UNKNOWN`，不得从“中国大厂”“AAA veteran”“名校生”标签直接推断。
+
+---
+
 ## 8. Validation Architecture
 
 必须重建：
