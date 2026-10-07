@@ -8,6 +8,8 @@
 
 研究账本在各篇末尾；看不见公开证据的生活细节不补写。
 
+**证据与全文核对：** [GRIS / Nomada Evidence Ledger](../../evidence/CASE-050-nomada-gris-neva-source-ledger.md) · [Zachtronics Evidence Ledger](../../evidence/CASE-051-zachtronics-source-ledger.md) · [The First Tree Evidence Ledger](../../evidence/CASE-042-the-first-tree-source-ledger.md)。
+
 ## 我还在形成自己的目标
 
 - [John Romero / John Carmack 与 early id / DOOM](early-id-doom.md)：两个兴趣和能力结构迥异的少年怎样成为合作伙伴、制造技术窗口，后来又分道扬镳。
