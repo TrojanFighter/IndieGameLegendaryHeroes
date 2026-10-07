@@ -1,5 +1,5 @@
 {
-  "version": 34,
+  "version": 35,
   "last_updated": "2026-10-07",
   "cases": [
     {
@@ -1950,6 +1950,69 @@
       ],
       "last_verified": "2026-10-07",
       "evidence_ledger": "evidence/CASE-060-croteam-staged-lockin-escape-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-061",
+      "file": "cases/CASE-061-supergiant-bastion-aaa-to-author.md",
+      "subject": "Supergiant / Bastion: EA capability transfer, independent authorship and household runway",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C015"
+      ],
+      "tags": [
+        "aaa-skill-transfer",
+        "authorial-independence",
+        "supergiant",
+        "bastion",
+        "household-runway",
+        "family-office-subsidy",
+        "capability-composed",
+        "ip-ownership",
+        "industry-veteran",
+        "market-access",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-061-supergiant-bastion-aaa-to-author-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-062",
+      "file": "cases/CASE-062-red-hook-darkest-dungeon-veteran-household-risk.md",
+      "subject": "Red Hook / Darkest Dungeon: industry-veteran authorship, mortgage, parenting and staged funding",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C015"
+      ],
+      "tags": [
+        "aaa-skill-transfer",
+        "authorial-independence",
+        "red-hook",
+        "darkest-dungeon",
+        "household-runway",
+        "mortgage",
+        "parenting",
+        "crowdfunding",
+        "debt",
+        "capability-composed",
+        "market-access",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-062-red-hook-darkest-dungeon-veteran-household-risk-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "partial",
       "schema_version": 2,
