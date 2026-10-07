@@ -103,3 +103,20 @@ SARPBC 不能简单标成“失败”：
 4. PS Plus 合同到底改变了 acquisition、收入还是两者？
 5. 哪些技术/代码直接继承，哪些只是团队 tacit knowledge？
 6. “七年 refinement”里真正改变 retention / accessibility 的关键决策是什么？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL / STUDIO-LEVEL
+- **Life stage:** Psyonix 已是长期运营的职业工作室；不是首次创业或低资本个人独立开发。
+- **Household:** founder / team personal household `UNKNOWN / NOT PRIMARY`；本案重点是公司级 survival 与 retained team capital。
+- **Runway:** 长期 AAA contract / work-for-hire 现金流支撑公司运转，同时保留部分原创研发；SARPBC 商业弱势但提供玩法与团队学习；Rocket League 在此基础上继续投入。
+- **Household burn:** **NOT APPLICABLE at current evidence level**；应分析 studio payroll / opportunity cost 而非猜个人家庭。
+- **Exit / recovery:** **HIGH ORGANIZATIONAL OPTIONALITY** — 公司有持续 contract market、Unreal 专业能力和 AAA relationships，可在原创项目未爆发时靠服务业务维持组织。
+- **Capability vector:** Unreal engineering / networking / multiplayer production / AAA contractor discipline / team coordination；原创侧积累车辆+球核心玩法与 accessibility 经验。
+- **Problem ownership:** **MIXED BUT PRESERVED** — work-for-hire 支付账单，但公司长期保留自有 IP / internal experiments；原创并未被服务业务完全吃掉。
+- **Validation architecture:** contract-funded survival → vehicle/ball prototypes → SARPBC launch / weak commercial result → years of user/design learning → Rocket League refinement → PS Plus/Steam/creator amplification。
+- **Reality adjudication:** **STRONG** — SARPBC 没有被浪漫化成成功；其 accessibility / skill-floor 问题直接进入 Rocket League 产品重做。
+- **Capability capture risk:** **LOW / POSITIVE REUSE** — Unreal/AAA capability 主要降低生产风险；没有证据显示技术本身拖走产品 closure。
+- **Market sufficiency / legibility:** **STRONG AFTER REFINEMENT** — “cars playing football” 高可读，但市场爆发建立在前作七年迭代、PS Plus 和已有生产资本上。
+- **Capability scaling:** **WORK-FOR-HIRE-FUNDED** — 用外部项目现金维持 permanent team，再将组织资本周期性投入 own-IP。
+- **Major unknowns:** 每年合同收入、原创资源占比、PS Plus 条款、Rocket League 逐阶段 headcount /预算、founder household。
