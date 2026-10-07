@@ -791,6 +791,62 @@ Sources:
 
 这会重新训练媒体、渠道、职业岗位与玩家习惯。
 
+### `FIRST_CLOSED_LOOP_ADVANTAGE / 首个闭环优势`
+
+2001–2004的市场数字显示，这个转折不是抽象印象。
+
+当年不同报告统计口径并不一致，因此不能把单个绝对值硬拼成连续序列；但方向高度一致：
+- 行业回顾称2001年中国电脑游戏市场约5亿元，其中网络游戏约3.1亿元，已经超过单机；
+- IDC口径：2002网络游戏约9.1亿元；同期单机约4亿元；
+- 官方2003产业报告：网络游戏实际销售13.2亿元；另一同期官方转述称PC单机销售仅约1亿元、同比下降56.52%；
+- 《大众软件》自己的2003产业报告因统计方法不同给出网游34.8亿元、单机3亿元，但同样显示网游/单机已出现数量级级差。
+
+Sources:
+- https://games.sina.com.cn/z/war3/2003-10-22/57987.shtml
+- https://games.sina.com.cn/newgames/2004/01/011912369.shtml
+- https://news.17173.com/content/2004-2-4/n242_158699.html
+- https://games.sina.com.cn/newgames/2004/07/071532779.shtml
+
+因此新增：
+
+# `FIRST_CLOSED_LOOP_ADVANTAGE`
+
+> **当一个新兴产业存在多种潜在需求，但只有其中一种较早形成可靠的“用户→支付→公司现金流→再投资”闭环时，这条闭环会抢先吸收资本、人才、媒体注意、渠道和组织学习，并把自己的objective function逐渐变成行业默认答案。**
+
+这比“玩家主动选择网游、抛弃单机”更精确。
+
+中国早期可能发生的是：
+
+```text
+premium taste exists
+but weak/unstable legal transaction
+
+while
+
+online service
+→ point cards / internet cafés / accounts
+→ repeat payment
+→ measurable retention
+→ strong cash flow
+→ capital/talent migration
+```
+
+所以产业output不能直接当作全部latent preference的民意调查。
+
+### `TRANSACTION_PATH_DEPENDENCE / 交易闭环路径依赖`
+
+一旦某条闭环先成功，它会进一步：
+- 培养对应玩家习惯；
+- 建立媒体栏目与攻略语言；
+- 建立岗位与职业晋升；
+- 建立渠道利益联盟；
+- 训练投资者“什么数据才可靠”；
+- 让后进入的其他模式必须证明自己能达到既有现金流标准。
+
+于是“什么最赚钱”逐渐被误读成“玩家真正只想要什么”。
+
+这正是 `DESIGN_ATTRACTOR` 在交易层的历史起点之一。
+
 ### 2010 — `TASTE → PRACTICE`
 
 66RPG 2005–2017提供最强草根证据。2026开放获取研究显示：
