@@ -2,23 +2,23 @@
 type: case
 schema_version: 2
 case_id: CASE-027
-status: SKELETON
+status: RESEARCHING
 subject: "Dyson Sphere Program / Youthcat Studio"
 related_claims: []
-evidence_strength: LOW
+evidence_strength: MEDIUM
 explanatory_importance: CRITICAL
 narrative_value: HIGH
 context_audit: PENDING
-last_verified: 2026-10-05
+last_verified: 2026-10-07
 ---
 # CASE-027 — 戴森球计划 / Youthcat Studio
 
 - Case ID: CASE-027
 - Subject: Dyson Sphere Program / Youthcat Studio
 - Related Claims: []
-- Research status: SKELETON — SOURCE RECOVERY REQUIRED
+- Research status: RESEARCHING — core origin/runway/publisher path recovered; household, contract and complete contributor audit still open
 - Corpus role: CHINESE COMPARATOR CANDIDATE / ELIGIBILITY UNVERIFIED
-- Last verified: 2026-10-05（仅平台字段及下列明确来源；不是全部原稿事实）
+- Last verified: 2026-10-07（已新增2021发售窗口与2026纵向创始人访谈；合同/股权/完整预算仍未核）
 - Evidence Ledger: [来源账本](../evidence/CASE-027-dyson-sphere-program-source-ledger.md)
 - 未核原稿：[研究线索存档](../sources/research-intake/CASE-027-dyson-sphere-program-unverified-20261005.md)，不作为事实来源。
 
@@ -54,19 +54,51 @@ UNKNOWN：需按项目开发时点重建工具、平台与组织条件，不使�
 
 ## 3. Origin
 
-职业履历 UNKNOWN；不能把制作者能力从成品质量倒推为已核实履历。
+2021触乐发售窗口访谈（E007）已恢复主创前史的关键边界：
+- Kat大学毕业后工作多年，长期以业余时间学习游戏策划并做过个人设计；
+- 周讯早期职业为程序员，并有多年游戏行业开发经验；
+- 两人均长期想做自己的游戏，但没有毕业即创业；
+- 2019年形成戴森球题目后，先用数月进行玩法、技术和市场验证，再辞职启动全职项目。
+
+2026回访（E008）进一步确认《戴森球计划》是Kat与周讯第一次正式创业。教育、具体前雇主、离职工资与家庭资产仍UNKNOWN。
 
 ## 4. Capability
 
-UNKNOWN：需职业记录、早期作品、工具与直接访谈，不从成品表现推算全部生产能力。
+E007支持以下能力资本：
+- 周讯：多年游戏行业/程序经验；
+- Kat：长期玩家与科幻/模拟经营兴趣，工作期间持续学习策划；
+- 两人在全职前已做数月prototype、技术验证、市场判断和开发计划；
+- 正式开工时形成5人研发核心。
+
+这支持“职业能力 + 体验资本 + 前置验证”共同降低早期不确定性，但不能把最终商业成功倒推成所有判断都正确。
 
 ## 5. Runway
 
-UNKNOWN：个人储蓄、工资、公司资源、投资、预付款及分成分别核；不估算总预算。
+E007/E008已经确认早期runway主结构：
+- 开工时没有外部投资；
+- 主要使用周讯多年积蓄；
+- 团队自行规划约两年现金窗口，包含工资与音频等外包；
+- 上线前现金实际见底，2021年1月发工资节点出现困难；
+- 摩点众筹累计十多万元，但第一阶段实际到账仅五万多；
+- Kat回忆上线前向Gamirror请求先支付“第一笔款”，对方同意优先给研发使用。
+
+仍UNKNOWN：
+- 创始人储蓄绝对额、家庭资产与住房成本；
+- publisher首笔款的合同性质、金额、recoup与分成；
+- 众筹净额；
+- 总开发预算。
+
+所以本案可以用于“founder-savings runway + late publisher bridge”比较，但不能用于精确预算建议。
 
 ## 6. Production
 
-UNKNOWN：核心、峰值、累计 contributors、外包和发行支持分别核验。
+- 2021发售窗口核心团队：5人；
+- 正式启动时两位创始人辞职、租办公室、购置设备并招3人；
+- 预算明确包含音频等外包；
+- Gamera/Gamirror承担英文化、海外众筹、配音、封闭测试与发行等外围；
+- 2026公司接近20人，项目核心研发不到10人，但这是成功后五年扩张状态，不能回填为2021团队规模。
+
+完整credits、外包名单、QA、本地化与平台支持仍待 contributor audit。
 
 ## 7. Scope
 
@@ -78,7 +110,12 @@ UNKNOWN：需时间线、直接证词、双方版本及对照资料，不用单�
 
 ## 9. Market
 
-当前发行商字段已核验；历史渠道劳动、曝光、wishlist、销量与因果归因均 UNKNOWN。
+- Steam当前开发者/发行商字段已核（E006）；
+- E007显示团队立项时就决定首发面向海外，并由Gamera协助英文化；
+- Gamera通过微博主动发现工作室，后续组织海外众筹、封闭测试、配音与发行；
+- 发售后销量/榜单已有同期报道，但本轮不把商业结果用于反推发行因果。
+
+重要机制：市场接口并非项目做完后的最后一步，但Gamera并不是已证的早期项目出资者。
 
 ## 10. Environment
 
@@ -90,7 +127,24 @@ UNKNOWN：没有对照与时间线前，不把偶然事件当充分原因。
 
 ## 12. Verdict
 
-仅当前平台身份和明确列出的公告内容被直接支持。原稿人数、资金、组织与生产机制尚未达到原先标注的强度，归为 UNVERIFIED。未提升任何跨案例 Claim。
+该案已从“平台身份之外几乎全部UNKNOWN”的SKELETON恢复到可比较的RESEARCHING状态。
+
+当前可支持：
+- 5人早期核心；
+- 两位主创的长期职业/兴趣积累；
+- prototype-before-quit；
+- founder-savings-first、约两年runway；
+- 上线前现金耗尽；
+- late-stage crowdfunding和publisher bridge；
+- Gamera承担明显的国际发行/测试/本地化外围。
+
+仍不能支持：
+- 精确开发预算；
+- publisher投资额/分成/控制权；
+- household burn；
+- “这种路径通常成功”。
+
+因此它适合作为中国大陆SAVINGS-FIRST微型工作室机制案例。
 
 ## 13. Transfer
 
@@ -119,13 +173,13 @@ UNKNOWN：生活支持、资金、工具、人才与市场条件的可复制边�
 
 ## Creator Life / Decision Audit
 
-- **Audit status:** PENDING
-- **Life stage:** `UNKNOWN`
-- **Household:** `UNKNOWN`
-- **Runway:** `UNKNOWN`；当前仅有 Steam developer / publisher 身份，不能据未核线索补创业现金流。
-- **Household burn:** `UNKNOWN`
-- **Exit / recovery:** `UNKNOWN`
-- **Capability vector:** `UNKNOWN`；职业前史、核心人数与早期 prototype 仍需 source recovery。
+- **Audit status:** PARTIAL / RESEARCHING
+- **Life stage:** 已工作多年后首次创业；非毕业即创业。
+- **Household:** Kat与周讯为伴侣/夫妻关系已在2026公开访谈确认；家庭资产、住房支持、家务分工与创业前家庭现金支持仍UNKNOWN。
+- **Runway:** founder savings为主，团队自估约两年；众筹与publisher首笔款在发售前提供晚期桥接。
+- **Household burn:** UNKNOWN
+- **Exit / recovery:** 两位均有既往职业，但失败后的再就业可逆性未核。
+- **Capability vector:** 周讯=技术/游戏开发；Kat=长期玩家+业余策划学习+管理前史；全职前数月验证。
 - **Problem ownership:** `UNKNOWN`
 - **Validation architecture:** `UNKNOWN`
 - **Reality adjudication:** `UNKNOWN`
