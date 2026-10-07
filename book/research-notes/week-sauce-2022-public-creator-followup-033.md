@@ -7,7 +7,7 @@
 - Population/unit: **project-submission-linked primary itch account**；**不是**18 位经实名核验、互相独立的自然人；多人制作的原始团队不可由一个提交账号代表
 - No changes: 中国篇、斯拉夫篇、正式 CASE/CLAIM 不动
 - Gate: [028 媒体可见性与分母协议](media-selection-survivorship-and-denominator-protocol-028.md) / [Creator Visibility Sampling Gate](../../schemas/creator-visibility-sampling-gate.md)
-- **035/036 source progression:** 034 曾将 2024 Jam→2025 Steam 制作谱系记为未核候选，现由开发者本人 Steam 公告与发行周回顾升级为 [036 PRODUCT_LINEAGE_CREATOR_CONFIRMED](ivories-studios-ggj-to-steam-036.md)；主账号/人物职业和收入仍 UNKNOWN。
+- **036 source progression:** 034 曾将 2024 Jam→2025 Steam 制作谱系记为未核候选，现由开发者本人 Steam 公告与发行周回顾升级为 [036 PRODUCT_LINEAGE_CREATOR_CONFIRMED](ivories-studios-ggj-to-steam-036.md)；主账号/人物职业和收入仍 UNKNOWN。
 
 ## 一、回访首先发现：作者主页与作品页面属于不同观察对象
 
