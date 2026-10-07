@@ -25,6 +25,7 @@
 - [004 — GGJ 2024台北第一会场Public-Attempt Cohort](004-ggj2024-taipei-public-attempt-cohort.md)：10个实际A-J小组的固定起点队列；11条GGJ listing中剔除1条测试条目。
 - [005 — 台湾独立游戏资本梯子](005-institutional-capital-grants-investment-market-validation.md)：拆分开发奖励、收益分成投资、众筹、平台商业验证、国发基金/种子资本及各自权利成本。
 - [006 — 2021独立游戏开发奖励8案纵向队列](006-2021-indie-game-award-cohort-followup.md)：完整追踪获奖者发售/未发售状态，并明确 selected-winner conversion 不能冒充政策因果效果。
+- [007 — 两岸游戏产业的选择效应](007-cross-strait-selection-effects-information-talent-regulation.md)：补入2002→2017人才价格梯度反转、台湾成人向专业发行生态、早期日本/欧美信息先发与类型移植，以及“今天留下的人≠原始创作者人口”的方法论修正。
 
 ## 研究分工（单一权威，不重复记账）
 
