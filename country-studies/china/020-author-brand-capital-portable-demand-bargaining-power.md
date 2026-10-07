@@ -419,6 +419,94 @@ creator leaves
 
 这是H，后续需要真实contract / credit / exit案例验证，不应直接推定公司故意如此。
 
+## 10.1 `DEMAND-SIDE QUASI-PROPERTY / 需求侧准产权`
+
+作者品牌资本可被理解为一种非法律意义上的“准产权”：
+
+```text
+company may own:
+IP / trademark / code / distribution contract
+
+creator may still own:
+skill / judgment / reputation / portable audience trust
+```
+
+如果玩家的购买意愿部分绑定到具体作者，这部分需求关系并不能被雇主像IP一样完全占有。
+
+于是：
+- creator被替换时，部分attention/revenue可能流失；
+- creator离职时，能把一部分市场预期带走；
+- publisher / platform为了获得这部分需求，需要直接与creator重新谈判。
+
+因此：
+
+> **作者品牌资本是一种把“人格/声誉”转化为outside option的需求侧资产。**
+
+它不是法律上的IP权，也不保证创作者拥有客户名单或数据，因此必须称“quasi-property”，不能写成正式产权。
+
+### 2015 Kojima/Konami：`ATTRIBUTION ASSET` 的可见冲突
+
+2015年《MGSV》最终box art与宣传材料移除了此前存在的Kojima Productions标识与 “A Hideo Kojima Game”；同时Kojima名字/工作室branding也从多个官方渠道被弱化或移除。
+
+Sources:
+- https://arstechnica.com/gaming/2015/07/konami-removes-kojimas-name-from-metal-gear-solid-v-box-art/
+- https://www.theguardian.com/technology/2015/dec/17/metal-gear-solid-games-creator-hideo-kojima-konami
+
+这里能确认的是：
+> **产品归因方式发生了变化。**
+
+不能确认：
+> Konami主观目的就是为了剥夺Kojima bargaining power。
+
+但该事件证明：
+- author attribution不是抽象荣誉；
+- box art / marketing / studio label会改变玩家把作品归因给谁；
+- attribution本身属于品牌资产形成机制。
+
+因此新增：
+
+# `ATTRIBUTION_INFRASTRUCTURE`
+
+> **把作品结果稳定绑定到具体作者/团队的制度与传播设施。**
+
+包括：
+- credits；
+- box/store-page naming；
+- “A ___ Game”式标识；
+- developer interviews；
+- awards attribution；
+- conference talks；
+- media retrospectives；
+- public studio identity。
+
+没有 Attribution Infrastructure，作者即使做出关键贡献，也可能难以形成portable demand。
+
+### `CREDIT BOTTLENECK`
+
+如果：
+- 玩家只见到IP；
+- 媒体只采访公司发言人；
+- 商店页不突出creator；
+- awards只给产品/公司；
+- 关键个人长期不公开；
+
+则可能出现：
+
+```text
+individual creates differentiated value
+→ value recognized at product level
+→ brand accrues to IP/studio
+→ individual portable market capital remains low
+```
+
+这不自动等于不公，因为：
+- 大型游戏确实是集体生产；
+- 公司也需要降低key-person risk；
+- studio brand可能比个人auteur更适合长期组织。
+
+研究重点仍是：
+> **credit与decision-right / economic-return到底如何分配，而不是要求所有团队制造明星。**
+
 ## 11. 与 Taste Institutions 的接口
 
 作者品牌不能凭空形成。
@@ -457,6 +545,31 @@ AUTHOR BRAND CAPITAL
 的媒体生态，会天然减弱作者品牌资本的生成速度。
 
 这就是019未来要测的“中国玩家作者识别率”。
+
+## 11.1 `BRAND LOCUS` 四种典型结构
+
+| Archetype | Brand locus | 机制 | 主要风险 |
+|---|---|---|---|
+| Kojima | AUTHOR-dominant | 玩家/平台把创作信任绑定个人，可跨IP/平台迁移 | key-person / expectation lock-in |
+| Miyazaki + FromSoftware | AUTHOR × STUDIO hybrid | 个人设计哲学与工作室工艺共同构成信任 | 继任与团队贡献遮蔽 |
+| Sid Meier's Civilization | institutionalized AUTHOR NAME × IP | 原作者名字成为长期quality seal，即使lead designer更换 | name fossilization / attribution ambiguity |
+| Call of Duty | IP × STUDIO NETWORK | 多工作室工业系统维持品牌，不依赖单个公开auteur | individual portable credit弱 |
+
+这四种都可能生产优秀作品。
+
+因此真正的问题不是：
+> “有没有明星制作人？”
+
+而是：
+> **品牌资本被配置到哪一层？这种配置是否与团队治理、创新需求和继任模型匹配？**
+
+中国2026可能同时出现：
+- 冯骥 / Game Science / Black Myth 的 hybrid；
+- 梁其伟 / S-GAME / Phantom Blade 的 authorial-continuity hybrid；
+- 米哈游/HoYoverse等更强corporate/studio brand；
+- 大型商业IP中较弱的individual creator visibility。
+
+这些需要逐案取证，不能从公司类型直接赋值。
 
 ## 12. 新的Creator Profile强制字段
 
