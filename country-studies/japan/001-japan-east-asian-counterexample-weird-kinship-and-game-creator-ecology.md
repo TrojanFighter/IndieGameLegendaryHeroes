@@ -414,6 +414,18 @@ FRONTIER_PERMEABILITY
 
 这可以产生“产品工艺仍强、老作者仍强，但新作者出现速度下降”的局面。该命题目前状态：**H / 需要代际分母与失败样本。**
 
+### 10.7.5 与美国early id形成的更清楚对照：EXIT-BASED vs SLOT-BASED
+
+[040 — early id战略性不忠诚、美国个人主义与Sierra未收购](../../book/research-notes/early-id-strategic-disloyalty-american-individualism-040.md)提供另一类“异端存活”机制：
+
+- early id 1990–1993大量依赖**退出/另起炉灶/绕开旧publisher/保留公司未来选择权**，可暂称 `EXIT_BASED_ECCENTRICITY`；
+- 日本黄金时代现有材料更常见**公司内部边疆豁免、强高层担保、prototype竞争、失败后仍留组织**，可暂称 `SLOT_BASED_ECCENTRICITY`；
+- 两者都可能产生强作者性，但支付的成本不同：前者把现金/家庭/市场风险推给创始人，后者把绿灯/恩主/年资与组织政治风险留在公司内部。
+
+这直接否定“必须先把东亚社会改造成美国个人主义，才会有原创”的强命题。真正可比较的是`EXIT_TO_RECOMBINATION × PROTOTYPE_RIGHT × FAILURE_SHELTER × CREATOR_REPLACEMENT`。
+
+美国自身也不能浪漫化：若判断错误，高退出人格只会更快烧掉工资、关系与资本；early id是高可见成功者，失败分母仍缺。
+
 ### 10.8 对中国比较新增的强制变量
 
 以后中日比较至少统一编码：
