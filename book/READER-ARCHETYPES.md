@@ -180,6 +180,11 @@ Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签�
 核心问题：
 > **哪些能力是真的资本，哪些只是原 production regime 的 objective function？**
 
+再加三个问题：
+- **Identity Coupling**：如果下一作只有一个丑 2D 原型，你会不会觉得“配不上履历”？
+- **Parallel Authorial Thread**：过去三年有没有完全不受公司 KPI 支配、但持续产出 artifact 的作者线程？
+- **Prestige-Preserving Distortion**：如果没人知道你以前在哪家公司，你还会不会把这个项目做成同样的规模、规格和流程？
+
 状态：问题本身 `DURABLE`；具体中国/全球平台与融资条件 `CONDITIONAL`。
 
 ---
