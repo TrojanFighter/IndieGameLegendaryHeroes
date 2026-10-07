@@ -138,7 +138,7 @@ Kushner前半段记录Romero希望成为不同于自己父亲的人，但第一�
 
 ## 7.5 四项刚补齐的反压力：成功并非万能证明、家长支持亦不能替作品买单
 
-完整源级档案：[034 — 成功未获认可、家庭资助项目失败与不完全理解的对照](family-acceptance-non-success-countercases-035.md)。
+完整源级档案：[035 — 成功未获认可、家庭资助项目失败与不完全理解的对照](family-acceptance-non-success-countercases-035.md)。
 
 - **英国 Ben “Yahtzee” Croshaw（2011 verified AMA P1）：** 他早已凭 `Zero Punctuation` 在游戏媒体/文化领域成名，却在公开问答中表示父母一直不认可他的工作、希望他去大学。**这是游戏评论/文字和兼职游戏开发职业的反例，不能偷换为“成功商业游戏开发者的父母不支持游戏制作”**。它直接推翻“只要你有名了爸妈一定认错”这条普遍推断。来源：https://bestofama.com/amas/glt5k
 - **Keith Judge / Razorblade Games（2013亲自失败复盘）：** 前Lionhead老兵2011辞职独立，储蓄+妻子工资承担两孩、房贷开支，半年做出昂贵引擎和一关原型但没有发售，众筹只够两周按揭，回受雇游戏开发。经济支持**不保证**项目成功，回到工作岗位可以是负责任的退出，而不是“家长赢了”。但**只有妻子工资存在的事实，无她本人访谈，不能编造其情感赞同/反对**。来源：https://www.gamesbrief.com/2013/08/confessions-of-a-failed-indie-developer/
