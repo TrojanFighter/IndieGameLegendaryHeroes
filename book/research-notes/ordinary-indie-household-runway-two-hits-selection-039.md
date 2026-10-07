@@ -32,7 +32,7 @@
 **P1回顾性第一人称：** Khai Simon，`Devlog#18: Developing games is our dream, but Mom is the reason we never gave up`，Medium **2025-07-04**（文章页署名与当前时间戳；部分搜索结果/转载可能出现7月8日，优先原站作者页可见时间），https://medium.com/@sogastudio.us/devlog-18-developing-games-is-our-dream-but-mom-is-the-reason-we-never-gave-up-3d024acac7fb 。
 
 **时间线必须拆成两次游戏：**
-- 2024-03-06两人制作的越南恐怖游戏《Taken Soul | Đoạt Mệnh》先发售。作者2025年回忆说投入接近全部储蓄，遭玩家严厉批评、销量差，心态崩溃；平台游戏2017?不，应按Steam原始发售记录确认为2024-03-06，开发主体SOGA Std。Steam：https://store.steampowered.com/app/2185010/Taken_Soul/
+- 2024-03-06两人制作的越南恐怖游戏《Taken Soul | Đoạt Mệnh》先发售。作者2025年回忆说投入接近全部储蓄，遭玩家严厉批评、销量差，心态崩溃；Steam原始发售记录标为2024-03-06，开发主体SOGA Std。Steam：https://store.steampowered.com/app/2185010/Taken_Soul/
 - 首作挫折之后，他曾询问母亲应该放弃还是继续，称母亲虽不理解他制作游戏的具体工作，却鼓励他继续做喜欢的事情。**支持发生在第二作商业成绩出现之前**，但这句话只有2025年其本人追忆，**没有当时的采访、家属录音或独立母亲版本**；也不等于母亲直接支付制作资金。
 - 第二作《Cabin Crew Life Simulator》在**2025-02-19**进入Steam **Early Access**，不是完成1.0。作者说这是与妻子二人共同开发：他写代码和集成发行，她负责美术、对话、社区回复、玩家关系，夫妻共同策划/开发；第二作的启动预算主要来自婚礼礼金，**不是第一作已卖出充分利润，也不等于母亲投资**。当时刚刚摆脱第一作的现金困境。
 - 作者在2025-07稿称累计售出**超过15,000份**，第1天`US$10,000`、第1周`US$59,000`、第1月`US$105,000`，但未说明是税前毛销售还是扣平台佣金和退款后的结算到手，也不是独立审计收入/净利润。Steam可用于确证2025-02-19 EA状态，不能用平台评价数自行推出精确销量。
@@ -50,21 +50,21 @@
 | 可用生产劳动 | 编程+外包>20美术+作曲+合作者 | 夫妻编程、美术、写作、玩家沟通分工 | `solo`标签自动等于实际一人 |
 | 钱由谁支付 | 2012–2017多年约$85k外包+次作$15k+本人极低2017生活成本，资金来源混合 | 首作储蓄、第二作婚礼礼金、家庭生活/照护共同承担 | 母亲鼓励等于掏全部钱 |
 | 亲属认可的可证时段 | 2018本人笼统说家人朋友支持；家庭谁、方式、钱未知 | 2025回顾：2024首作失利后母亲劝继续，2025妻子持续共同劳动 | 任何家属本人同期原话 |
-| 可见商业结果 | 2017两游戏发售后收入<6000元**美元**，2018自述仍需寻找更可持续项目；2019有发行新作品 | 2024首作不佳；2025-02二作EA，2025-07作者报>15k销量 | 人生终局商业成绩、可推广成功率 |
+| 可见商业结果 | 2017两游戏发售后销售额合计<US$6,000，2018自述仍需寻找更可持续项目；2019有发行新作品 | 2024首作不佳；2025-02二作EA，2025-07作者报>15k销量 | 人生终局商业成绩、可推广成功率 |
 | 资料进入媒体的机制 | 2018当期主动写失败复盘并被专业网站刊出 | 二作EA后有起色、母亲离世后作者发布追忆帖 | 不发帖的成千上万普通人怎样 |
 
-## 四、2014另一份家庭经济反证：支持可以靠重新分配劳动而非无限烧钱
+## 四、尚未补齐的家庭第二方证词
 
-Thomas Henshell, `My Wife Wants Me To Make Video Games`, 2014-11-03博客，可核原始作者口吻和当时情况：https://thomashenshell.com/my-wife-wants-me-to-make-video-games/ 。
+Thomas Henshell，`My Wife Wants Me To Make Video Games`，原拟作为“妻子提供工资、开发者承接家务与育儿”的有趣对照，但本轮尝试访问旧页**未取得正文**：https://thomashenshell.com/my-wife-wants-me-to-make-video-games/ 。因此**来源目前为 `UNVERIFIED`，不能承担当事人的具体家庭分工、工资及心理状态的事实结论**；只将此条保留为后续检索线索。
 
-开发者表示伴侣支持自己继续制作游戏并承担当时主要有薪收入，自己则负责照顾小孩、买菜、做饭及清洁等家务。这不是一张证明“配偶温柔就能成功”的情感图，**而是一份非传统家庭内职业/无酬劳动再分工**；作者自述不构成配偶直接访谈，也没有账目可以推断双方是否始终满意。婚姻互动、照护时间和家庭收支是`RUNWAY`变量，而不是只在传记末尾加一个“感谢妻子”。
+在可直接阅读的 SOGA P1原文中，妻子确实负责美术、对话、社区回复等开发任务；因此可以据此指出**共同作者实际劳动 != 仅情感支持**，无需拿未经核实的旧链接“增添一个案例”。配偶的收入和无酬照护如何分摊仍需对双方直接、知情自愿的证词与同期账目。
 
 ## 五、决定本书可读性与可信度的研究裁决
 
 **能负责任说的：**
 1. 2017 Giguère两个项目多年积累约US$100k制作相关成本，首次全职年份收入远低于商业支出总额与年度生活开支；他仍继续创作且曾公开感谢家人、朋友与社群（P0 2018回顾）。
-2. 2024 SOGA首作未达预期、2025第二作EA有初步市场收入；母亲2014?不，**首作2024商业挫折后**据2025儿子回忆给予鼓励，妻子实际负责创作的多个部门，共同使用婚礼礼金启动项目（P1成功后回顾）。
-3. 上述案例证明存在`HOUSEHOLD SUPPORT WITHOUT FIRST-GAME HIT`；**不能由此估父母认可概率**，也不能把后成功的2015?不，2025案例移入“始终失败者”。
+2. 2024 SOGA首作未达预期、2025第二作EA有初步市场收入；**首作2024商业挫折后**据2025儿子回忆给予鼓励，妻子实际负责创作的多个部门，共同使用婚礼礼金启动项目（P1成功后回顾）。
+3. 上述案例证明存在`HOUSEHOLD SUPPORT WITHOUT FIRST-GAME HIT`；**不能由此估父母认可概率**，也不能把2025年第二作才获市场成绩的案例移入“始终失败者”。
 4. 对比经筛选的世界地区不能诊断“民族性格”；更接近有解释力的变量是技术经验、制作范围、直接费用与跨年成本、家庭责任、谁在做无酬劳动、家属在何时有认可、何时有外部奖项或现金。
 
 **仍未解决：** 家长本人一手访谈；自愿受访但仍未出发的青年；固定公开Jam项目在不同结果上的分布（参见GGJ的[038](ggj-2026-survey-and-archive-denominator-038.md)）；个人不写Devlog的沉默样本；Giguère 2021后家庭与收入全局；SOGA 2025年声称的收入是否毛额及家属真实投入的现金价值。
@@ -79,8 +79,8 @@ Thomas Henshell, `My Wife Wants Me To Make Video Games`, 2014-11-03博客，可�
 ### Source ledger — accessed 2026-10-07
 
 - Giguère本人，2018-03-13 `Year 1: My full time indie developer life`，P0当期年度第一人称成本报表 / 自我归因，https://www.gamedeveloper.com/business/year-1-my-full-time-indie-developer-life
-- Giguère本人，2021-03左右 `Year 4: My full time indie developer life`，P1针对2020年份回顾，https://www.gamedeveloper.com/business/year-4-my-full-time-indie-developer-life
+- Giguère本人，2021-02-23 `Year 4: My full time indie developer life`，P1针对2020年份回顾，https://www.gamedeveloper.com/business/year-4-my-full-time-indie-developer-life
 - Khai Simon本人，2025-07-04 `Devlog#18:Developing games is our dream, but Mom is the reason we never gave up`，P1对2024家人/项目经历的成功后追忆、悼文和部分2025当期开发事实，https://medium.com/@sogastudio.us/devlog-18-developing-games-is-our-dream-but-mom-is-the-reason-we-never-gave-up-3d024acac7fb
 - Valve Steam `Taken Soul` P0商店版本/年月 https://store.steampowered.com/app/2185010/Taken_Soul/
 - Valve Steam `Cabin Crew Life Simulator` P0发行EA状态 https://store.steampowered.com/app/2959610/Cabin_Crew_Life_Simulator/
-- Thomas Henshell本人，`My Wife Wants Me To Make Video Games`，2014-11-03，P0当期日记来源，需要保持所有妻子观点经其本人说法，https://thomashenshell.com/my-wife-wants-me-to-make-video-games/
+- Thomas Henshell本人，`My Wife Wants Me To Make Video Games`，旧博客具体发布日期、家务描述和作者观点本轮未核实，UNVERIFIED，只作未来线索，https://thomashenshell.com/my-wife-wants-me-to-make-video-games/
