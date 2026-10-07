@@ -159,6 +159,20 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 ---
 
+## 我已经知道想做什么，但团队缺美术、程序或其他关键能力
+
+这时最危险的问题可能不是“缺哪一个人”，而是：
+
+> **在玩家尚未证明作品成立之前，你是否准备先购买一个长期生产组织？**
+
+先读 [LR-002：我知道想做什么，但团队做不出来](life-routes/project-thesis-capability-gap-002.md)。
+
+它用 Gunpoint、The First Tree、GRIS、The Witness、Outer Wilds、Croteam 等成功侧，和 Playdead、The Magic Circle、Limit Theory 等压力侧，比较“改产品 / 自己学 / 外围化 / 找合伙人 / 招人 / 融资 / 暂停”的适用条件。
+
+这不是让你一概少花钱，而是让每次不可逆承诺都对应一个具体、可验收的玩家价值与证据门。
+
+---
+
 ## 我已经失败很多次了，是不是说明我不适合做这件事
 
 先读跨人物章节：
