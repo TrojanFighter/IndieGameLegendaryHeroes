@@ -89,3 +89,20 @@ Justin Ma 在 2018 TGDF 演讲中回顾，最终游戏大约只剩他们最初�
 4. contractors 何时进入、分别承担多少产能？
 5. 已有 FTL audience 对 Into the Breach 首发市场效率贡献多大？
 6. 本案应如何与 Rocket League 的“失败后长期迭代”形成正反对照：有钱慢试错与靠服务业务维持试错，是否产生不同设计行为？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** 已经完成 FTL 并拥有第一次商业成功的成熟二人核心；第二作不是生存性首作，而是 retained-earnings 阶段。
+- **Household:** Ma / Davis 在本阶段的 relationship / children / housing / household burn `UNKNOWN`。
+- **Runway:** FTL retained earnings + 极低固定组织成本；前一到两年主要由两人自行开发，后期再补 contractors。
+- **Household burn:** `UNKNOWN`；但上一作成功明确改善 work-life balance，并让团队能“take our time”而无需迅速融资或扩张。
+- **Exit / recovery:** **HIGH ORGANIZATIONAL OPTIONALITY** — 已有成功产品、品牌、现金流和职业资本；本案重点不是个人再就业，而是公司无需依赖下一轮外部融资。
+- **Capability vector:** Ma / Davis 已有 FTL 建立的 programming / design / art / production tacit capital；Ben Prunty、Power Up Audio、writers / art / QA 等外围按需要加入。
+- **Problem ownership:** **HIGH** — 团队主动拒绝 FTL 续作、拒绝立即扩 headcount，并长期保持“可以整个扔掉”的产品控制。
+- **Validation architecture:** retained earnings → long private prototype phase → repeated internal deletion → later public market interface / launch。
+- **Reality adjudication:** **STRONG internally, deliberately delayed externally** — 大量系统被删；团队故意延迟公开以避免外部承诺锁定错误设计。
+- **Capability capture risk:** **LOW** — 现有证据显示能力被用于缩减 decision entropy，而不是不断扩张 specialist frontier。
+- **Market sufficiency / legibility:** **STRONG BY REPUTATION + PRODUCT**, 但早期无需 market truth 维持生存；已有 FTL audience 是重要不可复制条件。
+- **Capability scaling:** two-person core + selective specialists；成功资本被优先兑换成时间与删除权，而不是 permanent payroll。
+- **Major unknowns:** FTL retained earnings 规模、家庭条件、contractor 进入时间、已有 audience 对 launch 的精确贡献。
