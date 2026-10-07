@@ -394,6 +394,10 @@ Square经验 → Mistwalker；
 
 如果是后者，日本比较会比《西方怪人》的广义个人主义解释更有直接政策/产业意义。
 
+## 12.5 中国016反压力：日本不是“有路”而中国“无路”
+
+[China 016](../china/016-creator-route-topology-from-66rpg-to-modern-bridges.md)补入66RPG、IGF China、GGJ、CiGA/indiePlay、腾讯创作赛、TapTap Spotlight与China Hero后，004的中日比较需要收紧：中国早在2005前后已经存在hobbyist route，2015后现代桥梁也明显增厚。日本当前真正可能领先的不是`ROUTE_COUNT`，而是部分路线的**历史连续、跨代积累与路线之间的稳定转换**。因此日本后续比较必须用`ROUTE_HALF_LIFE / ROUTE_SWITCHABILITY / ROUTE_REVERSIBILITY / SECOND_GENERATION_CREATOR_PRODUCTION`，不能再靠“日本有Comiket”本身推出结构优势。
+
 ## 13. Verdict
 
 当前日本线最强的新假说：
