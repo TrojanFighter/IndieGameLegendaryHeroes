@@ -257,6 +257,19 @@ Sierra是历史故事，不是2026估值模板。
 
 这是比“抛弃拖累”更适合全书的概念：它保留你原书评中真实存在的残酷决断，同时避免将离开者的人格降级。
 
+## 9.5 后续压力测试：战略性不忠诚为什么到Ion Storm可能反噬
+
+新增 [041 — 真理之盾什么时候变成自恋之盾](truth-shield-to-narcissism-shield-ion-storm-governance-041.md)。
+
+本轮不做人格诊断，而把风险拆成：
+- `FEEDBACK_INTEGRITY`：反对证据是否还能到达决策者；
+- `COMPLEMENT_DEPENDENCE`：过去成功到底属于个人方法还是能力组合；
+- `SCALE_DISCONTINUITY`：小队非正式治理是否被错误放大到80+人多项目组织；
+- `DECISION_RIGHT_ACCOUNTABILITY`：自治权是否绑定最终负责人、kill/rescope权和交付责任；
+- `SUCCESS_FORMULA_TRANSFER_ERROR`：把旧环境成功规则当成新环境通用公式。
+
+Ion Storm内部Deus Ex构成强反例：同样获得巨大创作自由，Austin仍通过Warren Spector清晰项目责任、后期范围收敛和Eidos时间buffer完成作品。因此“自由/设计师主导”不是Dallas失败的充分条件。真正问题是**自由是否被封装在能纠错的治理单元里**。
+
 ## 10. 待验证 / 防止把美国浪漫化
 
 1. **美国失败者分母：** 同样个人主义、同样离职/反老板，但判断错误而消失的人数；现有038/039只能给公开attempt及几个失败者，仍不能估战略不忠诚的收益率。
