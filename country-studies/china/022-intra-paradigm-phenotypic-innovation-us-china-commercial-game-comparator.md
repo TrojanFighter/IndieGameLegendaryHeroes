@@ -521,6 +521,233 @@ Riot 有直接公司公开材料支持。
 
 Epic / Fortnite 提供很强候选；中国需寻找同等级内部自我侵蚀案例。
 
+### 9.6 STRUCTURAL ABSTRACTION / INVARIANT–MUTATION PARTITIONING
+
+当前把“经验丰富”进一步拆成两项：
+
+#### STRUCTURAL_ABSTRACTION_CAPABILITY
+> 能否从一个成功产品的具体 feature 中抽出“为什么它有效”的关系 / 因果模型，而不是只保存 feature inventory。
+
+#### INVARIANT_MUTATION_PARTITIONING
+> 能否判断母范式中哪些结构必须保留、哪些默认假设值得重写，并把有限 novelty budget 集中到少数高杠杆变异域。
+
+工作假说：
+
+```text
+reference stock / experience capital
+→ structural abstraction
+→ invariant extraction
+→ mutation selection
+→ coupled redesign
+→ phenotype shift
+```
+
+这里与 Cohen & Levinthal 的 absorptive capacity、Zahra & George 对 potential / realized absorptive capacity 的区分，以及 Henderson & Clark 的 architectural knowledge 有理论邻接；但这些外部理论不能直接证明中美游戏组织差异。
+
+Theory anchors:
+- Cohen & Levinthal (1990), *Absorptive Capacity: A New Perspective on Learning and Innovation*, Administrative Science Quarterly 35(1):128–152.
+- Zahra & George (2002), *Absorptive Capacity: A Review, Reconceptualization, and Extension*, Academy of Management Review 27(2):185–203.
+- Henderson & Clark (1990), *Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms*, Administrative Science Quarterly 35(1):9–30.
+
+由此产生一个更窄的中国产业 H：
+
+> 中国头部商业游戏组织的 `ACQUIRE / ASSIMILATE` 外部范式能力可能并不弱；真正需要比较的是 `TRANSFORM`：能否把外部知识压缩成结构模型，再重构成自己的行为表型。
+
+这仍是 H，不是已证国别结论。
+
+### 9.7 ARCHITECTURAL KNOWLEDGE DECOMPOSITION LOSS / 架构知识分解损耗
+
+大规模开发必须把工作拆到战斗、关卡、数值、UI、网络、美术、运营、商业化等专业模块；但**任务可以模块化，产品因果模型未必能无损模块化**。
+
+中国 [009 雇员创造性田野](009-china-gameworker-creative-subjectivity-fieldwork-2017-2026.md) 提供一项重要机制证据：
+- 2026研究基于18个月民族志与42名中国游戏从业者访谈，提出“片段性调用（fragmented appropriation）”；
+- 研究并非发现“员工没有创作热情”，而是组织会招聘拥有玩家身份与创作动机的高投入劳动者，同时模块化生产更稳定地调用其工时与局部专业能力，个人的完整产品判断 / 创作提案权可能受到限制；
+- 一部分人试图通过晋升扩大创作范围，另一部分把创作转向 side projects。
+
+这与 IPI 的新问题直接连接：
+
+```text
+CAPABILITY_AVAILABILITY
+公司里有没有结构判断能力
+≠
+CAPABILITY_INVOCATION
+项目决策是否真的调用这部分能力
+```
+
+但该42人定性研究不能推出中国全行业 prevalence，也不能单独证明美国平均更好。
+
+由此新增待检验机制：
+
+#### PREMATURE_MODULARIZATION
+> 在核心 thesis 尚未通过低成本原型稳定之前，是否过早扩团队、拆岗位、启动完整资产与外围系统生产。
+
+可能的 `THESIS_DECAY_CHAIN`：
+
+```text
+非共识判断
+→ 立项前证据不足
+→ 为获得 greenlight 被翻译成成熟 benchmark + feature list
+→ 迅速扩编 / 模块化
+→ 各部门优化局部 KPI
+→ sunk cost 增大
+→ 核心假设越来越难推翻
+→ player test 退化为参数优化
+→ feature difference 很大，但 phenotype difference 很小
+```
+
+这是机制 H；需要失败项目开发史做反压力。
+
+### 9.8 SHARED SUBSTRATE / LOCAL THESIS：COD 的大规模组织解
+
+COD 提供一个特别重要的规模反例：高度专业化、多工作室协作、强商业连续性，并不自动导致设计完全同质化。
+
+#### 9.8.1 技术底座越来越统一
+
+Activision / Call of Duty 2022 官方说明：
+
+> 从 *Modern Warfare II* 与 *Warzone 2.0* 开始，Call of Duty 首次在 franchise 范围使用 one unified engine；该技术底座源自 2019 *Modern Warfare* 引擎。
+
+Source:
+https://www.callofduty.com/blog/2022/12/call-of-duty-modern-warfare-II-next-gen-tech-advanced-game-performance  
+https://www.callofduty.com/blog/2022/06/call-of-duty-modern-warfare-II-announcement-release-reveal
+
+#### 9.8.2 但产品仍有明确 lead studio
+
+官方 credits 连续显示：
+- *Modern Warfare III*：Sledgehammer Games lead，Infinity Ward partner，Treyarch lead Zombies，另有 Central Design / Central Technology / QA / Shanghai / Beenox / Demonware / Raven 等支持；
+- *Black Ops 6*：Treyarch lead，Raven partner，Infinity Ward / Sledgehammer / Central Design / Central Technology 等支持；
+- *Modern Warfare 4*：Infinity Ward lead，Beenox负责PC合作，Digital Legends负责Switch 2合作，并由 Activision Central Design / Central Technology / QA / Shanghai / Raven / Sledgehammer / Treyarch 等支持。
+
+Sources:
+https://www.callofduty.com/blog/2023/08/call-of-duty-modern-warfare-III-worldwide-full-reveal-announcement  
+https://www.callofduty.com/en/blog/2024/06/call-of-duty-black-ops-6-worldwide-reveal-announcement/  
+https://www.callofduty.com/blog/2026/07/call-of-duty-modern-warfare-4-multiplayer-kill-block
+
+这些 credits 只能证明**名义 lead / support 结构**，不能从名单反推出每项 design decision 的真实签字权。
+
+#### 9.8.3 子系列身份仍被主动保护
+
+2016 Infinity Ward 受访者 Taylor Kurosaki 公开描述：
+- 三个 COD studio 会合作、交流；
+- 同时要持续推进 franchise；
+- 团队会明确问“什么使 Call of Duty 仍然是 Call of Duty”；
+- Black Ops / Modern Warfare 等 sub-franchise 各有自己的 personality。
+
+Source:
+https://www.gamespot.com/articles/from-uncharted-to-call-of-duty-infinite-warfares-n/1100-6445092/
+
+2026 Infinity Ward Multiplayer 团队又明确表示：
+- “we’re all different games”；
+- Modern Warfare 要以 grounded military experience 作为 filter；
+- 对 Black Ops 的移动创新并非全盘继承：MW4 放弃 wall jump，却选择吸收 / 改写 supine positioning、sliding、mantling 等更符合自身 identity 的部分。
+
+Source:
+https://www.windowscentral.com/gaming/call-of-duty/infinity-ward-multiplayer-team-interview-call-of-duty-modern-warfare-4
+
+因此 COD 当前最值得检验的组织模式不是“完全自治”，而是：
+
+# `SHARED SUBSTRATE / LOCAL THESIS`
+
+工作解释：
+
+```text
+shared engine / online / QA / platform / production support
+→ 降低重复基础成本
+
+while
+
+lead studio / sub-franchise identity
+→ 保留产品层的局部判断与变异空间
+```
+
+暂不把它写成 Activision 已证管理法则；真实 budget / franchise veto / executive override 仍未知。
+
+### 9.9 CENTRALIZE THE SUBSTRATE, NOT THE THESIS
+
+由 COD 形成一个新的比较 H：
+
+> **成熟大公司可能通过“底层能力集中、产品 thesis 相对分散”同时获得规模经济与 phenotype search；真正危险的不一定是中央化本身，而是中央化发生在错误层级。**
+
+新增变量：
+
+- `SUBSTRATE_CENTRALIZATION`：engine / backend / QA / anti-cheat / tools / platform / shared production 有多少统一；
+- `THESIS_CARRYING_UNIT`：哪个稳定团队真正保存“为什么这个产品应该这样工作”的因果模型；
+- `SUBFRANCHISE_IDENTITY`：产品是否存在可操作的 identity filter；
+- `SELECTIVE_FEATURE_INHERITANCE`：兄弟项目成功 feature 是自动继承，还是必须通过本产品 thesis 筛选；
+- `ARCHITECTURAL_AUTHORITY`：谁有权让多个部门为了同一 thesis 一起改变；
+- `ARCHITECTURAL_VETO`：谁能拒绝一个局部合理、但破坏整体结构的 feature / KPI / shared-system 要求；
+- `SUPPORT_VS_OWNERSHIP_BOUNDARY`：中央 / 协作团队提供能力，是否同时获得产品问题所有权。
+
+### 9.10 Tencent China in-house：现有证据证明“substrate强”，尚不能回答“local thesis权” 
+
+腾讯公开 GDC 材料对其工业底座提供了很强证据：
+- MoreFun 分享 mobile 144FPS、ray tracing、AI；
+- TiMi / Team Jade 分享统一跨平台 art pipeline / runtime、terrain / biome、tactical-shooter level design；
+- Tencent Games 提供 AI、cloud pipeline、anti-cheat、UX research 等共享能力；
+- TiMi 2021 公开描述深圳与海外工作室协同研发 AAA，并强调寻找能释放创意的组织结构。
+
+Sources:
+https://www.tencent.com/en-us/articles/2201815.html  
+https://www.tencent.com/tencent-games-gdc-2025-announcement/  
+https://www.tencent.com/en-us/articles/2201579.html  
+https://www.tencent.com/timi-studio-group-the-next-chapter-part-1/
+
+这些材料足以支持：
+
+> **腾讯中国研发体系并不缺大规模技术 / pipeline / cross-platform substrate capability。**
+
+但它们**不能回答**：
+- Team Jade / MoreFun / TiMi 各项目的 product thesis 最终由谁拥有；
+- shared technology /发行 /商业部门能否推翻 lead team 的 architecture；
+- 哪些项目拥有跨部门 architectural veto；
+- 项目由20人扩到数百人时，thesis 如何保存；
+- 失败后核心团队是否拥有 second-attempt capacity。
+
+因此当前 COD × Tencent 对比不应写成：
+
+> “COD decentralized，腾讯 centralized。”
+
+而应写成：
+
+> **COD 已有公开材料同时证明“共享底座 + 明确 lead studio + 子系列 identity filter”；腾讯已有大量共享底座和全球 co-development 证据，但 product-level thesis preservation / architectural authority 的公开证据仍不足。**
+
+这正是下一轮需要主动补的缺口。
+
+### 9.11 THESIS PRESERVATION ACROSS SCALE
+
+由 Riot / NExT / COD 对比新增：
+
+> **0→1 prototype capacity 与“大规模全球 T”不是同一能力。**
+
+至少区分：
+
+```text
+IDEA
+→ PROTOTYPE
+→ PRODUCT
+→ GLOBAL COMPETITOR
+→ NEW REFERENCE
+```
+
+NExT 说明大型中国公司内部可以制度化低成本提案 / prototype；COD 则提供一个候选样本：产品扩到多工作室协作后，仍保留明确 lead studio 与 sub-franchise identity。
+
+因此新增：
+
+# `THESIS_PRESERVATION_ACROSS_SCALE`
+
+研究问题：
+> 核心 causal model 从 5–20 人原型团队扩大到 100–1000+ 人生产网络后，是否仍能决定跨部门 trade-off？
+
+以及：
+
+# `THESIS_TO_HEADCOUNT_LAG`
+
+研究问题：
+> thesis 经玩家 / prototype 验证，与团队快速扩编之间隔多长；扩编是否早于核心风险去除？
+
+当前没有足够公开项目数据计算该指标，保留为后续 organizational audit 字段。
+
+
 ## 10. 数量级审计指标
 
 暂不把它们机械合成为一个总分。
