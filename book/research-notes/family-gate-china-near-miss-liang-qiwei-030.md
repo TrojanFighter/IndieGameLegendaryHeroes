@@ -1,7 +1,7 @@
 # 030 — 一个真正差点没做成游戏的人：梁其伟2006–2014家庭—教育—行业纵向岔路
 
 - **Status:** RESEARCH NOTE / LIFE CROSSROADS / SOURCE-INTAKE / PRE-CLAIM，2026-10-07
-- **Primary biographical source:** 梁其伟本人，2014-08-20 新浪转载其知乎自述《什么促使我走上独立开发者之路？》，https://games.sina.com.cn/zl/duanpian/2014-08-20/1451116.shtml
+- **Primary biographical source:** 梁其伟本人，2014-07-29 触乐获作者授权的首批完整刊载《什么促使我走上独立开发者之路？》，https://www.chuapp.com/?a=index&c=Article&id=61563 ；2014-08-20 新浪再次转载其知乎自述，https://games.sina.com.cn/zl/duanpian/2014-08-20/1451116.shtml。两者为**同一篇自述**，不是两位独立证人。
 - **Comparative biographies:** [early id / DOOM](../profiles/early-id-doom.md)，[US-China Family Gate 029](family-gates-game-creator-us-china-029.md)，[China three-layer framework 018](china-creator-constraints-three-layer-map-018.md)，[denominator-method 028](media-selection-survivorship-and-denominator-protocol-028.md)
 - **Industry/education testimony:** 游戏日报对中国传媒大学游戏设计系主任张兆弓的2022-06-08直接访谈，https://www.sohu.com/a/555164638_118576 ；《环球时报》2024-10-22采访 Hit Academy 创始人方言等，https://www.xinhuanet.com/ci/20241022/0b68c9bb625749459b7c06fb4442914a/c.html
 - **Population research (not creator occupational evidence):** Wang, Zhejian (2026), *Journal of Development Economics* 182, 103812, https://doi.org/10.1016/j.jdeveco.2026.103812 ; 2024 heavy gamers n=430, https://pubmed.ncbi.nlm.nih.gov/38669079/
@@ -18,9 +18,12 @@
 3. **2007年春节前后：做出《雨血：死镇》第一可玩版。** 自己测试和自己感到满足；但游戏工时挤占部分学业，某门课挂科，按自述导致原有保送本系研究生资格失效。**这里制度性代价真实且有时限**：不能把对升学损失的担忧写成毫无理由的家长偏见。
 4. **2007年下半年：家庭×导师×伴侣/伴侣父母压力集中出现。** 家长训斥与职业否定并不是孤立一次谈话；直接联动到学校评价、学位路径、关系将来。梁其伟把项目和400多条待修改清单收进移动硬盘，转回英语备考/培训，**停止实际开发约一年（2007夏—2008夏）**。这属于 `EVIDENCED TEMPORARY CAREER/PRODUCTION VETO`，不只是“情绪受挫”。
 5. **2008年下半年：New Haven。** 赴美就读后，在自述里强调周围人做自己的项目、课堂上向同学展示《雨血》得到积极反应、老师讨论东方美学，而不是“你该回正轨”；在一个多学科群体中交流艺术、戏剧、空间、电影。作品不再只有“业余损害成绩”的身份，而获得一种社会许可和新反馈。**不能据此说美国所有大学/家庭都宽容；更不能忽略他能赴美留学本身带来的资源/制度筛选。**
-6. **2010年：作品进入公开市场。** 国内将 Rainblood 上传 VeryCD，反响与用户反馈；制作英文版，有海外玩家志愿提供语言修订（据本人称后来支付$600）；使用 Big Fish / GamersGate 等渠道得到付费销售。本人回忆称2010年商业销售约2万份、早期免费下载约400万次，现阶段都仅记作 `CREATOR-REPORTED NUMBERS`，**不作为独立审计销量**。其关键意义是**第一次玩家/市场反馈解开了“这件事真的不务正业吗”的合法性争论**，并非那些数字本身。
+6. **2010年：作品进入公开市场（本人称直到后来制作/销售这几年之后才第一次听说“indie game”这个职业类别）。** 国内将 Rainblood 上传 VeryCD，反响与用户反馈；制作英文版，有海外玩家志愿提供语言修订（据本人称后来支付$600）；使用 Big Fish / GamersGate 等渠道得到付费销售。本人回忆称2010年商业销售约2万份、早期免费下载约400万次，现阶段都仅记作 `CREATOR-REPORTED NUMBERS`，**不作为独立审计销量**。其关键意义是**第一次玩家/市场反馈解开了“这件事真的不务正业吗”的合法性争论**，并非那些数字本身。
 
 这条纵轴的重要细节：**家庭的早年档案支持、2007年升学/关系压力、2008年国外学习的社群接纳、2010年真实下载/付费**之间，不是简单的“从压迫国家逃到自由国家”。真正改变的是某个具体时刻的教育评分器、现实损失、同伴解释框架、作品公开接口与后续选择权。
+
+
+**第一次看见职业词汇晚于第一次做完项目：** 梁其伟在其2014年自述尾段称，经历多年制作及首轮海外付费销售以后，自己才第一次听说“独立游戏”这个词。这是少见的 `PRODUCTION PRECEDES CAREER CATEGORY` 事例：其目标先是制作自己的互动世界，后来的职业身份和商业化渠道逐步浮现。它直接补强本书第一章“目标不是先定好”的主题；仍需注意是事后回忆而非同期书面记录。源于已获授权的2014-07-29触乐作者全文。
 
 ## 二、2007年的真正反事实不是“坚持就有 DOOM”，而是“若不能出国，硬盘会不会一直没有打开”
 
