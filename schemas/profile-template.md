@@ -89,6 +89,13 @@ Anchors: [family gate US-China research 027](../book/research-notes/family-gates
 - `PLANNED_RELEASE`、`COMING_SOON`、`RELEASED`、`CANCELLED`、`COMMERCIAL_DISAPPOINTMENT`、`PERMANENT_CAREER_EXIT`是不同标签。2022众筹成功、2026Steam仍未发售的项目不应被随意标记失败。
 - 第二方亲属言说标`FAMILY_MEMBER_SELF_REPORTED`，但验证`relationship_identity_verified`和`promotional_context`；匿名社交营销帖即使自称配偶也是低可信线索，不能据此推出普遍支持率、收入分担和家庭幸福。
 
+**新证据门槛：普通开发者、家人评价与公共取样分母 [038](../book/research-notes/ggj-2026-survey-and-archive-denominator-038.md) / [039](../book/research-notes/ordinary-indie-household-runway-two-hits-selection-039.md)**
+
+- 区分 `PARENT_QUOTED_BY_CREATOR_POST_SUCCESS`、`PARENT_DIRECT_CONTEMPORANEOUS`、`SPOUSE_COAUTHOR`、`SPOUSE_PAID_HOUSEHOLD_EXPENSES`、`FAMILY_EMOTIONAL_AFFIRMATION` 与 `FAMILY_CASH_TRANSFER`；2025越南SOGA在第二款游戏获得EA初步销量以后回忆母亲在2024首作挫折时鼓励自己，不能升级为2024母亲原始录音；妻子承担程序之外的多项制作部门，不是匿名陪伴者。
+- `CUMULATIVE_PRODUCTION_SPEND`、`ONE_YEAR_HOUSEHOLD_BURN`、`GAME_SALES_CASH`、`DONATIONS`、`ADVANCE`、`CARE_LABOR` 必须分别定年份和主体。2018 Giguère所述第一款游戏85k美元系2012–17跨年累积，并非2017一年；第二款15k包含生活费和合作分账，不可简单并算成2017现金亏损。
+- 资料出现概率和参与人数分开：2026 GGJ39,197参与人/9,874公开提交/3,535自选调查是三种单位，完全没有测量未参与者家庭拒绝概率；样本的`DENOMINATOR/SELECTION`和`INTERVIEW_AFTER_HIT`字段是写书前而非写书后才补。
+- **证据存活期限**：官方GGJ 2014–23 V3存档旧站2027年将移除，但公告2027-02-28和03-31日期矛盾；不能把2024+V4项目或itch.io jam硬说成同一删除风险。留存game title/来源元数据不等于获权镜像游戏资产与个人信息。
+
 来源边界：真实对话若仅见于多年后传记只能标S1、不能伪装同期录音。例见 [DOOM代际和解审计 032](../book/research-notes/doom-intergenerational-reconciliation-032.md) E031–E037。心理学的条件性认可概念不能直接给历史人物做心理诊断。
 
 ## 2. Life Crossroads / 人生关键岔路
