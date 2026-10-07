@@ -313,6 +313,8 @@ Question 的三位核心创作者有长期 AAA 和 immersive sim 经历，熟悉
 
 但当时的销售表现，不足以让团队按原先方式持续经营。主创后来把类型不易识别、受众过于狭窄、市场预算不足等问题放进了自己的复盘。
 
+**这不是 Question 立即解散的故事。** Thomas 后来接受采访时明确说，下一作要寻找团队仍愿意做、市场也愿意购买的交集。《The Blackout Club》延续了他们的系统游戏能力，却选择了更容易被玩家理解的合作恐怖品类。完整后续见 [Question 三位创始人的人物史](../profiles/question-magic-circle-blackout-club.md)。
+
 如果故事只讲到“他们终于不用在 AAA 系统里被流程束缚，做出了自己的作品”，那确实会让人热血沸腾。
 
 可现实是：**能力适配只回答“这几个人怎样以合理成本把它做出来”，并不回答“有多少人愿意买”。**
@@ -436,7 +438,8 @@ Tom Francis 选择了另一条路。他没有为自己热爱的《Deus Ex》式�
 先读人物完整生产史与人生岔路：
 - [Conrad Roset、Roger Mendoza、Adrián Cuevas / GRIS → Neva](../profiles/nomada-gris-neva.md)；
 - [David Wehle / The First Tree](../profiles/david-wehle-first-tree.md)；
-- [Tom Francis / Gunpoint](../profiles/gunpoint.md)。
+- [Tom Francis / Gunpoint](../profiles/gunpoint.md)；
+- [Question / The Magic Circle → The Blackout Club](../profiles/question-magic-circle-blackout-club.md)。
 
 要查明这篇文章中人物的完整职业路径、已知资金结构、证据来源与明确未知项，从各个 [Case](../../cases/README.md) 及其 Evidence Ledger 继续核对：
 
