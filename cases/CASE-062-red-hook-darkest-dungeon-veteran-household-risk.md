@@ -3,8 +3,8 @@ type: case
 schema_version: 2
 case_id: CASE-062
 status: RESEARCHING
-subject: "Red Hook / Darkest Dungeon: veteran authorship under mortgage, parenting and financing pressure"
-related_claims: [C015]
+subject: "Red Hook / Darkest Dungeon: industry-veteran authorship, mortgage, parenting and staged funding"
+related_claims: []
 evidence_strength: HIGH
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
@@ -18,6 +18,7 @@ last_verified: 2026-10-07
 - Subject: Chris Bourassa + Tyler Sigman + Kelvin McDowell / Darkest Dungeon
 - Period covered: career/collaboration prehistory → 2013 full-time commitment → 2014 Kickstarter → 2015 EA → 2016 1.0
 - Research status: RESEARCHING
+- Related Claims: none (PRE-CLAIM comparison only)
 - Corpus role: `INDUSTRY-VETERAN-AUTHORSHIP / HOUSEHOLD-EXPOSURE / STAGED-MARKET-CREDIBILITY / PRE-FINANCE-ARTIFACT / SCOPE-PRUNING`
 - Evidence Ledger: [E001–E006](../evidence/CASE-062-red-hook-darkest-dungeon-veteran-household-risk-source-ledger.md)
 
