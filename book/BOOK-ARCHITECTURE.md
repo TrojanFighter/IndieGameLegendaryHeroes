@@ -6,6 +6,43 @@
 
 研究后台继续按 Case / Evidence / Claim 工作；Profile 继续保存一个人物或团队的完整生产史；真正的章节则跨人物、跨时代回答一个普通人会遇到的问题。
 
+## 阅读前门｜先从处境路由，不从案例编号路由
+
+三层内容结构之前，增加一个不算“第四层内容”的 reader router：
+
+- [START-HERE](START-HERE.md) — 按现实问题进入；
+- [DECISION-ROUTER](DECISION-ROUTER.md) — 按 capability × risk × project stage 判断当前该移动什么；
+- [READER-ARCHETYPES](READER-ARCHETYPES.md) — 仅作为第二级“按能力结构找相似人物”入口。
+
+默认优先级：
+
+`现实问题 / 当前处境`
+→ `决策变量`
+→ `对照案例`
+→ `Profile / Chapter`
+→ 必要时下钻 Case / Evidence
+
+而不是：
+
+`职业标签`
+→ `英雄名单`
+
+更不是：
+
+`CASE-001 → CASE-058`
+
+### Reader routing 的最低要求
+
+一个历史案例如果要承担“这个案例像你”的 reader-facing 建议，至少比较两个以上坐标：
+
+1. capability position；
+2. runway / household / exit risk；
+3. project stage；
+4. market-access / validation stage；
+5. governance / ownership structure。
+
+只共享“都是程序员 / 都是美术 / 都是中国人 / 都是三十岁”不足以建立人生决策可比性。
+
 ## 三层结构
 
 ### Layer 1 — Research Backend
@@ -267,19 +304,31 @@ Chapter 不再问：
 
 研究：
 - optionality；
-- 团队扩张；
+- **成功资本是买 capability，还是买“不承诺”的时间**；
+- 团队扩张与 fixed burn；
 - founder alignment；
-- governance；
+- publisher / grant / VC / retained-earnings 的 control surface；
 - 第二作试错权；
-- 成功路径依赖；
+- `LOCK-IN PREVENTION`；
+- `FIT-LOCK-IN` 与 audience replacement cost；
+- 成熟 production grammar 怎样转型；
 - 什么时候旧优势开始制造新成本。
 
 主要人物池：
 - early id → Quake；
-- FTL → Into the Breach；
-- Minecraft / Mojang；
-- Among Us；
-- Rocket League / Psyonix。
+- FTL → Into the Breach — 第一次成功后保留 optionality；
+- The Witness — retained earnings 买 capability；
+- House House — grant/publisher → retained earnings；
+- thatgamecompany — equity 扩公司能力与治理表面；
+- Zachtronics；
+- Spiderweb / Queen's Wish；
+- Playdead — founder governance pressure；
+- Among Us / Rocket League 作为成功后组织变化对照。
+
+当前明确证据缺口：
+> **一个已经形成多年固定 production grammar 的作者 / 工作室，如何成功、可重复地突破 FIT-LOCK-IN。**
+
+在找到强反例之前，不写“转型公式”。
 
 ---
 
