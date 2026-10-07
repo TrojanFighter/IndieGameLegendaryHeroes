@@ -39,7 +39,7 @@ permitted_inference: "官方站点展示了固定时空内的一批公开参赛�
 forbidden_inference: "中国独立项目或大厂员工的创业率、创新能力分布、中美差距、私人创作缺失、被家长阻挠/被绩优主义规训的个体归因"
 ```
 
-**分母精确语义：** “16”是官方场地页 `Displaying 1 - 16 of 16` 所报告的**现存公开游戏页计数**（访问记录见来源），不是16名创作者、16支唯一团队、16个报名者，也不证明当年从未发生删除/合并/迟补页面。因此它是一个**有限的目录条目计数**，并非研究目标人群的覆盖率。
+**分母精确语义：** 官网 Games 目录显示 `Displaying 1 - 16 of 16`，表示**16 条当前可见 listing**；完整搜索快照中 `BOOM CHASE` 出现两次，因此为**15 个不同题名**。同名不必然是同一游戏、也不必然是两款游戏；独立项目数仍 UNKNOWN。16 不等于创作者、团队或报名者人数，也不证明未删除过旧页。
 
 ## 2. 起点证据与入选规则
 
@@ -52,7 +52,7 @@ forbidden_inference: "中国独立项目或大厂员工的创业率、创新能�
 
 ## 3. 官方目录的 16 个标题位置（15 种不同题名；同名条目待核）
 
-下表只记录项目**在第一方页面/搜索快照中的名称与入口**。未核的后续情况一律为 `NOT_ASSESSED`，不贴 `PUBLIC_UNFEATURED`、`FAILED`、`DROPPED_OUT` 等标签。
+下表保留第一次抽取时的稳定 ID，并给两处新发现的**列表位置**编新号。只记录在第一方页面或搜索快照里出现的原名与入口，不以题名判定作品唯一性。后续情况仍统一标 `NOT_ASSESSED`，不贴 `PUBLIC_UNFEATURED`、`FAILED` 或 `DROPPED_OUT`。
 
 | ID | 公开项目题名（保留原文拼写） | 来源入口 | 2024 后续/开发者就业史 |
 |---|---|---|---|
@@ -99,7 +99,7 @@ forbidden_inference: "中国独立项目或大厂员工的创业率、创新能�
 ### Gate A｜名册完整性（当前未通过）
 - 已从第一方搜索快照读齐 16 个**列表位置的题名**；下步核齐逐行永久 URL/ID，区分 \`BOOM CHASE\` 的同名/重复/二次提交，记录快照时间与网页版本。
 - 保留网站不可用证据，必要时交叉官方 Web Archive / organiser 导出；不可使用“媒体搜得到”为补齐唯一标准。
-- 如名单一直无法完整复原，`denominator_status=PARTIAL`；可展示个案但不可推断站内任何频率。
+- 16 个目录位置虽已可读，但永久 URL / 唯一项目 ID 尚未全部核对，故 `denominator_status=PARTIAL`；可展示条目存在，不能推断独立作品的存续率。
 
 ### Gate B｜同规则、同字段后续追踪（未执行）
 每一个项目按一致的顺序检查：官方游戏页及 jammers → 官网链接到的公开项目账号/仓库（如有）→ 同名更新日志/发布页 → 2026-10-07 时点是否存在**能证实同一项目**的后续作品。必须留 `UNKNOWN`，不得根据「没有新帖子」填 `ABANDONED`。
@@ -149,4 +149,4 @@ source_links: []
 - **P0 / first-party project details, partial:** individual game page URLs in §3. Verified directly when accessible; search-index excerpts are **DISCOVERY/REQUIRES_RECHECK** until the corresponding page can be opened.
 - **H / analytical limitation:** why prior media case selection cannot identify national prevalence: [028](../../book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md); no project outcomes or social causes inferred in this file.
 
-**Exit criteria for this WIP:** verify 16/16 roster items; execute uniform public-trace checks; publish missingness table; and explicitly judge whether this frame can support any inference beyond "visible game-jam submission exists". Until then **no rate, no country comparison, no creator-status labeling**.
+**Exit criteria for this WIP:** match all 16 directory positions to stable URLs/IDs and resolve both `BOOM CHASE` slots; then execute uniform public-trace checks and publish missingness table. Until then **no project-outcome rate, no country comparison, no creator-status labeling**.
