@@ -49,7 +49,7 @@ book/profiles/ 不是 Case 的散文化改写，也不是“成功项目复盘�
 
 **比较规则：** 以本人当时年龄/年份/社会制度比较，不拿 1980s 美国街机、2005年中国网吧和2021年中国未成年人在线服务限制当同一现象。玩家小时数不等于 taste/设计能力；家长禁止与未来不成功之间不能未经设计推断因果。对私人亲友的生命史仅在知情同意和匿名保护条件下引用。
 
-Anchors: [family gate US-China research 027](../book/research-notes/family-gates-game-creator-us-china-027.md)；[CASE-016 Evidence E027–E029](../evidence/CASE-016-early-id-software-source-ledger.md)。Romero 的继父同时反对街机与资助 Apple II；Hall、Mechner 是正向对照；中国《WILL》《太吾绘卷》提供不同形式的家庭许可。
+Anchors: [family gate US-China research 027](../book/research-notes/family-gates-game-creator-us-china-029.md)；[CASE-016 Evidence E027–E029](../evidence/CASE-016-early-id-software-source-ledger.md)。Romero 的继父同时反对街机与资助 Apple II；Hall、Mechner 是正向对照；中国《WILL》《太吾绘卷》提供不同形式的家庭许可。
 
 ---
 
