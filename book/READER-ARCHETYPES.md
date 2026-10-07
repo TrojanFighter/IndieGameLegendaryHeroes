@@ -180,6 +180,9 @@ Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签�
 核心问题：
 > **哪些能力是真的资本，哪些只是原 production regime 的 objective function？**
 
+如果你正在实际决定“还留大厂多久 / 要不要辞 / 第一作做多大”，直接进入：
+- [LR-001 — 名校 / 大厂高绩效者转作者型独立：先退出评分器，再退出公司](life-routes/big-company-veteran-to-author-001.md)
+
 再加三个问题：
 - **Identity Coupling**：如果下一作只有一个丑 2D 原型，你会不会觉得“配不上履历”？
 - **Parallel Authorial Thread**：过去三年有没有完全不受公司 KPI 支配、但持续产出 artifact 的作者线程？
