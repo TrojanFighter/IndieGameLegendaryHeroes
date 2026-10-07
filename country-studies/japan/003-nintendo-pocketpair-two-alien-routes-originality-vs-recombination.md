@@ -179,6 +179,10 @@ Pocketpair比“为什么中国没有任天堂”更容易成为可比对象。�
 - 强借鉴能力是否最终总被ROI/渠道模型拉回成熟模板，而不能形成非标准组合？
 - 失败以后这些异类有没有第二次机会？
 
+## 11.5 Pocketpair不应被单独解释：它依赖一张更大的路线网络
+
+[004](004-creator-route-redundancy-doujin-corporate-exit-bridges.md)补充：Pocketpair的`PRODUCTIVE_DEFECTION`只是日本多路径生态的一条。平行还有ZUN式`PARALLEL_AUTHOR_IDENTITY`、TYPE-MOON式`DOUJIN_TO_COMMERCIAL_BRIDGE`、坂口博信式`VETERAN_AUTHOR_SECESSION`以及BitSummit/publisher式`VISIBILITY_AND_TRANSLATION_BRIDGE`。真正需要比较的不是“有没有一个Pocketpair”，而是**这些出口和入口是否同时存在、能否相互切换**。
+
 ## 12. Verdict
 
 错误叙事A：日本公司都保守老化、靠老人做老游戏。Nintendo/Capcom反驳。
