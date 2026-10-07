@@ -111,7 +111,7 @@ Sources:
 Dan Hayes 的 postmortem 给出了从 day job 到债务再回就业的完整中段：
 
 - 2011 起两位主创边上班边做 PONCHO；
-- 2013 左右辞职全职开发，依赖储蓄并继续寻求 Kickstarter / 发行等资金；
+- 2014 年夏辞职全职开发，依赖储蓄并继续寻求 Kickstarter / 发行等资金；
 - 为展会和继续开发承担较大贷款；后期又贷款以完成 Steam 版本；
 - 2015-11-03 Steam / PS4 上市；
 - 销售结果出来后，他们马上开始写 CV 寻找 day job；
