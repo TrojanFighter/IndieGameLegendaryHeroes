@@ -167,6 +167,10 @@ S1 2024-01-08员工信口径，需区分媒体获取与腾讯官方全文：竞�
 
 **关键是阶梯间断裂：** `EMPLOYEE_DEMO_RIGHT` 和 `PERSONAL_GREENLIGHT` 之间存在一整套合法、有必要但会形成选择偏差的企业权利结构。创作好坏不是唯一决定因子；资源成本、政治支持、组织人才争夺、产业版本与长期考核也进入选择。
 
+### 5.1 外部第二次机会不是一条项目内部绿灯链
+
+[011《边境》→《流浪地球：望日》与国际重组对照](011-boundary-wandering-earth-capability-second-chance-2024-2026.md)说明另一种 `SECOND_TRY`：**旧产品商业失败、旧出版关系终止，但团队依靠可核专业能力/合作网络取得新IP开发合同**；并非要求旧IP复活。2026新采访还出现导演掌握创作、制片人掌握资源两种权力的明确分离。与本文件NExT的100人日评审/争议经理终审成对检查，能区分 `REVIEW_RIGHT`, `RESCOPE_RIGHT`, `GREENLIGHT`, `BUDGET`, `IP_CANON`, `GROUP_CONTINUITY`。但《望日》尚未发售且仍需融资，绝不可先写组织制度取得成功。
+
 ## 6. 三个竞争解释和三个反证检查（不预设大厂必然坏）
 
 | Hypothesis | Evidence presently supports | What would falsify / alternative explanation |
