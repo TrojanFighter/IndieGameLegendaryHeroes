@@ -1,7 +1,7 @@
 # Case Backlog — 历史语料与深度研究案例池
 
 - Status: ACTIVE
-- Last updated: 2026-10-07
+- Last updated: 2026-10-08
 
 本表用于回答一个治理问题：**我们过去已经用过哪些案例，它们当时被用来证明什么，现在有没有资格升级为正式 Case？**
 
@@ -47,6 +47,16 @@
 | CASE-029 | Boundary / Surgical Scalpels Studio | CHAT-RESEARCH + COMPARATOR | SKELETON；平台与发行方停服公告已核，组织、融资与争议归责待核 |
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | CHAT-RESEARCH + COMPARATOR | SKELETON；团队归属、职业前史与生产制度解释待原文证据 |
 | CASE-031 | Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall | CHAT-RESEARCH + EXTERNAL-VERIFIED | 同一开发者跨三人协作、solo-core、两人团队的纵向样本；检验原型筛选、fantasy compression、能力积累、市场接入与方法自我修正 |
+| CASE-032 | PLAYERUNKNOWN / Brendan Greene | CHAT-RESEARCH + EXTERNAL-VERIFIED + CROSSOVER | DayZ/Arma mod → H1Z1 顾问/授权 → PUBG 公司化生产；观察作者能力、模式原型与组织边界如何逐级变化 |
+| CASE-033 | 《征途》 / 史玉柱 | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | 中国商业制度转折样本；市场研究、F2P 与财富加权需求如何重写设计与产业能力树 |
+| CASE-034 | Landfall Games | CHAT-RESEARCH + EXTERNAL-VERIFIED | Air Brawl → TABS → Content Warning → HASTE → PEAK 的工作室纵向；短周期试错、失败 corpus、社区与组织小型化 |
+| CASE-035 | Factorio / Wube Software | CHAT-RESEARCH + EXTERNAL-VERIFIED | demo→众筹→paid alpha→Steam；直接销售与持续玩家融资如何延长 runway 并支撑技术型小团队 |
+| CASE-036 | Manor Lords / Slavic Magic | CHAT-RESEARCH + EXTERNAL-VERIFIED | solo core 与 grant、freelancer、publisher perimeter 的边界；拆解“一人完成整条生产链”神话 |
+| CASE-037 | Darkwood / Acid Wizard Studio | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | contract-work bridge、众筹预算误判与 Early Access 延命；检验 headline crowdfunding 与真实 runway 的落差 |
+| CASE-038 | Sultan's Game / Double Cross | CHAT-RESEARCH + EXTERNAL-VERIFIED + CROSSOVER | 商业手游老兵、组织崩解后的小团队 premium 转型；能力迁移、组织重构与市场接口 |
+| CASE-039 | Gunfire Reborn / Duoyi Gunfire Studio | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | 中国非独立正向 production-fundamentals comparator；观察成熟公司内部 premium/EA 产品能力 |
+| CASE-040 | Tripwire lineage / Red Orchestra → Killing Floor → Rising Storm | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | mod / community / contest → studio 的 validation ladder；社区同时作为生产、验证与人才接口 |
+| CASE-041 | NExT Studios portfolio → SYNCED | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | 中国 corporate-innovation portfolio 从小型0→1到大型 service regime 的生产制度转换压力样本 |
 | CASE-042 | The First Tree / David Wehle | CHAT-RESEARCH + EXTERNAL-VERIFIED | Technical Artist / visual-first 能力如何通过 short scope、licensed assets、environment storytelling 与 market surface 共同塑造项目；2016–2017 社媒路径按 Temporal Validity 审计 |
 | CASE-043 | Everything / David OReilly | CHAT-RESEARCH + EXTERNAL-VERIFIED | 动画作者如何把 abstraction / procedural movement / programmer dyad 转成 game language；检验 problem redefinition 删除传统动画 obligation 后又制造了哪些 systems cost |
 | CASE-044 | Garry Newman / Garry's Mod → Rust → s&box | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | modder→studio→creator-platform 的同人纵向；2026 CURRENT pressure 用于检验旧成功能力资本、长期 false starts、discovery 与 positioning |
@@ -58,27 +68,31 @@
 | CASE-050 | Nomada Studio / GRIS → Neva | CHAT-RESEARCH + EXTERNAL-VERIFIED | `CAPABILITY-COMPOSED`：visual thesis 先出现，再由 artist + AAA programmer cofounders 组成互补 founding capability；长期看 GRIS→Neva 如何扩 mechanics vocabulary |
 | CASE-051 | Zachtronics / Zach Barth | CHAT-RESEARCH + EXTERNAL-VERIFIED + LONGITUDINAL PRESSURE | programmer/engineering-author 把技术认知做成产品语言；同时建立 `FIT-LOCK-IN / CAPABILITY PATH DEPENDENCE` 第一锚点 |
 | CASE-052 | House House / Untitled Goose Game → Big Walk | CHAT-RESEARCH + EXTERNAL-VERIFIED | Film Victoria grant + Panic publisher periphery → Goose hit → retained-earnings optionality；第一份清晰 grant-financed capability expansion 纵向 |
+| CASE-053 | Kenny Sun / Circa Infinity → Mr. Sun's Hatbox → BALL x PIT | CHAT-RESEARCH + EXTERNAL-VERIFIED | 十年 longitudinal capability accretion；观察小项目、职业工作、合作/发行如何生产下一阶段可行项目集 |
+| CASE-054 | Limit Theory / Josh Parnell | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | 强 `FIT-TRAP`：工程能力持续局部获胜，却让产品 obligation 扩张并最终未能收敛 |
+| CASE-055 | Factorio / Wube technical stop conditions | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | 对 CASE-054 的成功侧反压力；深技术能力只有在明确 stop condition / product closure 下才成为杠杆 |
+| CASE-056 | Playdead / Arnt Jensen + Dino Patti | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | `CAPABILITY-COMPOSED` 的 governance dissolution 压力样本；互补 founder 同时带来 ownership / control / authorship 成本 |
+| CASE-057 | thatgamecompany / Sony era → VC → Sky | CHAT-RESEARCH + EXTERNAL-VERIFIED | 第一份清晰 VC/equity-financed capability expansion；金额、董事会、平台独立与公司级能力扩张同时可见 |
+| CASE-058 | Spiderweb Software / Jeff Vogel | CHAT-RESEARCH + EXTERNAL-VERIFIED + LONGITUDINAL PRESSURE | 第二个长期 `FIT-LOCK-IN`：成功 niche grammar 累积工具/受众/品牌，同时形成真实转型税 |
+| CASE-059 | Slay the Spire / Mega Crit | CHAT-RESEARCH + EXTERNAL-VERIFIED | 大公司就业与平行作者线程可以并存；反压力于“进入商业工业必然失去作者性”的强叙事 |
+| CASE-060 | Croteam / Serious Sam → The Talos Principle | CHAT-RESEARCH + EXTERNAL-VERIFIED + COMPARATOR | 成熟产品/工具链 lock-in 的 staged escape；保留有杠杆旧能力，分阶段替换产品语法与工具 |
+| CASE-061 | Supergiant / Bastion | CHAT-RESEARCH + EXTERNAL-VERIFIED | AAA capability transfer + household subsidy + IP control；大厂老兵不必复制大厂生产组织 |
+| CASE-062 | Red Hook / Darkest Dungeon | CHAT-RESEARCH + EXTERNAL-VERIFIED | veteran authorship + mortgage/parenting household exposure + staged funding；把创业风险重新放回家庭资产负债表 |
+| CASE-063 | Ivories Studios / GGJ 2024 → Shake the Baby! | CHAT-RESEARCH + EXTERNAL-VERIFIED | 从未精选公开 cohort 偶然挖出的 jam→Steam 真实 lineage；同行正反馈、产品化与商业充分性必须分开判断 |
 
 ## 下一批优先正式化 / 深挖
 
-CASE-027–052 已登记；下一新编号从 CASE-053 起。下一轮从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架的来源：
+CASE-001–063 已编号登记；**下一新编号从 CASE-064 起**。下一轮不再按“缺什么机制就立刻再找一个名人”扩张，而从下方 comparator / 候选池中按三项排序选取，同时优先修复已有骨架与跨 Case 数据层：
 1. 是否能检验现有 Claim 或形成强反例；
 2. 是否已有足够 P0/P1/S1 证据建立 Evidence Ledger；
-3. 是否提供当前 31 个档案还没有覆盖的生产结构。
+3. 是否提供当前 63 个档案还没有覆盖的生产结构。
 
 同时优先补现有案例的 contributor / market-access / capability–project-fit audit，避免只增长案例数量、不提高审计成熟度。
 
-### Landfall Games：工作室级纵向生产系统
+### 已升级候选的治理清理
 
-- Status: HIGH PRIORITY LONGITUDINAL CANDIDATE / ONGOING TRACKER；持续 intake 见 GitHub Issue #25。
-- 研究对象不是单独某个爆款，而是 `Air Brawl → Clustertruck → TABS / TABG / Stick Fight / ROUNDS → Content Warning → HASTE → PEAK` 的工作室生产制度演化。
-- P0 起点：[Landfall official press kit](https://landfall.se/landfall-press) 记录 Wilhelm Nylund 与 Philip Westre 高中时期开始 Air Brawl，Wilhelm 未上大学而留在家中完成游戏，Steam Early Access 之后才使其他成员逐步加入；Landfall 自述以小团队、小开发周期、gameplay 与 community interaction 为中心，并明确“small studio staying small”。
-- 内部反例非常重要：TABS / HASTE 是多年项目；Landfall 商务负责人 2026 年公开表示，团队在长项目中更难保持动力，而 Content Warning / PEAK 这类约两个月量级项目更符合今后的工作方式。不能把 Landfall 神话化为“所有东西一个月做完”。
-- `Content Warning`：官方 press kit 记录 5 人开发，2024-02 至 2024-04，主要开发发生在首尔一个月 internal game jam；免费首日后转为 $7.99，官方记录 6.6M claims、204K peak CCU；同时必须保留 Future Friends / Popagenda、Lockit QA、社区测试素材等 contributor perimeter。
-- `PEAK`：官方 press kit 记录七名开发者及 2025 年 2 月韩国 month-long jam；同期采访提供约四周主体制作、固定 midsummer ship date、两工作室合计低于 $200k 的口径。销量/成本仍按来源级别记录，不写成审计利润。
-- 核心待检验命题：Landfall 是否把 `physics + comedy + social interaction + community/media legibility + short-cycle jam` 积累成 studio-level capability capital，并让项目形态主动服从这种能力，而不是成功后再总结风格。
-- 必须找失败/废案：若只看 Clustertruck/TABS/Content Warning/PEAK，会产生严重幸存者偏差。正式编号前必须重建没做成、暂停、表现一般或支持成本超预期的项目。
-- 组织问题：追踪自外部 publisher 向 self-publishing 的转变，以及 Evil Landfall 的商务/投资层是否把“做项目的人”和“处理合同/平台/发行的人”进一步解耦。
+- `Landfall Games` 已正式升级为 [CASE-034](CASE-034-landfall-games.md)；旧候选阶段的长说明不再在 Backlog 重复维护。持续 intake 仍可沿既有 tracker / Evidence Ledger 进入 CASE-034。
+- 规则：**一旦候选已编号成为正式 Case，Backlog 只保留一行指针；事实、研究缺口与更新历史转移到 Case + Evidence Ledger。** 这样避免候选说明与正式档案发生双重真相源。
 
 ### Capability–Project Fit / “偏科型立项”审计队列
 
@@ -131,7 +145,7 @@ CASE-027–052 已登记；下一新编号从 CASE-053 起。下一轮从下方 
 - `CASE-026 Brigador` — 强技术/美术执行为何没有自动转化为 onboarding / market legibility；
 - `CASE-031 Jonas Tyroller` — Game Design 教育、多原型经验、公共表达能力如何塑造项目筛选与 fantasy compression。
 
-这条线已新增正式 [C015 — Capability-Shaped Project Formation / 能力反向立项](../claims/C015-capability-shaped-project-formation.md)。当前状态为 SUPPORTED，但它只主张“这是一种可观察的作者型立项技术”，**不主张普遍成功率优势**。当前已补 Brigador + The Magic Circle 两份结构不同的 `FIT-STRONG / MARKET-FAILED`；The Witness / Outer Wilds / House House 已覆盖 founder-owned、external-stack、grant+publisher 三种 capability expansion；Nomada 建立 `CAPABILITY-COMPOSED`，Zachtronics 建立 `FIT-LOCK-IN`。下一步主要缺：**VC/equity-financed expansion、complementary-founder 失败/解体压力样本、第二个 FIT-LOCK-IN 长期样本，以及强 FIT-TRAP。**
+这条线已新增正式 [C015 — Capability-Shaped Project Formation / 能力反向立项](../claims/C015-capability-shaped-project-formation.md)。当前状态为 SUPPORTED，但它只主张“这是一种可观察的作者型立项技术”，**不主张普遍成功率优势**。Brigador + The Magic Circle 提供两份结构不同的 `FIT-STRONG / MARKET-FAILED`；The Witness / Outer Wilds / House House 覆盖 founder-owned、external-stack、grant+publisher 三种 capability expansion；Nomada 建立 `CAPABILITY-COMPOSED`，Zachtronics 建立第一份 `FIT-LOCK-IN`。原先列为缺口的四项现已分别由 **CASE-057 thatgamecompany（VC/equity expansion）/ CASE-056 Playdead（complementary-founder governance dissolution）/ CASE-058 Spiderweb（第二个长期 FIT-LOCK-IN）/ CASE-054 Limit Theory（强 FIT-TRAP）**补齐。下一步不再优先堆同类正例，而转向：`FIT-TRAP` 发生率未知、不同资本路线的 decision-right cost、能力重估的时代边界，以及 capability fit 与 market fit 之间的独立性。
 
 ### Artless Games：公开言论、产品与持续创作方式
 
