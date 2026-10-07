@@ -1,24 +1,24 @@
 {
   "cases": {
     "evidence_strength": {
-      "high": 18,
+      "medium": 38,
       "low": 2,
-      "medium": 38
+      "high": 19
     },
     "explanatory_importance": {
-      "critical": 48,
       "high": 9,
+      "critical": 49,
       "medium": 1
     },
     "narrative_value": {
-      "critical": 33,
-      "high": 25
+      "high": 25,
+      "critical": 34
     },
     "status": {
-      "RESEARCHING": 56,
-      "SKELETON": 2
+      "researching": 57,
+      "skeleton": 2
     },
-    "total": 58
+    "total": 59
   },
   "claims": {
     "evidence_strength": {
@@ -26,18 +26,18 @@
       "medium": 10
     },
     "explanatory_importance": {
-      "critical": 8,
       "high": 6,
+      "critical": 8,
       "medium": 1
     },
     "narrative_value": {
-      "high": 11,
-      "medium": 4
+      "medium": 4,
+      "high": 11
     },
     "status": {
-      "SUPPORTED": 10,
-      "UNVERIFIED": 4,
-      "WEAK": 1
+      "unverified": 4,
+      "supported": 10,
+      "weak": 1
     },
     "total": 15
   },
