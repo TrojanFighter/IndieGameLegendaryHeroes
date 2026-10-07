@@ -36,6 +36,19 @@ https://www.kommersant.ru/doc/387894 （核读 2026-10-07）
 https://www.gamedeveloper.com/game-platforms/interview-the-state-of-russian-gaming-according-to-1c （2026-10-07）
 用途：记录 1C 对海外销售与盗版的经营判断；统计数字仍需按具体作品/地区校准。
 
+## 二点五、1996—2008 一个更强的“出口收益 ≠ 到账现金”反例（Krank 当事人2016年回忆）
+
+**S03** Alexey Shchyogolev 采访 Andrei “KranK” Kuzmin，“Мы могли круче, чем американцы”，Rugrad，**2016-07-07**，P1（开发者二十年后自述，不是审计数据）。
+https://rugrad.online/afisha/news/andrey-krank-kuzmin-my-mogli-kruche-chem-amerikantsy/ （2026-10-07）
+
+- Krank 说 Buka 在早期 demo《Biprolex+》进入 Download Top 40 后主动找到其团队，随后团队在 Anigraph 展会上与发行商接洽，才拿到《Vangers》开发合同。**发行商发现机制不只是开发者主动投商业计划书**。
+- 自述《Vangers》开发支出约 **15 万美元**，开发约1.5年；在伦敦寻得海外发行商，按其说法全球发行预付款/签约收入约为开发支出的两倍。**数额和时长是 P1 当事人口径**，不能视作财务审计。
+- **但**1998 年卢布危机后，他称团队被迫签署放弃俄罗斯发行权的文件，海外发行商后来破产/转售权利，团队未能收到预想的后续 royalties。因此“项目成功出口”和“长期获得海外收益”是两种完全不同的变量。
+- 他自述《Perimeter》重做过大部分已有内容，最终制作支出约 50 万美元、项目 advance 约 100 万美元。**款项来源、支付节点和收款主体未核合同**，不能推算全公司的净利润或 royalty。
+- 2016 年本人将公司危机后切换 F2P 解释为生存/盈利选择，直接否定“俄罗斯原创作者不运营商业游戏”的刻板印象。
+
+**新增必须研究的机制**：**advance / licensing / IP-rights / recoupment / royalty enforceability / distributor bankruptcy**，不是简单把“国外卖了几份”和“本土卖了几份”相加。尤其应记录 1998 与 2008 两次危机是否造成不同的合同风险。
+
 ## 三、保留四项不可合并的变量
 
 1. **Domestic-market survival**：本土消费者、低价正版、独联体渠道和进口代理如何支撑发行商。
