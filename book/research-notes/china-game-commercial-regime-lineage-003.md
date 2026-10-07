@@ -38,6 +38,23 @@ F. 《万国觉醒》《原神》等强内容/全球化产品减少对单一本�
 1. **高数值通胀商业体制**会提供远高于传统 premium / 低数值产品的付费深度，因此会改变渠道、投资人与从业者的激励；
 2. **渠道为王**不只是“营销很重要”，而是一套能反向塑造产品立项、商业化和人才结构的市场接口。
 
+### Terminology ruling — “富豪阶级游戏性”
+
+作者旧稿里关于《征途》需求结构的正式术语统一为 **“富豪阶级游戏性”**；“资产阶级游戏性”不作为本项目正式术语。
+
+这里的“富豪阶级”不是现实人口统计阶层标签，而是需求模型：**现实财富能否通过规则被持续转换为游戏内稀缺能力、地位、可见权力和相对优势。**
+
+详细机制拆解见：
+- [018 — 富豪阶级游戏性、玩家社会化与 Design Attractor](../../country-studies/china/018-wealth-class-gameplay-player-socialization-design-attractor.md)
+
+新增强制区分：
+- F2P ≠ 自动等于富豪阶级游戏性；
+- 抽卡 ≠ 自动等于富豪阶级游戏性；
+- cosmetic monetization ≠ 富豪阶级游戏性；
+- 关键变量是 `RESOURCE_CONVERSION_RIGHT` 与相对优势是否可持续购买。
+
+旧稿同时提出“类型与受众互相塑造”的母题；现统一由018中的 `PREFERENCE_SOCIALIZATION / GENRE↔AUDIENCE CO-EVOLUTION / DESIGN_ATTRACTOR` 承接。
+
 但旧稿里有两类表述需要正式修正：
 
 ### 修正 A：不能再写“史玉柱发明免费网游 / 世界第一款免费网游”
