@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 6,
   "last_updated": "2026-10-07",
   "purpose": "Coverage-only index for schemas/creator-life-decision-audit.md. No household or personal facts are duplicated here.",
   "statuses": [
@@ -419,11 +419,18 @@
       "audit_status": "substantial",
       "audit_scope": "individual",
       "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-059",
+      "file": "cases/CASE-059-slay-the-spire-mega-crit.md",
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     }
   ],
   "summary": {
     "partial": 15,
-    "substantial": 23,
+    "substantial": 24,
     "pending": 20
   }
 }
