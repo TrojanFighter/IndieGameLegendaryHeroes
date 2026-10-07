@@ -184,6 +184,27 @@ early id 1990–1993最可能同时具备四项；Quake首先恶化的可能是R
 
 这比“找一个互补合伙人”严格得多。
 
+## 13.5 现成压力样本：Playdead证明“能力互补成功”不等于“纠错关系可持续”
+
+库内 CASE-056 Playdead 已经提供一个比抽象反例更强的压力测试：Arnt Jensen 与 Dino Patti 的 founding dyad 在能力上高度互补，并连续做出 LIMBO / INSIDE 两个成功产品；但关系最终仍因ownership、control、时间偏好和长期公司身份等治理成本解体。
+
+这意味着 042 的 ECN 框架还要再加一层：
+
+能力互补能解决“谁把产品做出来”；
+纠错网络还必须解决“谁有权改变谁、分歧如何收敛、未来时间表不同怎么办”。
+
+Playdead尤其提醒：product success只能验证一段时期内的 production fit，不能永久验证 founder governance。
+
+参见：
+- ../cases/CASE-056-playdead-founder-governance.md
+- ../evidence/CASE-056-playdead-founder-governance-source-ledger.md
+
+所以真正高质量的互补创始关系至少有三层：
+1. CAPABILITY COMPOSITION：能力能拼出完整产品；
+2. EPISTEMIC CORRECTION：双方能互相改变判断；
+3. GOVERNANCE DURABILITY：权利、股权、节奏、退出与作者身份能在多年变化中重新谈判。
+
+early id 1990–93目前对1和2证据很强；对3恰恰很弱，最终在Quake时期破裂。Playdead则说明，即便1长期成功，3仍可能最后击穿关系。
 ## 14. 下一轮待核
 
 1. Doom Bible、Doom multiplayer、Quake初始design、1995-11 meeting逐争议事件史；
