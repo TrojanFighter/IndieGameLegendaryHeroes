@@ -132,3 +132,20 @@ Tripwire 是 C014 最强的历史正向 comparator 之一：它展示了怎样�
 1. Tripwire 创立初期现金流与贷款具体结构是什么？
 2. Red Orchestra / Killing Floor 各阶段核心和外围人数如何变化？
 3. 哪些失败 / 未发布项目能作为 validation ladder 的反压力？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL / COMMUNITY-TO-STUDIO
+- **Life stage:** distributed modders → competition-validated team → commercial studio; not a conventional “quit job and fund a company first” route.
+- **Household:** individual relationship / children / housing / family support `UNKNOWN`。
+- **Runway:** unpaid/community mod labor → Make Something Unreal prizes/license/credibility → company formation → commercial Red Orchestra sales → later commercialized community/mod products.
+- **Household burn:** `UNKNOWN`；competition/license support cannot be equated to salary replacement without further evidence.
+- **Exit / recovery:** `UNKNOWN` — individual modders’ day jobs and employment fallback still need person-level reconstruction.
+- **Capability vector:** Unreal modding、distributed community collaboration、playable FPS production、community moderation/recruitment、commercialization of already-validated mods.
+- **Problem ownership:** **HIGH at product/community level** — game form exists before company-scale capital; company is built around evidence rather than the reverse.
+- **Validation architecture:** public mod → player community → competition → license/prize/credibility → company → commercial release → repeat with Killing Floor / Rising Storm lineage.
+- **Reality adjudication:** **STRONG** — gameplay, team, community and creator capability all face external validation before major fixed cost.
+- **Capability capture risk:** **LOW / COMMUNITY-ANCHORED** — technical/gameplay work stays exposed to public users; later studio risk still needs failure cases.
+- **Market sufficiency / legibility:** **STRONG for niche FPS/mod ecosystem** — the route depended heavily on 2000s Unreal/mod-contest infrastructure.
+- **Capability scaling:** community-as-production → company absorption → repeatable external talent/product pipeline.
+- **Major unknowns:** founding cashflow/loans、individual household/day-job histories、failure projects、exact core/periphery headcount。

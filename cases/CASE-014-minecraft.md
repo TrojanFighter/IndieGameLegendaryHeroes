@@ -79,3 +79,20 @@ Minecraft 的关键结构不是“一次融资”，而是把开发中产品本�
 3. Mojang 从个人项目到组织的关键招聘节点和职责迁移？
 4. 哪些社区基础设施是自发形成，哪些由开发者主动搭建？
 5. Alpha funding 的幸存者偏差：同期多少项目采用类似模式但没有形成正循环？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** Persson 在保留 day job /职业收入背景下做 early Minecraft，直到持续销售形成明确辞职阈值后才转 full-time。
+- **Household:** relationship / children / housing / family support at 2009 stage `UNKNOWN`。
+- **Runway:** day-job income / existing technical capability → weekend playable → paid Alpha from June 2009 → recurring direct sales → quit threshold → Mojang organization。
+- **Household burn:** `UNKNOWN`；早期风险主要通过保留职业收入与极早收费压低。
+- **Exit / recovery:** **HIGH EARLY OPTIONALITY** — 在收入足以替代工资前并未把全部职业风险前置；此前职业/编程前史需要更完整重建。
+- **Capability vector:** programming / systems / rapid prototyping 强；社区沟通与持续更新能力迅速成为第二能力层；后期组织、运营、商业由 Mojang 扩张。
+- **Problem ownership:** **HIGH** — early core、更新节奏、收费方式由 Persson 直接控制。
+- **Validation architecture:** weekend prototype → TIGSource public build → paid Alpha → frequent updates/community feedback → revenue threshold → full-time transition → Mojang scaling。
+- **Reality adjudication:** **STRONG** — 玩家直接通过购买、论坛与持续使用进入产品循环；“未完成但可玩”本身成为验证和融资机制。
+- **Capability capture risk:** **LOW / PLAYER-LOOP-ANCHORED** — 技术扩张持续围绕 building/exploration/survival loop；后期组织复杂度另计。
+- **Market sufficiency / legibility:** **STRONG** — early paid demand 直接证明产品价值；但 2009–2011 alpha-funding环境高度历史化。
+- **Capability scaling:** solo-heavy public alpha → player-financed full-time development → Mojang organization / operations / content expansion。
+- **Major unknowns:** Persson 2009 前职业时间线、第一次辞职精确收入阈值、household、Mojang earliest hiring chronology。

@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "last_updated": "2026-10-07",
   "purpose": "Coverage-only index for schemas/creator-life-decision-audit.md. No household or personal facts are duplicated here.",
   "statuses": [
@@ -24,9 +24,9 @@
     {
       "case_id": "CASE-002",
       "file": "cases/CASE-002-rocket-league.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-003",
@@ -52,9 +52,9 @@
     {
       "case_id": "CASE-006",
       "file": "cases/CASE-006-repo.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "partial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-007",
@@ -73,9 +73,9 @@
     {
       "case_id": "CASE-009",
       "file": "cases/CASE-009-project-wingman.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "partial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-010",
@@ -108,9 +108,9 @@
     {
       "case_id": "CASE-014",
       "file": "cases/CASE-014-minecraft.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-015",
@@ -129,9 +129,9 @@
     {
       "case_id": "CASE-017",
       "file": "cases/CASE-017-among-us.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "partial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-018",
@@ -227,9 +227,9 @@
     {
       "case_id": "CASE-031",
       "file": "cases/CASE-031-jonas-tyroller.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-032",
@@ -248,9 +248,9 @@
     {
       "case_id": "CASE-034",
       "file": "cases/CASE-034-landfall-games.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-035",
@@ -269,9 +269,9 @@
     {
       "case_id": "CASE-037",
       "file": "cases/CASE-037-darkwood.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-038",
@@ -290,9 +290,9 @@
     {
       "case_id": "CASE-040",
       "file": "cases/CASE-040-tripwire-lineage.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "partial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-041",
@@ -374,9 +374,9 @@
     {
       "case_id": "CASE-052",
       "file": "cases/CASE-052-house-house-goose-game.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-053",
@@ -415,8 +415,8 @@
     }
   ],
   "summary": {
-    "partial": 11,
-    "pending": 30,
-    "substantial": 16
+    "partial": 15,
+    "substantial": 22,
+    "pending": 20
   }
 }

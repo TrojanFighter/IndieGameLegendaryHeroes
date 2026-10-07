@@ -306,3 +306,20 @@ Each intake must record source date, URL, speaker, timestamp when applicable, ev
 5. Compare Jonas's 2024, 2025 and 2026 advice to identify genuine method drift rather than verbal reframing.
 6. Track current multiplayer / free passion projects and test whether the low-fixed-cost / prototype-selection model survives a different technical regime.
 7. Use his guest interviews to find counterexamples to his own advice, not only confirmations.
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** Game Design education + repeated student/prototype work → Harmonix-independent? no; Tyroller path is self-produced/student-team → solo-core → two-person studio. By 2018 he moved into full-time indie after earlier projects and public audience had accumulated.
+- **Household:** relationship / children / housing / dependents `UNKNOWN`。
+- **Runway:** early student/team context → commercial releases / public audience → later game income sufficient for full-time indie; exact savings and household burn unknown. Will You Snail? was a long solo-core commitment; Thronefall was built from a more mature financial/production base.
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** **MEDIUM→HIGH CREATOR OPTIONALITY** — multiple shipped projects, teaching/public communication skill, existing audience, collaborator network and later product revenue all increase reversibility; exact outside-employment fallback unknown.
+- **Capability vector:** programming / game design / prototyping / public communication / market explanation; later two-person production with Paul Schnepf and wider specialist periphery.
+- **Problem ownership:** **HIGH** — repeated self-directed project selection and explicit process revision.
+- **Validation architecture:** many small prototypes → ISLANDERS student-team ship → Will You Snail? long solo-core learning → multiple 1–2 day Thronefall prototypes → beta / Early Access → full release。
+- **Reality adjudication:** **STRONG** — Tyroller explicitly treats Will You Snail? as a process warning and changes later method toward cheaper prototype selection and project ceilings.
+- **Capability capture risk:** **LOW→MEDIUM** — generalist ability could enable overlong solo bets, but later process deliberately caps this through prototype discard and two-person scope.
+- **Market sufficiency / legibility:** **STRONG for ISLANDERS/Thronefall** — “fantasy compression” produces high category legibility; public audience is a real but unquantified market-access asset.
+- **Capability scaling:** repeated shipping grows both skill and market/network capital; later projects use stable collaborator structure rather than large permanent organization.
+- **Major unknowns:** household economics、exact revenue/runway thresholds、YouTube audience causal share、contractor / porting perimeter。

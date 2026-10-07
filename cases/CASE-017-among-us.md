@@ -68,3 +68,20 @@ Among Us 是“上线两年后突然爆红”的极端市场时点案例。它�
 3. 2020 streamer 传播的关键节点能否做渠道时间序列？
 4. 三位原始成员此前各自的能力资本来自哪些项目？
 5. post-boom team expansion 与外包的完整时间线？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL / STUDIO-LEVEL
+- **Life stage:** Innersloth 已是极小团队，2018 原作由三人制作；2020 爆发前项目经历两年低可见度运营。
+- **Household:** individual household / partner / children / housing `UNKNOWN`。
+- **Runway:** 早期团队维持方式、个人工资/储蓄与其他项目收入仍未闭环；PC 收费、移动端、持续小规模销售在 2020 前已存在。
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** `UNKNOWN`
+- **Capability vector:** tiny-team online game development、art/design/netcode、telemetry/community；爆发后又被迫补 server、account、anti-cheat、cross-platform、live-ops capabilities。
+- **Problem ownership:** **HIGH pre-boom** — team 长期自行迭代并一度把游戏判定为 complete；爆发后市场规模重新定义了产品义务。
+- **Validation architecture:** local/mobile beta → online/netcode rewrite → PC paid version → telemetry / small creator spikes → “complete game” → 2020 streamer/global explosion → cancel sequel → rebuild/live-service expansion。
+- **Reality adjudication:** **STRONG BUT LATE-RIGHT-TAIL** — 2018–2020 有持续数据，但最大 market truth 在团队认为项目已完成后才出现。
+- **Capability capture risk:** **LOW PRE-BOOM / HIGH POST-SUCCESS TECH-DEBT PRESSURE** — 原小项目代码在巨量成功后成为新瓶颈。
+- **Market sufficiency / legibility:** **WEAK/MODEST for two years → EXTREME RIGHT-TAIL** — 强提醒：早期长期中等信号不能预测后来的全球窗口。
+- **Capability scaling:** three-person product → success-triggered organization rebuild / external partners；典型“成功后成本函数突变”。
+- **Major unknowns:** pre-2020 household/runway、团队工资、其他项目 cross-subsidy、爆发后 headcount/partners 逐月变化。

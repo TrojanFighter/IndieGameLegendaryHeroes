@@ -146,3 +146,20 @@ Landfall 多年积累的品牌、Steam 历史、社区、合作网络、核心�
 3. 对 23 个 Archives 项目做 prototype taxonomy 与能力复用分析；
 4. 核 Evil Landfall 的投资/自发行结构；
 5. 继续找失败复盘，避免只从成功后的官方叙事推因果。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL / STUDIO-LEVEL
+- **Life stage:** early friends/hobby team → Air Brawl EA cashflow → gradually full-time studio → retained-earnings micro-studio with repeated prototypes and hits.
+- **Household:** founders’ personal relationship / children / housing / family transfers mostly `UNKNOWN`; early “lived at home” condition is relevant but incomplete.
+- **Runway:** Air Brawl EA → Clustertruck / TABS / later retained earnings → repeated low-cost prototypes / jams; external PR/QA/localization and cross-studio collaboration extend perimeter without large permanent payroll.
+- **Household burn:** `UNKNOWN`；company retained earnings now matter more than founder personal savings, but early personal risk remains underdocumented.
+- **Exit / recovery:** **HIGH ORGANIZATIONAL OPTIONALITY by later phase** — multiple shipped products, brand, community and retained earnings make project failure survivable; early-phase personal fallback less clear.
+- **Capability vector:** physics/emergent comedy、rapid prototyping、watchability、Steam/community operation、small-core coordination、external PR/QA/localization collaboration.
+- **Problem ownership:** **HIGH** — studio repeatedly selects, kills and reshapes internal ideas rather than following one fixed genre roadmap.
+- **Validation architecture:** Air Brawl EA → successive commercial titles → prototype archives / jams → social/public signal → selectively escalate ROUNDS / Content Warning / HASTE / PEAK。
+- **Reality adjudication:** **STRONG** — archives expose failed prototypes; HASTE changed direction after public signal; TABS technical debt later changed maintenance choices.
+- **Capability capture risk:** **MEDIUM / STUDIO-LEVEL** — physics/comedy/watchability is a durable strength but long projects can still accumulate tech debt; team counters this with shorter experiments and archives.
+- **Market sufficiency / legibility:** **STRONG on successful social games**, but virality/right-tail is non-repeatable; creator-facing visibility is part of product design.
+- **Capability scaling:** product-led scaling + flexible external perimeter; organization intentionally remains smaller than total production network.
+- **Major unknowns:** budgets/profits per title、early household runway、Evil Landfall investment structure、full contractor perimeter。
