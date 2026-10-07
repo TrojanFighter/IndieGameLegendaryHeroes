@@ -463,5 +463,7 @@ Sources:
 - 至少一个欧美反例：elite pedigree / big-company career 明显造成项目 prestige distortion；
 - 不能只比较成功者。
 
-当前 CASE-059 / Slay the Spire 是强案例，但只是一格。
+当前 CASE-059 / Slay the Spire 是强案例，但只是一格。2026-10-07 又补入 CASE-061 Supergiant（EA C&C 技术/制作能力被改造成七人作者团队）和 CASE-062 Red Hook（行业老兵在孩子/房贷/债务风险下保留独立产品定义），并将 Sandfall/Ubisoft（CASE-046）纳入 [工业能力 × 独立作者性 027](../book/research-notes/industrial-capability-independent-authorship-comparison-027.md)。
+
+这些增加了跨岗位正例，却**没有**满足中美同岗控制或美国声望保全型失败反例要求。因此不得把 Prestige Pipeline Coupling 从 A0 假说升级为国别因果 Claim。
 
