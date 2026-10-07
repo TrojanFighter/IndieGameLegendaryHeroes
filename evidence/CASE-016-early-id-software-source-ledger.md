@@ -70,7 +70,7 @@ Source-derived facts:
 - team juggled Softdisk deadlines with Apogee work;
 - Romero describes id as a small company dependent on game-generated income and without loans in that period.
 
-## E006 — *Masters of Doom* / 《DOOM启示录》 as narrative spine
+## E006 — *Masters of Doom* / 《DOOM启世录》 as narrative spine
 
 - Class: S1 — researched secondary narrative / book-length synthesis
 - Source: David Kushner, *Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture*, Random House, 2003
