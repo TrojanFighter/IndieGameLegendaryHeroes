@@ -84,7 +84,8 @@ Chapter 不再问：
 - [工业能力 × 独立作者性：EA、Amazon、Ubisoft、Red Hook 与中国跨岗位对照](research-notes/industrial-capability-independent-authorship-comparison-027.md)
 - [媒体可见性与幸存者偏差：从明星案例转向公开非明星项目的分母审计](research-notes/media-selection-survivorship-and-denominator-protocol-028.md)
 - [家庭作为第一道机会关口：1980年代美国 early id × 中国家长与未入场游戏创作者](research-notes/family-gates-game-creator-us-china-029.md)
-- [梁其伟的两次人生裁决：2007年保研损失迫使停做、2008年在不同学校文化重新开工](research-notes/family-gate-china-near-miss-liang-qiwei-030.md) — 与 Romero 的继父/早年设备机会相对照；是幸存者中的 NEAR-MISS，不得冒充真正未入场者总体。 — 研究游戏接触、制作练习、第一份作品和职业抉择被家庭如何支持或否决；对应教育/社会规范的跨层机制，不把个人见闻误算为全国比例。
+- [梁其伟的两次人生裁决：2007年保研损失迫使停做、2008年在不同学校文化重新开工](research-notes/family-gate-china-near-miss-liang-qiwei-030.md)
+- [《DOOM启世录》代际和解：事业证明、迟到道歉与亲子关系未来](research-notes/doom-intergenerational-reconciliation-031.md) — Part I 追踪父母如何改变判断，Part VI 追踪商业成功后父母认可与关系修复、下一代教养和家庭劳动的差异；不能以事业成功自动充当伦理大团圆。 — 与 Romero 的继父/早年设备机会相对照；是幸存者中的 NEAR-MISS，不得冒充真正未入场者总体。 — 研究游戏接触、制作练习、第一份作品和职业抉择被家庭如何支持或否决；对应教育/社会规范的跨层机制，不把个人见闻误算为全国比例。
 
 ### A. 教育｜你是否学会自己出题？
 
