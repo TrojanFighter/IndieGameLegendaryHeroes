@@ -3,8 +3,8 @@ type: case
 schema_version: 2
 case_id: CASE-059
 status: RESEARCHING
-subject: "Slay the Spire / Mega Crit: parallel authorial thread, big-company skill transfer and data-driven genre invention"
-related_claims: [C003, C004, C005, C006, C007, C010, C011, C015]
+subject: "Slay the Spire / Mega Crit"
+related_claims: [C015]
 evidence_strength: HIGH
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
@@ -19,6 +19,7 @@ last_verified: 2026-10-07
 - Period covered: college hobby games → software/QA employment → 2015 prototype → 2017 Early Access → 2019 1.0
 - Research status: RESEARCHING
 - Corpus role: `BIG-COMPANY-EXIT / PARALLEL-AUTHORIAL-THREAD / DATA-DRIVEN-PRE-PARADIGM / CAREER-IDENTITY-COUNTERPOINT`
+- Related Claims: C015
 - Evidence Ledger: [来源账本](../evidence/CASE-059-slay-the-spire-mega-crit-source-ledger.md)
 
 ## 1. Why this case
