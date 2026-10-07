@@ -30,4 +30,6 @@
 - [LR-001 — 名校 / 大厂高绩效者转作者型独立：先退出评分器，再退出公司](big-company-veteran-to-author-001.md)
 - [LR-002 — 有稳定工资的创作者：先购买证据，再购买自由](salaried-creator-staged-commitment-002.md)
 - [LR-003 — 房贷、育儿与高家庭支出的创作者：项目风险不能吞掉家庭现金流](household-high-burn-creator-003.md)
-- [LR-004 — 工业能力转作者型团队：带走专业，不带走旧组织的题目](industrial-capability-authorial-studio-004.md)
+- [LR-004 — 作品方向已经明确，但团队做不出来：改作品还是补能力？](project-thesis-capability-gap-004.md) — SHAPE / LEARN / PERIPHERALIZE / COMPOSE / HIRE / FINANCE / SHELVE：辨别项目、技能、吞吐和市场缺口，按证据增加承诺。
+
+- [LR-005 — 工业能力转作者型团队：带走专业，不带走旧组织的题目](industrial-capability-authorial-studio-005.md)
