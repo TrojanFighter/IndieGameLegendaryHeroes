@@ -223,6 +223,8 @@ https://www.daonegames.com/works/
 6. 项目长期商业存续。
 
 ## 6. 下一步研究设计
+大陆平台型对照：[中国014 — China Hero Project第一/二期固定入选队列](../china/014-china-hero-project-phase1-phase2-cohort-followup.md)。两者只能比较selection、capital/services timing与failure modes，不能比较“扶持成功率”。
+
 
 ### P0：追回2021全部申请分母
 
