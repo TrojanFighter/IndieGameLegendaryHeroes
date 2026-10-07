@@ -4,7 +4,10 @@
 
 这不是性格测试，也不是“什么职业最适合做独立游戏”。
 
-它只提供一个更实用的入口：
+**如果你现在真正想解决的是“我下一步该做什么”，先不要从职业进入。**  
+优先走 [按你的处境进入｜作者型项目决策路由](DECISION-ROUTER.md)：先判断 capability、runway / household risk 与 project stage，再决定应该移动项目、能力、团队、资本还是承诺。
+
+本页是第二级入口，只回答：
 
 > **如果你今天已经拥有一种明显强于其他能力的资本，哪些人物最值得先看？**
 
@@ -93,6 +96,7 @@ Nomada 的关键不是“Conrad Roset 画得好”，而是：
 - [CASE-018 RollerCoaster Tycoon / Chris Sawyer](../cases/CASE-018-rollercoaster-tycoon.md) — 极端工程熟练度、长期代码资本与 OPC 上限；
 - [CASE-035 Factorio / Wube](../cases/CASE-035-factorio-wube.md) — 程序能力 + 系统型产品 + paid-alpha feedback loop；
 - [CASE-051 Zachtronics / Zach Barth](../cases/CASE-051-zachtronics.md) — 把 engineering literacy 直接做成玩家语言，并观察长期成功的 fit 如何反过来形成 `FIT-LOCK-IN`。
+- [CASE-058 Spiderweb Software / Jeff Vogel](../cases/CASE-058-spiderweb-fit-lock-in.md) — 第二个异质 `FIT-LOCK-IN`：不是工程谜题，而是几十年 CRPG engine/assets/audience/back-catalog 复利；用于看长期 fit 怎样同时降低 staying cost、提高 switching cost。
 - [CASE-053 Kenny Sun / Circa Infinity → BALL x PIT](../cases/CASE-053-kenny-sun.md) — 如果你的问题不是“程序员最适合做什么”，而是“怎样让今天的程序能力经过连续出货，逐步长成 generalist / author / team-lead capability”，优先看这个纵向样本。
 - [CASE-054 Limit Theory / Josh Parnell](../cases/CASE-054-limit-theory-fit-trap.md) — 反例入口：技术能力极强时，如何出现 `engine completeness ↑ / game completeness ↔`，最终把最强能力变成 FIT-TRAP。
 
@@ -217,6 +221,7 @@ Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签�
 - [CASE-047 The Witness / Jonathan Blow](../cases/CASE-047-the-witness.md) — `CAPABILITY-EXPANDED / SELF-FINANCED`：不是继续把项目缩到 founder 当前能力，而是用 Braid retained earnings 购买 art / architecture / landscape / specialist capability；
 - [CASE-049 Outer Wilds / Mobius Digital](../cases/CASE-049-outer-wilds.md) — `CAPABILITY-EXPANDED / EXTERNAL-CAPITAL`：先有 student thesis / playable evidence，再用 studio、crowdfunding、publisher 与 platform partnership 扩张能力；
 - [CASE-052 House House / Untitled Goose Game → Big Walk](../cases/CASE-052-house-house-goose-game.md) — `GRANT / NON-DILUTIVE + PUBLISHER`：public funding 先买 development/completion 与 specialist capability，publisher 再补 audio/platform/market periphery，成功后变成下一作的 self-funded risk buffer；
+- [CASE-057 thatgamecompany / Sony → Benchmark → Sky](../cases/CASE-057-thatgamecompany-vc-equity-expansion.md) — `VC / EQUITY`：company-level equity 把 development studio 扩成 self-publishing / marketing / distribution / support organization，同时把 obligation 移到 board / ownership / investor-return / next-round 层；
 - [Into the Breach / Subset](../cases/CASE-020-into-the-breach.md) — 同样是 prior success，但选择把资本变成长时间 low burn / design search，而不是显著扩张 production perimeter；
 - [CASE-046 Clair Obscur / Sandfall](../cases/CASE-046-sandfall-expedition33.md) — 另一种 small-core + industrial-periphery 路径。
 
@@ -242,6 +247,12 @@ Outer Wilds 则提醒：
 House House 再补一层：
 > **grant 与 publisher 都叫“外部资金”，但它们购买的 capability bundle 和 governance cost 并不相同。**
 
+thatgamecompany 再把 equity 拆出来：
+> **摆脱单一 publisher / platform control 不等于没有治理成本；board / ownership / investor-return 是另一种 control surface。**
+
+Into the Breach 则提醒另一条完全不同的用钱方式：
+> **第一次成功以后，资本也可以不拿来扩 headcount，而是购买“暂时不承诺”的选择权。**
+
 这不等于“publisher 会夺走创作权”。真正要看合同与 decision rights，不能从“有发行商”直接推断失去控制。
 
 ---
@@ -263,7 +274,7 @@ House House 再补一层：
 
 > **什么项目形态会让你已有的能力产生复利，同时让最昂贵的弱项少出现。**
 
-这正是 [C015 能力反向立项](../claims/C015-capability-shaped-project-formation.md) 要检验的东西：低资本时，先问**什么作品会把你的能力向量变成设计优势**；而 CASE-047/049/052 又提醒我们，资本足够时也可以反过来问**哪些缺失能力值得购买，而不是删掉项目野心；以及 founder money、grant、publisher/platform money 会以什么不同 governance 代价买来这些能力**。CASE-050 进一步提醒：有时缺失能力不是雇来的，而是通过共同创始人进入，这时你支付的是 authorship / equity / control。
+这正是 [C015 能力反向立项](../claims/C015-capability-shaped-project-formation.md) 要检验的东西：低资本时，先问**什么作品会把你的能力向量变成设计优势**；而 CASE-047/049/052/057 又提醒我们，资本足够时也可以反过来问**哪些缺失能力值得购买，而不是删掉项目野心；以及 founder money、grant、publisher/platform money、VC/equity 会以什么不同 governance 代价买来这些能力**。CASE-050/056 进一步提醒：有时缺失能力通过共同创始人进入，这时你支付的是 authorship / equity / control。CASE-020 则补上成功后的另一种选择：**不急着买能力，先用低 burn 和延迟承诺购买 optionality。**
 
 ---
 
