@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`early-id-1980s-america-life-decisions-001.md`](early-id-1980s-america-life-decisions-001.md) — 1980年代美国家庭电脑普及与阶层差异、学校/杂志/BBS/雇佣入口及 Romero/Carmack/Hall/Adrian/Jay/Miller 的传记与人生抉择。
+
 - [`masters-of-doom-longitudinal-master-study-001.md`](masters-of-doom-longitudinal-master-study-001.md) — Softdisk→Keen→Wolfenstein→DOOM→Quake→Ion Storm/Deus Ex：技术窗口创造、团队互补、生产转化和治理失配的纵向母案例。
 - [`doom-life-crossroads-001.md`](doom-life-crossroads-001.md) — Early id / DOOM 的人生关键节点与目标变化。
 - [`play-to-production-fourth-industrial-revolution-001.md`](play-to-production-fourth-industrial-revolution-001.md) — 玩家如何通过 mod / UGC / 工具 / artifact 转向数字生产者。
