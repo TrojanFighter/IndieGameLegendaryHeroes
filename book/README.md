@@ -91,7 +91,7 @@ Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可�
 
 ## 想直接读人物
 
-如果你更喜欢完整人物传记，而不是跨案例章节，可以进入 [人物传记目录（当前 9 篇）](profiles/README.md)。以下是全部入口：
+如果你更喜欢完整人物传记，而不是跨案例章节，可以进入 [人物传记目录（当前 11 篇）](profiles/README.md)。以下是全部入口：
 
 - [early id / DOOM：游戏少年怎样把兴趣变成工具、公司和一个新行业](profiles/early-id-doom.md)
 - [Kenshi：夜班保安如何把时间变成一间工作室](profiles/kenshi.md)
@@ -102,6 +102,8 @@ Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可�
 - [David Wehle / The First Tree：上班、育儿与一只狐狸](profiles/david-wehle-first-tree.md)
 - [Nomada / GRIS → Neva：一个画家与两位程序员怎样成为共同作者](profiles/nomada-gris-neva.md)
 - [Zach Barth / Zachtronics：做出擅长的游戏以后，为什么选择结束工作室](profiles/zach-barth-zachtronics.md)
+- [Josh Parnell / Limit Theory：六年工程进展为何没能交付完整游戏](profiles/josh-parnell-limit-theory.md)
+- [Question / The Magic Circle → The Blackout Club：首作卖不够，团队为何继续并改变选题](profiles/question-magic-circle-blackout-club.md)
 
 也可以从 [《第一次来，先从这里读》](START-HERE.md) 按你现在真正遇到的问题选择文章。
 
