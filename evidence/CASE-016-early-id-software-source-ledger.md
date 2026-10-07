@@ -346,6 +346,44 @@ Book-reported hypotheses: Romero’s family and work reentry obligations, Carmac
 
 Boundary: private conversations, trauma-to-aesthetic causality, exact family resources, morals, royalties, household burn, employer equipment terms remain `BOOK-REPORTED / UNKNOWN` unless other participants and records corroborate. Third-party family members are not to be impersonated or treated as NPCs.
 
+
+## E027 — Romero's stepfather opposed gaming and bought the crucial computer
+
+- **Class:** P1 — multiple direct Romero interviews / first-person essay; S1 — 2003 Kushner original-book chapter 1
+- **Romero 1997 author introduction to Halcyon Days:** https://dadgum.com/halcyon/BOOK/MISC/INTRO.HTM ; says parents worried about arcade spending and bought Apple II+ as a way to redirect the fascination.
+- **Romero 2018 direct interview:** https://gameir.ie/event/interview-with-an-innovator-john-romero/ ; family disapproved of extensive arcade play but approved programming and ultimately bought Apple II; parents did not meaningfully playtest his creations.
+- **Romero 2023 GamesBeat long interview:** https://gamesbeat.com/making-doom-and-building-the-fps-industry-at-100-miles-per-hour-john-romero-interview/ ; identifies stepfather's job move to Northern California, willingness to hear about university Apple II, and direct purchase of home computer as pivotal; acknowledges physical/emotional abuse and adult reconciliation.
+- **Kushner 2003, chapter 1:** stepfather arcade restriction / beating, family household context, school/college transition; narrative details S1 pending original contemporaneous documentation.
+- **Romero 2020 Washington Post oral interview:** https://www.washingtonpost.com/video-games/2020/12/21/john-brenda-romero/ ; direct adult recollection of childhood violence and use of computer time as a refuge.
+
+**Supports:** the same adult could be a severe gatekeeper of recreational game consumption **and** an enabling purchaser of a programmable computer; family financial support / normative consent / physical safety / career consent are separate variables.
+
+**Boundary:** adult reconciliation does NOT retroactively make abuse acceptable; no claim that violence caused creative ability. Do not misrepresent stepfather as universally pro-gaming, nor confuse purchase of computer with knowledge of game-design profession.
+
+## E028 — Same-generation family-positive counterfactual: Jordan Mechner / Karateka
+
+- **Class:** P1 — direct creator interview incorporating a preserved documentary/game-journal archive
+- **Source:** Sam Machkovech, *The father-and-son of Karateka: how family anchored a classic game's innovations*, Game Developer, 2023-08-29
+- URL: https://www.gamedeveloper.com/design/the-father-and-son-of-karateka-how-family-anchored-a-classic-game-s-innovations
+
+Mechner says his father Francis did not play video games but recognized an artistic project, suggested and composed musical leitmotifs for 1984 *Karateka*, and actively supported production and filming. Mechner explicitly contrasts his positive family environment with John Romero's earlier parental opposition. *The Making of Karateka* embeds original documentary artifacts and early prototypes, offering less nostalgia-dependent evidence than a memory-only interview.
+
+**Supports:** family assistance may enter directly as aesthetic/production capability, not only cash or permission; external contemporaneous US peer counterexample prevents “successful founders needed to fight parents” myth.
+
+**Boundary:** family wealth, luck and product acceptance are not controlled; no inference that a positive family relationship is necessary or sufficient for success. Avoid promoting Mechner to an indexed Case until a separate production study justifies it.
+
+## E029 — 1980s USA video-game moral panic and restrictive local authority
+
+- **Class:** S1/H1 — historical research synthesis by game historian Michael Z. Newman drawing on contemporary coverage/municipal records
+- **Source:** *Children of the 80s Never Fear: Video Games Did Not Ruin Your Life*, Smithsonian Magazine, 2017-05-25
+- URL: https://www.smithsonianmag.com/history/children-80s-never-fear-video-games-did-not-ruin-your-life-180963452/
+
+Newman documents US parents, commentators and local officials denouncing video arcades as harmful for learning, crime and adolescence, and restrictive rules/litigation in Mesquite TX (1982), while computer/game advocates simultaneously framed play as technical literacy and some adolescents entered software careers from programming.
+
+**Supports:** early id's historical regime cannot be presented as universally permissive US families; norm sanctions and maker opportunities coexisted in the same society.
+
+**Boundary:** museum magazine essay is researched secondary synthesis, not a national representative parent opinion survey; cannot quantify the frequency or intensity of bans in US vs China from these cases alone. Historical US youth arcade regulation is not equivalent to 2021 Chinese online-game company limits.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
