@@ -38,6 +38,7 @@
 
 ## 1.5.1. Premium PC 生态分叉：完美世界／Runic × Nival（2000—2017）
 
+- [中俄核心credits老兵密度试验：2003—2015](china-russia-core-credits-pilot-2003-2015.md)：从中国7名早期核心主创与俄方7名2005 cohort核心人员做同口径跟踪。进入各自cohort时两边可核经验中位数都约4年；到2010s两边都已形成老兵。真正差异更像Premium→Premium持续窗口与problem-domain配置，而非简单工龄。
 - [中俄老兵决策位：个人级试验矩阵](china-russia-veteran-decision-role-pilot-2000-2015.md)：否定“俄罗斯从业者普遍都是老兵／中国缺老兵”的简单说法，改测VDRD、HRR与Problem-Domain Continuity。当前样本显示中国也有姚壮宪、张毅君、刘坤等长期hands-on老兵；差异更可能在老兵经验被配置到Premium/系统问题域还是Online/MMO/商业生产问题域。
 - [2003中国大陆Premium PC cohort：13款候选复原](china-premium-pc-cohort-2003-reconstruction.md)：按开发主体重建《大众软件》“大陆本土制作13款”候选，并追约7个核心组织五年去向；当前最强信号是人才多被Online重新配置，而上海软星→烛龙是Premium作者谱系经spin-off延续的关键反例。名单仍待原杂志附表最终验证。
 - [2001—2006 中俄 Premium PC 项目母体：第一版项目级编码](russia-china-premium-pc-project-motherbody-2001-2006.md)：把目标、像素、上海软星、祖龙/欢乐亿派与1C/Buka/Nival/K-D LAB/Ice-Pick等同期项目放入 shipped / cancelled / converted / online-pivot 同一母体；当前结论是中国更像“谱系改道”而非“人才消失”，俄罗斯则仍保有同时资助多问题域项目的发行槽位。当前不是完整清单，下一步补2003中国13款、2004寥寥数款、1C 2005三十款及KRI失败项目。
