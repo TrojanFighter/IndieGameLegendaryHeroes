@@ -76,13 +76,62 @@
 - Confidence: VERY HIGH.
 - Boundary: technical scope only; not commercial evidence.
 
+## E007 — NYU Game Center IGF interview: early doubts about category understanding
+
+- Source class: P1 — direct filmed creator interview.
+- Title: 2016 IGF Interviews: The Magic Circle.
+- Author / Institution: NYU Game Center; interview with Jordan Thomas and Stephen Alexander.
+- Published: UNKNOWN (2016 IGF interview, published later in NYU archive).
+- Accessed: 2026-10-07.
+- URL: https://gamecenter.nyu.edu/magic-circle/
+- Claim use: Thomas reports contemporaneous awareness that a deeply meta game demands more audience decoding than most; the same thing is deeply effective for a subset of players but difficult to pitch broadly; some originally impossible-seeming production ambitions were resolved near the end.
+- Confidence: HIGH for direct creator testimony.
+- Boundary: recollection is after shipping, not a complete contemporaneous record of design-stage market forecasting; no financial numbers.
+
+## E008 — 2018 Thomas follow-up: commercially informed second-product choice
+
+- Source class: P1 — direct founder interview.
+- Title: Interview: BioShock 2 director Jordan Thomas on The Blackout Club.
+- Author / Institution: Ryan Lambie / Film Stories.
+- Published: 2018-11-26.
+- Accessed: 2026-10-07.
+- URL: https://filmstories.co.uk/gaming/interview-bioshock-2-director-jordan-thomas-on-the-blackout-club/
+- Claim use: directly links The Magic Circle's narrower market response with the team's next selection problem: find a space where they still feel passion and where contemporary customers demonstrably buy; co-op horror chosen as a more legible genre while retaining a personally resonant concept.
+- Confidence: VERY HIGH for self-described product selection and motivation.
+- Boundary: this documents intent and direction, not independently audited Blackout Club profitability or personal financial recovery.
+
+## E009 — Question's own team history: studio persisted and expanded after first game
+
+- Source class: P0 — studio-authored team chronology.
+- Title: Question — Team.
+- Author / Institution: Question LLC.
+- Published: UNKNOWN (living studio page).
+- Accessed: 2026-10-07.
+- URL: https://www.questiongames.com/team
+- Claim use: states Thomas + Alexander formed Question after BioShock Infinite, Shin joined, and after The Magic Circle the studio added Michael Kelly and David Pittman, plus Sam Gauss in 2018 for The Blackout Club. Refutes any implication that the studio immediately dissolved with first game's unsustainable sales.
+- Confidence: HIGH for named studio/team history.
+- Boundary: no payroll, net profit, investor or debt figures. Current site persistence alone does not prove every person remained continuously employed throughout all periods.
+
+## E010 — 2018 Game Developer follow-up: transition visible contemporaneously
+
+- Source class: P1 — trade press with direct developers / 2018 discussion.
+- Title: Watch Question's Jordan Thomas and Michael Kelly discuss The Blackout Club.
+- Author / Institution: Bryant Francis / Game Developer.
+- Published: 2018-11-14.
+- Accessed: 2026-10-07.
+- URL: https://www.gamedeveloper.com/design/watch-question-s-jordan-thomas-and-michael-kelly-discuss-i-the-blackout-club-i-
+- Claim use: Question undertook a reevaluation of product and operating model after first game, then developed cooperative horror The Blackout Club and entered Steam Early Access by 2018.
+- Confidence: HIGH.
+- Boundary: period report, no lifetime P&L or outcome probabilities.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
 - The project was deeply shaped by the exact capability/history of its three core developers.
 - AAA/immersive-sim experience became both subject matter and mechanic.
 - Question intentionally moved away from process-heavy AAA culture.
-- The project nevertheless produced sales the founder described as unsustainable.
+- The project nevertheless produced sales the founder described as unsustainable at the 2016 snapshot.
+- Question continued, recruited additional collaborators and publicly developed The Blackout Club by 2018. Commercial shortfall must not be rewritten as immediate studio closure.
 - Creator diagnosis includes unclear genre, no marketing budget and niche framing.
 
 ### UNKNOWN / DO NOT INFER
@@ -90,4 +139,5 @@
 - lifetime unit sales;
 - lifetime profit/loss;
 - exact personal runway;
-- relative causal weight of niche content, genre legibility, pricing, visibility and marketing spend.
+- relative causal weight of niche content, genre legibility, pricing, visibility and marketing spend;
+- whether the next project restored the company's long-term profits, how it was financed and what founders personally recovered.
