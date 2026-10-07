@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "last_updated": "2026-10-07",
   "purpose": "Coverage-only index for schemas/creator-life-decision-audit.md. No household or personal facts are duplicated here.",
   "statuses": [
@@ -426,10 +426,17 @@
       "audit_status": "substantial",
       "audit_scope": "individual",
       "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-060",
+      "file": "cases/CASE-060-croteam-staged-lockin-escape.md",
+      "audit_status": "partial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
     }
   ],
   "summary": {
-    "partial": 15,
+    "partial": 16,
     "substantial": 24,
     "pending": 20
   }
