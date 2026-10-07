@@ -259,7 +259,7 @@
 - 不同国家、家庭、社保、grant eligibility 与融资契约；
 - 2026 AI 生成、廉价资产、coding agents 的现成能力：它们可能减少执行成本，却**不能自动替代作者判断、版权审查、集成、测试、长期维护和付费市场证据**。
 
-本路线没有创作者成功率统计，不提供固定“几个月该辞职 / 几人该扩编”公式。需要回到 [LR-001](big-company-veteran-to-author-001.md) 审查旧职业评价函数时，可以同时阅读；需要判断今天最基本的人生风险，从 [决策总分诊](../DECISION-ROUTER.md) 返回更合适的入口。
+本路线没有创作者成功率统计，不提供固定“几个月该辞职 / 几人该扩编”公式。若你是从大厂高绩效岗位转换作者身份，可同时阅读 [LR-001](big-company-veteran-to-author-001.md)；若当前有稳定工资，需要安排阶段性投入，参照 [LR-002](salaried-creator-staged-commitment-002.md)；若房贷、育儿或照护成本高，先核对 [LR-003](household-high-burn-creator-003.md) 的家庭现金风险。其他处境请回到 [决策总分诊](../DECISION-ROUTER.md)。
 
 ---
 
