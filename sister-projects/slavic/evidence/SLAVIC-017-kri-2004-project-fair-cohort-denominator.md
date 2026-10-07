@@ -1,9 +1,9 @@
-# SLAVIC-017 — KRI 2004 Project Fair：19队新人母体与长期存续下界
+# SLAVIC-017 — KRI 2004 Project Fair：19队完整母体、新人子集与长期存续下界
 
-- Type: Cohort denominator / attrition audit
+- Type: Project-Fair denominator / newcomer-subset / attrition audit
 - Status: ACTIVE — FULL ENTRY LIST, PARTIAL FOLLOW-UP
 - Date: 2026-10-08
-- Core question: 俄／后苏联Premium生态是否真的能把年轻开发者培养成长期老兵？不能再从Gaijin、Koshutin等幸存者倒推，必须从新人入口母体向后追。
+- Core question: KRI Project Fair中哪些是真正的新团队/首作团队？这些新进入者有多少在5—10年后仍留在游戏业或相近问题域？不能把整个Project Fair母体直接等同于新人母体。
 
 ## 一、为什么改用KRI 2004而不是2005
 
@@ -34,6 +34,23 @@ KRI 2004则有公开完整参与者名单，共 **19个团队/组织**：
 https://gamemag.ru/news/11439/konferenciya-razrabotchikov-igr-2004
 
 这个名单是**俄语/后苏联Project Fair母体，不是俄罗斯本土母体**。至少Digital Spray、MindLink、Spector、Crazy House、Absolutist等属于乌克兰；必须逐项标国别。
+
+## 一点五、关键分类纠错：19队不是19支新人团队
+
+Project Fair是完整的展示/对接母体，不是按公司年龄筛选的“新人赛道”。例如：
+- Eagle Dynamics 1991已成立；
+- Alawar 1998/1999前后已成立；
+- Discus Games 2000已活跃；
+- Absolutist 2000已成立。
+
+因此此前把19队统称“新人母体”是分类错误。
+
+后续CMR必须先用统一规则定义 newcomer subset。建议先取：
+1. 活动时公司/团队年龄不超过3年；或
+2. 尚无商业发行、正在寻找首个发行商；或
+3. 同期资料明确称debut / young developers / first commercial project。
+
+三条至少命中一条，并逐队记录判据。无法确认年龄/首作状态者标UNKNOWN，不因参加Project Fair就自动算新人。
 
 ## 二、当前可核的组织后续
 
@@ -79,7 +96,7 @@ https://gamemag.ru/news/11439/konferenciya-razrabotchikov-igr-2004
 - 项目/公司身份可能发生收购、改名、spin-off。
 
 只能说：
-> 在一个完整19队新人入口母体中，至少四分之一可以直接确认在约四年后仍有组织级商业游戏产出。
+> 在一个完整19队Project Fair母体中，至少四分之一可以直接确认在约四年后仍有组织级商业游戏产出。
 
 ### “2014+确认组织/明确继承组织仍持续”
 目前至少：
@@ -94,7 +111,7 @@ https://gamemag.ru/news/11439/konferenciya-razrabotchikov-igr-2004
 
 ### 最重要的反浪漫化
 即使最终比例上升，这个母体已经证明：
-> **俄语/后苏联Project Fair不是‘年轻怪人都会成长为20年老兵’的体系。淘汰、关闭、项目失败和转型非常普遍。**
+> **KRI Project Fair不是‘参展团队都会成长为20年老兵’的体系；真正的新人子集仍需先筛选后再计算成熟率。淘汰、关闭、项目失败和转型非常普遍。**
 
 ## 四、组织死亡不等于能力死亡：但也必须有分母
 
