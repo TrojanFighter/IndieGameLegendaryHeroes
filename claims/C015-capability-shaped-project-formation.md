@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056, CASE-057
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056, CASE-057, CASE-058
 
 ## Definition
 
@@ -190,6 +190,44 @@ But Barth's 2022 closure explanation also shows the reverse:
 > **the better the organization becomes at one capability-shaped product family, the more expensive it may become to stop being that organization.**
 
 `FIT-LOCK-IN` is therefore a longitudinal overlay, not a launch-fit score.
+
+### CASE-058 Spiderweb Software — second FIT-LOCK-IN anchor
+
+Spiderweb turns `FIT-LOCK-IN` from a Zachtronics-only observation into a cross-case mechanism.
+
+For decades Jeff Vogel deliberately reused:
+- a narrow low-budget turn-based RPG grammar;
+- familiar engine/code;
+- art and asset libraries;
+- direct audience knowledge;
+- back-catalog economics;
+- a production cadence normally closer to 12–14 months than multi-year reinvention.
+
+This was not accidental stagnation. Vogel repeatedly describes reuse as survival economics and explicitly says he has a niche he serves well, while one real flop can threaten a tiny company.
+
+The same accumulated fit then raises switching cost.
+
+Queen's Wish is a useful transition experiment because it intentionally introduced a new world, new engine, new system and substantially different presentation. Vogel reports that the first game took roughly 20 months rather than his more normal 12–14 month cycle. It eventually found an audience, but the second game later sold roughly half as much on Steam as the first. A full third game became financially infeasible; Spiderweb returned to remasters to stabilize the business and finished the story with a smaller free epilogue.
+
+Vogel's own 2026 diagnosis is unusually close to the mechanism:
+
+> changing designs loses some existing fans; the new design must acquire enough new fans to replace them. Queen's Wish changed substantially, some old customers drifted away, and the replacements were insufficient.
+
+This strengthens the longitudinal overlay:
+
+`repeated capability fit`
+→ tools / assets / skill / audience / brand / back catalog
+→ lower cost of staying
+→ higher switching cost
+
+Therefore `FIT-LOCK-IN` should not be read as “success makes creators lazy.” It is closer to an asset-allocation problem:
+
+> **the more historical cost has been amortized inside one product grammar, the more a transition must repay both production reset cost and audience replacement cost.**
+
+Zachtronics and Spiderweb are deliberately heterogeneous:
+- engineering-puzzle studio vs text-heavy CRPG studio;
+- different eras, genres and market structures;
+- both nevertheless show repeated fit compounding into transition cost.
 
 ### CASE-052 House House — GRANT-FINANCED capability expansion
 
@@ -414,5 +452,5 @@ This is why some independent games look “strange” relative to industry genre
 4. 检验 2020s AI / asset / no-code 环境是否扩大了 creator 可选择的项目集合，从而改变“能力反向立项”的边界。
 5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）+ CASE-052（grant + publisher）+ CASE-057（VC/equity）现已覆盖四种 capability expansion 资本结构。下一步不再补“谁融过资”，而是优先寻找**公开 term sheet / board / veto / liquidation / milestone / buyback 等更细 decision-right evidence**，并验证 capital source 是否系统性改变 capability bundle 与 control surface。
 6. CASE-050 Nomada + CASE-056 Playdead 已形成第一组 `CAPABILITY-COMPOSED` 正例 / 治理解体压力对照：互补能力可以把 thesis 变成可执行组织，但 founder-level capability 同时绑定 equity / authorship / authority / exit。下一步优先找一例**显式设计 deadlock / buy-sell / role authority 并长期运作成功**的治理对照，或一例在产品完成前就因 composition/governance 失败的样本。
-7. CASE-051 建立 `FIT-LOCK-IN`；下一步找第二个长期作者/工作室样本，检验成功的 capability fit 是否会系统性提高转型成本。
+7. CASE-051 Zachtronics + CASE-058 Spiderweb 已形成第二组异质 `FIT-LOCK-IN` 锚点：长期 fit 会沉淀 tools / assets / audience / brand / production cadence，并让转型同时承担生产 reset 与 audience replacement cost。下一步不再机械补第三个案例，而是寻找**成功突破 lock-in** 的反例，识别哪些条件能降低 switching cost。
 8. CASE-055 已建立第一份 deep-tech success-side stop-condition 对照，与 CASE-054 形成首个 failure/success pair；下一步再找一个非 Wube 样本，检验 `enough condition / player-facing obligation / maintenance tail / release closure` 是否可跨工作室复现。
