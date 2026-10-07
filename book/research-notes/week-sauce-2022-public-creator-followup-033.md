@@ -7,6 +7,7 @@
 - Population/unit: **project-submission-linked primary itch account**；**不是**18 位经实名核验、互相独立的自然人；多人制作的原始团队不可由一个提交账号代表
 - No changes: 中国篇、斯拉夫篇、正式 CASE/CLAIM 不动
 - Gate: [028 媒体可见性与分母协议](media-selection-survivorship-and-denominator-protocol-028.md) / [Creator Visibility Sampling Gate](../../schemas/creator-visibility-sampling-gate.md)
+- **035/036 source progression:** 034 曾将 2024 Jam→2025 Steam 制作谱系记为未核候选，现由开发者本人 Steam 公告与发行周回顾升级为 [036 PRODUCT_LINEAGE_CREATOR_CONFIRMED](ivories-studios-ggj-to-steam-036.md)；主账号/人物职业和收入仍 UNKNOWN。
 
 ## 一、回访首先发现：作者主页与作品页面属于不同观察对象
 
@@ -96,7 +97,7 @@ Lake Monster Games 在 2022 年《Guns N’ Roses》页说明，项目由 Mike �
 - 目前不能证明 2025 年商业产品中的每一个具体工作都由 2022 年三位 jam 作者共同完成；
 - Steam 有售不等于盈利，也不意味着这几个人以游戏为唯一生活来源。
 
-所以这是**商业作品组织相关性线索**，并非一条已完成的“从业余逆袭成工作室”的人生传记。
+**2026-10-07 进一步证据升级：** 团队在2024年12月官方 Steam 公告、2025年发行期本人帖子中明确承认2024 Global Game Jam 原型扩展为2025发行作品，见 [036 一手制作谱系](ivories-studios-ggj-to-steam-036.md)。因此**原型到商业作品的生产谱系已确认**；但更严格的结论不变：这仍然不是一条已证明个人脱离业余身份、盈利或三名2022作者共同获得分成的人生传记。
 
 ### D. 最可能被错误归类为“消失的人”，如今在做另一种游戏工具
 
