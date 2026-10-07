@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056, CASE-057, CASE-058
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056, CASE-057, CASE-058, CASE-059
 
 ## Definition
 
@@ -58,6 +58,8 @@
 | CASE-054:E003 | Limit Theory | custom-engine rationale explicitly combines procedural-control requirements with creator enthusiasm for engine / graphics-engine design | high |
 | CASE-054:E006 | Limit Theory | engine/performance progress culminates in 2000+ ship demo while content implementation / gameplay are still described as next | very high |
 | CASE-054:E007 | Limit Theory | cancellation records far-from-complete product, exhausted resources and an engine more mature than game code | very high |
+
+| CASE-059:E002 | Slay the Spire | Anthony 的 card-game / roguelike taste 与工作期间 design document 先于公司形成，项目形态围绕这种作者能力组合展开，而不是复制雇主产品 grammar | high |
 
 ## Counterpressure
 
