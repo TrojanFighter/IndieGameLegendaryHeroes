@@ -34,6 +34,12 @@
 | **社会版本意识 / 生存期** | Stardew Valley / Hollow Knight / Gunpoint / FTL | 《太吾绘卷》早期程序员退出 | 《重装前哨》：有支持也会失败 | Normative Permission、Economic Runway、Market Validation 必须分开 |
 | **跨层总校验** | 王妙一、Tom Francis、Tripwire | 020 三类失败样本 | 《太吾绘卷》、Sea、Boundary | Problem Ownership 不等于正确；Survival Time without Reality Feedback = Error Persistence |
 
+## 1.4 中国内部制度反例：DeepSeek把“人才能力”与“组织授权”拆开
+
+新增 [014 梁文锋 / DeepSeek](../../country-studies/china/014-liang-wenfeng-deepseek-positive-deviant-innovation-organization.md)。其2023/24创始人访谈显示：本土年轻人才、自下而上选题、idea早期较低资源审批门槛、潜力出现后集中资源，以及明确反对只做follow。此案例**只能证明中国内部存在能够释放前沿问题所有权的组织可能性**，不能证明教育/家庭/产业约束不存在。它把三层框架进一步拆成：基础能力形成 → 问题提出训练 → 毕业后problem ownership。
+
+正式新增四个组织字段：**RESOURCE_ACCESS_BEFORE_GREENLIGHT / AFFORDABLE_FAILURE_CAPACITY / FRONTIER_PROBLEM_OWNERSHIP / FIRSTHAND_ROADMAP_ACCESS**。以后NExT、Supercell、id、Game Science及中国大厂组织案例尽量按同字段编码。
+
 ## 1.5 产业层新增可量化压力：完整团队密度，而非单个成功者数量
 
 新增 [012](../../country-studies/china/012-full-cycle-authoring-team-supply-proxy-china-vs-comparators.md) 将“为什么中国前沿IP可选成熟团队仍显得少”拆为可证伪命题。2025-07 Steam Top200愿望单国别快照：中国8、韩国10、波兰12、瑞典14.75；配合各国active studios/员工统计，**只允许写为全球premium高关注产品管线代理**，不能写为民族创造力或真实作者型团队比例。下一步目标变量固定为 `FULL_CYCLE_TEAM_DENSITY` 与 `SECOND_ATTEMPT_CAPACITY`。
