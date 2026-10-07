@@ -28,6 +28,10 @@ Profiles 写“一个人发生了什么”；Chapters 写“这些人生放在�
 
 5. [市场不是最后一步：有时玩家、钱和反馈在“做完之前”就已经进入生产系统](05-market-interface-is-production.md)
 
+### 跨篇章专题 — 作品能力缺口与组织选择
+
+6. [你缺的真是一支团队吗？有时应该换掉的，是游戏的做法](06-you-do-not-need-a-standard-studio.md) — 从《GRIS》创始人相遇与《Gunpoint》的删减设计进入，对照《The First Tree》《Playdead》《The Witness》《The Magic Circle》，区分改变产品、购买专业能力、寻找共同作者与过早扩张的代价。可配合 [LR-004 能力缺口决策路线](../life-routes/project-thesis-capability-gap-004.md) 进行具体决策。
+
 完整书稿结构见 [BOOK-ARCHITECTURE](../BOOK-ARCHITECTURE.md)。
 
 如果你想先选“和我现在最像的问题”，进入 [第一次来，先从这里读](../START-HERE.md)。
