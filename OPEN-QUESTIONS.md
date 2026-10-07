@@ -56,9 +56,9 @@
 ---
 
 ### OQ-002｜Second Attempt：失败一次后还有没有第二次机会？
-**Status:** `PARTIAL` — `SECOND-RELEASE BASELINE ESTABLISHED / LIFE-OUTCOME OPEN`  
-**Evidence in repo:** [`037 Steam second-release survival baseline`](book/research-notes/steam-second-release-survival-baseline-037.md)、[`033 Week Sauce follow-up`](book/research-notes/week-sauce-2022-public-creator-followup-033.md)、中国 [`011 Boundary / second chance`](country-studies/china/011-boundary-wandering-earth-capability-second-chance-2024-2026.md)。  
-**Unresolved core:** “还有第二个公开作品”不等于职业恢复；失败后的工资、债务、就业质量、再融资概率与 household burn 仍弱。  
+**Status:** `PARTIAL` — `SECOND-RELEASE BASELINE + EXIT PATHS ESTABLISHED / COHORT RATE OPEN`  
+**Evidence in repo:** [`037 Steam second-release survival baseline`](book/research-notes/steam-second-release-survival-baseline-037.md)、[`044 Creator Exit & Re-entry Economics`](book/research-notes/creator-exit-reentry-economics-044.md)、[`033 Week Sauce follow-up`](book/research-notes/week-sauce-2022-public-creator-followup-033.md)、中国 [`011 Boundary / second chance`](country-studies/china/011-boundary-wandering-earth-capability-second-chance-2024-2026.md)。  
+**Unresolved core:** 已观察到回受雇、转行业、side authorship、跨媒介后再入场等不同路径，但仍没有固定 cohort 的发生率；失败后的工资变化、再融资与长期 household recovery 仍弱。  
 **Closure condition:** 建立至少两个地区的失败/低表现创作者纵向样本，并能区分 `SECOND_RELEASE / REEMPLOYMENT / REFUNDING / CAREER_EXIT / UNKNOWN`。
 **Question**  
 真正决定创作者生态健康度的，是否不是首作成功率，而是失败后的再尝试成本？
@@ -125,9 +125,9 @@
 ---
 
 ### OQ-005｜作者权 vs 工资回报：为什么有人永远不离职？
-**Status:** `PARTIAL` — `OPPORTUNITY-COST MODEL OPEN`  
-**Evidence in repo:** [`creator-life-cost-exit comparison`](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)、台湾 [`010 adult indie wage vs author risk`](country-studies/taiwan/010-adult-indie-creator-economics-wage-vs-author-risk.md)、[CASE-061](cases/CASE-061-supergiant-bastion-aaa-to-author.md)、[CASE-062](cases/CASE-062-red-hook-darkest-dungeon-veteran-household-risk.md)。  
-**Unresolved core:** 高工资、奖金/股权、住房与家庭义务如何共同改变“离职买作者权”的临界点，尚无统一可比模型。  
+**Status:** `PARTIAL` — `HOUSEHOLD RISK THRESHOLD OBSERVED / CROSS-CONTEXT OPPORTUNITY-COST MODEL OPEN`  
+**Evidence in repo:** [`creator-life-cost-exit comparison`](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)、[`044 Creator Exit & Re-entry Economics`](book/research-notes/creator-exit-reentry-economics-044.md)、台湾 [`010 adult indie wage vs author risk`](country-studies/taiwan/010-adult-indie-creator-economics-wage-vs-author-risk.md)、[CASE-061](cases/CASE-061-supergiant-bastion-aaa-to-author.md)、[CASE-062](cases/CASE-062-red-hook-darkest-dungeon-veteran-household-risk.md)。  
+**Unresolved core:** 已有直接材料显示家庭预算、债务和既往失败会提高再次辞职门槛，但高工资、奖金/股权、住房与家庭义务在不同职业环境中的相对权重仍无统一可比模型。  
 **Closure condition:** 至少能对三类职业环境用同一张 opportunity-cost 表比较 `foregone compensation / runway / ownership upside / re-entry downside / household exposure`。
 **Question**  
 当商业公司薪酬非常高时，是否会抬高独立创业的机会成本，从而减少作者型公司产生？
@@ -148,9 +148,9 @@
 ---
 
 ### OQ-006｜失败可逆性
-**Status:** `PARTIAL` — `RE-ENTRY ECONOMICS OPEN`  
-**Evidence in repo:** [`creator-life-cost-exit comparison`](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)、[`037 Steam second-release baseline`](book/research-notes/steam-second-release-survival-baseline-037.md) 及多项失败/二次机会 Case。  
-**Unresolved core:** 作品层的“又发了一作”和人生层的“职业可逆”仍未打通；salary before/after、gap length、repeat-founder rate 最缺。  
+**Status:** `PARTIAL` — `EXIT OUTCOME VECTOR ESTABLISHED / RATE + WAGE PENALTY OPEN`  
+**Evidence in repo:** [`044 Creator Exit & Re-entry Economics`](book/research-notes/creator-exit-reentry-economics-044.md)、[`creator-life-cost-exit comparison`](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)、[`037 Steam second-release baseline`](book/research-notes/steam-second-release-survival-baseline-037.md) 及多项失败/二次机会 Case。  
+**Unresolved core:** 已能把 project/company/employment/authorship/residual capital 分层记录，并有多条实际回就业/职业转向路径；仍缺 fixed cohort 的 24/36/60 月发生率、salary before/after、gap length 与 repeat-founder rate。  
 **Closure condition:** 对失败后 24/36/60 个月建立可验证的就业/创业状态追踪，并显式保留 `UNKNOWN`。
 **Question**  
 不同社会中，一次失败是“正常履历”还是“职业断裂”？
