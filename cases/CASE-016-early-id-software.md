@@ -47,6 +47,16 @@ Romero 回顾 Gamer's Edge 时强调两个月一个游戏的出货节奏；Tom H
 
 这使 CASE-016 成为 C003/C011 的早期版本：所谓“小团队突然爆发”，往往建立在高密度的前作和职业生产纪律上。
 
+## 1980s US origin selection / Life-risk heterogeneity
+
+新的 [1980年代美国背景与人物生命史研究](../book/research-notes/early-id-1980s-america-life-decisions-001.md) 将历史环境归为**可观察的机会结构**：家庭和校内机房的接入、纸媒/磁盘/游戏社区的第一次付费门槛、正规教育与非正规实践、地方失业风险、雇佣设备和合同权属。
+
+- E020 Census：**1984 8.2%** 美国家庭有电脑，**1989 15.0%**；1984 家庭收入低于 $10k 与超过 $50k 的拥有率 **1.7% / 22.9%**。这说明 early id 的少时硬件、机房机会并不代表典型同龄人。
+- E021–E025：1981 IBM PC 价格与 PC/主机权限差异；Hall 1980 Apple II + UW CS 正规教育；Romero 1979 社区学院启蒙和1983美军基地学校；Miller 1987 的分集 shareware；1980s Shreveport 地方工业衰退。**市场转换不能被等同于技术天赋**。
+- E026 原书第一至四章：Romero 的婚育/失业/迁移、Carmack 的科学教育家庭/电脑与学校冲突、Hall 的大学+教育软件、Adrian 的传统美术/医院兼职、Jay 的非技术管理能力、Vekovius 的工资/设备/合同风险；私人数字和心理归因一律 `BOOK-REPORTED / VERIFY`。
+
+原有 `Household UNKNOWN` 特指**各阶段可量化 household burn / 储蓄 / 具体家庭补贴规模仍未知**，不是声称所有创始人都没有公开人生家庭信息。不得写成“他们风险相同、都可以退学辞职”。
+
 ## Runway / Cross-Subsidy
 
 Commander Keen 的最初生产并不是“辞职创业后再找钱”：
