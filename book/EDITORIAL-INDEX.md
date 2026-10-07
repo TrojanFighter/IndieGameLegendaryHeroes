@@ -29,6 +29,7 @@
 - [Claims](../claims/README.md)
 - [Program Map](../PROGRAM-MAP.md)
 - [Industrial Revolutions Comparative Lab](../cross-industry/industrial-revolutions/README.md)
+- [Truth Shield → Feedback Insulation / Ion Storm 041](research-notes/truth-shield-to-narcissism-shield-ion-storm-governance-041.md) — early id小团队反馈为何在Ion Storm多项目规模失效；Dallas/Austin内部反例、Deus Ex清晰项目权责、Hirschman Exit/Voice/Loyalty及后续研究欠账。
 - [Strategic Disloyalty / American Individualism 040](research-notes/early-id-strategic-disloyalty-american-individualism-040.md) — early id如何把雇主、成熟产品、publisher权威和收购报价视为可撤销安排；Sierra 1992未来选择权定价、shareware outside option、美国rugged individualism/civil religion边界及日本内部作者权反例。
 - [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md) — 按主创能力类型补正例、边界例与压力对照
 - [GGJ 2026 Survey/Archive Selection & Sunset 038](research-notes/ggj-2026-survey-and-archive-denominator-038.md) — 39,197参与、9,874作品、3,535答卷分别是什么分母；2014–23旧GGJ作品归档的2027紧迫期限及官方日期矛盾。
