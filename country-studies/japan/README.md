@@ -6,6 +6,7 @@
 
 当前入口：
 
+- [003 — 任天堂不是“普通日本公司”，Pocketpair也不是：两条“宇宙人”路线](003-nintendo-pocketpair-two-alien-routes-originality-vs-recombination.md)：任天堂2026平均勤续14.6年却主动把authority交给年轻人，Splatoon通过70+方案与程序员可玩prototype形成新IP；Pocketpair创始人溝部拓郎则参加过Nintendo Game Seminar，却公开说任天堂强调“独创+高品质”的文化不适合自己，转向mash-up、快速市场验证、PC/Steam/community。提出 **PRODUCTIVE_DEFECTION / CROSS-ECOLOGY_ALIEN / FRONTIER_BY_CATEGORY_SHIFT**，并记录Pocketpair Publishing把异类保护壳外部化的尝试。
 - [002 — “老登游戏”到底是什么？日本的组织记忆、技术前沿与《空之轨迹 the 1st》](002-veteran-continuity-technical-frontier-falcom-2025-2026.md)：CESA 2023开发者调查显示平均年龄36.1、当前公司平均任职7.52年、54.1%没有游戏业内转职；Falcom 2026则是**74人、平均年龄39、平均勤续18年**的极端连续组织。2025近藤访谈说明《空轨 the 1st》并无大幅引擎升级，却靠**20年作品理解+年轻人/老员工重组**提升镜头和动作；同时他承认20年连续制作已造成高语境、员工疲惫和“老玩家自然懂”的锁定。对照Capcom约200人基础技术部门/160人RE ENGINE研发，证明 **VETERAN_CONTINUITY 与 TECHNICAL_FRONTIER 是独立维度**。
 - [001 — 日本：为什么一个高度从众、低关系流动性的东亚社会，仍长期产生大量作者型游戏与“制度化怪人”？](001-japan-east-asian-counterexample-weird-kinship-and-game-creator-ecology.md)
 
