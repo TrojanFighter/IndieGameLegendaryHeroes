@@ -685,6 +685,58 @@ good judgment
 
 于是社会可能拥有大量优秀专业人员，却缺少持续自主作者。
 
+## 13.1 `FUTURE-CAPTURE SOCIALIZATION / 未来捕获率对职业人格的社会化`
+
+本项目最初从“个人主义传统”进入问题，但022提示一个反向因果：
+
+> **个人主义式作者行为本身也可能被产权/职业制度生产。**
+
+如果长期观察到：
+
+```text
+non-consensus authorship
+→ high personal risk
+→ success assets mostly accrue to company/IP
+→ exit resets player demand
+→ reward = salary/title only
+```
+
+那么理性职业策略会更偏：
+- 获得leader认可；
+-升职；
+-进入核心项目；
+-优化既有objective function；
+-累积private industry reputation。
+
+反过来，如果：
+
+```text
+distinct personal judgment
+→ public credit
+→ royalty/equity
+→ portable audience
+→ cheaper next financing
+→ more decision rights
+```
+
+则“坚持自己的判断”会变成可复利职业策略。
+
+因此新增H：
+
+# `INSTITUTIONALLY PRODUCED INDIVIDUALISM`
+
+> **创新型个人主义不只是一种前置文化性格，也可能是“个人判断被允许持续占有其成功后果”之后逐代形成的职业文化。**
+
+这不是说产权制度可以完全解释中美文化差异，也不是否认家庭/教育/社会规范。
+
+它只要求研究顺序改成：
+- culture → institution；
+- institution → repeated payoff；
+- repeated payoff → career strategy；
+- career strategy → next-generation culture；
+
+而不是单向文化决定论。
+
 ## 14. 关键反例：拥有IP也不等于拥有一切
 
 必须禁止：
