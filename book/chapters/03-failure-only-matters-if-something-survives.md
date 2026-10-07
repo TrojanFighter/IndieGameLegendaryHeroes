@@ -191,6 +191,30 @@ Bills Must Be Paid 前，Rike Games 用其他项目尝试 mobile、自发行、b
 
 ---
 
+## 失败者不只有“下次爆款”这一种结局
+
+当我们只用《Rocket League》和《Bills Must Be Paid》讲失败留下的资本，读者很容易得出另一种过于美丽的结论：失败总会在某一款更成功的游戏里被偿还。
+
+但 [Josh Parnell 的《Limit Theory》](../profiles/josh-parnell-limit-theory.md) 已经在 2018 年取消。游戏工程积累很深，2022 年公开了源代码，支持者仍没有得到原本承诺的完成版游戏。作者损失的大量个人时间与储蓄，不能被一份代码档案自动抵消。
+
+[Question 的《The Magic Circle》](../profiles/question-magic-circle-blackout-club.md) 则提供了另一种路径：作品已经完成，还获得 IGF 叙事提名，2016 年的商业回报却不足以支撑原经营预期。Question 没有因此解散，而是在下一作《The Blackout Club》中有意识地改变市场入口，继续运用已有的系统设计与叙事能力。
+
+这两条历史使“残值”必须拆开：
+
+**产品残值：** 成品、源码、资产、受众和 IP 有没有留下？
+
+**能力残值：** 下一个项目能否使用已有的工程、设计、协作与市场知识？
+
+**组织残值：** 工作室、共同作者与客户/发行网络有没有继续？
+
+**个人回撤：** 钱、精力、生活与就业选择究竟恢复了多少？
+
+前面三项有时可以通过公开作品追踪。第四项最难验证，也最不能为了传记的圆满而补写。
+
+**一个作者下一次继续做游戏，不等于上一次失败没有代价；一个作者停下某个项目，也不等于他从游戏行业或人生中消失。**
+
+---
+
 ## “坚持”这个词为什么经常没什么信息量
 
 Rike Games 自己会说 Keep Going。
@@ -267,6 +291,8 @@ Rike Games 自己会说 Keep Going。
 人物全文：
 - [Rocket League / Psyonix](../profiles/rocket-league.md)
 - [Bills Must Be Paid / Rike Games](../profiles/bills-must-be-paid.md)
+- [Limit Theory / Josh Parnell：技术成功但游戏未交付](../profiles/josh-parnell-limit-theory.md)
+- [The Magic Circle / Question：首作市场不足后组织继续](../profiles/question-magic-circle-blackout-club.md)
 
 继续压力测试：
 - [Brigador Case](../../cases/CASE-026-brigador.md)
