@@ -151,6 +151,7 @@
 | [CASE-056](cases/CASE-056-playdead-founder-governance.md) | **Playdead / Arnt Jensen + Dino Patti** | `CAPABILITY-COMPOSED` 治理压力：创意作者 + production/business founder 的互补组合成功做出作品，却仍暴露 equity、authorship、time horizon、control 与 exit 的长期成本 |
 | [CASE-057](cases/CASE-057-thatgamecompany-vc-equity-expansion.md) | **thatgamecompany / VC-equity expansion** | $5.5M Benchmark + board seat 与后续 $7M 让开发工作室内建 self-publishing / marketing / distribution / support；比较 publisher/project control 与 equity/company governance 的位置变化 |
 | [CASE-058](cases/CASE-058-spiderweb-fit-lock-in.md) | **Spiderweb Software / Jeff Vogel** | 第二个 `FIT-LOCK-IN` 长期锚点：几十年 niche/engine/assets/audience 复利让同类项目越来越便宜，也让 Queen's Wish 式转型同时支付生产 reset 与受众替换成本 |
+| [CASE-059](cases/CASE-059-slay-the-spire-mega-crit.md) | **Slay the Spire / Mega Crit** | Amazon QA / software career 与 college-era author thread 并存：检验 Parallel Authorial Thread、prestige pipeline、选择性能力迁移、metrics-driven reality adjudication 与 pre-paradigm genre formation |
 
 完整候选池、comparators 与下一批优先级见 [`cases/BACKLOG.md`](cases/BACKLOG.md)。后续新 Case 按证据与解释价值升级。`Sultan's Game` 已升级为 CASE-038，但工作室所有权、旧投资关系和 publisher financing 仍待继续审计；Artless Games 保留为中国创作路径候选。
 
