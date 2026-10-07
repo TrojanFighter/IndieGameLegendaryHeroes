@@ -6,6 +6,7 @@
 
 ## 当前索引
 
+- [`doom-intergenerational-reconciliation-032.md`](doom-intergenerational-reconciliation-032.md) — 《DOOM启世录》后期家长认错、作品认可、母亲开始玩Keen、1999年为DOOM辩护、Romero与下一代同玩的长时段传记；中美对照中把成功后的认可与实际伤害修复严格拆开。
 - [`public-unfeatured-week-sauce-apr-2022-cohort-031.md`](public-unfeatured-week-sauce-apr-2022-cohort-031.md) — 2022年4月 Week Sauce 18条公开提交作品全样本名册（含实体桌游、未完成原型与失效链接），2026逐项公开页面检查；可观察的普通创作时间/后续，不把未更新误判职业失败。仅代表特定 jam 的 public attempt frame。
 - [`family-gate-china-near-miss-liang-qiwei-030.md`](family-gate-china-near-miss-liang-qiwei-030.md) — 梁其伟本人2014年自述下的2006 RPG Maker—2007挂科保研/家庭压力暂停—2008海外学校社群再启动—2010 VeryCD/海外发行；张兆弓2022明言游戏专业有看不见的家长否决分母，并对照2026限制游戏与学业研究。
 - [`family-gates-game-creator-us-china-029.md`](family-gates-game-creator-us-china-029.md) — 从 Romero 继父（禁止街机与买电脑并存）、Carmack 学位冲突、Tom Hall、Mechner 家庭协作，对照中国跨代家庭游戏经验许可/职业否决；区分 A0 与可核证据。
