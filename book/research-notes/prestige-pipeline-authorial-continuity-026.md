@@ -2,7 +2,7 @@
 
 - Status: RESEARCH NOTE / CROSS-LAYER SYNTHESIS / PRE-CLAIM
 - Last verified: 2026-10-07
-- Related: `AC-010`, `CASE-058`, `china-creator-constraints-three-layer-map-018.md`, `china-creator-three-layer-pressure-tests-019.md`, `china-creator-three-layer-failure-pressure-tests-020.md`
+- Related: `AC-010`, `CASE-059`, `china-creator-constraints-three-layer-map-018.md`, `china-creator-three-layer-pressure-tests-019.md`, `china-creator-three-layer-failure-pressure-tests-020.md`
 - Boundary: 比较“职业身份与作者身份如何耦合”，不把个案升级成中国/西方人格结论。
 
 ## 0. 研究问题
@@ -36,7 +36,7 @@
 
 # 一、Slay the Spire：Amazon 不是反例的全部，真正反例是“作者线程没有断”
 
-CASE-058 已确认：
+CASE-059 已确认：
 
 ### Casey Yano
 - 大学和 Anthony 一起做 Flash/mobile hobby games；
