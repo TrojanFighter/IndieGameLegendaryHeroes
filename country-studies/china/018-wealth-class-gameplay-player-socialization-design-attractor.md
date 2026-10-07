@@ -285,6 +285,105 @@ successful product
 
 ## 12. 下一轮研究：设计吸引子怎样被打破
 
+### 12.1 `ALTERNATIVE_SELECTION_STACK / 替代性鉴定栈`
+
+旧Design Attractor真正被打破，通常不只是“出现一个更有才华的人”，而是出现一套让旧守门人失去垄断的替代基础设施：
+
+```text
+CHEAPER CREATION
++ NEW DISTRIBUTION
++ DIRECT PLAYER SIGNAL
++ LEGITIMATION / TASTE INSTITUTION
++ MONEY / REPEATABILITY
+→ hidden demand becomes financially legible
+→ old gatekeeper can be bypassed
+```
+
+2007–2017西方独立游戏运动提供一组强机制锚点：
+
+- Microsoft 2007披露XNA Game Studio下载量已超过40万，并被近200所教育机构采用；2008进一步允许XNA Creators Club成员通过Xbox LIVE Community Games把作品出售给数百万用户，官方直接以“democratized game distribution”描述该路径；
+- 2008 Xbox LIVE Arcade官方阵容把Braid、Castle Crashers等独立作品放入平台重点发行，独立工作室已占其原创游戏库的重要部分；
+- Unity 2013把此前收费约800美元的基础移动发布工具免费开放给独立开发者和小工作室，明确以降低creative / fiscal门槛描述这一变化；
+- Steam 2012推出Greenlight，让社区参与决定哪些游戏获得Steam发行；Valve 2017回顾时明确表示，推出Greenlight的重要原因是其内部小团队发现自己无法可靠预测玩家究竟对哪些新游戏感兴趣；
+- Steam Direct 2017进一步把进入Steam改成更透明、直接的开发者注册 / 单品申请路径；
+- IGF长期承担另一种功能：不是直接支付所有研发成本，而是提供open submission、专业评审、奖项、媒体/行业可见性和“这种怪作品值得被认真看待”的合法化。
+
+Sources:
+- Microsoft XNA / Dream-Build-Play, 2007: https://news.microsoft.com/source/2007/08/13/microsoft-makes-game-development-dreams-a-reality/
+- Microsoft Community Games, 2008: https://news.microsoft.com/source/2008/07/22/microsoft-transforms-community-game-developers-into-entrepreneurs/
+- Microsoft XBLA indie lineup / Braid, 2008: https://news.microsoft.com/source/2008/02/20/microsoft-provides-thrilling-first-look-at-xbox-360-blockbuster-portfolio-for-2008-announces-gears-of-war-2-ships-this-november/
+- Unity mobile publishing tools free, 2013: https://unity.com/news/unity-empowers-games-industry-free-mobile-publishing-tools
+- Valve Greenlight launch, 2012: https://store.steampowered.com/news/8761/
+- Valve Greenlight → Direct retrospective, 2017: https://store.steampowered.com/news/posts/?enddate=1496771922&feed=steam_blog
+- Steam Direct launch, 2017: https://store.steampowered.com/news/posts/?enddate=1501706598&feed=steam_blog
+- IGF about / judging structure: https://igf.com/about-igf/
+
+这里最重要的不是“digital distribution好”，而是：
+
+> **旧publisher / platform buyer不再是唯一的市场鉴定者；prototype、社区、平台数据和独立奖项共同形成另一套选择制度。**
+
+### 12.2 `PLAYER_TRUTH_INTERFACE / 玩家真相接口`
+
+定义：
+
+> 一个非共识产品在获得大预算以前，能否以足够低成本直接接触真实潜在玩家，并让其行为形成可信信号？
+
+可包括：
+- shareware；
+- playable demo；
+- Greenlight / wishlist；
+- Early Access；
+- open-source / mod community；
+- festival playable；
+- crowdfunding；
+- small paid release；
+- F2P live test。
+
+这使“谁判断产品值得做”从单一老板 / publisher，变成多层市场发现。
+
+Valve的Greenlight回顾尤其重要，因为它提供了一个罕见的守门人自证：
+> **平台自身承认其内部编辑判断不能可靠预测玩家兴趣，因此把发现功能外移给玩家。**
+
+这正是 `CREATOR_SELECTION_CAPACITY` 从舆论变成基础设施的例子。
+
+### 12.3 《征途》与西方indie：价值观相反、范式革命结构同构
+
+```text
+《征途》
+old regime: 点卡 / bounded spend
+new interface: F2P + item sales + live data + ground marketing
+hidden audience: 高支付能力 / 传统技巧体系未充分服务的人群
+proof: huge revenue
+effect: capital/channels/talent imitate
+
+Western indie wave
+old regime: publisher/retail/AAA gate
+new interface: cheap tools + XBLA/Steam + festival/community
+hidden audience: 愿为小规模、怪异、作者型体验付费的人群
+proof: Braid / Castle Crashers / World of Goo / etc.
+effect: platform support / indie publishers / creator careers
+```
+
+因此“范式革命”的共同结构可能是：
+
+> **不是先证明新产品符合旧体系的评价标准，而是让另一套受众通过另一套交易/分发/鉴定制度，证明旧评价标准漏掉了真实价值。**
+
+这一点与“中国玩家审美 vs 资本”争论直接相关：改变产业不只需要教育旧玩家或说服旧资本，也可能需要建立**另一套让不同玩家能够被看见、被计价的选择制度**。
+
+### 12.4 吸引子破裂的五个必要/促进条件（H）
+
+当前整理为：
+
+1. `OLD_ATTRACTOR_RENT_DECAY`：旧模式边际收益下降、竞争过密或成本上升；
+2. `PRODUCTION_COST_SHOCK`：工具/AI/引擎降低prototype与production门槛；
+3. `NEW_MARKET_INTERFACE`：出现新的支付、分发、社区或平台；
+4. `ALTERNATIVE_LEGITIMATION`：媒体、奖项、社群、主播、festival等让旧体系眼中的“怪东西”获得可理解身份；
+5. `ANOMALY_PROOF`：至少一个项目把隐藏需求变成足够强的收入/用户/声誉信号，使资本更新先验。
+
+这五项不是已证充分条件；下一步要找“条件齐全却没有形成新生态”的失败反例。
+
+
+
 统一比较四类转折：
 
 1. **《征途》：旧点卡/低付费深度 → 免费人口 + 财富加权需求**
