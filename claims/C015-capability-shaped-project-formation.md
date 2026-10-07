@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056, CASE-057, CASE-058, CASE-059
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-020, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056, CASE-057, CASE-058, CASE-059
 
 ## Definition
 
@@ -55,6 +55,7 @@
 | CASE-052:E001 | Untitled Goose Game | team works backward from desired comic situations into minimal AI/object systems instead of inheriting a standard stealth specification | high |
 | CASE-053:E005 | Kenny Sun / Hatbox | retrospective confirms weekend shipping, 2018 full-time transition and broad solo capability accumulated before Hatbox | high |
 | CASE-053:E006 | Kenny Sun / Hatbox | 2016 prototype was shelved when scope exceeded free-time frontier, then restarted after production conditions changed; later publisher perimeter externalized selling/release weaknesses | very high |
+| CASE-020:E003 | Into the Breach | after FTL, Subset deliberately avoids designing to fan expectations, delays announcement, and tries to make a new/different game while retaining shared design ethos; supports early lock-in prevention rather than mature lock-in escape | high |
 | CASE-054:E003 | Limit Theory | custom-engine rationale explicitly combines procedural-control requirements with creator enthusiasm for engine / graphics-engine design | high |
 | CASE-054:E006 | Limit Theory | engine/performance progress culminates in 2000+ ship demo while content implementation / gameplay are still described as next | very high |
 | CASE-054:E007 | Limit Theory | cancellation records far-from-complete product, exhausted resources and an engine more mature than game code | very high |
@@ -230,6 +231,50 @@ Zachtronics and Spiderweb are deliberately heterogeneous:
 - engineering-puzzle studio vs text-heavy CRPG studio;
 - different eras, genres and market structures;
 - both nevertheless show repeated fit compounding into transition cost.
+
+### CASE-020 Into the Breach — LOCK-IN PREVENTION / optionality preservation
+
+Into the Breach adds a longitudinal mechanism that should not be confused with mature `FIT-LOCK-IN` escape.
+
+FTL gave Subset Games money, reputation and a ready audience. Those assets could have been converted immediately into:
+- a direct sequel;
+- larger permanent payroll;
+- earlier public commitment;
+- stronger dependence on existing fan expectations.
+
+Instead, Ma / Davis describe almost the opposite strategy:
+- accept that FTL may remain the most popular thing they ever make rather than trying to top it;
+- deliberately make something new and different;
+- avoid letting “will the FTL audience like this?” become the primary design variable;
+- delay public announcement until the product had stabilized, reducing expectation lock-in;
+- retain shared design principles / ethos without copying the previous product grammar.
+
+This suggests a pre-lock-in mechanism:
+
+`first hit`
+→ money + audience + sequel pressure
+→ **low burn + delayed commitment + private search**
+→ optionality preserved
+→ new product can diverge before old success becomes fixed infrastructure
+
+The important boundary is temporal.
+
+One hit is not the same as decades of accumulated:
+- tools;
+- specialized workflow;
+- brand;
+- audience expectation;
+- catalog economics.
+
+Therefore CASE-020 supports:
+
+> **LOCK-IN PREVENTION**
+
+not:
+
+> **successful escape from mature FIT-LOCK-IN**.
+
+That mature escape cell remains open.
 
 ### CASE-052 House House — GRANT-FINANCED capability expansion
 
@@ -435,6 +480,7 @@ This is why some independent games look “strange” relative to industry genre
 - “外包弱项永远比内部学习更优”；
 - “所有成功独立游戏都是按主创能力反向定制的”；
 - “找到最适合自己的类型就应该永远做下去”；
+- “第一次成功后做一个不同类型的新作，就已经证明能逃出成熟 FIT-LOCK-IN”；
 - “共同创始人是免费补能力”；
 - “互补共同创始人只要成功做成过产品，治理结构就已经被永久验证”；
 - “grant、publisher、VC 只是同一种钱”；
@@ -454,5 +500,5 @@ This is why some independent games look “strange” relative to industry genre
 4. 检验 2020s AI / asset / no-code 环境是否扩大了 creator 可选择的项目集合，从而改变“能力反向立项”的边界。
 5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）+ CASE-052（grant + publisher）+ CASE-057（VC/equity）现已覆盖四种 capability expansion 资本结构。下一步不再补“谁融过资”，而是优先寻找**公开 term sheet / board / veto / liquidation / milestone / buyback 等更细 decision-right evidence**，并验证 capital source 是否系统性改变 capability bundle 与 control surface。
 6. CASE-050 Nomada + CASE-056 Playdead 已形成第一组 `CAPABILITY-COMPOSED` 正例 / 治理解体压力对照：互补能力可以把 thesis 变成可执行组织，但 founder-level capability 同时绑定 equity / authorship / authority / exit。下一步优先找一例**显式设计 deadlock / buy-sell / role authority 并长期运作成功**的治理对照，或一例在产品完成前就因 composition/governance 失败的样本。
-7. CASE-051 Zachtronics + CASE-058 Spiderweb 已形成第二组异质 `FIT-LOCK-IN` 锚点：长期 fit 会沉淀 tools / assets / audience / brand / production cadence，并让转型同时承担生产 reset 与 audience replacement cost。下一步不再机械补第三个案例，而是寻找**成功突破 lock-in** 的反例，识别哪些条件能降低 switching cost。
+7. CASE-051 Zachtronics + CASE-058 Spiderweb 已形成两个异质 `FIT-LOCK-IN` 锚点；CASE-020 Into the Breach 则提供更早阶段的 `LOCK-IN PREVENTION / OPTIONALITY PRESERVATION` 对照。下一步不再机械补第三个被锁住的案例，而是寻找**成熟 production grammar 之后真正成功突破 lock-in** 的反例，识别哪些条件能降低 switching cost。
 8. CASE-055 已建立第一份 deep-tech success-side stop-condition 对照，与 CASE-054 形成首个 failure/success pair；下一步再找一个非 Wube 样本，检验 `enough condition / player-facing obligation / maintenance tail / release closure` 是否可跨工作室复现。
