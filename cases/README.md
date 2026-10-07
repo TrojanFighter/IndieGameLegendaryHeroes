@@ -72,6 +72,9 @@
 
 | CASE-060 | Croteam / Serious Sam → The Talos Principle → UE5 | **MATURE-GRAMMAR ESCAPE / STAGED DECOUPLING**：2014 保留 Serious Engine/Editor 但从十余年 FPS 生产语法中分离解谜体验，补叙事和 puzzle-testing 能力；2020 被 Devolver 收购后，2023 才替换为 UE5。首个成熟 FIT-LOCK-IN 成功侧正例；不跨 ownership regime 推成本 | RESEARCHING |
 
+| CASE-061 | Supergiant / Bastion | **AAA CAPABILITY→AUTHORIAL / HOUSEHOLD SPACE SUBSIDY**：EA Command & Conquer 从业者保留工业能力与关系，但不照抄 AAA 岗位/流程；七人专业互补、家庭提供办公场地、自筹低薪与 Warner 发行外围共同构成成功条件 | RESEARCHING |
+| CASE-062 | Red Hook / Darkest Dungeon | **INDUSTRY VETERAN / HOUSEHOLD RISK / STAGED FUNDING**：成熟美术/设计/程序能力下形成原创题目，创始人仍背负育儿、房贷、借款与无薪期；Kickstarter 毛额不能充当项目总成本 | RESEARCHING |
+
 ## Creator Life / Decision Audit
 
 为了让案例库真正服务“人生性价比”而不是只服务项目复盘，重要 Case 现在增加一层统一审计：
