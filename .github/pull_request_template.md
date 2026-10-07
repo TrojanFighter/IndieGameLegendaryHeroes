@@ -56,7 +56,15 @@
 
 <!-- 这次明确没有解决什么？哪些缺口应交给另一条 Lane / 后续 Issue？ -->
 
-## Editorial rewrite review (only for Lane C prose rewrites)
+## Editorial drafting review (for new Lane C reader prose)
+
+- [ ] 已在正文生成前按 [Writing Entry Gate](../book/EDITORIAL-GATE.md#05-新稿写作入口预防模板化) 留下事实锁与 Narrative Packet
+- [ ] 已说明人物/问题、时代处境、关键行动、主问题、叙述方式及作者观点边界；未套统一神话反转大纲
+- [ ] 初稿已执行 Delete → Restore Person → Rhythm 与 Fidelity Readback；没有虚构场景或补 UNKNOWN
+- [ ] 已按六项维度说明编辑判断、独立审查/读者测试是否完成；没有旧稿时未伪造 A/B
+- [ ] 作者验收状态已明确；Agent 自评未冒充作者批准
+
+## Editorial rewrite review (for existing Lane C prose rewrites)
 
 - [ ] 已保存原稿 SHA 与具体修改范围，未顺手改 Case/Evidence/Claim
 - [ ] 已按 [Editorial Rewrite Protocol](../book/EDITORIAL-REWRITE-PROTOCOL.md) 执行 Delete → Person → Rhythm
