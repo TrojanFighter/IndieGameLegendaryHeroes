@@ -26,7 +26,7 @@
 - [技术时代不会替你做选择](book/chapters/04-technology-will-not-choose-for-you.md)
 - [市场不是最后一步](book/chapters/05-market-interface-is-production.md)
 
-想按自己的能力结构找案例：进入 [按主创者能力进入](book/READER-ARCHETYPES.md)。Technical Artist / visual-first、程序/engine、策划/评论、modder、大厂转作者、solo/generalist 都有不同起点。
+如果你现在已经在做项目、真正想判断“下一步该动什么”，先进入 [作者型项目决策路由](book/DECISION-ROUTER.md)：它按 capability × runway/household risk × project stage 导向不同历史对照。只想按自己的能力结构找案例，再进入 [按主创者能力进入](book/READER-ARCHETYPES.md)。
 
 所有历史成功经验受 [Temporal Validity Gate](book/TEMPORAL-VALIDITY.md) 约束：年份、当时 regime 与 2026 时效状态必须分开写。
 
@@ -74,10 +74,10 @@
 | **为什么中国可以同时拥有更好的小团队生产条件和旧产业路径依赖？** | [中国独立游戏“双层环境”](book/research-notes/china-indie-dual-environment-capability-transfer-004.md) · [Sultan's Game](cases/CASE-038-sultans-game.md) · [渠道/市场接口制度](book/research-notes/china-indie-distribution-regime-001.md) |
 | **中国网游为什么会从卖时间走向 F2P、虚拟商品与运营工业？** | [《征途》/ 史玉柱](cases/CASE-033-zhengtu-shi-yuzhu.md) · [中国游戏产业前史](book/research-notes/china-game-industry-prehistory-002.md) · [《符石守护者》vs《不思议迷宫》](book/research-notes/runestone-keeper-vs-gumballs-001.md) |
 | **平台本身能不能把玩家训练成开发者？** | [Roblox creator cluster](cases/CASE-021-roblox-creator-cluster.md) |
-| **成功以后，第一次成功怎样改变第二作？** | [Into the Breach](cases/CASE-020-into-the-breach.md) |
+| **成功以后，钱是拿来扩张，还是先买“不承诺”的选择权？** | [Into the Breach](cases/CASE-020-into-the-breach.md) · [The Witness](cases/CASE-047-the-witness.md) · [House House](cases/CASE-052-house-house-goose-game.md) · [thatgamecompany](cases/CASE-057-thatgamecompany-vc-equity-expansion.md) |
 | **自己的钱、发行商的钱、grant 和 VC 股权，到底买来哪些不同能力与控制成本？** | [The Witness](cases/CASE-047-the-witness.md) · [Outer Wilds](cases/CASE-049-outer-wilds.md) · [House House](cases/CASE-052-house-house-goose-game.md) · [thatgamecompany](cases/CASE-057-thatgamecompany-vc-equity-expansion.md) · [Capability–Project Fit Audit](schemas/capability-project-fit-audit.md) |
 | **程序员的强项怎样变成玩法，而不是技术堆料？** | [Zachtronics](cases/CASE-051-zachtronics.md) · [RollerCoaster Tycoon](cases/CASE-018-rollercoaster-tycoon.md) · [Factorio 生产史](cases/CASE-035-factorio-wube.md) · [Factorio 技术止损对照](cases/CASE-055-factorio-stop-conditions.md) · [Limit Theory / FIT-TRAP](cases/CASE-054-limit-theory-fit-trap.md) · [Dwarf Fortress](cases/CASE-005-dwarf-fortress.md) |
-| **找到最适合自己的类型以后，会不会反而被它锁住？** | [Zachtronics](cases/CASE-051-zachtronics.md) · [Garry Newman / s&box](cases/CASE-044-garry-newman-sbox.md) · [Capability–Project Fit Audit](schemas/capability-project-fit-audit.md) |
+| **找到最适合自己的类型以后，会不会反而被它锁住？** | [Zachtronics](cases/CASE-051-zachtronics.md) · [Spiderweb Software / Jeff Vogel](cases/CASE-058-spiderweb-fit-lock-in.md) · [Into the Breach / 早期 lock-in prevention](cases/CASE-020-into-the-breach.md) · [Capability–Project Fit Audit](schemas/capability-project-fit-audit.md) |
 | **不会完整做游戏的艺术家，能不能让团队围绕作品重新组成？** | [Nomada / GRIS](cases/CASE-050-nomada-gris-neva.md) · [The First Tree](cases/CASE-042-the-first-tree.md) · [Everything](cases/CASE-043-everything-david-oreilly.md) |
 | **找一个互补共同创始人，就能免费补齐能力吗？** | [Nomada / GRIS](cases/CASE-050-nomada-gris-neva.md) · [Playdead / LIMBO → INSIDE](cases/CASE-056-playdead-founder-governance.md) · [C015 能力反向立项](claims/C015-capability-shaped-project-formation.md) · [Capability–Project Fit Audit](schemas/capability-project-fit-audit.md) |
 | **错误的平台经验会不会反过来害你？** | [Bills Must Be Paid](cases/CASE-025-bills-must-be-paid.md) · [Sultan's Game](cases/CASE-038-sultans-game.md) · [Outpost: Infinity Siege（待核）](cases/CASE-030-outpost-infinity-siege.md) · [跨案例 Claim C009](claims/README.md) |
