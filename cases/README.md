@@ -67,6 +67,32 @@
 | CASE-055 | Wube / Factorio | **DEEP-TECH SUCCESS COUNTERPOINT / TECHNICAL STOP CONDITION**：同样拥有强 simulation / engine / optimization 能力，却多次显式声明“enough”、删除低边际价值 mechanic、锁定 1.0 并 descoping；检验何时技术能力关闭 product obligation、何时只是继续扩大技术前沿 | RESEARCHING |
 | CASE-056 | Playdead / Arnt Jensen + Dino Patti | **CAPABILITY-COMPOSED / FOUNDER-GOVERNANCE DISSOLUTION PRESSURE**：原创作者 + production/programming/business founder 的互补组合成功支撑 LIMBO / INSIDE，却在成功后暴露 equity、time horizon、authorship、control 与 exit 成本；检验“互补能力”为什么不等于“免费合伙” | RESEARCHING |
 
+## Creator Life / Decision Audit
+
+为了让案例库真正服务“人生性价比”而不是只服务项目复盘，重要 Case 现在增加一层统一审计：
+
+- household structure；
+- cash runway；
+- hidden household cost；
+- exit / reemployment option；
+- capability vector；
+- problem ownership；
+- validation architecture；
+- reality adjudication；
+- capability capture risk；
+- market sufficiency / legibility；
+- capability scaling。
+
+Schema：[`../schemas/creator-life-decision-audit.md`](../schemas/creator-life-decision-audit.md)
+
+覆盖率：[`../metadata/creator-life-audit-coverage.json`](../metadata/creator-life-audit-coverage.json)
+
+当前原则：
+- 没有来源就写 `UNKNOWN`；
+- corporate comparator 可以做 organization-level audit，但不得伪装成 founder household risk；
+- Case 没达到最低可比记录时，不得直接用于“该不该辞职/创业”之类 reader-facing 建议；
+- household / 婚育 / 房贷 / 配偶收入不进入机器索引事实层，canonical facts 留在 Case / Evidence。
+
 ## 规则
 
 - 每个案例先建立事实时间线，再写判断。
