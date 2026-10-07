@@ -74,6 +74,10 @@ forbidden_inference: "中国独立项目或大厂员工的创业率、创新能�
 
 第一方抽查的最小观察例：`Attack on otter` 页面可直接核对 2024 / Make Me Laugh / 深圳南山站 / Windows / Unreal Engine；`Office Laziness Battle` 页面列有 Windows / Unity 及作品说明。**引擎或题材不能证明开发者来自大厂/名校，也不能证明后续有商业发行。**
 
+### 3.1 页面 UI 的一个实际误归因风险（2026-10-07 抽查）
+
+`Attack on otter` 与 `Office Laziness Battle` 的游戏页有 `Jammers` 标签；点击分别指向成员页面，但本轮返回 403，**不能声称已核实名册中任何个人**。页面下方 `Recently Joined` 是动态组件，不能误作当前游戏的参与名单或开发分工。由此，`16 games` 目前既不能转换为 `16 people`，也不能转换为“公开职业史缺失的人数”。
+
 ## 4. 这个 frame 能识别什么、不能识别什么
 
 | 研究对象 | 本目录可以直接回答 | 不能回答 / 需要另一 sampling frame |
