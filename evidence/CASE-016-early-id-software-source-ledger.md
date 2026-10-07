@@ -70,7 +70,7 @@ Source-derived facts:
 - team juggled Softdisk deadlines with Apogee work;
 - Romero describes id as a small company dependent on game-generated income and without loans in that period.
 
-## E006 — *Masters of Doom* / 《DOOM启示录》 as narrative spine
+## E006 — *Masters of Doom* / 《DOOM启世录》 as narrative spine
 
 - Class: S1 — researched secondary narrative / book-length synthesis
 - Source: David Kushner, *Masters of Doom: How Two Guys Created an Empire and Transformed Pop Culture*, Random House, 2003
@@ -277,6 +277,74 @@ Boundary: Spector's own project retrospective is not neutral audited accounting.
 
 Both creators identify Quake's unusually large concurrent new-technology burdens and consider whether alternative technical/production priorities would have been better. Supports the inference that endogenous technical-window expansion can outpace content and organizational absorption; does not establish a single culprit or deterministic counterfactual.
 
+
+
+## E020 — Census computer access and socioeconomic filters (1984 / 1989)
+
+- **Class:** P0, contemporaneous government survey / nationwide CPS aggregates
+- **Source:** U.S. Census Bureau, *Computer Use in the United States: 1984* (P23-155, published 1988-03), https://www2.census.gov/library/publications/1988/demographics/p23-155.pdf
+- **Source:** U.S. Census Bureau, *Computer Use in the United States: 1989* (P23-171, published 1991-02), https://www2.census.gov/library/publications/1991/demographics/p23-171.pdf
+
+Observed data: households with computer **8.2% (1984)** and **15.0% (1989)**; 1984 annual household income under $10k **1.7%** ownership versus $50k+ **22.9%**; children 3–17 using computers at school **28% → 46%** (not the percentage of schools with a machine); 1989 **23.0% of home computers** had telephone modems (NOT 23% of all households).
+
+Supports: hardware access / sustained practice was a materially uneven opportunity, so the famous early-id childhoods are selected cases; magazine/BBS participation required an unusually early and sustained technology pathway.
+
+Boundary: no individual founder income, exact childhood household computer purchase costs, local school curriculum or developer probability may be inferred from aggregated surveys. Household adoption is not programmer population share.
+
+## E021 — IBM PC platform / Nintendo console governance / contemporary computing diffusion
+
+- **Class:** H1/P0 — corporate historical records and museum object dossier
+- **Sources:** IBM official PC history https://www.ibm.com/history/personal-computer ; Smithsonian National Museum of American History https://americanhistory.si.edu/collections/nmah_1436726 ; TIME 1982 Machine of the Year cover as contemporary media https://time.com/archive/6699315/a-letter-from-the-publisher-jan-3-1983/
+
+Observed: IBM PC first launched 1981-08-12, entry model $1,565 before practical peripherals. U.S. home console crash 1983 did not mean all computer game publishing disappeared; NES launched in U.S. 1985 with Nintendo license/lockout architecture, unlike the independently programmable PC/Apple II markets. TIME's 1982 computer cover is evidence of public rhetoric, not household ownership.
+
+Boundary: do not attribute all game-industry growth to Nintendo or all early-id technical ability to generic “American market freedom”; markets / platforms had distinct gatekeepers. Carmack's PC-scrolling invention is separately evidenced E015.
+
+## E022 — Tom Hall's first-person alternative to the dropout myth
+
+- **Class:** P1, direct creator retrospective plus university alumni interview
+- **Sources:** Tom Hall archived interview https://cc314.shikadi.net/oldcc314/interview-th.htm ; University of Wisconsin alumni https://onwisconsin.uwalumni.com/tom-hall-86-video-game-innovator/
+
+Observed: Apple II purchased for family 1980; many self-produced games; Hall graduated Wisconsin–Madison in CS and made educational software for children with learning disabilities before / during professional early career; later Softdisk, id, and Ion Storm.
+
+Boundary: early interview archival provenance not equivalent to official university transcript; specific “hundred games” is creator estimate; college experience cannot be generalized as guaranteed positive, but refutes an all-dropout founder story.
+
+## E023 — Romero 2022–2023 on school/community lab and magazine publishing
+
+- **Class:** P1, direct creator interviews
+- **Sources:** Tim Ferriss 2023 full transcript https://tim.blog/2023/07/15/john-romero-transcript/ ; Shacknews 2023 https://www.shacknews.com/article/136450/becoming-doomguy-john-romero-on-his-memoir-and-a-life-in-games ; Stuff 2022 https://www.stuff.tv/features/stuff-meets-doom-and-wolfenstein-3d-creator-john-romero/
+
+Observed: at age 11 in 1979, accessible Sierra College terminal and students helped him understand programming; later family Apple II, and 1983 American military-base school in England provided Apple II / BASIC classes; paid game codes published in magazines before id career.
+
+Boundary: the “$100 Scout Search” and exact family conflicts described in Kushner first chapter are S1 until original editor acceptance, bank receipts or corroboration are located. Having a school computer says nothing by itself about unequal household resources of the other children.
+
+## E024 — Scott Miller 1987 episodic shareware entrepreneurship
+
+- **Class:** P1, publisher participant retrospective
+- **Sources:** Apogee official history by Scott Miller https://www.apogeeent.com/devblog/apogeeisback ; Miller interview part 1 https://episodiccontentmag.com/2015/07/17/bigger-in-texas-an-interview-with-scott-miller-part-1/
+
+Observed: *Kingdom of Kroz* published 1987, divided into episodic components with a free initial episode distributed through online/BBS services, paid subsequent portions; this was a deliberate solution to publisher/market mismatch rather than “marketing magic”.
+
+Boundary: source has a self-promotional interest; claim about pioneering shareware as a whole needs broader independent history, since freeware/voluntary-payment precedents predate Kroz. Distinguish id's creator skills from Miller's market production.
+
+## E025 — 1980s macro recession and Shreveport local bust
+
+- **Class:** P0 — official annual labor data; P0 contemporaneous newspaper report
+- **Sources:** BLS annual US unemployment series via FRED https://fred.stlouisfed.org/data/USAURNAA ; Los Angeles Times 1987-12-30 https://www.latimes.com/archives/la-xpm-1987-12-30-mn-21621-story.html
+
+Observed: 1982 national unemployment 9.7%, 1989 5.3%; Shreveport late-1980s oil/industrial downturn and AT&T manufacturing layoffs documented in a 1987 news dispatch.
+
+Boundary: neither national unemployment averages nor a city newspaper story proves the salary, household runway or job availability of any id founder; location is an opportunity condition, not a demonstrated cause of id forming.
+
+## E026 — Kushner 2003 on differentiated pre-id household and founder lives
+
+- **Class:** S1 — researched long-form secondary narrative; user-provided Chinese EPUB read 2026-10-07
+- **Chapter map:** Ch 1 《摇滚明星》 Romero family/school/1984 magazine/Origin-to-Softdisk; Ch 2 《火箭科学家》 Carmack family/school/juvenile punishment/college/publisher fees; Ch 3 《侵犯版权的戴夫》 Hall/Adrian/Jay/Softdisk and local Shreveport; Ch 4 《买比萨的钱》 publisher Miller / business incentives / family and employer costs.
+- **Deeper research:** [Early id 1980s America and life choices](../book/research-notes/early-id-1980s-america-life-decisions-001.md)
+
+Book-reported hypotheses: Romero’s family and work reentry obligations, Carmack’s professionally educated family and material support, Hall’s university degree, Adrian’s transition from fine art / hospital wage work, Jay’s hospitality/editor career, Softdisk founder Vekovius’s payroll and ownership claims. This materially complicates the “two gifted children made DOOM alone” story.
+
+Boundary: private conversations, trauma-to-aesthetic causality, exact family resources, morals, royalties, household burn, employer equipment terms remain `BOOK-REPORTED / UNKNOWN` unless other participants and records corroborate. Third-party family members are not to be impersonated or treated as NPCs.
 
 ## Current evidence-level conclusions
 

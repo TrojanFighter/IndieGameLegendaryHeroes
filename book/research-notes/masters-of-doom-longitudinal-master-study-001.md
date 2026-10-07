@@ -4,6 +4,7 @@
 - Case: [CASE-016 Early id Software](../../cases/CASE-016-early-id-software.md)
 - Ledger: [CASE-016 Evidence](../../evidence/CASE-016-early-id-software-source-ledger.md)
 - Existing reader layer: [early id / DOOM](../profiles/early-id-doom.md)；[人生节点笔记](doom-life-crossroads-001.md)
+- 1980s historical environment / personal risk baseline: [Early id 1980s America and life choices](early-id-1980s-america-life-decisions-001.md)，E020–E026；不同家庭、教育、就业/合同风险不可合并。
 - Observed period: 1980s–early 2000s；2003 年原书不能证明其后历史。
 - Time gate: 结构方法 DURABLE；1990s shareware / PC 技术窗口 HISTORICAL；2026 迁移 CONDITIONAL。
 
