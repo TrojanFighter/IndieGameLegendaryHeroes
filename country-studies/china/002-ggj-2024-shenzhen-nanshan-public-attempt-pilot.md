@@ -101,6 +101,8 @@ P0: Global Game Jam, *Global Game Jam 2024: Jammer Survey Data*, 2024-05-20, htt
 本试点最大的发现不是任何显著性或“成功者比例”，而是**可观察入口与目标问题的断裂**：找到“公开做过一个 game jam”的人，不等于知道“从名校走进大厂之后，有多少人不敢再自己出题”。
 
 ## 5. 下轮操作——严格先抽样后追踪，禁止追名人
+跨海峡平台栈压力测试见：[台湾015 — 台北 × 深圳GGJ公共作品栈](../taiwan/015-amateur-public-artifact-platform-stack-taipei-vs-shenzhen.md)。该研究已确认深圳样本中至少存在《口腔妙妙屋》的itch+B站双栈公开，以及《酶你不行 Funzyme》的itch发布和作者既往全球indie痕迹；同时CiGA官方明确说明GGJ全球站注册可能需要额外网络工具并以GmHub承担本地报名/展示。因此本文件后续必须按GGJ/GmHub/B站/TapTap/itch/GitHub/Gitee多栈检索，不能把全球搜索缺失写成未公开。
+
 
 ### Gate A｜名册完整性（当前未通过）
 - 已从第一方搜索快照读齐 16 个**列表位置的题名**；下步核齐逐行永久 URL/ID，区分 `BOOM CHASE` 的同名/重复/二次提交，记录快照时间与网页版本。
