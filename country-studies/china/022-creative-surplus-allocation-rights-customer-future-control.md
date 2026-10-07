@@ -793,6 +793,77 @@ distinct personal judgment
 
 这与现代公司治理里的residual control rights思路相似，但这里作为创作组织研究变量使用，不作为正式法律定性。
 
+## 15.1 经济学底座：Incomplete Contracts / Residual Control Rights
+
+Grossman & Hart (1986)以及Hart后续的不完全契约理论提供一个非常合适的理论底座：
+
+> 合同不可能事前规定资产未来所有可能用途，因此除了写明的specific rights，还存在未被合同穷尽的residual control rights；所有权的重要含义，就是在合同没有规定的情形下谁拥有最终决定权。
+
+Sources:
+- Grossman & Hart, 1986: https://www.journals.uchicago.edu/doi/10.1086/261404
+- Hart Nobel lecture: https://www.nobelprize.org/uploads/2018/06/hart-lecture.pdf
+- Nobel Prize 2016 summary: https://www.nobelprize.org/prizes/economic-sciences/2016/press-release/
+
+这与游戏创作高度相关，因为最重要的创作问题通常无法在项目开始时写进完整合同：
+
+- 原型不好玩时砍不砍；
+- 剧情方向失败时重写多少；
+- 核心系统谁拥有最终否决权；
+- 延期还是按期上市；
+- monetization与体验冲突时优先谁；
+- publisher要求改方向时谁能拒绝；
+- 成功后做续作还是新IP；
+- AI生成的100个方案最后保留哪个。
+
+因此022中的 `JUDGMENT RESIDUAL RIGHTS` 明确标记为：
+
+> **对Property Rights Theory中residual control rights概念在创作组织问题上的应用性映射，而不是新的正式法律术语。**
+
+创作组织真正关键的产权问题由此变成：
+
+```text
+not:
+who owns every individual asset?
+
+but:
+when the contract/spec cannot tell us the answer,
+who gets the last word?
+```
+
+### `CREATIVE INCOMPLETENESS`
+
+创作与普通标准化生产的一个特殊点是：
+> **越创新，越难事前写完spec。**
+
+因此越靠：
+- 非共识设计；
+- 新类型；
+- 原发性创新；
+- 探索式研发；
+
+项目结果越依赖residual judgment，而不是可预先量化KPI。
+
+这给前面“中国商业公司更擅长同构异性创新、原发性创新更偶然”的研究增加一个产权维度：
+
+> **成熟同构生产可以更多依靠specific rights / benchmarks / milestone；真正高不确定创新更依赖“谁拥有剩余判断权”。**
+
+所以如果组织：
+- 只给创作者执行权；
+- 所有未写明问题都由资本/上级收回；
+- 失败后作者没有second attempt；
+
+那么其 `JUDGMENT RESIDUAL RIGHTS` 很低，即使表面上允许提idea。
+
+反过来：
+- small founder team；
+- protected internal auteur；
+- studio-owned IP；
+- self-funded creator；
+
+往往拥有更高residual judgment，但也承担更高失败成本。
+
+这为“作者权”提供了比浪漫化自由更严格的经济学定义。
+
 ## 16. 对《英雄传说》人物研究的强制升级
 
 以后任何人物案例都不只写：
