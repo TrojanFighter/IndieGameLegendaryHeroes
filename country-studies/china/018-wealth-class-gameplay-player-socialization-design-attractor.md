@@ -402,6 +402,79 @@ effect: platform support / indie publishers / creator careers
 - talent migration；
 - whether a durable new ecology formed。
 
+## 12.5 `MINORITY_DEMAND_FINANCING / 少数需求如何养活创作者`
+
+中国《征途》与西方indie wave还可被统一成另一个问题：
+
+> **当愿意为某种体验持续付费的人只是总人口中的少数时，怎样把这部分需求变成足够大的生产预算？**
+
+当前提出两种理想型：
+
+### A. `INTENSIVE_MARGIN_MONETIZATION / 强度边际变现`
+
+```text
+small / heterogeneous payer base
+× very deep spend per high-value user
+→ viable revenue
+```
+
+典型方向：
+- F2P；
+- whale monetization；
+- 富豪阶级游戏性；
+- social/status goods；
+- long-lived live service。
+
+它通过**提高单个高价值用户的收入权重**让少数需求养活大系统。
+
+### B. `EXTENSIVE_NICHE_AGGREGATION / 广度边际小众聚合`
+
+```text
+geographically dispersed niche audience
+× digital global reach
+× bounded price
+→ enough buyers to sustain small creators
+```
+
+典型方向：
+- Steam / XBLA / digital storefront；
+- global niche premium；
+- indie publisher；
+- festival / community discovery；
+- long-tail sales。
+
+它不是让少数人每人花无限多钱，而是把原本彼此隔离的少数玩家跨地区聚成一个经济上足够大的市场。
+
+### 为什么这可能解释中西路径差异（H）
+
+2000s中国：
+- premium回款弱；
+- 盗版和支付摩擦高；
+- 本土高品质零售核心受众相对有限且需与海外成熟作品竞争；
+- 在线服务首先解决收费；
+- 于是“把少数高支付者的ARPPU做深”成为极强商业解。
+
+2007–2017欧美数字indie：
+- XNA / Unity降低制作门槛；
+- XBLA / Steam等降低分发门槛；
+- IGF /社区/媒体帮助识别怪作品；
+- 全球商店允许一个小众作者直接聚合跨地域购买者；
+- 因此“小团队 × bounded premium price × worldwide niche”可以成为另一种可持续解。
+
+这不是已证“国民偏好导致模式”，而是一个待检验的政治经济H：
+
+> **不同市场基础设施会改变小众需求最容易被货币化的边际：一边可能走向“每个高价值用户付更多”，另一边可能走向“把全世界更多同好聚过来”。**
+
+其设计后果可能非常不同：
+- intensive margin 更容易奖励 retention / status / progression / spend depth；
+- extensive niche aggregation 更容易奖励 distinctiveness / creator identity / category novelty / word of mouth。
+
+后续必须寻找反例：
+- premium小众聚合仍走高度公式化；
+- F2P高变现仍产生强作者型玩法；
+- 中国早期/现代存在广度聚合成功案例；
+- 欧美/日韩存在典型富豪阶级游戏性与whale-driven attractor。
+
 ## 13. 当前最小结论
 
 > **“富豪阶级游戏性”不是简单的P2W贬义词，而是一种现实财富—游戏效用转换制度；《征途》的关键创新，是把免费人口、异质支付能力、阶级化数值和社会关系整合成一个可持续商业系统。该系统一旦获得巨大收入，会通过需求权重、渠道、资本和人才筛选形成选择外部性，并可能构成稳定Design Attractor。玩家偏好既是这个系统的输入，也是长期社会化后的输出。**
