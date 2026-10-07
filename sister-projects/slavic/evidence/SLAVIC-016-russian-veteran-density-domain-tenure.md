@@ -136,3 +136,15 @@ person / role / first_game_year / target_project_year / GIE / hands_on_role / pr
 **SUPPORTED BY SELECTED FLAGSHIP COHORTS**：俄罗斯/后苏联多条旗舰Premium、模拟、策略、CRPG谱系的核心决策者在关键作品时已有约8—17年以上行业经验，而且经常保持hands-on或相近问题域连续性。
 
 **HYPOTHESIS**：真正的跨国差异不是 veteran headcount，而是 **Veteran Decision-Role Density + Hands-on Creative Tenure + Problem-Domain Tenure**。
+
+## 七、跨国credits pilot反证（2026-10-08）
+
+参见 [中俄核心credits老兵密度试验](../../../country-studies/china/china-russia-core-credits-pilot-2003-2015.md)。
+
+第一版各7人目的性样本显示：
+- 进入各自早期cohort时，中国2003组与俄方2005组的可核既有游戏经验中位数都约4年；
+- 到2010s，两边幸存核心人员都已大量成为10年以上老兵；
+- 因此“俄方标志性作品成熟，因为开发者单纯比中国人更老”在该试验中没有得到支持；
+- 更有解释力的差异是Premium产品形态持续时间、hands-on职能连续性及problem-domain配置方向。
+
+本结论仍受名人/可追踪性抽样偏差限制，下一轮应抽lead以下普通程序、美术、策划。
