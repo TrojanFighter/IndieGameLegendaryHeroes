@@ -16,9 +16,23 @@
 
 ## 当前约束
 
-### 不追踪本地 Obsidian 状态
+### 不追踪本地 Obsidian 与 AI 索引状态
 
-`.obsidian/` 被 `.gitignore` 忽略。工作区布局、主题、插件、快捷键等属于个人本地状态，不进入仓库。
+以下目录被 `.gitignore` 忽略：
+
+```text
+.obsidian/
+.smart-env/
+```
+
+它们都属于本地运行环境，而不是研究事实：
+
+- `.obsidian/`：工作区布局、主题、插件、快捷键等个人状态；
+- `.smart-env/`：Smart Environment / Smart Connections 生成的 embedding index、event logs、Smart Sources / Smart Blocks 缓存，以及本地环境设置。
+
+`.smart-env/` 不应进入 Git，也不应作为跨设备同步的数据源。索引和缓存应在各设备本地重建。尤其不要提交其中的 `smart_env.json`：它属于运行时设置，并可能包含 provider 配置或凭据。
+
+如果未来确有“团队共享 Smart Environment 配置”的需求，应把可公开、无凭据、稳定的配置字段提取成独立的仓库级配置文件，而不是直接追踪整个 `.smart-env/`。
 
 ### 标准 Markdown 链接优先
 
@@ -61,8 +75,9 @@
 
 - **Case Explorer**：结构化过滤、audit 状态、Claim 关系、metadata 视图。
 - **Obsidian**：快速打开、backlinks、graph、跨文档阅读与写作。
+- **Smart Environment / Smart Connections**：本地语义检索、embedding 与 AI 辅助索引；它们消费仓库，但不产生 canonical facts。
 
-两者都消费同一套 canonical corpus，不互相复制数据库。
+三者都围绕同一套 canonical corpus 工作；本地索引不反向成为仓库事实。
 
 ## 未来可能升级的方向
 
@@ -83,4 +98,5 @@
 - 只有装特定插件才能读懂核心知识；
 - GitHub / Agent 读取体验变差；
 - 大量维护时间花在 graph / tag / Canvas 美化，而不是研究与出版；
-- wikilink / plugin syntax 让普通 Markdown 兼容性下降。
+- wikilink / plugin syntax 让普通 Markdown 兼容性下降；
+- 本地 embedding / event logs / AI credentials 等运行时状态进入版本历史。
