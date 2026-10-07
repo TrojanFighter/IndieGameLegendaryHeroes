@@ -212,6 +212,12 @@ P1 — Route Durability History：重建66RPG → IGF China → GGJ → CiGA/ind
 
 P1 — Failure-to-Reentry：以首作失败/停更/未发售项目为frame，跟踪回大厂、继续独立、外包、换publisher、解散和第二项目，直接测ROUTE_REVERSIBILITY。
 
+## 13.5 路网开始出现“自我繁殖”迹象：创作者成功后成为基础设施
+
+新增 [021](021-creator-to-infrastructure-conversion-coconut-hypergryph-coreblazer.md)。中国路线不仅数量增加，而且已有两代 creator-origin infrastructure：椰岛把自身市场成功转成 Game Jam / IndieACE / CiGA 与第三方发行；鹰角把《明日方舟》成功后的资本与生产经验转成开拓芯，开始为年轻团队提供长期资金、办公、公司化、发行和第二作支持。由此新增 CREATOR_TO_INFRASTRUCTURE_CONVERSION / INFRASTRUCTURE_CONVERSION_PROPENSITY / RECURSIVE_REPRODUCTION。
+
+关键未决点从“有没有扶持”转为：**被扶持的第二代创作者会不会继续成为第三代人的基础设施。**
+
 ## 14. Verdict
 
 中国和日本当前最有解释力的差异，不再是“日本有创作者路，中国没有”。更可能是：日本部分路线经过数十年连续累积，形成了更成熟的“路→桥→下一条路”；中国也很早拥有草根创作共同体，并在2015后快速补齐比赛、平台、发行、主机扶持和全球数字市场，但多条桥梁仍年轻，历史上也发生过明显断裂与平台化重写。
