@@ -126,3 +126,20 @@ SYNCED 最重要的研究价值是“高 resource commitment 下的错误持续�
 3. 每次核心方向调整发生在什么玩家测试 / 商业信号之后？
 4. 早期 NExT 项目的真实团队规模与内部 greenlight 机制是什么？
 5. SYNCED 留下哪些技术、人才和 pipeline residual value？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL / ORGANIZATION-LEVEL ONLY
+- **Life stage:** **NOT APPLICABLE at individual level** — 本案研究对象是 NExT portfolio 与 SYNCED production regime，不代表单一 founder 人生路径。
+- **Household:** **NOT APPLICABLE / UNKNOWN** — 公司内部工资结构不能替代个人 household 审计。
+- **Runway:** 腾讯内部 corporate runway；项目预算、shared cost 与 opportunity cost 未公开。
+- **Household burn:** **NOT APPLICABLE at current evidence level**
+- **Exit / recovery:** **NOT APPLICABLE at organization level**
+- **Capability vector:** portfolio 已证明多品类 0→1 / shipping；SYNCED 增加 shooter、networking、asset pipeline、global service capability。
+- **Problem ownership:** **MIXED / ORGANIZATIONAL** — NExT 早期制度强调自下而上和小资源孵化；SYNCED 阶段的具体 product-control / business-control 权限未完全公开。
+- **Validation architecture:** early premium portfolio 的小项目发售 → SYNCED 2A/AAA capability build → long development / direction changes → F2P launch → live-market failure / shutdown。
+- **Reality adjudication:** **WEAK→LATE for SYNCED** — 公开复盘显示目标持续变化、资源义务上升；核心 market truth 在高承诺后才充分显现。
+- **Capability capture risk:** **MEDIUM / ORGANIZATIONAL** — capability building、AAA pipeline、global live-service ambition 与单一产品探索绑定，可能让“组织能力进步”与“产品是否成立”混为一个进度面；仍是结构性解释而非单因结论。
+- **Market sufficiency / legibility:** **WEAK for sustainable live service** — 上线不足一年结束服务；不能由此否定早期 NExT premium portfolio。
+- **Capability scaling:** high organizational scaling / low product sustainability for SYNCED；residual capability 需继续核。
+- **Major unknowns:** team-level founder histories、household data、budget/headcount timeline、每次 pivot 的 player evidence、residual technology value。
