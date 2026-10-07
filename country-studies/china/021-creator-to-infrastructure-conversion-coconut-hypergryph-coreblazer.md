@@ -13,7 +13,7 @@
 
 第二代：CREATOR -> PATIENT CAPITAL / INCUBATION INFRASTRUCTURE。鹰角自身由小型初创团队做出《明日方舟》，2022起建立开发者投资/孵化业务；公开口径到2026已投资近30支团队，12支创业团队完成首作并进入“正向循环”，十余支仍在孵化；公开报道进一步称约三分之一工作室已进入第二款产品研发。
 
-因此中国已经出现“成功创作者把自己的胜利变成别人的第一次/第二次机会”的制度化雏形。但受益于这些制度的第二代创作者，是否会继续投资/孵化第三代，仍是OPEN。
+因此中国已经出现“成功创作者把自己的胜利变成别人的第一次/第二次机会”的制度化雏形。社群/活动层已经出现递归：Game Jam参与者后来变成CiGA组织者；但受益于资本孵化的第二代团队是否会继续投资/孵化第三代，仍是OPEN。
 
 ## 1. CREATOR_TO_INFRASTRUCTURE_CONVERSION
 
@@ -173,6 +173,58 @@ Source: https://zhuanlan.zhihu.com/p/2083287108572156638
 
 L5 RECURSIVE_REPRODUCTION = EARLY SIGNAL / NOT YET VERIFIED。
 
+## 14.5 L5并非完全未知：社群层已经出现“参与者 -> 组织者”的递归
+
+触乐2025对梁铁欣（三郎）的长期回访提供了一个罕见的二跳案例：
+
+- 2014年，他还在自己的初创游戏公司做Demo；
+- 去上海参展时碰上椰岛组织的24小时Game Jam，作为普通参与者组队参加；
+- 体验后认为这种活动值得带回广州；
+- 2015年开始组织广州Global Game Jam；
+- 同年承担IndieAce Game Jam广州执行；
+- 随后与Simon、椰岛IndieAce运营者等共同酝酿成立CiGA；
+- 后来持续十年组织Game Jam、沙龙、纪录片和电子游戏博物馆活动。
+
+Source:
+https://www.chuapp.com/article/290508.html
+
+更重要的是：三郎自己的初创团队后来也解散了。
+
+所以这里不是：
+SUCCESSFUL STUDIO -> GIVE BACK。
+
+而是：
+PARTICIPANT / FAILED-STUDIO CREATOR -> COMMUNITY ORGANIZER -> NEXT-GENERATION INFRASTRUCTURE。
+
+这说明一个健康生态还有另一种能力：
+
+### FAILED_CREATOR_RETENTION
+> 没能把自己的工作室长期做成的人，是否仍能以组织者、导师、媒体、publisher、工具作者等身份留在创作生态里？
+
+因此L5要拆成：
+- L5A COMMUNITY_RECURSION = VERIFIED CASE；
+- L5B CAPITAL_RECURSION = OPEN；
+- L5C PUBLISHING_RECURSION = OPEN / fragmentary。
+
+### 14.6 现代“多桥叠加”也已经出现：CATO
+
+《CATO 黄油猫》提供一条2020s闭环：
+- 两名成员因BOOOM Game Jam相识；
+- Game Jam作品获得关注后正式成立Team Woll；
+- COREBLAZER从BOOOM体系中发现并投资团队；
+- GCORES Publishing把BOOOM作品接到商业发行；
+- 两人远程协作约两年完成首作。
+
+Sources:
+- https://www.gcores.com/articles/166762
+- https://store.steampowered.com/app/1999520/
+- https://www.gcores.com/articles/164824
+
+这不是单个机构“创造”了CATO，而是：
+**Game Jam -> community visibility -> investor -> publisher -> commercial ship**。
+
+这正是016所说的 ROUTE BRIDGE STACKING：创作者不需要某一家机构包办全部问题，只需要多个桥能够接起来。
+
 ## 15. 椰岛与鹰角代表两代完全不同的“回馈行业”
 
 | Dimension | Coconut Island / IndieACE | Hypergryph / COREBLAZER |
@@ -249,4 +301,4 @@ P1：中国creator-origin infrastructure总量。系统找成功工作室中哪�
 
 如果未来被开拓芯扶持的团队又开始系统扶持第三代，才意味着中国创作者生态开始具有真正的自我繁殖能力。
 
-当前状态：SECOND_GENERATION_INFRASTRUCTURE = VERIFIED EMERGING；RECURSIVE_THIRD_GENERATION_REPRODUCTION = OPEN。
+当前状态：SECOND_GENERATION_INFRASTRUCTURE = VERIFIED EMERGING；COMMUNITY-LEVEL RECURSIVE REPRODUCTION = VERIFIED CASE；CAPITAL-LEVEL THIRD-GENERATION REPRODUCTION = OPEN。
