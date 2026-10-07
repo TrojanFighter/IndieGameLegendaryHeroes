@@ -117,7 +117,19 @@ J Let Me Laugh
 
 这些只能证明jam期公开artifact和团队协作，不等于后续开发、商业发行或职业转化。
 
-一个早期后续线索：GGJ用户“鄒佳宏”页面显示其2024参与《神說，讓我笑》，2026又参加MIT Game Jam #14并有新作《HELL-o-WORD》。这说明至少存在个人持续公开创作的可追踪实例，但还未完成身份/贡献核对，不计为队列统计结果。
+第一轮个体追踪已经证明这个队列内部能力差异很大，因此它不能被叫作“新人队列”：
+
+- GGJ用户“鄒佳宏”页面显示其2024参与《神說，讓我笑》，2026又参加MIT Game Jam #14并有新作《HELL-o-WORD》。这是“持续公开创作”的可追踪实例，但不等于职业化或创业。来源：https://globalgamejam.org/users/zoujiahong
+- F组《Make Me Laugh》成员古明弘的GGJ个人页在“Past Games”中列出Steam作品，并显示2025《星塵入海 reStar》、2026《情緒按摩師》等后续jam作品。来源：https://globalgamejam.org/users/guminghong
+- 其中Steam App 2251430《Original》在2023-07-05已正式发售，即**早于本队列的2024 GGJ**。因此至少一位参与者在入组时已经有商业Steam发行经历。Steam记录入口：https://store.steampowered.com/app/2251430/Original/
+- 古明弘2025又参加同系列MIT Game Jam #13《星塵入海 reStar》：https://globalgamejam.org/games/2025/xingchenruhai-restar-4
+
+这几项只支持一个方法论修正：本队列是**public creative-attempt cohort / 社群创作队列**，不是beginner cohort。后续coding必须新增：
+- pre_2024_commercial_release
+- pre_2024_game_jam_history
+- pre_2024_professional_or_public_portfolio
+
+否则会把“已有开发者继续参加jam”误算成“jam把新人转化成开发者”。
 
 ## 5. 与深圳南山试点怎么比
 
