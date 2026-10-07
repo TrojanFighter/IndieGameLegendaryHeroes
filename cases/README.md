@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 59 个档案中，57 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 60 个档案中，58 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -69,6 +69,8 @@
 | CASE-057 | thatgamecompany / Sony → Benchmark → Sky | **CAPABILITY-EXPANDED / VC-EQUITY / CONTROL-SURFACE COMPARATOR**：$5.5M Benchmark 融资 + board seat、后续 $7M 扩 development/self-publishing/marketing/distribution；检验股权资本怎样把发行能力内建，同时把 obligation 移到 ownership / board / investor-return / future-round 层 | RESEARCHING |
 | CASE-058 | Spiderweb Software / Jeff Vogel | **FIT-STRONG / LONG-RUN FIT-LOCK-IN / NICHE-COMPOUNDING**：engine/assets、低成本 CRPG grammar、稳定出货节奏、niche audience 与 back catalog 长期复利；Queen's Wish 的 new-engine/new-system 转型把 production reset + audience replacement cost 显性化 | RESEARCHING |
 | CASE-059 | Slay the Spire / Mega Crit | **PARALLEL-AUTHORIAL-THREAD / BIG-COMPANY-EXIT / PRE-PARADIGM DESIGN**：Casey Yano 的 Amazon QA 能力被选择性迁移，但 college-era hobby-game author thread 与 Anthony 的 card/roguelike taste 保持公司外连续性；检验 prestige pipeline、作者身份、metrics-driven reality adjudication 与 category formation | RESEARCHING |
+
+| CASE-060 | Croteam / Serious Sam → The Talos Principle → UE5 | **MATURE-GRAMMAR ESCAPE / STAGED DECOUPLING**：2014 保留 Serious Engine/Editor 但从十余年 FPS 生产语法中分离解谜体验，补叙事和 puzzle-testing 能力；2020 被 Devolver 收购后，2023 才替换为 UE5。首个成熟 FIT-LOCK-IN 成功侧正例；不跨 ownership regime 推成本 | RESEARCHING |
 
 ## Creator Life / Decision Audit
 
