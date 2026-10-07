@@ -445,6 +445,9 @@ Hypothesis
 - Exit / recovery:
 - Capability vector:
 - Problem ownership:
+- Identity coupling: # when relevant
+- Parallel authorial thread: # when relevant
+- Prestige-preserving distortion: # when relevant
 - Validation architecture:
 - Reality adjudication:
 - Capability capture risk:
