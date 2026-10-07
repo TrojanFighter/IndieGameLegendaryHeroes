@@ -81,6 +81,12 @@ forbidden_inference: "中国独立项目或大厂员工的创业率、创新能�
 
 `Attack on otter` 与 `Office Laziness Battle` 的游戏页有 `Jammers` 标签；点击分别指向成员页面，但本轮返回 403，**不能声称已核实名册中任何个人**。页面下方 `Recently Joined` 是动态组件，不能误作当前游戏的参与名单或开发分工。由此，`16 games` 目前既不能转换为 `16 people`，也不能转换为“公开职业史缺失的人数”。
 
+### 3.2 2024 GGJ 全球活动的「已参与但未投稿」反例（独立人群，非本地统计）
+
+GGJ 官方 2024 活动后自愿问卷共收 3,578 份（参赛者答卷回应率略高于10%；各题回答数不同）。在回答「是否至少提交一个游戏」的受访者中 **8% 答 No**。这证实 **submission roster 按设计排除了某些参加了活动但没有提交作品的人**。但全球自愿问卷不是深圳站名册，**绝不能将该 8% 乘以深圳站任何条目数或当作失败率**。后续应以报名/到场记录加同一人自愿确认才能处理本地未提交者。
+
+P0: Global Game Jam, *Global Game Jam 2024: Jammer Survey Data*, 2024-05-20, https://globalgamejam.org/news/global-game-jam-2024-jammer-survey-results 。详见中国研究 [003 非入场者研究](003-nonentrants-upstream-cohort-and-survey-selection-audit.md)。
+
 ## 4. 这个 frame 能识别什么、不能识别什么
 
 | 研究对象 | 本目录可以直接回答 | 不能回答 / 需要另一 sampling frame |
