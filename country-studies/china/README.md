@@ -39,6 +39,7 @@
 
 - [`001 — Experience Capital / Demand Discovery`](001-experience-capital-demand-discovery-hypotheses.md)
 - [`017 — Demand-Side Creator Selection`](017-demand-side-creator-selection-player-veto.md)：把“玩家审美 / 人民选择”拆成 `TASTE_CAPITAL / CREATOR_SELECTION_CAPACITY / CONSUMER_VETO / DEMAND_WEIGHTING / CHANNEL_MEDIATION`；研究玩家如何给作者性定价，也研究玩家choice set如何被渠道和商业模式反向塑造。
+- [`018 — 富豪阶级游戏性、玩家社会化与 Design Attractor`](018-wealth-class-gameplay-player-socialization-design-attractor.md)：统一“富豪阶级游戏性”术语，并把《征途》进一步拆成 `RESOURCE_CONVERSION_RIGHT / PLUTOCRATIC_DEMAND_WEIGHTING / CLASS_COMPLEMENTARY_PLAY / PREFERENCE_SOCIALIZATION / DESIGN_ATTRACTOR / ATTRACTOR_ESCAPE_COST`；重点研究商业制度如何同时塑造玩家偏好、人才价值和下一代产品。
 
 这里把“国民体验水平”拆成 reference breadth、comparative literacy、player→producer conversion、benchmark dependence、decision rights 等可观察变量，并要求用中国内部差异、东亚反例、斯拉夫 / 北欧 / 新西兰等跨国 comparator 做压力测试。
 
