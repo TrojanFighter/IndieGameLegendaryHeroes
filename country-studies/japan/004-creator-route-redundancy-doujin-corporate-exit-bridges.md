@@ -32,7 +32,7 @@
 ### CREATOR_ROUTE_REDUNDANCY
 **创作者路线冗余度**
 
-日本目前至少能观察到六条不同路线。
+日本目前至少能观察到七条不同路线。
 
 ## 1. Route A — 企业内部作者化：Nintendo
 
