@@ -102,6 +102,14 @@ Deus Ex是最重要的内部控制：同样的Ion Storm资本与“design autono
 
 这个延长段把 id 从“创新英雄”改造成完整生命周期样本：**产生答案 → 成功与制度化 → 创始人栈失效/能力偏科 → 学习外部标准答案 → 重新夺回问题定义权**。下一步用 Eternal 与 The Dark Ages 检验：2016 的新理论是否会再次教条化，以及组织是否仍能推翻自己刚建立的成功公式。
 
+## 六点十一、第二答案测试：革命理论也必须重新接受现实审判
+
+043 的下一轮 Eternal → The Dark Ages 已进入跨行业节点 [Self-Obsolescence / Second-Answer Test](../../cross-industry/self-obsolescence-second-answer-test-001.md)。DOOM 2016 找到 push-forward / combat-chess 后，Eternal 将其进一步系统化；Dark Ages 则公开改变 movement / control grammar，并把多个 shield 行为压到 contextual input。研究问题因此从“id 能否重启失败项目”升级为：
+
+> **一个组织能否在上一套公式仍然成功时，主动撤销它的下一作默认权？**
+
+当前新增 H 级变量：DOCTRINE HARDENING、MANDATORY ACTION TAX、INTERACTION-SURFACE COMPRESSION、SUCCESS-FORMULA KILL CAPACITY、ORTHODOXY HALF-LIFE 与 SECOND-ANSWER TEST。跨行业对照只用来检验机制，不把 Grove / Apple / Nintendo 直接混入本书游戏 Case 统计。
+
 ## 七、待核证据优先级
 
 1. Quake 原型转向、引擎/关卡返工、谁有最终裁决权及 Romero 退出的多方直接版本。
