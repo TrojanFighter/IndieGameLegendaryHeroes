@@ -425,6 +425,28 @@ Hypothesis
 
 ---
 
+## 11B. Demand-Side Selection / Consumer Veto
+
+当 Case 的作者权、续作预算或长期生存明显依赖玩家市场时，额外记录：
+
+- `taste_capital_context`：目标玩家是否拥有足够reference breadth / comparative literacy；
+- `creator_selection_capacity`：玩家是否把认可转成购买、传播、捐赠、测试、mod或众筹；
+- `consumer_veto`：产品/品牌错配后，玩家是否真的停止消费；
+- `channel_mediation`：平台推荐、发行、买量、商店入口是否显著决定可见性；
+- `demand_weighting`：收入更接近bounded purchase，还是由少数高LTV玩家强烈加权；
+- `reputational_carryover`：市场认可是否真的转换成作者下一轮预算与decision rights。
+
+必须区分：
+- sentiment ≠ purchase；
+- majority preference ≠ revenue-weighted preference；
+- visibility ≠ demand；
+- fandom ≠ sustainable unit economics。
+
+Canonical research anchor:
+- [China 017 — Demand-Side Creator Selection](../country-studies/china/017-demand-side-creator-selection-player-veto.md)
+
+---
+
 ## 12. Capability Scaling
 
 当核心成立后，创作者是否能把它做成稳定产品：
@@ -517,6 +539,7 @@ Hypothesis
 - Reality adjudication:
 - Capability capture risk:
 - Market sufficiency / legibility:
+- Demand-side selection / consumer veto: # when relevant
 - Capability scaling:
 - Major unknowns:
 ```

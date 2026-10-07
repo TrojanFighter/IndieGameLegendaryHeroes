@@ -35,6 +35,15 @@ https://mp.weixin.qq.com/s/4K0lWTMFE3WKkAAgogBLpQ
 技术史部分的 canonical 研究归入：
 [cross-industry/industrial-revolutions/](../../cross-industry/industrial-revolutions/)
 
+### C. 2024 知乎回答：玩家是否拥有创作者选择能力
+
+Public URL:
+https://www.zhihu.com/question/644011903/answer/3403876034
+
+作者原始判断把需求侧纳入创作者生态：Dwarf Fortress、CDDA、Jonathan Blow、东方等非主流作者型作品之所以值得研究，不只因为作者“怪”，还因为存在愿意购买、捐赠、测试、传播或参与同人的玩家共同体。作者同时提出“中国历史上不缺孤立天才，但可能缺少把异常作品托成连续谱系的稳定回声”。
+
+该原始判断中的“人民也并非无辜 / 玩家审美落后”不直接升级为国别结论，统一进入 [017 — Demand-Side Creator Selection](017-demand-side-creator-selection-player-veto.md)，拆成 taste capital、consumer veto、channel mediation 与 demand weighting。
+
 ## 2. 为什么不用“国民体验水平”直接做变量
 
 “体验水平高 / 低”过于总括，容易同时混入：
@@ -109,7 +118,17 @@ Tom Francis / CASE-007 是已有强锚点。
 
 这比笼统说“某国更个人主义，所以更有创意”更容易检验。
 
-### 3.5 Benchmark / Reference Dependence
+### 3.5 Demand-Side Creator Selection
+
+需求侧新增四个变量，详细定义见 [017](017-demand-side-creator-selection-player-veto.md)：
+- `TASTE_CAPITAL`：玩家能否比较、识别并稳定选择不同体验；
+- `CREATOR_SELECTION_CAPACITY`：玩家共同体能否把作者性转换成持续收入、声誉与下一轮资源；
+- `CONSUMER_VETO`：面对IP壳/营销/社交绑定替代产品判断时，玩家是否真的退出；
+- `CHANNEL_MEDIATION`：渠道、推荐、支付和商业模式怎样先塑造玩家实际看见的choice set。
+
+这条线强制区分“没见过 / 不喜欢 / 喜欢但不能付费 / 能付费但看不到 / 口碑反对但行为继续消费”。
+
+### 3.6 Benchmark / Reference Dependence
 
 研究：
 - 立项是否必须先有成功对标；
