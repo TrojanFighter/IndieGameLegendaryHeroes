@@ -30,6 +30,7 @@
 - [Program Map](../PROGRAM-MAP.md)
 - [Industrial Revolutions Comparative Lab](../cross-industry/industrial-revolutions/README.md)
 - [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md) — 按主创能力类型补正例、边界例与压力对照
+- [Masters of Doom Longitudinal Study](research-notes/masters-of-doom-longitudinal-master-study-001.md) — 以 early id / Quake / Ion Storm 作技术窗口、产品闭环与组织治理的跨时期比较；原书作为 S1，另有第一人称/同期复盘。
 - [Capability-Shaped Project Formation / 能力反向立项](research-notes/capability-shaped-project-formation-001.md) — 主创能力向量如何反向塑造项目定义
 
 ## 编辑原则
