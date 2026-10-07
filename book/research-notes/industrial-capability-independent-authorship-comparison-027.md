@@ -7,6 +7,16 @@
 - China comparators: 王妙一/WILL, Game Science, Double Cross/苏丹, 月下/铸仙之境, Sea/安尼姆
 - Boundary: 所有因果解释都按岗位、进入公司之前的兴趣与合作网络、家庭现金/职业回撤、年份与生产制度做对照；不建立“西方人进大厂也自由／中国人进大厂就失去作者性”的国别命题。
 
+## 先读：样本基线限定（028 方法修订）
+
+这份 027 研究是**媒体可发现的成功者与若干著名失败者的目的性深描**。Mega Crit / Supergiant / Red Hook / Sandfall 的 Case 材料足以检验“某个个体如何保留作者性”，但对任职同类组织的人口发生率、是否一般比中国更自由、名校–大厂规训机制有多强 **没有统计识别力**。
+
+尤其“名企出走者仍能发表公开创作经历”有明显报道倾向；更换 1–2 个失败案例并不能给我们补回**从未发售、从未受访、没有离职、离职后回就业**的人群。故本文所有“西方对照”只作为 case-based mechanism contrasts，不得作为 typicality 或国家分布推断。
+
+后续升级要先按 [028 媒体选择与分母重建](media-selection-survivorship-and-denominator-protocol-028.md) 与 [取样 Gate](../../schemas/creator-visibility-sampling-gate.md) 建立可观察队列；否则结论保持 PRE-CLAIM。
+
+---
+
 ## 0. 问题的正确形式
 
 原问题：为什么名校绩优主义→名企绩效主义，可能让中国独立游戏主创在项目操作上发生规格保全和先招人后验证？
