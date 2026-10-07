@@ -47,6 +47,10 @@
 
 [中国渠道资本证据账](../../country-studies/china/channel-capital-cognitive-asymmetry-2013-2019.md) 显示2014报告同期已经记录手游模仿/换皮、跨界资本与渠道集中；2014SEC与2016CSRC显示运营/分账/并购决策制度。俄侧应追 **1C/Buka/KranX审片/审原型准则及并购对象**，检验外行资金是否更愿意投资已有benchmark、懂行制作人是否更敢判断新玩法、以及项目作者实际拥有何种否决权。2005俄国Buka同样引入金融投资人并于2008年退出，不能神话“俄罗斯所有资方都懂游戏”。
 
+### 中国侧证据增量：2013—2018并购交易与产品权力（2026-10-07）
+
+[中国首批7项交易/权力案例](../../country-studies/china/game-capital-transactions-and-decision-rights-2013-2018.md) 已区分announced/completed/contract right/actual interference，参照2014 SEC乐逗手游合同和2014行业报告：发行/有经验研发方可介入重设计、虚拟商品定价与开发者建议，但某些协议也明确保留开发者审核批准权。俄方最需要补相同口径的 **Buka—Nival / Buka—K-D LAB / 1C—KranX / Ener1—Nival** 四组合同，比较谁在什么节点有原创设计否决权，而不靠业界传奇互相映衬。
+
 ## C. 设计与人物谱系待核
 
 - Four founders：Gusarov—Krank—Klimov—Orlovskiy 每人 **第一次赚钱、第一次商业交付、第一次项目崩盘、商业模式变化、治理/控制权代价**，并做 20 年时间轴。
