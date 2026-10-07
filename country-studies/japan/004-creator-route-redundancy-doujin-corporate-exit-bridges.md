@@ -198,6 +198,35 @@ https://bitsummit.org/en/indie-publisher/
 ### VISIBILITY_AND_TRANSLATION_BRIDGE
 > **不是只提供摊位，而是把小作者与媒体、海外玩家、publisher、平台和B2B资源接起来。**
 
+## 6.5 Route G — 作品投稿直接变商业：Enix 1982“作品先于履历”的早期入口
+
+日本这种路网甚至早于现代同人/Steam。
+
+游戏保存协会整理的Enix早期资料显示：
+- 1982年第一届 Game Hobby Program Contest；
+- 第一届获奖后有 **13个作品**在1983年商品化；
+- 中村光一的《Door Door》、堀井雄二的《Love Match Tennis》都由此进入商业体系；
+- 竞赛持续至1984年前后，许多获奖者随后成为职业开发者；
+- Enix早期还延续了royalty/作者标记，使个人作者在当时较匿名的产业中更可见。
+
+Sources:
+- https://www.gamepres.org/media/honorary/hidaka/exhibition2015/
+- Nintendo官方访谈也把1982 Enix contest列为堀井、中村、森田等人的职业入口：https://www.nintendo.co.jp/etc/interview/platinumgames/vol1/index3.html
+- 公开历史资料给出第一届约316件投稿：https://akiba-pc.watch.impress.co.jp/docs/column/retrosoft/1356901.html
+
+这个机制和现代招聘完全不同：
+
+`MAKE PRODUCT FIRST -> AUTHOR CREDIT -> PUBLISHER COMMERCIALIZES -> CAREER FORMS`
+
+而不是：
+
+`GET CREDENTIAL -> GET JOB -> WAIT FOR PROJECT AUTHORITY -> MAYBE MAKE PRODUCT`
+
+这进一步支持一个历史命题：
+> **日本游戏产业在早期边疆阶段，就曾把“外部作品”当作发现人才的重要凭证，而不是只通过企业内部年资筛选创作者。**
+
+这不能证明1980年代所有业余作者都有机会；316件投稿、13件首批商品化本身就是强筛选。但它说明日本“外部作品→商业入口”的制度根系至少可以追到FC黄金时代之前。
+
 ## 7. 日本最重要的资产可能是“路线之间可以转移”，不是每条路线单独多优秀
 
 把上述案例放在一起：
