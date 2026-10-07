@@ -5,7 +5,7 @@
 - Scope: 作者型 / 极小团队 / 小团队的 0→1 立项与早期产品定义；不主张所有成功独游都必须按个人短板设计，也不主张能力越偏科越好。
 - Status: SUPPORTED
 - Last reviewed: 2026-10-07
-- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056
+- Related Cases: CASE-007, CASE-008, CASE-018, CASE-026, CASE-042, CASE-043, CASE-047, CASE-048, CASE-049, CASE-050, CASE-051, CASE-052, CASE-053, CASE-054, CASE-055, CASE-056, CASE-057
 
 ## Definition
 
@@ -294,6 +294,31 @@ The product side can be highly successful while the governance side later become
 
 For now `FOUNDER-GOVERNANCE DISSOLUTION PRESSURE` is only a research mechanism, not a new taxonomy label or Claim.
 
+### CASE-057 thatgamecompany — equity capital moves the control surface
+
+thatgamecompany fills the missing `VC / EQUITY-FINANCED CAPABILITY EXPANSION` cell.
+
+After the Sony three-game relationship ended, Benchmark invested $5.5M in 2012 and Benchmark GP Mitch Lasky joined TGC's board. The strategic purpose was not just to extend runway: TGC wanted to move beyond a single publisher/platform relationship and independently develop/release future games to a broader audience. In 2014 an additional $7M round was explicitly tied to scaling development and building self-publishing, marketing and distribution infrastructure.
+
+This creates a useful contrast with CASE-047 / 049 / 052:
+
+- retained earnings can expand capability with founder burn as the main visible cost;
+- publisher/platform money can expand capability while adding project/distribution stakeholders;
+- grants can buy time/capability without equity dilution;
+- **equity capital can permanently internalize company capabilities while adding ownership / board / investor-return / future-financing obligations.**
+
+The key boundary is equally important. Chen said in 2013 that after TGC pitched its vision, the venture investors did not give him creative input. Therefore:
+
+> **Board/equity governance and product creative approval are not the same control surface.**
+
+By Chen's 2024 retrospective, the first $5.5M helped the company grow toward roughly 15 people; self-publishing required internal customer-service, marketing and PR teams; TGC was around 40 people by Sky's launch. But the larger organization and unresolved product direction also exhausted capital, requiring additional fundraising rounds, and Chen says each fundraising trip disrupted development.
+
+So capability expansion has a recursive cost:
+
+`equity capital → capability expansion → higher fixed burn / organization surface → possible next-round dependency → founder fundraising overhead`
+
+This does not make VC bad. It makes the accounting more complete.
+
 ### Other boundaries
 
 - CASE-043 shows redefinition can merely **move** cost: rolling/procedural locomotion deleted conventional animation obligations but created hard systems work.
@@ -373,6 +398,8 @@ This is why some independent games look “strange” relative to industry genre
 - “共同创始人是免费补能力”；
 - “互补共同创始人只要成功做成过产品，治理结构就已经被永久验证”；
 - “grant、publisher、VC 只是同一种钱”；
+- “摆脱发行商以后就等于没有外部控制面”；
+- “board seat 自动等于投资人拥有游戏创意否决权”；
 - “强项越强，越应该让项目无限增加强项相关复杂度”；
 - “自研引擎本身就是 FIT-TRAP”。
 
@@ -385,7 +412,7 @@ This is why some independent games look “strange” relative to industry genre
 2. 把 Lucas Pope / Papers, Please 是否属于此机制重新核：目前更多证据是 disciplined cutting，而非明确以弱项反向立项。
 3. 在 Jonas Tyroller 多项目里寻找同一个人是否越来越显性地做 capability–project matching。
 4. 检验 2020s AI / asset / no-code 环境是否扩大了 creator 可选择的项目集合，从而改变“能力反向立项”的边界。
-5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）+ CASE-052（grant + publisher）已覆盖三种 capability expansion 资本结构；下一步主要缺 **VC/equity-financed** 样本与可观察的 decision-rights / milestone / recoup 数据。
+5. CASE-047（prior-hit self-financed）+ CASE-049（external-capital stack）+ CASE-052（grant + publisher）+ CASE-057（VC/equity）现已覆盖四种 capability expansion 资本结构。下一步不再补“谁融过资”，而是优先寻找**公开 term sheet / board / veto / liquidation / milestone / buyback 等更细 decision-right evidence**，并验证 capital source 是否系统性改变 capability bundle 与 control surface。
 6. CASE-050 Nomada + CASE-056 Playdead 已形成第一组 `CAPABILITY-COMPOSED` 正例 / 治理解体压力对照：互补能力可以把 thesis 变成可执行组织，但 founder-level capability 同时绑定 equity / authorship / authority / exit。下一步优先找一例**显式设计 deadlock / buy-sell / role authority 并长期运作成功**的治理对照，或一例在产品完成前就因 composition/governance 失败的样本。
 7. CASE-051 建立 `FIT-LOCK-IN`；下一步找第二个长期作者/工作室样本，检验成功的 capability fit 是否会系统性提高转型成本。
 8. CASE-055 已建立第一份 deep-tech success-side stop-condition 对照，与 CASE-054 形成首个 failure/success pair；下一步再找一个非 Wube 样本，检验 `enough condition / player-facing obligation / maintenance tail / release closure` 是否可跨工作室复现。
