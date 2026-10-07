@@ -162,3 +162,19 @@ REVENUE SIGNAL
 ## 10. 当前最小结论
 
 > **需求侧不是创作者生态的背景噪音。玩家的经验资本、支付、参与和退出会反馈到资本配置与作者权价格；但玩家的判断能力和choice set本身又受到渠道、商业模式、历史供给、收入、设备和社会化塑造。因此玩家既不能被完全免除因果责任，也不能被当成脱离制度环境的最终原因。**
+
+
+## 11. 鉴赏基础设施：Demand-Side Selection 的生产端
+
+本文件研究“玩家如何选择”，但选择能力本身并非自然给定。新增 [019](019-taste-institutions-player-literacy-creator-selection.md) 后，需求侧研究强制先问：
+
+- 玩家能否接触作品（`ACCESS`）；
+- 谁提供理解/比较语言（`INTERPRETATION`）；
+- 谁让怪作品获得严肃身份（`LEGITIMATION`）；
+- 玩家是否能从消费转为mod/同人/汉化/Game Jam等实践（`PRACTICE`）；
+- 认可是否真正变成作者收到的钱（`TRANSACTION`）；
+- 好作品是否进入下一代reference stock（`MEMORY`）。
+
+尤其禁止把“接触海外精品很多”直接当成“市场会奖励同类本土作者”。中国1990s—2000s的一个重要H恰恰是：
+
+> **Experience Capital 可以通过杂志、盗版、汉化等快速增长，而 Taste-to-Money / Creator Return 仍然很弱。**
