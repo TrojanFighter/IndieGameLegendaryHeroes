@@ -415,6 +415,50 @@ LOW public player-facing authorship
 - publisher是否把个人履历作为融资/发行卖点；
 - 新IP announcement是否因作者名字获得attention。
 
+### `REPUTATION COMPOUNDING RATE / 声誉复利率`
+
+一个更关键的结果变量是：
+
+> **一次成功产生的credit，有多少能降低下一次项目的融资、招聘、发行和玩家获取成本？**
+
+可以写成：
+
+```text
+project success
+→ identifiable personal/team credit
+→ retained reputation
+→ lower next-project uncertainty
+→ cheaper financing / discovery
+→ larger decision rights
+```
+
+若这条链成立，则创作者职业具有复利。
+
+若成功主要沉淀到公司/IP：
+
+```text
+project success
+→ company/IP brand ↑
+→ employee salary / title ↑
+but
+exit → public demand largely resets
+```
+
+这产生：
+
+# `AUTHORSHIP RESET COST / 作者身份重置成本`
+
+> **一个高级从业者离开组织后，需要从多大程度重新证明“我是谁、我能做什么、为什么玩家应该相信我”？**
+
+中国商业游戏体系的一个关键H是：
+- `INDUSTRY REPUTATION COMPOUNDING` 可能很强；
+- `PUBLIC AUTHOR REPUTATION COMPOUNDING` 长期较弱。
+
+这会形成：
+> **强职业经理人/高级制作人才供给 + 相对薄的公开auteur创业资本。**
+
+它与015的 `EXIT_REQUIRED_FOR_AUTHORSHIP` 和020的 `AUTHOR_BRAND_CAPITAL` 直接连接。
+
 ## 8. 中国法律提供了一个有意思的影视对照
 
 中国《著作权法》第17条规定：
