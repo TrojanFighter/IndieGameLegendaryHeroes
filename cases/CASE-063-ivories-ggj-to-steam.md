@@ -33,20 +33,20 @@ last_verified: 2026-10-07
 
 ## 2. Context–Situation–Action Snapshot
 
-### 2.1 Era / Production Regime
+### Era / Production Regime
 
 2021–2025 small PC indie studio ecosystem: Unity-enabled jam prototypes and HTML5/Windows distribution via itch.io; multinational game-jam collaboration, Global Game Jam, local developer meetups, public Steam developer/publisher accounts. Premium boomer-shooter / retro-FPS language recognized on Steam. These tools and outlets existed at the time of action; their costs, platforms' traffic and community conversion cannot be assumed identical in 2026.
 
 **Environment / known constraints:** founder/member job incomes, household obligations, country distribution of members, cost-of-living, Steam fee/revenue split, marketing budget and financial safety net all UNKNOWN. The 2025 self-description states members are spread across countries; exact countries and arrangement not fully verified.
 
-### 2.2 Actor Situation
+### Actor Situation
 
 - Ivories Studios: publicly released The Handbook (Steam 2021-06-04). Prior commercial-shipping and publishing interface already existed **before** the 2024 experiment (E006).
 - The public author account Zeyt8 specifically says it works with a small team and puts jam projects on itch and releases on Ivories Studios Steam (E007).
 - Creator in 2024-12 public announcement reports multiple attempted projects not carried to publication and a possible The Handbook sequel; cannot invent their production costs, lineages or reasons for shelving (E002).
 - Separate 2022–2023 public credits audit confirms repeated collaboration among Bogdan Foca, Jonte Herben and Cosmin Anton on other small games (034); **2025 commercial team-by-person mapping is NOT established**.
 
-### 2.3 Decision Units
+### Action / Maneuver
 
 | Date / window | What was possible / constraint | Action | Observable direct result | Evidence | What cannot be inferred |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@ last_verified: 2026-10-07
 | 2024–2025 | expanded production obligation | add level variety, compounded weapons, speedrun support, in-game leaderboard | launch member describes new scope | E003, E004 | hours, cumulative contributor roster |
 | 2025-03-27 | commercial shipping gate | launch Shake the Baby! by Ivories Studios | Steam official released game | E005, E006 | profit, revenue, founder take-home |
 
-### 2.4 Anachronism Check / causal separation
+### Anachronism Check
 
 Production lineage **is now creator confirmed** by contemporaneous 2024 Dec Steam announcement (E002) and 2025 launch first-person description (E003). Technical and thematic overlap alone was the earlier weak hypothesis; the addition of testimony changes the evidence tier.
 
