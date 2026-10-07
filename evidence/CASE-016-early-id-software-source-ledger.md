@@ -403,6 +403,87 @@ Supports:
 
 Boundary: artifact ownership and museum curation confirm items existed, not household exact income, per-hour practice, payment receipts or psychological causal necessity. Avoid “he succeeded because his parent was abusive”; material help and harm remain separate.
 
+
+## E031 — Kushner 2003: reconciliations before and after DOOM success
+
+- **Class:** S1, researched narrative source based on interviews; author-supplied Chinese EPUB / original English `Masters of Doom`
+- **Edition:** David Kushner, *Masters of Doom*, Random House, 2003, ISBN 9781588362896; official publisher https://www.penguinrandomhouse.com/books/96382/masters-of-doom-by-david-kushner/9781588362896/
+- **Book locator A:** pre-DOOM launch, 1993 Dallas / Outback Steakhouse stepfather John Schuneman apologizes to John Romero for wrongly insisting a career must be business applications rather than games, Romero accepts. Book situates it **after Wolfenstein financial success and before DOOM's Dec 1993 launch**.
+- **Book locator B:** after Keen / Wolfenstein and around Doom success (1992–1994), Carmack's relation with mother Inga improves; the book records that she sometimes plays *Commander Keen* and contrasts her earlier MIT/IBM educational plan against the now-validated game work.
+- **Book locator C:** post-Romero split after Quake, the book compares Carmack's choice to remain a small developer using external distribution to his mother's conservative fiscal tendencies.
+- **Book locator D:** Columbine-era social controversy in **1999**: Schuneman is described defending his son's DOOM against disparagers at a bowling alley, using aggressive language.
+- **Book locator E:** Romero's wish to be a different father from his own, alongside his 1990s divorce and sons living with their mother in California while he works out of state.
+
+**Supports:** chronology and multi-stage family behavior in Kushner's biographical narrative. The 1993 apology is for **occupational judgment**, not clearly separately for childhood physical violence; the 1999 public defense is a *book-reported scene*, not independently verified courtroom/recorded evidence. Carmack's work-style parallel to his mother's fiscal philosophy is a **secondary author's reading**, not a proven psychological causal transmission. Divorce/childcare details are only subject-side or author-described; never speak for the children or spouses.
+
+**Boundary:** S1 scene reconstruction must not be quoted as verbatim P0 or treated as fully corroborated by public direct interviews. No long copyrighted text reproduced in repo.
+
+## E032 — Romero 2023 Shacknews: forgiveness and boundaries in adulthood
+
+- **Class:** P1, subject's retrospective direct interview
+- **Source:** David L. Craddock, `Becoming Doom Guy: John Romero on his memoir and a life in games`, Shacknews, 2023-07-28
+- **URL:** https://www.shacknews.com/article/136450/becoming-doomguy-john-romero-on-his-memoir-and-a-life-in-games
+
+Romero discusses both birth father and stepfather in adulthood, says he personally chooses forgiveness and emphasizes differing ages/experiences, alcohol and stepfather's drill-sergeant background as life context. Crucially he explicitly recalls stepfather abruptly telling him to leave the home, then getting a higher-paying job and moving out; living separately made relations substantially easier. No direct evidence that all specific abuse was separately acknowledged/apologized for by Schuneman.
+
+**Supports:** `PERSONAL FORGIVENESS`, `AUTONOMY/HOUSING BOUNDARY`, not an obligation for every survivor of abusive parenting to reconcile. His self-description cannot by itself establish parents' original intentions.
+
+## E033 — Romero 2023 GamesBeat: two children from the same household remember differently
+
+- **Class:** P1, direct Romero interview; his report of brother's experience **secondhand within P1** (not a first-person interview with Ralph)
+- **Source:** Dean Takahashi, `Making Doom and building the FPS industry at 100 miles per hour`, GamesBeat, 2023-08-14
+- **URL:** https://gamesbeat.com/making-doom-and-building-the-fps-industry-at-100-miles-per-hour-john-romero-interview/
+
+Romero says his brother read *Doom Guy* and remembered their biological father and stepfather in notably different and sometimes warmer ways. Romero welcomes his brother's different account. He also talks about his complex family origins and his later wish to move on without grudges.
+
+**Supports:** multivocal biographical method: even siblings in one household need not share the same memories; the historian must not reconstruct an objectively single “father-child relationship” from one autobiography.
+
+**Boundary:** Ralph has not been interviewed here independently; avoid labeling one brother's account true/false, speculating about memory disorders or psychological diagnoses.
+
+## E034 — Romero 2025 la Repubblica: intergenerational practice change as a father
+
+- **Class:** P1, subject's direct retrospective interview in Italian
+- **Source:** `John Romero, leggenda dei videogame: «Non volevo essere famoso. Poi è arrivato Doom»`, la Repubblica, 2025-11-03
+- **URL:** https://www.repubblica.it/tecnologia/2025/11/03/news/john_romero_doom_videogame_autobiografia_intervista-424956718/
+
+Asked whether he broke the earlier family cycle, Romero says he raises children differently, would not use the physical violence he encountered, and co-plays games with children, daughter, her partner and friends: *Minecraft* and *Dead by Daylight* specifically. This is a reported practice and publicly stated value, **not** externally validated as his whole record as a father.
+
+**Supports:** intergenerational difference in how a parent relates to video game consumption and shared family leisure. Do not erase 1990s childcare/separation costs or imply self-reported parenting creates a moral “success grade”.
+
+## E035 — Romero 2023 on choosing to materially help his family after success
+
+- **Class:** P1 direct subject interview
+- **Source:** Blair Farrell, `Interview: The Legendary John Romero Talks Doom Guy: Life in First Person`, Comic Book Video Games, 2023-07-17
+- **URL:** https://comicbookvideogames.com/2023/07/17/interview-the-legendary-john-romero-talks-doom-guy-life-in-first-person/
+
+Romero discusses giving back to family and community after DOOM financial success despite childhood hardships; he distinguishes the utility of money as enabling continued creative work and as improving others' living situations.
+
+**Supports:** successful adult child may provide material support to parents and community, which is different from the parent finally giving the adult child autonomy, or from full emotional redress.
+
+**Boundary:** no audited transfer amounts, dates or recipients. Cannot assert cash gifts themselves caused a particular apology or reconciled every family conflict.
+
+## E036 — Liang Qiwei, contemporaneous 2010 interview vs 2014 self-account: unstable permission across stages
+
+- **Class:** P0/P1 — participant direct 2010 interview near relevant period, then 2014 retrospective self-account; **not evidence that Chinese parents generally apologize after success**
+- **Source A:** `独立游戏与游戏独立——《雨血》作者访谈`, 《大众软件》by newtype2001, reposted 3DM on 2010-06-02: https://www.3dmgame.com/news/201006/16603_5.html
+- **Source B:** 梁其伟, `《影之刃》制作人：什么促使我走上独立开发者之路`, 触乐 originally 2014-07-29 with author authorization: https://www.chuapp.com/?a=index&c=Article&id=61563
+
+2010:梁称小时候打游戏导致成绩下降、老师找家长；**考上清华后父母便不再过问**，本人已有更多可支配经济资源因而更广泛接触家用机/掌机。2014：母亲一直收藏其童年世界观画册；2007大三制作《雨血》导致挂科/原有保研资格失效，家长与导师等施压，停做约一年，2008留学后复工。
+
+Interpretation: parent permission can change upon **credential success (Tsinghua admission)** and tighten again upon **credential loss (graduate recommendation)**; game playing permission is not identical to full-time game production permission.
+
+**CHRONOLOGY CONFLICT:** 2010 biographical sidebar lists **RPG Maker since 2005; first game public July 2007; complete edition February 2008; Rainblood 2 started July 2008**. 2014 essay says found RPG Maker via 66RPG early 2006, almost untouched project mid-2007 to mid-2008, and major VeryCD public upload 2010. Do not silently harmonize first playable, first public upload, full edition, later republishing and sequel timeline. Locate contemporary 2007/2008 download posts/releases and original screenshots/time metadata. Neither source establishes an eventual parent-to-child apology or deep reconciliation.
+
+## E037 — Parental conditional regard theory, not a retroactive founder diagnosis
+
+- **Class:** P0 scholarly primary empirical article for constructs; NOT a period-specific game founder source
+- **Source:** Avi Assor, Guy Roth, Edward L. Deci, `The Emotional Costs of Parents' Conditional Regard: A Self-Determination Theory Analysis`, *Journal of Personality* 72(1):47–88, 2004
+- **URL:** https://doi.org/10.1111/j.0022-3506.2004.00256.x
+
+Original study examined associations between parental conditional regard and subsequent introjection, self-esteem fluctuation, perceived parental disapproval, resentment and other outcomes. One study involved three generations of mothers/daughters and explored perceived parenting transmission. 
+
+**Strict limit:** changing a rational belief about whether game creation pays after seeing a real salary or sales is not necessarily affection conditional on achievements. It takes direct household evidence to classify emotional conditional regard. No attempt to clinically label Schuneman, Inga, Liang's family, or any Chinese group. The empirical population cannot provide creator-specific frequency or causal effect without new designs.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
