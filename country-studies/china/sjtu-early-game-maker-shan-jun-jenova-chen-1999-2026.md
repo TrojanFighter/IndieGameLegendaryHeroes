@@ -66,6 +66,16 @@
 
 **P1 2026-07 4Gamer 20周年访谈**：陈星汉称自己20年前的目标——让社会将游戏尊重为艺术形式——尚未完全达成；报道转述《Sky》全球累计下载超过3亿，属于报道/公司对外口径，不能误当审计用户或收入。20年后仍在同一设计问题域持续迭代是有效长线能力证据。
 
+## 3.5. 必须增加的家庭内部对照：单隽与哥哥单晖（非交大同学组）
+
+**S1 2015年单隽传记**：提到其哥哥单晖（与单隽讨论过机器人战术游戏）后来任《天天酷跑》制作人；这是**兄弟关系证据，尚未核两人在父母离异后的实际同住、经济支持与职业成长环境**，不能假定二人有完全相同家庭待遇。
+
+**P1 2014-12《天天酷跑》团队现场采访**：制作人单晖明确说，即使完全去掉奖励、成长线和单局回报，也应验证基本操作手感和玩法闭环的独立乐趣；团队据腾讯数据迭代。最初约13—14人，2013年3—8月完成约5个月可上线版本，长期运营时扩至40多人。运营负责人同期承认腾讯社交平台是启动扩散和付费能力的关键，并否认作品脱离平台也必然取得相同成绩。**作者懂核心玩法、利用既有品类benchmark与平台流量成功，在同一个案例中可以同时成立**，不应把商业设计者全写为不懂游戏的资本傀儡。
+
+**S1 2025年天美组织调整新闻**：单晖出任整合后的天美T1工作室负责人，项目能力和组织权力持续积累；需进一步核官方组织文件、本人从2006入腾讯至2025的真实职务履历及具体作品署名。
+
+**理论价值**：除了单隽—陈星汉跨制度配对，现在还有**单隽—单晖同家族、不同组织轨道**：一个追动作原创与海外买断，几次创业仍遭发行/现金/收束问题；一个在腾讯大平台利用跑酷benchmark、核心手感、社交分发与长线组织获得成绩。这降低了将所有命运差异直接归结于出生国/家庭性格的诱惑。但兄弟亦有个性、时间、专业技能与资源差异，不能当严格家庭控制实验。后续应研究兄弟关系在具体职业机会/工具/项目建议上的真实互助是否存在。
+
 ## 4. 配对比较：谁替作者承受试错的损失？
 
 | 维度 | 单隽在国内/国际平台路径 | 陈星汉在USC/Sony/VC路径 |
@@ -116,6 +126,8 @@
 - [P1] 2025-09-09 Chen《Gaming Founders Podcast》父亲阻力、卖房资助赴USC及从动画转互动媒体的回忆（播客原始节目） https://podcasts.apple.com/ch/podcast/part-i-gamings-emotional-blind-spot-jenova-chens-strategy/id1672081790?i=1000725697170
 - [P1 transcript] 2025同场访谈机器转录文本（用以定位近似时间戳，关键金额须复听录音） https://podscan.fm/podcasts/the-gaming-founders-podcast/episodes/part-i-gamings-emotional-blind-spot-jenova-chens-strategy-behind-making-journey-and-sky
 - [P0] USC 2012校方对《Cloud》约20000美元学生资助与陈星汉创作起点的记录 https://annenberg.usc.edu/news/published/drive-unite-technology-and-creativity-forefront-10th-chinese-internet-research
+- [P1] 2014-12《天天酷跑》制作人单晖与运营团队实访（纯玩法核验、腾讯分发、团队人数） https://www.youxiguancha.com/sixiangguandian/9259.html
+- [S1] 2025-01天美工作室群组织重组及单晖T1负责人身份 https://www.cgames.com/contents/2/6070.html
 - [P1] 2013 Chen GamesBeat破产/版税采访 https://gamesbeat.com/an-interview-with-jenova-chen-how-journeys-creator-went-bankrupt-and-won-game-of-the-year/
 - [P1] 2013 Chen关于Sony权利与创作自主访谈 https://www.engadget.com/2013-03-12-thatinterview-with-thatgamecompany-co-founder-jenova-chen.html
 - [P0/S1] 2012 Benchmark 550万美元融资报道 https://gamesbeat.com/indie-game-maker-thatgamecompany-raises-5-5m-to-hit-wider-audiences/
