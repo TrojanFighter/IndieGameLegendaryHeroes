@@ -83,6 +83,21 @@ URL: https://game.udn.com/game/story/122090/8129682
 - Steam官方页显示开发者为 Obb Studio Inc.，发行商为 Paras Games 与 Obb Studio Inc.：https://store.steampowered.com/app/1859910/Legend_of_Mortal/
 - UNKNOWN：Paras的预付款、收入分成、地区权利、营销/本地化义务及决策权；这些必须在正式Case前补证。
 
+## A4.5. 2021独立游戏开发奖励：必须进入Runway账本
+
+政府公开资料确认《活侠传》为2021年度“独立游戏开发奖励计划”8个获奖项目之一。经济部预算表对同一2021-06-01核准事项先记录NT$520,000，后续汇总表列为NT$780,000并标奖励金。
+
+来源：
+- https://digiblockc.tca.org.tw/news/d645920e395fedad7bbbed0eca3fe2e0
+- https://www.ida.gov.tw/ctlr?PRO=filepath.DownloadFile&f=executive&id=17642&t=f
+- https://www.ida.gov.tw/ctlr?PRO=filepath.DownloadFile&f=executive&id=18784&t=f
+
+当前处理：
+- 不能再把《活侠传》写成纯私人积蓄/两人自筹；
+- 也不能写“2021一次拿到78万”，因为52→78万的拨款/累计机制尚未核；
+- 总开发预算未知，因此奖励金对runway贡献比例UNKNOWN；
+- 该奖励发生在公司2020-12-28登记之后、2024发售之前，属于早期production资金的一部分。
+
 ## A5. 原始鸟熊当前还缺什么
 
 正式Case前至少补：
@@ -152,6 +167,29 @@ E01还记录：
 
 这与本仓库“Market Interface Is Production”命题高度相关。
 
+## B3.5. 众筹之前已经有项目投资，而且它改变了全职状态
+
+2020-05-18 TAICCA官方资料确认：文策院与贝壳放大共同投资“天使放大”IP项目投资公司；天使放大首波合作标的包含Team9《文字游戏》。
+
+https://www.taicca.tw/latest_news/news/detail/318
+
+同期中央社进一步说明天使放大的机制是“单项专案收益分成/作品发行后权利金抽成”，因此这不是普通补助。具体《文字游戏》投资额、分润比例、期限、是否持股仍UNKNOWN。
+
+https://www.cna.com.tw/news/acul/202005180205.aspx
+
+更关键的是，2020同期报道引述负责人张文韦表示，这笔投资让原本业余投入的成员能够转为全职。  
+https://www.businesstoday.com.tw/article/category/183015/post/202005180036/
+
+因此Team9的runway顺序至少应记录为：
+
+跨行业/接案劳动
+→ 2020-03-02公司登记
+→ 2020天使放大项目投资，出现从业余转全职的直接证词
+→ 2020-11至2021-02众筹
+→ 2022正式发售
+
+这直接修正“5个接案者靠众筹把游戏做出来”的过度简化版本。
+
 ## B4. 众筹数字必须拆开，不得把“324倍达标”写成神话
 
 **TEAM9-E03｜嘖嘖项目页（P0）**  
@@ -172,6 +210,14 @@ URL: https://www.zeczec.com/projects/wordgame
 - 众筹是否让成员转为全职、持续多久。
 
 2021映CG采访的“超过目标20倍”只是采访当时的阶段性进度或不同时间截面，不能与最终约324倍混作冲突结论。
+
+## B4.5. 同一团队后来的制度资金说明“支持”并不等于无条件补助
+
+2025 TAICCA“VR游戏开发/国际平台商业验证”计划从11件合格提案中选3件，每案支持NT$1.2m；Team9《A Black Climbing Dog LITE》入选。
+
+https://taicca.tw/latest_news/plan_bulletin/detail/362?industrys%5B0%5D=5
+
+规则同时要求至少NT$600k自备资金，并绑定Astrea/Meta商业验证与分润。它是Team9成功后的后续资本工具，不得反推为《文字游戏》早期成功原因。
 
 ## B5. 当前人生审计最关键的UNKNOWN
 
