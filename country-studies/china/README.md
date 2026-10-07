@@ -31,6 +31,11 @@
 - [NExT portfolio 效率审计](../../book/research-notes/next-studios-portfolio-efficiency-audit-014.md)
 - [本轮 provenance closeout](../../book/research-notes/china-indie-source-intake-closeout-015.md)
 
+## 1.5. 俄罗斯／后苏联核心对照组：跨制度十维矩阵（2026-10-07）
+
+- [俄／后苏联—中国游戏产业制度对照（1995—2026）](russia-china-game-industry-regime-comparison-1995-2026.md)：国内外收入、GaaS/F2P/P2W、长短期能力复利、原创/benchmark、技术与涌现、投资者专业化和政府资助效果。按证据等级保留未知分母，明确俄国 Playrix 与中国《戴森球计划》、Gamera Games 等反例。
+- 对应俄罗斯侧原始档案仍在 [SLAVIC-009—014](../../sister-projects/slavic/evidence/README.md)，不复制两份主账；中国线只保留对照矩阵、中文史料与尚待验证的国别比较命题。
+
 ## 2. Experience Capital / Demand Discovery 假说线
 
 作者旧文中关于“体验水平 / 有效需求 / 技术价值”的判断不直接升级为本书结论，统一先进入可证伪的 hypothesis intake：
