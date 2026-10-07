@@ -46,6 +46,8 @@
 
 入口：[country-studies/china](country-studies/china/)
 
+比较支线：[台湾游戏产业与两岸创作者对照](country-studies/taiwan/README.md)（先从1995—2005同期市场/发行/研发来源审计出发；不是第五篇，也不能用明星人物当国别统计样本）。
+
 核心问题不是抽象地问“中国人有没有创造力”，而是重建：
 
 1. 中国游戏产业怎样从盗版 / 网吧 / 代理 → 网游 → F2P / 虚拟商品 → 手游 / 渠道 / 买量 → Steam / premium PC 演化；
