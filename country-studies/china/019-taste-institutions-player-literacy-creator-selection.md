@@ -500,6 +500,61 @@ domestic premium developer
 - 是否能把taste转成creation；
 - 是否只是一个高门槛亚文化。
 
+## 8.2 `AUDIENCE_PORTABILITY / 受众可迁移性`
+
+如果本国收入结构不能支持某类作者性，创作者并非只有“改造自己适应本国市场”这一条路。
+
+另一条是：
+
+> **把作品带去另一个更愿意为这种taste付钱的市场。**
+
+定义：
+
+`AUDIENCE_PORTABILITY` = 一个创作者/团队能否跨越本国的渠道、语言、支付与审美制度，直接触达另一组愿意购买其作品的玩家。
+
+这提供第三种解决 `TASTE_REVENUE_MISALIGNMENT` 的方法：
+
+1. 改变本国玩家taste；
+2. 改变本国商业/分发制度；
+3. **换市场。**
+
+这对斯拉夫比较尤其重要。现有 [AC-002 中国/俄罗斯产业结构对照](../../author-corpus/AC-002-china-russia-industry-structure.md) 已把“本国购买力/盗版压力是否迫使开发者更早考虑海外用户”列为待证H；斯拉夫篇也明确把“国际市场导向如何形成”列为主干问题。
+
+因此当前只保留比较H：
+
+> **若本国premium回报弱，但团队拥有较高 `AUDIENCE_PORTABILITY`，则它可能通过海外发行保持作者型产品；若 `AUDIENCE_PORTABILITY` 也低，则团队更可能转向本国最强收入接口。**
+
+这可以帮助比较：
+- 2000s中国：本地premium弱 + 海外发行/语言/品牌/渠道能力也弱；
+- 斯拉夫团队：本地购买力弱，但部分工作室较早把西方PC市场视为主市场；
+- 2020s中国indie/premium：Steam与全球publisher显著提高受众可迁移性。
+
+但禁止把“俄罗斯出海早”直接归因于民族性或贫穷；需要实际国别收入、发行合同、语言版本和团队访谈支撑。
+
+### `TASTE-MARKET SPLIT / 鉴赏市场分裂`
+
+由以上变量可定义一种特殊结构：
+
+```text
+Group A:
+high reference breadth
++ strong criticism / prestige
++ weak revenue weight
+
+Group B:
+different taste structure
++ strong monetization weight
++ determines commercial roadmap
+```
+
+如果A、B长期不是同一群体，就会出现作者旧稿所谓“审美割裂”：
+- 创作者精神上想服务A；
+- 工资和项目资源来自B；
+- 资方用B的收入证明自己“更懂市场”；
+- A又用全球benchmark证明产品“很差”。
+
+这是一种结构性冲突，不应简化成任何一方道德低劣。
+
 ## 9. 新核心概念：`TASTE-TO-CREATION CONVERSION RATE`
 
 另一个问题：
