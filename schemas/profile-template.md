@@ -63,6 +63,13 @@ Anchors: [family gate US-China research 027](../book/research-notes/family-gates
 - 询问成年主创自己的伴侣、子女、家务照护成本，避免把男人的长期工作时数写成全家无成本投入；保护未公开家属隐私。
 - **最有力的反例**：没有成功仍获得父母尊重、商业成功却始终没有修复关系、父母认错但行为控制不变、成熟孩子拒绝和解却正常生活。
 
+**补入严苛反压力 [034](../book/research-notes/family-acceptance-non-success-countercases-034.md)：** 在所有成年主创 Profile 的家庭/职业段落里，必须把 `PARENTAL_KNOWLEDGE`（是否知道项目是什么）、`NORMATIVE_PERMISSION`（是否允许做）、`CAREER_CREDIBILITY`（是否认为养得活）、`RELATIONAL_APPROVAL`（是否尊重）、`MATERIAL_CROSS_SUBSIDY`（谁出工资/房/照护）、`PAST_HARM_ACCOUNTABILITY`（旧伤害是否得到承认）分开。`YES/MIXED/NO/UNKNOWN`+时间和来源比一句“家里支持”有价值；不用未经验证的0–100打分。
+
+- **成功不保证被认可：** Croshaw 2011本人AMA（游戏评论职业知名，但父母仍要求其上大学）只能证明某一年、某份数字媒体职业的本人感受，不能说截至今天家长依旧不认可，更不能把游戏媒体业绩偷换成商业游戏成功。
+- **经济支援不等于作品完成：** Keith Judge 2011–2013复盘，储蓄/妻子工资维持两孩房贷仍未完成原独立项目；妻子收入是物质事实，不是其情感支持的直接证据。
+- **初期毁画与晚期保留应同时写：** 2016记者对梁其伟的采访记录童年某些漫画/手绘被毁，成年后母亲珍藏幸存本，且功成名就仍不清楚他具体做什么；不能以2014本人“母亲收画册”制造自小无条件支持。
+- **同一家庭成年人并非一个意见体：** Bithell父母限制普通游戏，父亲又曾私下带DOOM进家。此例来自2014 Guardian采访编辑转述，而非可定位的一手逐字稿。
+
 来源边界：真实对话若仅见于多年后传记只能标S1、不能伪装同期录音。例见 [DOOM代际和解审计 032](../book/research-notes/doom-intergenerational-reconciliation-032.md) E031–E037。心理学的条件性认可概念不能直接给历史人物做心理诊断。
 
 ## 2. Life Crossroads / 人生关键岔路
