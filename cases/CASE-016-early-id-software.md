@@ -65,6 +65,18 @@ Romero 继父早年强制反对其玩街机且有肢体暴力（书中S1、Romer
 
 **不得把个人成功倒推为其家庭管制有益，更不得把任何暴力浪漫化。** 家庭入口影响哪些能力有机会形成，独立于正式项目的能力—产品适配；全国技术拥有率/少年玩家比率不能直接推断这些人家庭收入，也不能直接同中国代际研究算“文化优劣”。
 
+## Family reconciliation is a longitudinal cost/reward event (not a founder-success trophy)
+
+[Kushner family reconciliation audit 031](../book/research-notes/doom-intergenerational-reconciliation-031.md) / Ledger E031–E037 extends the 1980s childhood access record into family evaluation **after commercial validation**:
+
+- **Before DOOM launch / 1993:** Romero stepfather Schuneman acknowledges he was wrong to push business software rather than games after Keen/Wolf financial evidence; Romero accepts apology (Kushner S1 reconstructed scene). **Career prediction admitted wrong ≠ every instance of childhood physical abuse apologized for or healed**.
+- **1992–1994:** Carmack and mother Inga become closer after Keen/Wolf; she is described as playing Keen; source S1. His later small-studio fiscal restraint is not causally proven to come from her conservative philosophy, but selective inheritance is an important hypothesis.
+- **1999:** Kushner S1 describes Schuneman defending DOOM when accused of inspiring school violence; aggressive threats persist. Public alliance changed while conflict style not necessarily transformed; independent witness missing.
+- **2023/2025:** Romero himself discusses adult forgiveness/housing boundaries, sibling's different memories (reported secondhand), helping relatives after success, and as a father co-playing Minecraft/Dead by Daylight with children rather than repeating physical punishment. **His early first-family separation and custody/care workload remain nontrivial unknowns**, so avoid perfect-parent restoration.
+- **Cross-national comparator:** Liang Qiwei 2010 says family stopped intervening in game consumption once he entered Tsinghua; 2014 says parents pressured him after a 2007 failed course/cancelled graduate recommendation. No demonstrated later parental apology in sources. Tool/project-date disagreement 2010 vs 2014 remains OPEN, see [030](../book/research-notes/family-gate-china-near-miss-liang-qiwei-030.md).
+
+A biography must end after the product success, not because **money purchases a morally clean ending**, but because success can change parents' beliefs, adult autonomy and childcare conditions while earlier costs remain. This is longitudinal mechanism analysis, no formal prevalence inference.
+
 ## Runway / Cross-Subsidy
 
 Commander Keen 的最初生产并不是“辞职创业后再找钱”：
