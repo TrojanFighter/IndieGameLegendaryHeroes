@@ -153,6 +153,10 @@ Chapter 不再问：
 - [中国独立创作“三座大山”](../author-corpus/AC-004-china-three-mountains.md)；
 - [追赶成功、前范式创作者与问题主权](research-notes/china-catch-up-success-pre-paradigm-creator-016.md)。
 
+新增研究入口：
+- [early id → Ion Storm：真理之盾何时变成反馈绝缘](research-notes/truth-shield-to-narcissism-shield-ion-storm-governance-041.md) — Romero本人承认成功公式迁移错误；用Dallas/Austin、Deus Ex、Exit/Voice/Loyalty解释高自治为什么需要清晰责任链与收敛机制。
+- [early id：战略性不忠诚、未来选择权与美国个人主义](research-notes/early-id-strategic-disloyalty-american-individualism-040.md) — Softdisk→Apogee/shareware→Sierra报价：个人主义只降低偏离成本，真正让偏离可执行的是outside option和直接市场；与日本`FRONTIER_EXEMPTION / BOUNDED_ECCENTRICITY`形成 exit-based vs slot-based 保护异端的对照。
+
 边界：
 > “春登”只允许作为成功路径版本锁定的 H-layer 工作标签；同一机制可以出现在年轻人、欧美 AAA 老兵或任何被旧成功高额奖励的人身上。
 

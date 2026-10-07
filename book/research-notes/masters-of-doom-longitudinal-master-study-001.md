@@ -75,6 +75,20 @@ Romero 2023 GamesBeat 直接谈到 Daikatana 中途由 Quake 向 Quake II 改引
 
 对于读者：程序员从 Carmack/Limit Theory 看 frontier 与停手；关卡策划从 Romero 看设计与工具往返；互补创业者看 founding complementarity 与 governance compatibility；第一次成功的人看如何把新现金变成选择权，而不是更大固定承诺。对应全书 Part IV 与 Part VI。
 
+## 六点五、从Softdisk到Sierra：early id的连续优势也可解释为“保护下一阶段选择权”
+
+[040](early-id-strategic-disloyalty-american-individualism-040.md)把此前零散决策连成一条更精确的纵向变量：`OPTIONALITY PROTECTION × AUTHORITY DISCOUNTING × REVERSIBLE LOYALTY`。
+
+1990–1993，团队先后不把Softdisk稳定身份、Keen成功系列、传统publisher地位和Sierra收购报价视为不可撤销的历史权利。最强解释不是“他们天生反叛”，而是**每次都有越来越强的外部验证和outside option**：Keen/shareware现金、3D原型、直接用户市场，让切割旧安排不再只是性格姿态。Sierra案例尤其证明id并非原则上拒售，而是在对未来价值和decision rights定价。
+
+但这条能力在Quake以后可能出现反噬：**如果高切割能力不再伴随同等强的产品判断/反馈，组织关系资本会被过快耗散**。Ion Storm可作为“相信自己+放大自由”并非自动正确的后段压力样本。这个倒U关系目前是H级框架，不升级为Claim。
+
+## 六点七、“真理之盾”并非人格常数：Ion Storm是对early id方法的规模反例
+
+新增 [041](truth-shield-to-narcissism-shield-ion-storm-governance-041.md)。Romero 2023本人明确承认：Ion Storm的整体formula已经改变，而自己没有相应改变方法；过去在id获得成功所依赖的团队、技术、决策方式与环境不能直接搬过去。
+
+Deus Ex是最重要的内部控制：同样的Ion Storm资本与“design autonomy”理念，在Austin由Warren Spector形成更清晰的项目责任链并最终收敛；所以不能把Dallas问题归结为“创作自由太多”。新的纵向变量是`FEEDBACK_INTEGRITY / COMPLEMENT_DEPENDENCE / SCALE_DISCONTINUITY / DECISION_RIGHT_ACCOUNTABILITY`。
+
 ## 七、待核证据优先级
 
 1. Quake 原型转向、引擎/关卡返工、谁有最终裁决权及 Romero 退出的多方直接版本。
