@@ -64,6 +64,21 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 
 但它只是一组理论和经验文献，不是中国游戏创新差距的总钥匙。任何引用都要区分国家、地区、代际和阶层，区分心理测量与真实产业行为，并寻找东亚内部与西方内部反例。
 
+### 4.1 美国early id：个人主义不是答案，**异端判断的存活成本**才是可比较变量
+
+新增 [040 — early id战略性不忠诚、美国个人主义与Sierra未收购](../../book/research-notes/early-id-strategic-disloyalty-american-individualism-040.md)。
+
+当前裁决：
+- 美国的WEIRD/autonomy、frontier/rugged individualism与职业流动可能降低**离开雇主/权威/既有成功**的社会成本，但没有证据说明Romero/Carmack本人以American exceptionalism或“神选美国”解释公司决策。
+- Bellah的American civil religion（Exodus/Chosen People/Promised Land/共和实验）与“旧世界权威可被重新建制”的创业神话存在叙事同构，暂为**远端文化H层**，不是early id人物动机。
+- 更接近人物的机制是**shareware/开放PC/直接用户市场**：outside option把“不服权威”转换为可执行exit和真实议价权。Sierra 1992案例显示id不是原则拒绝资本，而是重新定价future upside与decision rights。
+- 日本现有`BOUNDED_ECCENTRICITY`是必要反例：不必让全民变成美国式个人主义者；也可通过公司内作者位、prototype、同人圈与独立发行建立异端的保护槽位。
+
+因此中国研究后续优先问：
+> **尚未被证明正确的不同判断，能否在家庭/学校/公司/平台之外找到低成本prototype、第二市场、退出与再入场接口？**
+
+而不是把“缺个人主义”当作总因果。
+
 ## 4.5 非媒体发现样本｜首个 Public-Attempt Pilot（WIP）
 
 媒体采访/明星 Case 只能支撑具体人生与项目机制，不可推出中美从业者平均行为。新增：
