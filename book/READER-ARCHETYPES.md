@@ -97,6 +97,7 @@ Nomada 的关键不是“Conrad Roset 画得好”，而是：
 - [CASE-035 Factorio / Wube](../cases/CASE-035-factorio-wube.md) — 程序能力 + 系统型产品 + paid-alpha feedback loop；
 - [CASE-051 Zachtronics / Zach Barth](../cases/CASE-051-zachtronics.md) — 把 engineering literacy 直接做成玩家语言，并观察长期成功的 fit 如何反过来形成 `FIT-LOCK-IN`。
 - [CASE-058 Spiderweb Software / Jeff Vogel](../cases/CASE-058-spiderweb-fit-lock-in.md) — 第二个异质 `FIT-LOCK-IN`：几十年 CRPG engine/assets/audience/back-catalog 复利，让同类作品越来越便宜，也让转型同时支付生产 reset 与 audience replacement cost。
+- [CASE-060 Croteam / Serious Sam → The Talos Principle → UE5](../cases/CASE-060-croteam-staged-lockin-escape.md) — 成熟 FPS/自研引擎团队怎样**先保持技术底座而重写玩法**，再在多年后更换 engine 而保留新 IP grammar；用于区分成功型转型与 Subset 那种第一次 hit 后的防锁定。
 - [CASE-053 Kenny Sun / Circa Infinity → BALL x PIT](../cases/CASE-053-kenny-sun.md) — 如果你的问题不是“程序员最适合做什么”，而是“怎样让今天的程序能力经过连续出货，逐步长成 generalist / author / team-lead capability”，优先看这个纵向样本。
 - [CASE-054 Limit Theory / Josh Parnell](../cases/CASE-054-limit-theory-fit-trap.md) — 反例入口：技术能力极强时，如何出现 `engine completeness ↑ / game completeness ↔`，最终把最强能力变成 FIT-TRAP。
 
