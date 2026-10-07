@@ -94,6 +94,14 @@ Deus Ex是最重要的内部控制：同样的Ion Storm资本与“design autono
 [042](carmack-romero-complementary-error-correction-network-042.md)把二人关系从“Carmack技术 + Romero设计”升级为事件级纠错网络：Dangerous Dave显示技术突破需要战略解释；Wolf3D push walls显示设计端可迫使工程洁癖让步；Doom时期Romero本人称自己是design与Carmack之间的glue；Quake时期则出现共同artifact与反馈延迟拉长，互补逐渐转为互相归因。
 
 同时必须保留Tom Hall等第三顶点与Playdead CASE-056反例。当前更强模型是：CAPABILITY COMPOSITION → EPISTEMIC CORRECTION → GOVERNANCE DURABILITY 三层分别审计，不能用产品成功替代后两层。
+## 六点十、组织也会“后发化”：Doom 4 → DOOM 2016 的问题主权重建
+
+新增 [043 — 从答案追赶到问题主权](doom-organizational-aging-rejuvenation-043.md)。它把本纵向案例继续推进到 mature id：曾经创造 FPS 语法的组织，在 Doom 4 阶段也可能被当代成功 shooter 的既有答案俘获；2016 的关键不是简单“复古”，而是重新以 push-forward combat / combat chess / make me think, make me move 定义问题，再用持续 playtest 和删改让现实裁决具体机制。
+
+043 暂定的组织变量包括：PROBLEM SOVEREIGNTY、REALITY ARBITRATION、BENCHMARK CAPTURE、SUNK-COST KILL CAPACITY、PROTECTED HERESY、SELECTIVE INSTITUTIONAL AMNESIA 与 INVARIANT RECOMPOSITION。杨小凯/林毅夫“后发优势—后发劣势”争论只作为模式切换的类比背景，不直接升级成游戏产业因果。
+
+这个延长段把 id 从“创新英雄”改造成完整生命周期样本：**产生答案 → 成功与制度化 → 创始人栈失效/能力偏科 → 学习外部标准答案 → 重新夺回问题定义权**。下一步用 Eternal 与 The Dark Ages 检验：2016 的新理论是否会再次教条化，以及组织是否仍能推翻自己刚建立的成功公式。
+
 ## 七、待核证据优先级
 
 1. Quake 原型转向、引擎/关卡返工、谁有最终裁决权及 Romero 退出的多方直接版本。
@@ -102,6 +110,9 @@ Deus Ex是最重要的内部控制：同样的Ion Storm资本与“design autono
 4. Daikatana 改引擎的时间/工时成本与 Deus Ex 生产数据，形成可比较样本。
 5. DOOM 具体技术—game grammar—玩家反馈链，以及当年的真实销量与 mod 职业通道的偏差。
 6. 另外找“有先进技术但没有产品闭环”以及“产品创新不依靠新技术”的同时代对照。
+7. Rage 的技术目标、产品目标和组织结构一手材料，避免把评论口碑误写成“技术强/产品弱”的因果。
+8. Doom 4 reboot 的 kill-right / decision chain：id、ZeniMax、Bethesda 各自的实际权限、预算与人员迁移。
+9. DOOM Eternal → The Dark Ages：资源循环、玩家 agency、Eternal 反馈与 Dark Ages 方向变化的直接开发者证据。
 
 ## 来源与章节定位
 
