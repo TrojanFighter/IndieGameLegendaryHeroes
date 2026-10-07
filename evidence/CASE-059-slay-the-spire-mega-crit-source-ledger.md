@@ -9,7 +9,8 @@
 - Source class: P1 — direct contemporaneous interview with Casey Yano and Anthony Giovannetti.
 - Title: Seattle Indies Spotlight: Mega Crit Games.
 - Institution: Seattle Indies.
-- Published: 2017.
+- Published: UNKNOWN.
+- Accessed: 2026-10-07.
 - URL: https://seattleindies.org/seattle-indies-spotlight-mega-crit-games/
 - Claim use:
   - Casey and Anthony knew each other from UW Bothell;
@@ -29,7 +30,8 @@
 - Source class: P1 — direct Anthony Giovannetti account.
 - Title: Road to the IGF: Mega Crit Games' Slay the Spire.
 - Institution: Game Developer.
-- Published: 2020.
+- Published: 2020-01-22.
+- Accessed: 2026-10-07.
 - URL: https://www.gamedeveloper.com/game-platforms/road-to-the-igf-mega-crit-games-i-slay-the-spire-i-
 - Claim use:
   - Anthony led design and programming;
@@ -47,7 +49,9 @@
 
 - Source class: P0/P1 — official GDC session by Anthony Giovannetti.
 - Title: Slay the Spire: Metrics Driven Design and Balance.
-- Institution: GDC.
+- Author / Institution: Anthony Giovannetti / GDC.
+- Published: UNKNOWN.
+- Accessed: 2026-10-07.
 - URL: https://www.gdcvault.com/play/1025731/
 - Claim use:
   - Mega Crit used metric-driven design early;
@@ -61,8 +65,9 @@
 
 - Source class: P1 — direct Mega Crit interview.
 - Title: How Slay the Spire's devs use data to balance their roguelike deck-builder.
-- Institution: Game Developer.
-- Published: 2018.
+- Author / Institution: Game Developer Staff / Game Developer.
+- Published: 2018-02-27.
+- Accessed: 2026-10-07.
 - URL: https://www.gamedeveloper.com/design/how-i-slay-the-spire-i-s-devs-use-data-to-balance-their-roguelike-deck-builder
 - Claim use:
   - early prototype testing included experienced card/Netrunner players;
@@ -77,7 +82,9 @@
 
 - Source class: P0/P1 — official GDC session by Casey Yano.
 - Title: Slay the Spire: Success through Marketability.
-- Institution: GDC.
+- Author / Institution: Casey Yano / GDC.
+- Published: UNKNOWN.
+- Accessed: 2026-10-07.
 - URL: https://www.gdcvault.com/play/1026463/
 - Claim use:
   - Early Access began 2017-11-14;
@@ -92,7 +99,9 @@
 
 - Source class: P0 — official studio press kit.
 - Title: Slay the Spire — Mega Crit Games.
-- Institution: Mega Crit.
+- Author / Institution: Mega Crit.
+- Published: UNKNOWN.
+- Accessed: 2026-10-07.
 - URL: https://www.megacrit.com/press-kits/slay-the-spire/
 - Claim use:
   - Mega Crit founded by Anthony Giovannetti and Casey Yano;
@@ -105,7 +114,10 @@
 ## E007 — AIAS / D.I.C.E. credit confirmation
 
 - Source class: P0 — industry academy credits.
-- Institution: Academy of Interactive Arts & Sciences.
+- Title: Slay the Spire.
+- Author / Institution: Academy of Interactive Arts & Sciences.
+- Published: UNKNOWN.
+- Accessed: 2026-10-07.
 - URL: https://www.interactive.org/games/video_game_details.asp?idAward=2020&idGame=1718
 - Claim use:
   - Casey Yano and Anthony Giovannetti credited as producers / creative directors / game directors / lead designers for Slay the Spire.
@@ -117,6 +129,9 @@
 
 - Source class: P1 — direct interview/transcript.
 - Title: Mastery and Learning through Games (Anthony Giovannetti).
+- Author / Institution: Henry Zhu / Hope in Source.
+- Published: 2019-06-21.
+- Accessed: 2026-10-07.
 - URL: https://hopeinsource.com/games/
 - Claim use:
   - Anthony directly states he ran a board game store for a long time and sold Magic cards;
