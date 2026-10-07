@@ -1,4 +1,4 @@
-# 021 — 创作者成功以后，会不会变成下一代人的基础设施？椰岛 × 鹰角 / 开拓芯
+# 021 — 创作者成功以后，会不会变成下一代人的基础设施？椰岛 × 莉莉丝 × 鹰角 / 开拓芯
 
 - Program: C / 中国国情研究 × 创作者路网自我繁殖
 - Status: MECHANISM COMPARATOR / CURRENT INSTITUTIONAL EVIDENCE / NO NATIONAL RATE
