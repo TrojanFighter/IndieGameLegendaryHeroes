@@ -286,6 +286,25 @@ play / fascination
 
 ---
 
+## 8.6. Creator Life / Decision Audit
+
+当人物材料足够时，Profile 应从 Case 中继承 [`creator-life-decision-audit.md`](creator-life-decision-audit.md) 的关键结论，而不是另行编故事。
+
+至少把以下条件写清：
+
+- household structure；
+- cash runway；
+- hidden domestic / care labor；
+- exit / reemployment option；
+- capability vector；
+- problem ownership；
+- validation architecture；
+- market sufficiency / legibility。
+
+如果 Case 仍为 `UNKNOWN`，Profile 也必须保持未知。
+
+Profile 的职责是把这些条件写成可理解的人生处境，不是为了戏剧性把“伴侣支持”“裸辞”“有储蓄”压成励志标签。
+
 ## 9. Hidden Supports and Costs
 
 传记不能只写个人意志。
