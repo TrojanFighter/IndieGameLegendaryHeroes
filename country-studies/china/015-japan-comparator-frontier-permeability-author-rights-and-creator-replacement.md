@@ -197,6 +197,19 @@ Source:
 
 问题转成：这个新生态能不能留下足够多的**第二次尝试团队**，而不只是出现一批首作和少数爆款。
 
+## 2.5 日本004之后的重要修正：中国也有长期旁路史，差异更可能在“连续性”而非“存在性”
+
+新增 [016 中国创作者路网](016-creator-route-topology-from-66rpg-to-modern-bridges.md) 后，不能再把中日对照写成“日本有同人/旁路，中国没有”。66RPG 2005–2017已形成大规模草根创作共同体，IGF China 2009、GGJ约2011、CiGA/indiePlay/GWB 2015后、China Hero 2016后、TapTap Spotlight 2023后持续增加外部入口。
+
+更有辨识力的比较改为：
+- `ROUTE_HALF_LIFE`：基础设施能连续服务多少代创作者；
+- `BRIDGE_CONVERSION_STABILITY`：作品/原型能否稳定进入资金与市场；
+- `ROUTE_SWITCHABILITY`：第一条路被堵后能否换第二条；
+- `ROUTE_REVERSIBILITY`：失败后能否回就业/再独立；
+- `SECOND_GENERATION_CREATOR_PRODUCTION`：第一代受益者是否开始扶持下一代。
+
+当前H：日本部分路线更像长期累积；中国多次经历市场/平台/监管/商业regime重写后发生断裂或转形。**这仍是历史结构假说，不是国别发生率结论。**
+
 ## 3. 第一版中日结构对照：不是“谁自由”，而是作者权的空间位置不同
 
 | Dimension | 日本黄金时代假说 | 中国历史上更常见的模式 | Current status |
