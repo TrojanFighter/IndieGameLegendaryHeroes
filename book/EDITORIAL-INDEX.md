@@ -29,6 +29,7 @@
 - [Claims](../claims/README.md)
 - [Program Map](../PROGRAM-MAP.md)
 - [Industrial Revolutions Comparative Lab](../cross-industry/industrial-revolutions/README.md)
+- [Carmack × Romero Error-Correction Network 042](research-notes/carmack-romero-complementary-error-correction-network-042.md) — 技术发现→战略解释、push-wall设计纠正技术洁癖、Doom跨域翻译与Quake纠错延迟；Tom Hall/市场共同组成异质纠错网络，Playdead压力测试长期治理。
 - [Truth Shield → Feedback Insulation / Ion Storm 041](research-notes/truth-shield-to-narcissism-shield-ion-storm-governance-041.md) — early id小团队反馈为何在Ion Storm多项目规模失效；Dallas/Austin内部反例、Deus Ex清晰项目权责、Hirschman Exit/Voice/Loyalty及后续研究欠账。
 - [Strategic Disloyalty / American Individualism 040](research-notes/early-id-strategic-disloyalty-american-individualism-040.md) — early id如何把雇主、成熟产品、publisher权威和收购报价视为可撤销安排；Sierra 1992未来选择权定价、shareware outside option、美国rugged individualism/civil religion边界及日本内部作者权反例。
 - [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md) — 按主创能力类型补正例、边界例与压力对照
