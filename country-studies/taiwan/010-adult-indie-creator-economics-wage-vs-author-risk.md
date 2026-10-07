@@ -221,16 +221,7 @@ https://www.4gamers.com.tw/news/detail/74308/sex-change-contract-and-molester-gi
 - 上线一周内2.2万套为开发者/发行方公开口径，未审计；
 - 已规划续作和另一新作。
 
-这条路径更接近：
-
-existing occupation / freelance
-→ long part-time own-IP production
-→ publisher/tool support
-→ product launch
-→ revenue validation
-→ full-time creator + next title.
-
-它不是先有资本再全职，而是创作者自己承担了很长一段未付/低付劳动。
+她从已有职业和接案收入出发，在近三年的制作过程中借助编辑器与发行支持，逐步转向全职，并规划后续作品。这份回顾没有给出足以核对每一步转型的家庭现金流，但保留了一项重要成本：创作者自己承担了很长一段未付或低付劳动，不能把发售后的销量当成开工前已经可用的资本。
 
 ---
 
@@ -246,12 +237,7 @@ https://www.4gamers.com.tw/news/detail/70918/playmeow-acg-creator-and-milf-condi
 - 累计30万套为当事人/平台公开口径；
 - 当前收入已经足以维持全职个人开发，不需返回一般职场。
 
-最重要的信息不是30万套，而是：
-
-**full-time independence happened after multiple releases and accumulated revenue，not necessarily before first release.**
-
-这进一步支持：
-成人indie的职业价值可能来自“较低第二次尝试成本”，而不是“首作高胜率”。
+到采访时，Vincent已制作四款，并称当时收入足以维持全职个人开发。首作之前是否已具备稳定全职条件，材料没有确认。多次发行的过程，使本篇关注成人独游是否具有较低的第二次尝试成本；它仍不能证明首作胜率高。
 
 ---
 
@@ -330,9 +316,7 @@ external creator
 
 ---
 
-# 7. 一个重要的新结论：R18是“低门槛作者进入器”，不是“高薪游戏就业部门”
-
-目前证据更支持这句话。
+# 7. 低门槛作者入口与工资岗位的差别
 
 ### 作为就业部门
 
@@ -349,13 +333,7 @@ external creator
 - 小scope允许多次尝试；
 - 爆款右尾足够高，能把极少数作者推到全职。
 
-因此成人indie的核心经济价值不是：
-> “进这个行业工资高”。
-
-而是：
-> **“它让没有传统程序/3D工业资本的人，用较低成本获得自有IP和全球销售的期权。”**
-
-这和普通商业公司就业是两种完全不同的人生投资。
+本篇据此将成人独游的核心经济价值理解为一种作者入口：没有传统程序或3D工业资本的人，也可能以较低成本获得自有IP与全球销售的机会。工资岗位提供可预测现金流，作者则承担前期劳动与失败风险，换取作品成功后的上行空间；两者是不同的人生投资。上述样本尚不足以承诺高薪或可复制的成功率。
 
 ---
 
