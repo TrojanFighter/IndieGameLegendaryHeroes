@@ -216,8 +216,8 @@
 
 截至 2026-10-07：
 
-- 58 个编号 Case 已建档，其中 56 个 RESEARCHING、2 个 SKELETON；
-- 58 个对应 Case Evidence Ledger 已建立；
+- 59 个编号 Case 已建档，其中 57 个 RESEARCHING、2 个 SKELETON；
+- 59 个对应 Case Evidence Ledger 已建立；
 - 15 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 / C014 / C015 当前为 `SUPPORTED`；C013 当前为 `WEAK`；
 - CASE-027–030 构成“中国生产制度候选组”；《中国式网游》已核官方开发自述，其余三个来源待恢复，不把候选解释视为已证正反例；
 - CASE-031 将 Jonas Tyroller 作为 longitudinal practitioner，持续检验同一开发者跨项目的方法复现、方法修正、市场接入与运气边界；
