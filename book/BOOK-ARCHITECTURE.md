@@ -89,6 +89,8 @@ Chapter 不再问：
 - [成功仍未获认可／家人支援也能失败：Croshaw × Judge × Bithell × 梁其伟](research-notes/family-acceptance-non-success-countercases-035.md) — 给“成功必和解”做反压力测试；区分经济输血和情感认可。
 - [家里继续尊重商业失败者：李远扬《纽扣兄弟》 × Berardi《Stop That Hero!》](research-notes/family-support-after-commercial-failure-li-yuanyang-berardi-036.md) — 中国2017/2019早许可与市场失败，及美国2012/2013配偶在停下全职创业以后仍肯定尝试；成功不是人生价值的先决条件。
 
+- [不必靠爆款赢回家人：2019 Joysteak × 2022–2026 Toby Đỗ × 2010–2026 Berardi](research-notes/family-legitimacy-visible-labor-and-fifteen-year-exit-037.md) — 可见劳动、学历/奖项等非收入证明、家庭未认可到认可的中间状态，以及十五年仍以雇员身份创造的人；不是中国/美国样本比率。
+
 ### A. 教育｜你是否学会自己出题？
 
 主要研究：
