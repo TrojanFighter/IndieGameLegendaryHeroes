@@ -174,6 +174,8 @@ FAILURE OR FIRST SHIP → return to employment / outsourcing / second project / 
 最薄的目前不是前半张图，而是最后一段：failure/first ship → second authorial attempt。这与011–013的SECOND_ATTEMPT研究一致。
 
 ## 11. 日本004对中国016的压力测试
+台湾镜像现见：[台湾016 — 独立创作者路网密度与连续性](../taiwan/016-amateur-creator-route-density-and-continuity.md)。台湾侧重点不是“路线数量更多”，而是2010年以来多个社群/比赛/展会/国际信息与新资本接口长期重叠，提出ROUTE_REDUNDANCY / PUBLIC_AUTHORSHIP_NORMALIZATION；中国侧继续避免“有路线=普通人可达”的偷换。
+
 
 | Variable | China 2026 preliminary | Evidence status |
 |---|---|---|
