@@ -275,6 +275,12 @@ NExT的100人日Demo小组、网易/腾讯/米哈游内部立项cell，都应以
 
 这比从最终承制商倒推“全国只有一家能做”严谨得多。
 
+## 7.5 2018–2020固定首发队列已经完成首轮实证试跑
+
+[013 固定首发队列试跑](013-fixed-first-release-cohort-pilot-2018-2020.md)已将中国、波兰、韩国公开案例按同一日期/继续规则实际编码。结果证明时间线可以重建，但也实证发现五个会扭曲国别率的字段：**付费EA应作为T0；Steam developer字符串须人工合并；公司实体不能冒充作者团队；第二项目启动可早于第二款ship多年；Steam首发可能晚于其他平台首发。** 因当前公开VGI网页索引不是完整国家抽样框，013明确禁止计算当前便利案例的国别比例。
+
+特别是Creepy Jar：2018 *Green Hell* EA、2019年底已启动 *StarRupture*、2026才ship，说明 `SECOND_SHIP_5Y=NO` 与 `SECOND_ATTEMPT_5Y=YES` 可以同时成立；FYQD则说明 `SECOND_STEAM_APP_3Y=YES` 与 `SECOND_DISTINCT_IP=NO` 可以同时成立。012后续比较必须同时报告这些不同层次。
+
 ## 8. Verdict
 
 **现在可以比上一轮更强地说：**
