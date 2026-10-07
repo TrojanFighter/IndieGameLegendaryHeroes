@@ -3,7 +3,7 @@
 - Type: A0 — Author-Origin
 - Author: 洪荒行者
 - Status: AUTHOR THESIS TO BE TESTED
-- Related: AC-006, AC-007, AC-008, CASE-058, `book/research-notes/china-creator-constraints-three-layer-map-018.md`
+- Related: AC-006, AC-007, AC-008, CASE-059, `book/research-notes/china-creator-constraints-three-layer-map-018.md`
 - Boundary: 本文件研究“教育声望—雇主声望—身份合法性—项目形态”的耦合机制，不建立中国人/西方人的人格本质论。
 
 ## 原始命题
@@ -222,7 +222,7 @@ self-generated problem
 
 ## 5. Slay the Spire：强正向压力
 
-CASE-058 提供目前最清楚的反例之一。
+CASE-059 提供目前最清楚的反例之一。
 
 Casey Yano：
 - 大学已经和 Anthony 做 hobby games；
@@ -436,5 +436,5 @@ AC-010 不是第四层。
 - 至少一个欧美反例：elite pedigree / big-company career 明显造成项目 prestige distortion；
 - 不能只比较成功者。
 
-当前 CASE-058 / Slay the Spire 是强案例，但只是一格。
+当前 CASE-059 / Slay the Spire 是强案例，但只是一格。
 
