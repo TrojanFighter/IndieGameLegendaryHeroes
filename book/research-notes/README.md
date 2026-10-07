@@ -7,6 +7,7 @@
 ## 当前索引
 
 - [`week-sauce-2022-public-creator-followup-033.md`](week-sauce-2022-public-creator-followup-033.md) — 18个原主提交账号的2022–2026公开页面回访，区分其它作品清单、明确年份的新作品、合作工作室、个人职业未知；失效作品链接不等于创作者消失。
+- [`family-acceptance-non-success-countercases-034.md`](family-acceptance-non-success-countercases-034.md) — Ben Croshaw2011已成名但父母仍否定职业、Keith Judge2011–13靠储蓄/伴侣工资却未完成独立项目、Mike Bithell父亲秘密带DOOM回家、梁其伟2016毁画与留存画册/父母仍不太理解游戏职业；专门反驳“成功必和解／家人支援必成功”。
 - [`doom-intergenerational-reconciliation-032.md`](doom-intergenerational-reconciliation-032.md) — 《DOOM启世录》后期家长认错、作品认可、母亲开始玩Keen、1999年为DOOM辩护、Romero与下一代同玩的长时段传记；中美对照中把成功后的认可与实际伤害修复严格拆开。
 - [`public-unfeatured-week-sauce-apr-2022-cohort-031.md`](public-unfeatured-week-sauce-apr-2022-cohort-031.md) — 2022年4月 Week Sauce 18条公开提交作品全样本名册（含实体桌游、未完成原型与失效链接），2026逐项公开页面检查；可观察的普通创作时间/后续，不把未更新误判职业失败。仅代表特定 jam 的 public attempt frame。
 - [`family-gate-china-near-miss-liang-qiwei-030.md`](family-gate-china-near-miss-liang-qiwei-030.md) — 梁其伟本人2014年自述下的2006 RPG Maker—2007挂科保研/家庭压力暂停—2008海外学校社群再启动—2010 VeryCD/海外发行；张兆弓2022明言游戏专业有看不见的家长否决分母，并对照2026限制游戏与学业研究。
