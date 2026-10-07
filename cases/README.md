@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 60 个档案中，58 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 63 个档案中，61 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -74,6 +74,7 @@
 
 | CASE-061 | Supergiant / Bastion | **AAA CAPABILITY→AUTHORIAL / HOUSEHOLD SPACE SUBSIDY**：EA Command & Conquer 从业者保留工业能力与关系，但不照抄 AAA 岗位/流程；七人专业互补、家庭提供办公场地、自筹低薪与 Warner 发行外围共同构成成功条件 | RESEARCHING |
 | CASE-062 | Red Hook / Darkest Dungeon | **INDUSTRY VETERAN / HOUSEHOLD RISK / STAGED FUNDING**：成熟美术/设计/程序能力下形成原创题目，创始人仍背负育儿、房贷、借款与无薪期；Kickstarter 毛额不能充当项目总成本 | RESEARCHING |
+| CASE-063 | Ivories Studios / GGJ2024 → Shake the Baby! (2025) | **PUBLIC-ATTEMPT COHORT / VERIFIED PRODUCT LINEAGE / PEER FEEDBACK≠PROFIT**：18 个普通 Jam 提交中的团队网络追踪，发现开发者第一人称证明 2024 原型经现场反馈、一年扩展、2025 Steam 发售；已有 2021 前作，销售与个人收入仍未知 | RESEARCHING |
 
 ## Creator Life / Decision Audit
 
