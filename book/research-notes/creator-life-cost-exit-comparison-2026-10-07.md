@@ -142,7 +142,7 @@ Vogel 的《Queen's Wish》并非一开始就失败或无人问津。
 5. 未公开的个人财务和健康原因一律 UNKNOWN；
 6. 在无法构建明确分母之前，不宣称任何成功率、退出率或赚钱概率。
 
-这一研究应先通过 **sampling plan**，再考虑新的编号 Case。否则增加更多传奇性失败项目，不会解决分母问题。
+这里不再另造抽样规程：同时期并行研究已经确立 [028 媒体选择偏差与分母重建协议](media-selection-survivorship-and-denominator-protocol-028.md) 和 [Creator Visibility / Sampling Gate](../../schemas/creator-visibility-sampling-gate.md)。**本篇负责经济口径与退出残值；028 负责取样框与分母。** 必须通过它的 PUBLIC-ATTEMPT / PUBLIC-UNFEATURED cohort 门槛，才能计算任何人群频率。否则再加传奇性失败项目，也不能解决分母问题。
 
 ## 6. 对读者可用，但不假装精确的三种比较
 
