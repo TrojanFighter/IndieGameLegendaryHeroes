@@ -28,3 +28,4 @@
 ## 当前 Routes
 
 - [LR-001 — 名校 / 大厂高绩效者转作者型独立：先退出评分器，再退出公司](big-company-veteran-to-author-001.md)
+- [LR-002 — 我知道想做什么，但团队做不出来：先改作品，还是补能力？](project-thesis-capability-gap-002.md) — 识别 product-thesis / capability / throughput / market gap，比较 SHAPE、LEARN、PERIPHERALIZE、COMPOSE、HIRE、FINANCE 与 SHELVE 的条件、承诺与止损。
