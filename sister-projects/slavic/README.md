@@ -1,12 +1,12 @@
 # 《斯拉夫游戏英雄传说》— Sister Project Brief
 
-[独立篇入口](../../README.md) · [本篇证据索引](evidence/README.md) · [本篇书稿入口](book/README.md)
+[独立篇入口](../../README.md) · [本篇证据索引](evidence/README.md) · [本篇书稿入口](book/README.md) · [未决研究议程](research-backlog.md)
 
 ## 目录与研究层次
 
 本篇资料统一位于本目录，按研究归属划分，不按开发者国籍机械分配。跨篇比较链接到原档案，不复制证据。
 
-- `evidence/`：8 个编号专题及 2 份保留的并行矩阵稿；不是 10 个独立 Case。
+- `evidence/`：14 个编号专题及 2 份保留的并行矩阵稿；不是 16 个独立 Case。
 - `metadata/research-index.json`：本篇独立文件索引；不并入独立篇 Case / Claim 统计。
 - `book/`：叙事稿入口，目前没有正式 Profile；不把证据矩阵直接当章节。
 - 正式 Case / Claim 尚未单独建档；建立时沿用根目录的 schemas 与证据规则，并在本篇登记，不预生成空档案。
@@ -19,6 +19,12 @@
 - Author / 主创：洪荒行者
 - Relationship: 《独立游戏英雄传说》的姊妹篇
 - Status: RESEARCH PROGRAM — NOT YET A BOOK OUTLINE
+
+## 2026-10-07 已建立的俄罗斯基础研究层
+
+已新增 [SLAVIC-009—014](evidence/README.md#本轮新增俄罗斯产业人物失败生态slavic-009014)：俄罗斯1991—2026市场制度、Gusarov/Krank/Klimov/Orlovskiy四人职业与关系史、《Vseslav》两次项目失败、苏联算法/计算文化的思想史边界、Slavjank的“变异—筛选—留存”假说，以及战争网游设计与作者“中度数值通胀”旧文的研究接口。
+
+**当前还不是俄罗斯故事的定稿**：人物 Profile、正式 Claim 及 Case 数均保持零；按[未决研究议程](research-backlog.md)继续收集同期证据与失败/跨国对照。本文先前的 001—008 研究材料保持原路径和编号。
 
 ## 一句话定义
 
