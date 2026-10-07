@@ -12,7 +12,7 @@
 
 - [START-HERE](START-HERE.md)：按当下困惑、阅读问题进入。
 - [DECISION-ROUTER](DECISION-ROUTER.md)：总分诊，按 **Capability Position × Risk Position × Project Maneuver** 判断该移动项目、能力、团队、资本还是承诺。
-- [Life Risk Routes](life-routes/README.md)：已经确定某一类具体人生处境后的深入审计和实践边界；当前有 [LR-001 大厂高绩效者转作者项目](life-routes/big-company-veteran-to-author-001.md)。
+- [Life Risk Routes](life-routes/README.md)：已经确定某一类具体人生处境后的深入审计和实践边界；现有 [LR-001 大厂高绩效者转作者项目](life-routes/big-company-veteran-to-author-001.md) 与 [LR-002 作品已定但团队能力不足](life-routes/project-thesis-capability-gap-002.md)。
 - [READER-ARCHETYPES](READER-ARCHETYPES.md)：第二级按专业能力结构寻找相似创作者的索引。
 
 默认链路：
@@ -174,8 +174,9 @@ Chapter 不再问：
 → 不可迁移条件
 ```
 
-第一条已建立：
+当前两条：
 - [LR-001 — 名校 / 大厂高绩效者转作者型独立](life-routes/big-company-veteran-to-author-001.md)
+- [LR-002 — 项目方向明确但团队能力不足：缩减、学习、外包、共同创始人、招聘还是融资？](life-routes/project-thesis-capability-gap-002.md)
 
 Route 不是成功公式；新证据若推翻现有判断，优先修改 Route。
 
