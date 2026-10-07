@@ -49,7 +49,7 @@
 
 当前仓库已经形成：
 
-- **63 个编号 Case 档案**，其中 61 个 RESEARCHING、2 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
+- **63 个编号 Case 档案**，其中 62 个 RESEARCHING、1 个 SKELETON；中国研究组包括《戴森球计划》《中国式网游》《边境》《重装前哨》《苏丹的游戏》《枪火重生》与 NExT→SYNCED 等正反 comparator，另以《征途》作为中国产业制度转折样本，编号不代表其生产史与独立资格已全部核实；
 - **63 份对应 Evidence Ledger**，把流行故事拆回可核验来源；
 - **15 个跨案例 Claim**，检验 runway、能力资本、能力反向立项、solo/OPC、服务业务交叉补贴、市场接入、失败成本等命题；
 - 姊妹研究 **《斯拉夫游戏英雄传说》**，追踪 GSC→4A、Wargaming、Gaijin 等组织与产业谱系；
@@ -100,7 +100,7 @@
 
 ## 63 个编号案例档案
 
-这些 Case 是研究后台的档案，61 个为 RESEARCHING，2 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
+这些 Case 是研究后台的档案，62 个为 RESEARCHING，1 个为 SKELETON。Case ID 用于审计，不代表证据成熟度或推荐阅读顺序；少量 `NON-INDIE COMPARATOR` / `LINEAGE / TRANSITION CASE` / `BUSINESS-MODEL COMPARATOR` 保留编号用于比较生产制度或追踪原创能力的跨组织迁移，但不得因此被包装成“独立英雄”。
 
 | Case | Subject | 它主要让我们看见什么 |
 |---|---|---|
@@ -130,7 +130,7 @@
 | [CASE-024](cases/CASE-024-escape-from-duckov.md) | **Escape from Duckov / Team Soda** | `NON-INDIE COMPARATOR`：小核心≠独立所有权；公司工资、发行与流量外围如何改变可复制性 |
 | [CASE-025](cases/CASE-025-bills-must-be-paid.md) | **Bills Must Be Paid / Rike Games** | 七年 mobile/web 失败与高频原型能力压缩进七个月项目；demo / Steam market model course correction |
 | [CASE-026](cases/CASE-026-brigador.md) | **Brigador / Stellar Jockeys** | 强产品执行仍可被 onboarding、market legibility、受众预期与成本—市场错位击穿 |
-| [CASE-027](cases/CASE-027-dyson-sphere-program.md) | **Dyson Sphere Program / Youthcat Studio** | SKELETON：人数、自筹、职业前史与发行关系待核，不预设独立正例 |
+| [CASE-027](cases/CASE-027-dyson-sphere-program.md) | **Dyson Sphere Program / Youthcat Studio** | RESEARCHING：已核5人核心、主创前史、prototype-before-quit、创始人储蓄runway与发行外围；合同/household/完整contributors仍待核 |
 | [CASE-028](cases/CASE-028-chinese-online-game.md) | **中国式网游 / 648工作室** | 官方自述单人业余约五年；模拟网游体验的表现成本解释为 H，职业前史仍 UNKNOWN |
 | [CASE-029](cases/CASE-029-boundary.md) | **Boundary / Surgical Scalpels Studio** | 已恢复制作人 / 创始人资料与首发商业信号；检验强 novelty / acquisition 已成立时的长周期 error persistence 与 multiplayer ecosystem obligation |
 | [CASE-030](cases/CASE-030-outpost-infinity-siege.md) | **Outpost: Infinity Siege / Team Ranger** | SKELETON：团队归属、职业前史与产品范围待核，不预设企业负例 |
@@ -231,10 +231,10 @@
 
 截至 2026-10-07：
 
-- 60 个编号 Case 已建档，其中 58 个 RESEARCHING、2 个 SKELETON；
-- 60 个对应 Case Evidence Ledger 已建立；
+- 63 个编号 Case 已建档，其中 62 个 RESEARCHING、1 个 SKELETON；
+- 63 个对应 Case Evidence Ledger 已建立；
 - 15 个核心 Claims 中，C002 / C003 / C004 / C005 / C006 / C007 / C010 / C011 / C014 / C015 当前为 `SUPPORTED`；C013 当前为 `WEAK`；
-- CASE-027–030 构成“中国生产制度候选组”；《中国式网游》已核官方开发自述，其余三个来源待恢复，不把候选解释视为已证正反例；
+- CASE-027–030 构成“中国生产制度候选组”；《戴森球计划》与《中国式网游》已恢复关键一手/准一手生产证据，Boundary已有部分制作与商业信号，《重装前哨》仍需继续source recovery；不把候选解释视为已证正反例；
 - CASE-031 将 Jonas Tyroller 作为 longitudinal practitioner，持续检验同一开发者跨项目的方法复现、方法修正、市场接入与运气边界；
 - CASE-032 将 Brendan Greene / PLAYERUNKNOWN 作为 `LINEAGE / TRANSITION CASE`，区分 DayZ/Arma mod 的规则发明与社区验证、H1Z1 商业合作、Bluehole/PUBG 公司化放大；
 - CASE-033 将《征途》/史玉柱作为 `CHINA INDUSTRY TRANSITION / BUSINESS-MODEL COMPARATOR`，检验市场调研、F2P、虚拟商品、县乡地推和快速运营如何组成高回报商业函数并塑造产业路径；

@@ -36,7 +36,7 @@
 | CASE-024 | Escape from Duckov / Team Soda | **NON-INDIE COMPARATOR**：检验 Bilibili 内部五人核心如何借公司工资、发行/流量外围与前作能力，通过删 multiplayer/mobile/hardcore simulation 重写 extraction 的生产成本；不得作为独立发行正例 | RESEARCHING |
 | CASE-025 | Bills Must Be Paid / Rike Games | 检验两人工作室的七年高频失败/原型能力如何压缩进七个月 Steam 项目，以及 mobile 世界模型如何在 demo / wishlist / creator 市场接入中被修正 | RESEARCHING |
 | CASE-026 | Brigador / Stellar Jockeys | 失败 comparator：检验强产品执行为何仍可因 onboarding、market legibility、受众预期与成本—市场错位导致首发商业失败 | RESEARCHING |
-| CASE-027 | Dyson Sphere Program / Youthcat Studio | 待核：团队前史、人数、runway、范围控制与发行关系；原引用不能支撑独立正例判定 | SKELETON |
+| CASE-027 | Dyson Sphere Program / Youthcat Studio | 已核：5人核心、主创前史、prototype-before-quit、创始人储蓄runway与发行外围；合同/household/完整contributors仍待核 | RESEARCHING |
 | CASE-028 | Chinese Online Game / 648 Studio | 官方自述单人业余约五年；检验模拟网游体验的表现成本，职业前史与完整协作者边界仍 UNKNOWN | RESEARCHING |
 | CASE-029 | Boundary / Surgical Scalpels Studio | **LONG-CYCLE MULTIPLAYER FAILURE-PRESSURE CASE**：已确认三人起步、PVE 成本压力、多次方向变化、首日 >100k paid copies 与后续停服；检验 novelty/acquisition 已成立时的 error-persistence 与 ecosystem obligation，不做单一责任归因 | RESEARCHING |
 | CASE-030 | Outpost: Infinity Siege / Team Ranger | 待核：团队归属、职业前史、范围与市场预期；不预设企业内部负例结论 | SKELETON |
