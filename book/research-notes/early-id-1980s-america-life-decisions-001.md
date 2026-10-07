@@ -123,6 +123,12 @@ DOOM/Quake 美术并非全是程序员兴趣的附属物：传统绘画经验和
 
 ## 6.5 Family Gate 修正：上一轮遗漏了“同一继父一边阻挠游戏一边买电脑”
 
+### 物证升级：第一台电脑和早期游戏笔记仍在
+
+Strong National Museum of Play 2014 年馆藏报告（CASE-016 E030）保存 Romero 亲自捐赠的 Apple II+ 和当年的游戏设计笔记，馆方记述 **1981年** 父亲赠机（含显示器/打印机/额外卡）、**1982年** 赠 Roger Wagner 汇编教材、**1983年** 海运至英国导致半年设备中断。部分其他访谈将购机记作 **1982年**，精确购机日期待确认，建议写作“1981–82”。现存纸质笔记同时记录对已玩游戏的分析与原创新游戏想法，是将玩家经历和动手生产并行的实物佐证。链接：https://www.museumofplay.org/blog/preserving-john-romeros-first-computer-at-icheg/
+
+
+
 [家庭门控与中美创作者形成对照 027](family-gates-game-creator-us-china-029.md) 已用多篇 Romero 本人访谈 E027、同代 Mechner 一手记录 E028 与美国1980年代街机恐慌史 E029 建立压力测试。
 
 - Romero：继父曾暴力反对长期街机游戏，**却也直接购买了 Apple II**；1997本人回忆、2018本人访谈与2023访谈形成直接交叉。这不是单向“家庭支持”或“家庭反对”。
