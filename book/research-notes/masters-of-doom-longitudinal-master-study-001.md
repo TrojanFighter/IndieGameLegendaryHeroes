@@ -89,6 +89,11 @@ Romero 2023 GamesBeat 直接谈到 Daikatana 中途由 Quake 向 Quake II 改引
 
 Deus Ex是最重要的内部控制：同样的Ion Storm资本与“design autonomy”理念，在Austin由Warren Spector形成更清晰的项目责任链并最终收敛；所以不能把Dallas问题归结为“创作自由太多”。新的纵向变量是`FEEDBACK_INTEGRITY / COMPLEMENT_DEPENDENCE / SCALE_DISCONTINUITY / DECISION_RIGHT_ACCOUNTABILITY`。
 
+## 六点九、互补不是岗位拼图：early id 的高价值可能在“对方真的能让你改答案”
+
+[042](carmack-romero-complementary-error-correction-network-042.md)把二人关系从“Carmack技术 + Romero设计”升级为事件级纠错网络：Dangerous Dave显示技术突破需要战略解释；Wolf3D push walls显示设计端可迫使工程洁癖让步；Doom时期Romero本人称自己是design与Carmack之间的glue；Quake时期则出现共同artifact与反馈延迟拉长，互补逐渐转为互相归因。
+
+同时必须保留Tom Hall等第三顶点与Playdead CASE-056反例。当前更强模型是：CAPABILITY COMPOSITION → EPISTEMIC CORRECTION → GOVERNANCE DURABILITY 三层分别审计，不能用产品成功替代后两层。
 ## 七、待核证据优先级
 
 1. Quake 原型转向、引擎/关卡返工、谁有最终裁决权及 Romero 退出的多方直接版本。

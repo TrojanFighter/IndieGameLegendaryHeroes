@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`carmack-romero-complementary-error-correction-network-042.md`](carmack-romero-complementary-error-correction-network-042.md) — Dangerous Dave、Wolf3D push walls、Doom editor/glue与Quake反馈延迟：将Carmack×Romero从技能互补升级为跨域翻译/可否决/角色可塑/快速shared-build的纠错网络，并以Tom Hall与Playdead CASE-056反证二人神话和治理永久有效。
+
 - [`truth-shield-to-narcissism-shield-ion-storm-governance-041.md`](truth-shield-to-narcissism-shield-ion-storm-governance-041.md) — Romero 2023自认把id成功公式错误迁移到Ion Storm；用Dallas/Austin同公司对照拆出feedback integrity、规模断层、互补能力依赖、decision-right accountability，并引入Exit/Voice/Loyalty和20项未展开研究欠账。
 
 - [`early-id-strategic-disloyalty-american-individualism-040.md`](early-id-strategic-disloyalty-american-individualism-040.md) — Softdisk→shareware→Sierra报价与Keen→3D连续切割：把“美国个人主义”拆成文化许可、frontier/rugged individualism、American civil religion远端H层与PC/shareware可执行outside option；提出Strategic Disloyalty / Optionality Protection并以日本内部边疆豁免反证其非必要性。
