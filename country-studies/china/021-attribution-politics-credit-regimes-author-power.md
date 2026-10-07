@@ -4,6 +4,7 @@
 - Status: **MECHANISM FRAMEWORK / COMPARATIVE HISTORY / HYPOTHESIS-BUILDING**
 - As-of: 2026-10-08
 - Parent: [020 — Author Brand Capital](020-author-brand-capital-portable-demand-bargaining-power.md)
+- Property-chain extension: [022 — Creative Surplus Allocation](022-creative-surplus-allocation-rights-customer-future-control.md)
 - Taste institutions: [019 — Taste Institutions](019-taste-institutions-player-literacy-creator-selection.md)
 - Creator audit: [Creator Life / Decision Audit](../../schemas/creator-life-decision-audit.md)
 - Boundary: 本文研究“谁被看见、谁承担责任、谁带走声誉”的制度，不主张所有复杂游戏都应归功于单一auteur，也不把署名本身等同于公平分配。
@@ -695,3 +696,32 @@ Atari Adventure /日本旧游戏就是重要警告。
 ## 15. 当前最小结论
 
 > **“大师”不是纯粹从作品中自然浮现的。个人创造性要变成可持续作者权，需要一套把贡献记录、公开、解释、保存并转换成钱与下一轮权利的Attribution Infrastructure。电影/电视通过工会和合同高度制度化这一过程；游戏业长期更依赖公司自定规则，因此同时存在Atari式匿名、Activision式作者营销、TOSE式白牌隐身、Nintendo式企业主动归因，以及中国F2P时代的弱署名均衡。中国当前玩家开始要求追踪具体作者，但基层员工又因权责不匹配与开盒风险抵制署名，这说明下一阶段需要的不是简单“强制实名”，而是credit、decision rights、经济回报与安全保护的重新耦合。**
+
+
+## 16. 署名之后：Credit只是Creative Surplus Allocation的一层
+
+021回答“谁被记住”，但不回答“成功产生的其他资产归谁”。
+
+因此所有 `ATTRIBUTION–AUTHORITY ALIGNMENT` 分析必须继续进入 [022](022-creative-surplus-allocation-rights-customer-future-control.md)：
+
+```text
+contribution
+→ credit
+→ cash / royalty
+→ equity
+→ IP / sequel rights
+→ publishing
+→ customer relationship
+→ brand
+→ future decision rights
+```
+
+关键边界：
+- 有credit ≠ 有money；
+- 有money ≠ 有IP；
+- 有IP ≠ 有customer relation；
+- 有customer relation ≠ 有final decision rights；
+- 有高工资 ≠ 高future-capture。
+
+Canonical:
+- [022 — Creative Surplus Allocation](022-creative-surplus-allocation-rights-customer-future-control.md)
