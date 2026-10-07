@@ -4,7 +4,7 @@
 - Last verified: 2026-10-07
 - Scope: 中国独立游戏创作者形成、问题主权、production regime、benchmark、deviance sanction、career/life-script pressure
 - Related: `china-catch-up-success-pre-paradigm-creator-016.md`, `china-indie-structural-capability-audit-010.md`, `china-player-worker-generations-009.md`, `domain-specific-capability-demand-evaluation-017.md`, `../BOOK-ARCHITECTURE.md`
-- Author-corpus roots: `AC-006`, `AC-007`, `AC-008`
+- Author-corpus roots: `AC-006`, `AC-007`, `AC-008`, `AC-010`
 - Boundary: “老中”“春登”等只保留为作者/H-layer入口词。正式分析只讨论教育训练、产业版本、家庭/群体规范、反馈结构与历史收益函数，不建立民族、年龄或人格本质论。
 
 ## 0. 为什么要拆成三层
