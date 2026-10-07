@@ -214,3 +214,93 @@ project headcount / company headcount / concurrent projects / publisher / lead s
 
 更值得研究的是：
 > **俄罗斯Premium生态可能允许15人、20人、40+人等多种项目尺度共存；中国Online生态则可能更快把40—60+人项目变成职业主航道。真正的制度差异若存在，应体现在项目单元自治、lead覆盖范围和decision rights，而不是人数本身。**
+
+
+## 七、Production Perimeter Normalization：先统一“团队边界”再比规模
+
+当前材料显示，“俄罗斯项目小、中国网游项目大”很容易被组织边界污染。
+
+### 俄罗斯Premium：发行商承担大量外围职能
+《Parkan II》credits明确拆成：
+- Nikita：游戏概念、项目管理、设计、程序、美术、声音、内部测试等；
+- 1C：producer、marketing、PR、广告、测试、大规模外部beta等。
+
+来源：
+https://www.mobygames.com/game/29816/parkan-ii/credits/windows/
+
+《Pathologic》同样拆成：
+- Ice-Pick Lodge：核心程序、美术、3D、动画、创作/技术负责人等；
+- Buka：producer、product management、QA、localization、international sales、legal、financial等；
+- 海外发行方另有marketing/PR/community。
+
+来源：
+https://www.mobygames.com/game/23724/pathologic/credits/windows/
+
+因此“小工作室人数”并不等于“完成商业交付所需全部劳动”。
+
+### 中国Online：研发与运营边界有多种形态
+
+#### Integrated
+游戏米果2005：
+- 公司约150人；
+- 专门开发约50人；
+- 其余行政、市场、服务等职能在公司内。
+
+来源：
+https://news.17173.com/content/2005-8-12/n624_540215.html
+
+深圳网域：
+- 近百人研发团队；
+- 同时拥有运营、市场、宣传推广、销售收费、客服体系。
+
+来源：
+https://news.17173.com/zhuanti/res/2005/cs/wy/index.htm
+
+#### Modular counterexample
+渡口 + 磐石：
+- 磐石负责研发；
+- 新成立渡口负责运营；
+- 同址紧密协作，17173直接描述为“一个系统的运营部分和研发部分”。
+
+来源：
+https://news.17173.com/zhuanti/res/2005/cs/dkps/index.htm
+
+所以中国也不是全部垂直一体化。
+
+## 八、强制规模口径
+
+后续每个项目至少拆：
+
+1. **Core Dev**：直接做设计/程序/美术/内容的全职核心；
+2. **Extended Dev**：QA、音频、外包、合同工、工具/引擎共享人员；
+3. **Publisher Support**：producer、QA、本地化、国际销售、市场；
+4. **Live Ops**：版本、活动、GM、服务器、数据、社区；
+5. **Business/Distribution**：渠道、销售、支付、商务；
+6. **Customer Service**；
+7. **Total Organization**。
+
+只允许同层比较。
+
+### 新的研究问题
+如果统一Core Dev以后中俄差距缩小，而Total Organization差距很大，那么主要差异不是“做游戏本身需要更多人”，而是：
+> **MMO商业容器要求更大的持续运营/分发外围组织。**
+
+这会影响职业分工和管理层级，但仍不能自动推出原创性结果。
+
+## 九、俄方项目尺度补充
+
+当前项目级锚点已经显示明显异质性：
+- Space Rangers 2：约15名开发者；
+- Apeiron：E5原型3人起步，2007商业团队约20人；
+- Nival：早年10—12人/项目；2004已发展到四项目并行、单项目高峰40+；
+- Parkan II：Nikita内部credits显示完整设计/程序/美术/音频/测试组，同时1C承担外围发行支持；
+- Pathologic：Ice-Pick核心开发人数远小于整份115人credits，后者包含Buka、海外发行、配音等。
+
+来源：
+- https://en.wikipedia.org/wiki/Space_Rangers_2:_Dominators
+- https://www.mobygames.com/company/9282/apeiron/
+- https://rpgcodex.net/article.php?id=2782
+- https://www.mobygames.com/game/29816/parkan-ii/credits/windows/
+- https://www.mobygames.com/game/23724/pathologic/credits/windows/
+
+这进一步否定“俄国Premium=固定15—20人小队”的强说法。
