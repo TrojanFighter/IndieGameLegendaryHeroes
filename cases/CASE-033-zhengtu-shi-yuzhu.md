@@ -433,3 +433,20 @@ F-1 甚至记录 UnionPay / China PnR 的直接销售服务费低于 1%，显著
 - E006 — 2006《21世纪》采访：研发投入口径、免费模式、外挂/代练/虚拟物交易的市场判断。
 - E007 — 2007 新浪科技深访：史玉柱对 F2P 争议、玩家身份与商业模型的自我解释。
 - E008 — 2006 “玩家工资”报道：收入回流、免费人口与利润权衡；来源带厂商供稿属性，低一级使用。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL / ENTREPRENEUR-ORGANIZATION COMPARATOR
+- **Life stage:** 史玉柱进入《征途》时已是经历过软件创业、企业失败与保健品重建的成熟企业家；不是 early-career indie founder。
+- **Household:** personal relationship / children / housing 不作为本 Case 当前解释对象，`UNKNOWN / NOT REQUIRED FOR ORGANIZATION-LEVEL COMPARISON`。
+- **Runway:** 进入游戏时已有此前商业活动形成的资本、营销网络与组织能力；研发/广告投入为千万级人民币量级，不属于 low-runway 项目。
+- **Household burn:** **NOT APPLICABLE to primary mechanism**；本案关注企业资本与市场制度，不用个人家庭支出来解释产品。
+- **Exit / recovery:** **HIGH ENTERPRISE OPTIONALITY / personal detail partial** — 当事人拥有既有商业网络、资本与跨行业经验，但不把其个人财富当普通开发者可迁移条件。
+- **Capability vector:** market research、consumer psychology、ground marketing、distribution、business-model design、capital mobilization；组织侧有 >140 product staff、全国 liaison network 与 live-update capability。
+- **Problem ownership:** **HIGH** — 核心商业/产品 thesis 由强 founder ownership 驱动，并主动重写旧游戏行业收费、分发与用户结构假设。
+- **Validation architecture:** personal player observation + direct player interviews / market research → F2P / item model → nationwide distribution → live weekly/quarterly iteration → audited revenue results。
+- **Reality adjudication:** **STRONG on commercial metrics** — 玩家行为、收入、渠道与运营数据直接反馈到产品/商业系统；伦理/体验成本不能因此忽略。
+- **Capability capture risk:** **MEDIUM / REGIME FORMATION** — 强营销/monetization 能力形成巨大成功，并可能反向塑造整个行业 objective function；这里研究的是产业锁定风险，不是单项目失败。
+- **Market sufficiency / legibility:** **STRONG for 2005–2007 China online-game regime** — F2P、县乡地推、网吧、虚拟商品和社会密度与当时市场高度适配；2026 具体 tactic 属 HISTORICAL。
+- **Capability scaling:** very high organizational scaling；该案例不能用于小团队 runway 正例。
+- **Major unknowns:** 对本 Case 的主要研究目标而言，个人 household 不是优先缺口；更重要的是产品团队、地推、支付、广告与 revenue-system 的时代边界。
