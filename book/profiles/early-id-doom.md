@@ -806,7 +806,7 @@ Softdisk 既限制他们，也训练他们、给他们工资、机器和高频 s
 - [CASE-016 — Early id Software](../../cases/CASE-016-early-id-software.md)
 - [CASE-016 Evidence Ledger](../../evidence/CASE-016-early-id-software-source-ledger.md)
 - [《DOOM启世录》纵向母案例研究](../research-notes/masters-of-doom-longitudinal-master-study-001.md) — 补 Quake / Ion Storm 的能力—组织反事实与证据边界。
-- [中美家庭与代际许可比较：家庭如何成为创作者机会关口](../research-notes/family-gates-game-creator-us-china-027.md) — Romero / Carmack / Hall / Mechner 与中国代际研究的证据和边界。
+- [中美家庭与代际许可比较：家庭如何成为创作者机会关口](../research-notes/family-gates-game-creator-us-china-029.md) — Romero / Carmack / Hall / Mechner 与中国代际研究的证据和边界。
 - [1980年代美国社会与 early id 人生抉择研究](../research-notes/early-id-1980s-america-life-decisions-001.md) — 家庭/机器/教育/就业/商业接入与个人实际代价。
 - [DOOM Life Crossroads Audit 001](../research-notes/doom-life-crossroads-001.md)
 - 当前研究状态：**RESEARCHING**
