@@ -384,6 +384,25 @@ Newman documents US parents, commentators and local officials denouncing video a
 
 **Boundary:** museum magazine essay is researched secondary synthesis, not a national representative parent opinion survey; cannot quantify the frequency or intensity of bans in US vs China from these cases alone. Historical US youth arcade regulation is not equivalent to 2021 Chinese online-game company limits.
 
+
+## E030 — The Strong Museum primary artifact: Romero's first Apple II+ and notebooks
+
+- **Class:** P0 (physical object / archived development notebook), P1 (Romero recollection during 2014 installation as recorded by museum curator)
+- **Source:** The Strong National Museum of Play, Jon-Paul Dyson, 2014-08-01, *Preserving John Romero's First Computer at ICHEG*
+- URL: https://www.museumofplay.org/blog/preserving-john-romeros-first-computer-at-icheg/
+
+The museum holds and displays Romero's donated first Apple II+ and his development notebook. A curator reports Romero's own recollection that **in 1981** his father gave him the Apple II+ with 64k language card, Softcard, printer, Amdek color monitor and Videoterm; **Christmas 1982** his parents provided Roger Wagner's *Assembly Line: The Book*. During the 1983 family move to Britain the computer spent ~6 months in shipping; he wrote designs in notebooks and then had sustained programming time in summer 1983. His notebooks contain both notes about games he played and original game ideas; later published work came from this preprofessional period.
+
+Supports:
+- Direct hardware, instructional-material and space/time resources provided by family;
+- Game-playing reference stock and creator idea artifacts appearing **together in contemporary handwritten notes**;
+- Parental mediation is not reducible to “opposed games”: provision of equipment/books enabled deep learning;
+- The 1983 shipping gap is a useful negative interruption case that distinguishes owning a machine from actually having sustained access.
+
+**Date conflict:** Romero's later interviews sometimes place the home Apple II in **1982** (e.g. 2022 Stuff interview); museum curator records participant's installation recollection as **1981**. Prefer “early 1980s / 1981–82” unless contemporaneous purchase documentation confirms a year. Also do not assume museum's generic term “father” resolves all biological/stepfather relations without cross-checking direct 2023 interviews.
+
+Boundary: artifact ownership and museum curation confirm items existed, not household exact income, per-hour practice, payment receipts or psychological causal necessity. Avoid “he succeeded because his parent was abusive”; material help and harm remain separate.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
