@@ -4,7 +4,7 @@ schema_version: 2
 case_id: CASE-061
 status: RESEARCHING
 subject: "Supergiant / Bastion: EA capability transfer, independent authorship and household runway"
-related_claims: [C015]
+related_claims: []
 evidence_strength: HIGH
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
@@ -18,6 +18,7 @@ last_verified: 2026-10-07
 - Subject: Amir Rao / Gavin Simon / Greg Kasavin / early Supergiant
 - Period covered: EA Command & Conquer work → 2009 independent founding → 2011 Bastion → 2019 longitudinal check
 - Research status: RESEARCHING
+- Related Claims: none (PRE-CLAIM comparison only)
 - Corpus role: `AAA-SKILL-TRANSFER / OBJECTIVE-FUNCTION-DECOUPLING / CAPABILITY-SHAPED-TEAM / HOUSEHOLD-SUBSIDY / IP-CONTROL`
 - Evidence Ledger: [E001–E006](../evidence/CASE-061-supergiant-bastion-aaa-to-author-source-ledger.md)
 
