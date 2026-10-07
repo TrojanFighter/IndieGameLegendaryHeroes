@@ -43,6 +43,7 @@
 - [`019 — Taste Institutions`](019-taste-institutions-player-literacy-creator-selection.md)：把“玩家品味”进一步拆成 `ACCESS / INTERPRETATION / LEGITIMATION / PRACTICE / TRANSACTION / MEMORY` 六层，并提出中国早期可能存在的 `CULTURAL-INPUT / CREATOR-RETURN ASYMMETRY`：文化输入和Experience Capital并不必然同步形成稳定作者回流。
 - [`020 — Author Brand Capital`](020-author-brand-capital-portable-demand-bargaining-power.md)：把“玩家认识大师”进一步拆成 `AUTHOR_RECOGNITION / ATTENTION_PORTABILITY / REVENUE_PORTABILITY / FINANCING_CONVERSION / BARGAINING_POWER_CONVERSION`；比较品牌资产落在作者、工作室、IP还是平台，并研究成功后这份需求资产能否被创作者带入下一局。
 - [`021 — Attribution Politics`](021-attribution-politics-credit-regimes-author-power.md)：研究创作价值如何被归因、谁拥有署名规则、credit是否与经济回报和decision rights耦合；比较影视工会、Atari→Activision、TOSE/Nintendo、中国F2P弱署名均衡及AI时代decision provenance。
+- [`022 — Creative Surplus Allocation`](022-creative-surplus-allocation-rights-customer-future-control.md)：把成功后的剩余资产拆成 `LABOR CASH / REVENUE PARTICIPATION / EQUITY / CREDIT / IP / SEQUEL RIGHTS / PUBLISHING / CUSTOMER RELATIONSHIP / BRAND / FUTURE DECISION RIGHTS`，并用 `FUTURE-CAPTURE RATIO` 衡量创作者到底拥有多少“自己创造出来的未来”。
 
 这里把“国民体验水平”拆成 reference breadth、comparative literacy、player→producer conversion、benchmark dependence、decision rights 等可观察变量，并要求用中国内部差异、东亚反例、斯拉夫 / 北欧 / 新西兰等跨国 comparator 做压力测试。
 
