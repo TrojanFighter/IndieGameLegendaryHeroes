@@ -55,6 +55,10 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 理论家不等于成功 builder。disruption、value network、incumbent incentive、overserving、resource dependence 应作为可被案例支持或反驳的解释工具，而不是先验定律。
 
+### 当前上层理论节点
+
+- [Self-Obsolescence / Second-Answer Test：成功公式处决、自我过时与第二答案测试](self-obsolescence-second-answer-test-001.md) — 用 DOOM Eternal→The Dark Ages、Intel/Grove、Christensen、Apple、Nintendo 与 Pocketpair 边界样本检验：真正长期创新是否取决于让**自己的成功答案**重新接受现实审判；提出 SELF-OBSOLESCENCE、ORTHODOXY HALF-LIFE、SECOND-ANSWER TEST、LAGGED-EVIDENCE TRAP，并明确要求失败型自我蚕食与数量级对照。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
