@@ -186,6 +186,19 @@ https://ndlsearch.ndl.go.jp/books/R000000004-I10857153
 | Corporate author role | 大厂problem ownership分布待研究 | 历史上大量可识别director/producer authors | OPEN quantified comparison |
 | Full-cycle team ecology | 012显示premium pipeline偏薄proxy | 厚实商业+doujin双生态待量化 | OPEN |
 
+## 6.5 美国early id提供的是另一种机制：高退出权，而不是唯一创新文明模板
+
+新增 [early id战略性不忠诚与美国个人主义 040](../../book/research-notes/early-id-strategic-disloyalty-american-individualism-040.md) 后，日本反例的价值更清晰。
+
+early id 1990–1993体现的是一种高`EXIT / PIVOT / OPTIONALITY`文化—制度组合：离开雇主、砍成功系列、绕传统publisher、对Sierra收购重新定价。美国的frontier/rugged individualism与职业流动可能降低这种“背离旧安排”的社会成本；而shareware/PC开放分发提供真实outside option。
+
+日本长期作者生态说明**不必复制这套美国人格**。如果公司内部director角色、prototype预算、同人circle与独立发行生态提供合法的“局部例外区”，强作者判断也能在不要求全社会高关系流动的情况下存活。
+
+因此新增比较轴：
+- `AMERICAN EXIT-BASED ECCENTRICITY`：通过离开/另起炉灶保护异端判断；
+- `JAPANESE SLOT-BASED ECCENTRICITY`：通过组织/圈子给异端判断合法生态位；
+- 中国要研究的不是“选哪种民族性”，而是**哪些exit与protected slot同时不足、哪些已经出现**。
+
 ## 7. 为什么日本是比美国更重要的中国反例
 
 美国可以被轻易反驳：
