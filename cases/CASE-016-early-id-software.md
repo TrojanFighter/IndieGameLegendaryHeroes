@@ -59,7 +59,7 @@ Romero 回顾 Gamer's Edge 时强调两个月一个游戏的出货节奏；Tom H
 
 ## Family and intergenerational gate / 新增人物反例
 
-[E027–E029](../evidence/CASE-016-early-id-software-source-ledger.md) 与 [跨中美家庭研究 027](../book/research-notes/family-gates-game-creator-us-china-027.md) 补足 CASE-016 遗漏的**家庭对游戏消费、机器、编程学习和职业道路的非同步许可**。
+[E027–E029](../evidence/CASE-016-early-id-software-source-ledger.md) 与 [跨中美家庭研究 029](../book/research-notes/family-gates-game-creator-us-china-029.md) 补足 CASE-016 遗漏的**家庭对游戏消费、机器、编程学习和职业道路的非同步许可**。
 
 Romero 继父早年强制反对其玩街机且有肢体暴力（书中S1、Romero本人P1），却也支付家庭 Apple II 的购置，并迁居令 Romero 接触大学机房；本人 1997、2018、2023 多次重申编程受认可、游戏消费不被认可。Carmack 获父母科学教育/设备支持，却面临母亲对学位和传统计算机职业的期待；家庭信托权属仍S1待核。Hall 家人提供游戏机与 Apple II、没有取消大学教育；同代 Mechner 父亲为《Karateka》作曲成为游戏生产同伴。
 
