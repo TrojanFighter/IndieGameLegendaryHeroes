@@ -21,6 +21,8 @@
 
 - [001 — 1995—2005产业转轨：同期来源审计](001-1995-2005-industry-transition-source-audit.md)：已核1999—2004的发行/研发/代理/融资/跨海峡史料；保留数字口径冲突和反例。
 - [002 — 台湾×大陆可比队列与人物研究路线](002-cross-strait-comparison-and-cohort-design.md)：对照变量、选样框、人物研究优先级、下一轮证据要求。
+- [003 — 原始鸟熊 × Team9人物Intake](003-creator-intake-original-birdbear-team9.md)：修正“非科班=零能力”叙事，登记能力重组、外围贡献与人生条件UNKNOWN。
+- [004 — GGJ 2024台北第一会场Public-Attempt Cohort](004-ggj2024-taipei-public-attempt-cohort.md)：10个实际A-J小组的固定起点队列；11条GGJ listing中剔除1条测试条目。
 
 ## 研究分工（单一权威，不重复记账）
 
