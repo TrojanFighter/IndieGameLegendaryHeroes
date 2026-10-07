@@ -162,6 +162,27 @@ Evidence Strength 继续由 Case Schema 单独管理。
 
 ---
 
+## 6B. Complement / Correction Architecture
+
+当人物或Case依赖共同创始人、核心搭档、强技术/创意二人组时，不再只写 capability complementarity。参考 [042](../book/research-notes/carmack-romero-complementary-error-correction-network-042.md) 与 CASE-056 Playdead，补以下字段：
+
+- Cross-domain fluency：双方是否理解彼此专业到能提出可执行反意见；
+- Veto / voice reality：弱势专业是否真的改变过强势专业的决策；
+- Role plasticity：比较优势变化后是否能重划角色而不触发身份战争；
+- Shared artifact frequency：争论多久能转成共同可玩的build / prototype / data；
+- Correction latency：错误从产生到暴露需要多久；
+- Complement portability：组合拆开后，哪些能力能带走，哪些属于关系本身；
+- Governance durability：ownership / credit / schedule / exit / final decision rights能否长期重谈；
+- High-status epistemic opponent：核心作者身边是否存在不依赖取悦他、且其能力足以让他重新考虑判断的人。
+
+最小结论区分三层：
+1. Capability composition：能否把产品做出来；
+2. Epistemic correction：能否互相改答案；
+3. Governance durability：多年后是否仍能在权利和节奏变化下合作。
+
+产品成功只能直接支持第一层，不能自动证明后二层。
+
+---
 ## 7. Problem Ownership
 
 检查：
