@@ -68,6 +68,7 @@
 | CASE-056 | Playdead / Arnt Jensen + Dino Patti | **CAPABILITY-COMPOSED / FOUNDER-GOVERNANCE DISSOLUTION PRESSURE**：原创作者 + production/programming/business founder 的互补组合成功支撑 LIMBO / INSIDE，却在成功后暴露 equity、time horizon、authorship、control 与 exit 成本；检验“互补能力”为什么不等于“免费合伙” | RESEARCHING |
 | CASE-057 | thatgamecompany / Sony → Benchmark → Sky | **CAPABILITY-EXPANDED / VC-EQUITY / CONTROL-SURFACE COMPARATOR**：$5.5M Benchmark 融资 + board seat、后续 $7M 扩 development/self-publishing/marketing/distribution；检验股权资本怎样把发行能力内建，同时把 obligation 移到 ownership / board / investor-return / future-round 层 | RESEARCHING |
 | CASE-058 | Spiderweb Software / Jeff Vogel | **FIT-STRONG / LONG-RUN FIT-LOCK-IN / NICHE-COMPOUNDING**：engine/assets、低成本 CRPG grammar、稳定出货节奏、niche audience 与 back catalog 长期复利；Queen's Wish 的 new-engine/new-system 转型把 production reset + audience replacement cost 显性化 | RESEARCHING |
+| CASE-059 | Slay the Spire / Mega Crit | **PARALLEL-AUTHORIAL-THREAD / BIG-COMPANY-EXIT / PRE-PARADIGM DESIGN**：Casey Yano 的 Amazon QA 能力被选择性迁移，但 college-era hobby-game author thread 与 Anthony 的 card/roguelike taste 保持公司外连续性；检验 prestige pipeline、作者身份、metrics-driven reality adjudication 与 category formation | RESEARCHING |
 
 ## Creator Life / Decision Audit
 
