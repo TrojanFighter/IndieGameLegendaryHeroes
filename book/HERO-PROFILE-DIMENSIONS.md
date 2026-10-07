@@ -12,6 +12,16 @@
 
 ---
 
+## 前置检查｜谁曾有机会积累体验资本？
+
+五条形成链不等于每个人从同一起跑线开始。真正的第一问是：**孩子是否曾获得可重复的游戏接触、制作工具、同伴、自由时间、作品发布机会，以及成年后选择职业的实际自主权？**
+
+家庭可能同时给钱买电脑却不允许玩街机，支持编程却阻止从事游戏业；也可能家长不玩游戏，但亲自为作品作曲/提供美术与生活资源。见 [Family-Gated Capability Pipeline / 美国1980年代 × 中国代际对照 029](research-notes/family-gates-game-creator-us-china-029.md)。早期 id 的 Romero / Carmack / Tom Hall 和同年代的 Jordan Mechner 正好形成不同父母参与方式的对照。
+
+**不要把体验资本不足归咎于个人不爱学。** 先查 machine access、play permission、make permission、market exposure、career veto、household runway；再问是否把经验转化成比较和设计。未入场者可能从未出现在英雄案例池，不能以成功者的童年回忆代替这个分母。
+
+---
+
 ## 1. Experience Capital / 体验资本
 
 不是“玩得多”。

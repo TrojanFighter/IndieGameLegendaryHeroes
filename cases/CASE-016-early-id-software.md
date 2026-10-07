@@ -57,6 +57,14 @@ Romero 回顾 Gamer's Edge 时强调两个月一个游戏的出货节奏；Tom H
 
 原有 `Household UNKNOWN` 特指**各阶段可量化 household burn / 储蓄 / 具体家庭补贴规模仍未知**，不是声称所有创始人都没有公开人生家庭信息。不得写成“他们风险相同、都可以退学辞职”。
 
+## Family and intergenerational gate / 新增人物反例
+
+[E027–E029](../evidence/CASE-016-early-id-software-source-ledger.md) 与 [跨中美家庭研究 029](../book/research-notes/family-gates-game-creator-us-china-029.md) 补足 CASE-016 遗漏的**家庭对游戏消费、机器、编程学习和职业道路的非同步许可**。
+
+Romero 继父早年强制反对其玩街机且有肢体暴力（书中S1、Romero本人P1），却也支付家庭 Apple II 的购置，并迁居令 Romero 接触大学机房；本人 1997、2018、2023 多次重申编程受认可、游戏消费不被认可。Carmack 获父母科学教育/设备支持，却面临母亲对学位和传统计算机职业的期待；家庭信托权属仍S1待核。Hall 家人提供游戏机与 Apple II、没有取消大学教育；同代 Mechner 父亲为《Karateka》作曲成为游戏生产同伴。
+
+**不得把个人成功倒推为其家庭管制有益，更不得把任何暴力浪漫化。** 家庭入口影响哪些能力有机会形成，独立于正式项目的能力—产品适配；全国技术拥有率/少年玩家比率不能直接推断这些人家庭收入，也不能直接同中国代际研究算“文化优劣”。
+
 ## Runway / Cross-Subsidy
 
 Commander Keen 的最初生产并不是“辞职创业后再找钱”：

@@ -6,6 +6,7 @@
 
 ## 当前索引
 
+- [`family-gates-game-creator-us-china-029.md`](family-gates-game-creator-us-china-029.md) — 从 Romero 继父（禁止街机与买电脑并存）、Carmack 学位冲突、Tom Hall、Mechner 家庭协作，对照中国跨代家庭游戏经验许可/职业否决；区分 A0 与可核证据。
 - [`early-id-1980s-america-life-decisions-001.md`](early-id-1980s-america-life-decisions-001.md) — 1980年代美国家庭电脑普及与阶层差异、学校/杂志/BBS/雇佣入口及 Romero/Carmack/Hall/Adrian/Jay/Miller 的传记与人生抉择。
 
 - [`masters-of-doom-longitudinal-master-study-001.md`](masters-of-doom-longitudinal-master-study-001.md) — Softdisk→Keen→Wolfenstein→DOOM→Quake→Ion Storm/Deus Ex：技术窗口创造、团队互补、生产转化和治理失配的纵向母案例。

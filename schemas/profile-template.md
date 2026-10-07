@@ -35,6 +35,24 @@ book/profiles/ 不是 Case 的散文化改写，也不是“成功项目复盘�
 
 ---
 
+## 1.5. Family Access, Play Permission, and Career Veto / 家庭上游筛选（有证据才填）
+
+对人物传记，**不要只问家人最终支不支持创业**；要向少年时期逆向追溯“本人是否曾有形成游戏/设计能力的机会”。至少明确（证据不足则写 UNKNOWN）：
+
+- **Machine/access:** 小时候第一台电脑/主机从哪里来？有多少时间可重复使用，是否在家庭外有学校/大学/社区替代入口？
+- **Play permission:** 谁决定游戏时间、具体品类、同伴/网吧/街机/社区？禁止是按成绩/健康/费用/安全/职业声誉还是别的理由？
+- **Make permission:** 家里会不会鼓励编程、美术、写作和制作工具，同时限制“玩游戏”？是否有投稿、发布、比赛或小作品机会？
+- **Career deviation:** 高考专业、找工作、转行、辞职或组工作室时，家人是否实际有财务/居住/照护约束权？“不理解”“反对”“经济上做不到”“能禁止”分开。
+- **Household contributors:** 不玩游戏的家人也可能提供美术、音乐、技术、住房、照护或反馈；支持未必是现金。
+- **Safety / autonomy:** 身体暴力、强制控制、普通意见分歧与对家庭债务的合理担忧须严格区分；成年和解也不替代当年伤害的事实。
+- **Absent creators:** 不只研究已成功开发者；记录因为缺少游戏接触/许可而没形成目标，或有作品却被阻止入行的人，防幸存者偏差。
+
+**比较规则：** 以本人当时年龄/年份/社会制度比较，不拿 1980s 美国街机、2005年中国网吧和2021年中国未成年人在线服务限制当同一现象。玩家小时数不等于 taste/设计能力；家长禁止与未来不成功之间不能未经设计推断因果。对私人亲友的生命史仅在知情同意和匿名保护条件下引用。
+
+Anchors: [family gate US-China research 027](../book/research-notes/family-gates-game-creator-us-china-029.md)；[CASE-016 Evidence E027–E029](../evidence/CASE-016-early-id-software-source-ledger.md)。Romero 的继父同时反对街机与资助 Apple II；Hall、Mechner 是正向对照；中国《WILL》《太吾绘卷》提供不同形式的家庭许可。
+
+---
+
 ## 2. Life Crossroads / 人生关键岔路
 
 每篇重要 Profile 至少选择 3 个真正改变后续可行选择集合的节点。

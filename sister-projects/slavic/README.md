@@ -82,6 +82,8 @@
 - 早期高度互补的成员为什么会产生 authorship、product thesis、governance 与 decision-rights 的分歧？
 - 相同公司/融资/品牌下的不同开发团队，为什么可能拥有不同的 production closure？
 
+此外，[美国 early id × 中国家庭/代际创作者入口研究 029](../../book/research-notes/family-gates-game-creator-us-china-029.md) 的家庭设备、学校/社群替代入口、游戏消费许可与职业否决字段，可以在研究苏联末期/俄罗斯 1990s PC 青年时作为抽样问卷维度；当前**没有斯拉夫样本足以据此得出家庭态度结论**。
+
 DOOM 仍归根目录 CASE-016 / Ledger；斯拉夫篇只交叉引用，不复制证据。不同历史时期的 PC 硬件、分发、劳资、政治与市场条件必须分开核算；美国对照组不构成民族创造力高低排序。
 
 ## 共同母题
