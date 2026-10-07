@@ -519,6 +519,36 @@ Canonical:
 
 ---
 
+## 11E. Creative Surplus Allocation / Future Capture
+
+当案例涉及创业、离职、publisher deal、IP、版税、股权、自发行或平台依赖时，额外记录：
+
+- `labor_cash`: 工资/项目奖金；
+- `revenue_participation`: royalty / profit share；
+- `equity`: 是否持有studio/company长期价值；
+- `credit_retention`: 成功credit是否可带走；
+- `ip_ownership`；
+- `sequel_derivative_rights`；
+- `publishing_distribution_rights`；
+- `customer_relationship_control`；
+- `audience_brand_portability`；
+- `future_decision_rights`；
+- `platform_mediation`；
+- `future_capture_ratio`: low / medium / high / unknown；
+- `authorship_reset_cost`: 换组织后多少资产归零。
+
+强制区分：
+- IP ownership ≠ creative sovereignty；
+- equity ≠ control；
+- royalty ≠ decision rights；
+- self-publishing ≠ direct customer ownership；
+- salary/title growth ≠ reusable author capital。
+
+Canonical:
+- [China 022 — Creative Surplus Allocation](../country-studies/china/022-creative-surplus-allocation-rights-customer-future-control.md)
+
+---
+
 ## 12. Capability Scaling
 
 当核心成立后，创作者是否能把它做成稳定产品：
@@ -614,6 +644,7 @@ Canonical:
 - Demand-side selection / consumer veto: # when relevant
 - Author brand / portable demand: # when relevant
 - Attribution politics / credit regime: # when relevant
+- Creative surplus allocation / future capture: # when relevant
 - Capability scaling:
 - Major unknowns:
 ```
