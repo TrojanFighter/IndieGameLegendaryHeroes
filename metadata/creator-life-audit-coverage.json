@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "last_updated": "2026-10-07",
   "purpose": "Coverage-only index for schemas/creator-life-decision-audit.md. No household or personal facts are duplicated here.",
   "statuses": [
@@ -447,10 +447,17 @@
       "audit_status": "substantial",
       "audit_scope": "individual",
       "has_audit_section": true
+    },
+    {
+      "case_id": "CASE-063",
+      "file": "cases/CASE-063-ivories-ggj-to-steam.md",
+      "audit_status": "partial",
+      "audit_scope": "organization_level",
+      "has_audit_section": true
     }
   ],
   "summary": {
-    "partial": 16,
+    "partial": 17,
     "substantial": 26,
     "pending": 20
   }
