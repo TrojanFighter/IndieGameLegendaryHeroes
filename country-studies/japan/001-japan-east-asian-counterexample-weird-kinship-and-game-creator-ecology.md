@@ -207,6 +207,14 @@ https://ndlsearch.ndl.go.jp/books/R000000004-I10857153
 
 因此日本后续不能只研究“谁拥有作者角色”，还要研究：**作者传统如何跨代保存，以及何时从组织记忆变成legacy lock-in。**
 
+## 7.7 日本“制度化怪人”至少有两条生成路线
+
+[003 Nintendo × Pocketpair](003-nintendo-pocketpair-two-alien-routes-originality-vs-recombination.md)进一步区分：
+- **INSIDE-ORGANIZATION ALIEN**：任天堂式长期雇佣组织里，通过prototype竞争与主动代际授权制造年轻作者；
+- **PRODUCTIVE DEFECTION / CROSS-ECOLOGY ALIEN**：溝部这类人在主流训练中获得技能/同伴，却拒绝其产品哲学，离开后把PC、Steam、创业和其他行业经验重新组合。
+
+这意味着“制度化怪人”不等于所有怪人都被公司内部善待；一个健康生态还可能需要**允许人叛出正统而不失去生产能力**。
+
 ## 8. 下一步最值得做的日本研究
 
 ### P0 — 日本商业游戏“作者角色”制度史
