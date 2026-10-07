@@ -107,6 +107,7 @@ Romero、Carmack、Tom Francis 真正值得看的地方，是目标怎样在 **�
 
 - [early id / DOOM：Romero 的家庭冲突、继父买电脑与职业形成](profiles/early-id-doom.md)；
 - [第一章：目标不是先想清楚的](chapters/01-goals-are-made-not-found.md)。
+- [梁其伟2007年被迫把《雨血》暂停一年、2008年重新开工的第一人称纵向研究](research-notes/family-gate-china-near-miss-liang-qiwei-030.md) — 区分母亲早年保存画作、挂科/保研资格失效后的家庭压力，以及换环境后的第二次机会。
 
 有些家庭反对的是**玩游戏占用学习时间**，却欢迎学习编程、画画和写作；有些家庭允许游戏和作品，但不愿让你承担无保障的职业风险；也有家庭不理解，却尊重成年人的选择。它们对应完全不同的问题，不能只归结为“家长不支持”。
 
