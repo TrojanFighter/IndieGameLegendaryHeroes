@@ -4,8 +4,9 @@
 
 - Scope: 《独立游戏英雄传说》读者层的成本比较／反成功叙事
 - Status: COMPARATIVE RESEARCH NOTE / NO NEW CLAIM
-- Reviewed: 2026-10-07
+- Reviewed: 2026-10-08
 - Evidence basis: CASE-007、042、050、051、048、054；辅助对照 CASE-020、058
+- Companion: [044 — Creator Exit & Re-entry Economics](creator-exit-reentry-economics-044.md)（专门处理失败后的就业、职业转向、作者性延续与再入场）
 - Excludes: 中国国情与斯拉夫姊妹篇；不消费私人游戏项目的未公开信息
 
 ## 1. 为什么不能把“现金成本低”直接翻译成“人生划算”
