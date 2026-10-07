@@ -301,7 +301,7 @@ FTL 成功以后，Subset 没有把“玩家想要 FTL 2”直接变成产品规
 | 技术强，局部问题无限多 | **STOP** 定义 enough condition | Factorio / Limit Theory | engine progress ≠ product progress |
 | 第一次成功，选择突然变多 | **PRESERVE OPTIONALITY** | Into the Breach / House House | success → premature fixed cost |
 | 已有多年固定产品 grammar | **AUDIT LOCK-IN** | Zachtronics / Spiderweb | switching cost / audience replacement |
-| 想从成熟 grammar 真正转出去 | **ESCAPE LOCK-IN** | **证据缺口，暂不提供成功公式** | 用单次新作假装已证明可复制 |
+| 想从成熟 grammar 真正转出去 | **STAGED ESCAPE** 分维度解耦 | Croteam / The Talos Principle（首例）；Zachtronics / Spiderweb（压力对照） | 一家 studio 的成功≠已知普适规律；2014 与 2023 所有权不同 |
 
 ---
 
@@ -381,11 +381,15 @@ FTL 成功以后，Subset 没有把“玩家想要 FTL 2”直接变成产品规
 可以证明：
 > 第一次成功后，团队可以通过低 burn、延迟承诺和不做直接续作来**防止过早锁死**。
 
-但目前还没有足够强的案例证明：
+现在找到第一份成熟 grammar 成功分叉正例：
 
-> **一个已经形成多年固定 production grammar 的作者 / 工作室，具体怎样低成本成功跨出去。**
+- [Croteam / Serious Sam → The Talos Principle → UE5](../cases/CASE-060-croteam-staged-lockin-escape.md) — 十余年 FPS 后，**2014 保留 Serious Engine/Editor**，但把不适合射击节奏的新谜题分离为独立产品，并补充外部写作和玩家测试能力；**2023 则在 2020 年已被 Devolver 收购的另一个所有权制度下，换掉自研技术底座而保留解谜产品语法**。
 
-因此这里暂不编造“转型公式”。
+因此可以提出一种有证据支持、但尚未经跨工作室验证的机制：
+
+> **先改变玩家价值，保留可复用生产底座；再在技术机会成本改变后，单独决定是否替换工具。**
+
+但仍然没有权利把它写成“低成本、可复制的成熟锁定逃逸公式”：Croteam 的 2014 项目预算、Devolver 条款、受众迁移和完整利润都尚未核实。
 
 真正值得继续找的不是第三个被锁住的作者，而是：
 - 独立新品牌是否降低 audience baggage；
@@ -406,7 +410,7 @@ FTL 成功以后，Subset 没有把“玩家想要 FTL 2”直接变成产品规
 - **“我缺关键能力。”** → Nomada / Witness / House House / TGC
 - **“我技术很强，但项目越做越大。”** → Limit Theory + Factorio
 - **“我成功过一次，不知道该不该扩张。”** → Into the Breach
-- **“我已经被自己最擅长的类型锁住了。”** → Zachtronics + Spiderweb
+- **“我已经被自己最擅长的类型锁住了。”** → Zachtronics + Spiderweb（代价）→ [Croteam（分阶段转型）](../cases/CASE-060-croteam-staged-lockin-escape.md)
 - **“我是名校 / 大厂高绩效者，想转作者项目。”** → [LR-001 大厂老兵→作者项目](life-routes/big-company-veteran-to-author-001.md)
 - **“我只想按职业找相似的人。”** → [按主创者能力进入](READER-ARCHETYPES.md)
 
