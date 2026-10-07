@@ -3,7 +3,7 @@
 - Program: C / 中国国情研究
 - Status: **PILOT INTAKE / ROSTER RECONCILIATION OPEN / NO POPULATION INFERENCE**
 - As-of audit: 2026-10-07
-- Unit: **公开提交的游戏项目**，不是开发者个人、雇员、报名者、团队或公司
+- Unit: **官方目录中的 submission listing（游戏项目条目）**，暂非已去重的独立游戏；更不是开发者个人、雇员、报名者、团队或公司
 - Research boundary: 只研究公开资料；不建个人隐私档案，不以姓名猜测任职、经济或家庭状况。
 - Method gate: [Creator Visibility / Sampling Gate](../../schemas/creator-visibility-sampling-gate.md)；[028 Media Selection & Denominator](../../book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md)
 - Hypothesis routing: [AC-010 Prestige Pipeline](../../author-corpus/AC-010-prestige-pipeline-coupling-and-authorial-continuity.md)；[中国三层图 018](../../book/research-notes/china-creator-constraints-three-layer-map-018.md)
@@ -22,15 +22,16 @@
 question: "一个不按媒体报道选人的公开 game-jam 入口，到底能观察到多少项目与什么类型的后续痕迹？"
 target_population: "2024 GGJ China × CiGA 深圳南山站在官方页面保留的游戏提交记录"
 unit_of_analysis: project
+counting_unit: official_directory_listing_not_deduplicated_game
 cohort_entry_event: "游戏作为 2024 GGJ 深圳南山站作品提交到官方 GGJ 网站"
 geography_and_year_window: "深圳南山站，2024-01-26 至 2024-01-28"
 sampling_frame: "GGJ 官网该场地的 Games 目录；不使用媒体/GDC/Steam 畅销榜筛选"
 inclusion_exclusion_rules: "收录目录中的全部游戏提交；不按奖项、题材、开发者履历或后续命运删选；站外未提交和仅报名者不计入"
 denominator_status: PARTIAL
-denominator_count: "官方当前目录显示 16 个项目；条目逐个完整重建尚未完成"
-visible_entries: "已追索到 14 个不重复的候选标题，尚待与完整 16 条目录逐项核对"
+denominator_count: "官网目录可读快照显示 16 条 listing；其中 BOOM CHASE 出现两次；唯一游戏数待核"
+visible_entries: "全部16条目录位置的标题已可读；15个不同题名；全部永久链接尚未复核"
 visibility_reasons: "official jam archive; official jam project pages; official site page"
-missingness: "官网目录读取不稳定、个别 403/500；至少 2 个目录项目名未确认；个人履历、私人原型、学校/雇主和团队完整成员未知"
+missingness: "官网目录访问不稳定、个别 403/500；重复题名 BOOM CHASE 的两条是否指向同一 submission 尚未核实；部分 permalink 未确认；个人履历、私人原型、学校/雇主和团队完整成员未知"
 outcome_definitions: "GGJ submission visible / post-jam continuation unknown / commercial release unknown / abandonment unknown / return-to-job unknown"
 followup_window_and_censoring: "2024 jam 至 2026-10-07；尚未系统追踪后续；网页失联/匿名身份不等于停止创作"
 rival_explanations: "自愿报名、场地主办网络、岗位/专业结构、团队合作、匿名程度、发布平台、社会经济支持"
@@ -47,9 +48,9 @@ forbidden_inference: "中国独立项目或大厂员工的创业率、创新能�
 3. 官方站点：`https://globalgamejam.org/jam-sites/2024/ggj-china-2024-ciga-shenzhen-nanshan`。
 4. 此入口只由**站点+时间**确定，不要求项目在 Steam 上架、被采访或后续商业成功。
 
-当前搜索与目录内容存在抓取不稳定：部分官方游戏页可打开，部分出现 403，目录尝试出现 500。**未取得可重用的完整目录导出，因此不能宣布“16/16 名册重建完成”。**
+当前搜索与目录内容存在抓取不稳定：部分官方游戏页可打开，部分出现 403，目录尝试出现 500。2026-10-07 一份完整搜索快照已读出**16个标题位置**，但仍未取得具有逐项 URL / ID 的可重用官方导出；不能宣布“16/16 独立提交已核对”。
 
-## 3. 逐项候选名册（当前 14 条；不是 14/16 完整成果）
+## 3. 官方目录的 16 个标题位置（15 种不同题名；同名条目待核）
 
 下表只记录项目**在第一方页面/搜索快照中的名称与入口**。未核的后续情况一律为 `NOT_ASSESSED`，不贴 `PUBLIC_UNFEATURED`、`FAILED`、`DROPPED_OUT` 等标签。
 
@@ -69,8 +70,10 @@ forbidden_inference: "中国独立项目或大厂员工的创业率、创新能�
 | SZ24-12 | 笑到最后 Laugh2Die | https://globalgamejam.org/games/2024/xiaodaozuihoulaugh2die-6 | NOT_ASSESSED / UNKNOWN |
 | SZ24-13 | 酶你不行 Funzyme | https://globalgamejam.org/games/2024/meinibuxingfunzyme-6 | NOT_ASSESSED / UNKNOWN |
 | SZ24-14 | Buy More | https://globalgamejam.org/jam-sites/2024/ggj-china-2024-ciga-shenzhen-nanshan | NOT_ASSESSED / UNKNOWN |
+| SZ24-15 | Just A Scratch | https://globalgamejam.org/games/2024/just-scratch-1 | NOT_ASSESSED / UNKNOWN |
+| SZ24-16 | BOOM CHASE〔官网列表中的第二个同名位置〕 | https://globalgamejam.org/group/499/games | NOT_ASSESSED / UNKNOWN |
 
-**Reconciliation debt**：剩余约 2 项的名称与永久链接尚未确认；目前14条也需同一时间点完整列表去重复核（项目别名、改名、删除以及新增均可能改变计数）。不得为了凑 16 猜标题或把别站项目挪入。
+**Reconciliation debt**：16 个列表位置已能读出，但并非 16 个已确认互异项目。\`BOOM CHASE\` 的两次出现还不能判断是同一个页面重复、两次提交还是同名作品；待核逐条官方 URL/ID，不能仅凭题名去重。2024 itch.io 另有 [同名作品](https://anyi-zerio.itch.io/boom-chase)，只能作为待匹配线索，**不能默认链接的是哪一个 GGJ 目录位置或证明职业延续**。
 
 第一方抽查的最小观察例：`Attack on otter` 页面可直接核对 2024 / Make Me Laugh / 深圳南山站 / Windows / Unreal Engine；`Office Laziness Battle` 页面列有 Windows / Unity 及作品说明。**引擎或题材不能证明开发者来自大厂/名校，也不能证明后续有商业发行。**
 
@@ -94,7 +97,7 @@ forbidden_inference: "中国独立项目或大厂员工的创业率、创新能�
 ## 5. 下轮操作——严格先抽样后追踪，禁止追名人
 
 ### Gate A｜名册完整性（当前未通过）
-- 以同一官网分页/快照核齐 16 个**永久游戏项目链接**，记录快照时间、总条目、重名/重复/已移除项。
+- 已从第一方搜索快照读齐 16 个**列表位置的题名**；下步核齐逐行永久 URL/ID，区分 \`BOOM CHASE\` 的同名/重复/二次提交，记录快照时间与网页版本。
 - 保留网站不可用证据，必要时交叉官方 Web Archive / organiser 导出；不可使用“媒体搜得到”为补齐唯一标准。
 - 如名单一直无法完整复原，`denominator_status=PARTIAL`；可展示个案但不可推断站内任何频率。
 
