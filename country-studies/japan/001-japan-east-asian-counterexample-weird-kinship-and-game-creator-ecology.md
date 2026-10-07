@@ -215,6 +215,12 @@ https://ndlsearch.ndl.go.jp/books/R000000004-I10857153
 
 这意味着“制度化怪人”不等于所有怪人都被公司内部善待；一个健康生态还可能需要**允许人叛出正统而不失去生产能力**。
 
+## 7.9 从“制度化怪人”升级到“创作者路网冗余”
+
+[004 日本创作者路网](004-creator-route-redundancy-doujin-corporate-exit-bridges.md)显示：日本异类不只靠公司内部保护。ZUN可在Taito执行岗之外维持Comiket作者身份，TYPE-MOON由doujin转商业，坂口博信由Square高位管理角色退出建立Mistwalker，Pocketpair则是主流训练后的跨生态叛离。Comiket、BitSummit与publisher进一步承担路线之间的市场/翻译桥梁。
+
+因此新增核心变量 **CREATOR_ROUTE_REDUNDANCY**：某一路径不给作者权时，社会是否还有第二、第三条真实生产路线。它可能比“平均个人主义”更直接解释日本内容产业韧性。
+
 ## 8. 下一步最值得做的日本研究
 
 ### P0 — 日本商业游戏“作者角色”制度史

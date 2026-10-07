@@ -44,6 +44,10 @@
 
 新增 [012](../../country-studies/china/012-full-cycle-authoring-team-supply-proxy-china-vs-comparators.md) 将“为什么中国前沿IP可选成熟团队仍显得少”拆为可证伪命题。2025-07 Steam Top200愿望单国别快照：中国8、韩国10、波兰12、瑞典14.75；配合各国active studios/员工统计，**只允许写为全球premium高关注产品管线代理**，不能写为民族创造力或真实作者型团队比例。下一步目标变量固定为 `FULL_CYCLE_TEAM_DENSITY` 与 `SECOND_ATTEMPT_CAPACITY`。
 
+## 1.6 日本对中国框架新增：不要只测作者数量，要测“堵路以后还有几条路”
+
+[Japan 004](../../country-studies/japan/004-creator-route-redundancy-doujin-corporate-exit-bridges.md)提出 `CREATOR_ROUTE_REDUNDANCY / ROUTE_SWITCHABILITY / CAPABILITY_SPILLOVER`。日本案例显示：公司内部作者化、雇员side project、同人自出版、doujin→商业、老兵离职创业、跨行业创业、publisher/event桥梁可并存。中国后续应同字段检查：潜在创作者在第一条正规路径被否后，是否仍有低成本第二/第三生产路线；不要把“存在Steam/比赛/大厂岗位”机械等同完整生态。
+
 ---
 
 # 二、教育层矩阵：不是“谁更自由”，而是谁能把学习变成判断
