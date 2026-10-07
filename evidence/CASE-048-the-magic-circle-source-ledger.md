@@ -45,7 +45,7 @@
 - Source class: P1 — direct creator conference reporting.
 - Title: Devs share real talk about surviving the latest 'indiepocalypse'.
 - Author / Institution: Game Developer; Jordan Thomas speaker.
-- Published: 2016-03-16.
+- Published: 2016-03-15.
 - Accessed: 2026-10-07.
 - URL: https://www.gamedeveloper.com/business/devs-share-real-talk-about-surviving-the-latest-indiepocalypse-
 - Claim use: Thomas reports about 16.5k copies and about 44k wishlists and calls the result unsustainable; diagnoses zero marketing budget, unclear genre and niche meta framing.
