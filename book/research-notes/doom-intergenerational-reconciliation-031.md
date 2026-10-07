@@ -3,7 +3,7 @@
 - **Status:** RESEARCH NOTE / LONGITUDINAL BIOGRAPHICAL AUDIT / PRE-CLAIM / 2026-10-07
 - **Study period:** Romero 与 Carmack 家庭约1979–1999；Romero 2023 与2025回看三代关系。中国梁其伟2005–2014交叉核对。
 - **Mother studies:** [early id 1980s environment](early-id-1980s-america-life-decisions-001.md)；[家庭门控中美比较 029](family-gates-game-creator-us-china-029.md)；[梁其伟 /《雨血》近失 030](family-gate-china-near-miss-liang-qiwei-030.md)；[DOOM 母案例](masters-of-doom-longitudinal-master-study-001.md)。
-- **CASE:** [CASE-016](../../cases/CASE-016-early-id-software.md)，证据 [E031–E036](../../evidence/CASE-016-early-id-software-source-ledger.md)。梁其伟2010/2014年一手材料另见本文，不改造独立 CASE。
+- **CASE:** [CASE-016](../../cases/CASE-016-early-id-software.md)，证据 [E031–E037](../../evidence/CASE-016-early-id-software-source-ledger.md)。梁其伟2010/2014年一手材料另见本文，不改造独立 CASE。
 - **Source hierarchy:** Kushner *Masters of Doom*（中文《DOOM启世录》）S1，有访谈式对话和场景复原，不等于录音笔记；Romero本人2023/2025直接访谈P1；梁其伟2010直接访谈（接近时期一手）、2014本人自述（回顾一手）；心理学2004原始研究只作一般比较理论，不拿临床概念诊断历史人物。
 - **Question:** 家庭的“反对→成功→赞成→和解”究竟发生了什么变化？如果一个人没有成功、没有财产、没有获得父母认可，是否仍有资格选择不同的生活？
 - **Temporal Gate:** 关系维度分析DURABLE；具体美国1990年代创业回款与中国2000年代保研/留学制度HISTORICAL；2026实际家庭沟通建议只能CONDITIONAL。
