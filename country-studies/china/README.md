@@ -105,6 +105,10 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 
 此入口研究的是**公开参赛项目**，不是名校毕业生、大厂员工或潜在创业者；不能把找不到持续公开作品误写成“失去作者性”。下一步先核对站内16个 listing 的永久链接并解决同名条目，再判断是否有足够公开职业证据进入 AC-010 的声望管道检验。
 
+## 4.8 创作者路网：从“有没有路”转向“路能活多久、能不能换路”
+
+新增 [016 — 中国创作者路网拓扑](016-creator-route-topology-from-66rpg-to-modern-bridges.md)。2026年66RPG数字民族志证明中国早在2005前后已形成大规模hobbyist game-making commons，关闭前档案有86万+用户/329万帖子；梁其伟《雨血》从该社区进入海外商业市场。2009 IGF China、2011后GGJ、2015后CiGA/indiePlay/GWB、2016 China Hero、2023后TapTap Spotlight进一步说明现代旁路数量已明显增加。当前问题从`ROUTE_COUNT`转向`ROUTE_DURABILITY / ROUTE_SWITCHABILITY / ROUTE_REVERSIBILITY / AUTHORIAL_SECOND_ATTEMPT`；不再使用“中国没有创作者生态”的粗断言。
+
 ## 5. 当前正式化状态
 
 008–015 已完成本轮素材 provenance closeout。
