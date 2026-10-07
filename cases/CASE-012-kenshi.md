@@ -78,3 +78,20 @@ Lo-Fi 官方资料补充：Hunt 早年曾做游戏程序员，但厌恶“cash-c
 4. 从 solo 到团队的每年 headcount/职责变化？
 5. 美术、音乐、引擎/中间件等外部贡献？
 6. 超大 scope 为什么没有导致项目死亡：哪些复杂度实际被延后或外置？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL
+- **Life stage:** 已有职业程序经验后离开旧工作，进入多年 solo-dominant 开发；前五六年同时从事最低工资夜班保安工作。
+- **Household:** relationship / children / housing / family transfers `UNKNOWN`。
+- **Runway:** night-shift security salary 长期交叉补贴个人开发；2013 Steam Early Access 后，玩家收入开始转化为团队招聘与生产能力。
+- **Household burn:** 精确金额 `UNKNOWN`；长期低工资 + 双重劳动说明时间与体力是重要隐形成本。
+- **Exit / recovery:** **MEDIUM** — 有游戏程序职业前史，但开发期持续多年、真实再就业选择与家庭安全网未公开；夜班本身提供最低现金下限。
+- **Capability vector:** professional programming / systems engineering 强；早期美术/表现与组织能力较弱；后续用收入补 art / world design / PR / writing。
+- **Problem ownership:** **HIGH** — Hunt 对巨大系统愿景与长期产品方向拥有高控制。
+- **Validation architecture:** long solo build → playable commercial access / Greenlight / Early Access → paying users → team expansion → long-form completion。
+- **Reality adjudication:** **PARTIAL / SLOW** — EA 最终把玩家/收入接入生产，但巨大 scope 在此前已持续多年；哪些系统因玩家反馈被杀掉仍缺细证。
+- **Capability capture risk:** **MEDIUM / UNKNOWN** — system ambition 与超大 scope 高度一致，但没有足够证据证明某一 specialist frontier 吸走 closure。
+- **Market sufficiency / legibility:** **PARTIAL→STRONG over time** — EA 逐步形成付费需求与社区；早期项目可读性与销量增长时间线仍需补。
+- **Capability scaling:** **STRONG AFTER MARKET SIGNAL** — solo foundation 在付费市场成立后转为 revenue-funded specialist team。
+- **Major unknowns:** household economics、夜班/开发工时、早期售价/收入、逐年 headcount、完整 contributor perimeter。
