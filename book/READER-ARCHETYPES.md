@@ -10,7 +10,7 @@
 
 “出身”只是起点，不是命运。岗位名称不能代替能力审计；同样的 Technical Artist、程序员或策划，真实能力结构可能完全不同。
 
-本页按**能力结构**进入，但能力不是唯一坐标。一个 24 岁单身程序员、一个有稳定工资的 31 岁制作人、一个 35 岁有房贷孩子的创作者，即使能力类似，也不应承担同样的项目风险。对应的第二坐标是 Creator Life / Decision Audit：household、runway、退出能力、验证结构与 market sufficiency。当前研究入口见 [P0 人生风险决策对照](research-notes/creator-life-decision-audit-p0-backfill-024.md)。
+本页按**能力结构**进入，但能力不是唯一坐标。一个 24 岁单身程序员、一个有稳定工资的 31 岁制作人、一个 35 岁有房贷孩子的创作者，即使能力类似，也不应承担同样的项目风险。对应的第二坐标是 Creator Life / Decision Audit：household、runway、退出能力、验证结构与 market sufficiency。当前研究入口见 [P0 人生风险决策对照](research-notes/creator-life-decision-audit-p0-backfill-024.md)；runway 结构与“何时扩团队”的进一步比较见 [P1 Runway / Evidence-Following Scaling](research-notes/creator-life-decision-audit-p1-backfill-025.md)。
 
 每条入口同时标记历史年份和 **2026 时效状态**。具体平台打法过期，不等于案例失去价值；真正要保留的是项目如何围绕能力不对称重新定义问题。
 
