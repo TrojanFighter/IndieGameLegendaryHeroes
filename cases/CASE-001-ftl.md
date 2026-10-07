@@ -330,3 +330,20 @@ FTL 第一轮证据目前最有价值的不是“贫穷独立开发者逆袭”�
 8. 哪些表现决策直接降低了资产生产成本？
 9. 如果 Kickstarter 只筹到 USD 10,000，他们是否仍会发布？
 10. 如果竞赛反馈平淡，他们是否已经准备返回 studio employment？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL
+- **Life stage:** 两位核心开发者均已有职业游戏开发经验；FTL 起点被当作工作之间的 small / résumé project，而非一次性押上全部职业身份。
+- **Household:** 伴侣、婚育、住房与家庭转移支付均 `UNKNOWN`；Kickstarter location 可确认上海，但不能据此自动推断低生活成本。
+- **Runway:** 离职前个人储蓄足以支持“几个月”小项目；China IGF / IGF / 媒体反馈先于 Kickstarter；2012 Kickstarter $200,542 pledged / 9,818 backers 后才显著提高承诺等级。
+- **Household burn:** `UNKNOWN`；上海租金、医疗、家庭责任和月 burn 均未闭环。
+- **Exit / recovery:** **MEDIUM EXIT OPTIONALITY** — 两人已有 2K Shanghai 职业履历，而且早期把项目视为 résumé / 过渡项目；但具体再就业条件与家庭安全网未知。
+- **Capability vector:** Davis 偏 programming；Ma 偏 art / design / scripting；shared design；外部音乐等 specialist contribution。
+- **Problem ownership:** **HIGH** — 核心 thesis 与 scope 由两人直接控制，早期并非 publisher / employer 委托。
+- **Validation architecture:** small prototype → China IGF finalist → IGF / 媒体兴趣 → Kickstarter → commercial release。
+- **Reality adjudication:** **STRONG / staged** — 团队在外部兴趣出现前保持低承诺，并随 evidence 逐级扩大投入；具体哪些设计因测试被删除仍需补证。
+- **Capability capture risk:** **LOW / UNKNOWN** — 当前材料更支持 capability-shaped representation；尚无强证据显示某一 specialist frontier 吸走 product closure。
+- **Market sufficiency / legibility:** **STRONG pre-launch signal** — competitions、媒体与 Kickstarter 已证明高需求信号；不能把 Kickstarter 当第一次验证。
+- **Capability scaling:** 从两人 core 扩到外部音乐 /发行外围；完整 contributor / post-launch scaling 仍 partial。
+- **Major unknowns:** household economics、精确储蓄/月 burn、上海成本、Kickstarter 净额、伴侣/家庭支持。
