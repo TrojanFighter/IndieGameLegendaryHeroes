@@ -38,6 +38,7 @@
 
 ## 1.5.1. Premium PC 生态分叉：完美世界／Runic × Nival（2000—2017）
 
+- [中俄新人→老兵：cohort maturation数量级对照（2005—2010）](china-russia-cohort-maturation-scale-2005-2010.md)：从stock问题改为flow问题。中国2005—06网游生态极年轻（117团队、1.2455万研发者、85%年龄20—30岁），俄语KRI 2004/05仍有明确年轻PC/Premium项目入口；真正待测的是新人在不同problem domain里的5/10年成熟率。
 - [中俄游戏从业者老兵数量级审计（2018—2021）](china-russia-veteran-scale-audit-2018-2021.md)：纠正由少量主创案例外推国别密度的方法错误；先比较产业人口、经验分布与绝对数量级。现有广义数据不支持俄方全行业更老，真正待检验的是Premium/模拟/CRPG子行业中的老兵集中度。
 - [中俄核心credits老兵密度试验：2003—2015](china-russia-core-credits-pilot-2003-2015.md)：从中国7名早期核心主创与俄方7名2005 cohort核心人员做同口径跟踪。进入各自cohort时两边可核经验中位数都约4年；到2010s两边都已形成老兵。真正差异更像Premium→Premium持续窗口与problem-domain配置，而非简单工龄。
 - [中俄老兵决策位：个人级试验矩阵](china-russia-veteran-decision-role-pilot-2000-2015.md)：否定“俄罗斯从业者普遍都是老兵／中国缺老兵”的简单说法，改测VDRD、HRR与Problem-Domain Continuity。当前样本显示中国也有姚壮宪、张毅君、刘坤等长期hands-on老兵；差异更可能在老兵经验被配置到Premium/系统问题域还是Online/MMO/商业生产问题域。
