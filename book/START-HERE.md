@@ -14,13 +14,14 @@
 
 如果你只是想读故事，从下面选一个和你现在最接近的问题开始。
 
-如果你更愿意像读一本书一样顺序读，目前已经有五篇跨人物章节：
+如果你更愿意像读一本书一样顺序读，目前已经有六篇跨人物章节（第六篇是跨篇章专题）：
 
 1. [目标不是先想清楚的](chapters/01-goals-are-made-not-found.md)
 2. [先买几个月试错](chapters/02-buy-time-before-betting-your-life.md)
 3. [失败不是资产](chapters/03-failure-only-matters-if-something-survives.md)
 4. [技术时代不会替你做选择](chapters/04-technology-will-not-choose-for-you.md)
 5. [市场不是最后一步](chapters/05-market-interface-is-production.md)
+6. [你缺的真是一支团队吗？](chapters/06-you-do-not-need-a-standard-studio.md)
 
 完整章节目录见 [Chapters](chapters/README.md)。
 
@@ -165,7 +166,9 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 **先别把“有清楚的作者愿景”误当成“玩家已经验证了它”。**
 
-进入 [LR-004：作品方向已经明确，但团队做不出来](life-routes/project-thesis-capability-gap-004.md)。
+先读人物故事与代价：[你缺的真是一支团队吗？有时应该换掉的，是游戏的做法](chapters/06-you-do-not-need-a-standard-studio.md)。
+
+需要真正决定缩项目、学习、外包、合伙、招聘或融资时，再进入 [LR-004：作品方向已经明确，但团队做不出来](life-routes/project-thesis-capability-gap-004.md)。
 
 这里用《Gunpoint》《The First Tree》《GRIS》《The Witness》《Outer Wilds》《The Talos Principle》与《Playdead》《The Magic Circle》《Limit Theory》等正反生产史，回答同一个问题：**什么证据值得付哪一级承诺成本？**
 
