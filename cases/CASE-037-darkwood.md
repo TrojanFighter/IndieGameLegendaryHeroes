@@ -138,3 +138,20 @@ Darkwood 独特美术/氛围、2013–2017 survival-horror/EA 市场窗口、创
 3. credits audit：移植、发行、QA、翻译、外部服务；
 4. 查三位创始人在 Darkwood 前的职业背景与可迁移技能；
 5. 对照同期波兰/东欧众筹失败项目，避免从最终成功反推普遍方法。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL / RUNWAY-STRESS TEST
+- **Life stage:** three hobby/game-jam creators attempting first major commercial project; early production required paid contract work to survive.
+- **Household:** relationship / children / housing / family support `UNKNOWN`。
+- **Runway:** paid contract work → Indiegogo (~143% goal) → gross funding exhaustion in <12 months → Steam Early Access over ~3 years → final release / later platforms.
+- **Household burn:** exact personal burn `UNKNOWN`; team explicitly misestimated taxes, VAT, licenses, studio, hardware, physical rewards, shipping and promotion, proving project cash model was incomplete.
+- **Exit / recovery:** `UNKNOWN` — creators had transferable skills sufficient for contract work, but individual reemployment options were not documented.
+- **Capability vector:** prototype/game-jam capability、atmosphere/art/audio within core、small-team systems production; long-project scheduling/financial planning initially weak.
+- **Problem ownership:** **HIGH** — team controlled thesis and deliberately removed multiplayer to avoid long-term obligation.
+- **Validation architecture:** hobby/prototype → contract-work bridge → Indiegogo → backer/community → Early Access → long iterative development → release.
+- **Reality adjudication:** **STRONG FINANCIAL + PRODUCT** — crowdfunding “success” was falsified as sufficient runway; EA then became second financing/feedback layer.
+- **Capability capture risk:** **LOW / NOT PRIMARY** — central failure was estimation and runway, not specialist frontier obsession.
+- **Market sufficiency / legibility:** **STRONG ENOUGH TO EXTEND RUNWAY** — EA/public interest supported completion, but 2013–2017 crowdfunding/EA conditions are historical.
+- **Capability scaling:** remained tiny core; scaling happened more through financing layers and selective scope deletion than headcount.
+- **Major unknowns:** founders household、gross→net crowdfunding exact accounting、EA annual cashflow、credits/porting/QA perimeter。
