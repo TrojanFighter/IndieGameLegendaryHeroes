@@ -4,6 +4,7 @@
 - Status: **MECHANISM FRAMEWORK / COMPARATIVE CASES / NOT LEGAL ADVICE**
 - As-of: 2026-10-08
 - Parent: [021 — Attribution Politics](021-attribution-politics-credit-regimes-author-power.md)
+- Ecosystem extension: [023 — Creator Class Formation](023-creator-class-formation-intergenerational-reproduction.md)
 - Author brand: [020 — Author Brand Capital](020-author-brand-capital-portable-demand-bargaining-power.md)
 - Author rights: [015 — 中国 × 日本：作者权与代际更新](015-japan-comparator-frontier-permeability-author-rights-and-creator-replacement.md)
 - Boundary: 本文的“创作剩余”不是严格马克思主义“剩余价值”法律/经济学术语，而是指**一款作品成功后，除当期工资与已结算成本之外继续沉淀、可被下一轮复用的经济、品牌、产权与决策资产**。
@@ -956,3 +957,23 @@ who gets the last word?
 ## 18. 当前最小结论
 
 > **创作成功不是一个单一“利润池”，而会分裂成工资、分成、股权、署名、IP、续作权、发行权、客户关系、品牌与下一轮decision rights等多层资产。现代软件法律本来就允许公司集中持有职务作品产权，因此真正决定创新者能否持续自主的，不是“IP归个人还是公司”这一项，而是整个Creative Surplus Allocation Stack。最深的创作剩余不是上一作赚了多少钱，而是上一作成功以后，谁拥有更多资格、资源和市场信用去决定下一作。**
+
+
+## 19. Future Capture 之后：成功是否外溢给下一代？
+
+022到此只回答：
+> 这次成功有多少资产进入了创作者自己的下一次项目？
+
+023进一步追：
+> **创作者自己的Future Capture，有多少转化成别人的Future Transfer？**
+
+因此所有成熟生态研究必须继续追：
+- 是否资助其他creator；
+- 是否借出audience；
+- 是否开放工具/know-how；
+- 是否产生spinout；
+- 是否建立publisher/fund/jam/collective；
+- 受益的第二代是否继续扶持第三代。
+
+Canonical:
+- [023 — Creator Class Formation](023-creator-class-formation-intergenerational-reproduction.md)

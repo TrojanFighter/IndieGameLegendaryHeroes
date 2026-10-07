@@ -549,6 +549,34 @@ Canonical:
 
 ---
 
+## 11F. Creator-Class Formation / Ecosystem Externality
+
+当人物/工作室已经有显著商业成功、长期存续或资本积累时，额外记录：
+
+- `future_transfer`: 是否把资源给其他creator；
+- `capital_recycling`: funding / advance / investment / grants；
+- `taste_recycling`: greenlight / curation / mentoring；
+- `audience_lending`: showcase / newsletter / cross-promo / event；
+- `infrastructure_recycling`: tools / SDK / publishing / QA / localization；
+- `human_capital_reproduction`: alumni / spinout / modder→professional；
+- `governance_recycling`: 是否把developer autonomy写入下一代制度；
+- `creator_surplus_multiplier`: low / medium / high / unknown；
+- `second_generation_success`: 是否存在受益者成功样本；
+- `third_generation_transfer`: 第二代是否继续扶持第三代；
+- `institution_persistence`: 是否跨5年/创始人/收购继续存在。
+
+强制边界：
+- 1个成功publisher ≠ creator class；
+- 1个mentor ≠ intergenerational reproduction；
+- developer-founded publisher ≠ automatically creator-friendly；
+- individual generosity ≠ institution；
+- case existence ≠ same quantity / same causal strength.
+
+Canonical:
+- [China 023 — Creator Class Formation](../country-studies/china/023-creator-class-formation-intergenerational-reproduction.md)
+
+---
+
 ## 12. Capability Scaling
 
 当核心成立后，创作者是否能把它做成稳定产品：
@@ -645,6 +673,7 @@ Canonical:
 - Author brand / portable demand: # when relevant
 - Attribution politics / credit regime: # when relevant
 - Creative surplus allocation / future capture: # when relevant
+- Creator-class formation / ecosystem externality: # when relevant
 - Capability scaling:
 - Major unknowns:
 ```
