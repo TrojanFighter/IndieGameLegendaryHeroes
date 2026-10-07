@@ -278,7 +278,48 @@ Brigador 是必要反例。
 
 ---
 
-## 六、产品很好，也可能在“第一分钟怎么被理解”这里失败
+## 六、一个 Jam 原型怎样变成正式产品
+
+2024 年，Ivories Studios 的几个成员在 Global Game Jam 做了一个很小的第一人称射击原型。
+
+原型里最显眼的东西，是一套可以捡起、组合、摇动再投出去的特殊武器系统。它不是一份商业企划，也没有先证明市场规模。Jam 结束以后，团队把可玩的 build 带去当地独立开发者聚会。
+
+后来他们回忆，那里的反馈让他们觉得这个点子值得继续做。
+
+于是项目从几天内完成的原型，变成了一年左右的正式制作：增加完整关卡、更多效果组合、速通路线和排行榜。2025 年 3 月 27 日，《Shake the Baby!》在 Steam 发售。
+
+这条历史现在已经有开发团队自己的公开记录支持。2024 年 12 月，Zeyt8 在 Steam 开发者公告里回顾过 GGJ 起点；发售期，团队成员又说明了原型、当地开发者聚会以及后续扩充过程。完整研究和来源见 [CASE-063](../../cases/CASE-063-ivories-ggj-to-steam.md) 与 [Evidence Ledger](../../evidence/CASE-063-ivories-ggj-to-steam-source-ledger.md)。
+
+这件事对“市场什么时候进入生产”很有用，因为团队拿到的第一轮信号并不是销量。
+
+他们先得到的是一种更便宜的回答：
+
+> 这个核心玩法值不值得再投入一年？
+
+当地开发者的正面反应无法证明多少人会购买，也没有替团队支付开发成本。它只是帮助团队判断：这个原型有没有资格进入下一阶段。
+
+Steam 发售回答了另一个问题：团队确实把原型扩成了可交付产品。
+
+商业上的第三个问题——销量和收入是否足以覆盖这一年的生产——目前仍然没有公开财务资料可以回答。Steam 商店页面和少量用户评论都不足以换算真实销量或净利润。
+
+所以这条路径更接近：
+
+```text
+bounded prototype
+→ peer play / local meetup
+→ continue-or-stop decision
+→ roughly one year of expansion
+→ shipped Steam product
+→ commercial sufficiency still unknown
+```
+
+它和 Minecraft 的早期付费开发不同。Minecraft 的玩家很早就同时提供反馈和现金；Ivories Studios 这里，早期外部反馈主要提供的是**选择信息**。
+
+这两种市场接口解决的不是同一个问题。
+
+---
+
+## 七、产品很好，也可能在“第一分钟怎么被理解”这里失败
 
 Brigador 的 Steam 评价和媒体口碑证明，至少有一群真正进入产品的人很喜欢它。
 
@@ -317,7 +358,7 @@ Brigador 有过 reach。
 
 ---
 
-## 七、“零营销”为什么经常只是错误记忆
+## 八、“零营销”为什么经常只是错误记忆
 
 很多成功案例几年后会被压成：
 
@@ -358,7 +399,7 @@ Brigador 有过 reach。
 
 ---
 
-## 八、市场越早进来，并不代表越好
+## 九、市场越早进来，并不代表越好
 
 到这里最容易又变成另一种教条：
 
@@ -399,7 +440,7 @@ Brigador 有过 reach。
 
 ---
 
-## 九、真正值得设计的是 Market Interface，不是“营销阶段”
+## 十、真正值得设计的是 Market Interface，不是“营销阶段”
 
 一个项目可以把市场接口拆成几个功能：
 
@@ -421,7 +462,7 @@ Brigador 有过 reach。
 
 ---
 
-## 十、市场接口可以让项目更聪明，也可以让项目更蠢
+## 十一、市场接口可以让项目更聪明，也可以让项目更蠢
 
 更多数据不等于更好判断。
 
@@ -439,7 +480,7 @@ Bills Must Be Paid 最有价值的一部分，恰恰是团队后来反思：
 
 ---
 
-## 十一、市场是生产系统的一部分，但不是产品真理机器
+## 十二、市场是生产系统的一部分，但不是产品真理机器
 
 把四个案例放在一起，可以得到一个更严格的说法。
 
@@ -467,7 +508,7 @@ Brigador：
 
 ---
 
-## 十二、如果你正在做东西，先别问“什么时候开始营销”
+## 十三、如果你正在做东西，先别问“什么时候开始营销”
 
 更有信息量的问题是：
 
@@ -501,6 +542,7 @@ Brigador：
 | Factorio 众筹 → 官网 paid alpha / direct sales | 2012–2015 | Indiegogo、官网支付、YouTube/论坛、Steam 尚非第一入口 | HISTORICAL / CONDITIONAL | 让市场接口同时承担验证与融资；支付/平台实现不可照抄 |
 | Bills Must Be Paid demo / creator / Next Fest 路径 | 2026 | 当代 Steam demo、creator、browser portals、Next Fest 等 | CURRENT — Verified 2026-10 | 允许外部信号改变 launch plan；不能把某个 surface 的结果当固定算法公式 |
 | Brigador EA / convention / PR / creator outreach 仍未解决 launch | 2015–2017 | 当时 Steam/媒体/展会环境 | DURABLE mechanism / HISTORICAL tactics | reach ≠ legibility；市场活动数量不等于正确市场接口 |
+| Ivories Studios：GGJ prototype → meetup → Steam shipping | 2024–2025 | 已有2021商业前作的小团队、GGJ、本地独立开发者聚会、Steam | CURRENT HISTORY / CONDITIONAL | 低成本原型与同行试玩可帮助决定是否继续投入；正式发售不等于已经回本 |
 
 完整规则见 [Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
 
@@ -513,6 +555,7 @@ Brigador：
 - [Factorio](../../cases/CASE-035-factorio-wube.md)
 - [Bills Must Be Paid](../profiles/bills-must-be-paid.md)
 - [Brigador](../../cases/CASE-026-brigador.md)
+- [Ivories Studios / GGJ2024 → Steam2025](../../cases/CASE-063-ivories-ggj-to-steam.md)
 
 研究命题：
 - [C010 — 市场接入是生产系统的一部分](../../claims/README.md)
