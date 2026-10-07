@@ -96,7 +96,7 @@ commercially viable authored product
 - **Capability scaling:** complementary veteran core + selectively purchased capacity; all contributor/outsourcing audit PARTIAL.
 - **Major unknowns:** full household budget, loan currency, repayment/interest, compensation, exact per-release cash balance timing, net market receipts.
 
-## Anachronism Check
+### Anachronism Check
 
 - Kickstarter 2014, creator mailing lists, pre-crowdfunding trailer virality and the 2015 Steam Early Access discovery regime are historical, not a ready-made 2026 marketing plan.
 - A gross pledge of US$313,337 cannot be treated as net cash or all-in cost, and the early loan’s currency and repayment terms remain UNKNOWN.
