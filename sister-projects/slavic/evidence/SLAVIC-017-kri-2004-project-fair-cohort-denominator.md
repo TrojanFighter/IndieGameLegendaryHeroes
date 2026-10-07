@@ -264,3 +264,28 @@ organization survival / people retention / domain retention / lead conversion。
 - Parallax 2008：https://store.steampowered.com/app/12390/
 - iO UPG 2007：https://www.pocketgamer.com/pocket-heroes-mob/pocket-heroes-marching-onto-windows-mobile/
 - Palm Kingdoms lineage：https://ru.wikipedia.org/wiki/Palm_Kingdoms
+
+
+## 九、存续必须拆四种，禁止把“旧作继续卖”算成团队仍在开发
+
+Project Fair cohort后续统一编码四种状态：
+
+1. **Commercial-output persistence**：旧作、移植版、地区版仍有商业发行；
+2. **Active-development persistence**：团队仍在开发新的游戏/版本；
+3. **Organization persistence**：同一法人/工作室仍存在；
+4. **People retention**：原核心成员即使公司死亡，仍在游戏业核心岗位。
+
+四者不能互相替代。
+
+典型风险：
+- Digital Spray《You Are Empty》存在2008/2009海外地区发行，但这只能确认旧产品商业尾巴；不能据此证明团队2009仍在持续开发新作。
+- Parallax Arts的《Exodus from the Earth》2008正式发行，可计2008 commercial output；是否代表2008仍有持续研发、以及2014组织存续，需要单独证据。
+- Temporal Games项目失败，但成员进入Ice-Pick等，只能计people retention，不能计organization survival。
+
+因此后续CMR至少拆：
+- CMR-commercial
+- CMR-active-development
+- OSR — organization survival rate
+- PRR — people retention rate
+
+若公开材料只能确认其中一项，其他项必须保持UNKNOWN。
