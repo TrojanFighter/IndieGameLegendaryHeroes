@@ -356,6 +356,65 @@ Atari开发者主动争署名，因为他们认为：
 
 这可能是中美归因政治最值得比较的地方之一。
 
+## 7.1 `PRIVATE REPUTATION / PUBLIC AUTHORSHIP GAP`
+
+触乐采访中还有一个容易被忽略的机制：
+- 一些从业者认为自己跳槽并不依赖公开游戏credit；
+- 作品集、笔试、面试、业内背调、同事网络足以证明能力；
+- 高级岗位甚至会通过更深入的reference check判断某人到底负责过什么。
+
+这意味着一个行业可以同时存在：
+
+```text
+HIGH private labor-market reputation
++
+LOW public player-facing authorship
+```
+
+即：
+
+# `PRIVATE REPUTATION / PUBLIC AUTHORSHIP GAP`
+
+这种制度对公司和成熟从业者未必低效：
+- 好人才仍可被同行识别；
+- 招聘仍能完成能力匹配；
+- 公司品牌不会过度依赖个人。
+
+但其需求侧后果完全不同：
+- 玩家不知道该跟谁走；
+- 成功credit无法直接形成portable audience；
+- 员工离职后可能带走“业内offer”，却带不走“玩家需求”；
+- 市场更容易把成功资产沉淀到IP/公司。
+
+因此要区分两种职业资本：
+
+### `INDUSTRY REPUTATION CAPITAL`
+业内知道你厉害，能换工作、升薪、被挖角。
+
+### `PUBLIC AUTHOR CAPITAL`
+玩家知道你厉害，能跟随你跨IP/公司消费，进而提高你的融资与创作议价权。
+
+中国成熟商业游戏体系完全可能前者很强、后者较弱。
+
+这解释了一个重要表面矛盾：
+
+> **为什么中国可以拥有大量业内公认的顶尖制作人才，却仍长期缺少数量相称的公众“游戏大师”？**
+
+不是因为前者不存在，而是因为两种声誉资产的转换接口不同。
+
+### `REPUTATION CONVERSION RATE`
+
+新增研究指标：
+
+> **业内声誉有多大概率能进一步转换成公众作者识别、portable demand和自主融资？**
+
+观察：
+- 离职后媒体是否继续追踪个人；
+- 新项目是否以creator history做营销；
+- 玩家是否知道前作由谁做；
+- publisher是否把个人履历作为融资/发行卖点；
+- 新IP announcement是否因作者名字获得attention。
+
 ## 8. 中国法律提供了一个有意思的影视对照
 
 中国《著作权法》第17条规定：
