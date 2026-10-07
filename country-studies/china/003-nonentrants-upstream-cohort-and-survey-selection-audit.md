@@ -62,6 +62,12 @@ Gu et al., *PLoS ONE* 2024-11-19, DOI 10.1371/journal.pone.0313405，在基于 C
 
 S1 / 方法直接核对: Xiaoxia Gu, Norlizah Che Hassan, Tajularipin Sulaiman, Zhixia Wei, Jingyi Dong, *The impact of video game playing on Chinese adolescents’ academic achievement: Evidence from a moderated multi-mediation model*, *PLOS ONE* 19(11), e0313405, 2024-11-19, §3.1–3.2, https://pmc.ncbi.nlm.nih.gov/articles/PMC11575788/
 
+### 2.1.1 CEPS 变量口径校正（2026-10-07 第二轮核验）
+
+上文所述 Gu 等 2024 论文的网吧/街机条件，只是**该研究样本与变量的选取**，不能据此说 CEPS 原始问卷「只能看到网吧游戏」。2021 年《财经研究》董彩婷、陈媛媛《青少年使用电子媒介的同伴效应》使用 CEPS **2013–2014** 随机分班子样本 8,489 人，并在实证方法中指出原学生问卷采集**上周工作日与周末平均每天上网玩游戏时间**；另讨论父母严厉程度、同伴效应。这是另一个时间窗口和样本筛选；**不能把 2024 文章的网吧频率和 2021 文章的游戏时间当成同一问题答案**。原始问卷逐字版本仍待校方 PDF 核对。
+
+Source: 董彩婷、陈媛媛，《财经研究》47(10), 2021-10-03, https://qks.sufe.edu.cn/J/CJYJ/Article/Details/A1434682f-9f03-4d2d-96cc-8dcd0ce49c02/CN 。课程—就业的后续研究见 [004 中传创作到职业选择](004-cuc-creator-training-to-career-cohort-gates.md)。
+
 ### 2.2 海外「从业者调查」也不能偷换
 
 IGDA / Western University 2023 Developer Satisfaction Survey 官方发布 2024-05-02，**777 名自愿受访者**；**58% 在美国/加拿大工作，79% 自报 White/Caucasian/European**。IGDA 明确该问卷对专业人士、学生、承包商和独立开发者开放。它有价值地反映**应答者所报告的职业处境**，但不是 2023 北美游戏雇员的完整概率名册，也不适合与 CEPS 学生或 GGJ 投稿目录拼接作「中美作者性消失率」。
