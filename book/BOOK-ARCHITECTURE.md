@@ -318,10 +318,11 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 - House House：grant/publisher 支持与后续 retained earnings；
 - thatgamecompany：equity 扩组织，也扩治理义务；
 - Zachtronics + Spiderweb：成熟 FIT-LOCK-IN；
+- Croteam / Serious Sam → The Talos Principle：成熟 FPS grammar 分叉成新解谜 IP，保留旧技术并新增测试/叙事，后来才在不同所有权制度下换 engine；
 - Playdead：共同创始人治理压力；
 - Minecraft / Mojang、Among Us、Rocket League / Psyonix：成功后的组织变化。
 
-**明确保留的证据缺口：** 一个已经形成多年固定 production grammar 的作者或工作室，如何真正成功、可检验地突破 `FIT-LOCK-IN`。不得用 FTL → Into the Breach 的早期分叉直接冒充成熟 lock-in 逃逸。
+**明确保留的证据缺口：** Croteam 已提供第一份多年固定 FPS grammar 之后的有效分叉，但完整融资/营销/受众转移成本与跨工作室可复制性仍 UNKNOWN。不得用 FTL → Into the Breach 的早期分叉冒充成熟 lock-in 逃逸，也不得把 Croteam 一例升格为通用配方。
 
 ---
 
