@@ -17,7 +17,7 @@
 ## Reader Layer
 
 - [Chapters](chapters/README.md) — 跨人物正式章节
-- [Profiles](profiles/README.md) — 单人物 / 单团队完整生产史；现有 9 篇正式 reader-layer 初稿
+- [Profiles](profiles/README.md) — 单人物 / 单团队完整生产史；现有 11 篇 reader-layer 人物初稿（包含产品取消与首作商业失利后继续的对照）
 - [START-HERE](START-HERE.md) — 按现实人生问题导读
 - [READER-ARCHETYPES](READER-ARCHETYPES.md) — 按主创者能力 / 出身类型找第一批案例
 - [INDIE-MOVEMENT](INDIE-MOVEMENT.md) — 独立游戏运动与谱系说明
