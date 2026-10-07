@@ -1,5 +1,5 @@
 {
-  "version": 35,
+  "version": 36,
   "last_updated": "2026-10-07",
   "cases": [
     {
@@ -2009,6 +2009,35 @@
       ],
       "last_verified": "2026-10-07",
       "evidence_ledger": "evidence/CASE-062-red-hook-darkest-dungeon-veteran-household-risk-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-063",
+      "file": "cases/CASE-063-ivories-ggj-to-steam.md",
+      "subject": "Ivories Studios / GGJ 2024 prototype to Shake the Baby! Steam 2025",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "high",
+      "narrative_value": "high",
+      "related_claims": [],
+      "tags": [
+        "indie-game-jam",
+        "cohort-discovered-case",
+        "prototype-to-steam",
+        "creator-confirmed-lineage",
+        "modular-gameplay",
+        "staged-commitment",
+        "prior-commercial-release",
+        "indie-meetup-feedback",
+        "market-access",
+        "unknown-profitability",
+        "public-unfeatured"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-063-ivories-ggj-to-steam-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "partial",
       "schema_version": 2,
