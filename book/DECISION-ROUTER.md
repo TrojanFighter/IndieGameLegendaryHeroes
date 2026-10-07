@@ -23,7 +23,7 @@
 2. **Risk position** — 你能承担多大不可逆成本；
 3. **Project maneuver** — 这次到底应该移动什么。
 
-如果你已经知道自己属于某种具体人生处境，还可以继续进入 [Life Risk Routes](life-routes/README.md)。当前第一条是 [LR-001 — 名校 / 大厂高绩效者转作者型独立](life-routes/big-company-veteran-to-author-001.md)。
+如果你已经知道自己属于某种具体人生处境，还可以继续进入 [Life Risk Routes](life-routes/README.md)。现有路线包括 [LR-001 — 名校 / 大厂转作者型独立](life-routes/big-company-veteran-to-author-001.md)、[LR-002 — 有稳定工资先做证据](life-routes/salaried-creator-staged-commitment-002.md)、[LR-003 — 高家庭支出与照护风险](life-routes/household-high-burn-creator-003.md)。
 
 如果你只是想按职业/能力结构找人物，再去看 [按主创者能力进入](READER-ARCHETYPES.md)。
 
