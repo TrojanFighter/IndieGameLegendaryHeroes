@@ -327,3 +327,50 @@ Project Fair cohort后续统一编码四种状态：
 - PRR — people retention rate
 
 若公开材料只能确认其中一项，其他项必须保持UNKNOWN。
+
+
+## 三点三、继续清理未知newness：Destiny纳入候选，Crazy House排除
+
+### Destiny Games
+2005年Step Creative Group收购Destiny Games时，俄语资料把它称为来自Korolyov的“年轻团队”；而Destiny已在KRI 2004 Project Fair名单中，因此其组织形成显然不晚于2004、且到2005仍被视为年轻团队。
+
+当前编码：
+- newcomer status：**SUPPORTED**
+- 2004核心成员此前行业经验：**UNKNOWN**
+- 后续：被Step吸收，原项目取消；2008后出现Destiny Development / Online谱系，但与2004团队的人员连续性尚未逐人核。
+
+来源：
+- https://questzone.ru/enzi/com/269
+- https://igrowiki.fandom.com/ru/wiki/Step_Creative_Group
+- KRI母体：https://gamemag.ru/news/11439/konferenciya-razrabotchikov-igr-2004
+
+### Crazy House
+2004同期乌克兰产业报道明确，Crazy House在2002年前使用“Дядюшка Рисёч”名称；2005《ДПК》资料进一步给出组织起点1996，并称公司拥有长期本地化/游戏开发经验。
+
+因此：
+- 2004 Project Fair participant：YES
+- newcomer：**NO**
+- 不能因为“Crazy House”品牌在2002出现就把能力年龄算成2年。
+
+来源：
+- https://nzdr.ru/data/media/biblio/j/dpk/2004/DPK_2004_03.pdf
+- https://nzdr.ru/data/media/biblio/j/dpk/2005/DPK_2005_04.pdf
+
+### 更新后的严格/支持 newcomer subset
+
+当前至少7个：
+1. Ghost Software — 2001成立，能力前史UNKNOWN
+2. Destiny Games — 2005被称“年轻团队”，2004已参展；能力前史UNKNOWN
+3. Digital Spray — 2001成立，**旧行业经验CONFIRMED**
+4. Sigma Team — 2003成立，**旧行业经验SUPPORTED/P1**
+5. MindLink — 2003成立，**旧行业经验CONFIRMED**
+6. Spector Studio — 2001成立，能力前史UNKNOWN
+7. Temporal Games — **真正少年首作CONFIRMED**
+
+其中：
+- 2/7 有同期直接证据确认继承旧游戏经验；
+- 纳入Sigma回顾则3/7有旧经验信号；
+- 1/7是真正少年/首作；
+- 3/7能力前史UNKNOWN。
+
+**这些比率只描述当前已确认/支持 newcomer subset，不能直接与中国15/27比较总体差异。**
