@@ -6,12 +6,12 @@
 
 ## 当前索引
 
+- [`early-id-strategic-disloyalty-american-individualism-040.md`](early-id-strategic-disloyalty-american-individualism-040.md) — Softdisk→shareware→Sierra报价与Keen→3D连续切割：把“美国个人主义”拆成文化许可、frontier/rugged individualism、American civil religion远端H层与PC/shareware可执行outside option；提出Strategic Disloyalty / Optionality Protection并以日本内部边疆豁免反证其非必要性。
+
 - [`week-sauce-contributor-collaboration-graph-034.md`](week-sauce-contributor-collaboration-graph-034.md) — 从2022 Week Sauce 部分具名多人项目追踪2023–2025不同作品的重复合作者与新成员：Snails in Peril三名署名者跨2022/2023再合作；THE CURE四位具名作者再出现在2023；区分合作关系的署名证据与由 CASE-063 已核实的2024 GGJ→2025 Steam制作谱系。
 - [`week-sauce-2022-public-creator-followup-033.md`](week-sauce-2022-public-creator-followup-033.md) — 18个原主提交账号的2022–2026公开页面回访，区分其它作品清单、明确年份的新作品、合作工作室、个人职业未知；失效作品链接不等于创作者消失。
 - [`ordinary-indie-household-runway-two-hits-selection-039.md`](ordinary-indie-household-runway-two-hits-selection-039.md) — 加拿大Giguère 2017首两作跨年制作花费约US$100k、销售回收不到6%；越南SOGA首作失利后母亲支持和妻子共同创作、2025二作EA成功后才留下追忆；区别财务口径、共同作者和成功后可见性。
 - [`ggj-2026-survey-and-archive-denominator-038.md`](ggj-2026-survey-and-archive-denominator-038.md) — GGJ 2026 39,197参加/9,874公开游戏/3,535自愿调查答卷四套不同分母、15人纵向Jam访谈选取、GGJ V3 2014–23旧站2027 sunset（官方内部2月/3月日期冲突），以及合法最小元数据保存与未入场Frame D。
-- [`ordinary-indie-household-runway-two-hits-selection-039.md`](ordinary-indie-household-runway-two-hits-selection-039.md) — 加拿大Kevin Giguère两款游戏2017销售远不及跨年约US$100k制作成本；越南SOGA首作失利后母亲鼓励和妻子共同创作，2025年二作EA获初步市场回报，资料来自成功后的家庭回忆。
-- [`ggj-2026-survey-and-archive-denominator-038.md`](ggj-2026-survey-and-archive-denominator-038.md) — GGJ2026参与者、作品与自愿答卷的不同分母；GGJ2014–2023旧档案2027年计划下线，官方日期自相矛盾；记录可获许可的研究元数据。
 - [`family-legitimacy-visible-labor-and-fifteen-year-exit-037.md`](family-legitimacy-visible-labor-and-fifteen-year-exit-037.md) — 2019新加坡Joysteak家人见到尚未上市游戏的真实制作劳动与奖项后改变看法，发售时现金仍不足三位全职；美籍越裔Toby Đỗ2022父母支持不理解的艺术、2026《Loading...》仍Coming Soon；Berardi 2025自述距2010全职试验15年尚无第二次全职indie但持续发布小作品；2026自称配偶公开帖仅作未经核验低可信线索。
 - [`family-support-after-commercial-failure-li-yuanyang-berardi-036.md`](family-support-after-commercial-failure-li-yuanyang-berardi-036.md) — 2017/2019李远扬亲述家庭由管束游戏到支持创作、三次商业失利后未施压（2019发售/版号/外包现金对照）；2012/2013美国GBGames Berardi失利并回受雇后妻子仍肯定其尝试。不是无条件家庭资助，亦非中国/美国人群频率。
 - [`family-acceptance-non-success-countercases-035.md`](family-acceptance-non-success-countercases-035.md) — Croshaw2011已成名父母仍否定职业、Keith Judge2011–13靠储蓄/伴侣工资却未完成独立项目、Mike Bithell父亲秘密带DOOM回家、梁其伟2016毁画与留存画册/家长仍不太理解游戏职业；反驳“成功必和解／家人支援必成功”。
