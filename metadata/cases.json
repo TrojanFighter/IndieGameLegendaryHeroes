@@ -1,5 +1,5 @@
 {
-  "version": 29,
+  "version": 30,
   "last_updated": "2026-10-07",
   "cases": [
     {
@@ -1821,6 +1821,38 @@
       ],
       "last_verified": "2026-10-07",
       "evidence_ledger": "evidence/CASE-056-playdead-founder-governance-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-057",
+      "file": "cases/CASE-057-thatgamecompany-vc-equity-expansion.md",
+      "subject": "thatgamecompany: VC/equity-financed capability expansion, self-publishing and company-level governance",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C015"
+      ],
+      "tags": [
+        "capability-expanded",
+        "vc-equity",
+        "venture-capital",
+        "board-governance",
+        "self-publishing",
+        "marketing",
+        "distribution",
+        "fundraising",
+        "control-surface",
+        "thatgamecompany",
+        "sky",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-057-thatgamecompany-vc-equity-expansion-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "partial",
       "schema_version": 2,

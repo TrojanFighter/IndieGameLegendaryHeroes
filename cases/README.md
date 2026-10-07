@@ -4,7 +4,7 @@
 
 **Case 编号不自动等于“indie eligibility 通过”。** 为了保留已经形成的研究谱系，少量公司内部项目或其他非独立对象可以作为 `NON-INDIE COMPARATOR` 或 `LINEAGE / TRANSITION CASE` 保留编号，但必须在案例正文中显式标记，且不能在 reader layer 被包装成“独立游戏英雄”。小团队、买断制、Steam `Indie` 标签、作者自主性都不能单独替代所有权 / 雇佣 / runway / publisher / market-access 审计。
 
-编号也不代表证据成熟：当前 56 个档案中，54 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
+编号也不代表证据成熟：当前 57 个档案中，55 个为 RESEARCHING，2 个为 SKELETON；骨架中的研究问题不能作为已证实结论。
 
 除了正式编号 Case，本项目另设 [`Failure Workshop`](../failure-workshop/README.md) 失败生产史栏目：优先保存开发者公开复盘的设计、生产、市场、发行、组织、技术与 human-cost 失败，不要求每个失败对象都立即服务某个 Claim 或获得 Case ID。该栏目用于降低成功者偏差；其中证据成熟、解释价值足够的对象再升级正式 Case。
 
@@ -66,6 +66,7 @@
 | CASE-054 | Josh Parnell / Limit Theory | **TRUE-INDIE FIT-TRAP / ENGINEERING-CAPABILITY OVERINVESTMENT**：强 engine / graphics / procedural 能力不断产出真实局部成果，但 technical frontier 与 shipped-game closure 脱钩；以 engine 比 game code 更成熟、六年后仍远离 feature completion 的一手记录检验“能力也是陷阱” | RESEARCHING |
 | CASE-055 | Wube / Factorio | **DEEP-TECH SUCCESS COUNTERPOINT / TECHNICAL STOP CONDITION**：同样拥有强 simulation / engine / optimization 能力，却多次显式声明“enough”、删除低边际价值 mechanic、锁定 1.0 并 descoping；检验何时技术能力关闭 product obligation、何时只是继续扩大技术前沿 | RESEARCHING |
 | CASE-056 | Playdead / Arnt Jensen + Dino Patti | **CAPABILITY-COMPOSED / FOUNDER-GOVERNANCE DISSOLUTION PRESSURE**：原创作者 + production/programming/business founder 的互补组合成功支撑 LIMBO / INSIDE，却在成功后暴露 equity、time horizon、authorship、control 与 exit 成本；检验“互补能力”为什么不等于“免费合伙” | RESEARCHING |
+| CASE-057 | thatgamecompany / Sony → Benchmark → Sky | **CAPABILITY-EXPANDED / VC-EQUITY / CONTROL-SURFACE COMPARATOR**：$5.5M Benchmark 融资 + board seat、后续 $7M 扩 development/self-publishing/marketing/distribution；检验股权资本怎样把发行能力内建，同时把 obligation 移到 ownership / board / investor-return / future-round 层 | RESEARCHING |
 
 ## Creator Life / Decision Audit
 
