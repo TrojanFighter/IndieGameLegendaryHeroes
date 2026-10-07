@@ -423,6 +423,83 @@ https://substack.nikopartners.com/p/whats-hot-according-to-nikos-china
 - Steam：全球聚合提高conversion；
 - F2P：conversion强，但需求权重可能高度财富加权。
 
+## 8.1 `BENCHMARK–FUNDING ASYMMETRY / 基准—融资不对称`
+
+作者旧稿已经指出一个值得正式化的结构：
+
+> **中国早期一部分“婆罗门”玩家/从业者的审美基准由海外成熟精品训练，但本土开发者能够获得的合法消费与产业预算，并没有同步达到支撑同等级制作的水平。**
+
+因此可能出现：
+
+```text
+global AAA / mature foreign games
+→ often cheap / pirated / gray access
+→ very high player benchmark
+
+while
+
+domestic premium developer
+→ weak legal sell-through
+→ small addressable paying market
+→ low repeatable budget
+```
+
+结果是：
+- 玩家可以要求“你为什么不如暴雪 / BioWare / Konami / Nintendo”；
+- 但其实际支付未必能为本土团队提供接近这些海外成熟工业的研发资源；
+- 国内开发者若以这批高taste核心玩家为唯一目标市场，会同时面对**世界级benchmark + 本地低creator return**。
+
+这不是为低质量产品辩护，而是在解释：
+> **高审美需求本身并不会自动生成足够的生产预算。**
+
+因此新增：
+
+### `TASTE_REVENUE_ALIGNMENT / 品味—收入耦合度`
+
+> **一个市场中，最能决定“什么是好游戏”的玩家群体，和最能决定“什么游戏获得收入”的玩家群体，在多大程度上是同一批人？**
+
+若 alignment 高：
+- 评论/口碑较容易映射到收入；
+- 作者判断更容易被市场定价；
+- 核心玩家文化和产业目标更可能同向。
+
+若 alignment 低：
+- 一批人负责定义“好游戏”；
+- 另一批人负责贡献主要收入；
+- 从业者可能精神上认同前者、职业上服务后者；
+- 资本会认为高taste舆论“叫得响但不值钱”。
+
+这可以把作者旧稿的“审美割裂”从文化印象升级为政治经济变量。
+
+### `CRITIC-MARKET REPRESENTATIVENESS / 鉴赏者市场代表性`
+
+高reference-breadth群体未必代表大众latent demand。
+
+尤其当进入高experience群体本身需要：
+- 更贵设备；
+- 外语；
+- 杂志；
+- 水货主机；
+- BT/破解技术；
+- 海外资讯；
+
+这些玩家已经被access cost强烈筛选。
+
+因此：
+> **taste authority ≠ demand representativeness。**
+
+中国早期“婆罗门”既可能是重要的知识/创作先锋，又可能错误地把自己的海外社会化偏好当成全体国民需求。
+
+这个变量用于同时反驳两种粗模型：
+- “核心玩家懂，所以应该由他们替所有人决定什么游戏好”；
+- “核心玩家人数少，所以其审美没有产业价值”。
+
+真正的问题是：
+- 他们是否能发现未来会扩大的需求；
+- 是否能把taste转成money；
+- 是否能把taste转成creation；
+- 是否只是一个高门槛亚文化。
+
 ## 9. 新核心概念：`TASTE-TO-CREATION CONVERSION RATE`
 
 另一个问题：
