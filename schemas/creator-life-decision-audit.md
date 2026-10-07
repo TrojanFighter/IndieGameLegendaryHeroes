@@ -468,6 +468,35 @@ Canonical research anchor:
 
 ---
 
+## 11C. Author Brand / Portable Demand
+
+当人物已经有至少一款公开作品，且后续融资、创业、离职、换IP或平台合作可能受个人声誉影响时，额外记录：
+
+- `brand_locus`: author / studio / IP / publisher-platform / hybrid；
+- `author_recognition`: 玩家/媒体是否识别具体作者；
+- `attention_portability`: 换IP/公司后注意力是否跟随；
+- `revenue_portability`: 注意力是否真的转成购买；
+- `financing_conversion`: 名声是否降低融资/发行门槛；
+- `bargaining_power_conversion`: 是否换来更大decision rights；
+- `outside_option`: 离开原组织后能否带走合作机会/玩家需求；
+- `IP_ownership`；
+- `customer_relationship_ownership`；
+- `brand_capture_risk`；
+- `expectation_lock_in`；
+- `succession_model`。
+
+强制区分：
+- creator visibility ≠ portable demand；
+- media attention ≠ revenue portability；
+- name in title ≠ current auteur control；
+- successful IP ≠ author brand；
+- author brand ≠ superior industrial model。
+
+Canonical research anchor:
+- [China 020 — Author Brand Capital](../country-studies/china/020-author-brand-capital-portable-demand-bargaining-power.md)
+
+---
+
 ## 12. Capability Scaling
 
 当核心成立后，创作者是否能把它做成稳定产品：
@@ -561,6 +590,7 @@ Canonical research anchor:
 - Capability capture risk:
 - Market sufficiency / legibility:
 - Demand-side selection / consumer veto: # when relevant
+- Author brand / portable demand: # when relevant
 - Capability scaling:
 - Major unknowns:
 ```

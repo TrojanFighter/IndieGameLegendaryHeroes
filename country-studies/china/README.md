@@ -41,6 +41,7 @@
 - [`017 — Demand-Side Creator Selection`](017-demand-side-creator-selection-player-veto.md)：把“玩家审美 / 人民选择”拆成 `TASTE_CAPITAL / CREATOR_SELECTION_CAPACITY / CONSUMER_VETO / DEMAND_WEIGHTING / CHANNEL_MEDIATION`；研究玩家如何给作者性定价，也研究玩家choice set如何被渠道和商业模式反向塑造。
 - [`018 — 富豪阶级游戏性、玩家社会化与 Design Attractor`](018-wealth-class-gameplay-player-socialization-design-attractor.md)：统一“富豪阶级游戏性”术语，并把《征途》进一步拆成 `RESOURCE_CONVERSION_RIGHT / PLUTOCRATIC_DEMAND_WEIGHTING / CLASS_COMPLEMENTARY_PLAY / PREFERENCE_SOCIALIZATION / DESIGN_ATTRACTOR / ATTRACTOR_ESCAPE_COST`；重点研究商业制度如何同时塑造玩家偏好、人才价值和下一代产品。
 - [`019 — Taste Institutions`](019-taste-institutions-player-literacy-creator-selection.md)：把“玩家品味”进一步拆成 `ACCESS / INTERPRETATION / LEGITIMATION / PRACTICE / TRANSACTION / MEMORY` 六层，并提出中国早期可能存在的 `CULTURAL-INPUT / CREATOR-RETURN ASYMMETRY`：文化输入和Experience Capital并不必然同步形成稳定作者回流。
+- [`020 — Author Brand Capital`](020-author-brand-capital-portable-demand-bargaining-power.md)：把“玩家认识大师”进一步拆成 `AUTHOR_RECOGNITION / ATTENTION_PORTABILITY / REVENUE_PORTABILITY / FINANCING_CONVERSION / BARGAINING_POWER_CONVERSION`；比较品牌资产落在作者、工作室、IP还是平台，并研究成功后这份需求资产能否被创作者带入下一局。
 
 这里把“国民体验水平”拆成 reference breadth、comparative literacy、player→producer conversion、benchmark dependence、decision rights 等可观察变量，并要求用中国内部差异、东亚反例、斯拉夫 / 北欧 / 新西兰等跨国 comparator 做压力测试。
 
