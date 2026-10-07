@@ -574,6 +574,8 @@ INDUSTRIAL ENGINEERING DEPTH.
 ---
 
 # 14. 当前Verdict
+固定决赛层的直接压力测试见：[014 — 放视大赏 × CUSGA商品化队列](014-selected-student-cohort-productization-taiwan-vs-cusga.md)。014发现到2026-10两边决赛层当前Steam-positive比例约31.6% vs 30.8%，赛事前SteamDB记录比例也未显示台湾优势；因此013的核心假说必须明确限定为**普通/上游 creator formation 与 route salience**，不能用决赛者证明。
+
 
 可以暂时保留用户观察，但更精确地写成：
 
