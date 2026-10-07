@@ -48,7 +48,7 @@ https://dtf.ru/games/716140-13-let-obeshanii-istoriya-razrabotki-vseslava-charod
 
 ## 三、从随机探索到知识保存的分析命题
 
-\`exploratory experiments -> selection/termination -> specific mechanic survives -> transferred through person / tool / community / company -> next commercial project\`
+`exploratory experiments -> selection/termination -> specific mechanic survives -> transferred through person / tool / community / company -> next commercial project`
 
 **Retained mutation rate** 是建议设计的研究指标，**不是已测得统计量**。必须定义：
 - 母体总体：某年份、某平台、某地区 **全部**可观察项目，而非仅限 Steam/英文怀旧合集；
