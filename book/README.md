@@ -65,6 +65,15 @@ Tom Francis、Brendan Greene 和 John Carmack 分别代表三种不同技术位�
 
 Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可能同时提供 runway、反馈、legibility 和约束；有曝光也不等于市场接口有效。
 
+
+### 跨篇章专题 — 作者型项目怎样获得所缺能力
+
+> **我知道想做什么游戏，但团队做不出来：该修改作品，还是去找人？**
+
+[第六篇：你缺的真是一支团队吗？有时应该换掉的，是游戏的做法](chapters/06-you-do-not-need-a-standard-studio.md)
+
+从《GRIS》创始人的相遇开始，走到《Gunpoint》的设计删减、《The First Tree》的外部能力、《Playdead》的合伙冲突与《The Magic Circle》的市场否决。这里写的是人的选择和代价；需要步骤与止损门槛再看 [LR-004](life-routes/project-thesis-capability-gap-004.md)。
+
 ---
 
 ## 接下来会写什么
