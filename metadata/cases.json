@@ -1,5 +1,5 @@
 {
-  "version": 30,
+  "version": 31,
   "last_updated": "2026-10-07",
   "cases": [
     {
@@ -1853,6 +1853,38 @@
       ],
       "last_verified": "2026-10-07",
       "evidence_ledger": "evidence/CASE-057-thatgamecompany-vc-equity-expansion-source-ledger.md",
+      "contributor_audit": "partial",
+      "market_access_audit": "partial",
+      "schema_version": 2,
+      "context_audit": "partial"
+    },
+    {
+      "case_id": "CASE-058",
+      "file": "cases/CASE-058-spiderweb-fit-lock-in.md",
+      "subject": "Spiderweb Software / Jeff Vogel: long-run capability fit, niche compounding and transition lock-in",
+      "research_status": "RESEARCHING",
+      "evidence_strength": "high",
+      "explanatory_importance": "critical",
+      "narrative_value": "critical",
+      "related_claims": [
+        "C015"
+      ],
+      "tags": [
+        "fit-strong",
+        "fit-lock-in",
+        "longitudinal-practitioner",
+        "niche-compounding",
+        "engine-reuse",
+        "asset-reuse",
+        "audience-expectation",
+        "transition-cost",
+        "queens-wish",
+        "spiderweb-software",
+        "jeff-vogel",
+        "temporal-validity"
+      ],
+      "last_verified": "2026-10-07",
+      "evidence_ledger": "evidence/CASE-058-spiderweb-fit-lock-in-source-ledger.md",
       "contributor_audit": "partial",
       "market_access_audit": "partial",
       "schema_version": 2,
