@@ -757,6 +757,14 @@ Romero很年轻就已经有孩子。Kushner没有回避他早期婚姻和父子�
 
 这至少让他的生命史拥有另一种结局：那个曾为玩游戏挨打的孩子，后来成了和孩子一起玩游戏的父亲。但这仍是他自己的叙述，不代表家庭中每个人在每个时期都过得圆满。
 
+而且，DOOM留下的影响还以奇怪的方式越过了一个新的家庭门槛。
+
+2014年英国《卫报》采访《Thomas Was Alone》开发者Mike Bithell时，提到他小时候只能在父母规定下玩教育类游戏、不能像同伴那样随便玩普通商业游戏。偏偏他的父亲有一次偷偷把《DOOM》带回家——一款曾使Romero父子冲突最终反转的作品，在另一个后来的游戏创作者家中成了小小的破例。**这不能证明Bithell因DOOM成为开发者**；但的确提醒我们，游戏技术和文化的代际传递往往不只通过学校和商业渠道，还穿过家庭内互相矛盾的规则。
+
+另一些家庭则没有被成功说服。2011年，英国游戏评论人、独立小游戏制作者Ben “Yahtzee” Croshaw即使凭《Zero Punctuation》取得显著声望，仍在本人公开问答中说家长不认可其工作、希望他读大学。这是**游戏媒体创作者**的反例，并非商业游戏巨作主创，也足以打破“有钱有名父母就会理解”的必然结尾。
+
+还有比家庭认可更冷酷的另一面：前Lionhead程序员Keith Judge在2011年辞职做独立游戏，靠自己储蓄和妻子的工资养着两个孩子、支付房贷；六个月后只有引擎和一关原型，众筹资金极少，最后返回专业工作。**有人为探索买单，仍然不意味着作品必须成功；选择及时停止，也未必意味着人生失败。** 这份2013年第一人称复盘只有妻子收入的事实，没有她本人对事业态度的采访，不能代她发表“支持或反对”。
+
 对于想做游戏，却长期听到家长说“这东西不会有前途”的读者，最不该从这里得到的教训是：
 
 > 你只要赚大钱，父母最后就会承认你对了。
@@ -846,6 +854,7 @@ Softdisk 既限制他们，也训练他们、给他们工资、机器和高频 s
 - [CASE-016 — Early id Software](../../cases/CASE-016-early-id-software.md)
 - [CASE-016 Evidence Ledger](../../evidence/CASE-016-early-id-software-source-ledger.md)
 - [《DOOM启世录》纵向母案例研究](../research-notes/masters-of-doom-longitudinal-master-study-001.md) — 补 Quake / Ion Storm 的能力—组织反事实与证据边界。
+- [当成功没有换来家庭认可、支持也没买到成功：四组反压力研究](../research-notes/family-acceptance-non-success-countercases-034.md) — Croshaw、Keith Judge、Mike Bithell、梁其伟的年份与证据边界。
 - [《DOOM启世录》中的代际和解：继父道歉、母亲玩Keen、1999年护子及下一代的共同游玩](../research-notes/doom-intergenerational-reconciliation-032.md) — 识别成功后的认可、具体伤害的修复与行为真正改变之间的证据差异。
 - [中美家庭与代际许可比较：家庭如何成为创作者机会关口](../research-notes/family-gates-game-creator-us-china-029.md) — Romero / Carmack / Hall / Mechner 与中国代际研究的证据和边界。
 - [1980年代美国社会与 early id 人生抉择研究](../research-notes/early-id-1980s-america-life-decisions-001.md) — 家庭/机器/教育/就业/商业接入与个人实际代价。
