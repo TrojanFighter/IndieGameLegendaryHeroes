@@ -51,7 +51,97 @@ Anthony Giovannetti：
 
 ---
 
-## 2. Myth
+## 2. Context–Situation–Action Snapshot
+
+### Era / Production Regime
+
+2015–2019 的关键条件是：
+
+- Steam Early Access 已经能同时承担 feedback、market access 与部分 runway；
+- LibGDX 等成熟技术栈让两名强程序背景 founder 不必先建立完整 engine / editor 组织；
+- Twitch / streaming 开始成为 roguelike、card game 这类高重复游玩系统的重要观看界面；
+- 极小团队已经可以直接建立 telemetry / metrics server，把匿名 play data 接进设计；
+- “roguelike deckbuilder”仍不是一个成熟 genre checklist，团队不能照现成 benchmark 完成产品定义。
+
+因此这不是：
+
+> 在成熟 deckbuilder 赛道里做一个更优标准答案。
+
+更接近：
+
+> card-game taste + roguelike grammar + QA discipline + telemetry → 形成一个后来才被命名得越来越清楚的类别。
+
+### Actor Situation
+
+项目正式启动前，两位 founder 已经拥有彼此不同、但互补的资本：
+
+**Casey Yano**
+- UW Bothell CS；
+- college-era hobby games；
+- Amazon QA 约四年；
+- QA / compatibility / quality / software-production exposure；
+- 对 action / faster games 与现代 roguelike 有自己的 taste。
+
+**Anthony Giovannetti**
+- UW Bothell CS；
+- college-era hobby games；
+- board/card game store management；
+- QA / software work；
+- lifelong Magic / Netrunner / deckbuilding taste；
+- 在受雇期间写出 Slay the Spire design document。
+
+两人共同拥有：
+- 旧 collaborator trust；
+- 失败/弱势 hobby artifact 经验；
+- programming literacy；
+- QA mindset。
+
+但当时没有：
+- 大团队；
+- 成熟 indie brand；
+- 已验证的新 genre market；
+- 可以替他们完成产品定义的 publisher benchmark。
+
+### Action / Maneuver
+
+关键承诺升级顺序：
+
+| 阶段 | 已有东西 | 新承诺 | 得到的现实信号 |
+|---|---|---|---|
+| college | shared hobby-game relation | 小型 Flash/mobile artifacts | 作品并未成功，但留下共同制作经验 |
+| employed years | software/QA capability + independent taste | Anthony 写 design doc；作者线程不完全中断 | 问题定义仍在公司外发生 |
+| 2015 | Casey 先离开 Amazon | 两人做 prototype | core card+roguelike feel 达到内部/测试者认可 |
+| prototype 后 | 可玩的 thesis | Anthony 再离职，全职投入 | commitment 晚于 prototype evidence |
+| pre-EA | daily builds / external testers | metrics server、长期 playtest | 大量 balance / UX 假设可被现实推翻 |
+| Early Access | paid product | weekly updates / community / compatibility | 初期销量弱，但产品与 market interface 持续调整 |
+| 1.0 | 已形成 category legibility / audience | 正式发行与后续扩平台 | 产品与市场同时完成放大 |
+
+因此本案最值得迁移的不是：
+
+> “先去 Amazon 上班几年”。
+
+而是：
+
+> **职业能力可以积累，但项目承诺仍按自己的证据梯度逐级升级。**
+
+### Anachronism Check
+
+不能把 2015–2019 的具体路径机械复制到 2026：
+
+- Steam Early Access 的竞争密度、推荐机制与玩家预期已经变化；
+- 直播/streamer discovery 已不是同样的稀缺窗口；
+- 今天已有大量 deckbuilder / roguelike-deckbuilder benchmark，后进入者反而更容易被成熟类型语法锁定；
+- LLM、现成 middleware 和现代数据服务进一步降低 prototype / telemetry 成本；
+- Amazon、美国科技业、中国大厂的 side-project/IP、就业与 reemployment 条件都不能由这个 Case 代替核验。
+
+可迁移的是更高层机制：
+
+> **Parallel Authorial Thread + Selective Capability Transfer + Staged Commitment + Reality Adjudication。**
+
+
+---
+
+## 3. Myth
 
 ### Myth A — “西方人进大厂也不会失去作者性”
 
@@ -91,25 +181,6 @@ Anthony Giovannetti：
 这是一个高度累积的作者型项目。
 
 ---
-
-## 3. Context–Situation–Action Snapshot
-
-### Era / Production Regime
-
-2015–2019：
-- Steam Early Access 已成熟到可以作为 feedback + runway + community interface；
-- LibGDX 等成熟技术栈降低基础工程门槛；
-- Twitch/streaming 开始成为 roguelike/deckbuilder 传播的重要界面；
-- digital telemetry 可以被极小团队直接收集；
-- “roguelike deckbuilder”还没有成为成熟 genre template。
-
-因此这不是：
-
-> 在成熟 deckbuilder 市场里做一款更好的标准答案。
-
-而更接近：
-
-> card-game taste + roguelike structure + intensive measurement → category formation。
 
 ---
 
