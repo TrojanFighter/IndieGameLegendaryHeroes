@@ -65,6 +65,7 @@ Chapter 不再问：
 - [Creator Life / Decision Audit：把案例库升级成人生条件可比系统](research-notes/creator-life-decision-audit-backfill-023.md)
 - [Creator Life P0 回填：第一版人生风险决策对照](research-notes/creator-life-decision-audit-p0-backfill-024.md)
 - [Creator Life P1 回填：Runway 结构与 Evidence-Following Scaling](research-notes/creator-life-decision-audit-p1-backfill-025.md)
+- [声望管道与作者连续性：名校 / 名企 / 大厂老兵为什么会出现不同转型](research-notes/prestige-pipeline-authorial-continuity-026.md)
 
 ### A. 教育｜你是否学会自己出题？
 
