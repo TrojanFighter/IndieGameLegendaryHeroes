@@ -45,6 +45,7 @@
 - [`021 — Attribution Politics`](021-attribution-politics-credit-regimes-author-power.md)：研究创作价值如何被归因、谁拥有署名规则、credit是否与经济回报和decision rights耦合；比较影视工会、Atari→Activision、TOSE/Nintendo、中国F2P弱署名均衡及AI时代decision provenance。
 - [`022 — Creative Surplus Allocation`](022-creative-surplus-allocation-rights-customer-future-control.md)：把成功后的剩余资产拆成 `LABOR CASH / REVENUE PARTICIPATION / EQUITY / CREDIT / IP / SEQUEL RIGHTS / PUBLISHING / CUSTOMER RELATIONSHIP / BRAND / FUTURE DECISION RIGHTS`，并用 `FUTURE-CAPTURE RATIO` 衡量创作者到底拥有多少“自己创造出来的未来”。
 - [`023 — Creator Class Formation`](023-creator-class-formation-intergenerational-reproduction.md)：研究成功创作者如何把 `FUTURE CAPTURE` 转成下一代的 `FUTURE TRANSFER`，通过资本、taste、audience、工具、人才与治理结构形成跨代创作者再生产；用 `FOREST TEST / CREATOR SURPLUS MULTIPLIER` 防止用个例替代数量级。
+- [`024 — Creator Mobility & Spinout Topology`](024-creator-mobility-spinout-topology-noncompete.md)：研究人才是否能离开、重组、创业，并把能力转成新的产权容器；引入 `EFFECTIVE MOBILITY FRICTION / MOBILITY-TO-OWNERSHIP CONVERSION / SPINOUT CONVERSION RATE`，比较California人才流动、中国竞业制度及Atari/Looking Glass/Blizzard式alumni network。
 
 这里把“国民体验水平”拆成 reference breadth、comparative literacy、player→producer conversion、benchmark dependence、decision rights 等可观察变量，并要求用中国内部差异、东亚反例、斯拉夫 / 北欧 / 新西兰等跨国 comparator 做压力测试。
 
