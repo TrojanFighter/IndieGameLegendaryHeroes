@@ -59,6 +59,15 @@ Source: https://automaton-media.com/articles/interviewsjp/20210123-149862/
 
 这可以称为 **PRODUCTIVE DEFECTION / 生产性叛离**：成熟制度不仅培养留下来的优秀员工，也可能培养出拿走能力和伙伴网络、却拒绝其价值观的人。
 
+### 2.1 更重要的是：Nintendo Game Seminar本身就是“向社会外溢生产能力”的制度
+
+任天堂2010官方页面把Game Seminar定义为约10个月的实践项目：现役开发者讲授企划、direction、programming、design、sound，并提供专业制作环境，让不同专长的学生组队完成作品。也就是说，溝部后来离开Nintendo路线，并不是“制度失败”；从产业生态角度，它反而说明一个成熟组织可以**训练出以后不认同自己的创作者**。
+
+Source: https://www.nintendo.co.jp/etc/seminar2010/what/index.html
+
+这使“生产性叛离”更加具体：
+> **好的创作生态不只看公司留住多少人，也要看它是否能向社会输出有能力、有人脉、敢于另立哲学的人。**
+
 ## 3. 溝部对任天堂的分歧不是技术，而是“原创性哲学”
 
 2022 WIRED采访中，溝部明确说：他仍非常尊敬任天堂，但Nintendo Game Seminar强调新的、独创的、高质量作品；他个人不认为一定要执着独创，如果世上已有好idea就可以拿来组合，流行东西也可以快速尝试，并认为文化本来就是通过模仿和mash-up发展。
