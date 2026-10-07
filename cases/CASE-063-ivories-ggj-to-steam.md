@@ -3,7 +3,7 @@ type: case
 schema_version: 2
 case_id: CASE-063
 status: RESEARCHING
-subject: "Ivories Studios: prior Steam release → GGJ 2024 prototype → feedback → Shake the Baby! (2025)"
+subject: "Ivories Studios / GGJ 2024 prototype to Shake the Baby! Steam 2025"
 related_claims: []
 evidence_strength: HIGH
 explanatory_importance: HIGH
