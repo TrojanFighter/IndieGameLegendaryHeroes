@@ -7,6 +7,12 @@
 - Scope: **公开国际地区从业者调查、活动/项目者公布的匿名聚合数据、可审计研究设计**。私人游戏项目或用户个人经历不作为公开研究来源。
 - **Core correction:** 2024 CUSGA 的「初赛75入围」经过作品报名、完成和评审三次选择，即便核齐75项，也**不能回答在职员工有多少在做个人项目、多少原本有创作意愿而没有尝试**。研究问题先于样本；不把“最容易搜到的名册”升级为主线。
 
+## 2026-10-07 样本策略第二次修正（证据升级）
+
+[009 中国游戏雇员劳动田野](009-china-gameworker-creative-subjectivity-fieldwork-2017-2026.md)已找到比此前欧美一般自愿问卷更**直接针对中国游戏员工在岗作者性**的国内研究：2017美术5人访谈、2019上海网络游戏员工访谈、2026《社会》**42位策划/程序/美术+18个月田野**，并发现员工利用**升迁、业余项目**回应组织模块化对创作主体性的片段性调用。因此 `CHINA_EMPLOYEE_AUTHORSHIP_EVIDENCE=QUALITATIVE_PRESENT`，不再只是 `NONE`。
+
+但上述研究都**不是面向中国游戏雇员全体的概率抽样或同人纵向普查**；`CHINA_GAME_EMPLOYEE_PRIVATE_AUTHORSHIP_PREVALENCE=UNKNOWN`。正式行动顺序改为：**现有田野深入阅读→明确具体工作权利与旁路原型→设计概率/可审计雇员纵向调查**。CUSGA学生决赛名册依旧P2辅助，不因新文献而回升为主样本。
+
 ## 0. 重新裁决样本：研究问题不同，最优入口也不同
 
 | Question | Most appropriate entrant frame | Existing access/evidence | Priority / gate |
