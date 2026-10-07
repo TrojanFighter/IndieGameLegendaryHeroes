@@ -412,6 +412,59 @@ Sources:
 
 这解释020的 `AUDIENCE_OWNERSHIP` 为什么不是二元变量。
 
+## 8.1 `NOMINAL OWNERSHIP / ACCESS-SOVEREIGNTY GAP`
+
+拥有IP，不等于拥有市场入口。
+
+一个团队可能：
+- 拥有copyright / trademark；
+- 可以决定续作；
+- 但仍依赖Steam / console platform / publisher触达玩家；
+- 玩家wishlist、follow、notification关系仍存在平台账户体系中；
+- 平台规则、推荐、审核和可见性会影响实际需求转化。
+
+Steamworks文档提供很清楚的结构例：
+- wishlist通知由Steam发送；
+- 开发者获得wishlist aggregate/report；
+- followers通过Steam feed / News Hub接收内容；
+- developer/publisher homepage follow也由Steam在商店里重新分发新作。
+
+Sources:
+- https://partner.steamgames.com/doc/marketing/wishlist
+- https://partner.steamgames.com/doc/marketing/followers
+- https://partner.steamgames.com/doc/store/creator_homepage
+
+因此定义：
+
+# `ACCESS-SOVEREIGNTY GAP / 市场入口主权缺口`
+
+> **创作者在法律上拥有作品/IP，但对发现、通知、交易、推荐与玩家关系仍高度依赖第三方基础设施的程度。**
+
+这不是“平台偷走IP”，而是：
+> **property sovereignty 与 market-access sovereignty 可以属于不同主体。**
+
+所以“self-publishing”也要继续拆：
+- 谁拥有store account；
+- 谁决定pricing；
+- 谁拥有玩家direct contact；
+- 谁能跨store迁移；
+- 谁承担退款/客服/合规；
+- 谁控制推荐入口。
+
+### `NOMINAL OWNERSHIP TRAP`
+
+禁止把：
+> “我们保留IP”
+
+自动解释成：
+> “我们拥有完整创作主权”。
+
+一个低现金、高平台依赖、无direct audience的IP owner，依然可能在现实中高度受制于：
+- publisher milestones；
+- platform certification；
+- visibility；
+- user-acquisition costs。
+
 ## 9. `CUSTOMER RELATIONSHIP PORTABILITY`
 
 未来所有案例都追：
@@ -587,6 +640,24 @@ creator保留IP/brand/发行决策，但：
 > 成功一次，只换来工资/头衔；换组织后大量归零。
 
 这与021的 `REPUTATION COMPOUNDING RATE` 是同一系统的产权版。
+
+## 12.1 案例权利束对照
+
+| Case | Team/Company | IP | Publishing | Customer/Platform | Brand | Future control |
+|---|---|---|---|---|---|---|
+| Atari employee era | Atari | Atari | Atari | Atari/retail | Atari | employee low |
+| early Activision | founders/company | company-owned new works | Activision | retail/platform partners | creator + Activision | high for founders |
+| Bungie after 2007 | Bungie independent | Halo stays Microsoft | Halo via Microsoft | Xbox ecosystem | Bungie remains strong | new-IP freedom |
+| Bungie–Activision 2010 | Bungie | Bungie owns Destiny IP | Activision exclusive | Activision + platform | Bungie/Destiny | split |
+| Bungie 2019 self-publishing | Bungie | Bungie | Bungie | Bungie assumes customer obligations; platforms remain | Bungie/Destiny | higher |
+| IOI 2017 | IOI independent | Hitman retained | increasingly IOI/self-publish | platform-mediated | IOI + Hitman | high |
+| Jonathan Blow | creator/company | creator/company | mostly self/distribution services | platform-mediated | strong author | very high |
+| Game Science | founder/team-heavy private company | not fully verified here | project-specific, needs tracing | Steam/PS etc. | Game Science + Black Myth + Feng visibility | operating control appears high; contract detail open |
+
+这张表故意避免给“谁最自由”打总分。
+
+它的用途是强制看到：
+> **同一案例可以在IP上高主权、在customer relation上低主权；也可以失去旧IP，却保留team/brand并重新创建新IP。**
 
 ## 13. `CREATIVE SURPLUS COMPOUNDING`
 
