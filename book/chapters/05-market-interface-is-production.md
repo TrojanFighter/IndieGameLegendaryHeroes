@@ -278,6 +278,22 @@ Brigador 是必要反例。
 
 ---
 
+## 一款 Jam 原型，在聚会之后变成了需要做一年的游戏
+
+Ivories Studios 在做《Shake the Baby!》以前，已经发布过一款 Steam 游戏《The Handbook》。此后团队试过一些没能继续推进的题目，也想过做续作。2024 年，他们参加 Global Game Jam，做出一个可以拾取、组合、摇动并投掷奇特武器的第一人称射击原型。
+
+Jam 结束时，他们并不知道这套玩法是否值得投入一年的时间。
+
+团队后来把可玩版本带去本地独立开发者聚会。在2025年发售游戏时，一位成员回忆，现场的反应给了他们继续扩充作品的信心。团队于是把短小原型发展成了带关卡、不同武器效果组合和速通排行榜的完整游戏。2025年3月27日，《Shake the Baby!》在 Steam 发售。
+
+这件事的两端都有记录：2024年12月，团队在前作的 Steam 公告里回顾了 GGJ 起点与同行反馈；2025年3月，开发成员又在发售帖中说明了原型扩展过程。[完整的制作史与一手证据](../../cases/CASE-063-ivories-ggj-to-steam.md)已经整理成独立案例。
+
+这不是传统意义上的付费市场验证。去开发者聚会试玩的人，并没有用实际购买给出价格和需求规模的答案。团队随后完成了产品，但我们也没有可靠的销量、工时和利润数据，无法判断这一年的生产是否已经回本。
+
+对已经能够做出小型原型的作者来说，这段历史至少展示了一种现实选择：在增加开发承诺以前，先把核心机制交给陌生人亲手玩，再决定它值不值得做大。但同行喜欢与养活团队之间，仍有一道这份传记无法代答的商业问题。
+
+---
+
 ## 六、产品很好，也可能在“第一分钟怎么被理解”这里失败
 
 Brigador 的 Steam 评价和媒体口碑证明，至少有一群真正进入产品的人很喜欢它。
@@ -501,6 +517,7 @@ Brigador：
 | Factorio 众筹 → 官网 paid alpha / direct sales | 2012–2015 | Indiegogo、官网支付、YouTube/论坛、Steam 尚非第一入口 | HISTORICAL / CONDITIONAL | 让市场接口同时承担验证与融资；支付/平台实现不可照抄 |
 | Bills Must Be Paid demo / creator / Next Fest 路径 | 2026 | 当代 Steam demo、creator、browser portals、Next Fest 等 | CURRENT — Verified 2026-10 | 允许外部信号改变 launch plan；不能把某个 surface 的结果当固定算法公式 |
 | Brigador EA / convention / PR / creator outreach 仍未解决 launch | 2015–2017 | 当时 Steam/媒体/展会环境 | DURABLE mechanism / HISTORICAL tactics | reach ≠ legibility；市场活动数量不等于正确市场接口 |
+| Ivories Studios / GGJ 原型 → Steam 成品 | 2024–2025 | GGJ、已有商业前作、本地 indie dev meetup、Steam | CONDITIONAL | 同行试玩反馈帮助继续开发，但未证明愿意付钱或成本回收 |
 
 完整规则见 [Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
 
@@ -513,6 +530,7 @@ Brigador：
 - [Factorio](../../cases/CASE-035-factorio-wube.md)
 - [Bills Must Be Paid](../profiles/bills-must-be-paid.md)
 - [Brigador](../../cases/CASE-026-brigador.md)
+- [Ivories Studios：2024 GGJ 原型到 2025 Steam 发售](../../cases/CASE-063-ivories-ggj-to-steam.md)
 
 研究命题：
 - [C010 — 市场接入是生产系统的一部分](../../claims/README.md)
