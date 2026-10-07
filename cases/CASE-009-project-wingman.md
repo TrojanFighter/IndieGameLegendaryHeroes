@@ -75,3 +75,20 @@ Abi 的直接访谈很适合检验“能力是项目过程中生产出来的”�
 3. 全部 credits / contractor / QA / voice / porting 人数？
 4. Humble / Microsoft 支持的准确阶段与资源？
 5. Kickstarter 对 scope、团队结构和交付日期造成了什么变化？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL
+- **Life stage:** Abi Rahmani 从极少正式游戏开发经验的个人学习者进入长期项目；项目本身承担能力形成。
+- **Household:** relationship / children / housing / family support `UNKNOWN`。
+- **Runway:** Kickstarter 前生活来源和每周工作状态仍 `UNKNOWN`；2018 Kickstarter AU$114,544 / 2,467 backers 属中期 runway 放大，而非起点。
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** `UNKNOWN` — 没有足够职业前史材料。
+- **Capability vector:** coding / 3D modelling / animation / texturing / marketing-publishing 在项目中逐步形成；社区志愿帮助、音乐、故事/配音等外围补缺。
+- **Problem ownership:** **HIGH** — prototype 起于个人学习/兴趣，不是外部 brief；核心 flight-combat thesis 长期由 Rahmani 驱动。
+- **Validation architecture:** tiny UE4 prototype → public alpha / local events → community feedback → Kickstarter → expanded production → commercial release / platform support。
+- **Reality adjudication:** **STRONG LEARNING-SIDE** — 项目通过公开 alpha 和社区不断校准；但哪些大设计因 feedback 被删除仍需更细。
+- **Capability capture risk:** **MEDIUM / LEARNING COUPLED** — 自学大量工种可能造成 founder throughput risk，但 current evidence 仍显示产品持续对外可玩，而非纯技术自嗨。
+- **Market sufficiency / legibility:** **STRONG NICHE LEGIBILITY** — “indie Ace Combat-like” 对既有飞行战斗受众高度可读；Kickstarter 前已有公开 traction。
+- **Capability scaling:** **PROJECT-AS-EDUCATION → CROWDFUNDING / COMMUNITY PERIPHERY** — 能力不是预先齐备，而是在项目中生产出来。
+- **Major unknowns:** Kickstarter 前收入来源、Sector D2 成形时间、全部 credits、Humble/Microsoft 支持、household conditions。
