@@ -91,7 +91,7 @@ Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可�
 
 ## 想直接读人物
 
-如果你更喜欢完整人物传记，而不是跨案例章节：
+如果你更喜欢完整人物传记，而不是跨案例章节，可以进入 [人物传记目录（当前 9 篇）](profiles/README.md)。以下是全部入口：
 
 - [early id / DOOM：游戏少年怎样把兴趣变成工具、公司和一个新行业](profiles/early-id-doom.md)
 - [Kenshi：夜班保安如何把时间变成一间工作室](profiles/kenshi.md)
@@ -99,6 +99,9 @@ Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可�
 - [Bills Must Be Paid：七个月爆款之前，是七年和一百个原型](profiles/bills-must-be-paid.md)
 - [Gunpoint / Tom Francis：品味决定命运](profiles/gunpoint.md)
 - [FTL：不是先赌上一切，而是先买几个月试错](profiles/ftl.md)
+- [David Wehle / The First Tree：上班、育儿与一只狐狸](profiles/david-wehle-first-tree.md)
+- [Nomada / GRIS → Neva：一个画家与两位程序员怎样成为共同作者](profiles/nomada-gris-neva.md)
+- [Zach Barth / Zachtronics：做出擅长的游戏以后，为什么选择结束工作室](profiles/zach-barth-zachtronics.md)
 
 也可以从 [《第一次来，先从这里读》](START-HERE.md) 按你现在真正遇到的问题选择文章。
 
@@ -127,6 +130,10 @@ Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可�
 > **他当时到底拥有什么？付了什么？为什么敢继续？什么时候才有资格加码？失败以后还剩下什么？**
 
 ---
+
+## 真实成本与退出代价
+
+现金预算并不等于真实劳动成本；众筹额不等于净收入；游戏完成不等于可以靠销售维持生活。见 [人生机会成本与失败回撤第一轮比较](research-notes/creator-life-cost-exit-comparison-2026-10-07.md)，对照 SpaceChem、GRIS、The First Tree、Limit Theory、The Magic Circle 与 Spiderweb，保留未能核实的家庭账和职业机会成本。
 
 ## 想核证据，进入研究后台
 
