@@ -1,4 +1,5 @@
 .obsidian/
+.smart-env/
 # Obsidian's initial welcome note in the locally created nested vault.
 /IndieGameLengendaryHeroes/欢迎.md
 __pycache__/
