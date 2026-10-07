@@ -54,11 +54,16 @@ Boundary:
 Source-derived facts:
 - the pair discuss how FTL's success altered the production context for their second game;
 - Game Developer frames the second project as roughly four years of prototyping, design and playtesting;
-- the developers emphasize iterative playtesting and lessons carried over from FTL rather than a simple sequel strategy.
+- Ma says his strategy was to accept that FTL might remain the most popular thing they ever made rather than trying to top it;
+- Davis says they explicitly wanted to make something new and different;
+- they deliberately avoided announcing the game during development so early imagery / fan expectations would not harden around an unstable design;
+- Ma says they tried not to let the question of whether Into the Breach would appeal to the same crowd become a primary design influence;
+- despite the product change, both developers describe common design principles / ethos carrying across FTL and Into the Breach.
 
 Supports:
 - C003 / C011: capability from the first shipped game becomes a second-order production asset;
-- C004: success changes the feasible search process, not only the available budget.
+- C004: success changes the feasible search process, not only the available budget;
+- C015: first-hit capital can be used to preserve product optionality and prevent immediate lock-in to the previous hit's grammar rather than only expanding production capability.
 
 ## E004 — TGDF 2018 Justin Ma speaker/session page
 
@@ -109,6 +114,7 @@ Boundary:
 
 ### UNKNOWN
 - exact retained earnings and monthly burn;
+- counterfactual performance of an FTL sequel or a more audience-led follow-up;
 - exact value/volume of discarded work;
 - full contractor timeline and compensation structure;
 - quantified conversion of FTL audience into `Into the Breach` launch demand.
