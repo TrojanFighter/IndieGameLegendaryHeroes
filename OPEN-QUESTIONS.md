@@ -35,6 +35,8 @@
 ---
 
 ### OQ-002｜Second Attempt：失败一次后还有没有第二次机会？
+
+**Taiwan partial evidence:** [台湾017 — DIY Game Jam重复参与](country-studies/taiwan/017-repeat-amateur-attempts-diy-game-jam.md) 已确认 MICRO SECOND ATTEMPT 层存在多名非明星账号连续2–4届完成小作品；尚不能外推商业第二作存活率。
 **Question**  
 真正决定创作者生态健康度的，是否不是首作成功率，而是失败后的再尝试成本？
 
