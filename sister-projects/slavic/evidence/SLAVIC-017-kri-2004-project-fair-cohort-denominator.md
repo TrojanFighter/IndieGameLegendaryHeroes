@@ -63,10 +63,10 @@ Project Fair是完整的展示/对接母体，不是按公司年龄筛选的“�
 | Digital Spray Studios | 乌克兰/Kyiv | 《You Are Empty》(2006)、《Instinct》(2007)，之后几无公告 | NO CONFIRMED 2008+ | NO CONFIRMED |
 | ООО «УКТ» | UNKNOWN | 待核 | UNKNOWN | UNKNOWN |
 | Sigma Team | 俄罗斯/Novosibirsk | 2003成立；Alien Shooter系列持续，2009/2010仍有商业作品 | **YES** | **YES** |
-| io UPG | likely RU/CIS | 后续形成Pocket Heroes/Palm Kingdoms技术/人员线索 | UNKNOWN | UNKNOWN |
+| io UPG | 俄语圈，国家待核 | 《Pocket Heroes》2006—07商业化，Robert Tarasov / Anton Stuk路线延续为Palm Heroes/Palm Kingdoms至2010—11 | **YES** | **NO CONFIRMED 2014+** |
 | Clidea | UNKNOWN | 待核 | UNKNOWN | UNKNOWN |
 | MindLink Studio | 乌克兰/Kyiv | 2009报道明确项目停止、工作室事实上停止存在 | **NO** | **NO** |
-| Parallax Arts | 俄罗斯/St Petersburg | 2005—07三款PC作品；2008关闭 | **NO** | **NO** |
+| Parallax Arts | 俄罗斯/St Petersburg | 2005—07多款PC项目；《Exodus from the Earth》2008正式商业发行；随后停止活动 | **YES (2008 release)** | **NO CONFIRMED** |
 | Spector Studio | 乌克兰/Kyiv | 2004《五个月亮世界》仍pre-production；后续待核 | UNKNOWN | UNKNOWN |
 | Crazy House | 乌克兰/Kharkiv | 2004游戏/项目；后续品牌资料零散 | UNKNOWN | UNKNOWN |
 | Alawar Entertainment | 俄罗斯/Novosibirsk | 2008—10持续casual PC并并购工作室 | **YES** | **YES** |
@@ -87,8 +87,10 @@ Project Fair是完整的展示/对接母体，不是按公司年龄筛选的“�
 - Alawar
 - Eagle Dynamics
 - Absolutist
+- Parallax Arts
+- iO UPG
 
-= **5 / 19 = 26.3% 的确认下界**
+= **至少 7 / 19 的确认下界**
 
 这**不是CMR-5估计值**：
 - 很多UNKNOWN可能实际存活；
@@ -96,7 +98,7 @@ Project Fair是完整的展示/对接母体，不是按公司年龄筛选的“�
 - 项目/公司身份可能发生收购、改名、spin-off。
 
 只能说：
-> 在一个完整19队Project Fair母体中，至少四分之一可以直接确认在约四年后仍有组织级商业游戏产出。
+> 在一个完整19队Project Fair母体中，目前至少7队可以直接确认在约四年后仍有组织级商业游戏产出；仍有多个UNKNOWN，因此这里只报下界。
 
 ### “2014+确认组织/明确继承组织仍持续”
 目前至少：
@@ -108,6 +110,40 @@ Project Fair是完整的展示/对接母体，不是按公司年龄筛选的“�
 = **4 / 19 = 21.1% 的确认下界**
 
 同样不是最终CMR-10，因为UNKNOWN尚未追完。
+
+## 三点一、严格 newcomer subset：先筛年龄，再算CMR
+
+按“2004活动时团队/公司年龄≤3年，或同时期资料明确为debut/young/first project”的保守标准，目前**确认**的新进入者至少包括：
+
+| 团队 | 2004时状态 | newcomer判据 |
+|---|---|---|
+| Ghost Software | 2001成立 | 公司年龄3年 |
+| Digital Spray Studios | 2001成立 | 公司年龄3年；早期项目尚在建立商业发行 |
+| Sigma Team | 2003成立 | 公司年龄1年 |
+| MindLink Studio | 2003成立 | 公司年龄1年 |
+| Spector Studio | 2001成立 | 公司年龄3年 |
+| Temporal Games | 14—16岁学生团队，首作《The Tales of Walenir》 | 同期明确young/debut；无既往商业作品 |
+
+以下**不能自动算新人**：
+- Discus Games：2000起已活跃；
+- Absolutist：2000成立；
+- Alawar：1999成立；
+- Eagle Dynamics：1991成立；
+- Parallax Arts：约2000起活动，2004时已超过3年阈值；
+- 其余Destiny / Intech / UKT / iO UPG / Clidea / Crazy House / Oxide / IT-group：年龄或首作状态尚待逐项核。
+
+因此当前19队只能作为**Project Fair完整分母**；CMR的严格分母应是“确认新人子集 + 后续完成年龄核验的UNKNOWN”。在新人子集未补齐前，不计算俄罗斯Premium newcomer CMR。
+
+来源锚点：
+- Ghost 2001：https://www.mobygames.com/company/9030/ghost-software/
+- Digital Spray 2001：https://www.mobygames.com/company/9828/digital-spray-studios/
+- Sigma 2003：https://www.sigma-team.com/
+- MindLink 2003：https://itc.ua/articles/nashi_igry_2009_37715/
+- Spector 2001：https://www.mobygames.com/company/57201/spector-studio/
+- Temporal Games 2004同期报道：https://djvu.online/file/NHc7dPBDdXlA2
+- Alawar 1999：https://alawar.com/
+- Eagle Dynamics 1991：https://www.digitalcombatsimulator.com/en/news/newsletters/8eb7cbecd4108168f022270d2eca4374/
+- Absolutist 2000：https://absolutist.com/about-us/
 
 ### 最重要的反浪漫化
 即使最终比例上升，这个母体已经证明：
@@ -157,7 +193,7 @@ https://nzdr.ru/data/media/biblio/j/si/2006/Страна игр 2006 05(206).pdf
 - Project Fair完整19队；
 - 大量是初创/小型团队；
 - 至少若干项目通过Fair拿到发行合同；
-- 四年后组织商业存续确认下界26.3%，十年组织连续确认下界21.1%（均为待补UNKNOWN后的下界）。
+- 四年后组织商业输出确认下界至少7/19；十年组织连续确认下界仍至少4/19（均有大量UNKNOWN，不能当最终CMR）。
 
 目前只能得出：
 > 两边都存在年轻开发者供给，但**可见的新人成长轨道不同**。中国大规模年轻供给主要进入Online；俄语PC/Premium生态仍有公开发行入口。
@@ -217,3 +253,14 @@ organization survival / people retention / domain retention / lead conversion。
 
 **METHOD RULE**：
 先追完整母体，再写“俄罗斯更容易把新人培养成老兵”。
+
+## 八、后续核验补丁（2026-10-08）
+
+- **Parallax 2008 commercial-release correction**：此前将Parallax Arts记为2008“NO”错误。《Exodus from the Earth》在2008仍有正式商业发行，因此改为YES；不能由此推出2014仍存续。
+- **iO UPG lineage**：2007同期媒体明确标Pocket Heroes开发者为iO UPG；该产品线后来延续为Palm Heroes/Palm Kingdoms至2010—11，因此计入2008+商业输出；2014+仍UNKNOWN。
+- **Project Fair ≠ newcomer fair**：Alawar、Eagle Dynamics等成熟公司也在19队之中，19/19绝不能直接作为“年轻团队成熟率”分母。
+
+补充来源：
+- Parallax 2008：https://store.steampowered.com/app/12390/
+- iO UPG 2007：https://www.pocketgamer.com/pocket-heroes-mob/pocket-heroes-marching-onto-windows-mobile/
+- Palm Kingdoms lineage：https://ru.wikipedia.org/wiki/Palm_Kingdoms
