@@ -1,4 +1,4 @@
-# 036 — 没卖出去，家人也没有收回支持：李远扬 × Gianfranco Berardi 两种“失败后的家庭”
+# 036 — 项目没有回本，家人也没有收回尊重：李远扬 × Gianfranco Berardi 两种“失败后的家庭”
 
 - **Status:** RESEARCH NOTE / SOURCE-LED COMPARATIVE LIFE HISTORIES / PRE-CLAIM / 2026-10-07
 - **Question:** 创作职业无法覆盖成本以后，家庭认可究竟会不会撤销？支持失败者是否等于继续无限期为其创业买单？
