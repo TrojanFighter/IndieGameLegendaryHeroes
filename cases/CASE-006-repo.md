@@ -93,3 +93,20 @@ R.E.P.O. 又利用：
 4. R.E.P.O. 各 prototype/pivot 的时间线？
 5. streamer amplification 与上线前 audience 的相对权重？
 6. assets/contractors/QA/localization/platform support 的完整外围图？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** PARTIAL / STUDIO-LEVEL
+- **Life stage:** semiwork 已经历约六年 Voidigo 开发并完整 shipping；R.E.P.O. 是前作之后的第二阶段小工作室决策。
+- **Household:** team members relationship / children / housing / personal burn `UNKNOWN`。
+- **Runway:** Voidigo 收入被团队再投入下一作；具体金额未知；Unity / Photon 等外部基础设施降低 multiplayer production burden。
+- **Household burn:** `UNKNOWN`；当前只能确认“前作钱被投入下一作”，不能把 studio cash 等同个人家庭 runway。
+- **Exit / recovery:** `UNKNOWN` — 团队已有 shipping / community / technical skills，但个人职业 fallback 未公开。
+- **Capability vector:** animation/art/music/game-development tacit capital + community communication；R.E.P.O. 期间增加 Unity / multiplayer middleware 使用能力。
+- **Problem ownership:** **HIGH** — 团队多轮主动放弃 cleaning / moving / tax-collection 等方向，并重新定义成 physics-object extraction + horror + co-op。
+- **Validation architecture:** Voidigo shipped experience/revenue → Project Clean / prototypes → repeated pivots → multiplayer build → Early Access → streamer/community amplification。
+- **Reality adjudication:** **STRONG PROTOTYPE-SIDE** — “fail quickly” 成为对六年前作周期的主动反修正；多次概念被直接抛弃。
+- **Capability capture risk:** **LOW / CONTROLLED BY PIVOTING** — studio 首次迁移 Unity 仍持续改产品，而不是把引擎迁移本身当成项目目标。
+- **Market sufficiency / legibility:** **STRONG at launch** — physical comedy + co-op horror + valuable-object extraction 高观看可读性；exact prelaunch market signal 仍需拆分。
+- **Capability scaling:** **PREVIOUS-GAME REINVESTMENT + EXTERNAL INFRASTRUCTURE** — 前作现金和 tacit capital 与 Unity/Photon 共同降低新项目门槛。
+- **Major unknowns:** Voidigo 实际净收入、R.E.P.O. core headcount、founder household、contractor/QA/localization perimeter、streamer causal share。
