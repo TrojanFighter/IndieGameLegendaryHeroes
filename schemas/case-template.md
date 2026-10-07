@@ -288,6 +288,20 @@ Evidence 在 Claim metadata 中引用时必须使用全局可解析格式：
 
 只有完成最低可比记录的 Case，才可用于回答“这种人是否适合辞职 / 创业 / 做几年独立游戏”一类 reader-facing 问题。
 
+## 16.5 Sampling Origin / Visibility Check（用于跨案例研究）
+
+当 Case 被用来评估“名校毕业生/大厂员工/某国家创作者通常怎样”时，必须在研究笔记或 Case 对照中明示：**它是怎样被发现的**。
+
+- MEDIA_FEATURED / PUBLIC_UNFEATURED / INSTITUTIONAL_FRAME / UNKNOWN；
+- 是否因为 commercial success / awards / public failure / founder media interview 而入选；
+- 该个案是说明可能机制，还是来自含失败/未发布项目的独立抽样框；
+- 受访时间与重大成功/失败节点先后；
+- 缺少哪一层分母，故哪些频率、国别推断被禁止。
+
+执行 [Creator Visibility / Sampling Gate](creator-visibility-sampling-gate.md)。
+
+不要求凭空为现有全部 Case 填个人取样字段；也不把此 Gate 伪装成已完成全库代表性校正。在无法建立 population frame 时保留 purposive biography 模式。
+
 ## 17. Open Questions
 
 尚未解决的问题。重要空白必须保留，不准模型自行填平。
