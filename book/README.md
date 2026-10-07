@@ -17,7 +17,7 @@
 你有三种进入方式：
 
 - **按问题进入**：从“我不知道想做什么 / 没钱怎么活 / 失败是不是白费 / 新技术改变什么 / 市场什么时候进入生产”选择章节；
-- **按处境进入**：[作者型项目决策路由](DECISION-ROUTER.md)，先看 capability、runway / household risk 与 project stage，判断现在应该移动项目、能力、团队、资本还是承诺；若已知具体人生转型问题，再进入 [Life Risk Routes](life-routes/README.md)（已有 [LR-001 大厂老兵转作者](life-routes/big-company-veteran-to-author-001.md)）；
+- **按处境进入**：[作者型项目决策路由](DECISION-ROUTER.md)，先看 capability、runway / household risk 与 project stage，判断现在应该移动项目、能力、团队、资本还是承诺；若已知具体人生转型问题，再进入 [Life Risk Routes](life-routes/README.md)（大厂转型、有工资的投入阶梯、高家庭支出、[项目能力缺口决策 LR-004](life-routes/project-thesis-capability-gap-004.md)）；
 - **按能力进入**：[按主创者能力进入](READER-ARCHETYPES.md)，从 Technical Artist、程序、策划/评论、modder、大厂转作者、solo/generalist 等能力结构找第一批案例。
 
 所有历史经验同时受 [Temporal Validity Gate](TEMPORAL-VALIDITY.md) 约束：成功于 2013/2019 的具体打法，不默认在 2026 仍然成立。

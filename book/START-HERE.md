@@ -159,6 +159,18 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 ---
 
+## 我想做的游戏已经有方向，但团队缺关键能力
+
+你现在可能正在犹豫：自己学、先删内容、找外包、招一个专业负责人、给合伙人股权，还是融资？
+
+**先别把“有清楚的作者愿景”误当成“玩家已经验证了它”。**
+
+进入 [LR-004：作品方向已经明确，但团队做不出来](life-routes/project-thesis-capability-gap-004.md)。
+
+这里用《Gunpoint》《The First Tree》《GRIS》《The Witness》《Outer Wilds》《The Talos Principle》与《Playdead》《The Magic Circle》《Limit Theory》等正反生产史，回答同一个问题：**什么证据值得付哪一级承诺成本？**
+
+---
+
 ## 我已经失败很多次了，是不是说明我不适合做这件事
 
 先读跨人物章节：

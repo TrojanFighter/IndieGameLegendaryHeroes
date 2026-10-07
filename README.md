@@ -26,7 +26,7 @@
 - [技术时代不会替你做选择](book/chapters/04-technology-will-not-choose-for-you.md)
 - [市场不是最后一步](book/chapters/05-market-interface-is-production.md)
 
-如果你当前正面临实际项目抉择，优先走 [按处境进入｜作者型项目决策路由](book/DECISION-ROUTER.md)：把能力结构、runway/household risk 和项目阶段放到一起，判断这次应移动项目、团队、资本、能力，还是承诺。已经确认具体职业转换处境的读者可继续看 [Life Risk Routes](book/life-routes/README.md)；只想按专业强项找人物，再进入 [按主创者能力进入](book/READER-ARCHETYPES.md)。
+如果你当前正面临实际项目抉择，优先走 [按处境进入｜作者型项目决策路由](book/DECISION-ROUTER.md)：把能力结构、runway/household risk 和项目阶段放到一起，判断这次应移动项目、团队、资本、能力，还是承诺。已经确认具体职业转换处境的读者可继续看 [Life Risk Routes](book/life-routes/README.md)（包括[作品方向已定但团队能力不足的 LR-004](book/life-routes/project-thesis-capability-gap-004.md)）；只想按专业强项找人物，再进入 [按主创者能力进入](book/READER-ARCHETYPES.md)。
 
 所有历史成功经验受 [Temporal Validity Gate](book/TEMPORAL-VALIDITY.md) 约束：年份、当时 regime 与 2026 时效状态必须分开写。
 
