@@ -114,7 +114,7 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 
 ## 4.9 成功创作者是否会变成下一代基础设施？
 
-新增 [021 — 椰岛 × 鹰角/开拓芯：CREATOR_TO_INFRASTRUCTURE_CONVERSION](021-creator-to-infrastructure-conversion-coconut-hypergryph-coreblazer.md)。椰岛代表第一代：`creator success -> Game Jam / IndieACE / CiGA / publishing`，先把“场景”做出来；鹰角/开拓芯代表第二代：`creator success -> patient equity / incubator / office / legal-finance / publisher matching / second-attempt support`。2026公开口径已投资近30队、12支创业队首作上线并进入正循环，约三分之一工作室开始第二作；但失败后续投率和被扶持者是否反过来扶持第三代仍OPEN。
+新增 [021 — 椰岛 × 鹰角/开拓芯：CREATOR_TO_INFRASTRUCTURE_CONVERSION](021-creator-to-infrastructure-conversion-coconut-hypergryph-coreblazer.md)。椰岛代表第一代：`creator success -> Game Jam / IndieACE / CiGA / publishing`，先把“场景”做出来；鹰角/开拓芯代表第二代：`creator success -> patient equity / incubator / office / legal-finance / publisher matching / second-attempt support`。2026公开口径已投资近30队、12支创业队首作上线并进入正循环，约三分之一工作室开始第二作。社群层已有“三郎：Game Jam参与者→广州站组织者→CiGA发起人”的递归案例；资本层失败后续投率和被扶持团队反过来投资第三代仍OPEN。
 
 ## 5. 当前正式化状态
 
