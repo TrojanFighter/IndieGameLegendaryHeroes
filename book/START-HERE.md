@@ -201,6 +201,8 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 - [Bills Must Be Paid](profiles/bills-must-be-paid.md)
 - [Rocket League](profiles/rocket-league.md)
+- [Josh Parnell / Limit Theory](profiles/josh-parnell-limit-theory.md) — 项目取消不等于能力消失，也不能将技术残值当作交付。
+- [Question / The Magic Circle → The Blackout Club](profiles/question-magic-circle-blackout-club.md) — 首作销售不够，工作室却没有消失；下一作为什么改变市场入口。
 
 失败当然可能只是失败。
 
@@ -275,6 +277,8 @@ Carmack 不是坐等 PC 发展到某个年份，然后领取一项“现在可�
 - [Bills Must Be Paid](profiles/bills-must-be-paid.md)
 - [Brigador](../cases/CASE-026-brigador.md)
 
+这一组还可加入 [Question / The Magic Circle](profiles/question-magic-circle-blackout-club.md)：当期有行业声望与 IGF 提名，也不等于品类易于理解或收入足以支持组织。
+
 这组案例共同提醒：
 
 > **有曝光，不等于市场接口有效；市场越早进入，也不等于越好。**
@@ -345,7 +349,7 @@ early id 从 DOOM 到 Quake 的历史尤其说明：
 
 # 想继续读什么？
 
-目前已有九篇 reader-layer Profile，完整目录见 [人物传记索引](profiles/README.md)：
+目前已有十一篇 reader-layer Profile，完整目录见 [人物传记索引](profiles/README.md)：
 
 1. [early id / DOOM](profiles/early-id-doom.md) — 兴趣、技术创造、产品、公司与成功后的组织裂变。
 2. [Kenshi](profiles/kenshi.md) — 如何用极低现金流购买极长时间。
@@ -356,6 +360,8 @@ early id 从 DOOM 到 Quake 的历史尤其说明：
 7. [David Wehle / The First Tree](profiles/david-wehle-first-tree.md) — 保留全职工资、抚育孩子与短游戏如何共同决定作品形态。
 8. [Nomada / GRIS → Neva](profiles/nomada-gris-neva.md) — 视觉作者与技术共同作者怎样组成一家工作室。
 9. [Zach Barth / Zachtronics](profiles/zach-barth-zachtronics.md) — 把最擅长的工程谜题做成品牌，以及品牌何时变成路径限制。
+10. [Josh Parnell / Limit Theory](profiles/josh-parnell-limit-theory.md) — 六年真实工程进步和没有完成的游戏承诺如何并存。
+11. [Question / The Magic Circle → The Blackout Club](profiles/question-magic-circle-blackout-club.md) — 完成作品却不足以维持原经营预期，工作室怎样改变下一作而非解散。
 
 如果你已经读完这些，或者你本来就是研究者，再进入：
 
