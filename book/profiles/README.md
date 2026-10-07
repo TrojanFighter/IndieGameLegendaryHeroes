@@ -8,7 +8,7 @@
 
 研究账本在各篇末尾；看不见公开证据的生活细节不补写。
 
-**证据与全文核对：** [CASE-042 The First Tree](../../cases/CASE-042-the-first-tree.md) · [CASE-050 GRIS / Nomada](../../cases/CASE-050-nomada-gris-neva.md) · [CASE-051 Zachtronics](../../cases/CASE-051-zachtronics.md)。相应来源账本：[The First Tree Evidence Ledger](../../evidence/CASE-042-the-first-tree-source-ledger.md) · [GRIS Evidence Ledger](../../evidence/CASE-050-nomada-gris-neva-source-ledger.md) · [Zachtronics Evidence Ledger](../../evidence/CASE-051-zachtronics-source-ledger.md)。
+**证据与全文核对：** [CASE-042 The First Tree](../../cases/CASE-042-the-first-tree.md) · [CASE-048 The Magic Circle](../../cases/CASE-048-the-magic-circle.md) · [CASE-050 GRIS / Nomada](../../cases/CASE-050-nomada-gris-neva.md) · [CASE-051 Zachtronics](../../cases/CASE-051-zachtronics.md) · [CASE-054 Limit Theory](../../cases/CASE-054-limit-theory-fit-trap.md)。相应来源账本：[The First Tree Evidence Ledger](../../evidence/CASE-042-the-first-tree-source-ledger.md) · [The Magic Circle Evidence Ledger](../../evidence/CASE-048-the-magic-circle-source-ledger.md) · [GRIS Evidence Ledger](../../evidence/CASE-050-nomada-gris-neva-source-ledger.md) · [Zachtronics Evidence Ledger](../../evidence/CASE-051-zachtronics-source-ledger.md) · [Limit Theory Evidence Ledger](../../evidence/CASE-054-limit-theory-source-ledger.md)。
 
 ## 我还在形成自己的目标
 
@@ -27,6 +27,11 @@
 - [Chris Hunt / Kenshi](kenshi.md)：超长独立制作究竟怎样持续从生活中购买时间。
 - [Psyonix / Rocket League](rocket-league.md)：一家公司怎样通过 work-for-hire 延续组织、留下第二次原创下注的条件。
 
+## 我承担过损失，应该停下还是换一种作品继续
+
+- [Josh Parnell / Limit Theory](josh-parnell-limit-theory.md)：获得众筹并花六年完成大量工程工作，却没有交付承诺产品；2018 结束项目与 2022 公开源码，分别意味着什么。
+- [Jordan Thomas、Stephen Alexander、Kain Shin / The Magic Circle → The Blackout Club](question-magic-circle-blackout-club.md)：首作完成且获奖提名，但当期销量不足；团队没有解散，而是重新选择与真实市场重合的作品。
+
 ## 我已经做了很多项目，过去的失败究竟剩下什么
 
 - [Bills Must Be Paid](bills-must-be-paid.md)：一次看似很快的成功，实际上由此前多年原型、市场实验与失败构成。
@@ -42,4 +47,4 @@
 - “工作、家庭与创业风险怎样衡量？” → [LR-002 受薪开发者](../life-routes/salaried-creator-staged-commitment-002.md) + [LR-003 家庭支出](../life-routes/household-high-burn-creator-003.md) + [机会成本比较研究](../research-notes/creator-life-cost-exit-comparison-2026-10-07.md)。
 - “成功后仍然要不要继续做最擅长的类型？” → [Zach Barth](zach-barth-zachtronics.md) 与 [Zachtronics 原始 Case](../../cases/CASE-051-zachtronics.md)。
 
-**边界：** 以上 9 篇是已有研究基础上整理的人物传记，不是 9 个可复制的人生模板；家庭支持、总投入工时和个人净收入等尚未核实部分均需标 UNKNOWN。
+**边界：** 以上 11 篇是已有研究基础上整理的人物传记，不是 11 个可复制的人生模板；家庭支持、总投入工时和个人净收入等尚未核实部分均需标 UNKNOWN。
