@@ -721,5 +721,6 @@ Softdisk 既限制他们，也训练他们、给他们工资、机器和高频 s
 
 - [CASE-016 — Early id Software](../../cases/CASE-016-early-id-software.md)
 - [CASE-016 Evidence Ledger](../../evidence/CASE-016-early-id-software-source-ledger.md)
+- [《DOOM启世录》纵向母案例研究](../research-notes/masters-of-doom-longitudinal-master-study-001.md) — 补 Quake / Ion Storm 的能力—组织反事实与证据边界。
 - [DOOM Life Crossroads Audit 001](../research-notes/doom-life-crossroads-001.md)
 - 当前研究状态：**RESEARCHING**

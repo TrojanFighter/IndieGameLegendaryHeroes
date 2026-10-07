@@ -147,6 +147,18 @@ The First Tree 尤其作为首个示范：
 
 具体时效规则见 `../book/TEMPORAL-VALIDITY.md`。
 
+### 4.6 Created opportunity vs existing opportunity / 团队是否主动制造技术窗口
+
+**技术机会来源与前述 project-formation taxonomy 是正交维度，不是第七种互斥立项标签。** 同一项目可能通过互补 cofounder 组成（`CAPABILITY-COMPOSED`），围绕能力反向立项（`CAPABILITY-SHAPED`），同时由团队自主推进技术边界创造了原先不存在的产品机会（`CAPABILITY-CREATED-WINDOW / ENDOGENOUS WINDOW`）。
+
+对这一类样本至少拆开：旧技术/性能限制 → 可运行的新实现 → 实际新增的 player-facing affordance → 编辑器、内容、性能与 scope 怎样将技术变为可发布产品 → 同期玩家/市场如何验证。技术创新、产品创新和品类扩散不能互相替代。
+
+增加反向审计：工程能力增长时，剩余 content / QA / coordination obligations 是减少还是增加？研发什么时候停止继续追 frontier，转为完成产品？技术能够做出新功能，并不等于该功能值得存在。
+
+纵向锚点：[`CASE-016 early id / DOOM`](../cases/CASE-016-early-id-software.md) 的技术窗口创造及 Quake 技术—内容—组织吸收压力；与 Limit Theory、Factorio 的 technical stop-condition 对照。详见 [《DOOM启世录》纵向母案例](../book/research-notes/masters-of-doom-longitudinal-master-study-001.md)。
+
+**禁令**：不得将 DOOM 说成单人发明第一人称、BSP 数学或整个 FPS；不得把一项技术突破当成游戏完成、市场胜利或融资合理性的充分条件。
+
 ### 5. Counterfactual
 
 至少问一次：

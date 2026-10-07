@@ -2,7 +2,7 @@
 
 - Case: `CASE-016`
 - Status: ACTIVE
-- Last updated: 2026-10-05
+- Last updated: 2026-10-07
 
 ## E001 — John Romero on small-scale development
 
@@ -238,6 +238,45 @@ Boundary:
 - Carmack is describing his own historical role retrospectively; use contemporary E007 and independent technical histories for triangulation;
 - do not claim id invented first-person perspective, 3D graphics, BSP as a mathematical concept, or every later FPS convention;
 - distinguish creating / productizing a technical frontier from later industry-wide diffusion and genre standardization.
+
+
+## E016 — 2003 年《DOOM启世录》的章节级重新摄取
+
+- Class: S1 — David Kushner, *Masters of Doom*, Random House, 2003；个人上传的中文 EPUB 用于核对章节
+- Bibliography: https://www.penguinrandomhouse.com/books/96382/masters-of-doom-by-david-kushner/9781588362896/
+- Related: [纵向研究 001](../book/research-notes/masters-of-doom-longitudinal-master-study-001.md)
+
+Chapter map：第一至二章两位 John 能力前史；第三至四章 Softdisk/工资/出货与职业选择；第五至七章 Keen/Wolfenstein；第八至十章 DOOM 设计与发布；第十一至十三章 Quake 与 id 组织变局；第十四至十六章 Ion Storm/Daikatana 与后续。
+
+Use: 高信息密度叙事脊柱，生成待核证机制和连续性问题。不得单源承载创始人心理、逐字私人对话、股份/合同/融资金额、销量或过错归属。禁止将用户上传版权 EPUB 全文并入公共仓库。
+
+## E017 — Romero 2023 direct accounts on Quake and Daikatana
+
+- Class: P1 — direct creator retrospective
+- Sources: GamesBeat, 2023: https://gamesbeat.com/making-doom-and-building-the-fps-industry-at-100-miles-per-hour-john-romero-interview/ ; Tim Ferriss 2023 transcript: https://tim.blog/2023/07/15/john-romero-transcript/
+
+Romero describes Quake's changing engine capabilities causing earlier-built content/levels to lag behind the final technical possibilities, contributing to burnout and tension. He also says Daikatana's mid-project migration from Quake to Quake II technology created unexpected conversion cost.
+
+Boundary: first-person hindsight; possible alternative Quake development cycles are counterfactual, not confirmed superior courses; Quake shipped as a successful major game.
+
+## E018 — Warren Spector's contemporary Deus Ex / Ion Storm Austin postmortem
+
+- Class: P1 — project leader contemporaneous production postmortem
+- Source: Game Developer, Warren Spector, 2000-12-06, https://www.gamedeveloper.com/design/postmortem-ion-storm-s-i-deus-ex-i-
+
+Spector reports a positive reception to Deus Ex after June 2000 release, previous Origin / Looking Glass production knowledge embedded in its design, an early two-lead designer structure later repaired, and Dallas-to-Austin remote art management that impaired project manager's hiring/evaluation authority. Negative Dallas publicity also hampered Austin's morale and hiring.
+
+Supports: same-firm contrasting production results; project-specific authority structures and local repairs matter; Ion Storm should not be equated wholly with Daikatana.
+
+Boundary: Spector's own project retrospective is not neutral audited accounting. Successful release does not erase his documented management mistakes.
+
+## E019 — Combined Carmack/Romero Quake hindsight
+
+- Class: S1/P1 — journalist's report of creator discussion
+- Source: Ars Technica, 2023-12, https://arstechnica.com/gaming/2023/12/dooms-creators-reminisce-about-as-close-to-a-perfect-game-as-anything-we-made/
+
+Both creators identify Quake's unusually large concurrent new-technology burdens and consider whether alternative technical/production priorities would have been better. Supports the inference that endogenous technical-window expansion can outpace content and organizational absorption; does not establish a single culprit or deterministic counterfactual.
+
 
 ## Current evidence-level conclusions
 

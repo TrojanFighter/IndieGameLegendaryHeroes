@@ -123,6 +123,18 @@ DOOM 绝不是“两个 John 做完一切”。同期资料显示：
 
 《DOOM启示录》在这一层尤其有用：它不只讲产品成功，也完整追踪“成功之后为什么会裂”。这正是很多英雄叙事会故意删掉的一半。
 
+
+## Longitudinal pressure test: DOOM → Quake → Ion Storm
+
+参见 [《DOOM启世录》纵向母案例](../book/research-notes/masters-of-doom-longitudinal-master-study-001.md) 与 Evidence E016–E019。
+
+- **CAPABILITY-CREATED-WINDOW / Endogenous Window**：Carmack 推进图形/引擎可行域，Romero、Hall、Adrian、Petersen 等将技术变成可玩空间和 content grammar；非两位 John 独立完成的单线史。
+- **Created-window 是机会来源维度，不是新的互斥立项标签**：可与 CAPABILITY-COMPOSED、CAPABILITY-SHAPED 同时成立。
+- **Quake 反向成本**：技术能力仍增长，但先行关卡/资产不能充分发挥不断变化的引擎，人员协作、设计方向与组织成本升高。Quake 是产品成功、治理/开发代价高的混合结果，不可倒写成失败游戏。
+- **Ion Storm 对照**：Daikatana 发生显著引擎迁移成本；同公司 Austin 的 Deus Ex 最终成功，同时留下设计双负责人和 Dallas→Austin 异地矩阵管理失误的同期复盘（E018）。不把个人优劣当成组织的完整因果解释。
+- **暂不扩编 Case 数量**：后期 Ion Storm 的融资/控制权仍缺合同级证据，作为 CASE-016 的纵向 comparator 而非已定论的新 Case。
+- **Temporal boundary**：1990s shareware、DOS/NeXT 与当时图形 frontier 为 HISTORICAL；互补能力、项目边界、研发收束与决策权是可供 2026 再验证的 DURABLE 分析问题。
+
 ## Historical Boundary
 
 必须禁止五个错误类比：
@@ -138,6 +150,8 @@ DOOM 绝不是“两个 John 做完一切”。同期资料显示：
 > Early id 的历史价值，不是“天才小团队证明公司没用”，而是说明极小核心可以把雇佣关系、技术能力、工具链、产品长度、分发模式、社区接口和现金回流顺序重新组合，直到原创项目能够购买自己的独立时间，并继续购买下一轮选择权。DOOM 又补上后一半：规模不一定首先增加人数，也可以先增加工具、市场控制与外围网络；但当互补的创始人目标开始分化时，原本极低的组织成本会迅速反转成高风险。
 
 ## Evidence Index
+
+- E016–E019 — 中文原书章节地图、Romero 对 Quake/Daikatana 的直接复盘、Spector 对 Deus Ex 的同期复盘、Carmack/Romero 联合回顾。
 
 - E001 — John Romero 2023 direct interview：高频出货、时间约束、按可完成数据量 scope。
 - E002 — Tom Hall 2015 direct interview：夜间/周末开发 Keen、离开 Softdisk 后仍履约。

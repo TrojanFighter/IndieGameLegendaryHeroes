@@ -93,6 +93,7 @@ Nomada 的关键不是“Conrad Roset 画得好”，而是：
 
 优先看：
 - [early id / John Carmack](profiles/early-id-doom.md) — 技术能力不仅降低成本，也可能直接创造新产品空间；
+  - 延伸阅读：[《DOOM启世录》纵向母案例](research-notes/masters-of-doom-longitudinal-master-study-001.md)：既研究技术创造产品窗口，也研究 Quake 中 frontier 扩张超过内容/团队转化速度，以及 Ion Storm 的权力与项目失配。不要把技术成功直接等同产品成功。
 - [CASE-018 RollerCoaster Tycoon / Chris Sawyer](../cases/CASE-018-rollercoaster-tycoon.md) — 极端工程熟练度、长期代码资本与 OPC 上限；
 - [CASE-035 Factorio / Wube](../cases/CASE-035-factorio-wube.md) — 程序能力 + 系统型产品 + paid-alpha feedback loop；
 - [CASE-051 Zachtronics / Zach Barth](../cases/CASE-051-zachtronics.md) — 把 engineering literacy 直接做成玩家语言，并观察长期成功的 fit 如何反过来形成 `FIT-LOCK-IN`。

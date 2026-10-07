@@ -312,7 +312,7 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 - 成熟工作室真正跨越固定 grammar 的转型条件。
 
 主要人物池：
-- early id → Quake；
+- early id → Quake → Ion Storm（[纵向母案例研究](research-notes/masters-of-doom-longitudinal-master-study-001.md)：早期互补如何在成功后产生治理与项目适配成本，另以 Daikatana / Deus Ex 作同公司对照）；
 - FTL → Into the Breach：第一次成功后保留 option value；
 - The Witness：自有资金购买额外 capability；
 - House House：grant/publisher 支持与后续 retained earnings；
