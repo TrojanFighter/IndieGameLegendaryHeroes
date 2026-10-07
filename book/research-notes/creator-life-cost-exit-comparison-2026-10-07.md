@@ -58,8 +58,8 @@
 | **Zach Barth／SpaceChem** | Microsoft 受薪软件工作 + 多年免费作品；商业首作约一年、7 名开发/贡献者 | 2012 自述约 **$4k CASH** | 员工和作者时间、免费劳动、先前学习的年数；成功后辞职转全职 | 早期可保留技术工作职业资本；后续已实现商业工作室 | 真正总人年、各人的收入、个人 household burn、净利润 |
 | **David Wehle／The First Tree** | The VOID 技术美术全职工作；育儿责任；已有短游戏出货史 | 目前不足以完成核算 | 夜晚与周末注意力、家庭时间、授权素材成本、后续 port | 保留职业工资和技术美术履历，已验证前作经验 | 伴侣/照护支持、全年工时、税后回报、生活成本 |
 | **Nomada／GRIS** | 插画家 + 两位 AAA 程序员；三人离职，约六个月 demo，之后寻融资／发行 | 融资金额和合同 UNKNOWN | 三人放弃既有工资、合伙治理、艺术生产的扩张投入 | 成熟专业履历提供潜在重新就业选择；实际失败时恢复条件未发生 | 储蓄、家庭安全网、创始人股权、真正制作预算 |
-| **Question／The Magic Circle** | 三位拥有 AAA／immersive-sim 前史的作者；自费开发完成作品 | 2016 阶段自述约 **16.5k copies / 44k wishlists**（不是收入） | 自费长开发、低市场可读性、机会成本；公司销售不足持续经营 | 成员原本拥有 AAA 技能资本；未证实具体个人退出收入 | 总预算、家庭处境、终生销售/利润、恢复轨迹 |
-| **Josh Parnell／Limit Theory** | 众筹后离开 Stanford，全职做高度复杂工程／系统型项目；六年后取消 | 2012 众筹 **$187,865 gross / 5,449 backers** | 六年时间、众筹承诺、个人储蓄、非完成产品导致的客户/作者义务 | 技术、源码、程序设计能力确实累积；但没有可交付承诺产品 | 个人负债/家庭现金、全部团队人时、最终净损失 |
+| **Question／The Magic Circle → The Blackout Club** | AAA／immersive-sim 老兵自费完成首作；2018–2019 组织继续并选择更可理解的合作恐怖作品 | 2016 阶段自述约 **16.5k copies / 44k wishlists**（不是收入） | 首作长期生产、当期市场不足、下一作重组与新增人员成本 | 工作室实际延续并迁移专业能力到下一作；经济恢复/成员回报 UNKNOWN | 总预算、两作利润、家庭处境、重组资金、个体职业回撤 |
+| **Josh Parnell／Limit Theory** | 众筹后离开 Stanford，全职做高度复杂工程／系统型项目；六年后取消 | 2012 众筹 **$187,865 gross / 5,449 backers** | 六年时间、众筹承诺、个人储蓄、非完成产品导致的客户/作者义务 | 引擎与程序能力留下，2022 年源码公开；但没有可交付承诺产品，也无证据证明个人经济恢复 | 个人负债/家庭现金、全部团队人时、最终净损失 |
 | **Jeff Vogel／Spiderweb / Queen's Wish** | 数十年小规模 CRPG 工作室；稳定旧 grammar、受众、后目录 | QW2 Steam unit sales 约为 QW1 **50%**（2026 作者自述，非全部平台净收入） | 20 月级新生产/新受众投入，旧流程/受众复利被局部放弃 | remaster/back catalog 提供旧产品线回撤；取消原三部曲完整计划 | 两作实际人时/成本、读者/玩家迁移、净收益、替代职业收益 |
 
 这里只存在可比较的**结构**，不具备可直接相加比较的货币数字。
@@ -96,11 +96,11 @@ Josh Parnell 的工程能力可以留下很多东西。
 
 Question 的核心成员明确有专业能力。
 
-《The Magic Circle》实现了其独特的游戏设计并上市；当时玩家与评论反馈并不能弥补 genre 不清、niche 太窄和可见性问题。主创在 2016 年谈到作品销售不足维持工作室的现实。
+《The Magic Circle》实现了其独特的游戏设计并上市；当时玩家与评论反馈并不能弥补 genre 不清、niche 太窄和可见性问题。主创在 2016 年谈到首作销售不足支撑当时的工作室经营预期。**但 Question 没有因此解散**：2018 年可见新团队、新项目与 Early Access；Thomas 公开说明后续选题要找到创作兴趣和真实购买需求的交集，2019 年正式推出《The Blackout Club》。这证明组织和能力曾经延续，不证明经济损失已经收回。[CASE-048 新增 E007–E010](../../evidence/CASE-048-the-magic-circle-source-ledger.md)。
 
 这与 Limit Theory 不同。
 
-它没有让“工程越来越好”拖死完整作品，而是在作品完成以后才更清楚地暴露商业可持续性问题。
+它没有让“工程越来越好”拖死完整作品，而是在作品完成以后才更清楚地暴露商业可持续性问题。后续组织继续存在，使其成为 **SHIPPED / MARKET-INSUFFICIENT / ORGANIZATION-CONTINUED**，而不是 **STUDIO-CLOSED** 的压力样本。
 
 对读者来说，这种区分直接决定下一次行动：
 
@@ -119,6 +119,16 @@ Vogel 的《Queen's Wish》并非一开始就失败或无人问津。
 > **作者已经看见这条产品线的边际回报不值得再支付下一部的完整成本。**
 
 这种判断不能被解读为“不够坚持”。
+
+## 4.5 停止一个项目与退出一种职业，必须分开记录
+
+对 `Limit Theory`：已核的是 **2018 PRODUCT_CANCELLED**，以及 **2022 SOURCE_RELEASED**。Parnell 是否转向雇佣工作、独立新项目、其他行业或新的家庭/财务结构，缺乏完整公开材料，记 `PERSON_EXIT_UNKNOWN`，不能写成“离开游戏行业”。
+
+对 `The Magic Circle`：已核的是 **2016 SALES_INSUFFICIENT_AT_SNAPSHOT**，随后 **2018–2019 STUDIO_CONTINUED_WITH_NEXT_PRODUCT**。这不是“工作室创业失败便退出”；同样也不足以记成 `FULL_FINANCIAL_RECOVERY`。
+
+对其他人物，继续独立、重回公司、暂停作品、关掉法人、保留 IP/源码、职业转行，都必须独立编码。这与 [028 媒体选择和分母协议](media-selection-survivorship-and-denominator-protocol-028.md) 的 outcome/censoring 区分一致。
+
+**结局不是一个单选题。** 一个人可以在同一项目上商业失败、技术成长、个人储蓄损失、职业身份延续；不能用一个“SUCCESS / FAILURE”标签吞掉所有结果。
 
 ## 5. 我们仍然缺少真正普通的失败者
 
@@ -176,7 +186,7 @@ Vogel 的《Queen's Wish》并非一开始就失败或无人问津。
 **高优先级：**
 - David Wehle 的 GDC 2019 原始幻灯片或完整实录：核成本／工时／收入数据；
 - Zach Barth SpaceChem 2012 年 postmortem 中是否披露具体 total person-hours、营收和税后收益；
-- The Magic Circle 的个人退出/后续职业与正式财务后续采访；
+- Question 下一作《The Blackout Club》的资金来源、发行收入与长期团队运营资料，确认“继续存在”是否实现经济回撤；
 - 更完整的低曝光失败者 cohort 和抽样偏差审计。
 
 **中优先级：**
@@ -197,8 +207,8 @@ Vogel 的《Queen's Wish》并非一开始就失败或无人问津。
 - [SpaceChem / Zach Barth](../../cases/CASE-051-zachtronics.md) · [账本](../../evidence/CASE-051-zachtronics-source-ledger.md)
 - [The First Tree / David Wehle](../../cases/CASE-042-the-first-tree.md) · [账本](../../evidence/CASE-042-the-first-tree-source-ledger.md)
 - [GRIS / Nomada](../../cases/CASE-050-nomada-gris-neva.md) · [账本](../../evidence/CASE-050-nomada-gris-neva-source-ledger.md)
-- [The Magic Circle / Question](../../cases/CASE-048-the-magic-circle.md)
-- [Limit Theory / Josh Parnell](../../cases/CASE-054-limit-theory-fit-trap.md)
+- [The Magic Circle / Question](../../cases/CASE-048-the-magic-circle.md) · [传记](../profiles/question-magic-circle-blackout-club.md) · [新增后续证据](../../evidence/CASE-048-the-magic-circle-source-ledger.md)
+- [Limit Theory / Josh Parnell](../../cases/CASE-054-limit-theory-fit-trap.md) · [传记](../profiles/josh-parnell-limit-theory.md)
 - [Spiderweb / Jeff Vogel](../../cases/CASE-058-spiderweb-fit-lock-in.md)
 
 本文是比较观察，不新增跨案例正式 Claim。未来若得到公开的同口径人时、财务或退出跟踪材料，再对具体结论升级可信度。
