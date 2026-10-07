@@ -137,7 +137,7 @@ person / role / first_game_year / target_project_year / GIE / hands_on_role / pr
 
 **SUPPORTED BY SELECTED FLAGSHIP COHORTS**：俄罗斯/后苏联多条旗舰Premium、模拟、策略、CRPG谱系的核心决策者在关键作品时已有约8—17年以上行业经验，而且经常保持hands-on或相近问题域连续性。
 
-**HYPOTHESIS**：真正的跨国差异不是 veteran headcount，而是 **Veteran Decision-Role Density + Hands-on Creative Tenure + Problem-Domain Tenure**。
+**UNKNOWN / TO TEST**：Veteran Decision-Role Density、Hands-on Creative Tenure、Problem-Domain Tenure 是否在俄方显著更高，均没有数量级证据；必须先建立国别与Premium子行业分母。
 
 ## 七、跨国credits pilot反证（2026-10-08）
 
