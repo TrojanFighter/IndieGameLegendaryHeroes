@@ -174,6 +174,8 @@ Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签�
 - [CASE-050 Nomada / GRIS → Neva](../cases/CASE-050-nomada-gris-neva.md) — AAA programmer capability 与 visual-author capability 重新组合到完全不同 objective function；
 - [Gunfire Reborn comparator](../cases/CASE-039-gunfire-reborn.md)
 - [C013 — commercial capability / objective-function specialization](../claims/C013-capability-capital-objective-function-specialization.md)
+- [CASE-059 Slay the Spire / Mega Crit](../cases/CASE-059-slay-the-spire-mega-crit.md) — Amazon QA / software career 并没有替代 college-era hobby-game author thread；适合看“保留公司能力、丢掉公司 objective function”。
+- [AC-010 声望管道耦合与平行作者线程](../author-corpus/AC-010-prestige-pipeline-coupling-and-authorial-continuity.md) — 如果你的风险不是“不会做”，而是“项目必须配得上名校/名企/职级”，先做身份审计。
 
 核心问题：
 > **哪些能力是真的资本，哪些只是原 production regime 的 objective function？**
