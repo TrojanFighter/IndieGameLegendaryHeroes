@@ -30,6 +30,7 @@
 - [Program Map](../PROGRAM-MAP.md)
 - [Industrial Revolutions Comparative Lab](../cross-industry/industrial-revolutions/README.md)
 - [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md) — 按主创能力类型补正例、边界例与压力对照
+- [Supported After Failure — Li Yuanyang & Gianfranco Berardi 036](research-notes/family-support-after-commercial-failure-li-yuanyang-berardi-036.md) — 厦门地心/《纽扣兄弟》从2017家长认可到2019市场失败仍无明显家属压力；美国GBGames从2012未婚妻支持到2013复职后仍被肯定尝试。
 - [Family Approval/Success Countercases 035](research-notes/family-acceptance-non-success-countercases-035.md) — Croshaw/Keith Judge/Mike Bithell/梁其伟：声望≠家长认可、家庭收入支援≠项目成品、留存画作≠童年未遭作品破坏。
 - [DOOM Intergenerational Reconciliation 032](research-notes/doom-intergenerational-reconciliation-032.md) — 1993/1994/1999/2023/2025家庭关系长线；后见认可、暴力责任、成年独立和下一代实践分开。
 - [Liang Qiwei / Rainblood 2006–2010 Near-Miss](research-notes/family-gate-china-near-miss-liang-qiwei-030.md) — 一手自述的首作停工与再次入场；中传招生已通过家长门控的样本选择、2026限制与学习时间实证审计。

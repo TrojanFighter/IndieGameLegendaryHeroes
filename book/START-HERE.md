@@ -123,7 +123,9 @@ Romero、Carmack、Tom Francis 真正值得看的地方，是目标怎样在 **�
 
 但**有人改口说职业有前途，并不等于过去的伤害已经获得完整道歉**。同样，父母可能始终未能认可一个没有成功的孩子，而这个人仍然有权决定成年后的生活。
 
-2011年知名游戏评论人Croshaw说父母仍不认可工作；2013年前Lionhead老兵Keith Judge复盘则说明配偶工资和储蓄也不能保证独立项目完成。两例详见 [成功不等于认可、支持不等于成功 034](research-notes/family-acceptance-non-success-countercases-035.md)。
+2011年知名游戏评论人Croshaw说父母仍不认可工作；2013年前Lionhead老兵Keith Judge复盘则说明配偶工资和储蓄也不能保证独立项目完成。两例详见 [成功不等于认可、支持不等于成功 035](research-notes/family-acceptance-non-success-countercases-035.md)。
+
+更重要的另一种结局并没有《DOOM》的商业神话：2017年中国独游制作人李远扬说家人虽曾管着他偷玩游戏，后来却支持他的制作事业。2019年《纽扣兄弟》数次发行后销售惨淡，他仍说家里没施加太大压力；2013年美国独游作者Berardi回到受雇工作时，妻子仍肯定他此前两年真正试过。详细对照在 [《项目没有回本，家人也没有收回尊重》036](research-notes/family-support-after-commercial-failure-li-yuanyang-berardi-036.md)。这并不等于家庭会无限代付开发亏损，也不是说两家的成员都接受过完整采访。
 
 如果想理解这种错综复杂的晚期人物关系，读 [家庭代际和解纵向研究 032](research-notes/doom-intergenerational-reconciliation-032.md)；其中国对照（《雨血》梁其伟）只记录已能查到的家长态度变化，不能臆造最后和解的情节。
 
