@@ -1,5 +1,7 @@
 # SLAVIC-016 — 俄罗斯游戏从业者“老兵密度”：行业平均资历、核心决策位与问题域复利
 
+> **2026-10-08 方法纠错**：此前由Maddox、Kislyi、Yudintsev、Mishulin等selected flagship cases提出“核心决策位老兵密度可能更高”，缺少国别/子行业分母。该密度命题现撤回为 UNKNOWN。数量级审计见 [中国侧跨国数量级审计](../../../country-studies/china/china-russia-veteran-scale-audit-2018-2021.md)。本档只保留“这些具体谱系确有长期hands-on资历”的个案事实。
+
 - Type: Workforce / career-cohort evidence ledger
 - Status: ACTIVE — MIXED EVIDENCE
 - Date: 2026-10-07
