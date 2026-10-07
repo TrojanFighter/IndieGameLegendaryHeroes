@@ -4,7 +4,7 @@
 - Last verified: 2026-10-07
 - Scope: 中国独立游戏创作者形成、问题主权、production regime、benchmark、deviance sanction、career/life-script pressure
 - Related: `china-catch-up-success-pre-paradigm-creator-016.md`, `china-indie-structural-capability-audit-010.md`, `china-player-worker-generations-009.md`, `domain-specific-capability-demand-evaluation-017.md`, `../BOOK-ARCHITECTURE.md`
-- Author-corpus roots: `AC-006`, `AC-007`, `AC-008`
+- Author-corpus roots: `AC-006`, `AC-007`, `AC-008`, `AC-010`
 - Boundary: “老中”“春登”等只保留为作者/H-layer入口词。正式分析只讨论教育训练、产业版本、家庭/群体规范、反馈结构与历史收益函数，不建立民族、年龄或人格本质论。
 
 ## 0. 为什么要拆成三层
@@ -386,6 +386,44 @@ Sources:
 - 同样走法的失败者发生了什么？
 
 这能防止英雄故事把社会许可成本删掉。
+
+---
+
+# 三点五｜跨层耦合器：Prestige Pipeline Coupling
+
+AC-010 增加一个跨层问题：
+
+```text
+教育 prestige
+→ 名校身份
+→ elite employer
+→ 绩效 / 晋升 / 高薪
+→ family / peer legitimacy
+→ career identity
+```
+
+这不是第四层。
+
+它研究的是：
+
+> **三层是否被一条连续评分器绑得过紧，以至于创作者转独立时不仅要退出公司，还要同时退出教育、职业和社会身份评分器。**
+
+当前压力样本：
+- CASE-059 Slay the Spire：Casey Yano 在 Amazon QA 后仍保留 college-era hobby-game author thread，职业能力被选择性迁移；
+- 王妙一 / WILL：中国名校 + 网易仍可保留 Problem Ownership；
+- 月下 /《铸仙之境》：离开组织后“乙方心态”仍可能保留；
+- Sea /《安尼姆》：昂贵失配后 deliberate unlearning；
+- The Magic Circle：欧美 AAA 老兵即使成功卸载旧函数，市场仍可以拒绝。
+
+当前不能写：
+> “中国大厂比美国大厂更磨作者性。”
+
+只能继续检验：
+> **哪些环境更容易让 prestige、职业身份和项目形态耦合；哪些人通过 Parallel Authorial Thread、exit optionality 与 cheap prototype rights 打断它。**
+
+详见：
+- [声望管道与作者连续性 026](prestige-pipeline-authorial-continuity-026.md)
+- [CASE-059 Slay the Spire](../../cases/CASE-059-slay-the-spire-mega-crit.md)
 
 ---
 

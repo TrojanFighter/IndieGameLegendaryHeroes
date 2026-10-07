@@ -174,9 +174,19 @@ Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签�
 - [CASE-050 Nomada / GRIS → Neva](../cases/CASE-050-nomada-gris-neva.md) — AAA programmer capability 与 visual-author capability 重新组合到完全不同 objective function；
 - [Gunfire Reborn comparator](../cases/CASE-039-gunfire-reborn.md)
 - [C013 — commercial capability / objective-function specialization](../claims/C013-capability-capital-objective-function-specialization.md)
+- [CASE-059 Slay the Spire / Mega Crit](../cases/CASE-059-slay-the-spire-mega-crit.md) — Amazon QA / software career 并没有替代 college-era hobby-game author thread；适合看“保留公司能力、丢掉公司 objective function”。
+- [AC-010 声望管道耦合与平行作者线程](../author-corpus/AC-010-prestige-pipeline-coupling-and-authorial-continuity.md) — 如果你的风险不是“不会做”，而是“项目必须配得上名校/名企/职级”，先做身份审计。
 
 核心问题：
 > **哪些能力是真的资本，哪些只是原 production regime 的 objective function？**
+
+如果你正在实际决定“还留大厂多久 / 要不要辞 / 第一作做多大”，直接进入：
+- [LR-001 — 名校 / 大厂高绩效者转作者型独立：先退出评分器，再退出公司](life-routes/big-company-veteran-to-author-001.md)
+
+再加三个问题：
+- **Identity Coupling**：如果下一作只有一个丑 2D 原型，你会不会觉得“配不上履历”？
+- **Parallel Authorial Thread**：过去三年有没有完全不受公司 KPI 支配、但持续产出 artifact 的作者线程？
+- **Prestige-Preserving Distortion**：如果没人知道你以前在哪家公司，你还会不会把这个项目做成同样的规模、规格和流程？
 
 状态：问题本身 `DURABLE`；具体中国/全球平台与融资条件 `CONDITIONAL`。
 

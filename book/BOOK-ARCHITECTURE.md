@@ -65,6 +65,7 @@ Chapter 不再问：
 - [Creator Life / Decision Audit：把案例库升级成人生条件可比系统](research-notes/creator-life-decision-audit-backfill-023.md)
 - [Creator Life P0 回填：第一版人生风险决策对照](research-notes/creator-life-decision-audit-p0-backfill-024.md)
 - [Creator Life P1 回填：Runway 结构与 Evidence-Following Scaling](research-notes/creator-life-decision-audit-p1-backfill-025.md)
+- [声望管道与作者连续性：名校 / 名企 / 大厂老兵为什么会出现不同转型](research-notes/prestige-pipeline-authorial-continuity-026.md)
 
 ### A. 教育｜你是否学会自己出题？
 
@@ -142,6 +143,26 @@ Chapter 不再问：
 ```
 
 这条线服务的是“人生性价比指南”的负面镜像：不仅写英雄怎么成功，也写**英雄可能怎样在出发之前就被合理地训练成另一种优秀。**
+
+## Reader Decision Interfaces｜Life Risk Routes
+
+研究笔记足够成熟以后，不要求读者自己翻 Case 拼答案。
+
+统一进入 [`life-routes/`](life-routes/README.md)，按现实处境提供：
+
+```text
+处境
+→ 最大风险
+→ 最小实验
+→ quit / scale threshold
+→ 正反案例
+→ 不可迁移条件
+```
+
+第一条已建立：
+- [LR-001 — 名校 / 大厂高绩效者转作者型独立](life-routes/big-company-veteran-to-author-001.md)
+
+Route 不是成功公式；新证据若推翻现有判断，优先修改 Route。
 
 ## Part I — 目标不是先想明白的
 
