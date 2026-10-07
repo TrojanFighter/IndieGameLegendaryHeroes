@@ -6,6 +6,7 @@
 
 当前入口：
 
+- [002 — “老登游戏”到底是什么？日本的组织记忆、技术前沿与《空之轨迹 the 1st》](002-veteran-continuity-technical-frontier-falcom-2025-2026.md)：CESA 2023开发者调查显示平均年龄36.1、当前公司平均任职7.52年、54.1%没有游戏业内转职；Falcom 2026则是**74人、平均年龄39、平均勤续18年**的极端连续组织。2025近藤访谈说明《空轨 the 1st》并无大幅引擎升级，却靠**20年作品理解+年轻人/老员工重组**提升镜头和动作；同时他承认20年连续制作已造成高语境、员工疲惫和“老玩家自然懂”的锁定。对照Capcom约200人基础技术部门/160人RE ENGINE研发，证明 **VETERAN_CONTINUITY 与 TECHNICAL_FRONTIER 是独立维度**。
 - [001 — 日本：为什么一个高度从众、低关系流动性的东亚社会，仍长期产生大量作者型游戏与“制度化怪人”？](001-japan-east-asian-counterexample-weird-kinship-and-game-creator-ecology.md)
 
 ## 研究主轴
