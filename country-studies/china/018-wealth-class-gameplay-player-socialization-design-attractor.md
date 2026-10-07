@@ -6,6 +6,7 @@
 - Parent: [017 — Demand-Side Creator Selection](017-demand-side-creator-selection-player-veto.md)
 - Industry lineage: [中国游戏商业制度谱系](../../book/research-notes/china-game-commercial-regime-lineage-003.md)
 - Related: [001 — Experience Capital / Demand Discovery](001-experience-capital-demand-discovery-hypotheses.md)
+- Taste institutions: [019 — 谁在生产能够认出大师、支持怪作品的玩家？](019-taste-institutions-player-literacy-creator-selection.md)
 - Case anchor: CASE-033《征途》/史玉柱
 - Terminology ruling: **统一使用“富豪阶级游戏性”**；“资产阶级游戏性”不作为本项目正式术语。
 
@@ -478,3 +479,29 @@ geographically dispersed niche audience
 ## 13. 当前最小结论
 
 > **“富豪阶级游戏性”不是简单的P2W贬义词，而是一种现实财富—游戏效用转换制度；《征途》的关键创新，是把免费人口、异质支付能力、阶级化数值和社会关系整合成一个可持续商业系统。该系统一旦获得巨大收入，会通过需求权重、渠道、资本和人才筛选形成选择外部性，并可能构成稳定Design Attractor。玩家偏好既是这个系统的输入，也是长期社会化后的输出。**
+
+
+## 14. Design Attractor 的文化层：谁训练玩家识别另一种游戏？
+
+`DESIGN_ATTRACTOR` 不能只由收入函数解释。一个新吸引子要持续存在，还需要一套文化基础设施反复告诉新玩家：
+
+- 这种作品存在；
+- 为什么它值得玩；
+- 如何比较它与主流产品；
+- 谁做了它；
+- 去哪里买；
+- 如何进一步自己创作。
+
+因此 [019](019-taste-institutions-player-literacy-creator-selection.md) 的 `TASTE_INSTITUTION STACK` 是 `ALTERNATIVE_SELECTION_STACK` 的文化/认知层。
+
+尤其是 `EXTENSIVE_NICHE_AGGREGATION` 必须同时满足：
+
+```text
+distributed niche demand
++ discovery / interpretation
++ direct transaction
++ memory / reputation
+→ repeatable creator market
+```
+
+只有全球商店、没有解释/合法化机构，怪作品可能淹没在供给里；只有评论/媒体、没有交易接口，则可能形成高鉴赏但低作者回流。
