@@ -482,3 +482,32 @@ AI真正值得测的不是“用了多少”，而是：
 - 外包 / 专职岗位减少多少；
 - 第二次尝试；
 - 是否真正提高作者密度。
+
+
+## 13. 需求侧反向链：作者权也由玩家选择定价
+
+本文件此前主要研究“谁在组织内取得作者权”，仍缺反向链。新增中国017后，作者生态统一写为：
+
+```text
+social selection
+→ organizational author rights
+→ channel visibility
+→ player selection / refusal
+→ revenue signal
+→ capital reallocates budget and author rights
+↺
+```
+
+因此中日比较不能只看公司是否“尊重作者”，还要看：
+- 玩家是否能识别具体作者/团队，并把认可转成购买；
+- 失败的IP壳替代是否真的被市场惩罚；
+- 小众作者是否有 donation / doujin / mod / community 等补贴机制；
+- premium 与 F2P 的收入投票权重是否不同；
+- 渠道是否先决定玩家能看到什么，再把被塑造后的需求反馈给开发者。
+
+新的核心H：
+
+> **当市场不能稳定给作者判断定价时，资本没有充分经济理由购买作者自主权；当玩家能稳定识别并为具体作者判断付费时，作者权本身会成为有价格的生产资料。**
+
+Demand-side canonical entry:
+- [017 — Demand-Side Creator Selection](017-demand-side-creator-selection-player-veto.md)

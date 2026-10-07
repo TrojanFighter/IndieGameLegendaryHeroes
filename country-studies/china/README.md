@@ -38,6 +38,7 @@
 作者旧文中关于“体验水平 / 有效需求 / 技术价值”的判断不直接升级为本书结论，统一先进入可证伪的 hypothesis intake：
 
 - [`001 — Experience Capital / Demand Discovery`](001-experience-capital-demand-discovery-hypotheses.md)
+- [`017 — Demand-Side Creator Selection`](017-demand-side-creator-selection-player-veto.md)：把“玩家审美 / 人民选择”拆成 `TASTE_CAPITAL / CREATOR_SELECTION_CAPACITY / CONSUMER_VETO / DEMAND_WEIGHTING / CHANNEL_MEDIATION`；研究玩家如何给作者性定价，也研究玩家choice set如何被渠道和商业模式反向塑造。
 
 这里把“国民体验水平”拆成 reference breadth、comparative literacy、player→producer conversion、benchmark dependence、decision rights 等可观察变量，并要求用中国内部差异、东亚反例、斯拉夫 / 北欧 / 新西兰等跨国 comparator 做压力测试。
 
