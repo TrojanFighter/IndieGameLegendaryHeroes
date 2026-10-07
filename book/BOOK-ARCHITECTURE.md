@@ -82,6 +82,7 @@ Chapter 不再问：
 - [Creator Life P1 回填：Runway 结构与 Evidence-Following Scaling](research-notes/creator-life-decision-audit-p1-backfill-025.md)
 - [声望管道与作者连续性：名校 / 名企 / 大厂老兵为什么会出现不同转型](research-notes/prestige-pipeline-authorial-continuity-026.md)
 - [工业能力 × 独立作者性：EA、Amazon、Ubisoft、Red Hook 与中国跨岗位对照](research-notes/industrial-capability-independent-authorship-comparison-027.md)
+- [媒体可见性与幸存者偏差：从明星案例转向公开非明星项目的分母审计](research-notes/media-selection-survivorship-and-denominator-protocol-028.md)
 
 ### A. 教育｜你是否学会自己出题？
 

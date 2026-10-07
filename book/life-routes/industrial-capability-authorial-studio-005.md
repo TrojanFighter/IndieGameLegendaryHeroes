@@ -8,6 +8,16 @@
 - Related: [LR-001 身份/评分器退出](big-company-veteran-to-author-001.md), [LR-002 工资/辞职时点](salaried-creator-staged-commitment-002.md), [LR-003 家庭生存期](household-high-burn-creator-003.md), [研究 027](../research-notes/industrial-capability-independent-authorship-comparison-027.md)
 - Boundary: 非成功概率预测；不以国籍/大厂名推断个人创造力。
 
+## 适用性限制：这个案例库不是同类员工的随机样本
+
+以下人物因为成功、项目知名度、媒体采访与公开复盘而容易被研究者发现。他们证明某些生产组合 **可能奏效**，不告诉你一般大厂员工中有多少能做到，也不能据此预估个人成功率。
+
+尤其 Red Hook、The Magic Circle 等公开失败/经济压力案例，同样经过可见性筛选，不能作为全体失败项目的随机对照。读者应将案例当作“风险与行动结构的参照”，而非“这种路径通常有效”的统计证明。
+
+[取样与分母审计](../../schemas/creator-visibility-sampling-gate.md) · [研究 028](../research-notes/media-selection-survivorship-and-denominator-protocol-028.md)
+
+---
+
 ## 1. 何时进入
 
 你已经知道自己或合作者拥有真实的工业执行能力，却不知道怎样变成自己拥有的产品题目，容易把旧组织的岗位与审批缩小复制为新公司。
