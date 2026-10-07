@@ -100,6 +100,12 @@ https://www.reddit.com/r/IndieDev/comments/1rj6acb/from_the_spouse_of_an_indie_d
 
 但这只是多例存在性机制，不是群体普遍性或父母直接心理证据。家属具体是否愿意继续现金资助、谁做照护、孩子在哪个社会阶层、普通没有大学/奖项者如何被门控，仍是 `UNKNOWN` 或 `NO MATCHED FRAME`。讨论家庭而不研究职业发行商业接口也会扭曲；见 [018](china-creator-constraints-three-layer-map-018.md)和[036](family-support-after-commercial-failure-li-yuanyang-berardi-036.md)。
 
+## 五点五、越南另一种家庭认可：母亲鼓励过“首作失败”，但这是第二作成功后的回忆
+
+[039 — Giguère × SOGA](ordinary-indie-household-runway-two-hits-selection-039.md)补进一条不该误判的越南回顾。夫妻两人2024推出《Taken Soul》、反响/销售不理想；2025-07-04男开发者Simon在第二作《Cabin Crew Life Simulator》已有EA初步收入以后，回忆当小学教师的母亲**在第一次失败后**曾鼓励继续创作。这个时间顺序说明家长鼓励**可能先于第二作商业成功**，但没有2024年的母亲一手口供，也没有未知失败者总分母。第二作制作的美术、文字、社区工作由妻子实质承担，并用婚礼礼金支付生活/制作费用，不能把同一个`family supports him`当作创作者不用生产组织的魔法。
+
+另由GGJ 2026参与者自愿答卷/旧站档案审计 [038](ggj-2026-survey-and-archive-denominator-038.md)可知：**39,197报名参与/9,874作品/3,535份自愿答卷**都不是“想从事游戏却从未得到家庭许可的人”。出现采访的母亲故事永远不能替代没有入场者的实际抽样。
+
 ## 六、下一轮真正待补
 
 1. **家属独立一手访谈**：在获得知情同意的前提下，父母或配偶各自说“2017为什么改变意见、2019销量低时怎么想、对于2013重回上班怎样看”；研究者不可替家属署名并将开发者转述标成二方资料。
