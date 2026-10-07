@@ -48,7 +48,11 @@
 
 ### 2003—2012｜USC、Sony合作与情感体验游戏
 
-2003赴USC互动媒体深造，学生作品《Cloud》《flOw》引起关注；2006与Kellee Santiago等创立thatgamecompany；Sony发行《flOw》（2007）、《Flower》（2009）、《Journey》（2012）。USC教育/同伴网络与Sony独占投资形成不同于盛大MMO的原型验证、发行与观众评价环境。**仍需精确核USC申请经费、奖助、家庭资助、学生作品及同学首次合作credits，不能把出走自动等同家庭财富支持。**
+**P1 2007年陈星汉接受Gamasutra原始访谈（新浪同期中文译本）**：他明确说在中国毕业后难找到同时结合工程、艺术和设计的工作；当时国内工作室偏重外包和在线游戏、很多管理者希望设计师复刻竞争品类。他同时承认自己已经约四年没回国，该评论并非中国2007行业统计，却是**同期当事人的明确离开动机和对本土职业机会的观察**。
+
+**P1 2025-09-09 Gaming Founders Podcast本人回忆**：父亲倾向让他继续计算机博士/成为教授，反对艺术道路；他最初申请USC动画/电影是希望进入Pixar，起初根本不认为做游戏是体面的职业目标；交大学生作品主要是在模仿流行游戏。他回忆家里动用了几乎全部积蓄、包括卖房支持第一年赴美读书，赌其后来拿到奖助。**此为本人20余年后的回忆，金额/房产交易未见独立档案，不能估算家庭净资产**。这纠正了“出走就是单纯逃离国内游戏圈”和“赴美完全没有家长阻力”的双重误判：保守父亲后来仍以重大财务牺牲支持其子女非标准路径，而这同时造成极强的家庭回报压力。
+
+**P0/S1 USC 2012校方报道**：USC提供约2万美元支持学生游戏《Cloud》；陈谈及作品触达用户后的回信及情感游戏目标。2006与Kellee Santiago等创立thatgamecompany；Sony发行《flOw》（2007）、《Flower》（2009）、《Journey》（2012）。USC校内奖助、同伴网络与Sony独占投资形成不同于盛大MMO的原型验证、发行与观众评价环境；不是一次性“美国有人投资天才”的简单故事。**赴美并非无需成本：其具体家庭阻力、家庭资金牺牲及USC早期非稀释支持均有新的一手材料，见下节。** 学生作品及同学首次合作credits仍需进一步核。
 
 **P1 Jenova Chen 2013 GamesBeat深访**：《Journey》超期，员工约半年领取半薪，完工时现金耗尽，部分人员离开；Sony承担资金和推广、同意部分延期，但并未无限追加资金。发行回款首先偿还Sony投资、销量报表/版税结算有滞后。**产品获奖≠团队当期现金正流入**。
 
@@ -91,7 +95,7 @@
 ## 6. 下一步一手证据清单
 
 - 找胡岭本人、2001—2003校内社团/比赛存档、原型文件和原始credits，确认单隽—陈星汉的真实共同制作范围，不臆造二人是某正式社团共同发起人。
-- 找陈星汉2002—2004具体赴USC申请/学费/家庭态度及校内创作选择的当时证据；比较而不是臆造二人家庭收入。
+- 已有陈星汉2007同期受访、2012 USC校方和2025本人长访披露职业出走动机、家长反对、卖房自资与校方20000美元资助；进一步核2002—04申请/奖助实际账目、售房支持的时间与数额、双方家庭早期资源。**回忆支持提出代际冲突/风险承担假说，不支持跨家庭精确财富排名**。
 - 补《三国豪侠传》项目当年立项书、用户测试/运营指标，以及陈天桥/制作团队其他人版本；不只听单隽事后反省。
 - 补盛大18基金与XBLA资金、发行商纠纷、平台撤下与Steam后续发行的精确合同/年份；拆解《风卷残云》2011/12不同平台发售叙述。
 - 向心动/单隽两侧求证《快斩狂刀》停服经济原因；核2019—26《不当英雄》《龙套英雄》标题/版权/停工缘由，以及苟雄在《派对之星》的真实合作关系。
@@ -108,6 +112,10 @@
 - [P1] 2019-01单隽《不当英雄》独白（触乐原文，GameRes转载） https://www.gameres.com/836400.html
 - [P0] Steam《不当英雄》商店当前仍Coming soon https://store.steampowered.com/app/887680/
 - [P0] 2026-07《派对之星》官方更新与TapTap官方活动，称苟雄源自未发售作品 https://www.taptap.cn/app/202514/topic?type=official
+- [P1] 2007 Chen Gamasutra原始访谈（新浪同期中文译本）明确谈国内行业环境、就业难以兼顾艺术与工程 https://games.sina.com.cn/t/n/2007-05-21/1413198600.shtml
+- [P1] 2025-09-09 Chen《Gaming Founders Podcast》父亲阻力、卖房资助赴USC及从动画转互动媒体的回忆（播客原始节目） https://podcasts.apple.com/ch/podcast/part-i-gamings-emotional-blind-spot-jenova-chens-strategy/id1672081790?i=1000725697170
+- [P1 transcript] 2025同场访谈机器转录文本（用以定位近似时间戳，关键金额须复听录音） https://podscan.fm/podcasts/the-gaming-founders-podcast/episodes/part-i-gamings-emotional-blind-spot-jenova-chens-strategy-behind-making-journey-and-sky
+- [P0] USC 2012校方对《Cloud》约20000美元学生资助与陈星汉创作起点的记录 https://annenberg.usc.edu/news/published/drive-unite-technology-and-creativity-forefront-10th-chinese-internet-research
 - [P1] 2013 Chen GamesBeat破产/版税采访 https://gamesbeat.com/an-interview-with-jenova-chen-how-journeys-creator-went-bankrupt-and-won-game-of-the-year/
 - [P1] 2013 Chen关于Sony权利与创作自主访谈 https://www.engadget.com/2013-03-12-thatinterview-with-thatgamecompany-co-founder-jenova-chen.html
 - [P0/S1] 2012 Benchmark 550万美元融资报道 https://gamesbeat.com/indie-game-maker-thatgamecompany-raises-5-5m-to-hit-wider-audiences/
