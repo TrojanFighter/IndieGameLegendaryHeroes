@@ -39,6 +39,13 @@
 - Slavjank：编制 **20款失败/平庸作品 + 10款成功/保守对照**，先明确抽样标准再开始；不能只拿 Steam “17款合集”当完整总体。
 - 对照中国 2000—2026：像素《刀剑封魔录》、目标《秦殇》、西山居、网易/多益等都可能是 **中国 problem-domain continuity 的反例**；精确检验因商业模式转换而变化的能力资产，别把中国一概写成只有商业化策划。
 
+## 新近补核的高价值线索（2026-10-07）
+
+- Krank 2016 第一手长访谈 https://rugrad.online/afisha/news/andrey-krank-kuzmin-my-mogli-kruche-chem-amerikantsy/ ：**Vangers 开发合同/1998放弃俄国发行权/海外发行商破产导致 royalty 流失**。需追原版权记录、英文发行商资产处置，不可只用“国际销量”评价出海获益。
+- K-D LAB 官方公司史 https://kdlab.com/about/en ：2004年 **Krank→KranX** 与 **其他创始人→KD Vision/Vista Engine/Perimeter 2** 两条并行谱系；继续访谈原共同创始人、核工作室实际劳动与继承技术。
+- 2023 年成立的 K-D LAB 独立游戏创作者支持协会（俄法人资料：https://companies.rbc.ru/id/1233900001763-assotsiatsiya-podderzhki-nezavisimyih-sozdatelej-igr-k-d-lab/ ）：已登记成立、Novikova 任负责人，但 **2023—2026 实际资助项目仍待核**。这是很好的“个人去世后共同体是否继续”观察窗。
+- KranX 困难项目线索：Krank 2016 本人点名《Не время для драконов》和《Правда о девятой роте》完成，其他多数未完成；需按“项目原团队/进入KranX时完成度/合同/谁主导修复/上映”建立名单，而非把 KranX 所有 credits 写成其亲自抢救。
+
 ## D. 方法学检查
 
 每条重要命题都记：主张者/发生年份/涉及人群/分母/直接史料/冲突版本/当前证据级别/可证伪观察/2026时效。数字单位必须拆官方审计、经营者估计、媒体总量、单款项目预算与净回款。
