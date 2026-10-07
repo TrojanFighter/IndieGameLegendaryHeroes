@@ -172,7 +172,7 @@
 
 ### OQ-007｜第一笔10万、100万、1000万是谁出的？
 **Status:** `PARTIAL` — `CAPITAL PATHS RICH / NORMALIZATION OPEN`  
-**Evidence in repo:** [CASE-023 despelote](cases/CASE-023-despelote.md)、[CASE-035 Factorio](cases/CASE-035-factorio-wube.md)、[CASE-036 Manor Lords](cases/CASE-036-manor-lords.md)、[CASE-049 Outer Wilds](cases/CASE-049-outer-wilds.md)、[CASE-052 House House](cases/CASE-052-house-house.md)、[CASE-057 thatgamecompany](cases/CASE-057-thatgamecompany-vc-equity-expansion.md)、[CASE-062 Red Hook](cases/CASE-062-red-hook-darkest-dungeon-veteran-household-risk.md) 等已经覆盖 grant / crowdfunding / publisher / equity / savings / EA 多种路径。  
+**Evidence in repo:** [CASE-023 despelote](cases/CASE-023-despelote.md)、[CASE-035 Factorio](cases/CASE-035-factorio-wube.md)、[CASE-036 Manor Lords](cases/CASE-036-manor-lords.md)、[CASE-049 Outer Wilds](cases/CASE-049-outer-wilds.md)、[CASE-052 House House](cases/CASE-052-house-house-goose-game.md)、[CASE-057 thatgamecompany](cases/CASE-057-thatgamecompany-vc-equity-expansion.md)、[CASE-062 Red Hook](cases/CASE-062-red-hook-darkest-dungeon-veteran-household-risk.md) 等已经覆盖 grant / crowdfunding / publisher / equity / savings / EA 多种路径。  
 **Unresolved core:** 原材料很多，但金额、时点、decision rights、recoup、dilution、IP 与失败下行仍未统一编码。  
 **Closure condition:** 建成可跨 Case 查询的 Creator Capital Ladder，而不是继续以叙事段落保存融资事实。
 **Question**  
