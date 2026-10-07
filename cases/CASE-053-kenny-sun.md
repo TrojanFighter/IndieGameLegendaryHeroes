@@ -438,3 +438,20 @@ Kenny 明确说：
 7. BALL x PIT 六位 core collaborators 的合同关系、投入周期与 decision rights。
 8. BALL x PIT 2025–2026 爆发中 demo / Next Fest / Devolver / creator / Steam recommendation 各自贡献多少？
 9. 这条 longitudinal capability-accretion 机制是否能在第二、第三个创作者身上重复观察，足以升级为正式 Claim？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** 从高中/大学低成本作品循环进入职业 gameplay programming，再用几年“全职行业工作 + 周末独立开发”积累 catalog；2018 在个人作品收入可覆盖生活后才转 full-time indie。
+- **Household:** relationship / children / housing / dependents `UNKNOWN`。
+- **Runway:** salaried Harmonix employment + weekend indie revenue → self-sustaining indie income → Raw Fury finish funding / QA / localization / porting / marketing → later Devolver publishing + specialist team。
+- **Household burn:** 金额 `UNKNOWN`；“个人作品收入足以覆盖生活”是关键阈值，但生活成本与储蓄未公开。
+- **Exit / recovery:** **HIGH** — gameplay programmer 职业履历、持续 shipping、publisher network 与多款商业作品共同形成较强职业可逆性；精确就业 fallback 未直接记录。
+- **Capability vector:** programming/generalist/game feel + repeated shipping；后期主动承认 market/release perimeter 是弱项，用 publisher 补齐；BALL x PIT 时升级为 specialist team lead。
+- **Problem ownership:** **HIGH** — 个人项目长期由 Kenny 主导；publisher 补外围，不等于替代 product thesis。
+- **Validation architecture:** Flash/public portals → Ludum Dare prototype → Incubator/commercial release → salaried job + repeated weekend shipping → indie revenue threshold → Hatbox publisher expansion → BALL x PIT demo/market + specialist team。
+- **Reality adjudication:** **STRONG** — Hatbox 2016 因 scope 超出业余时间而主动搁置；生产条件变化后才重启；又明确承认“会做游戏但不擅长卖游戏”，据此改变组织方案。
+- **Capability capture risk:** **LOW→MEDIUM** — 多年 generalist 习惯最终被主动打破，没有继续强迫自己覆盖 marketing/QA/art 全外围。
+- **Market sufficiency / legibility:** **PARTIAL / PROJECT-DEPENDENT** — repeated small releases 形成现实反馈；BALL x PIT 的更大市场结果属于后期，不应用来重写早期路径。
+- **Capability scaling:** **LONGITUDINAL** — solo experiment → salaried specialist → full-time solo → publisher-expanded solo → author-led specialist team。
+- **Major unknowns:** household economics、2018 收入/储蓄阈值、publisher合同、BALL x PIT collaborator employment/equity。

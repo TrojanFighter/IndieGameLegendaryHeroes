@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "last_updated": "2026-10-07",
   "purpose": "Coverage-only index for schemas/creator-life-decision-audit.md. No household or personal facts are duplicated here.",
   "statuses": [
@@ -31,9 +31,9 @@
     {
       "case_id": "CASE-003",
       "file": "cases/CASE-003-papers-please.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-004",
@@ -94,9 +94,9 @@
     {
       "case_id": "CASE-012",
       "file": "cases/CASE-012-kenshi.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "partial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-013",
@@ -122,9 +122,9 @@
     {
       "case_id": "CASE-016",
       "file": "cases/CASE-016-early-id-software.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-017",
@@ -150,9 +150,9 @@
     {
       "case_id": "CASE-020",
       "file": "cases/CASE-020-into-the-breach.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-021",
@@ -255,16 +255,16 @@
     {
       "case_id": "CASE-035",
       "file": "cases/CASE-035-factorio-wube.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-036",
       "file": "cases/CASE-036-manor-lords.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-037",
@@ -311,9 +311,9 @@
     {
       "case_id": "CASE-043",
       "file": "cases/CASE-043-everything-david-oreilly.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-044",
@@ -353,16 +353,16 @@
     {
       "case_id": "CASE-049",
       "file": "cases/CASE-049-outer-wilds.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-050",
       "file": "cases/CASE-050-nomada-gris-neva.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-051",
@@ -381,9 +381,9 @@
     {
       "case_id": "CASE-053",
       "file": "cases/CASE-053-kenny-sun.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-054",
@@ -395,16 +395,21 @@
     {
       "case_id": "CASE-055",
       "file": "cases/CASE-055-factorio-stop-conditions.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     },
     {
       "case_id": "CASE-056",
       "file": "cases/CASE-056-playdead-founder-governance.md",
-      "audit_status": "pending",
-      "audit_scope": "pending",
-      "has_audit_section": false
+      "audit_status": "substantial",
+      "audit_scope": "individual",
+      "has_audit_section": true
     }
-  ]
+  ],
+  "summary": {
+    "partial": 10,
+    "pending": 30,
+    "substantial": 16
+  }
 }

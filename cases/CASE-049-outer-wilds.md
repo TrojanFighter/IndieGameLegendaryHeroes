@@ -334,3 +334,20 @@ Outer Wilds 的 market path 不是“一次 viral”：
 8. Epic exclusivity decision-rights chain；
 9. 哪些 student mechanics 在资本扩张后被删除，而不是只被 polish；
 10. external funding 是否实际缩短还是延长 time-to-player-truth。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL / TEAM-AND-FOUNDER HYBRID
+- **Life stage:** Alex Beachum 以 USC MFA thesis / student-project 起步，后由 Mobius 吸收并逐步转成 full-time commercial studio production。
+- **Household:** Beachum 与核心团队的 relationship / children / housing / student debt / family support `UNKNOWN`。
+- **Runway:** USC institutional environment → Mobius studio adoption → Fig crowdfunding → Annapurna / Xbox / Epic partnerships；属于多层外部资本与制度支持，而非个人储蓄型路径。
+- **Household burn:** `UNKNOWN`；学校和 studio 在早期吸收了大量本应由个人承担的设备、协作与就业风险。
+- **Exit / recovery:** **MEDIUM / INSTITUTIONALIZED** — student/early-career 阶段有学校、作品信用与 studio absorption；个人失败后的实际职业回撤条件未单独核。
+- **Capability vector:** clear exploration thesis + physics/system programming + multidisciplinary student team；后续用 full-time art director、tech art/programming、3D、producer、writer、engineering 等扩 capability supply。
+- **Problem ownership:** **HIGH THESIS / MULTI-STAKEHOLDER CONTROL** — curiosity-driven exploration thesis 在资本扩张前已成立；后续 publisher/platform decision rights 精确边界未知。
+- **Validation architecture:** USC thesis/playable → IGF recognition → Mobius adoption → Fig funding → staffing expansion → publisher/platform partnerships → launch。
+- **Reality adjudication:** **STRONG at staged-evidence level** — playable thesis 与 IGF 先于大规模扩张；后续 Mobius 也公开强调 prototype funding 必须允许 failure。
+- **Capability capture risk:** **LOW / CONTROLLED BY THESIS** — 资本主要用于补项目已知能力缺口，现有证据不支持 specialist frontier 反客为主。
+- **Market sufficiency / legibility:** **STRONG credibility / CONDITIONAL commercial legibility** — IGF / Fig / publisher/platform signal 足以持续融资；最终市场成功不能倒推所有阶段风险都低。
+- **Capability scaling:** **CAPABILITY-EXPANDED** — 典型“先有强 thesis + playable evidence，再让资金把团队能力追上愿景”。
+- **Major unknowns:** household、总预算、各资本层金额、publisher/platform approval rights、Epic deal economics。

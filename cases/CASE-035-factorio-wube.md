@@ -129,3 +129,20 @@ Michal 已辞职全职投入，团队没有外部资助、主要自筹；他们�
 3. 核早期美术、音乐、翻译和社区 contributor perimeter；
 4. 与 Minecraft / Kenshi 的 paid-alpha financing 横向比较；
 5. 查 Wube 成功后仍维持长期单产品策略的组织逻辑。
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL / FOUNDER-TEAM
+- **Life stage:** early founder team；Michal 先辞职全职投入，其他核心随后加入；完整婚育/household 阶段未公开。
+- **Household:** relationship / children / housing / family transfers `UNKNOWN`。
+- **Runway:** founder self-funding / opportunity cost → Indiegogo → website paid alpha / preorder → recurring player revenue → Steam；这是连续融资转换而非一次 Kickstarter 式大赌。
+- **Household burn:** `UNKNOWN`；当前证据不足以把捷克生活成本写成关键因果。
+- **Exit / recovery:** `UNKNOWN` — founder prior professions 仍需补；辞职意味着真实收入风险，但是否有可回撤岗位未闭环。
+- **Capability vector:** programming / simulation / tooling / systems 强；早期两名程序员 + graphics contribution；后续按验证逐步补人。
+- **Problem ownership:** **HIGH** — “自己想玩但市场没有”的 factory thesis 由核心直接提出并持续控制。
+- **Validation architecture:** demo/tutorial → Indiegogo weak start → public model correction → paid alpha/preorder → YouTube/blog/forum sales spikes → long playable development → Steam。
+- **Reality adjudication:** **STRONG** — 众筹失败信号被明确承认并改变融资结构；长期付费玩家反馈直接进入产品和现金流。
+- **Capability capture risk:** **LOW→MEDIUM CONTROLLED** — 技术能力很强，但长期有 playable product / paying-user feedback；详细 stop-condition 见 CASE-055。
+- **Market sufficiency / legibility:** **STRONG over time** — 公开 playable + direct purchase 在 Steam 前已形成数万 memberships。
+- **Capability scaling:** **EVIDENCE-FOLLOWING** — 新增开发能力跟随 paid-alpha revenue / product evidence，而非先建大组织。
+- **Major unknowns:** founder household、个人储蓄、年度 burn、早期职业前史、Indiegogo/直销/Steam 各自净贡献。

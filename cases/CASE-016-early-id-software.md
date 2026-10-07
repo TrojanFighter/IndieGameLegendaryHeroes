@@ -160,3 +160,20 @@ DOOM 绝不是“两个 John 做完一切”。同期资料显示：
 7. mod/WAD 开放策略在销量、生命周期、招聘和品牌传播上的因果强度如何区分？
 8. *Masters of Doom* 中哪些关键组织叙事被 *DOOM Guy*、Carmack/Hall 等第一人称材料支持、修正或反驳？
 9. 哪些 early id 条件可迁移到现代小团队，哪些只属于 1990s PC 市场？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL / TEAM-FOUNDING
+- **Life stage:** 核心成员已经在 Softdisk / Gamer's Edge 高频职业出货，原创 initially 发生在夜晚和周末；之后才逐步购买组织独立。
+- **Household:** 各 founder 的 relationship / children / housing / family support `UNKNOWN`；本案主要可核的是工资与公司级现金流，而不是家庭结构。
+- **Runway:** Softdisk salary / equipment / professional environment → moonlighting original → Apogee shareware revenue → Keen cashflow 支撑离职 → Wolfenstein / DOOM retained earnings 与直接销售扩张。
+- **Household burn:** `UNKNOWN`；极端工时是明确 human-cost，但不能换算成家庭现金流。
+- **Exit / recovery:** **MEDIUM→HIGH EARLY** — 正式离职前有职业雇佣与高频作品履历；Keen 收入达到替代工资水平后才完成组织切换。离职后 contractual obligations 仍存在。
+- **Capability vector:** Carmack engine / graphics frontier；Romero production / tools / levels / market push；Hall design；visual specialists；后来扩展 sound / networking / distribution perimeter。
+- **Problem ownership:** **HIGH and rising** — 从 Softdisk 雇佣环境中的 moonlighting，到 id 独立后不断内收技术、产品与分发战略控制。
+- **Validation architecture:** high-frequency commercial shipping → Keen prototype/shareware → revenue signal → full-time id → Wolfenstein shareware → stronger cashflow → DOOM shareware/community。
+- **Reality adjudication:** **STRONG on product/market, MIXED on governance** — 团队会因性能/资产成本砍功能，并用 shareware 销售持续判卷；但创始人目标分化最终暴露治理失配。
+- **Capability capture risk:** **LOW for Carmack frontier during Keen/DOOM, later governance risk separate** — 技术突破直接打开玩家可体验的新空间，并迅速进入 shipping / market feedback；不能因此假设所有底层技术投入都合理。
+- **Market sufficiency / legibility:** **STRONG in 1990s regime** — shareware + direct order 模式与产品差异高度匹配；具体 tactic 为 HISTORICAL。
+- **Capability scaling:** 先靠工具链 /专业分工 /外围服务而非先膨胀 headcount；成功后组织复杂度与 founder conflict 上升。
+- **Major unknowns:** household conditions、Softdisk subsidy 精确价值、Apogee contracts、各阶段个人收入与分配。

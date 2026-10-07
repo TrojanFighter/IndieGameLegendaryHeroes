@@ -455,3 +455,19 @@ cofounder 通常没有这么简单。
 - whether an explicit deadlock / buy-sell mechanism existed before conflict;
 - final outcome of the 2025–2026 litigation.
 
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL / FOUNDER-GOVERNANCE
+- **Life stage:** Jensen 先形成 authorial concept；Patti 以 programming / production / company-building 能力加入，随后形成十年级共同创业关系。
+- **Household:** 两位 founder 的 relationship / children / housing / household burn `UNKNOWN`；本 Case 主要风险来自 equity / control / time-horizon，而非已知家庭现金流。
+- **Runway:** early founder labor + external investors / financing → commercial LIMBO success → later investor buyout / stronger founder control → retained company resources 支撑 INSIDE；精确 funding stack 仍需继续核。
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** **HIGH FINANCIAL EXIT / HIGH GOVERNANCE COST** — 2016 split 形成约 49% stake exit 与公开报道的 DKK 50m payout；不能据此推断双方主观公平性或普通 founder 可复制退出条件。
+- **Capability vector:** Jensen authorial thesis / visual direction / puzzle/game judgment；Patti programming / production / financing / hiring / executive execution；高度互补。
+- **Problem ownership:** **SHARED / CONTESTED OVER TIME** — creative authority 长期集中于 Jensen，但 company ownership、execution、capital 与 future cadence 属 founder-level共同治理；后期目标分歧使 control cost 显性化。
+- **Validation architecture:** concept trailer / prototype → founder composition → financing/team build → LIMBO shipping/market success → retained autonomy → INSIDE long-cycle production → post-success governance rupture。
+- **Reality adjudication:** **STRONG PRODUCT-SIDE / WEAK GOVERNANCE-IMMUNITY** — 两款产品成功证明 production composition 可工作，但不能证明 founder governance 永久成立。
+- **Capability capture risk:** **LOW as product-fit / HIGH governance coupling** — 缺失能力通过 cofounder 补齐，没有形成单一 specialist frontier；代价转化为 equity/authorship/control/time-horizon 绑定。
+- **Market sufficiency / legibility:** **STRONG for LIMBO/INSIDE** — product success 不是争议核心；本案恰好证明商业/作品成功也不能替代治理兼容性。
+- **Capability scaling:** **CAPABILITY-COMPOSED** — authorial thesis 通过 complementary founder、资本和团队扩张成为 studio-capable production system；后期 governance dissolution 显示 composition 有长期成本。
+- **Major unknowns:** founders household、早期资本精确条款、冲突精确起因、2025+ credit dispute 最终法律结果。

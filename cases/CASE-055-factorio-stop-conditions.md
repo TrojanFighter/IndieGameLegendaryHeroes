@@ -488,3 +488,20 @@ Factorio 不能证明：
 它真正能证明的是一个更窄的命题：
 
 > **深技术能力与产品收敛并不矛盾；关键在于能否把“我们还做得到什么”与“玩家还真正需要什么”持续分开。**
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL / PRODUCT-CLOSURE EXTENSION
+- **Life stage:** 与 CASE-035 同一 Wube / Factorio founder-team 生命周期；本 Case 重点不是重复 household，而是审计强技术团队如何给自己设置“够了”的停止条件。
+- **Household:** 参见 CASE-035；个人婚育、住房与家庭 burn 仍 `UNKNOWN`。
+- **Runway:** founder self-funding → crowdfunding → paid alpha/direct preorder → sustained player revenue → Steam / long-lived commercial runway。
+- **Household burn:** `UNKNOWN`
+- **Exit / recovery:** 参见 CASE-035；不因技术职业标签自动评级。
+- **Capability vector:** C++ / simulation / optimization / networking / tooling / modding infrastructure / long-lived codebase maintenance 极强。
+- **Problem ownership:** **HIGH** — team 对技术、产品与 release timing 有高控制，并能公开定义 feature / technical stop conditions。
+- **Validation architecture:** playable demo → paid alpha / direct preorder → continuous player feedback → technical optimization → explicit “enough” decisions → public 1.0 date → descoping / release → Space Age / 2.x 再次使用 stop condition。
+- **Reality adjudication:** **STRONG** — 技术目标持续被玩家价值、维护成本和 release obligation 重新判卷，而不是只由工程 benchmark 判卷。
+- **Capability capture risk:** **LOW / ACTIVELY MANAGED** — 和 Limit Theory 的核心对照；技术 frontier 很强，但团队多次停止“还能继续”的技术目标并把资源转回 product closure。
+- **Market sufficiency / legibility:** **STRONG** — 长期付费 playable product 提供持续 product truth；不是先完成 engine 再等待市场。
+- **Capability scaling:** **STRONG WITH STOP CONDITIONS** — 技术能力本身不断扩张，但 release / maintenance / player value 被作为治理边界。
+- **Major unknowns:** household 与个人职业前史；本 Case 的主要研究缺口转为 stop-condition 的组织形成、谁拥有最终否决权、不同阶段是否有反例。

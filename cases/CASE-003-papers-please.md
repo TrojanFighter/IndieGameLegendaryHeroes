@@ -84,3 +84,20 @@ Greenlight/媒体热度还反向改变了项目生产周期：Pope 明确说因�
 3. Greenlight / beta / 媒体各自对销量与开发延长的因果权重？
 4. 完整 contributor / localization / platform support 边界？
 5. AAA 经验中还有哪些能力直接迁移，哪些反而被主动抛弃？
+
+## Creator Life / Decision Audit
+
+- **Audit status:** SUBSTANTIAL
+- **Life stage:** 成熟职业开发者转个人作者型生产；项目开始时妻子怀孕，家庭 downside 真实存在。
+- **Household:** married/partnered；pregnancy 已有公开回顾支持；住房、配偶收入、家庭资产与后续 childcare 结构 `UNKNOWN`。
+- **Runway:** 离开 Naughty Dog 后依赖既有职业积累与个人 runway；精确储蓄未知。项目原计划约 6 个月，Greenlight / 媒体反馈后再增加约 3 个月 polish。
+- **Household burn:** `UNKNOWN`；但“做完这一作，必要时重新找工作”说明家庭现金约束与职业可逆性同时进入决策。
+- **Exit / recovery:** **HIGH EXIT OPTIONALITY** — 有 Ratloop、serious games、Naughty Dog / Uncharted 职业前史，且本人明确把重新就业视为现实后备路径。
+- **Capability vector:** programming / tools / game production / scope cutting / design judgment 强；个人项目经验与 AAA shipping experience 同时存在。
+- **Problem ownership:** **HIGH** — thesis、工具、scope、删改与发售节奏由 Pope 直接掌握。
+- **Validation architecture:** devlog → public beta → Greenlight / media signal → additional polish → launch。
+- **Reality adjudication:** **STRONG** — beta /公开反馈改变了投入时长；大量已实现或计划机制因 payoff 不足被删除。
+- **Capability capture risk:** **LOW** — 当前证据显示技术与工具能力服务于快速删减和产品 closure，而非形成独立技术前沿。
+- **Market sufficiency / legibility:** **STRONG** — “边境检查员”高概念、beta 与 Greenlight 在正式发售前已提供明确市场可读性。
+- **Capability scaling:** core solo-author production + localization / testing / platform perimeter；完整 contributor boundary 仍需继续核。
+- **Major unknowns:** 离职时储蓄规模、配偶收入、家庭月 burn、住房、Greenlight /媒体信号各自的真实因果权重。

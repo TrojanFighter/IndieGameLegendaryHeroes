@@ -63,6 +63,7 @@ Chapter 不再问：
 - [系统案例矩阵：教育 × 行业版本 × 社会版本](research-notes/china-creator-three-layer-case-matrix-021.md)
 - [缺口补全：高自主失败 / 去旧函数仍失败 / Household Economics](research-notes/china-creator-three-layer-missing-cells-022.md)
 - [Creator Life / Decision Audit：把案例库升级成人生条件可比系统](research-notes/creator-life-decision-audit-backfill-023.md)
+- [Creator Life P0 回填：第一版人生风险决策对照](research-notes/creator-life-decision-audit-p0-backfill-024.md)
 
 ### A. 教育｜你是否学会自己出题？
 
