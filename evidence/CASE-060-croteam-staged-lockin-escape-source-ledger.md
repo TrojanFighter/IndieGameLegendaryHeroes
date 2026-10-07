@@ -52,7 +52,7 @@
 - Source class: P0 — official studio product press sheet.
 - Title: The Talos Principle / Press.
 - Author / Institution: Croteam.
-- Published: 2014-12-11 (release date in official sheet); page updated later, exact update UNKNOWN.
+- Published: UNKNOWN (official press-sheet update date unspecified; 2014-12-11 is the game release date, not verified page publication date).
 - Accessed: 2026-10-07.
 - URL: https://www.croteam.com/press/sheet.php?p=the_talos_principle
 - Claim use: release date 2014-12-11, first-person philosophical puzzle product and credited Tom Jubert/Jonas Kyratzes.
