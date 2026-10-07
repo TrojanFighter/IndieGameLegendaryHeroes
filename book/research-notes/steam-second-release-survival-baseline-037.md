@@ -207,6 +207,10 @@ SECOND_ATTEMPT_CAPACITY =
 - funding/publisher treatment effects；
 - China/Poland/Korea/Finland matching.
 
+## 7.5 实证试跑结果：方法变量已经在三国案例中触发
+
+新增 [中国013固定首发队列试跑](../../country-studies/china/013-fixed-first-release-cohort-pilot-2018-2020.md)。实际编码证明右删失之外至少还有四类关键误差：`EA_VS_1_0`、`DEVELOPER_STRING_ALIAS`、`CORPORATE_ENTITY_VS_AUTHOR_TEAM`、`SECOND_ATTEMPT_VS_SECOND_SHIP`，并增加跨平台首发时钟。以后任何Steam生存分析若没有这些字段，只能称 `PLATFORM_ENTITY_CONTINUATION`，不能直接称“工作室/作者团队存活率”。
+
 ## 8. Next reproducible step
 
 如果能合法取得当前VGI/Sensor Tower Developer Database等带 **HQ country + released games + unreleased games** 的可导出开发者表，第一阶段只做：
