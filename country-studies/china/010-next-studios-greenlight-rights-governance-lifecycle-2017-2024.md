@@ -147,6 +147,10 @@ P0? **新闻引用内部公告并获公司确认，应记 `S1+P0 reported statem
 P1 contemporaneous decision-maker speech, 2024-05-28：触乐/祝佳音，https://www.chuapp.com/?a=index&c=Article&id=289990
 S1 2024-01-08员工信口径，需区分媒体获取与腾讯官方全文：竞核，https://developer.cloud.tencent.com/news/1288389?from=15431 。报道“鼓励中体量立项、不同层级激励”，但**本轮没有找到已批准春笋项目的完整名册或失败/继续项目记录**。不能把计划公告当成执行成效。
 
+### 4.4 DeepSeek对NExT提出的新问题：正式Review以前，员工到底能拿到多少资源？
+
+[014 梁文锋 / DeepSeek组织反例](014-liang-wenfeng-deepseek-positive-deviant-innovation-organization.md)迫使本文件增加一层此前未单独编码的权利：**RESOURCE_ACCESS_BEFORE_GREENLIGHT**。NExT 2018有真实自下而上Demo入口，但100人日Review、专家/团队反馈和争议终审构成明确门控；梁文锋2024自述DeepSeek研究员可在idea早期直接调用训练卡并自行拉有兴趣同事，idea显示潜力后再由组织集中资源。两者行业、成本结构和证据来源不同，不能直接评“谁更自由”；比较目的在于区分“允许提案”与“允许在正式批准前制造足够证据”。
+
 ## 5. 决策权矩阵：把“自主权”从表态拆成可以取证的13道门
 
 | Decision | Earliest observable NExT status | Who controlled? | Evidence strength / hidden cost |
