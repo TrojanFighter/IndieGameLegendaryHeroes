@@ -497,6 +497,76 @@ LIMBO 的 thesis、视觉与 game direction 明显先来自 Arnt Jensen。Dino P
 
 如果必须进入 founder layer，那么 role authority、deadlock、下一项目、时间尺度、buy-sell、credit after exit 都属于 production design，而不是“以后真吵架再说”的法务尾项。
 
+### thatgamecompany：摆脱发行商，不等于摆脱治理
+
+CASE-057 把此前一直缺失的 `VC / equity-financed capability expansion` 补了进来。
+
+Journey 结束时，TGC 的 Sony 三作合同已经结束。Sony era 给它提供的是一整套 project-level production package：
+- development finance；
+- platform；
+- distribution；
+- market access。
+
+同时 Chen 的直接说法也明确了这套关系的成本：
+- Sony owns the games；
+- 收入先 recoup Sony 的投入；
+- 之后 TGC 才拿 royalty；
+- 三作必须 PlayStation exclusive。
+
+2012 年 TGC 没有简单再找一个类似 publisher deal，而是从 Benchmark 融资 550 万美元。Mitch Lasky 同时进入董事会。
+
+这意味着控制没有“消失”，而是发生了迁移：
+
+`publisher/platform contract`
+→ project / IP / platform / recoup surface
+
+变成：
+
+`company equity`
+→ ownership / board / investor-return / future-financing surface
+
+最重要的边界来自 Chen 自己。
+
+2013 年他明确说，VC 是在他们 pitch vision 后投资，而不是给他 creative input。
+
+所以不能再把“control”当成一条从 0 到 100 的单轴。
+
+至少要拆：
+
+- company governance；
+- project creative approval；
+- distribution/platform rights；
+- IP ownership；
+- economics / recoup / investor return。
+
+2014 年追加 700 万美元又把这条线推进了一步。官方明确说这笔钱不仅 scale development，还要建立 self-publishing、marketing、distribution infrastructure。
+
+2024 年回顾则让“钱买了什么能力”变得具体：
+- 最初融资后前三年团队逐渐长到约 15 人；
+- 自发行要求新建 customer service、marketing、PR；
+- Sky 发售时约 40 人；
+- 方向迟迟未定导致资金耗尽，又追加多轮融资；
+- Chen 每次出去融资都会让 development 停滞或偏航。
+
+因此 equity capability expansion 有一个可能的递归陷阱：
+
+`capital → more capability → more fixed burn → more capital needed → fundraising overhead → less founder attention on product`
+
+这不是反 VC 结论。
+
+它只是迫使我们把“融资扩能力”写完整：
+
+> **资本购买能力，同时也购买了一套未来必须被供养和治理的组织。**
+
+于是当前 capability-expansion 资本矩阵已经有：
+
+- **The Witness** — founder-owned retained earnings；
+- **Outer Wilds** — studio + crowdfunding + publisher/platform external stack；
+- **House House** — grant + publisher；
+- **thatgamecompany** — company-level VC/equity。
+
+下一步真正缺的已经不是第五种“钱”，而是更接近合同层的 decision-right evidence。
+
 ## 更大的统一模型
 
 因此“能力反向立项”不应被误写成：
@@ -535,7 +605,7 @@ C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 下一步重点不是继续找英雄，而是找反例：
 
 1. Brigador + The Magic Circle 已形成两份结构不同的 `FIT-STRONG / MARKET-FAILED`；下一步比较失败究竟发生在 onboarding、category legibility、audience size、timing 还是 cost structure，而不是机械增加失败者。
-2. The Witness + Outer Wilds + House House 已覆盖 `SELF-FINANCED / EXTERNAL-STACK / GRANT+PUBLISHER`；下一步只重点补 **VC/equity-financed** expansion 与真实 decision-rights / milestone / recoup 条款。
+2. The Witness + Outer Wilds + House House + thatgamecompany 已覆盖 `SELF-FINANCED / EXTERNAL-STACK / GRANT+PUBLISHER / VC-EQUITY`。下一步停止按融资标签扩案例，改为重点找公开 term-sheet 级证据：board voting、protective provisions、milestone approval、recoup、liquidation、buyback、founder-removal 等真实 decision-right costs。
 3. Nomada + Playdead 已形成第一组 `CAPABILITY-COMPOSED` 正例 / 治理解体压力对照。下一步优先找显式 role authority / deadlock / buy-sell 机制长期运作成功的共同创始人样本，或产品完成前就因 founder composition 解体的样本，以区分 capability compatibility 与 governance compatibility。
 4. Zachtronics 已建立第一份 `FIT-LOCK-IN`；下一步找第二个长期工作室样本。
 5. Limit Theory + Factorio 已形成第一组 deep-tech failure/success 对照：前者 engine maturity 与 game closure 脱钩，后者存在 multiplayer enough、feature deletion、1.0 descoping 三类 stop condition。下一步不再补同类英雄，而是再找一个非 Wube 样本验证 `TECHNICAL STOP CONDITION` 是否可泛化，并继续用 DOOM 区分 frontier creation 与 frontier discipline。
