@@ -459,6 +459,41 @@ exit → public demand largely resets
 
 它与015的 `EXIT_REQUIRED_FOR_AUTHORSHIP` 和020的 `AUTHOR_BRAND_CAPITAL` 直接连接。
 
+### `PERSISTENT PSEUDONYM CREDIT / 持续笔名署名`
+
+署名并不要求暴露法定姓名。
+
+更现实的折中是：
+
+> **同一创作者跨项目持续使用稳定职业ID / pen name，使玩家与行业能积累其reputation，同时降低真实身份暴露。**
+
+它必须满足：
+- 同一ID跨项目稳定；
+- role/scope说明清楚；
+- 公司不能在离职后随意删除历史credit；
+- 玩家不能从credit自动获得私人信息；
+- 公司仍承担产品级责任；
+- 基层员工可选择不公开或使用持续笔名。
+
+日本游戏史长期存在handle / pen-name传统；Capcom 1990s开发者访谈即直接以Bengus、Shoei等handle呈现成员，同时仍能形成长期职业识别。
+
+Source:
+- https://shmuplations.com/capcomdesignroom1995/
+
+因此：
+
+# `IDENTITY CONTINUITY > LEGAL-NAME EXPOSURE`
+
+对于Author Brand Capital真正重要的，是“同一个创作者能否被历史和玩家识别为同一个人”，而非必须知道其真实姓名。
+
+这也给中国当前“玩家想追作者 / 员工怕开盒”的冲突提供一条制度解：
+- persistent pseudonym；
+- opt-in visibility；
+- scope-based attribution；
+- company-level accountability。
+
+但触乐采访也提醒：若员工每换项目就换新笔名，portable reputation仍然无法形成。所以关键是**持续性**，而不是“有一个临时马甲”。
+
 ## 8. 中国法律提供了一个有意思的影视对照
 
 中国《著作权法》第17条规定：
