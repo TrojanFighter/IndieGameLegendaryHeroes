@@ -61,7 +61,7 @@ forbidden_inference: "typical independent developer success/failure rate, studio
 | 04 | [AgainstheCurrent](https://cerbyo.itch.io/againsthecurrent-the-legend-of-the-chunchuntree) | Cerbyo | PICO-8 射击游戏；作者在同一页面提供 jam 版和后续 full version | **`In development`** 标签，但实际可见后续较完整版本和下载 |
 | 05 | [Guns N' Roses](https://lake-monster-games.itch.io/guns-n-roses) | Lake Monster Games | Unity 跳台玩法；注明制作七天；May 11, 2022 有修复瞄准和增加计时功能的 devlog | `Released`；**可证明 jam 后短期继续修改**，远期未知 |
 | 06 | [D3 Inc.](https://manofstories.itch.io/d3-inc) | ManOfStories | 提供规则、地图、游戏表格的 Print & Play 桌游 | `Released`；**非电子游戏** |
-| 07 | [Snails in Peril](https://zeyt8.itch.io/snails-in-peril) | Zeyt8 等 3 人 | Unity? **引擎未作核定**；3D 双蜗牛协作潜行解谜，三位制作者有公开署名 | `Released`；Windows 下载页仍可见 |
+| 07 | [Snails in Peril](https://zeyt8.itch.io/snails-in-peril) | Zeyt8 等 3 人 | 3D 双蜗牛协作潜行解谜，三位制作者有公开署名 | `Released`；Windows 下载页仍可见 |
 | 08 | [Gravitation](https://volditedev.itch.io/gravitation) | Voldite | 2D 小型闪避/射击，ZIP 下载 | `Released`；作者后续工作 `UNKNOWN` |
 | 09 | [Pop Idol Fight](https://alexgarbus.itch.io/pop-idol-fight) | Alex Garbus | Godot 双人格斗；公开写明编程与绘画由不同协作者完成；四平台包 | `Released`；页面有源代码链接、2022-04-30 下载文件版本 |
 | 10 | [Plugging In Simulator (Proof of Concept)](https://yousayrandy.itch.io/plugging-in-simulator) | yousayrandy | 作者写明只投入两天，因**未具体解释的生活事件**无法继续，承认严重 BUG 和未完成 | 页面却标 **`Released`**；其 itch 主页仍显示其他游戏，不能断定退圈 |
