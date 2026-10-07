@@ -65,6 +65,7 @@ Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可�
 媒体采访/明星 Case 只能支撑具体人生与项目机制，不可推出中美从业者平均行为。新增：
 
 - [002 — GGJ 2024 深圳南山站：公开尝试队列试点](002-ggj-2024-shenzhen-nanshan-public-attempt-pilot.md)：以官方游戏目录而非媒体成功者为入口；站点官网目前列出 **16 个目录条目、15 个不同标题**（其中 `BOOM CHASE` 出现两次）；**条目的永久 URL 与唯一游戏数量仍待核**；就业/教育/后续命运一律 UNKNOWN/NOT_ASSESSED，不出比率。
+- [003 — 没有提交作品的人：非入场者、CEPS 与调查选择门控](003-nonentrants-upstream-cohort-and-survey-selection-audit.md)：GGJ 2024 全球自愿问卷中，回答投稿问题者有 8% 自报未提交；CEPS 2013–14 是不以是否做游戏为选样条件的学校人群，但不提供创作者转化分母；统一防止把已提交项目与所有潜在创作者相混。该 8% **不能外推深圳站**，也不是项目失败率。
 - [媒体选择、幸存者偏差与分母协议 028](../../book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md) 和 [Creator Visibility Sampling Gate](../../schemas/creator-visibility-sampling-gate.md)：区分人物传记的机制证据与总体研究的可观察分母。
 
 此入口研究的是**公开参赛项目**，不是名校毕业生、大厂员工或潜在创业者；不能把找不到持续公开作品误写成“失去作者性”。下一步先核对站内16个 listing 的永久链接并解决同名条目，再判断是否有足够公开职业证据进入 AC-010 的声望管道检验。
