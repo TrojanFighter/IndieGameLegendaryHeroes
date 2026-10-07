@@ -743,6 +743,8 @@ newer capital bridges
 ---
 
 # 19. 下一步：不要再数活动，要追“跨路线的人”
+普通作者重复使用低门槛路线的第一轮实证见：[017 — DIY Game Jam重复参与](017-repeat-amateur-attempts-diy-game-jam.md)。017不以商业成功筛选，记录多个公开账号跨第4–7届连续完成作品，作为ROUTE_REDUNDANCY可能支持Second Attempt的微观存在性证据。
+
 
 当前最值钱的实证不再是证明台湾还有第17个活动。
 
