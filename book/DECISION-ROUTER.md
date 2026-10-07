@@ -66,7 +66,7 @@
 
 ## B. 我已经有很清楚的作品 thesis，但缺关键能力
 
-如果你正在为这个缺口决定花钱、雇人或找合伙人，先读 [LR-004 — 改作品还是补能力？](life-routes/project-thesis-capability-gap-004.md)。它先区分“自己已有想法”与“玩家已有证据”，再选择要移动的变量。
+如果你想先读真实人物的选择与代价，从 [第六篇：你缺的真是一支团队吗？](chapters/06-you-do-not-need-a-standard-studio.md) 进入；如果你已经准备决定花钱、雇人或找合伙人，再读 [LR-004 — 改作品还是补能力？](life-routes/project-thesis-capability-gap-004.md)。它先区分“自己已有想法”与“玩家已有证据”，再选择要移动的变量。
 
 典型状态：
 - 视觉作者知道自己想做什么，但不会完成整套游戏技术；

@@ -159,6 +159,14 @@ Chapter 不再问：
 
 这条线服务的是“人生性价比指南”的负面镜像：不仅写英雄怎么成功，也写**英雄可能怎样在出发之前就被合理地训练成另一种优秀。**
 
+## 叙事先行｜Chapter 06 与 LR-004 的明确分工
+
+[第六篇：你缺的真是一支团队吗？](chapters/06-you-do-not-need-a-standard-studio.md) 作为跨篇章叙事专题：让读者先沿着 Conrad Roset、Tom Francis、David Wehle、Playdead 等人的真实选择，理解“改产品”和“补能力”为什么是不同的道路，以及组织扩张如何把新风险带进项目。
+
+[LR-004 项目能力缺口决策路线](life-routes/project-thesis-capability-gap-004.md) 则只承担下一步执行判断：证据门、能力核心/外围、外包/合伙/招聘/融资、升级与止损门槛。
+
+**编辑纪律：** 书稿不能把全部人物史改造成岗位选择说明书；Route 也不需要重复整段人物传记。故事与决策界面相互链接，但互不替代。
+
 ## Reader Decision Interfaces｜Life Risk Routes
 
 研究笔记足够成熟以后，不要求读者自己翻 Case 拼答案。
