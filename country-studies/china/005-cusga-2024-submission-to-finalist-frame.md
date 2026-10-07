@@ -3,6 +3,7 @@
 - Program: C / 中国国情研究
 - Status: **OFFICIAL COHORT-BOUNDARY VERIFIED / 75-ENTRY ROSTER NOT YET TRANSCRIBED / OUTCOMES NOT_ASSESSED**
 - Observation date: 2026-10-07
+- **Priority update:** [007 样本裁决](007-workforce-authorship-sampling-pivot-and-comparators.md) 已确定 CUSGA 是**P2 public-project archival frame**，不是中国作者性研究的唯一主样本、也不是P0在职人群研究的前置 blocker。即使抽完75份获选作品也不能推大厂雇员的私人项目发生率。
 - Links: [002 GGJ深圳](002-ggj-2024-shenzhen-nanshan-public-attempt-pilot.md) / [003 非入场者](003-nonentrants-upstream-cohort-and-survey-selection-audit.md) / [004 中传作品—就业](004-cuc-creator-training-to-career-cohort-gates.md) / [006 毕设团队的职业分流](006-cuc-mousu-to-doraccoon-decision-fork.md) / [抽样门控](../../schemas/creator-visibility-sampling-gate.md)
 - Scope: **公开作品和主办者的汇总记录**；不以游戏发售、媒体曝光、奖项为入样前提；不猜匿名学生的私生活、就业或家庭条件。已有失败研究和著名创始人仍是机制档案，不是此 cohort 的人数证明。
 
