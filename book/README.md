@@ -137,6 +137,10 @@ Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可�
 
 现金预算并不等于真实劳动成本；众筹额不等于净收入；游戏完成不等于可以靠销售维持生活。见 [人生机会成本与失败回撤第一轮比较](research-notes/creator-life-cost-exit-comparison-2026-10-07.md)，对照 SpaceChem、GRIS、The First Tree、Limit Theory、The Magic Circle 与 Spiderweb，保留未能核实的家庭账和职业机会成本。
 
+### 不是所有创作者都有媒体专访
+
+我们也开始从完整公开名册而不是成功新闻出发：[Week Sauce 2022.04 的18个普通提交作品](research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)。包含耗时两天的未完成原型、作者对 scope 的直接承认、完整版本和过期状态标签等真实边界。它是小型公开尝试队列，不是“普通人成功率”。
+
 ## 想核证据，进入研究后台
 
 本书背后保留完整可审计研究层：
