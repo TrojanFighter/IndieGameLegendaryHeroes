@@ -113,6 +113,27 @@ TECHNICAL FRONTIER
 
 ---
 
+# 3.5. 目标软件：同一研发组织同时把《傲世三国》能力迁入Online
+
+## CN-LASTPC-E04B｜第二研发部同时负责单机续作与网游
+
+2003-11对目标软件总经理张淳的同期采访：
+https://news.17173.com/content/2003-11-26/n588_504479.html
+
+记录：
+- 负责《傲世Online》的第二研发部约30多人；
+- 同一研发部同时负责《傲世三国》系列的网游《傲世Online》和单机《傲世三国II》；
+- 公司在《天骄》首次网游尝试后，对网游市场的理解与信心明显提高。
+
+更早的2003《天骄》复盘还明确说：
+- 《天骄》把《秦殇》单机的一些技能平衡、地图结构等设计问题直接带进了网络版；
+- 团队在真实玩家环境里学习在线平衡、升级速度和社交系统。
+
+Source:
+https://games.sina.com.cn/zhuangao/zlfg/2003/06/1696.shtml
+
+这说明“单机能力迁入网游”不是换了一批人从零开始，而是同一组织把既有代码、设计经验和IP资产直接搬入online，再在运营中补课。
+
 # 4. 《刀剑封魔录》：高质量单机能力直接迁移成在线产品
 
 ## CN-LASTPC-E05｜单机之后公司正式转向MMORPG研发
@@ -152,6 +173,32 @@ https://pal5q.cubejoy.com/pal5q/2502001858e.html?mlid=5782
 - 台湾资本、IP和管理输入。
 
 它是一个“低成本承接”起点。
+
+# 4.8. 祖龙：《自由与荣耀》能力没有消失，而是经海外代工保存后进入《完美世界》
+
+## CN-LASTPC-E05C｜单机市场萎缩→团队保留→海外代工→百人MMORPG团队
+
+2005新浪对洪恩/完美时空董事长池宇峰的同期专访：
+https://games.sina.com.cn/o/n/2005-03-04/86901.shtml
+
+该采访给出一条极少见的完整组织连续性证据：
+- 祖龙起源于1997年4名清华学生的游戏原型，池宇峰先投RMB200k，后将团队纳入洪恩管理；
+- 团队从十几人逐步发展，骨干长期保持稳定；
+- 《自由与荣耀》及《大秦悍将》等产品发行到韩国、美国和台湾；
+- 因国内单机市场萎缩，洪恩改变方向，但池宇峰明确说“团队还在”；
+- 随后三年团队通过替国外代工游戏继续工作，同时积累新技术、新思路；
+- 《完美世界》项目从2000年开始长期打磨；
+- 到2005，祖龙完全并入完美时空，研发/运营团队已扩至130多人。
+
+这是目前最强的CAPABILITY-EXIT / CAPABILITY-PRESERVATION案例之一：
+
+premium PC single-player market contraction
+→ organization does not dissolve
+→ export/work-for-hire preserves payroll and technical learning
+→ capability recomposed into large-scale 3D MMORPG
+→ new online-game firm scales the same core.
+
+它也直接连接用户此前提出的“完美世界是大陆从单机/软件能力转向网游的关键案例”。
 
 # 5. 到2002，大陆头部工程能力已经反向进入台湾公司
 
