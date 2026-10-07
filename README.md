@@ -19,12 +19,13 @@
 
 它按现实问题组织文章，不要求你先理解 Case / Evidence / Claim。你可以从“我不知道自己以后要做什么”“该不该辞职”“没钱怎么办”“失败很多次还有没有意义”“新技术到底改变了什么”直接进入已经写出的跨人物章节，再按兴趣下钻到完整 Profile。
 
-当前书稿已经有五篇章节样稿：
+当前书稿已有六篇跨人物章节样稿：
 - [目标不是先想清楚的](book/chapters/01-goals-are-made-not-found.md)
 - [先买几个月试错](book/chapters/02-buy-time-before-betting-your-life.md)
 - [失败不是资产](book/chapters/03-failure-only-matters-if-something-survives.md)
 - [技术时代不会替你做选择](book/chapters/04-technology-will-not-choose-for-you.md)
 - [市场不是最后一步](book/chapters/05-market-interface-is-production.md)
+- [你缺的真是一支团队吗？](book/chapters/06-you-do-not-need-a-standard-studio.md) — 《GRIS》《Gunpoint》《Playdead》等案例中的能力选择与合伙代价
 
 如果你当前正面临实际项目抉择，优先走 [按处境进入｜作者型项目决策路由](book/DECISION-ROUTER.md)：把能力结构、runway/household risk 和项目阶段放到一起，判断这次应移动项目、团队、资本、能力，还是承诺。已经确认具体职业转换处境的读者可继续看 [Life Risk Routes](book/life-routes/README.md)（包括[作品方向已定但团队能力不足的 LR-004](book/life-routes/project-thesis-capability-gap-004.md)）；只想按专业强项找人物，再进入 [按主创者能力进入](book/READER-ARCHETYPES.md)。
 
