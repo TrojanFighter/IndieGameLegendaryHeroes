@@ -73,6 +73,17 @@
 
 只要它们仍然提出了足够激进的产品问题，并形成值得研究的生产解法。
 
+## 美国 PC 纵向对照组：early id / DOOM → Quake → Ion Storm
+
+《独立篇》的 [《DOOM启世录》纵向母案例](../../book/research-notes/masters-of-doom-longitudinal-master-study-001.md) 作为**跨书对照**引用，而非在本篇重建一份美国案例。它帮助把 GSC→4A 的组织裂变、PC 工程传统、俄罗斯/乌克兰游戏的全球发行结构等问题转为可比较变量：
+
+- 技术机会是被动继承、重新组合，还是由本团队主动推进 frontier？
+- 谁把技术突破转译为实际玩家体验、内容生产工艺与商业发行接口？
+- 早期高度互补的成员为什么会产生 authorship、product thesis、governance 与 decision-rights 的分歧？
+- 相同公司/融资/品牌下的不同开发团队，为什么可能拥有不同的 production closure？
+
+DOOM 仍归根目录 CASE-016 / Ledger；斯拉夫篇只交叉引用，不复制证据。不同历史时期的 PC 硬件、分发、劳资、政治与市场条件必须分开核算；美国对照组不构成民族创造力高低排序。
+
 ## 共同母题
 
 两书共享同一个方法论问题：
