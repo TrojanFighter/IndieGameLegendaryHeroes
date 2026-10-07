@@ -389,6 +389,44 @@ Sources:
 
 ---
 
+# 三点五｜跨层耦合器：Prestige Pipeline Coupling
+
+AC-010 增加一个跨层问题：
+
+```text
+教育 prestige
+→ 名校身份
+→ elite employer
+→ 绩效 / 晋升 / 高薪
+→ family / peer legitimacy
+→ career identity
+```
+
+这不是第四层。
+
+它研究的是：
+
+> **三层是否被一条连续评分器绑得过紧，以至于创作者转独立时不仅要退出公司，还要同时退出教育、职业和社会身份评分器。**
+
+当前压力样本：
+- CASE-059 Slay the Spire：Casey Yano 在 Amazon QA 后仍保留 college-era hobby-game author thread，职业能力被选择性迁移；
+- 王妙一 / WILL：中国名校 + 网易仍可保留 Problem Ownership；
+- 月下 /《铸仙之境》：离开组织后“乙方心态”仍可能保留；
+- Sea /《安尼姆》：昂贵失配后 deliberate unlearning；
+- The Magic Circle：欧美 AAA 老兵即使成功卸载旧函数，市场仍可以拒绝。
+
+当前不能写：
+> “中国大厂比美国大厂更磨作者性。”
+
+只能继续检验：
+> **哪些环境更容易让 prestige、职业身份和项目形态耦合；哪些人通过 Parallel Authorial Thread、exit optionality 与 cheap prototype rights 打断它。**
+
+详见：
+- [声望管道与作者连续性 026](prestige-pipeline-authorial-continuity-026.md)
+- [CASE-059 Slay the Spire](../../cases/CASE-059-slay-the-spire-mega-crit.md)
+
+---
+
 # 四、三层闭环：英雄如何在出发前被优化掉
 
 最重要的综合不是“三个坏东西相加”，而是：
