@@ -84,7 +84,10 @@
 - reality adjudication；
 - capability capture risk；
 - market sufficiency / legibility；
-- capability scaling。
+- capability scaling；
+- identity coupling（名校/名企/职级是否成为主要身份评分器）；
+- parallel authorial thread（公司外是否持续有自主 artifact/feedback 链）；
+- prestige-preserving project distortion（项目是否为了维持履历声望而提前增加成本）。
 
 Schema：[`../schemas/creator-life-decision-audit.md`](../schemas/creator-life-decision-audit.md)
 
