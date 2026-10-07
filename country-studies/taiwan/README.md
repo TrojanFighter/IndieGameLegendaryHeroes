@@ -32,6 +32,7 @@
 - [011 — 成人独游Revenue Waterfall与发行合同黑箱](011-adult-indie-revenue-waterfall-publisher-contract-opacity.md)：区分商店gross、平台抽成、发行recoup/split与作者take-home，并记录标准合同长期不公开的问题。
 - [012 — 外部资讯摩擦与弱信号时延](012-external-information-friction-signal-latency.md)：区分重大新闻传播速度与日常原始资料/海外社群接触摩擦，检验台湾较宽global reference set对类型吸收、国际发行与fast-follower倾向的影响。
 - [013 — 学生/业余独游的默认生产意识](013-student-amateur-indie-default-production-awareness.md)：把“意识差距”拆成reference breadth、作者身份、Steam商品化、全球路线显著度等变量；台湾学生生态与大陆CUSGA/中传强反例并列压力测试。
+- [014 — 放视大赏 × CUSGA学生决赛层商品化固定队列](014-selected-student-cohort-productization-taiwan-vs-cusga.md)：19个台湾PC/主机决选项目对26个大陆CUSGA决赛项目；Steam/Demo/productization高度收敛，提出SELECTION_COMPRESSION并把真正差距问题前移到未筛选层。
 
 ## 研究分工（单一权威，不重复记账）
 
