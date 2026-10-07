@@ -436,6 +436,23 @@ COMPLEMENTARY ERROR-CORRECTION NETWORK
 
 ---
 
+## 14.5 跨行业升级：从 DOOM 专用假说到 Second-Answer Test
+
+本节点后续关于 **DOOM Eternal → The Dark Ages** 的压力测试，已上提到跨行业研究：
+
+- [Self-Obsolescence / Second-Answer Test](../../cross-industry/self-obsolescence-second-answer-test-001.md)
+
+新增的 H 级桥梁变量包括：
+- DOCTRINE HARDENING / 理论硬化；
+- MANDATORY ACTION TAX / 必修动作税；
+- INTERACTION-SURFACE COMPRESSION / 交互表面积压缩；
+- SUCCESS-FORMULA KILL CAPACITY / 成功公式处决能力；
+- ORTHODOXY HALF-LIFE / 正统半衰期；
+- SECOND-ANSWER TEST / 第二答案测试；
+- LAGGED-EVIDENCE TRAP / 滞后证据陷阱。
+
+跨行业节点用 Intel/Grove、Christensen、Apple、Nintendo 和 Pocketpair 边界样本压力测试这些概念，并明确：**一个项目的创新性不能直接推出公司拥有长期 self-obsolescence；找到个例也不能替代分母和失败对照。**
+
 ## 15. 对后发国家与游戏产业比较的研究启示
 
 不能从 DOOM 个案直接推出国家层因果，但它帮助把问题改写得更可研究。
