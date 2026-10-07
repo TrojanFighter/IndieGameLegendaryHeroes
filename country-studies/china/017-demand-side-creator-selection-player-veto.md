@@ -6,6 +6,7 @@
 - Parent: [001 — Experience Capital / Demand Discovery](001-experience-capital-demand-discovery-hypotheses.md)
 - Industry regime: [中国商业制度谱系](../../book/research-notes/china-game-commercial-regime-lineage-003.md)
 - Author-right comparator: [015 — 中国 × 日本](015-japan-comparator-frontier-permeability-author-rights-and-creator-replacement.md)
+- Demand-weighting extension: [018 — 富豪阶级游戏性、玩家社会化与 Design Attractor](018-wealth-class-gameplay-player-socialization-design-attractor.md)
 
 ## 0. Author-origin source
 
@@ -94,6 +95,8 @@ revenue vote weight ∝ payer value / LTV
 ```
 
 所以“大多数玩家不喜欢”和“收入上涨”可以同时成立。研究玩家选择时必须同时记录 active users、payer conversion、ARPPU/spend concentration、retention、churn、sentiment 与 revenue contribution distribution。禁止默认市场是 one-player-one-vote。
+
+对《征途》式允许现实财富持续换取相对战力/地位/支配体验的制度，进一步使用 [018](018-wealth-class-gameplay-player-socialization-design-attractor.md) 的 `PLUTOCRATIC_DEMAND_WEIGHTING / 财富加权需求`；正式术语统一为**“富豪阶级游戏性”**。
 
 ## 6. `CHANNEL_MEDIATION`：taste既是原因也是结果
 
