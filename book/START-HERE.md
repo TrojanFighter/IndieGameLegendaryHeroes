@@ -168,6 +168,8 @@ early id 也不是先辞掉 Softdisk 再祈祷。
 
 先读人物故事与代价：[你缺的真是一支团队吗？有时应该换掉的，是游戏的做法](chapters/06-you-do-not-need-a-standard-studio.md)。
 
+想先跟随创始人的完整生活和职业故事，可读 [Nomada / GRIS](profiles/nomada-gris-neva.md) 与 [David Wehle / The First Tree](profiles/david-wehle-first-tree.md)。
+
 需要真正决定缩项目、学习、外包、合伙、招聘或融资时，再进入 [LR-004：作品方向已经明确，但团队做不出来](life-routes/project-thesis-capability-gap-004.md)。
 
 这里用《Gunpoint》《The First Tree》《GRIS》《The Witness》《Outer Wilds》《The Talos Principle》与《Playdead》《The Magic Circle》《Limit Theory》等正反生产史，回答同一个问题：**什么证据值得付哪一级承诺成本？**
@@ -328,7 +330,7 @@ early id 从 DOOM 到 Quake 的历史尤其说明：
 
 # 想继续读什么？
 
-目前已有六篇完整 reader-layer Profile：
+目前已有九篇 reader-layer Profile，完整目录见 [人物传记索引](profiles/README.md)：
 
 1. [early id / DOOM](profiles/early-id-doom.md) — 兴趣、技术创造、产品、公司与成功后的组织裂变。
 2. [Kenshi](profiles/kenshi.md) — 如何用极低现金流购买极长时间。
@@ -336,6 +338,9 @@ early id 从 DOOM 到 Quake 的历史尤其说明：
 4. [Bills Must Be Paid](profiles/bills-must-be-paid.md) — 为什么“七个月爆款”其实可能站在七年失败史上。
 5. [Gunpoint / Tom Francis](profiles/gunpoint.md) — 长期体验和评论怎样转成选择、prototype 与作者能力。
 6. [FTL](profiles/ftl.md) — 怎样把一个高风险人生决定拆成一连串成本逐渐增加的实验。
+7. [David Wehle / The First Tree](profiles/david-wehle-first-tree.md) — 保留全职工资、抚育孩子与短游戏如何共同决定作品形态。
+8. [Nomada / GRIS → Neva](profiles/nomada-gris-neva.md) — 视觉作者与技术共同作者怎样组成一家工作室。
+9. [Zach Barth / Zachtronics](profiles/zach-barth-zachtronics.md) — 把最擅长的工程谜题做成品牌，以及品牌何时变成路径限制。
 
 如果你已经读完这些，或者你本来就是研究者，再进入：
 

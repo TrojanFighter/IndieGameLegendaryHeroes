@@ -96,7 +96,7 @@ Nomada 的关键不是“Conrad Roset 画得好”，而是：
   - 延伸阅读：[《DOOM启世录》纵向母案例](research-notes/masters-of-doom-longitudinal-master-study-001.md)：既研究技术创造产品窗口，也研究 Quake 中 frontier 扩张超过内容/团队转化速度，以及 Ion Storm 的权力与项目失配。不要把技术成功直接等同产品成功。
 - [CASE-018 RollerCoaster Tycoon / Chris Sawyer](../cases/CASE-018-rollercoaster-tycoon.md) — 极端工程熟练度、长期代码资本与 OPC 上限；
 - [CASE-035 Factorio / Wube](../cases/CASE-035-factorio-wube.md) — 程序能力 + 系统型产品 + paid-alpha feedback loop；
-- [CASE-051 Zachtronics / Zach Barth](../cases/CASE-051-zachtronics.md) — 把 engineering literacy 直接做成玩家语言，并观察长期成功的 fit 如何反过来形成 `FIT-LOCK-IN`。
+- [Zach Barth / Zachtronics 完整人物传记](profiles/zach-barth-zachtronics.md) — 从 Microsoft 受薪工作、SpaceChem 的隐形劳动成本到 2022 年主动结束成熟工作室；[研究档案 CASE-051](../cases/CASE-051-zachtronics.md)。
 - [CASE-058 Spiderweb Software / Jeff Vogel](../cases/CASE-058-spiderweb-fit-lock-in.md) — 第二个异质 `FIT-LOCK-IN`：几十年 CRPG engine/assets/audience/back-catalog 复利，让同类作品越来越便宜，也让转型同时支付生产 reset 与 audience replacement cost。
 - [CASE-060 Croteam / Serious Sam → The Talos Principle → UE5](../cases/CASE-060-croteam-staged-lockin-escape.md) — 成熟 FPS/自研引擎团队怎样**先保持技术底座而重写玩法**，再在多年后更换 engine 而保留新 IP grammar；用于区分成功型转型与 Subset 那种第一次 hit 后的防锁定。
 - [CASE-053 Kenny Sun / Circa Infinity → BALL x PIT](../cases/CASE-053-kenny-sun.md) — 如果你的问题不是“程序员最适合做什么”，而是“怎样让今天的程序能力经过连续出货，逐步长成 generalist / author / team-lead capability”，优先看这个纵向样本。
@@ -156,11 +156,11 @@ Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签�
 ## 我是美术 / 动画 / 视觉叙事作者
 
 优先看：
-- [CASE-042 The First Tree / David Wehle](../cases/CASE-042-the-first-tree.md) — `RESEARCHING`；
+- [David Wehle / The First Tree 人物传记](profiles/david-wehle-first-tree.md) — technical artist 如何在全职工作、育儿时间与外部素材间安排有限人生；[CASE-042 研究档案](../cases/CASE-042-the-first-tree.md)；
 - [CASE-043 Everything / David OReilly](../cases/CASE-043-everything-david-oreilly.md) — `RESEARCHING`；
 - [Undertale / Toby Fox](../cases/CASE-010-undertale.md) — 音乐、UGC/社区与作者性；
 - [despelote](../cases/CASE-023-despelote.md) — 文化、声音、地点记忆与低资产密度表达；
-- [CASE-050 Nomada / GRIS → Neva](../cases/CASE-050-nomada-gris-neva.md) — 视觉作者不被要求先变成全能开发者，而是通过 complementary cofounders 组成项目所需能力。
+- [Nomada / GRIS → Neva 人物传记](profiles/nomada-gris-neva.md) — Conrad Roset 的视觉作者性与两位 AAA 程序员怎样组成真正的共同作者；[CASE-050 研究档案](../cases/CASE-050-nomada-gris-neva.md)。
 
 核心问题不是：
 > “美术强怎么补程序？”

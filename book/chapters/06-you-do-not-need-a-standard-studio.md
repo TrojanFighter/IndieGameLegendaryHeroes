@@ -433,6 +433,11 @@ Tom Francis 选择了另一条路。他没有为自己热爱的《Deus Ex》式�
 
 请进入可操作的 [LR-004 — 作品已定但团队能力不足：该改什么、买什么、承诺什么？](../life-routes/project-thesis-capability-gap-004.md)。
 
+先读人物完整生产史与人生岔路：
+- [Conrad Roset、Roger Mendoza、Adrián Cuevas / GRIS → Neva](../profiles/nomada-gris-neva.md)；
+- [David Wehle / The First Tree](../profiles/david-wehle-first-tree.md)；
+- [Tom Francis / Gunpoint](../profiles/gunpoint.md)。
+
 要查明这篇文章中人物的完整职业路径、已知资金结构、证据来源与明确未知项，从各个 [Case](../../cases/README.md) 及其 Evidence Ledger 继续核对：
 
 - [Gunpoint / Tom Francis](../../cases/CASE-007-gunpoint.md)
