@@ -281,6 +281,16 @@ NExT的100人日Demo小组、网易/腾讯/米哈游内部立项cell，都应以
 
 特别是Creepy Jar：2018 *Green Hell* EA、2019年底已启动 *StarRupture*、2026才ship，说明 `SECOND_SHIP_5Y=NO` 与 `SECOND_ATTEMPT_5Y=YES` 可以同时成立；FYQD则说明 `SECOND_STEAM_APP_3Y=YES` 与 `SECOND_DISTINCT_IP=NO` 可以同时成立。012后续比较必须同时报告这些不同层次。
 
+## 7.7 日本对中国team-density假说增加一个新变量：TEAM MEMORY，而不只是TEAM COUNT
+
+[Japan 002](../japan/002-veteran-continuity-technical-frontier-falcom-2025-2026.md)提示：两个国家即使拥有相同数量的活跃team，如果一个团队核心成员平均共同工作十年以上，另一个频繁被重组/换项目，它们的**tacit production capital**也可能完全不同。因此中国跨国比较后续除 `FULL_CYCLE_TEAM_DENSITY` 外应尝试加入：
+- `CORE_TEAM_TENURE`
+- `SERIES/GENRE_CONTINUITY`
+- `INTERNAL_APPRENTICESHIP`
+- `TEAM_MEMORY_SURVIVES_REORG`
+
+目前日本CESA/Falcom提供了可见任职数据；中国同口径仍缺，不能先写“中国流动更快”。
+
 ## 8. Verdict
 
 **现在可以比上一轮更强地说：**
