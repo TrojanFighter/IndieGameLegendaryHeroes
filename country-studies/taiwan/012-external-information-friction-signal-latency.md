@@ -581,6 +581,8 @@ X/Reddit/YouTube/Steam Community上的个人经验和small trend。
 ---
 
 # 12. 当前结论
+学生/业余层的creator-formation延伸见：[013 — 学生/业余独游的默认生产意识](013-student-amateur-indie-default-production-awareness.md)。013不再比较重大新闻速度，而追踪global reference、Steam/product行为和作者路线是否在就业前已经显著可见。
+
 
 用户观察应保留，但改写为：
 
