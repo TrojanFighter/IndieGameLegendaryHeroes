@@ -269,8 +269,8 @@ early id成功可能属于`Carmack × Romero × Hall × Adrian × Cloud × Mille
 这次明确列账，不再被新案例覆盖。
 
 ### A. 认识论 / 人格
-1. **Complementary Founder as Error-Correction System**  
-   Carmack/Romero的互补不是“技能拼图”，而可能是互相否决/校正系统；需对具体争执做事件史。
+1. **Complementary Founder as Error-Correction System — PARTIALLY CLOSED by [042](carmack-romero-complementary-error-correction-network-042.md)**  
+   已核出 Dangerous Dave 战略解释、Apple II角色重划、Wolf3D push-wall 技术洁癖让步、Doom design↔engine翻译层与 Quake correction-latency 断裂；同时以 Playdead CASE-056 压力测试“能力互补成功≠治理可持续”。仍缺Doom Bible、1995-11 meeting、Adrian/Cloud/Wilbur等逐事件第二方补证。
 2. **Authority Discounting vs Expertise Discounting**  
    不迷信Ken Williams是对的；但什么时候“权威折价”变成“拒绝真正懂行的人”？
 3. **Winner's Amnesty / Merit-Conditional Tolerance**  
