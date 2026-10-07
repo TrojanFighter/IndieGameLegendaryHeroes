@@ -1963,9 +1963,7 @@
       "evidence_strength": "high",
       "explanatory_importance": "critical",
       "narrative_value": "critical",
-      "related_claims": [
-        "C015"
-      ],
+      "related_claims": [],
       "tags": [
         "aaa-skill-transfer",
         "authorial-independence",
@@ -1994,9 +1992,7 @@
       "evidence_strength": "high",
       "explanatory_importance": "critical",
       "narrative_value": "critical",
-      "related_claims": [
-        "C015"
-      ],
+      "related_claims": [],
       "tags": [
         "aaa-skill-transfer",
         "authorial-independence",
