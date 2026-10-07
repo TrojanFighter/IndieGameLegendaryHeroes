@@ -19,7 +19,7 @@
 | **A — SAME NAMED CONTRIBUTORS / DATED REPEAT** | 两部独立作品的原始 credits 明确重复人名，后作有年份或日期 | 特定具名贡献者再合作、岗位如实变化 | 全时雇佣、连续多年未中断、分享收入 |
 | **B — SAME PUBLIC COAUTHOR ACCOUNTS** | 两作 Authors 栏复现原作者账号，后作有年份 | 相同公开作者账号又共同署名 | 仅靠位置顺序给每个账号绑定具体自然人 |
 | **C — SAME PUBLISHER ACCOUNT** | 原发布账号后来有日期明确的新作 | 发布账号后续仍有作品 | 2022 全部成员都做了2025新作 |
-| **D — PRODUCT-LINEAGE CANDIDATE** | 名称、机制、关联发布网络相似，但欠缺开发者原型谱系声明 | 值得核实的产品谱系假设 | 宣布 Jam 原型已经商业化且获利 |
+| **D — PRODUCT-LINEAGE CANDIDATE** | 名称、机制、关联发布网络相似，但欠缺开发者原型谱系声明 | 仅称值得核实的谱系假设；本次该特定案例已通过直接开发者叙述升级为 VERIFIED | 未获直接说明时宣布原型已商业化；有说明后宣布已经盈利 |
 | **UNKNOWN** | 后续 credits 缺失、网页失效、未发现直接关系 | 当前未核实 | 已散伙、退出行业、从未再做游戏 |
 
 评分对象是*公开的关系证据*，不是对人的能力评判。除非有直接披露，所有路径的家庭支出、薪酬、合同、法人关系、持续就业均 UNKNOWN。
@@ -32,11 +32,18 @@
 
 **2024 账号复合。** [Don't shake the babies](https://zeyt8.itch.io/dont-shake-the-babies) 的 Authors 再次出现 Zeyt8、blueTimber、TheDarkVoice，并直接链接 Global Game Jam 2024。这是 **B级同组账号又共同署名**；作品页没有像2022、2023那样逐一给出真人职责，因此不得向上升级为三名具名作者在2024必然以相同岗位开发。
 
-**2025 更重要但尚未闭合的产品谱系。** Zeyt8 [主页](https://zeyt8.itch.io/) 主动指向 [Ivories Studios Steam 开发商页](https://store.steampowered.com/developer/ivories-studios)。Steam 的 [Shake the Baby!](https://store.steampowered.com/app/3182600/Shake_the_Baby/) 于 **2025-03-27** 正式发售，其描述包含捡起、合并、摇晃、投掷婴儿形态武器；2024 Jam 作品恰有同一组异常具体的机制与相近名称。
+**2025 的产品谱系已经得到开发团队直接证实。** Zeyt8 主页[直接链接](https://zeyt8.itch.io/)到 Ivories Studios 的 Steam 开发者页。之前凭两个游戏名称、机制和账号相似，只能把2024《Don't shake the babies》→2025《Shake the Baby!》记为未核假说。
 
-这使“2024 Jam 原型→2025 Steam 产品”成为**强相似、同公开团队网络的谱系候选**。但本轮缺少开发者直接声明、正式商业版具名 credits、财务数据；**正式结论仍是 PRODUCT_LINEAGE_UNVERIFIED**。不能把两作相似性直接写成已证实移植，也不能把 Steam 发售写成盈利，更不能声称2022的三人逐一获得2025商业收益。
+2026-10-07 追加检索找到两份真正能完成证明链的第一人称记录：
 
-从这一链能看到的是：2022 的三人作者性不是只能由一个小项目证明；2023 的确有重复具名合作；2024 延续为重复账号关联；2025 出现需进一步求证的商业产品。每段证据强度不同。
+- **2024-12-06**：Zeyt8 在前作《The Handbook》的 Steam 官方开发者公告中明确说，团队数年前已有商业首作，后来做过一些没继续推进的项目和 Jam；此前一次 Global Game Jam 的原型成为下一款正式发布作品，Jam 后获得本地游戏开发者社群正面反馈，于是继续制作。见 [原公告](https://steamcommunity.com/ogg/1637520/announcements/detail/518573379039527596) 与 [带原文、发布日期和作者的事件索引](https://steamraw.com/app/1637520/the-handbook/)。
+- **2025-03 发售期**：[Ivories Studios 开发成员本人在 r/Games 的说明](https://www.reddit.com/r/Games/comments/1jnjxt1/shake_the_baby_ivories_studios_old_school_first/) 进一步明确：**2024 GGJ 做出的本作原型**以模块组合为核心，之后团队把 build 拿到当地独立开发者 meetup，决定将它扩充成完整作品，随后约一年开发。最终于 [2025-03-27 Steam 发售](https://store.steampowered.com/app/3182600/Shake_the_Baby/)。
+
+两段当事人叙述连同2024 jam 本人的作品页，已经将其升级为 **PRODUCT_LINEAGE_CREATOR_CONFIRMED**。这条边是*项目制作谱系*，**不是**三名2022作者到2025商业版的逐人署名确认，也**不是**商业收益证明。Steam 商店的少量评论、页面存在、发售日都不能换算真实销量与净利润。
+
+详细证据等级、年份与成本缺口见 [036 原型到 Steam 一年制作史](ivories-studios-ggj-to-steam-036.md)。
+
+从这一链能看到的是：2022 的三人作者性不是只能由一个小项目证明；2023 的确有重复具名合作；2024 延续为重复账号关联；2025 的原型→商业版**产品谱系**已由开发者直接确认；逐人岗位、开发成本与盈利仍未知。每段证据强度不同。
 
 ## 三、链二：2022《THE CURE》→2023《Dyscophus》，至少四位同名合作者重聚
 
@@ -80,7 +87,7 @@
 - 项目成果、团队合作、雇佣经济、个人回撤，四项独立编码；
 - 不以失效页面推断失踪，不为了个人传记填补私人信息。
 
-特别需要求证 **2024《Don't shake the babies》与2025《Shake the Baby!》的直接开发谱系声明**。有了它才可写“某个 Jam 真成为一款 Steam 商业版”；没有，就保持高优先级未核假说。
+**2024《Don't shake the babies》与2025《Shake the Baby!》的制作谱系已核实（036）。** 下一步应继续核对开发者完整制作署名、2024 Jam→2025 人工投入与合同边界、项目商业表现；不可把谱系已核等同于财务成功。
 
 对读者有用的实际判断不是“经常做 Jam 就能商业成功”，而是：
 
@@ -90,7 +97,7 @@
 
 ## 核心原始材料
 
-- [2022 Snails in Peril](https://zeyt8.itch.io/snails-in-peril) · [2023 The Sip of Life](https://zeyt8.itch.io/the-sip-of-life) · [2024 Don't shake the babies](https://zeyt8.itch.io/dont-shake-the-babies) · [2025 Ivories Studios Steam](https://store.steampowered.com/app/3182600/Shake_the_Baby/)
+- [2022 Snails in Peril](https://zeyt8.itch.io/snails-in-peril) · [2023 The Sip of Life](https://zeyt8.itch.io/the-sip-of-life) · [2024 Don't shake the babies](https://zeyt8.itch.io/dont-shake-the-babies) · [2025 Ivories Studios Steam](https://store.steampowered.com/app/3182600/Shake_the_Baby/) · [2024-12 官方开发者原型回顾](https://steamraw.com/app/1637520/the-handbook/) · [2025 开发成员发售自述](https://www.reddit.com/r/Games/comments/1jnjxt1/shake_the_baby_ivories_studios_old_school_first/)
 - [2022 THE CURE](https://juliehirt.itch.io/the-cure-peculiar-pestilence) · [2023 Dyscophus](https://azurecoffin.itch.io/dyscophus) · [2025 You're Cooked](https://juliehirt.itch.io/youre-cooked)
 - [2022 Guns N' Roses](https://lake-monster-games.itch.io/guns-n-roses) · [2025 Cat Fish](https://lake-monster-games.itch.io/cat-fish)
 - [2022 Pop Idol Fight](https://alexgarbus.itch.io/pop-idol-fight) · [2024/2025 Extinguwitch](https://xanthus.itch.io/extinguwitch)
