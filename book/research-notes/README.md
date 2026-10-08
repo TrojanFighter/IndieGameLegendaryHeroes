@@ -6,6 +6,9 @@
 
 ## 当前索引
 
+- [`revenue-to-career-selector-audit-048.md`](revenue-to-career-selector-audit-048.md) — 以巨人2007 SEC费用与核心研发期权为锚点，区分市场收益、预算、薪酬、原型权、晋升和立项权；不从7:1费用推国别原创者数量。
+- [`innovation-dimensions-zhengtu-doom-comparator-049.md`](innovation-dimensions-zhengtu-doom-comparator-049.md) — 创新六维分类：把《征途》的需求/商业制度重组与DOOM技术—玩法共创、Gunpoint小范围规则重组分开；禁止把收入规模代替玩法原创能力。
+
 - [`capability-reproduction-trap-horizontal-discovery-048.md`](capability-reproduction-trap-horizontal-discovery-048.md) — 区分 Training Withholding、Incumbent Capability Ceiling 与 Evaluator Capability Gap；提出 Capability Reproduction Trap / Horizontal Capability Discovery Network，强调资历不等于 frontier teaching capacity，并把公司垂直学徒制与 Jam/mod/原型社区的横向新实践发现分开。
 
 - [`industry-triangle-decision-rights-audit-046.md`](industry-triangle-decision-rights-audit-046.md) — 回看作者 2023 年“行业三角关系”，将其转为 THESIS / GREENLIGHT / SCOPE / BUDGET / MARKET / IP / EXIT 七类 decision-rights 的纵向人物审计；不重复中国 017–021 的需求、渠道及作者品牌研究。
