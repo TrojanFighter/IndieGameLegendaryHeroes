@@ -11,6 +11,12 @@
 
 默认原则：**库运维不替案例研究补历史事实；案例研究不顺手改 schema/lint；书稿不创造 canonical facts；聊天 / Issue / Signal 不自动成为 Evidence。**
 
+## Project Routing Gate / 跨项目路由
+
+所有 Lane A/B/C 在第一次写入前执行 [Project Routing Gate](docs/project-routing-gate.md)。当前任务必须确认**目标仓库精确身份、内容归属、canonical Owner、允许修改路径、不可触碰边界和 PR 回退路径**。当多个仓库都研究创新、教育、游戏、流程等相似话题时，不能按关键词自动选库。
+
+本库是公开研究 / 书稿仓库。只接收独立公开研究与经本库授权的通用方法，不接收其他项目内部设计/世界观/预算/执行任务。跨仓库历史误写由**实际受影响仓库**另开精确差异审计和修复 PR，不能在本库假装已经回退，也不能以匿名化私人材料的方式迁移。
+
 ## Issue Intake
 
 公开输入统一走 GitHub Issue chooser，而不是空白 issue。当前五类：

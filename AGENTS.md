@@ -4,6 +4,12 @@
 
 适用于参与本仓库工作的 GPT / Codex、Reasonix、DeepSeek 及其他研究或写作代理。任何模型都不得把自身默认写作习惯置于本文件之上。
 
+## Project Routing / 写入目标先行
+
+**任何写入前先读** [Project Routing Gate](docs/project-routing-gate.md)：确认当前精确仓库为 `TrojanFighter/IndieGameLegendaryHeroes`、本轮对话确实要求修改本库、具体 Lane 与文件范围。不同项目话题高度重叠时，**不得凭记忆或关键词改变仓库目标**；无法确定时停止写入。历史串库只在受影响仓库按 commit/file diff 精确回退，不能粗暴删除已批准的通用方法或合法研究。公开/私人材料隔离继续遵守 [public research boundary](docs/public-research-boundary.md)。
+
+---
+
 ## 1. 项目定义
 
 本项目研究的不是“哪些独立游戏成功了”，而是：

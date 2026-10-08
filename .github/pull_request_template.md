@@ -6,6 +6,14 @@
 
 > 一个 PR 原则上只选一条 Lane。确需跨 Lane，请在下面解释为什么不能拆分。
 
+## Project routing / 写入目标确认
+
+- [ ] 已核 Git remote / connector 精确仓库为 `TrojanFighter/IndieGameLegendaryHeroes`，且本次对话确实要求修改本库
+- [ ] 已确认本次研究 / 治理 / 书稿属于本仓库；不是因为与另一个项目共享关键词而错选目标
+- [ ] 已明确 canonical Owner、允许修改的文件和不触碰的范围
+- [ ] 未复制其他项目内部事实、私有执行/预算/设计内容；公开方法借鉴已经独立重写并审阅
+- [ ] 涉及历史串库修复时，按 [Project Routing Gate](../docs/project-routing-gate.md) 留有逐文件 diff 与恢复边界；不能以本库 PR 代表另一仓库已回退
+
 ## Summary
 
 <!-- 这次改了什么？尽量写具体文件、Case ID、Evidence ID 或工具。 -->
