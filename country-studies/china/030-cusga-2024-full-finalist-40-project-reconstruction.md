@@ -2,6 +2,7 @@
 
 - Program: C China / ordinary creator pathway / student game archives
 - Date of audit: 2026-10-08
+- **Outcome follow-up:** [031 — 40项公开开发/发行轨迹首轮逐项检索](031-cusga-2024-40-finalist-public-followup-firstpass.md)（8项高置信Steam匹配+1项可追源码团队itch下载+2项待解决开发者别名，绝非转化率；本文件名册保留T0冻结状态）。
 - Status: **40/40 FINALS PROJECT-TITLE + PUBLIC TEAM HANDLE RECONSTRUCTED / ORIGINAL GAME ID AND SUBMISSION COHORT STILL OPEN**
 - Baseline: 2024-06-19 official finalist announcement; stage = FINALIST, not original submission
 - Unit: unique published project-title + team-public-name pair, **NOT** team person or developer individual.
@@ -34,7 +35,7 @@ prelim_selected_count: 75
 prelim_roster_status: IMAGE_PRESENT_NOT_RECONCILED
 identity_conflicts: "none among repeated same-title+same-team pairs; verify project IDs when released"
 region_of_developer: NOT_VERIFIED
-outcomes_2026_10_08: NOT_ASSESSED_FOR_ALL_40
+outcomes_2026_10_08: SEE_031_FIRST_PASS; BASELINE_TABLE_NOT_OVERWRITTEN
 denominator_scope: PUBLISHER-SELECTED_FINALISTS_ONLY
 forbidden_inference:
   - mainland_total_author_formation
