@@ -4,6 +4,7 @@
 - Status: **VERIFIED-INSTITUTIONAL-TRACES + FIRST-PERSON RETROSPECTIVE / NO ALUMNI CENSUS**
 - Audited: 2026-10-07
 - Scope: 中国教育形成 × 游戏产业 × 社会许可；**不研究私人项目，不使用个人隐私，不按明星作品建样本**
+- Education synthesis: [031 — Education × East-Asian Discipline × Reference Repertoire](031-education-east-asian-discipline-reference-repertoire.md)
 - Related: [003 非入场者](003-nonentrants-upstream-cohort-and-survey-selection-audit.md) / [002 GGJ 深圳](002-ggj-2024-shenzhen-nanshan-public-attempt-pilot.md) / [家庭门控 029](../../book/research-notes/family-gates-game-creator-us-china-029.md) / [梁其伟近失 030](../../book/research-notes/family-gate-china-near-miss-liang-qiwei-030.md) / [媒介与分母规则 028](../../book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md)
 - Observation units: **一次比赛报名的团队** / **一次比赛提交作品的团队** / **课程或参展项目** / **某届毕业生中的个人** / **已经成立的创业团队**，不等同、不混算。
 
