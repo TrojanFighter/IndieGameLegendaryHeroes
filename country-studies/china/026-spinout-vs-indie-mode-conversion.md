@@ -1044,6 +1044,66 @@ High Indie Conversion among those who exit
 
 ---
 
+## 15.1 `SENIOR-FOUNDER SAMPLING BIAS / 高层创业者取样偏差`
+
+如果为了研究“大厂→独游”只搜：
+- 制作人离职；
+- 总监创业；
+- 融资新闻；
+- 新公司工商信息；
+
+样本会天然偏向：
+
+```text
+high organizational-scaling capital
++ high fundraising legibility
++ public founder visibility
+```
+
+而漏掉：
+- gameplay programmer自己做小项目；
+- technical artist side project；
+- Game Jam作者；
+- 夫妻/朋友2–3人组；
+- 不融资的solo creator；
+- 内部小原型后来离职继续；
+- 先兼职验证再退出的人。
+
+这些群体反而可能具有更高：
+- hands-on density；
+- scope plasticity；
+- status decompression；
+- indie transferability。
+
+因此：
+
+> **Senior-founder denominator只能回答Founder School，不能回答Indie School。**
+
+未来Indie-Mode Conversion cohort至少应增加：
+
+### A. Senior founder cohort
+lead / director / producer → founder
+
+### B. Hands-on creator cohort
+programmer / designer / artist / TA → solo / micro-team
+
+### C. Side-project cohort
+在职期间已有：
+- Game Jam；
+- mod；
+- hobby game；
+- public prototype
+
+的人。
+
+### D. Internal-frontier cohort
+NExT式内部小团队、实验组、孵化组。
+
+然后比较：
+> 哪一类最容易真正完成objective-function exit和production-mode exit？
+
+这可能得到一个与“谁最容易融资创业”完全不同的排序。
+
 # 16. 对“中国为何独游较晚”的新含义
 
 即使中国大厂不断产生创业者，也可能长期不产生同数量级的indie movement，原因是：
