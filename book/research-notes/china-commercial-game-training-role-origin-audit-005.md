@@ -515,3 +515,30 @@ Steam 后来直接把《一个适合苏丹的游戏》作为“原著小说”DL
 > “腾讯程序员系统性比腾讯策划更会做独立游戏。”
 
 下一轮必须靠更大的 Role-Origin Dataset、失败样本和岗位子类型对照来决定这个更强假说是否成立。
+
+
+---
+
+## 14. 2026-10-08 关键纠偏：缺训练不等于“会而不教”
+
+本轮新增一个必须写进后续分析的边界：
+
+> **不能默认老一代 / 资深从业者已经掌握目标新范式，只是因为成本、保守或利益而不愿意教新人。很多时候，旧 production regime 的资深者本人就没有亲自形成这种 frontier practice。**
+
+因此“junior 不被招 / 不被教”至少拆成：
+
+1. **TRAINING WITHHOLDING**：组织会这套已知 practice，但不愿承担培养成本；
+2. **INCUMBENT CAPABILITY CEILING**：目标新 practice 尚未存在于组织知识库，mentor 本身没有可传授的成熟答案；
+3. **EVALUATOR CAPABILITY GAP / DEFENSIVE CONSERVATISM**：组织用旧成功范式的代理指标评价自己并不熟悉的新能力，于是“不会识别”可能表现成“这不专业 / 没验证 / 没大项目经验”。
+
+这意味着“多年行业经验”不能直接作为 frontier mentor quality 的代理。后续 Role-Origin Dataset 除岗位与 ownership 外，应增加：
+
+- `ZERO-TO-ONE RECENCY`；
+- `PROTOTYPE FREQUENCY`；
+- `EXTERNAL LEARNING CHANNEL`；
+- `UNLEARNING EVIDENCE`；
+- `EVALUATOR CAPABILITY`。
+
+更完整的机制见：[048 — 老兵未必能教未来：能力复制陷阱与横向能力发现网络](capability-reproduction-trap-horizontal-discovery-048.md)。
+
+这不是年龄本质论。年轻人、Jam、indie 社群也可能集体追错；大公司也可能通过内部孵化和小型自主单元产生 frontier practice。研究对象始终是**knowledge location / feedback architecture / decision rights / reality arbitration**，而不是出生年份或职位声望。
