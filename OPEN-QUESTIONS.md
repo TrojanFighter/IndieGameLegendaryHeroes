@@ -26,7 +26,7 @@
 
 ### OQ-001｜普通创作者究竟死在哪一道Gate？
 **Status:** `PARTIAL` — `METHOD_PROVEN / CROSS_COUNTRY_DENOMINATOR_OPEN`  
-**Evidence in repo:** [`028 媒体选择与分母协议`](book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md)、[`031 Week Sauce 18/18`](book/research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)、[`033 四年追踪`](book/research-notes/week-sauce-2022-public-creator-followup-033.md)、[`034 署名/重复协作网络`](book/research-notes/week-sauce-contributor-collaboration-graph-034.md)，以及中国/台湾固定 cohort 试点。  
+**Evidence in repo:** [`028 媒体选择与分母协议`](book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md)、[`031 Week Sauce 18/18`](book/research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)、[`033 四年追踪`](book/research-notes/week-sauce-2022-public-creator-followup-033.md)、[`034 署名/重复协作网络`](book/research-notes/week-sauce-contributor-collaboration-graph-034.md)、[`045 Beginner Jam 2020 六年固定入口追踪`](book/research-notes/beginner-jam-public-authorial-persistence-cohort-045.md)，以及中国/台湾固定 cohort 试点。  
 **Unresolved core:** 还不能把任一便利样本的流失结构外推为地区成功率；各国 cohort 的起点、观察窗和“退出”定义仍未完全同构。  
 **Closure condition:** 至少三地区使用可比的 fixed-entry frame、统一 gate 定义和明确 censoring，能够报告“观察到什么 / 看不见什么”，而不是只列英雄或失败者。
 **Question**  
@@ -56,9 +56,9 @@
 ---
 
 ### OQ-002｜Second Attempt：失败一次后还有没有第二次机会？
-**Status:** `PARTIAL` — `SECOND-RELEASE BASELINE + EXIT PATHS ESTABLISHED / COHORT RATE OPEN`  
-**Evidence in repo:** [`037 Steam second-release survival baseline`](book/research-notes/steam-second-release-survival-baseline-037.md)、[`044 Creator Exit & Re-entry Economics`](book/research-notes/creator-exit-reentry-economics-044.md)、[`033 Week Sauce follow-up`](book/research-notes/week-sauce-2022-public-creator-followup-033.md)、中国 [`011 Boundary / second chance`](country-studies/china/011-boundary-wandering-earth-capability-second-chance-2024-2026.md)。  
-**Unresolved core:** 已观察到回受雇、转行业、side authorship、跨媒介后再入场等不同路径，但仍没有固定 cohort 的发生率；失败后的工资变化、再融资与长期 household recovery 仍弱。  
+**Status:** `PARTIAL` — `SECOND-RELEASE BASELINE + FIXED-ENTRY AUTHORIAL PERSISTENCE PILOT / EMPLOYMENT RATE OPEN`  
+**Evidence in repo:** [`037 Steam second-release survival baseline`](book/research-notes/steam-second-release-survival-baseline-037.md)、[`044 Creator Exit & Re-entry Economics`](book/research-notes/creator-exit-reentry-economics-044.md)、[`045 Beginner Jam fixed-entry persistence`](book/research-notes/beginner-jam-public-authorial-persistence-cohort-045.md)、[`033 Week Sauce follow-up`](book/research-notes/week-sauce-2022-public-creator-followup-033.md)、中国 [`011 Boundary / second chance`](country-studies/china/011-boundary-wandering-earth-capability-second-chance-2024-2026.md)。  
+**Unresolved core:** 045 已在一个完整18-account public-submission frame 中建立“后续公开作者性”的可观察下限，但它不是失败 cohort，也看不到就业与工资；回受雇、转行业、再融资、长期 household recovery 与真正 career exit 的 fixed-cohort rate 仍缺。  
 **Closure condition:** 建立至少两个地区的失败/低表现创作者纵向样本，并能区分 `SECOND_RELEASE / REEMPLOYMENT / REFUNDING / CAREER_EXIT / UNKNOWN`。
 **Question**  
 真正决定创作者生态健康度的，是否不是首作成功率，而是失败后的再尝试成本？
@@ -79,7 +79,7 @@
 
 ### OQ-003｜“无声失败者”怎么找？
 **Status:** `PARTIAL` — `VISIBILITY PROTOCOL ESTABLISHED / LATENT POPULATION OPEN`  
-**Evidence in repo:** [`028`](book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md)、[`031`](book/research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)、[`033`](book/research-notes/week-sauce-2022-public-creator-followup-033.md) 已明确 `NO PUBLIC TRACE ≠ EXIT`。  
+**Evidence in repo:** [`028`](book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md)、[`031`](book/research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)、[`033`](book/research-notes/week-sauce-2022-public-creator-followup-033.md)、[`045`](book/research-notes/beginner-jam-public-authorial-persistence-cohort-045.md) 已明确 `NO PUBLIC TRACE ≠ EXIT`；045 还用 pre-baseline second project 与 empty profile 两类 censoring 反例说明不能机械二元化。  
 **Unresolved core:** 未提交、私下取消、注销公司、回公司任职和彻底转行仍大量不可见。  
 **Closure condition:** 至少有一组“申请/注册而未提交”或“公司/项目消失”样本能通过后续访谈、工商/职业记录等把一部分 `UNKNOWN` 解析为真实去向。
 **Question**  
@@ -148,9 +148,9 @@
 ---
 
 ### OQ-006｜失败可逆性
-**Status:** `PARTIAL` — `EXIT OUTCOME VECTOR ESTABLISHED / RATE + WAGE PENALTY OPEN`  
-**Evidence in repo:** [`044 Creator Exit & Re-entry Economics`](book/research-notes/creator-exit-reentry-economics-044.md)、[`creator-life-cost-exit comparison`](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)、[`037 Steam second-release baseline`](book/research-notes/steam-second-release-survival-baseline-037.md) 及多项失败/二次机会 Case。  
-**Unresolved core:** 已能把 project/company/employment/authorship/residual capital 分层记录，并有多条实际回就业/职业转向路径；仍缺 fixed cohort 的 24/36/60 月发生率、salary before/after、gap length 与 repeat-founder rate。  
+**Status:** `PARTIAL` — `EXIT OUTCOME VECTOR + AUTHORIAL PERSISTENCE PILOT / EMPLOYMENT + WAGE RATE OPEN`  
+**Evidence in repo:** [`044 Creator Exit & Re-entry Economics`](book/research-notes/creator-exit-reentry-economics-044.md)、[`045 Beginner Jam fixed-entry persistence`](book/research-notes/beginner-jam-public-authorial-persistence-cohort-045.md)、[`creator-life-cost-exit comparison`](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)、[`037 Steam second-release baseline`](book/research-notes/steam-second-release-survival-baseline-037.md) 及多项失败/二次机会 Case。  
+**Unresolved core:** 已能把 project/company/employment/authorship/residual capital 分层记录；045 又证明 authorship 可在 fixed-entry frame 中单独追踪，但纯作品平台几乎看不到 employment recovery。仍缺职业可观察 fixed cohort 的 24/36/60 月状态、salary before/after、gap length 与 repeat-founder rate。  
 **Closure condition:** 对失败后 24/36/60 个月建立可验证的就业/创业状态追踪，并显式保留 `UNKNOWN`。
 **Question**  
 不同社会中，一次失败是“正常履历”还是“职业断裂”？
