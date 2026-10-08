@@ -461,6 +461,88 @@ Argyris最有价值的不是给“中国人不行”提供外国权威。
 7. AI总结会议是否会强化漂亮一致的事后叙事，还是能帮助暴露espoused–enacted gap；
 8. 能否把Judgment Trace与Prediction-Before-Outcome结合成低负担double-loop工具。
 
+
+## 20. Learning Depth Ladder：把“复盘”拆成五层
+
+为了避免所有review都自称“学习”，新增：
+
+### L0 — Outcome Description
+发生了什么？
+
+### L1 — Action Correction
+下次动作怎么改？
+
+### L2 — Causal Model Correction
+我们原来为什么判断错？因果模型哪里有误？
+
+### L3 — Governing Variable Correction
+目标、metric、成功定义、风险语言本身是否需要改？
+
+### L4 — Structural Learning
+预算、P&L、Decision Right、团队边界、晋升激励是否真的随新模型改变？
+
+因此：
+
+> 说得更深 ≠ 学得更深。
+
+真正组织学习的强证据，是后续行为和资源系统发生可追踪变化。
+
+## 21. Competence Identity Trap：身份越依赖“我是会做题的人”，失败越可能变成身份威胁
+
+Argyris关于高能力professional的观察可进一步提出H级机制：
+
+### COMPETENCE IDENTITY TRAP / 能力身份陷阱
+
+当一个人的地位长期建立在：
+- 我聪明；
+- 我专业；
+- 我判断准；
+- 我总能给答案；
+
+那么模糊失败不只是一次任务失败，
+还可能被体验为：
+
+> “我到底是不是那个聪明、专业的人？”
+
+于是最理性的自我保护方式可能变成：
+- 把失败外归因；
+- 强调执行偏差；
+- 找数据证明自己原本仍对；
+- 避免公开不确定性。
+
+因此高credential并不自动提高double-loop learning，
+甚至可能增加“承认我的representation错了”的身份成本。
+
+该假说必须单独实证，不能从Argyris直接推出跨国总体结论。
+
+## 22. AI风险：总结器可以让single-loop变得极其漂亮
+
+AI会议纪要 / postmortem agent 很容易：
+- 聚合意见；
+- 生成一致故事；
+- 列行动项；
+- 自动归纳“根因”。
+
+这可能提高L0–L1效率，
+却同时制造：
+
+### SYNTHETIC CONSENSUS / 合成共识
+
+> 多个互相冲突、尚未被检验的解释，被LLM压缩成一个流畅、专业、貌似已经达成共识的因果叙事。
+
+所以AI复盘工具应该反过来保留：
+- 分歧模型；
+- 未解决冲突；
+- 每个解释的证伪条件；
+- 谁在结果发生前预测过什么；
+- 哪些governing variables无人质疑。
+
+AI最有价值的角色不是：
+> 帮组织把故事说圆。
+
+而是：
+> **防止组织过早把冲突压平。**
+
 ## Sources
 
 - Argyris, “Double Loop Learning in Organizations,” HBR 1977:
