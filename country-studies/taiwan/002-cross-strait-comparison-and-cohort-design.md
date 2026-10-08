@@ -1,6 +1,6 @@
 # 002 — 台湾×大陆：人物命运与非明星样本的可比研究设计
 
-- Status: PRE-REGISTERED DESIGN / FIRST INTAKE / ZERO COMPLETED COHORTS
+- Status: PRE-REGISTERED DESIGN / FIRST INTAKE / PUBLIC-ATTEMPT & SELECTED-FINALIST COHORT PILOTS COMPLETE / POPULATION DENOMINATORS OPEN
 - Program: C comparator + A biography linkage
 - As of: 2026-10-07
 - Method: [媒体可见性与分母协议028](../../book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md)、[大陆GGJ公开项目试点](../china/002-ggj-2024-shenzhen-nanshan-public-attempt-pilot.md)
