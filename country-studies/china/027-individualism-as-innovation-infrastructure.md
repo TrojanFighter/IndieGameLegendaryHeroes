@@ -14,6 +14,7 @@
 - Japan counterexample:
   - [Japan 001 — East Asian Counterexample / Bounded Eccentricity](../japan/001-japan-east-asian-counterexample-weird-kinship-and-game-creator-ecology.md)
 - Hacker/production extension: [028 — Hacker Spirit × Scale Down × Commercial Anti-Training](028-hacker-spirit-scale-down-commercial-antitraining.md)
+- Education upstream: [031 — Education × East-Asian Discipline × Reference Repertoire](031-education-east-asian-discipline-reference-repertoire.md)
 - Boundary: 本文反对把国家创新差异压缩成“民族性”；文化倾向只作为变量之一，必须和市场、产权、署名、流动、家庭、组织与生产制度联动。
 
 ## 0. 核心修正：个人主义不是一个变量，而是一条链
@@ -1067,3 +1068,26 @@ AUTHORIAL EXPERIMENT
 - `HACKER-MODE SOCIALIZATION DENSITY`；
 - `SCALE-DOWN LITERACY`；
 - `COMMERCIAL→INDIE RETRAINING COST`。
+
+
+## 18. Self-Authored Ends的教育前史：Self-Education Sovereignty
+
+027此前从成年后的：
+- credit；
+- mobility；
+- ownership；
+- production agency
+讨论个人主义。
+
+031补充一个更早的问题：
+
+> **一个人在未成年/学生时期，有没有足够时间和合法性决定“我想理解什么”？**
+
+这定义为：
+`SELF-EDUCATION SOVEREIGNTY`。
+
+若自主阅读、游戏、mod、制作与远端兴趣长期必须证明“对考试有用”，则：
+`SELF-AUTHORED ENDS`
+在成人职业阶段可能已经缺少长期训练基础。
+
+这不是“中国教育决定论”，而是需要用日本/台湾/韩国等东亚内部差异做压力测试的上游机制。
