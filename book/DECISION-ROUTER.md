@@ -2,26 +2,20 @@
 
 © 2026 洪荒行者。All Rights Reserved.
 
-这不是职业测试，也不是“你是哪种独立游戏开发者”。
-
-它解决的是一个更实际的问题：
-
-> **如果你今天真的准备投入几个月到几年做一个作者项目，当前最应该移动的到底是哪一侧：项目、能力、团队、资本，还是承诺本身？**
+准备投入几个月到几年做自己的作品时，先判断下一步需要改变什么：作品形态、已有能力、合作方式、资金，还是投入程度。
 
 同样一个“程序员”，可能是：
 - 有工资、没作品；
-- 有很强工程能力、但没有产品判断；
-- 有一个已经验证的 prototype、缺美术；
+- 有很强工程能力，但还不知道什么值得做；
+- 已用原型验证一部分体验，却缺美术；
 - 已经成功过一次、手里有现金；
 - 有孩子和房贷，不能接受两年没有收入。
 
-这些人的下一步不应该一样。
+职业相同，这些人的下一步仍有不同依据。本页先问三件事：
 
-因此，本页把阅读入口拆成三个坐标：
-
-1. **Capability position** — 你已经拥有什么；
-2. **Risk position** — 你能承担多大不可逆成本；
-3. **Project maneuver** — 这次到底应该移动什么。
+1. **已有能力**：你已经能做什么，还缺什么；
+2. **风险处境**：你能承担多大难以撤回的成本；
+3. **项目调整**：这次具体准备改变什么。
 
 如果你已经知道自己属于某种具体人生处境，还可以继续进入 [Life Risk Routes](life-routes/README.md)。现有路线包括 [LR-001 — 名校 / 大厂转作者型独立](life-routes/big-company-veteran-to-author-001.md)、[LR-002 — 有稳定工资先做证据](life-routes/salaried-creator-staged-commitment-002.md)、[LR-003 — 高家庭支出与照护风险](life-routes/household-high-burn-creator-003.md)、[LR-004 — 项目已定但能力不足](life-routes/project-thesis-capability-gap-004.md)、[LR-005 — 工业能力转作者型团队](life-routes/industrial-capability-authorial-studio-005.md)。
 
@@ -29,17 +23,11 @@
 
 ---
 
-# 第一步：你现在最像哪种 Capability Position？
+# 第一步：你已经能做什么，还缺什么？
 
 ## A. 我有一个明显强项，但项目还没定
 
-典型状态：
-- 程序很强；
-- technical art / visual 很强；
-- 写作 / worldbuilding 很强；
-- systems / design judgment 很强；
-- mod / UGC / server 运营经验很强；
-- 但你还没有一个必须做的完整项目。
+你可能擅长程序、技术美术、视觉、写作、世界构建或系统设计，也可能有修改游戏、制作用户内容和运营服务器的经验，却还没有定下一个完整项目。
 
 优先问：
 
@@ -47,75 +35,51 @@
 
 先读：
 - [Gunpoint / Tom Francis](profiles/gunpoint.md)
-- [The First Tree / David Wehle](../cases/CASE-042-the-first-tree.md)
+- [The First Tree / David Wehle人物稿](profiles/david-wehle-first-tree.md) · [研究档案](../cases/CASE-042-the-first-tree.md)
 - [Everything / David OReilly](../cases/CASE-043-everything-david-oreilly.md)
-- [Zachtronics / Zach Barth](../cases/CASE-051-zachtronics.md)
+- [Zachtronics / Zach Barth人物稿](profiles/zach-barth-zachtronics.md) · [研究档案](../cases/CASE-051-zachtronics.md)
 - [RimWorld / Tynan Sylvester](../cases/CASE-045-rimworld.md)
 
-对应动作：
-> **SHAPE — 让项目围绕 capability 形成。**
-
-风险：
-> 强项本身也可能制造错误问题。
-
-压力对照：
+**SHAPE — 围绕已有能力形成项目。** 强项能影响作品形态，也可能让人选择错误的问题。继续比较：
 - [Limit Theory / FIT-TRAP](../cases/CASE-054-limit-theory-fit-trap.md)
 - [Factorio / Technical Stop Condition](../cases/CASE-055-factorio-stop-conditions.md)
 
 ---
 
-## B. 我已经有很清楚的作品 thesis，但缺关键能力
+## B. 我已经有清楚的作品方向，但缺关键能力
 
 如果你想先读真实人物的选择与代价，从 [第六篇：你缺的真是一支团队吗？](chapters/06-you-do-not-need-a-standard-studio.md) 进入；如果你已经准备决定花钱、雇人或找合伙人，再读 [LR-004 — 改作品还是补能力？](life-routes/project-thesis-capability-gap-004.md)。它先区分“自己已有想法”与“玩家已有证据”，再选择要移动的变量。
 
-典型状态：
-- 视觉作者知道自己想做什么，但不会完成整套游戏技术；
-- programmer 有核心 mechanic，但缺 art / audio / production；
-- designer 有产品 thesis，但一个人做不完；
-- prototype 已经证明“东西成立”，但 capability set 不够。
+视觉作者可能已有想做的画面，却不能完成整套技术；程序员可能做出了核心机制，却缺美术、声音或制作管理；设计者也可能有明确方向，一个人仍做不完。原型获得反馈后，还要说清哪些体验已经被检验，哪些产品和商业问题仍未得到回答。
 
-这时不要默认只有两种路：
+自己学习和调整作品都可以考虑。此外，还可以找共同作者、用资金获得专业能力，或将部分工作交给协作者。它们承担的成本不同：
 
-> “自己把所有东西学会”  
-> 或  
-> “把项目砍到只剩自己会的东西”。
-
-至少还有三种：
-
-### COMPOSE — 用共同创始人组成 capability set
+### COMPOSE — 与共同创始人组合能力
 
 先读：
-- [Nomada / GRIS](../cases/CASE-050-nomada-gris-neva.md)
+- [Nomada / GRIS人物稿](profiles/nomada-gris-neva.md) · [研究档案](../cases/CASE-050-nomada-gris-neva.md)
 - [Playdead / Jensen + Patti](../cases/CASE-056-playdead-founder-governance.md)
 
-前者看：
-> 互补 founder 怎样让一个原本做不出来的 thesis 变成公司。
+Nomada可以看互补作者怎样把视觉方向变成一家能够制作的公司。Playdead则提醒我们：共同创始人不是免费劳动力。他们带来的能力，伴随着股份、决策权限、作者权利与退出安排，伙伴需要共同决定长期合作怎样继续。
 
-后者看：
-> 共同创始人补来的不是免费劳动力，而是 equity / authority / authorship / exit 的长期治理关系。
-
-### EXPAND — 用资本购买 capability
+### EXPAND — 用资金获得所缺能力
 
 先读：
-- [The Witness](../cases/CASE-047-the-witness.md) — prior-hit retained earnings；
-- [Outer Wilds](../cases/CASE-049-outer-wilds.md) — external studio / crowdfunding / publisher / platform stack；
-- [House House](../cases/CASE-052-house-house-goose-game.md) — grant + publisher；
-- [thatgamecompany](../cases/CASE-057-thatgamecompany-vc-equity-expansion.md) — VC/equity + self-publishing capability。
+- [The Witness](../cases/CASE-047-the-witness.md) — 前作收入；
+- [Outer Wilds](../cases/CASE-049-outer-wilds.md) — 外部工作室、众筹、发行商与平台等多层支持；
+- [House House](../cases/CASE-052-house-house-goose-game.md) — 补助与发行商；
+- [thatgamecompany](../cases/CASE-057-thatgamecompany-vc-equity-expansion.md) — 股权投资与自发行能力。
 
-核心不是“哪种钱最好”，而是：
+比较时问：**钱从哪里来，能增加哪种能力，谁因此获得什么权限，又留下哪些未来义务？** 具体合同与治理条款需要逐案核对。
 
-> **source × capability purchased × control surface × future obligation**
+### PERIPHERALIZE — 保留创作核心，与专业协作者分工
 
-### PERIPHERALIZE — 核心自己掌握，外围交给 specialist
-
-很多所谓 solo / two-person game 实际都是：
-
-> small authorial core + specialist periphery
+小核心可以把部分专业工作交给协作者。比较下面这些分工时，要核清谁承担了代码、美术、声音、测试或发行等工作；核心人数不能替代全部贡献者人数。
 
 先读：
 - [Into the Breach](../cases/CASE-020-into-the-breach.md)
 - [Manor Lords](../cases/CASE-036-manor-lords.md)
-- [The First Tree](../cases/CASE-042-the-first-tree.md)
+- [The First Tree人物稿](profiles/david-wehle-first-tree.md) · [研究档案](../cases/CASE-042-the-first-tree.md)
 
 ---
 
