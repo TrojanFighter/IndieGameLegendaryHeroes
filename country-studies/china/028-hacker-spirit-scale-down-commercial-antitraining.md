@@ -7,6 +7,7 @@
   - [026 — Spinout ≠ Indie](026-spinout-vs-indie-mode-conversion.md)
   - [027 — Individualism as Innovation Infrastructure](027-individualism-as-innovation-infrastructure.md)
   - [Capability-Shaped Project Formation](../../book/research-notes/capability-shaped-project-formation-001.md)
+- Education upstream: [031 — Education × East-Asian Discipline × Reference Repertoire](031-education-east-asian-discipline-reference-repertoire.md)
 - Boundary:
   - “Hacker Spirit”在本文不是民族人格标签，也不是违法/入侵计算机；
   - “Commercial Anti-Training”不是“商业游戏经验有害”，而是研究**在大型商业生产中局部合理的习惯，迁移到小团队作者生产时是否发生negative transfer**；
@@ -874,3 +875,30 @@ AI makes missing capabilities cheaper
 # 19. 当前最小结论
 
 > **Hacker Spirit、Scale Down与商业游戏反训练不是三个孤立问题。它们共同描述创作者面对约束时的默认响应函数。Hacker mode强调hands-on proof、problem hacking、resource substitution与低成本现实裁决；Scale Down不是把标准大作砍小，而是保留player thesis、重写生产问题；大型商业游戏则合理训练specialization、resource allocation、benchmark、process reliability与规模化，但这些习惯未经转换地进入微型作者团队时可能形成Indie Negative Transfer。腾讯NExT的内部实验尤其强：管理者明确把原团队描述为习惯“螺丝钉”，并通过2–5人孵化、Demo、100人天Review、T形人才和动态追加资源重新训练。4A则展示了更硬的Hacker Agency：核心生产者离开旧产权容器后直接重建引擎、团队和产品。真正值得比较的不是“哪个民族更有hacker精神”，而是Hacker-Mode Socialization Density、Scale-Down Literacy和Commercial→Indie Retraining Cost的数量级。**
+
+
+## 20. Upstream correction：Hacker策略之前先有教育形成
+
+028不能只从commercial anti-training解释reference poverty。
+
+031把因果链前移：
+
+```text
+education / family / discipline
+→ self-education sovereignty
+→ reference repertoire
+→ solution-space visibility
+→ hacker / scale-down strategy
+→ industry reinforcement
+```
+
+因此以后看到：
+- 只会对标；
+- 不会scale down；
+- 缺prototype habit；
+
+必须先问：
+> **这些习惯在进入行业前已经形成多少？**
+
+Canonical:
+- [031 — Education × East-Asian Discipline × Reference Repertoire](031-education-east-asian-discipline-reference-repertoire.md)
