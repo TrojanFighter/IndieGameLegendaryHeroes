@@ -813,6 +813,466 @@ Kuhn在商业语境最常见的滥用是：
 7. Anomaly Promotion Threshold能否从真实项目复盘中操作化；
 8.组织的Paradigm Patch Burden与后续大转向之间是否存在可观察关系。
 
+
+## 21. Lakatos：不要用“一次反例”杀死整个研究纲领
+
+Lakatos的研究纲领方法，可以看成是在Popper与Kuhn之间搭桥：
+
+- 反对“一个反例出现，理论立刻死亡”的朴素证伪观；
+- 也反对“范式只能等社会共同体整体转换，无法比较进步性”的过度相对主义读法；
+- 评价单位不是孤立命题，而是一串不断修改的理论——一个 **research programme**。
+
+Stanford Encyclopedia 对其成熟框架的概括是：
+- programme存在相对稳定的 **hard core**；
+- 外围有可修改的 **protective belt**；
+- 面对异常时，通常先调整外围，而不是每次都立即抛弃核心；
+- 关键不是“有没有被反驳”，而是后续修改是否产生更丰富、可独立检验的新内容；
+- 如果新内容后来得到经验支持，则形成empirically progressive shift；
+- 如果修改只是为了事后容纳已经知道的失败，没有产生新的成功预测，则进入degenerating shift。
+
+Sources:
+- Lakatos, “Falsification and the Methodology of Scientific Research Programmes”:
+  https://personal.lse.ac.uk/robert49/teaching/ph201/week05_xtra_lakatos.pdf
+- Stanford Encyclopedia of Philosophy, Imre Lakatos:
+  https://plato.stanford.edu/entries/lakatos/
+
+这对产品创新非常重要，因为：
+
+> **一个真正新东西早期出现反例，本来就不应该自动意味着整个方向错误。**
+
+否则任何需要多轮整合才能显值的新范式，
+都会被第一次粗糙prototype提前杀死。
+
+---
+
+## 22. Product Research Programme：产品不是一个假设，而是一串逐步变强或逐步退化的假设
+
+作为跨域类比，本项目引入：
+
+# `PRODUCT RESEARCH PROGRAMME / 产品研究纲领`
+
+不是说游戏开发等同科学研究，
+而是借Lakatos区分两种完全不同的项目演化：
+
+### Progressive Product Programme
+
+```text
+core thesis
+→ prototype reveals anomaly
+→ model revised
+→ revised model predicts new player behavior / production result
+→ experiment run
+→ prediction partially confirmed
+→ product thesis gains explanatory + predictive power
+```
+
+### Degenerating Product Programme
+
+```text
+core thesis
+→ prototype fails
+→ post-hoc excuse added
+→ next prototype fails differently
+→ another exception added
+→ every outcome can be explained after the fact
+→ no new prediction becomes easier to make
+```
+
+这里最重要的是：
+
+# `POST-HOC EXPLANATION ≠ PROGRESS`
+
+一个团队“总能解释为什么失败”
+不代表它正在学习。
+
+真正更强的证据是：
+
+> **新解释有没有改变下一次下注，并在结果出现前就提出可失败的预测？**
+
+---
+
+## 23. Progressive Patch vs Degenerative Patch：不是所有补丁都坏
+
+前面提出：
+
+# `PARADIGM PATCH BURDEN`
+
+Lakatos给这个概念一个必要修正。
+
+不能机械认为：
+> patch越多，范式越坏。
+
+科学史上强理论同样需要大量辅助假设、边界条件和测量修正。
+
+真正该区分：
+
+### Progressive Patch / 进步性补丁
+
+补丁加入以后：
+- 不只解释旧失败；
+- 还暴露新的可测变量；
+- 预测此前没有专门针对的新结果；
+- 帮助团队设计新的区分性实验；
+- 后续至少一部分预测被现实支持。
+
+### Degenerative Patch / 退化性补丁
+
+补丁加入以后：
+- 主要目的只是保存原结论；
+- 没有新的风险性预测；
+- 任何结果都能兼容；
+- 解释越来越依赖特殊情况；
+- 判断力没有变强，只是叙事能力变强。
+
+因此：
+
+# `PATCH COUNT` 不如 `PREDICTIVE YIELD PER PATCH`
+
+重要。
+
+---
+
+## 24. Prediction-Before-Outcome Test：最便宜的反自欺工具
+
+为把Lakatos转成项目审计，新增：
+
+# `PREDICTION-BEFORE-OUTCOME TEST / 结果前预测测试`
+
+每次重大修改前必须记录：
+
+1. 我们现在认为前一版为什么失败？
+2. 新模型与旧模型真正不同在哪里？
+3. 如果新模型正确，下一轮应出现哪些新现象？
+4. 哪些现象若出现，会削弱新模型？
+5. 这些预测必须在测试结果出现**之前**写下。
+
+之后再比较：
+
+```text
+predicted result
+vs
+observed result
+```
+
+如果每次复盘都是：
+> “结果出来以后，我们当然知道为什么。”
+
+但事前预测长期不改善，
+
+那极可能是：
+
+# `RETROSPECTIVE COHERENCE WITHOUT MODEL IMPROVEMENT`
+### 事后叙事越来越漂亮，模型却没变准。
+
+这也直接连接已有：
+- pre-registration；
+- Judgment Trace；
+- Experimental Taste；
+- Taste Calibration。
+
+---
+
+## 25. Hard Core：什么时候应该保护核心假设，什么时候应该连核心一起杀？
+
+Lakatos允许research programme暂时保护hard core，不把每一个反例都直接归咎核心。
+
+对应产品开发，可以把：
+
+### Hard Core
+暂时定义为：
+> **项目最值得保护、最需要多轮现实检验的核心价值假设。**
+
+例如不是：
+> “UI必须这样。”
+
+而可能是：
+> “玩家会享受在有限信息下建立长期角色关系并承担后果。”
+
+### Protective Belt
+则可能包含：
+- 当前UI；
+- 控制方式；
+-经济参数；
+-叙事节奏；
+-技术实现；
+-onboarding；
+-具体feature组合。
+
+这给Vision项目一个更严谨的保护方法：
+
+> **可以保护核心，但必须允许外围大量死亡。**
+
+而不是：
+> “为了愿景，所有实现都不能动。”
+
+---
+
+## 26. Hard-Core Immunity Risk：核心保护也会变成宗教
+
+Lakatos框架同样有危险的管理学滥用：
+
+> “这个是hard core，所以不能挑战。”
+
+一旦这样，就回到Kay批评的religion。
+
+因此产品hard core只能获得：
+
+# `TEMPORARY PROTECTED STATUS`
+
+而不是永久免责。
+
+应该定期问：
+
+1. Protective belt已经换了多少轮？
+2. 核心是否仍能产生新的成功预测？
+3. 是否存在竞争programme用更少补丁解释更多现象？
+4. 核心还能指导新行动，还是只剩身份功能？
+
+如果：
+```text
+belt rewrites ↑
+novel predictive success ↓
+competitor explanatory power ↑
+```
+
+则应该触发：
+
+# `HARD-CORE REVALIDATION`
+
+这与Self-Obsolescence直接兼容。
+
+---
+
+## 27. Competing Programmes：不要只问“这个项目有没有进步”
+
+Lakatos相对Kuhn更强调：
+
+> 历史中往往存在多个竞争research programmes，而不是永远只有一个统治范式。
+
+这对产品决策非常重要。
+
+项目不能只问：
+
+> “我们比三个月前好了吗？”
+
+还要问：
+
+> **与另一套完全不同的问题表示法相比，我们的学习速度和解释力如何？**
+
+例如两个候选方向：
+
+### Programme A
+“LLM的价值是让NPC无限对话。”
+
+### Programme B
+“LLM的价值是让玩家提出作者未预写的行动，并让系统维持长期因果后果。”
+
+双方都可以不断prototype。
+
+真正要比较的不是：
+> 谁demo更炫。
+
+而是：
+- 谁不断发现新的可验证机制；
+- 谁更稳定预测玩家行为；
+- 谁用更少ad hoc规则维持一致体验；
+- 谁产生更多此前旧游戏难以产生的体验事实。
+
+这叫：
+
+# `PROGRAMME-LEVEL COMPARISON`
+
+---
+
+## 28. Progressive Research Programme 与“同构异性创新”的边界
+
+一个成熟赛道完全可以形成progressive programme。
+
+例如：
+- 每一代持续产生新的机制预测；
+- 技术改进创造新的行为可能性；
+- 用户研究揭示新的交互规律；
+- 不只是把原feature做得更大。
+
+所以不能写：
+> 只有原发性范式革命才叫progressive。
+
+反过来，一个号称“全新品类”的项目也可能是degenerating：
+- 每次失败都说“用户还没准备好”；
+- 没有新可证伪预测；
+- 没有提高因果理解；
+- 只不断修改故事。
+
+因此：
+
+# `NOVELTY CLAIM ≠ PROGRESSIVE PROGRAMME`
+
+这是防“创新神学”非常重要的边界。
+
+---
+
+## 29. Lakatos × Kuhn × Boyd × Kay：现在可以形成一个更完整的更新循环
+
+### Kay
+> 换representation可能让问题发生质变。
+
+### Kuhn
+> 成功representation会形成exemplar、正常解题与共同标准。
+
+### Boyd
+> 这些传统和经验进入orientation，持续过滤新信息。
+
+### Lakatos
+> 当异常出现，不要看单次输赢；看整条programme是产生新的成功预测，还是只会事后补洞。
+
+合并：
+
+```text
+representation
+→ exemplar / paradigm
+→ orientation
+→ action
+→ anomaly
+
+anomaly
+→ progressive revision
+   → novel prediction
+   → corroboration
+   → programme strengthens
+
+or
+
+anomaly
+→ degenerative patch
+   → post-hoc accommodation
+   → no predictive gain
+   → programme decays
+
+sustained degeneration
+→ representation revalidation
+→ possible paradigm / product reframing
+```
+
+这给“什么时候该坚持，什么时候该pivot”一个比情绪和KPI更强的判断基础。
+
+---
+
+## 30. 与Reversible Bets连接：早期要允许“研究纲领”活，而不是允许大项目无限烧钱
+
+Lakatos最容易被错误应用为：
+
+> “真正创新需要时间，所以继续投。”
+
+不成立。
+
+正确组合是：
+
+```text
+protect programme
+≠
+protect budget
+```
+
+可以保护：
+- 核心问题；
+- 小团队；
+- 多轮实验权；
+- 再尝试资格。
+
+同时不断限制：
+- 单轮投入；
+- 不可逆承诺；
+- production scope。
+
+即：
+
+# `CHEAP PROGRAMME PERSISTENCE / 廉价纲领持续性`
+
+> **允许同一核心假说经历多轮便宜现实检验，而不是因为一次失败被杀，也不是因为愿景尚未证伪就获得无限预算。**
+
+这正好把：
+- Reversible Bets；
+- Innovation Optionality；
+- Failure Harvesting；
+- Lakatos
+
+接起来。
+
+---
+
+## 31. 与个人主义主线连接：独立判断不是“死守我的观点”
+
+Lakatos又给个人主义一个非常重要的反鸡汤边界。
+
+低质量个人主义：
+
+```text
+this is my vision
+→ criticism arrives
+→ reinterpret criticism
+→ vision remains unchanged forever
+```
+
+高质量独立判断：
+
+```text
+choose thesis independently
+→ expose it to risky tests
+→ improve predictions
+→ compare rival programmes
+→ abandon it when it persistently degenerates
+```
+
+所以：
+
+# `JUDGMENT SOVEREIGNTY`
+必须配：
+# `PROGRAMME ACCOUNTABILITY`
+
+你有权选择自己的问题，
+不等于你的问题免于现实审判。
+
+---
+
+## 32. Reader-facing：项目正在进步，还是只是在变得更会解释自己？
+
+每隔若干轮prototype，问：
+
+1. 我们三个月前不能预测、现在可以预测什么？
+2. 哪个新预测在结果出现前被记录，并后来成立？
+3. 最近的修改创造了新能力，还是只修复已知失败？
+4. 同样失败如果再出现，我们是不是还会发明一个新例外？
+5. 是否存在一个竞争模型，用更少假设解释更多现象？
+6. 核心thesis最近一次真正冒被证伪风险是什么时候？
+7. 我们是在保护研究纲领，还是保护团队身份和沉没成本？
+
+如果答案持续是：
+> “我们每次都能解释失败，但预测没有改善。”
+
+那么这不是韧性。
+
+很可能是：
+
+# `DEGENERATING PROGRAMME`
+
+---
+
+## 33. 边界：不能把Lakatos直接当商业评分公式
+
+强制保留：
+
+1. 科学理论的“novel facts”与产品的玩家价值、市场结果不是同一种对象；
+2. 产品开发受审美、协调、品牌、资本与时机影响，不能只用预测准确率评价；
+3. 某个programme短期退化不意味着应立即退出——Lakatos本人也不支持简单即时处决；
+4. 竞争programme可能后来复兴；
+5. 商业项目还有runway约束，不能等待无限历史裁决。
+
+所以Lakatos在本项目中的用途是：
+
+> **区分“学习性坚持”与“解释性坚持”。**
+
+而不是提供一个机械的kill rule。
+
 ## Sources
 
 - Alan Kay, 1982 “Point of view is worth 80 IQ points” source tracing:
