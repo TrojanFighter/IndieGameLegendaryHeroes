@@ -748,6 +748,206 @@ NExT 说明大型中国公司内部可以制度化低成本提案 / prototype；
 当前没有足够公开项目数据计算该指标，保留为后续 organizational audit 字段。
 
 
+### 9.12 LATECOMER PARADOX：后发优势为什么常被消耗成高质量跟随
+
+后发企业理论本来就不支持“模仿 vs 创新”的简单二分。
+
+2024 *Research Policy* 关于 technological leadership change 的模型研究指出：
+- 单方面依赖 imitation 或 innovation 都会降低 latecomer 取得技术领导地位的机会；
+- 更有效的是随 technological regime 动态配置 imitation / innovation；
+- 不同技术周期、知识累积性与可占有性条件下，最优组合不同。
+
+Source:
+https://www.sciencedirect.com/science/article/abs/pii/S0048733324001057
+
+2024 *Journal of Evolutionary Economics* 对 latecomer catch-up 的综述同样强调：
+- 后发者只有具备足够 absorptive capacity，才能把快速技术变化真正转化成 opportunity；
+- 从 potential absorptive capacity 走到 realized AC / dynamic capabilities，关键在于能否 integrate / build / reconfigure internal and external competencies。
+
+Source:
+https://link.springer.com/article/10.1007/s00191-024-00847-9
+
+因此 IPI 更适合被理解为一种：
+
+# `SELECTIVE IMITATION / SELECTIVE INHERITANCE`
+
+不是“不模仿”，而是：
+- 有意识继承已经验证的认知骨架；
+- 不重复支付“需求是否存在”的全部成本；
+- 把研发风险集中在少数高 leverage 的变异域；
+- 最终通过新行为表型形成可辨认的竞争理由。
+
+工作表达：
+
+> **低水平后发者复制领先者的答案；高水平后发者继承领先者的问题空间，然后选择一个不同答案。**
+
+### 9.13 PROTECTED SUBSTITUTE RENT / 替代品租金
+
+后发优势不会自动转成 T。
+
+如果一个本地市场存在：
+- 外国作品准入摩擦；
+- 本地运营 /支付 /语言 /网络服务门槛；
+- 平台 /渠道隔离；
+- 监管审批不对称；
+- 原作不能直接、持续服务本地用户；
+
+那么本土公司可以通过“更可获得的本地替代品”获得商业回报，而不必先把母范式推成新的行为表型。
+
+这里暂称：
+
+# `PROTECTED_SUBSTITUTE_RENT`
+
+定义：
+> **企业因本地市场接入优势、制度摩擦或服务能力而获得的“替代原作”回报；它可能奖励高质量 transfer / localization / operations，而不要求 phenotype transformation。**
+
+对中国游戏产业有两条直接相关的外部证据：
+
+1. Kim & Kang 2019 对中国游戏产业 catch-up 的研究认为，中国本土企业曾通过包括海外游戏进口配额和内容审查在内的 favourable policy changes 获得追赶窗口。
+Source:
+https://www.tandfonline.com/doi/full/10.1080/00472336.2019.1656761
+
+2. 外国在线游戏长期面临中国市场准入 / 本地发行合作与许可要求；这些制度事实本身不能证明国产公司因此减少创新，但确认了“本土与外国产品并非长期处于完全对称市场接入条件”。
+Sources:
+https://repository.uclawsf.edu/hastings_international_comparative_law_review/vol35/iss2/5/
+https://scholarworks.uni.edu/ijc/vol42/iss1/6/
+
+因此当前只能提出 H：
+
+> **当本地替代品租金较高时，C/O 产品也可能获得足够高回报，降低组织继续承担 T 风险的必要性。**
+
+禁止写成：
+> “中国游戏成功主要靠监管保护。”
+
+行业历史同时包含进口大作、代理、盗版、开放平台、强本地竞争和真实玩家选择，必须逐时期、逐市场检验。
+
+### 9.14 OPEN-MARKET TRANSFORMATION PRESSURE / 开放市场表型压力
+
+与 `PROTECTED_SUBSTITUTE_RENT` 对应：
+
+> **当母范式原作与全球最强竞品都能被目标用户直接选择时，后发产品若没有价格、服务或渠道上的巨大非设计优势，就必须回答“为什么玩家要换到我这里”。**
+
+这会提高对：
+- structural abstraction；
+- thesis formation；
+- selective inheritance；
+- differentiated phenotype
+
+的选择压力。
+
+2024中国官方出海报告显示：
+- 中国自研游戏海外收入185.57亿美元，同比增长13.39%；
+- 美国、日本、韩国仍是主要海外收入市场，美国占31.06%、日本17.32%、韩国8.89%；
+- 中国发行商与产品在多个成熟海外市场 TOP100 中数量增加。
+
+Source:
+https://www.nppa.gov.cn/xxfb/ywdt/202412/t20241216_877441.html
+
+因此中国头部公司近年的全球化不只是“多卖一些国家”，还意味着越来越多产品直接面对：
+- Steam / console 核心玩家；
+- 美日成熟本土竞品；
+- 同一品类的全球实时选择集。
+
+但必须注意：
+
+> **GLOBALIZATION ≠ T。**
+
+全球市场仍可能奖励：
+- 更强运营；
+- 更低获客成本；
+- IP；
+- 4X / SLG商业化；
+- 平台迁移。
+
+只有当全球验证与显著 phenotype shift 同时成立，才进入高等级 IPI。
+
+### 9.15 为什么 2021 后中国 T-attempt 上升可能具有结构原因
+
+当前有三个彼此独立但方向一致的信号：
+
+1. 腾讯2022公开判断，中国本土增长速度已放缓，并把全球市场、高品质PC/console与玩法演进列为增长方向；
+2. 2024 Reuters 报道腾讯减少部分高成本海外IP改编、提高自研和新玩法投入，原因之一是授权模式利润空间收窄与若干项目失败；
+3. 2026一项 *Journal of Economic Behavior & Organization* 研究发现，2018中国国内监管冲击显著推动游戏 app 企业资源向出口市场重新配置，而且高质量企业响应更强。
+
+Sources:
+https://www.tencent.com/zh-cn/we-see-growth-for-online-games-in-china-and-beyond/  
+https://www.reuters.com/technology/tencents-next-level-up-fewer-big-foreign-franchise-games-more-in-house-2024-03-21/  
+https://www.sciencedirect.com/science/article/abs/pii/S0167268126002842
+
+这些证据支持：
+> 中国头部游戏企业受到更强的全球化 / 自研压力。
+
+它们**不直接证明**：
+> 这些压力导致了 Naraka / Genshin / Marvel Rivals 等 T。
+
+因此当前只形成：
+
+# `SELECTION-PRESSURE CONVERGENCE HYPOTHESIS`
+
+> **随着本土增量、IP移植租金和部分渠道优势边际下降，同时全球收入的重要性提高，中国头部企业面对的产品选择环境开始更接近“必须与原作 / 世界头部正面竞争”的 frontier regime；这可能提高 T-attempt 的相对回报。**
+
+这是解释 2021–2026 convergence 的候选机制之一，需要项目时间线与公司资源配置数据验证。
+
+### 9.16 Tencent 2022 vs Riot 2021：两种公开“成熟范式创新”语言
+
+两家公司都明确承认：
+> 全新品类 / 全新玩法突破低频、高风险；已有成功范式上的持续演进是成熟商业公司的重要创新路径。
+
+但公开语言存在一个值得后续追踪的差异。
+
+#### Tencent / Steven Ma, 2022
+
+马晓轶将第二条路线称为“半代迭代”，并公开用：
+- open world；
+- sandbox；
+- craft；
+- co-op；
+- survival；
+- roguelike
+
+等高热度 gameplay keywords 描述一种路径：在现有玩法中融入一至两个关键玩法元素，使产品更有吸引力，并把《原神》《赛马娘》作为例子。
+
+Source:
+https://www.tencent.com/zh-cn/we-see-growth-for-online-games-in-china-and-beyond/
+
+#### Riot R&D, 2021
+
+Riot 对 inside-out opportunity 的公开定义则强调：
+- 为什么现有 product / design loop compelling；
+- 什么 problems 必须解决才能 expand the genre；
+- Thesis 要诊断机会 / 问题、提出解决路径；
+- 明确什么**不做**；
+- Prototype 优先 de-risk 决定成败的核心 innovation areas。
+
+Source:
+https://www.riotgames.com/en/news/r-d-foundations-opportunity-thesis-and-audience
+
+这形成一个非常有价值、但必须谨慎的比较 H：
+
+# `TAG-COMBINATION vs PROBLEM-THESIS`
+
+> 一种组织语言容易把创新机会表达为“成熟玩法 + 若干流行玩法标签的组合”；另一种语言则把创新机会表达为“理解母循环为何成立 → 找未解决问题 → 提出 thesis → 集中创新”。
+
+不能从两篇公开文章直接推出：
+- 腾讯内部只会 tag combination；
+- Riot项目都按 thesis 高质量执行；
+- 语言差异就是中美因果差距。
+
+但是它给下一轮 internal-process evidence audit 一个非常好的预测：
+
+> **高 T 组织是否更频繁地保存 problem / causal / thesis language，而低 T 组织是否更频繁地把外部范式压缩为 tag / feature / benchmark language？**
+
+这可以通过：
+- greenlight模板；
+- GDC / TGDC / developer talk；
+- producer postmortem；
+- JD；
+- 被砍项目复盘；
+- 员工访谈
+
+继续检验。
+
+
 ## 10. 数量级审计指标
 
 暂不把它们机械合成为一个总分。
