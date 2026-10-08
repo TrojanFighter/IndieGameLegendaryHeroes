@@ -552,3 +552,66 @@ Ghost再次显示：
 - 2004项目背景：https://www.ggmania.com/full.php3?show=five-moons-interview-5717
 - 2005仍在开发：https://www.dpk.com.ua/2005/08/27/18615/
 - 1C 2006发行：https://1c.ru/news/info.jsp?id=5792
+
+
+## 十四、Temporal：组织失败但核心成员进入Ice-Pick
+
+2004同期《Игромания》确认Temporal Games整个团队由15—16岁少年组成，当时只带来技术demo、尚无发行商；三名到场成员甚至没见过部分远程协作者。
+
+Vasiliy Kashnikov后来本人回忆：
+- 在Temporal Games担任coordinator、sound producer和game designer；
+- 团队开发The Tales of Walenir，项目最终未完成；
+- 参加多届KRI使他与Nikolay Dybowski及Ice-Pick成员建立联系；
+- 2007收到Ice-Pick测试任务并加入《The Void》。
+
+2008《The Void》credits已将Kashnikov列为Ice-Pick core team；2019《Pathologic 2》为Audio Director/Sound Designer/Music Composer，2026《Pathologic 3》仍在核心credits。
+
+因此：
+> organization/project failure → at least one identified core member retained and matured for 20+ years
+
+但Temporal完整团队人数/名单未取得，所以**不得计算PRR比例**。
+
+来源：
+- 2004同期报道：https://djvu.online/file/NHc7dPBDdXlA2
+- Kashnikov一手回忆：https://www.game-ost.ru/articles.php?action=view&id=69
+- The Void credits：https://www.mobygames.com/game/40062/the-void/credits/windows/
+- Pathologic 2 credits：https://www.mobygames.com/game/127461/pathologic-2/credits/windows-apps/
+- Pathologic 3 credits：https://www.mobygames.com/game/252841/pathologic-3/
+
+## 十五、严格新人6队的“至少一名人员留存”团队级下界
+
+使用固定的6支strict newcomer：
+- Ghost Software
+- Digital Spray
+- Sigma Team
+- MindLink
+- Spector
+- Temporal Games
+
+到2014窗口前后，已确认至少一名原核心成员继续商业游戏开发：
+- Ghost：Yevgeny Dlinnov → 2014《Prime World》
+- Digital Spray：Viktor Reutsky → 2011《From Dust》及后续Ubisoft
+- Sigma：2003首作4人核心在2009仍4/4出现在《Alien Shooter: Revisited》
+- MindLink：两位创始人到2009均在Ubisoft/Crytek后续商业开发
+- Temporal：Vasiliy Kashnikov → 2008 Ice-Pick core team，后续长期留业
+- Spector：人员后续仍UNKNOWN
+
+因此可以合法报告的只是：
+
+> **Team-level evidence of people retention by ~2014: confirmed lower bound = 5 / 6**
+
+这个指标的含义：
+“这支2004 newcomer团队是否至少有一名已识别核心成员，后来仍能确认在商业游戏开发。”
+
+它**不等于**：
+- 5/6员工留存；
+- 5/6组织存活；
+- 5/6仍做Premium；
+- Russia overall PRR。
+
+相反，同一6队的2009 active-development confirmed lower bound仍只有1/6（Sigma），因为组织层资料大量UNKNOWN。
+
+这个差距第一次在固定母体中给出一个机制信号：
+> **能力保存可能比组织保存更常见。**
+
+但效应量仍无法与中国比较，直到中国也建立同口径新人团队人员追踪。
