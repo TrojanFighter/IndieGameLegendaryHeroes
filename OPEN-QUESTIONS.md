@@ -225,8 +225,8 @@ contract/postmortem + counterfactual。
 
 ### OQ-010｜Capability Repricing：什么能力在什么时代突然值钱？
 **Status:** `SUBSTANTIAL` — `FRAMEWORK STRONG / SYNTHESIS + COUNTEREXAMPLES NEXT`  
-**Evidence in repo:** C015 及 CASE-042～060 已把 capability-shaped formation、FIT-TRAP、FIT-LOCK-IN、capital expansion、founder composition 等做成多种机制；中国 capability repricing 线亦已展开。  
-**Unresolved core:** 现在缺的不是更多漂亮正例，而是能力价格变化的时点、市场边界、失败反例和可迁移条件。  
+**Evidence in repo:** C015 及 CASE-042～060 已把 capability-shaped formation、FIT-TRAP、FIT-LOCK-IN、capital expansion、founder composition 等做成多种机制；中国 capability repricing 线亦已展开；[`048 能力复制陷阱与横向能力发现`](book/research-notes/capability-reproduction-trap-horizontal-discovery-048.md)进一步要求区分既有能力的价格变化、组织是否真的拥有目标 frontier practice，以及评价者能否识别新能力。  
+**Unresolved core:** 现在缺的不是更多漂亮正例，而是能力价格变化的时点、市场边界、失败反例和可迁移条件；同时不能用从业年限代理 frontier teaching / evaluator capacity，仍需直接观察 zero-to-one recency、prototype frequency、unlearning 与新实践的真实评价过程。  
 **Closure condition:** 能把“能力变值钱”拆成 `technology / distribution / audience / cost structure / regulation / toolchain` 至少数种可反驳机制，并有反例。
 **Question**  
 同一种能力为何在A市场被低估，在B市场成为创业优势？
