@@ -2,6 +2,8 @@
 
 [返回研究计划总图](../../PROGRAM-MAP.md)
 
+韩国持续国际化制度（Born Global / Absorptive Capacity）与中韩外力互补补证：[韩国002](../korea/002-global-information-network-and-absorptive-capacity.md)。包含NCsoft2000年跨国扩张、Smilegate×腾讯《穿越火线》反向知识输入、2025韩国四公司研究及公共出口支持的边界。
+
 韩国对照入口：[技术先发减弱后的国际能力获取与整合](../korea/001-post-lead-transnational-capability-acquisition-integration.md)：重点比较跨国人才搜寻、市场知识输入、外国判断进入立项的权利，以及与中国腾讯/网易全球投资的数量级差异；不误记为韩国“原创天赋”优势。
 
 台湾对照入口：[台湾游戏产业与两岸创作者研究](../taiwan/README.md)。两边共享证据标准，但台湾产业史和队列统计独立登记；避免把跨海峡厂商/人才网络拆成互不相关的两个封闭市场。
