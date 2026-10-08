@@ -589,3 +589,30 @@ Sources:
   https://store.hbr.org/product/good-communication-that-blocks-learning/94401
 - Argyris, “Interpersonal Barriers to Decision Making,” HBR 1966:
   https://hbr.org/1966/03/interpersonal-barriers-to-decision-making
+
+
+---
+
+## 20. 从Meeting-as-Exam进入Double Loop：需要先允许“今天不交最终卷”
+
+参见[中国032 / Section 28 决策节奏过拟合](../country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)。
+
+如果开放问题被组织为：
+```text
+on-the-spot prompt → fast answer → forced consensus → implementation
+```
+则决策团队甚至没有足够时间形成并公开可检验的governing assumptions。
+
+这类会议的核心错误**不一定是领导太强势**，也可能是：
+- 组织把调研劳动排除在可见工作之外；
+- 误把快速收敛当作智能；
+- 没有研究是否值得再获取信息；
+- 原有考试式时间结构被误用于开放域。
+
+Double-loop要求：
+- 明确目标是否允许重写；
+- 允许反证与未知；
+- 分配有价值的调查/原型时间；
+- 通过真实结果反向更新本组织的审题与评审方式。
+
+但若任务紧迫、信息增益低或决策可逆，立即采取小动作同样合理。**Double-loop不是无限开会、无限等证据。**

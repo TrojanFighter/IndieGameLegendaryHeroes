@@ -979,3 +979,176 @@ narrow reference repertoire + high closed-domain score
 与[研究050](../../book/research-notes/creator-selection-institution-comparison-050.md)、[研究051](../../book/research-notes/double-fine-amnesia-public-pitch-cohorts-051.md)及[普通作者PABL研究054](../../book/research-notes/pabl-solo-author-scope-down-career-054.md)联动。固定比较时点、提案分母和重复进入的作者，不能只访成功作品与高曝光工作室。
 
 ---
+
+
+---
+
+# 28. 决策节奏过拟合：开放问题为何被做成现场收卷？（2026-10-08增量）
+
+这一节不另立“中国人不会决策”的并行理论，而是在 `EXAM-OVERFIT` / `MEETING-AS-EXAM` 基础上，补入一个此前没有真正量化的维度：**组织究竟如何决定“什么时候回答、什么时候还应该研究”？**
+
+## 28.1 `DECISION-TEMPO OVERFIT / 决策节奏过拟合`
+
+作者提供的交流材料显示一种待验证的日常组织行为：
+
+- 模糊而重要的问题直到会议开始才交给相关人员；
+- 参与者在缺少资料与预研的条件下现场给出方案；
+- 上级把“很快能得到一个答复”视为工作效率；
+- 在非紧急情境下，主动申请更多调查、比较与试验时间的建议仍难被理解；
+- 当一份方案可以提交时，知识工作就被认定为已完成。
+
+这不是纯粹的权力压制，也不是“某位管理者性格差”的充分证据。问题在于：
+
+> **把封闭考试中“必须立即作答、到点交卷”的时间制度，迁移到本可通过新增信息大幅改善的开放决策。**
+
+对应旧章：
+- `EXTERNAL PROBLEM DEFINITION`；
+- `SHORT-CONTEXT PERFORMANCE`；
+- `ANSWER-CLOSURE BIAS`；
+- `COMPLETION OVER IMPROVEMENT`。
+
+但本节要再分开三个不同变量：
+1. `RESPONSE SPEED`：多快提交一个可听的方案？
+2. `DECISION QUALITY`：事前有多少证据、方案比较、错误代价审计？
+3. `LEARNING VALUE`：决策过程保留了多少可迁移知识和修正能力？
+
+高 response speed 不自动等于高 decision quality，也不自动意味着低质量。有些紧急、可逆、熟悉任务就应该立即决策。
+
+## 28.2 `VALUE-OF-INFORMATION BLINDNESS / 信息增益盲区`
+
+在决策分析中，额外调查、测试与证据搜集是否值得做，核心是比较：
+
+- 通过新增信息降低错误决策概率及损失的预期收益；
+- 调查/实验的直接成本；
+- 延迟决策带来的窗口损失和机会成本。
+
+正式邻接概念：`Expected Value of Information (EVI/VOI)` 与 `Expected Value of Sample Information (EVSI)`；这里借鉴其逻辑，**不声称能从匿名对话给出精确货币化数值**。
+
+S1：
+- ISPOR 2020 Value of Information Introduction：https://www.ispor.org/heor-resources/good-practices/article/value-of-information-analysis-for-research-decisions-an-introduction
+- 美国国家研究委员会《Environmental Decisions in the Face of Uncertainty》信息价值部分：https://www.ncbi.nlm.nih.gov/books/NBK200840/
+
+```text
+If expected benefit from better information > research + delay costs:
+    investigate / prototype first
+Else:
+    decide now / cheap reversible probe
+```
+
+因此：
+> **“现场拿出方案”与“先研究数日”之间不存在永远正确的答案；优秀的决策能力包括判断何时值得延迟收敛。**
+
+截图个例的诊断条件是：问题并非迫在眉睫、存在可低成本取得的新材料/对照方案、这些材料有实质可能改变决策，却没有被要求或允许获得。
+
+## 28.3 `RESEARCH WORK INVISIBILITY / 研究劳动不可见性`
+
+部分组织对“工作”的默认可见形态可能是：
+- 当场表态；
+- 很快提交PPT或方案；
+- 会议达成一致；
+- 任务开始执行。
+
+而：
+- 追踪资料来源；
+- 核验需求前提；
+- 扩展陌生案例；
+- 对冲突证据保留不确定性；
+- 设计能否证伪的 cheap experiment；
+
+容易被误认成尚未开始工作。
+
+这是一种**评价偏差候选机制**，不能根据一例认定普遍存在。
+
+它能使“做得好的人”承担额外不利：
+```text
+fast deliverable
+→ supervisor learns "one-day answer is available"
+→ next task allocates even less research time
+→ research/information-gathering becomes unbudgeted
+→ stronger exam-like decision loop
+```
+
+真正要问：
+> **组织记录的是“第一份方案何时交”，还是“最终决策在投入相同资源后有多大改善”？**
+
+这也连接 `双环学习`：如果组织只改进“下次开会更快提交”，却不检验“为什么要在会上决定”，反馈仍停在single-loop。
+- [跨行业：Double-Loop Learning / Defensive Routines](../../cross-industry/double-loop-learning-defensive-routines-001.md)。
+
+## 28.4 权力、父权、信息不对称与应试过拟合：四者不能互相替代
+
+对会议现场速答，至少存在四种竞争解释：
+
+| 候选机制 | 关键预测 | 反证方式 |
+|---|---|---|
+| `EXAM OVERFIT` | 非紧急开放问题也偏向现场速答、不能容忍“待查”，跨组织持续 | 同人遇开放问题会主动争取资料/时间 |
+| `AUTHORITY / STATUS` | 越高级越难承认未知、越有权现场收卷；下级缺修改题目权 | 同等组织权力下不同训练者行为明显不同 |
+| `INFORMATION ASYMMETRY` | 领导事先掌握资料/目标，实际只在分配执行任务 | 证据表明上级自身也无预研，需团队真正决策 |
+| `REAL URGENCY / COORDINATION` | 时间窗口短、决策可逆或信息难在期限内改善 | 低紧迫、收益大的研究同样被禁止 |
+
+相关动力还可能来自商业压力、行业经验、资源预算，而非仅教育经历。
+
+所谓“父权混入形式权力”目前保留为H；不能凭一段私聊证明具体组织或管理者的长期心理机制。
+
+## 28.5 决策过程四种正交能力
+
+1. `PROBLEM OWNERSHIP`：敢问目标本身对不对。
+2. `INFORMATION SEARCH`：知道缺什么，主动找材料。
+3. `DECISION-TEMPO CALIBRATION`：知道何时立即定、何时等证据、何时做可逆小实验。
+4. `FEEDBACK-BASED REVISION`：新信息来了会改题，而不只是优化原答案。
+
+“能立刻给出一个看上去合理的方案”主要测第2与第3项以外的一部分表达/经验调用能力；不能代表四项全部。
+
+## 28.6 反考试化会议协议：`QUESTION FIRST, EVIDENCE NEXT, DECISION LAST`
+
+仅用于**非紧急且真实存在多种开放选项**的任务，不把程序官僚化成另一套强制考试。
+
+**A. 明确决策问题和裁决权**
+- 谁决定？
+- 谁提出目标？
+- 谁承担错误代价？
+- 目标本身能不能被修改？
+
+**B. 先列最小信息缺口**
+- 现有事实/推测/未知；
+- 可能改变结论的证据；
+- 哪项资料几小时可得、哪项要几天；
+- 不等待的损失。
+
+**C. 至少保留两个可行动方案**
+- 包括“不行动/分阶段试”；
+- 每个方案的可逆性、资源、失败成本；
+- 避免把第一份上交方案当成默认获选方案。
+
+**D. 决定信息获取节奏**
+- 紧急、信息价值低：立即决策；
+- 不确定但可逆：小实验/原型；
+- 不确定、损失大且新证据可能改结论：先分配调查周期；
+- 若延迟本身代价高：同时购买选项或分阶段提交。
+
+**E. 会议不是收卷，而是裁决**
+- 哪项新证据改变了原方案？
+- 为什么此时已有足够理由commit？
+- 什么条件出现时我们会撤销本次决定？
+- 何时复盘预测误差和研究成本？
+
+这个协议绝不是说“每次都开三天会”；它强调以**信息价值与可逆性**选择动作时间。
+
+## 28.7 可证伪审计：同类项目比较即时会议与预研会议
+
+如果要验证此机制，采用固定起点的项目或会议队列，比较：
+- `ADVANCE_BRIEF_LEAD_TIME`：会前多久明确任务？
+- `EVIDENCE_EXPANSION`：有多少新的独立资料被吸纳？
+- `ALTERNATIVES_COUNT`：讨论过多少实质不同的方案？
+- `PREMISE_CHALLENGE`：是否允许改变目标？
+- `DECISION-TO-EXPERIMENT_LATENCY`：从意见到首个低成本验证多久？
+- `FORECAST_CALIBRATION`：事前置信区间与后续结果差异；
+- `REWORK_COST`：方向错误造成的返工与错失窗口；
+- `LEARNING_RETENTION`：复盘是否修改后续规则与决策权配置。
+
+测量时对任务难度、紧迫度、资料可得性、组织权力、行业生命周期和成员资历分层；不要“研究组赢一回”就推出普遍规律。
+
+**公开材料边界**：聊天截图仅用于匿名机制抽取，不保留普通人的可识别姓名、群聊细节和可反推的工作岗位。
+
+## 28.8 本轮结论
+
+> **应试过拟合不只决定“谁来出题”，还可能决定“大家认为多快交卷才算聪明”。真正的开放决策能力包括对新增信息价值的判断：必要时快速行动，必要时保护调查与原型窗口，必要时推翻最初题目。若组织把快速提交等同于高绩效，甚至把会前搜证和延迟收敛当成低效率，便会系统性地惩罚本来能改善决策的认识劳动。**

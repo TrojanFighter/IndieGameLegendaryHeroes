@@ -241,3 +241,25 @@ Decision Posture **不是事实状态，也不是对作者的自动指令**。�
 如果某传闻重要但基本不可恢复，应在 Case 中明确标记边界，而不是为了“毕业”删除或伪造确定性。
 
 详见 [`case-graduation.md`](case-graduation.md)。
+
+
+---
+
+## 11. Decision Tempo / Value-of-Information Gate（与 Exam Overfit 032 共用）
+
+在 WATCH / PROBE / HEDGE / ACT / NO_ACTION 之前，补充五个检查点：
+
+1. `decision_urgency`：截止时间真由外部窗口决定，还是由会议/汇报制造？
+2. `expected_information_value`：未来数小时/数日的调查、样本或原型，有没有实质可能改变决策？
+3. `information_acquisition_cost`：搜集证据及等待损失分别是多少？
+4. `reversibility`：先做可撤销试验是否比立即全面投入更好？
+5. `stop_rule`：什么信息足以决定行动？什么反证足以撤销？
+
+**不可把“回应速度”当“判断质量”；也不可把“继续调研”无条件当美德。**
+当新增信息期望收益低于调查与延迟成本时，迅速做决定是合理的。
+
+学理锚点：
+- ISPOR 2020 VOI good practices：https://www.ispor.org/heor-resources/good-practices/article/value-of-information-analysis-for-research-decisions-an-introduction
+- [中国032 / Section 28：决策节奏过拟合](../country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)
+
+这个Gate用于明确决策姿态与研究/等待成本，不会把Signal自动升级为Evidence。
