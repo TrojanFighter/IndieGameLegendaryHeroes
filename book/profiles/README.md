@@ -27,6 +27,7 @@
 - [Justin Ma、Matthew Davis / FTL](ftl.md)：储蓄、原型、职业退出选择如何被拆成逐步升级的判断。
 - [Chris Hunt / Kenshi](kenshi.md)：超长独立制作究竟怎样持续从生活中购买时间。
 - [Eric Barone / Stardew Valley](stardew-valley.md)：在作品中学习与反复重做，兼职、伴侣收入和发行外围如何支持四年多的个人核心制作。
+- [Team Cherry / Hollow Knight](hollow-knight-team-cherry.md)：jam小概念长大以后，储蓄、伴侣工作、工具与核心之外的协作怎样支撑制作。
 - [Psyonix / Rocket League](rocket-league.md)：一家公司怎样通过 work-for-hire 延续组织、留下第二次原创下注的条件。
 
 ## 我承担过损失，应该停下还是换一种作品继续
@@ -49,4 +50,4 @@
 - “工作、家庭与创业风险怎样衡量？” → [LR-002 受薪开发者](../life-routes/salaried-creator-staged-commitment-002.md) + [LR-003 家庭支出](../life-routes/household-high-burn-creator-003.md) + [机会成本比较研究](../research-notes/creator-life-cost-exit-comparison-2026-10-07.md)。
 - “成功后仍然要不要继续做最擅长的类型？” → [Zach Barth](zach-barth-zachtronics.md) 与 [Zachtronics 原始 Case](../../cases/CASE-051-zachtronics.md)。
 
-**边界：** 以上 13 篇是已有研究基础上整理的人物传记，不是 13 个可复制的人生模板；家庭支持、总投入工时和个人净收入等尚未核实部分均需标 UNKNOWN。
+**边界：** 以上 14 篇是已有研究基础上整理的人物传记，不是 14 个可复制的人生模板；家庭支持、总投入工时和个人净收入等尚未核实部分均需标 UNKNOWN。

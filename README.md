@@ -36,9 +36,10 @@
 - [Question / The Magic Circle → The Blackout Club](book/profiles/question-magic-circle-blackout-club.md) — 首作没有达到经营预期，却没有抹掉团队的下一作。
 - [Eric Barone / Stardew Valley](book/profiles/stardew-valley.md) — 学习与重做怎样延长项目，生活收入与发行外围如何支持个人核心制作。
 - [Toby Fox / Undertale](book/profiles/undertale-toby-fox.md) — 小项目与音乐协作怎样进入第一部正式游戏。
+- [Team Cherry / Hollow Knight](book/profiles/hollow-knight-team-cherry.md) — 小原型长大以后，生活来源、工具和协作者怎样支撑继续制作。
 
 
-[全部十三篇人物传记](book/profiles/README.md) · [机会成本与失败退出比较](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)
+[全部十四篇人物传记](book/profiles/README.md) · [机会成本与失败退出比较](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)
 
 如果你当前正面临实际项目抉择，优先走 [按处境进入｜作者型项目决策路由](book/DECISION-ROUTER.md)：把能力结构、runway/household risk 和项目阶段放到一起，判断这次应移动项目、团队、资本、能力，还是承诺。已经确认具体职业转换处境的读者可继续看 [Life Risk Routes](book/life-routes/README.md)（包括[作品方向已定但团队能力不足的 LR-004](book/life-routes/project-thesis-capability-gap-004.md)）；只想按专业强项找人物，再进入 [按主创者能力进入](book/READER-ARCHETYPES.md)。
 
