@@ -148,6 +148,7 @@
 - **教育形成**：回链[031 自我教育主权](031-education-east-asian-discipline-reference-repertoire.md)、[032 闭域迁移与决策能力合法性](032-exam-overfit-routine-expertise-open-domain-transfer.md)。
 - **社会版本意识**：回链[028 声望鉴别外包](028-imitation-of-greatness-prestige-copying-and-authorial-judgment.md)、[029 正统倒置](029-orthodoxy-inversion-chundeng-farmer-inventor.md)。
 - **人生决策读者入口**：承接[全书架构](../../book/BOOK-ARCHITECTURE.md)的“你是否学会自己出题？”；不要把本文未经案例验证的命题直接写成正式人物传记结论。
+- **史料教学实践**：新增[035 党史原始材料决策课程与17份候选原材料](035-party-history-original-sources-decision-education-curriculum.md)，把本章概念落实为原文版本鉴别、隐藏结局的决策节点、历史后果揭示、失败/异议镜像及八讲试行课程，严格区分已经可读与已完成多方史料包。
 - **后续实证优先级**：①逐页教材/教师用书/考试评分细则抽样；②不同教学呈现方式的史料学习实验；③真实领导者同期文件重构的盲化决策案例；④学校→原型社区→职业作者的固定队列。
 - **2026 transfer status**：`DURABLE`（区分证据与权威，独立复盘）；`CONDITIONAL`（教学方法效果须实测）；`UNKNOWN`（跨国普遍性、产业影响的效应量）。
 
