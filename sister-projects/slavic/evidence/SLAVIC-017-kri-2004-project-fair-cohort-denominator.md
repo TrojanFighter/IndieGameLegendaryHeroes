@@ -413,3 +413,86 @@ Project Fair cohort后续统一编码四种状态：
 - MindLink 2009：https://itc.ua/articles/nashi_igry_2009_37715/
 - Temporal同期年龄：https://djvu.online/file/NHc7dPBDdXlA2
 - Temporal取消：https://www.unseen64.net/tag/temporal-games/
+
+
+## 十一、失败组织的人才留存固定分母：MindLink与Digital Spray
+
+### A. MindLink：组织失败，但两位创始人到2009均仍在商业游戏开发
+
+2004同期采访明确：
+- MindLink由Maksym/Maxim Diachenko与Andrew Beletsky于2003年春共同创立；
+- Diachenko为team leader，Beletsky为game designer/co-founder。
+
+2009前后：
+- Diachenko：2007离开MindLink后任Crytek senior programmer，2008年底进入Ubisoft；《Tom Clancy's H.A.W.X》(2009) credits为Programming Team Lead；
+- Andrew Beletsky可与后续Andrii Biletskyi职业谱系对上：个人履历明确列Telladar Chronicles项目；《H.A.W.X》(2009) credits为Game Designer。
+
+因此对“2003两位创始人”这个预先固定的小分母：
+
+> **Founder PRR around 2009 = 2 / 2 confirmed**
+
+同时MindLink组织本身到2009已被同期乌克兰IT媒体描述为事实上停止存在。
+
+这只支持：
+> failed organization → both identified founders retained in commercial game development
+
+不能支持：
+> MindLink全队PRR=100%，更不能外推KRI新人总体。
+
+来源：
+- 2004 co-founder interview：https://www.ggmania.com/full.php3?show=telladar-chronicles-decline-q-amp-a-5672
+- Maksym Diachenko履历：https://www.mobygames.com/person/365470/maksym-diachenko/
+- H.A.W.X 2009 credits：https://www.mobygames.com/game/39804/tom-clancys-hawx/credits/windows/
+- Andrii Biletskyi项目履历：https://ca.linkedin.com/in/andrii-biletskyi-64b10313
+- MindLink 2009状态：https://itc.ua/articles/nashi_igry_2009_37715/
+
+### B. Digital Spray：7人核心的1年留存很高，5年只能报极保守下界
+
+固定《You Are Empty》(2006) Digital Spray内部核心7人：
+1. Pavel Muzok — Director
+2. Dmitry Sytnik — Technical Director / engine
+3. Andrei Frolov — sound/physics/system/tools
+4. Viktor Reutsky — physics/tools
+5. Yuriy Dobronravin — AI/system/scripting/design
+6. Vyacheslav Korotayev — system/scripting/design
+7. Maxim Korzhenevsky — sysadmin
+
+2007《Instinct》credits中7人全部再次出现：
+- Muzok management
+- Sytnik lead programmer
+- Frolov sound/system/tools/scripting/UI
+- Reutsky physics/tools
+- Dobronravin system/AI/scripting/design
+- Korotayev system/scripting/UI
+- Korzhenevsky sysadmin/testing/PR/web
+
+所以：
+> **core retention 2006→2007 = 7/7**
+
+但这只有1年，不是CMR/PRR-5。
+
+到约2011：
+- Viktor Reutsky可明确追到Ubisoft《From Dust》(2011) programmer，并继续出现在2012、2014、2015 Ubisoft credits；
+- Yuriy Dobronravin 2010只有Special Thanks/Thanks，不能据此确认当年仍是受雇核心开发者；
+- Sytnik、Muzok、Korotayev、Korzhenevsky等公开credits在2007后断裂，必须记UNKNOWN，不能记退出。
+
+因此以这7人为固定分母：
+> **2011 game-development retention confirmed lower bound = 1 / 7 = 14.3%**
+
+这只是“公开可确认下界”，真实PRR可能显著更高。
+
+来源：
+- You Are Empty credits：https://www.mobygames.com/game/28719/you-are-empty/credits/windows/
+- Instinct credits：https://www.mobygames.com/game/29682/instinct/credits/windows/
+- Viktor Reutsky 2011：https://www.mobygames.com/game/53038/from-dust/credits/windows/
+- Viktor Reutsky 2015：https://www.mobygames.com/game/75473/assassins-creed-syndicate/credits/windows/
+- Yuriy Dobronravin credits：https://www.mobygames.com/person/267014/yuriy-dobronravin/
+- Digital Spray company history：https://www.mobygames.com/company/9828/digital-spray-studios/
+
+### C. 一个额外的重要事实：Digital Spray本身也不是“全新人”
+Viktor Reutsky在2001《Hover Ace》中已经有AI/Physics Programmer credit，说明即使Digital Spray公司2001成立，其部分技术核心在首个商业发行前已有外部商业游戏经验。
+
+来源：
+https://www.mobygames.com/game/50029/hover-ace/credits/windows/
+
+因此后续新人研究仍需坚持LN/TN/PDN，不把“新公司”当成“全新人才”。
