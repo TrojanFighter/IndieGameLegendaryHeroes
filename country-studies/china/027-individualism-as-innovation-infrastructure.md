@@ -14,6 +14,7 @@
 - Japan counterexample:
   - [Japan 001 — East Asian Counterexample / Bounded Eccentricity](../japan/001-japan-east-asian-counterexample-weird-kinship-and-game-creator-ecology.md)
 - Hacker/production extension: [028 — Hacker Spirit × Scale Down × Commercial Anti-Training](028-hacker-spirit-scale-down-commercial-antitraining.md)
+- Education / cognition upstream: [031 — Education × East-Asian Discipline × Reference Repertoire](031-education-east-asian-discipline-reference-repertoire.md) / [032 — Exam Overfit](032-exam-overfit-routine-expertise-open-domain-transfer.md)
 - Boundary: 本文反对把国家创新差异压缩成“民族性”；文化倾向只作为变量之一，必须和市场、产权、署名、流动、家庭、组织与生产制度联动。
 
 ## 0. 核心修正：个人主义不是一个变量，而是一条链

@@ -75,6 +75,55 @@
 
 因此，一个人在封闭题域里的高表现，不能自动证明其能处理开放问题。
 
+## 应试教育过拟合：AC-008 的上游统一机制
+
+作者此前多轮讨论里已经出现“应试教育过拟合”这一更上游命题，现正式与本条目合并。
+
+> **长期在外部出题、稳定评分、有限材料、短时收敛的环境里获得高回报，会把人训练成训练分布内极强的 routine solver；风险发生在这种封闭域高表现被错误泛化到开放世界。**
+
+本项目简称：
+
+# `EXAM-OVERFIT / 应试教育过拟合`
+
+它不是机器学习意义上的字面同一，也不是“成绩好=不会创新”。
+
+其最接近的外部研究邻接是：
+- routine expertise vs adaptive expertise；
+- transfer failure；
+- teaching-to-the-test / assessment narrowing。
+
+与本条目的关系：
+
+```text
+EXAM-OVERFIT
+→ CLOSED-DOMAIN TRANSFER ERROR
+→ external problem acceptance
+→ weak goal formation / weak problem ownership
+→ benchmark capture / answer closure
+→ open-domain mismatch
+```
+
+因此，“中国好学生综合征”以后不再只作为人格描述，而优先作为**训练分布—任务分布失配**研究。
+
+详细国家机制章：
+- [China 032 — Exam Overfit](../country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)
+
+### 典型作者观察：会议也可以被做成考试
+
+此前老中讨论反复出现：
+- 上级临时到场才给问题；
+- 下级现场输出意见；
+- 默认聪明人应该快速答；
+- 很少提前给几天调查研究；
+- 形成可交方案即视为完成；
+- 下一次进一步压缩思考时间。
+
+这类现象统一记作：
+`MEETING-AS-EXAM`。
+
+其研究重点不是“领导有没有权决定”，而是：
+> **本应通过研究、信息扩展和多轮方案比较完成的开放决策，为何被组织成一次现场限时答卷？**
+
 ## 游戏产业里的典型表现
 
 这条母题特别适合用游戏开发来检验，因为做游戏同时要求执行与问题定义。
