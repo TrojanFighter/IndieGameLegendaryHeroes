@@ -1,47 +1,31 @@
 # 按主创者能力进入｜你手里已经有什么？
 
-> **新增跨出身人物分诊（2026-10-08）**：如果你已经有非游戏本职、技术美术、嵌入式程序或评论/游戏阅历，却担心“必须先辞职/补齐所有能力/拿到专业策划头衔”才能做出自己的题目，优先读[054 五作者生计与scope抉择](research-notes/creator-exit-scope-five-biographies-china-us-054.md)，再分流[053 希罗×亚恒同期人物史](research-notes/ciga-heero-akaba-two-creator-life-crossroads-053.md)、[Gunpoint](profiles/gunpoint.md)、[The First Tree](profiles/david-wehle-first-tree.md)和[early id](profiles/early-id-doom.md)。这些是**个体机制**，不代表中美同职业总体机会率。
-
 © 2026 洪荒行者。All Rights Reserved.
 
-这不是性格测试，也不是“什么职业最适合做独立游戏”。
+如果想找与你能力相近的人，从下面的人物开始。如果正在决定下一步怎么投入，先看 [按你的处境进入](DECISION-ROUTER.md)，比较已有能力、能支持多久制作、家庭风险与项目阶段，再判断要改变作品、能力、合作、资金还是投入程度。更具体的处境见 [人生路径](life-routes/README.md)，包括 [大厂老兵转作者项目](life-routes/big-company-veteran-to-author-001.md)。
 
-**如果你现在真正想解决的是“我下一步该做什么”，先不要从职业进入。**
-优先走 [按你的处境进入｜作者型项目决策路由](DECISION-ROUTER.md)：先判断 capability、runway / household risk 与 project stage，再决定应该移动项目、能力、团队、资本还是承诺。更具体的人生处境见 [Life Risk Routes](life-routes/README.md)，当前第一篇是 [LR-001 大厂老兵转作者项目](life-routes/big-company-veteran-to-author-001.md)。
+本页按能力找人物，不给职业排成功率。同样做技术美术、程序或策划，实际做过什么、能独立解决什么，可能相差很远。
 
-本页是第二级入口，只回答：
+能力相近，能承担的风险也未必相近。稳定工资、房贷、育儿、储蓄和再就业条件，都会影响一次制作能持续多久。还要看原型得到什么反馈、市场证据是否足够。进一步比较见 [人生风险决策对照](research-notes/creator-life-decision-audit-p0-backfill-024.md)与 [生计支持和扩团队的时机](research-notes/creator-life-decision-audit-p1-backfill-025.md)。
 
-> **如果你今天已经拥有一种明显强于其他能力的资本，哪些人物最值得先看？**
+如果你的经验来自非游戏本职、嵌入式程序、评论或长期玩游戏，可以另读 [五位作者怎样安排生计、缩小作品](research-notes/creator-exit-scope-five-biographies-china-us-054.md)，再比较 [希罗与亚恒](research-notes/ciga-heero-akaba-two-creator-life-crossroads-053.md)、[Tom Francis](profiles/gunpoint.md)、[David Wehle](profiles/david-wehle-first-tree.md)和 [early id](profiles/early-id-doom.md)。这些个体经历能帮助辨认选择与条件，不能估计中美同职业人群的机会率。
 
-“出身”只是起点，不是命运。岗位名称不能代替能力审计；同样的 Technical Artist、程序员或策划，真实能力结构可能完全不同。
+**能力反向立项**是本页的一条研究线索：有些作者在作品成形时就利用自己的强项、避开昂贵的弱项，改变了游戏本身的做法。它不只是将一个既定游戏删小。正式命题 [C015](../claims/C015-capability-shaped-project-formation.md)目前为 `SUPPORTED`，综合讨论见 [研究笔记](research-notes/capability-shaped-project-formation-001.md)。各入口保留历史年份与2026时效状态；当年的传播渠道需要重核，人物怎样调整作品仍值得比较。
 
-本页按**能力结构**进入，但能力不是唯一坐标。一个 24 岁单身程序员、一个有稳定工资的 31 岁制作人、一个 35 岁有房贷孩子的创作者，即使能力类似，也不应承担同样的项目风险。对应的第二坐标是 Creator Life / Decision Audit：household、runway、退出能力、验证结构与 market sufficiency。当前研究入口见 [P0 人生风险决策对照](research-notes/creator-life-decision-audit-p0-backfill-024.md)；runway 结构与“何时扩团队”的进一步比较见 [P1 Runway / Evidence-Following Scaling](research-notes/creator-life-decision-audit-p1-backfill-025.md)。
-
-每条入口同时标记历史年份和 **2026 时效状态**。具体平台打法过期，不等于案例失去价值；真正要保留的是项目如何围绕能力不对称重新定义问题。
-
-这里新增一个更前置的机制：**能力反向立项（Capability-Shaped Project Formation）**。有些作者不是先想一个标准游戏再按预算削减，而是先知道自己会什么、不会什么，再反过来定义一个最适合这组能力的项目。正式命题见 [C015](../claims/C015-capability-shaped-project-formation.md)，综合笔记见 [能力反向立项](research-notes/capability-shaped-project-formation-001.md)。
-
-## 我是 Technical Artist / 技术美术 / visual-first
+## 我擅长技术美术、动画或视觉表达
 
 ### 第一站：The First Tree / David Wehle
 
-> 已升级为 **CASE-042 / RESEARCHING**；这里把它作为 Technical Artist / visual-first 的第一批正式锚点。
+先读 [David Wehle人物稿](profiles/david-wehle-first-tree.md)。他有影像、交互和视觉设计前史，前作帮助他进入The VOID做Unity技术美术。制作The First Tree时，他保留全职工作，也要照顾家庭。
 
-为什么适合先看：
-
-- Wehle 的旧作品集把自己描述为 interactive / motion / multimedia 方向；
-- 前作帮助他进入 The VOID 做 Unity technical artist；
-- GDC 2019 复盘明确以“全职工作 + 两个孩子 + 极少时间”完成 The First Tree 为题；
-- 本项目已经把它正式列入 Capability–Project Fit 样本：重点不是“不会代码也能成功”，而是 visual / technical-art 强项是否直接塑造了短时长探索、现成资产改造、强截图/GIF 表达与受控系统复杂度的产品形态。
+2016年的开发文章中，Wehle明确选择短而简单的作品，购买和修改模型、音乐与脚本，把时间集中在环境、叙事和用户体验上。2019年GDC回顾又以全职工作、两个孩子和有限时间为题。比较他的经历，可以问：**你的视觉强项能否同时影响玩家体验、制作范围和对外呈现？** 这仍不能证明某一种传播方式造成了销量。
 
 **观察窗口：** 约 2016–2019。  
 **2026 状态：** `CONDITIONAL`。
 
-值得保留：
-> visual strength → product shape → market surface 的双重杠杆。
+研究档案为 `CASE-042 / RESEARCHING`，尚不是完整人生与财务记录。
 
-必须重核：
-> 当年的 Reddit / Imgur / Tumblr / Twitter 传播路径、独立 3D 视觉稀缺度、商店竞争密度。
+视觉能力如何参与作品设计与对外呈现，值得保留；当年的Reddit、Imgur、Tumblr、Twitter传播路径、独立3D视觉稀缺度与商店竞争密度，今天都需要重新核查。
 
 直接材料：
 - [GDC 2019 — No Time, No Budget, No Problem: Finishing 'The First Tree'](https://www.gdcvault.com/play/1025702/No-Time-No-Budget-No)
@@ -56,12 +40,9 @@
 
 ### 第二站：Everything / David OReilly
 
-> 已升级为 **CASE-043 / RESEARCHING**；它与 The First Tree 构成第二种 visual-first 结构，而不是同一路径的重复。
+动画作者David OReilly提供另一种比较。Everything的动物运动采用抽象处理；他在2018年回顾中说，这既涉及成本，也在把注意力从视觉写实移开。看起来简单的运动仍有技术难度；Damien Di Fede承担程序实现，另有音乐、声音、建模和优化等协作者。
 
-适合研究：
-> 动画 / 视觉作者怎样把传统动画弱项或高成本问题重新定义成作品语言，而不是硬补完整工业管线。
-
-状态：`RESEARCHING`；核心 abstraction / problem-redefinition 机制为 `DURABLE`，2017 平台与注意力环境为 `CONDITIONAL`。
+这里可追问：哪些昂贵制作要求可以改成作品自己的表达方式？研究状态为 `RESEARCHING`；抽象与重新定义问题的机制标为 `DURABLE`，2017年的平台与注意力环境为 `CONDITIONAL`。
 
 研究入口：
 - [CASE-043 — Everything / David OReilly](../cases/CASE-043-everything-david-oreilly.md)
@@ -70,24 +51,15 @@
 
 ### 第三站：Nomada / GRIS → Neva
 
-> **CASE-050 / RESEARCHING**。这不是“美术去补程序”的路线，而是 `CAPABILITY-COMPOSED`：visual thesis 先出现，再由 illustrator + AAA programmers 组成互补 founding capability。
+先读 [Nomada人物稿](profiles/nomada-gris-neva.md)。Conrad Roset有视觉构想，Adrián Cuevas与Roger Mendoza有多年商业游戏程序经验。三人在2019年回顾中说，GRIS先出现，工作室围绕它成立。2024年访谈又说明，2D与横向卷轴适合Roset的背景，也有助于控制节奏。
 
-适合先看，如果你的问题是：
-> **我有很强的视觉/叙事作者性，但自己并不具备完整游戏生产能力；应该学成 generalist，还是找共同作者？**
+如果你已有视觉或叙事方向，自己却做不完整，这组经历适合比较“继续学习”与“寻找共同作者”。共同创始人带来的能力伴随着股份、作者权利、决策权与长期关系。研究档案仍为 `RESEARCHING`，互补创始能力记作 `CAPABILITY-COMPOSED`。
 
-Nomada 的关键不是“Conrad Roset 画得好”，而是：
-- project thesis 先于公司；
-- Roset 的 visual-author capability 与 Cuevas/Mendoza 的 technical/AAA capability 在 founding stage 组合；
-- 2D / side-scroller 本身部分服务 Roset 的背景与 pacing control；
-- 共同创始人不是免费补能力：真正成本是 equity、authorship、control sharing 与长期关系依赖。
-
-**2026 状态：** `DURABLE` mechanism；2016–2018 publisher / Gamescom / indie-art market window 为 `HISTORICAL / CONDITIONAL`。
+**2026 状态：** 互补创始能力的机制为 `DURABLE`；2016–2018年发行商、Gamescom与独立艺术游戏市场窗口为 `HISTORICAL / CONDITIONAL`。
 
 研究入口：
 - [CASE-050 — Nomada / GRIS → Neva](../cases/CASE-050-nomada-gris-neva.md)
 - [CASE-050 Evidence Ledger](../evidence/CASE-050-nomada-gris-neva-source-ledger.md)
-
----
 
 ---
 
