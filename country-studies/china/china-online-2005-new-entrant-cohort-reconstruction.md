@@ -200,3 +200,82 @@ https://games.sina.com.cn/y/n/2005-11-30/1505134741.shtml
 - 2005那24家有多少活下来。
 
 这些必须靠逐公司cohort追踪。
+
+
+## 八、新公司爆发 ≠ 新能力同比产生
+
+2005调查的多个同期样本已经说明，组织数量增长不能直接解释成“新人能力同步增长”：
+
+- 网禅上海研发公司2004年11月成立，但调查称开发人员“大部分都是当地有多年游戏开发经验的开发精英”；
+- 游戏米果2003成立，但2004年底才建立自主研发工作室，研发与运营并非同一年龄；
+- 渡口2005年成立，但与2002年的磐石研发能力高度绑定；
+- 天畅2005公司化，但前身团队2004已开始底层与引擎研发；
+- 锐速公开法人时间更早，2005调查却把它描述为“今年才组建”的团队。
+
+来源：
+- https://news.17173.com/zhuanti/res/2005/cs/webzen/index.htm
+- https://news.17173.com/zhuanti/res/2005/cs/miguo/index.htm
+- https://news.17173.com/zhuanti/res/2005/cs/dkps/index.htm
+- https://news.17173.com/zhuanti/res/2005/cs/tcwl/index.htm
+- https://news.17173.com/zhuanti/res/2005/cs/ruisu/index.htm
+
+因此2005“新成立公司24家”必须至少拆成：
+- true-new team；
+- new legal shell / old core；
+- old company / new R&D unit；
+- publisher/operator adding in-house development；
+- foreign/港台公司在大陆新建研发中心。
+
+在24家完整名单未重建前，不得把“24家新公司”直接解释成“24批新开发者”或“24个新人培养入口”。
+
+## 九、人才扩张中的策划供给稀释信号
+
+2005《中国网络游戏原创力量调查报告》公开数据：
+- 行业从业人员大幅增长；
+- 专业技术人员从3143增至4175；
+- 策划人员仅从708增至722，一年只增加14人；
+- 报告把“人才缺口”列为原创研发的首要问题，并解释策划缺少对口教育、主要依赖行业内师徒传承；成功策划又经常转向团队管理。
+
+来源：
+- https://tech.sina.com.cn/i/2005-12-01/0711779574.shtml
+- https://tech.sina.com.cn/i/2005-12-01/1219780331.shtml
+- https://games.sina.com.cn/y/n/2006-08-24/1523164371.shtml
+
+这支持一个限定很窄的命题：
+
+> **2004→2005的高速组织扩张，没有同比产生策划/综合玩法决策能力。**
+
+但不能写成长期结构定律，因为《2006中国网络游戏研发力量报告》又报出：
+- 总研发人员13908；
+- 策划1352；
+- 同时仍称策划“数量质量都有待提高”。
+
+来源：
+- https://tech.sina.com.cn/i/2007-01-17/11581339810.shtml
+- https://tech.sina.com.cn/i/2007-01-18/08321341219.shtml
+
+因此2006的跃升存在两种待核解释：
+1. 真实的策划供给补涨；
+2. 统计岗位定义/覆盖范围变化。
+
+没有原始表格和后续年份岗位分项前，两者都不能直接判定。
+
+## 十、这条线真正要测的是 Decision-Capability Formation
+
+“策划人数”本身仍不是“有能力提出新问题的人数”。
+
+后续应分层：
+- junior planner headcount；
+- senior planner / lead designer；
+- shipped-project experience；
+- final design-right；
+- original problem-selection responsibility；
+- producer/manager conversion。
+
+真正待测命题是：
+> **产业规模扩张速度是否长期快于高经验玩法决策者的形成速度，从而导致每单位研发人口可获得的成熟设计判断被稀释？**
+
+当前状态：
+- 2004→2005：SUPPORTED AS SHORT-RUN SIGNAL；
+- 2006以后：UNKNOWN；
+- 强因果：UNKNOWN。
