@@ -104,6 +104,46 @@
 - 哪些生产难题被转移给外部 contributor / publisher / platform？
 - 哪些弱项没有消失，而是被作者用长期手工劳动硬扛？
 
+## 2A. Constraint-response / Hacker-mode audit
+
+对任何小团队、solo、spinout、AAA→indie案例，额外检查：
+
+- `default_response_function`：遇到能力缺口时第一反应是什么？
+  - HIRE / BUDGET / DEPARTMENT
+  - DELETE
+  - RESHAPE
+  - ABSTRACT
+  - SYSTEMATIZE
+  - BUY / LICENSE
+  - CONTRACT / SPECIALIST PERIPHERY
+  - AUTOMATE / TOOL / AI
+  - DEFER
+- `hands_on_proof`：是否先做可玩物，而不是只做PPT/立项文档；
+- `prototype_latency`：idea→first playable大致多久；
+- `scale_down_mode`：
+  - THESIS-PRESERVING
+  - FEATURE-CUTTING
+  - LABOR-COMPRESSION
+  - UNKNOWN
+- `fixed_burn_before_player_truth`：low / medium / high / unknown；
+- `permission_dependency`：是否必须先获得正式资源批准才能验证；
+- `benchmark_dependency`：是否因为缺少成熟对标而无法继续；
+- `resource_reflex`：缺能力是否自动转成招聘/扩编；
+- `industrial_grammar_carryover`：从旧组织带走哪些规模/流程默认值；
+- `indie_retraining_evidence`：是否有明确的retraining / unlearning / small-team adaptation动作；
+- `hacker_mode_substrate`：jam / mod / hobby project / toolmaking / reverse engineering / side-project continuity。
+
+核心反事实问题：
+
+> **如果不能新增headcount，这个项目会如何被重新定义？**
+
+以及：
+
+> **在核心玩家价值尚未证明前，团队已经承担了多少不可逆production obligation？**
+
+Canonical:
+- [China 028 — Hacker Spirit × Scale Down × Commercial Anti-Training](../country-studies/china/028-hacker-spirit-scale-down-commercial-antitraining.md)
+
 ### 3. Aesthetic conversion
 
 特别检查：
