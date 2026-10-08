@@ -22,7 +22,7 @@
 
 [第一章：目标不是先想清楚的——先做一点，现实才开始回答你是谁](chapters/01-goals-are-made-not-found.md)
 
-Romero、Carmack、Tom Francis 的故事放在一起，会看到一种和“先确定职业目标，再规划人生”完全不同的路径：长期兴趣先发生主动转换，作品和外部反馈再把目标逐渐变得可信。
+Romero与Carmack从早期编程、制作和发表走向合作；Tom Francis则从游戏评论走向可供别人试玩的原型。跟着这些经历，可以看兴趣怎样进入实际工作，作品和反馈又怎样让目标逐渐具体。
 
 ### Part II — 先买时间，不要先赌命
 
@@ -30,7 +30,7 @@ Romero、Carmack、Tom Francis 的故事放在一起，会看到一种和“先�
 
 [第二章：先买几个月试错——做自己的事之前，先解决谁替你付时间](chapters/02-buy-time-before-betting-your-life.md)
 
-FTL、Kenshi、Psyonix 走了三条完全不同的路，却都在回答同一件事：高不确定性项目如何先获得时间，而不是第一天就承担最高固定成本。
+FTL的两位创作者用储蓄留出几个月，Chris Hunt用夜班工资维持多年制作，Psyonix靠客户合同保住公司和原创空间。先看谁支付制作时间、能付多久，再判断什么时候值得承担更大的成本。
 
 ### Part III — 失败到底有没有价值
 
@@ -38,7 +38,7 @@ FTL、Kenshi、Psyonix 走了三条完全不同的路，却都在回答同一件
 
 [第三章：失败不是资产——只有留下下一次还能使用的东西，失败才开始值钱](chapters/03-failure-only-matters-if-something-survives.md)
 
-Rocket League 和 Bills Must Be Paid 说明，失败不会自动变成“经验”。真正重要的是有没有留下下一次还能带走的能力、工具、领域知识、平台知识和判断。
+Psyonix重新制作前作尝试过的车球玩法，Rike把多年原型与平台学习带进《Bills Must Be Paid》。两条经历都要追问：过去留下的能力、工具和判断，具体在哪一步还能使用？失败本身不会自动升值，也不能保证下一次成功。
 
 ### Part IV — 技术时代不会替你做选择
 
@@ -46,7 +46,7 @@ Rocket League 和 Bills Must Be Paid 说明，失败不会自动变成“经验�
 
 [第四章：技术时代不会替你做选择——有人用现成工具，有人重组平台，有人自己造出窗口](chapters/04-technology-will-not-choose-for-you.md)
 
-Tom Francis、Brendan Greene 和 John Carmack 分别代表三种不同技术位置：继承已经扩散的工具、重组已有 substrate、以及自己推进 frontier。技术会改变可行解，但不会替创作者完成选择。
+Tom Francis借GameMaker检验玩法，Brendan Greene在Arma / DayZ已有的世界里修改规则，Carmack与early id团队则推进所需的引擎能力。现成工具、能力重组和主动研发解除的是不同约束；剩下的选择仍要由创作者承担。
 
 
 ### Part V — 市场不是最后一步
@@ -55,7 +55,7 @@ Tom Francis、Brendan Greene 和 John Carmack 分别代表三种不同技术位�
 
 [第五章：市场不是最后一步——有时玩家、钱和反馈在“做完之前”就已经进入生产系统](chapters/05-market-interface-is-production.md)
 
-Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可能同时提供 runway、反馈、legibility 和约束；有曝光也不等于市场接口有效。
+Minecraft在制作中获得玩家付款与反馈，Factorio用官网付费alpha延续开发，Rike把原计划发售的内容改成试玩。Brigador也做过展会展示、媒体与创作者联络，正式发售反应仍很弱。本章比较钱、反馈和产品理解怎样进入制作，以及这些接触带来的承诺与负担。
 
 
 ### 跨篇章专题 — 作者型项目怎样获得所缺能力
@@ -84,7 +84,7 @@ Subset为不同作品留出探索时间，thatgamecompany接过发行与服务�
 
 ## 想直接读人物
 
-如果你更喜欢完整人物传记，而不是跨案例章节，可以进入 [人物传记目录（当前 13 篇）](profiles/README.md)。以下是全部入口：
+想跟随一个人或团队的经历，可以进入[人物传记目录（当前13篇）](profiles/README.md)，或直接从下面选一篇：
 
 - [early id / DOOM：游戏少年怎样把兴趣变成工具、公司和一个新行业](profiles/early-id-doom.md)
 - [Kenshi：夜班保安如何把时间变成一间工作室](profiles/kenshi.md)
@@ -108,21 +108,9 @@ Subset为不同作品留出探索时间，thatgamecompany接过发行与服务�
 
 本书不会因为主角最后成功，就把过去倒写成命中注定。
 
-每个故事都尽量保留：
+开工前的能力，以及工资、储蓄、伴侣、客户、平台、福利和前作收入等支持，需要和后来的作品放在一起看；各篇只记录有证据的部分。失败、错误判断、历史技术条件与偶然的巨大好运，也参与了人生走向。还有一些条件无法复制，一些事实至今不知道。
 
-- 当事人开工前已经拥有的能力；
-- 工资、储蓄、伴侣、客户、平台、福利、前作等隐形支持；
-- 失败和错误判断；
-- 历史技术窗口；
-- 右尾运气；
-- 不可复制条件；
-- 仍然不知道的事实。
-
-所以这里不会告诉你：
-
-> “照着他做，你也会成功。”
-
-它更希望让人在投入几年真实人生以前，多看见几个通常会被传奇删掉的问题：
+照着成功者做，不能保证成功。在投入几年真实人生以前，可以多问几个传奇常常略去的问题：
 
 > **他当时到底拥有什么？付了什么？为什么敢继续？什么时候才有资格加码？失败以后还剩下什么？**
 
@@ -132,9 +120,9 @@ Subset为不同作品留出探索时间，thatgamecompany接过发行与服务�
 
 现金预算并不等于真实劳动成本；众筹额不等于净收入；游戏完成不等于可以靠销售维持生活。见 [人生机会成本与失败回撤第一轮比较](research-notes/creator-life-cost-exit-comparison-2026-10-07.md)，对照 SpaceChem、GRIS、The First Tree、Limit Theory、The Magic Circle 与 Spiderweb，保留未能核实的家庭账和职业机会成本。
 
-### 不是所有创作者都有媒体专访
+### 从十八次普通公开创作继续读
 
-我们也开始从完整公开名册而不是成功新闻出发：[Week Sauce 2022.04 的18个普通提交作品](research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)，以及 [2026 年对18个原提交账号的后续回访](research-notes/week-sauce-2022-public-creator-followup-033.md)、[2022—2025 具名合作者的再次合作证据](research-notes/week-sauce-contributor-collaboration-graph-034.md)。包含耗时两天的未完成原型、作者对 scope 的直接承认、完整版本和过期状态标签等真实边界。它是小型公开尝试队列，不是“普通人成功率”。
+除了受访人物，还可以看[Week Sauce 2022年4月的18项提交](research-notes/public-unfeatured-week-sauce-apr-2022-cohort-031.md)：有人只做了两天，有未完成原型，也有完整版本，页面状态有时已经过期。后续记录包括[2026年对18个原提交账号的回访](research-notes/week-sauce-2022-public-creator-followup-033.md)和[2022–2025年具名合作者再次合作的证据](research-notes/week-sauce-contributor-collaboration-graph-034.md)。这些公开痕迹能让人看到不同的继续方式；18项提交仍不能用来计算普通人的成功率。
 
 ## 想核证据，进入研究后台
 
