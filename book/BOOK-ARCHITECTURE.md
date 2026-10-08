@@ -324,6 +324,9 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 
 ## 横向研究入口 — 什么制度把玩家、员工和团队筛成下一代作者？
 
+- [051 — Double Fine Amnesia Fortnight：失败提案人的第二次机会](research-notes/double-fine-amnesia-public-pitch-cohorts-051.md)：固定2012/2017/2026公开署名创意及各届短期原型机会，追踪多次未入选、再次入选、长期重新开发和获得授权后市场失败；区别“作者再次尝试”与“同一游戏成功”。2026独立后众筹档位加权投票说明市场可以参与内容筛选，但不等于项目融资或作者IP权利已授予。
+
+
 - [050 — 腾讯NExT × 网易Mini × Supercell Spark：筛选单位和原型权](research-notes/creator-selection-institution-comparison-050.md)：将2018年NExT的2–5人、100人天评审、30–40候选／十余进入产品化；网易六周新人Mini项目；2025年Supercell Spark的30人参与／5团队获认可，按不同统计单位和年代严格隔离。原型存在性已证实，跨国数量级与生存率仍UNKNOWN。
 - **人物阅读入口**：有创造能力但没有出题权的人先读Part I与中国行业版本现状；已提出可玩假说但无法得到公司资源的人先看Part V的市场接口、046的决策权账本；项目成功后需分配作者/组织权利者进入Part VI。不因一本企业手册的理念就声称员工有完整IP与退出权。
 
