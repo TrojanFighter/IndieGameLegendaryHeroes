@@ -3,6 +3,8 @@
 - Program: C / 中国国情研究
 - Status: **2024 FINALIST 40/40 PUBLIC TITLES + TEAM ALIASES RESTORED / PRELIM 75 IMAGE STILL UNTRANSCRIBED / OUTCOMES NOT_ASSESSED**
 - Observation date: 2026-10-08
+- **2026公开轨迹首轮完成：** [031完整40项初查表](031-cusga-2024-40-finalist-public-followup-firstpass.md)，8项高置信Steam原项目、1项带公开成员谱系的itch可下载版本，2项Steam同名/玩法相符但团队别名待核。至少2个已验证Steam项目在**2024-06决赛前已发售**，不能算“获奖后上市”；其他项目未见匹配不是失败。
+
 - **Priority update:** [007 样本裁决](007-workforce-authorship-sampling-pivot-and-comparators.md) 已确定 CUSGA 是**P2 public-project archival frame**，不是中国作者性研究的唯一主样本、也不是P0在职人群研究的前置 blocker。即使抽完75份获选作品也不能推大厂雇员的私人项目发生率。
 - Links: [002 GGJ深圳](002-ggj-2024-shenzhen-nanshan-public-attempt-pilot.md) / [003 非入场者](003-nonentrants-upstream-cohort-and-survey-selection-audit.md) / [004 中传作品—就业](004-cuc-creator-training-to-career-cohort-gates.md) / [006 毕设团队的职业分流](006-cuc-mousu-to-doraccoon-decision-fork.md) / [抽样门控](../../schemas/creator-visibility-sampling-gate.md)
 - Scope: **公开作品和主办者的汇总记录**；不以游戏发售、媒体曝光、奖项为入样前提；不猜匿名学生的私生活、就业或家庭条件。已有失败研究和著名创始人仍是机制档案，不是此 cohort 的人数证明。
@@ -28,7 +30,7 @@
 | 初赛入围 | 75 | selected game | **主办方同期名册在图片**；原始文本/去重尚未复核 |
 | 决赛入围 | 40 | selected game | **40/40题名+团队公示名已恢复**；原始项目唯一ID/玩家下载URL及全员身份仍未确认 |
 | 奖项 | 多奖 | award | 同项目可能拿多个奖，不能把获奖个数当团队人数 |
-| 2026公开商业/就业后续 | UNKNOWN | game / team / person | 尚未采用统一搜索协议追踪所有入选作品 |
+| 2026公开产品/就业后续 | FIRST-PASS for finals 40; employment UNKNOWN | game / team / person | 031已逐项初查40项；高置信Steam匹配8项、另有itch可下载1项；职业和非公开继续创作完全未知 |
 
 **特别禁止：** 2000 ÷500 推「4位学生做1款游戏」；500-75 推「425个失败游戏」；75-40 推「35个中止项目」；40个入围当「中国独立创作者40人」。评审淘汰和项目失败从来不是同一个变量。
 
