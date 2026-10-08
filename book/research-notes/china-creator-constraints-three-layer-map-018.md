@@ -121,6 +121,101 @@ Source:
 Source:
 - Wei Liu, “China’s Educational Paradox: Does an Exam-centric System Allow Space for Creativity?”, *China Report* 62(3), 2026, 358–369. DOI: 10.1177/00094455261447217.
 
+
+## 1.3.5 Pre-Firm Creator Substrate｜入厂前创作者底材构成假说
+
+NExT、网易 Mini、FragPunk 等案例说明，中国大厂内部并非不存在 prototype、低成本 option grant、非资历型提案和项目重开机制。因此一个需要上调优先级的竞争解释是：
+
+> **大型游戏公司的组织机制差异可能被高估，而进入这些公司的创作者在入职前已经形成怎样的能力与经验分布，可能被低估。**
+
+这不是说“大厂都一样”，也不是把行业层取消。更安全的工作模型是：
+
+```text
+OBSERVED INNOVATION OUTPUT
+≈ PRE-FIRM CREATOR SUBSTRATE
+× ORGANIZATIONAL SELECTION ARCHITECTURE
+× PRODUCTION REGIME
+× MARKET / CAPITAL ENVIRONMENT
+```
+
+其中 **PRE-FIRM CREATOR SUBSTRATE** 不是人格、天赋或“民族性”，而是进入职业组织以前已经形成的经验分布，例如：
+
+- 广度与深度足够的游戏阅历；
+- 跨领域阅读 / 文化输入；
+- 自己出题而非只完成任务的经历；
+- hobby project / mod / UGC / jam / prototype history；
+- 把知识做成 artifact 的习惯；
+- 对模糊、失败和没有标准答案任务的耐受；
+- 在没有外部评分器时建立学习议程的能力；
+- 对国际同行、工具、作品与讨论的直接信息接入。
+
+这要求把教育重新理解为**上游 selector**，而不只是课堂训练：
+
+> **教育、家庭与 credential pipeline 不仅改变一个人的能力，也改变“什么样的人最终更容易进入名校—大厂候选池”的分布。**
+
+若长期高收益选拔主要奖励有限题面优化、规则遵循和可预测绩效，那么即使下游公司拥有不错的 prototype 制度，进入制度的人才池也可能已经较少包含长期 hobby authoring、极宽 reference set、强 problem ownership 或高未验证偏离耐受的人。此时问题不是公司“杀掉”了所有异端，而是部分异端在到达公司以前已经没有进入候选分母。
+
+这与前文 **Selection Function Mismatch** 的区别是：
+
+- Selection Function Mismatch：学历/考试成绩不能充分测量原创游戏所需能力；
+- Pre-Firm Creator Substrate：长期选拔还可能改变进入职业组织的人群经验分布与 proposal distribution。
+
+因此应把创新系统拆成两种多样性：
+
+### PROPOSAL-SUPPLY DIVERSITY / 提案供给多样性
+
+> **进入组织的人，实际能提出多少种彼此不同的问题？**
+
+### SELECTOR DIVERSITY / 选择器多样性
+
+> **组织允许多少种不同判断函数去识别这些问题？**
+
+只有第二项而缺第一项时，公司即使有多个 innovation committee，也可能反复从高度相关的 proposal pool 中选择；只有第一项而缺第二项时，异质人才进入组织后又可能被同一套 benchmark 过滤。
+
+### 外部证据：支持机制，但不支持单因归因
+
+**Zheng & Liang 2023** 明确反对“中国学生总体创造力更低”的简单命题，但提出应试教育对拔尖学生的创造力可能尤其不利，并将潜在机制拆为：知识掌握的宽度/深度、冒险与质疑精神、对不确定性的容忍以及内在动机。这与本项目关注的 problem ownership / ambiguity tolerance 有机制重合，但仍不能直接推出游戏行业结果。
+
+**Cui, Hau & Zhao 2026** 使用 PISA 2022 做跨国多层模型，发现高风险考试使用更多的教育系统总体上更可能出现较低的 creative-thinking scores，并发现学校在高风险环境中可能增加形式化的“创新活动”而没有实质提升创造性思维。该研究是跨国关联与机制分析，不构成“中国考试制度 → 中国游戏原创不足”的直接因果证明。
+
+Sources:
+- Yuan Cui, Kit-tai Hau & Qian Zhao, “Does High-Stakes Testing Hinder the Cultivation of Creative Thinking? An International Comparison from the Perspective of Institutional Logics,” *Journal of East China Normal University (Educational Sciences)* 44(4), 2026, 22–39. DOI: 10.16382/j.cnki.1000-5560.2026.04.003. https://xbjk.ecnu.edu.cn/EN/abstract/article/1000-5560/11292
+- OECD, *PISA 2022 Results Volume III: Creative Minds, Creative Schools* (2024): https://www.oecd.org/en/publications/pisa-2022-results-volume-iii_765ee8c2-en.html
+
+### 强反压力：高考试压力不是充分解释
+
+PISA 2022 creative-thinking 结果中，新加坡与韩国位居最高组，同时两地也拥有强学业竞争与高考试压力传统。OECD 还显示，高学业表现与高创造性思维并不天然矛盾；香港、澳门、中华台北则出现“数学/阅读/科学强，但创造性思维相对没有同等领先”的不同组合。
+
+因此禁止写：
+
+> “考试多，所以创造力低。”
+
+更值得检验的是一个交互项：
+
+> **单一高权重选拔 × 缺少替代创作通道 × hobby/游戏/阅读机会成本 × 家庭/职业合法性压力 × 低 prototype exposure**
+
+是否比“考试强度”单变量更能解释 creator substrate 的差异。
+
+这也使韩国成为重要反压力样本：若韩国同样存在高度考试竞争，却在游戏产业长期表现出更强的国际信息接入、跨国人才/项目吸收和产品问题重组能力，那么“应试教育”必须和其他 upstream / industry variables 联合解释，不能独占因果。
+
+### 对“大厂训练反转”假说的修正
+
+目前更安全的优先级应从：
+
+> “中国大厂把本来很有原创性的年轻人训练坏了”
+
+改为同时比较两个过程：
+
+1. **UPSTREAM COMPOSITION EFFECT**：什么样的人、带着什么 game/reading/maker history 进入大厂；
+2. **IN-FIRM TREATMENT EFFECT**：进入同一类 production regime 以后，岗位目标函数又如何继续强化或削弱 problem ownership。
+
+若未来发现中美/中韩相似岗位、相似组织机制下，入职新人在 hobby authoring、game breadth、prototype history、ambiguity tolerance 等变量上已经存在显著分布差异，则应把更多解释权上移到教育/社会化阶段。
+
+反之，如果控制这些入厂前变量后，不同公司仍表现出显著的 problem-reopening / authorial-continuity 差异，则行业组织仍承担独立解释力。
+
+本节状态：**H / HIGH-PRIORITY COMPETING EXPLANATION**。当前没有足够 cohort data 给“上游人才池 > 大厂制度”分配因果权重。
+
+
 ## 1.4 对独立开发者真正重要的教育层变量
 
 后续案例统一编码：
