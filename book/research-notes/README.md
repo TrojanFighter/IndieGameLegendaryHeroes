@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`capability-reproduction-trap-horizontal-discovery-048.md`](capability-reproduction-trap-horizontal-discovery-048.md) — 区分 Training Withholding、Incumbent Capability Ceiling 与 Evaluator Capability Gap；提出 Capability Reproduction Trap / Horizontal Capability Discovery Network，强调资历不等于 frontier teaching capacity，并把公司垂直学徒制与 Jam/mod/原型社区的横向新实践发现分开。
+
 - [`industry-triangle-decision-rights-audit-046.md`](industry-triangle-decision-rights-audit-046.md) — 回看作者 2023 年“行业三角关系”，将其转为 THESIS / GREENLIGHT / SCOPE / BUDGET / MARKET / IP / EXIT 七类 decision-rights 的纵向人物审计；不重复中国 017–021 的需求、渠道及作者品牌研究。
 - [`experience-capital-creator-conversion-gates-047.md`](experience-capital-creator-conversion-gates-047.md) — 从资深玩家到作者的 G0–G6 转换关口：鉴赏、体验假说、可玩原型、真实纠错、付费回流、第二次生产；与中国 019 的社会鉴赏基础设施分工，要求固定队列分母及失败/未入场者。
 
