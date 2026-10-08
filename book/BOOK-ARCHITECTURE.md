@@ -322,6 +322,12 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 当前首章：
 - [市场不是最后一步：有时玩家、钱和反馈在“做完之前”就已经进入生产系统](chapters/05-market-interface-is-production.md)
 
+## 横向研究入口 — 作者从哪里获得选题权与真实市场反馈？
+
+- [046 — 行业三角关系：作者决定权的取得、守住与失去](research-notes/industry-triangle-decision-rights-audit-046.md)：从 2023 年作者旧文出发，用七项可审计权利追踪立项、融资、市场验证、公司治理和退出，不以头衔/成功直接代替决策权。
+- [047 — 体验资本转换的七道 Gate](research-notes/experience-capital-creator-conversion-gates-047.md)：把“玩得多”与“知道问题、做出原型、迭代、收回成本、再做一次”逐层区分；固定起点样本与未入场者关系比成功者名录更重要。
+- 这两篇是**研究层桥接笔记**，不是完成后的书稿 Chapter；原有中国 017–021、AC-004/005 与 OQ 已有详细专题，不平行复制。后续只有在外部 Case / Evidence 足以讲清人物抉择后才提炼为章节。
+
 ## 横向研究入口 — 谁有资格告诉强作者“你错了”？
 
 - [042 — Carmack × Romero：互补能力如何变成高频纠错网络](research-notes/carmack-romero-complementary-error-correction-network-042.md)：Dangerous Dave技术突破的战略解释、Wolf3D push-wall争执、Doom design↔engine翻译、Quake纠错延迟，以及Tom Hall/市场作为第三方反压力。
