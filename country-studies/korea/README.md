@@ -7,6 +7,7 @@
 ## 当前主文件
 
 - [001 — 技术先发衰减之后的跨国能力获取与整合](001-post-lead-transnational-capability-acquisition-integration.md)：PUBG的外国Mod作者+美国子公司Steam市场知识；NCsoft/ArenaNet、Nexon/Embark、Pearl Abyss/CCP、Krafton/Unknown Worlds、Tango；中国腾讯/网易反例；Striking Distance失败及Unknown Worlds治理纠纷；待建跨国完整队列。
+- [002 — 全球信息网络与吸收能力：NCsoft早期跨国组织、Smilegate×腾讯《穿越火线》、KOCCA制度](002-global-information-network-and-absorptive-capacity.md)：研究技术先发期形成的海外网络如何在后续支持国际知识获取与产品决策，保留中国能力输入的对照。
 - 原始人物Case：[PUBG / Brendan Greene](../../cases/CASE-032-pubg-brendan-greene.md)。
 - 对照研究：[中国028“仿制伟大”](../china/028-imitation-of-greatness-prestige-copying-and-authorial-judgment.md)、[中国商业制度谱系](../../book/research-notes/china-game-commercial-regime-lineage-003.md)、[中外团队选择050](../../book/research-notes/creator-selection-institution-comparison-050.md)。
 
