@@ -69,6 +69,21 @@ Krafton企业官方LinkedIn在2026年发布：公司2026年运营19家创意工�
 
 **差异候选**：中国主流组织从本土支付、网吧与F2P渠道获得的回报，可能使国内市场可解释性/数据标准在更多岗位主导投资语言；而韩国一些组织的全球销售、海外团队与市场适应责任较早进入产品定义。但应按年份、企业、岗位、产品类型、组织规模、行业人头与资金体量对齐，直到取得统计证据。
 
+## 七·二、最新压力测试（2025–2026）：中国企业也在国外寻找作者，而且同样遭遇组织整合和机会成本问题
+
+中国不是只在别的游戏取得销量后内部复制：网易2023年扶持了Rich Vogel领导的美国T-Minus Zero Entertainment，目标是开发原创科幻多人动作游戏；但2025-08-29 *Game Developer*确认网易已关闭该工作室。创始人在公开声明中称投资方曾提供时间与资金完成可玩演示，但随后不再继续支持。这是**先作者/后作品投资发生过，却未能持续至发行**的负例，而不是中国公司缺乏海外开发者搜寻的证据。
+S1 / direct studio statement in report: https://www.gamedeveloper.com/business/netease-shuts-down-rich-vogel-led-t-minus-zero-entertainment
+
+腾讯在美国的Lightspeed LA由有Rockstar等履历的Steve C. Martin领导，为原创AAA《Last Sentinel》组建团队。2026-07-28公告指出内部评审、试玩后重定创意/开发方向；2026-07-29媒体引述GamesBeat称约80人受到裁员影响。属于**确实引入全球资深创作人才，却在可玩/评审阶段发生昂贵重组**的观察样本，不能以此推断中国人不敢开发未被数据证明的原创产品，也不能以外籍资深履历预设未来成功。
+S1: https://www.invenglobal.com/articles/24270/tencent-conducts-layoffs-at-north-american-subsidiary
+S1中文报道与公司声明转述: https://finance.sina.com.cn/jjxw/2026-07-29/doc-iniknmic0027069.shtml
+
+韩国Krafton于2026-01-15的官方经营战略宣告26款新项目处于管线，并积极执行成熟IP/M&A与未成熟新IP并行的战略；后续对外披露包括全球19家创意工作室、过去一年新接入15位创意领导者。**这不是26款已经成功发售的原创游戏**；研究应继续追踪取消、资产减值、产品效果、主创权利和退出。
+P0 / Krafton Japan公告：https://prtimes.jp/main/html/rd/p/000000361.000082433.html
+P0 / Krafton官方声明：https://www.linkedin.com/posts/krafton-inc_gearing-up-for-whats-next-krafton-will-activity-7424617700213026817-fIIf
+
+**横向比较结论：**韩国Krafton和中国腾讯/网易都已经进行海外创作团队引入与未上市新项目投资；差异可能在长期存活率、信息进入决策、投资后治理、原型失败时是否保存创作团队，而不能用一边的投资意图和另一边的取消纪录直接比较质量。两国负例均必须纳入同一队列。
+
 ## 八、下一轮实证清单
 
 - **信息先行时间**：从国外Mod/玩法第一次可见，到国内企业第一次资源投入相隔多久？对照韩中所有样本，不只PUBG/网易荒野。
