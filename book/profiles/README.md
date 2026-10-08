@@ -14,6 +14,7 @@
 
 - [John Romero / John Carmack 与 early id / DOOM](early-id-doom.md)：两个兴趣和能力结构迥异的少年怎样成为合作伙伴、制造技术窗口，后来又分道扬镳。
 - [Tom Francis / Gunpoint](gunpoint.md)：长期评论工作培养的比较与判断，如何由 GameMaker 变成可以让玩家反驳的项目。
+- [Toby Fox / Undertale](undertale-toby-fox.md)：私人小作、修改游戏与公开作曲，怎样进入大学时期的系统原型、协作与第一部正式作品。
 
 ## 我需要找到能承担得起的作品形态
 
@@ -48,4 +49,4 @@
 - “工作、家庭与创业风险怎样衡量？” → [LR-002 受薪开发者](../life-routes/salaried-creator-staged-commitment-002.md) + [LR-003 家庭支出](../life-routes/household-high-burn-creator-003.md) + [机会成本比较研究](../research-notes/creator-life-cost-exit-comparison-2026-10-07.md)。
 - “成功后仍然要不要继续做最擅长的类型？” → [Zach Barth](zach-barth-zachtronics.md) 与 [Zachtronics 原始 Case](../../cases/CASE-051-zachtronics.md)。
 
-**边界：** 以上 12 篇是已有研究基础上整理的人物传记，不是 12 个可复制的人生模板；家庭支持、总投入工时和个人净收入等尚未核实部分均需标 UNKNOWN。
+**边界：** 以上 13 篇是已有研究基础上整理的人物传记，不是 13 个可复制的人生模板；家庭支持、总投入工时和个人净收入等尚未核实部分均需标 UNKNOWN。

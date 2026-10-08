@@ -160,7 +160,7 @@ Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签�
 优先看：
 - [David Wehle / The First Tree 人物传记](profiles/david-wehle-first-tree.md) — technical artist 如何在全职工作、育儿时间与外部素材间安排有限人生；[CASE-042 研究档案](../cases/CASE-042-the-first-tree.md)；
 - [CASE-043 Everything / David OReilly](../cases/CASE-043-everything-david-oreilly.md) — `RESEARCHING`；
-- [Undertale / Toby Fox](../cases/CASE-010-undertale.md) — 音乐、UGC/社区与作者性；
+- [Undertale / Toby Fox人物稿](profiles/undertale-toby-fox.md) — 音乐、小项目与作者性；[研究档案](../cases/CASE-010-undertale.md)。
 - [despelote](../cases/CASE-023-despelote.md) — 文化、声音、地点记忆与低资产密度表达；
 - [Nomada / GRIS → Neva 人物传记](profiles/nomada-gris-neva.md) — Conrad Roset 的视觉作者性与两位 AAA 程序员怎样组成真正的共同作者；[CASE-050 研究档案](../cases/CASE-050-nomada-gris-neva.md)。
 
