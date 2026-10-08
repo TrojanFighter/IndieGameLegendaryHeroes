@@ -606,6 +606,44 @@ Canonical:
 
 ---
 
+## 11H. Spinout vs Indie-Mode Conversion
+
+当人物/团队从成熟组织离职创业时，禁止把 founder 身份直接编码成 indie author。
+
+额外记录：
+
+- `employment_exit`
+- `ownership_exit`
+- `product_divergence`
+- `objective_function_exit`
+- `production_mode_exit`
+- `spinout_mode`: SCALE-CONTINUITY / AUTHORIAL-STUDIO / INDIE-MODE / INFRASTRUCTURE-CAPITAL-TOOL / UNKNOWN
+- `problem_ownership`
+- `scope_plasticity`
+- `fixed_burn_discipline`
+- `hands_on_creator_density`
+- `player_truth_proximity`
+- `capability_shaped_formation`
+- `governance_optionality`
+- `selective_capability_retention`
+- `subtraction_capability`
+- `status_decompression`
+- `pre_existing_authorial_substrate`
+- `mode_by_phase`
+
+强制区分：
+- entrepreneurship ≠ indie；
+- new product ≠ new objective function；
+- founder ownership ≠ authorial autonomy；
+- premium ≠ indie；
+- small team ≠ indie；
+- studio identity can change across projects.
+
+Canonical:
+- [China 026 — Spinout ≠ Indie](../country-studies/china/026-spinout-vs-indie-mode-conversion.md)
+
+---
+
 ## 12. Capability Scaling
 
 当核心成立后，创作者是否能把它做成稳定产品：
@@ -704,6 +742,7 @@ Canonical:
 - Creative surplus allocation / future capture: # when relevant
 - Creator-class formation / ecosystem externality: # when relevant
 - Mobility / spinout topology: # when relevant
+- Spinout vs indie-mode conversion: # when relevant
 - Capability scaling:
 - Major unknowns:
 ```

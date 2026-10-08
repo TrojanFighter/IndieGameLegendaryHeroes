@@ -5,6 +5,7 @@
 - As-of: 2026-10-08
 - Parent: [023 — Creator Class Formation](023-creator-class-formation-intergenerational-reproduction.md)
 - Quantification ledger: [025 — Alumni → Spinout Quantification v0.1](025-alumni-spinout-quantification-ledger-v01.md)
+- Indie-mode correction: [026 — Spinout ≠ Indie](026-spinout-vs-indie-mode-conversion.md)
 - Creative surplus: [022 — Creative Surplus Allocation](022-creative-surplus-allocation-rights-customer-future-control.md)
 - Attribution: [021 — Attribution Politics](021-attribution-politics-credit-regimes-author-power.md)
 - Boundary: 本文研究人才流动如何影响创新扩散，不主张“流动越高越好”，也不把California非竞业制度单独当成Silicon Valley成功的充分原因。
@@ -709,3 +710,42 @@ Atari→Activision→Imagic正是一个微型例子。
 - senior-alumni denominator；
 - unique-founder de-duplication；
 - 3/5/10年outcome cohort。
+
+
+## 22. Mobility-to-Ownership 之后仍需再问一次：有没有进入Indie Mode？
+
+024研究：
+```text
+employee
+→ exit
+→ founder / owner
+```
+
+但026强制继续拆：
+
+```text
+founder / owner
+→ new product?
+→ new objective function?
+→ new production mode?
+→ authorial small-team route?
+```
+
+因此：
+> **高Mobility-to-Ownership Conversion不等于高Indie-Mode Conversion。**
+
+一个市场完全可能：
+- 高跳槽；
+- 高创业；
+- 高融资；
+- 高新公司形成；
+
+但新公司主要继续：
+- F2P；
+- MMO；
+- live service；
+- AAA/AA；
+- licensed IP；
+- large-team production。
+
+这仍然是强创业生态，却不是同一个“独立游戏运动”问题。

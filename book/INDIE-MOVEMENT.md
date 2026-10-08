@@ -136,6 +136,43 @@ https://gamestudies.org/1601/articles/garda
 
 ---
 
+## 四-A、创业公司不等于独立游戏
+
+本书新增一个强制区分：
+
+```text
+employee leaves company
+→ founder / owner
+```
+
+只证明：
+> **ownership / employment independence提高。**
+
+它不自动证明：
+- creative independence提高；
+- production scale下降；
+- fixed burn下降；
+- direct player truth提高；
+- 项目由creator capability反向塑形；
+- 产品进入现代indie cultural movement。
+
+因此必须区分：
+
+1. **Founder School**：一个母公司是否容易培养创业者；
+2. **Indie School**：这些创业者中，有多少真正把旧组织的objective function和production grammar一起拆掉。
+
+例如：
+- 一个前大厂团队融资数千万、拿大型licensed IP、扩建完整部门，也可以是完全独立的创业公司；
+- 一个内部小团队则可能没有ownership independence，却具有很强creative independence与prototype autonomy；
+- 一个独立studio可以随着成功从indie-mode逐渐成长为大型工业组织。
+
+所以“indie”不是法人状态，也不是创始人股权状态。
+
+详细审计：
+- [China 026 — Spinout ≠ Indie](../country-studies/china/026-spinout-vs-indie-mode-conversion.md)
+
+---
+
 ## 五、为什么这本书会研究后来变成“大商业游戏”的案例？
 
 因为我们研究的不是标签，而是**生产能力和原创机制的历史谱系**。

@@ -47,6 +47,30 @@
 `spinout_conversion_rate = founders / senior alumni`
 因为绝大多数公司尚无可信senior-alumni总数。
 
+## 1.1 Spinout账本不再承担Indie判断
+
+025只回答：
+> **母公司是否产生新的产权/创业节点？**
+
+它不再从“founder”直接推导“indie creator”。
+
+详细拆分见：
+- [026 — Spinout ≠ Indie](026-spinout-vs-indie-mode-conversion.md)
+
+新增可选字段：
+- `spinout_mode`: SCALE-CONTINUITY / AUTHORIAL-STUDIO / INDIE-MODE / INFRASTRUCTURE-CAPITAL-TOOL / UNKNOWN；
+- `authorial_divergence`: HIGH / MEDIUM / LOW / UNKNOWN；
+- `indie_mode_affinity`: HIGH / MEDIUM / LOW / UNKNOWN；
+- `mode_by_phase`: 若工作室随年份/项目改变生产方式，必须按阶段记录。
+
+强制规则：
+- founder-owned ≠ indie；
+- new genre ≠ new objective function；
+- small team ≠ indie；
+- premium ≠ indie；
+- venture-backed ≠ automatically non-indie；
+- 同一studio不可被永久贴一种production-mode标签。
+
 ---
 
 # 2. Atari — 高直接spinout、早期级联非常清楚
@@ -636,6 +660,37 @@ miHoYo现在最大的研究价值不是“创业率”，
 
 ---
 
+# 10.1 Spinout数量不能回答“Indie School”
+
+025当前样本经026修正后，应这样读：
+
+| Parent | Founder/ownership reproduction | Indie-mode inference |
+|---|---|---|
+| Atari | strong early spinout cascade | independent-production ancestor；不能套现代indie标签 |
+| Looking Glass | selective direct spinout + broad influence | authorial exits存在；逐案判断 |
+| Blizzard | strong alumni-founder ecology | **不能据此推断高indie conversion** |
+| id | serial-founder strong | early independent lineage较强；后续混合 |
+| Valve | outward spinout较少 | community→professional强；不是同一指标 |
+| Tencent | clear founder school | Lilith等商业创业≠indie；Game Science是阶段性/延迟作者转型 |
+| NetEase | visible owner-conversion wave | indie-mode affinity当前大多UNKNOWN |
+| miHoYo | heterogeneous exit routes | solo / commercial / tool / creator routes需分开 |
+
+所以：
+> **Founder School 和 Indie School 是两个正交问题。**
+
+Blizzard的≥9 G1节点首先证明：
+- ownership exit；
+- alumni network；
+- entrepreneurial recombination。
+
+它不能单独证明：
+- small-team authorial production；
+- low-burn experimentation；
+- capability-shaped projects；
+- direct-player market logic。
+
+同理，腾讯出现莉莉丝、游戏科学等高质量spinout，不能合并成“腾讯独游生态”。
+
 # 11. 当前最重要的三个结论
 
 ## 11.1 `SPINOUT DENSITY ≠ INFLUENCE DENSITY`
@@ -723,6 +778,48 @@ id / Romero类型提示：
 分开。
 
 ---
+
+# 13.1 下一版必须新增两组分母
+
+025原本只准备补：
+
+```text
+Spinout Conversion
+= founder outcomes / senior-alumni cohort
+```
+
+026之后必须再增加：
+
+### `AUTHORIAL-DIVERGENCE RATE`
+creator-owned spinout中，有多少真正脱离母公司的objective function？
+
+### `INDIE-MODE CONVERSION RATE`
+senior-alumni founder中，有多少进入：
+- bounded small-core；
+- low fixed burn；
+- hands-on creator density；
+- capability-shaped project；
+- direct player truth；
+- governance optionality
+
+的independent-production route？
+
+这样才可能出现真正有意义的对比：
+
+```text
+Company A:
+high spinout
+low indie conversion
+
+Company B:
+lower spinout
+high indie conversion among exits
+```
+
+前者是强创业学校；
+后者可能是强作者转换学校。
+
+二者都值得研究，但不是同一种生态。
 
 # 13. 当前最小结论
 
