@@ -180,6 +180,26 @@
 - Boundary:
   - from Q4 2007 onward portfolio metrics are not single-game ZT metrics.
 
+## E011 — 2007 annual expense mix and core game architect option incentives
+
+- Source class: P0 — SEC-filed full-year earnings release and statements
+- Title: Giant Interactive Group Inc., Fourth Quarter and Fiscal Year 2007 Financial Results (Form 6-K)
+- Author / Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
+- Published: 2008-02-19
+- Accessed: 2026-10-08
+- URL: https://www.sec.gov/Archives/edgar/data/1415016/000119312508034863/d6k.htm
+- Claim use:
+  - fiscal 2007 `Research and product development expenses`: **RMB26.918m**, versus `Sales and marketing expenses`: **RMB189.403m**; their same-year reported expense ratio is approximately **7.0:1**;
+  - the company reported a **RMB3.0m quarter-over-quarter increase in option expenses** in 2007 Q4 associated with additional stock options issued as performance incentives to **core game architects**;
+  - management attributed increased R&D expenditure in part to hiring additional game architects and engineers, and increased sales/marketing in part to national sales expansion and training.
+- Confidence: HIGH for filed accounting and contemporaneous disclosed rationale; MEDIUM for management explanations of causes.
+- Boundary:
+  - **not a whole-project lifetime production/marketing budget**; R&D accounting can reflect capitalization and timing, and marketing includes organization-wide expenses;
+  - **not industry headcount or career-selection evidence**; no inference from spend ratio to employee ratio, pay ratio, promotion probabilities, originality or decision rights;
+  - the RMB3m is the **change in reported Q4 option expenses** linked to additional grants, not a literal RMB3m cash bonus pool, share value, or named employee count;
+  - the year includes diversification toward Giant Online; expense structure is company-wide rather than single-game cost attribution.
+- Related analytical note: [048 — reward-to-author selection](../book/research-notes/revenue-to-career-selector-audit-048.md).
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
