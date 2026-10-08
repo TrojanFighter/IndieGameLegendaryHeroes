@@ -324,6 +324,9 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 
 ## 横向研究入口 — 什么制度把玩家、员工和团队筛成下一代作者？
 
+- [055 — 未完成第一作的主程、完成但没取得市场认可的作者、失去同伴的工作室](research-notes/unshipped-creator-gates-china-spain-credit-055.md)：2022《RESTART》、2024《昆仑工程》、2016《The Swarm》当事人同期自述，及2023 IGDA共777名自愿受访者的离职署名信心。把“不满意而不敢发布”“完成后玩家否定”“scope涨价+4人→2人团队断裂”“工作信用不能确定地转移”分为四个不同的损失门，不因个案推中外频率。
+
+
 - [054 — 先出题还是先辞职？两位中国作者×Gunpoint×The First Tree×early id](research-notes/creator-exit-scope-five-biographies-china-us-054.md)：2017–2021希罗／亚恒的非游戏职业背景、2018真实10章→6章临时缩减与不同cash runway，对照2010–2013 Francis试玩修改与发售后辞职、2016–2017 Wehle不辞职且外包弱项、1990–1991 id靠shareware回报才独立。将“先拥有问题主权”和“后来取得经济独立”严格分开，书稿章节需等中国人物Case/Evidence来源账本成熟后再迁移。
 
 
