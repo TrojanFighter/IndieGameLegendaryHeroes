@@ -368,22 +368,29 @@ last_verified_date
 
 它只把**要测什么**从作品层推进到了人生层。
 
-## 7. 下一轮应如何做成真正的 cohort
+## 7. 下一轮 cohort：第一步已完成，下一步换到职业可观察入口
 
-优先使用已有 [028 媒体选择与分母协议](media-selection-survivorship-and-denominator-protocol-028.md) 的 fixed-entry 思路：
+[045 Beginner Friendly Game Jam 2020 固定入口追踪](beginner-jam-public-authorial-persistence-cohort-045.md) 已按 [028 媒体选择与分母协议](media-selection-survivorship-and-denominator-protocol-028.md) 完成第一轮 pilot：
 
-1. 从 2016–2020 某个公开、完整 entry frame 建失败/低表现项目队列；
-2. 预注册 T0 与 T+3y / T+5y 观察窗；
+- 固定 2020-06 的完整 18 个主提交账号；
+- 不按后续成功、采访或作品数量换样本；
+- 明确保留 `POST_T0_UNRESOLVED`；
+- 只报告同一 frame 内的 public-authorial-continuation lower bound；
+- 不把空主页或未见后作编码成 career exit。
+
+因此“能不能把固定入口一路追到多年后”已经证明可执行。045 同时暴露出下一层限制：**itch 作品平台适合观察作者性，不适合观察就业恢复、工资、债务和 household recovery。**
+
+下一组不再优先复制第三个 itch jam；应寻找具有职业可观察性的 2016–2021 fixed-entry frame，例如公开 accelerator/incubator cohort、学生 showcase 全体项目、完整 grant recipient roster、可追踪 credits 的工作室关闭/layoff cohort。
+
+目标仍是：
+1. 预先固定 entry frame；
+2. 预注册 T0 与 T+24/36/60m；
 3. 不因能搜到后续采访才纳入；
-4. 逐项找 creator/studio 公开职业轨迹；
-5. 将看不见的人保留为 `EMPLOYMENT_UNKNOWN`，不把沉默编码为退出；
+4. 分开记录 `AUTHORIAL_CONTINUATION` 与 `EMPLOYMENT_OUTCOME`；
+5. 将看不见的人保持 `UNKNOWN`；
 6. 只在同一抽样框内报告比例。
 
-更值得做的第一个 cohort 不是“100 个著名 indie 失败案例”，而是：
-
-> **一个固定年份、固定入口、所有首作都进入观察的 30–100 个小团队，然后追踪其 T+5 年的就业、作者性与第二次尝试。**
-
-这才有可能真正关闭 OQ-002 / OQ-006 的 rate 问题。
+**045 推进了 OQ-002 的作者性 denominator；它没有关闭 OQ-006 的就业/工资可逆性。**
 
 ## 8. Reader-layer 可用结论
 
