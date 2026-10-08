@@ -440,6 +440,63 @@ LLM很擅长把零散材料组织成连贯解释。
 7. AI多模型工作流能否提高 account / representation diversity，而不是只增加语言variation；
 8. 中国/美国/日本创作者在模糊情况下形成 provisional coherence 的训练路径有何差异。
 
+
+## 19. Sensegiving：谁有资格给事件命名，本身就是权力
+
+Sensemaking不是纯私人认知。
+
+Gioia & Chittipeddi 1991研究战略变革时提出 sensegiving，用来描述领导者试图影响他人怎样理解变化、怎样重新定义组织现实。
+
+Source:
+- Gioia & Chittipeddi, “Sensemaking and Sensegiving in Strategic Change Initiation,” Strategic Management Journal 12(6), 1991:
+  https://onlinelibrary.wiley.com/doi/10.1002/smj.4250120604/abstract
+
+因此组织里还要问：
+
+> 谁拥有把某个事件定义成“技术问题”“用户问题”“执行问题”“战略问题”的解释权？
+
+新增：
+
+# SENSEGIVING POWER / 意义赋予权
+
+领导者、创始人、资深专家、数据团队、咨询顾问都可能因为地位而让某套解释更快变成“官方现实”。
+
+这既可能是必要协调能力，也可能形成：
+
+# NARRATIVE MONOPOLY / 叙事垄断
+
+典型表现：
+- 某个解释因为CEO先说而成为默认；
+- 下层只能在官方故事内部补充细节；
+- 竞争解释需要更高证据门槛；
+- 失败以后官方故事仍控制哪些cue能进入复盘。
+
+所以 Visionary Leadership 必须和 Narrative Monopoly 区分。
+
+好的sensegiving不是：
+> 把所有人说服成一个故事。
+
+而是：
+> 提供足够共同方向让组织行动，同时保留竞争解释继续接触现实的通道。
+
+## 20. Sensemaking Constitutionalism：不要让解释权永久垄断现实仲裁
+
+把Innovation Constitutionalism与sensemaking结合，可以增加三项：
+
+1. Interpretation Right — 普通成员可以提出不同事件解释；
+2. Cue Introduction Right — 可以把官方模型未纳入的线索带进讨论；
+3. Narrative Revision Right — 当新证据出现时，官方故事有制度性改写义务。
+
+因此：
+
+# SHARED ACTION DOES NOT REQUIRE TOTAL INTERPRETIVE UNIFORMITY
+
+组织需要足够协调，
+但不需要在不确定问题上过早制造思想一致。
+
+这尤其适合前范式创新：
+> 在结果出现前，允许多个causal stories共同存活，可能比迅速形成一个漂亮pitch更有认知价值。
+
 ## Sources
 
 - Weick, Sutcliffe & Obstfeld, “Organizing and the Process of Sensemaking,” 2005:
