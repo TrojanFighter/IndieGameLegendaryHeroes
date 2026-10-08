@@ -38,6 +38,8 @@
 
 ## 1.5.1. Premium PC 生态分叉：完美世界／Runic × Nival（2000—2017）
 
+- [2005中国“推荐原创力量”固定子集：能力年龄与选择偏差审计](china-online-2005-showcase-capability-age-census.md)：固定35项展示子集，仅用于审计selection bias与能力继承；至少30/35不是干净的2005从零新能力入口，至少17/35有同期明确既往游戏能力输入。禁止外推到117家总体或官方24家新公司。
+- [中俄高速扩张期的高级设计能力瓶颈（2004—2008）](china-russia-senior-design-capacity-bottleneck-2004-2008.md)：中国2004→05团队+60%、总就业+147%，但专业技术人员仅+33%、策划约+2%；2006策划人数又显著补涨，因此只支持“扩张期能力稀释”一年期信号。俄方Saber同期也明确抱怨production/design leadership稀缺，禁止国别化。
 - [2005中国网游新进入者 cohort：24家总量与公开可重建子集](china-online-2005-new-entrant-cohort-reconstruction.md)：官方总量为2005年新成立研发公司24家，但公开摘要未列完整名单；因此维护OFFICIAL TOTAL / NAMED SUBSET双账，并拆Legal Newness、Team Newness、Problem-Domain Newness，禁止用已找到的几家公司冒充24家总体。
 - [中俄新人→老兵：cohort maturation数量级对照（2005—2010）](china-russia-cohort-maturation-scale-2005-2010.md)：从stock问题改为flow问题。中国2005—06网游生态极年轻（117团队、1.2455万研发者、85%年龄20—30岁），俄语KRI 2004/05仍有明确年轻PC/Premium项目入口；真正待测的是新人在不同problem domain里的5/10年成熟率。
 - [中俄游戏从业者老兵数量级审计（2018—2021）](china-russia-veteran-scale-audit-2018-2021.md)：纠正由少量主创案例外推国别密度的方法错误；先比较产业人口、经验分布与绝对数量级。现有广义数据不支持俄方全行业更老，真正待检验的是Premium/模拟/CRPG子行业中的老兵集中度。
