@@ -142,7 +142,24 @@ AI 可以让过去无法实现的美术、代码、内容变便宜，却不自�
 - 行业媒体把“融资困难”写成“创作困难”的比例，以及是否提供不依赖股权融资的真实生产路径对照？
 - AI 工具采用以后，团队每年提出并关闭多少**不同**原型，还是仅仅让单一项目的内容产量增长？
 
-## 9. 防止理论自身春登化
+## 9. 组织学习经济学：为何成功会自动选择“春登”
+
+这个作者比喻还有三条具有独立学术来源的可比较机制：
+
+- **James G. March（1991）— Exploration vs. Exploitation：**利用既有知识往往比探索未知知识更快形成短期绩效，因此成功组织可能系统性地过度投资旧答案、低估新答案的形成。它解释“高执行力”如何在没有坏领导的情况下形成保守结果；不是专门研究中国游戏业。
+- **Levinthal & March（1993）— Myopia of Learning：**专门化与局部学习能使组织对遥远时间、陌生领域及失败的知识不敏感。原型失败记录与异行业社区实践恰好是旧大公司绩效反馈中可能被忽视的学习来源。
+- **Scott Shane（2000）— Prior Knowledge and Opportunity Discovery：**不同创作者掌握不同的私人知识与经验，因而发现不同的机会。如果一个组织持续淘汰没有标准 benchmark 经验的人，可能也在失去自己无法识别的探索方向；该机制仍需游戏主创微观数据验证。
+
+所以“春登化”不是文化辱称，而是**成功回报 → exploit 投资偏置 → 职业和资本筛选 → 探索机会集收缩**的候选制度过程。
+
+三项文献：
+- James G. March (1991), *Exploration and Exploitation in Organizational Learning*, Organization Science, https://doi.org/10.1287/orsc.2.1.71
+- Daniel A. Levinthal & James G. March (1993), *The Myopia of Learning*, Strategic Management Journal, https://doi.org/10.1002/smj.4250141009
+- Scott Shane (2000), *Prior Knowledge and the Discovery of Entrepreneurial Opportunities*, Organization Science, https://doi.org/10.1287/orsc.11.4.448.14602
+
+---
+
+## 10. 防止理论自身春登化
 
 本研究最容易出现的错误，是把“Hacker、原创、Scale Down”也变成不容推翻的身份标签。必须允许：
 
