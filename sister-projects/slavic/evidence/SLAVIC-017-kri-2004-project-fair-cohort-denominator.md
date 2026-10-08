@@ -374,3 +374,42 @@ Project Fair cohort后续统一编码四种状态：
 - 3/7能力前史UNKNOWN。
 
 **这些比率只描述当前已确认/支持 newcomer subset，不能直接与中国15/27比较总体差异。**
+
+
+## 十、严格 newcomer subset 的2009主动开发下界
+
+当前按“2004时团队/公司年龄≤3年，或同期明确debut/young/first project”确认的6队：
+
+| 团队 | 2004新人资格 | 约2009主动开发状态 | 当前编码 |
+|---|---|---|---|
+| Ghost Software | 2001成立 | 公开credits仅《Sea Wolves》(2004)；未找到后续新作 | UNKNOWN / NO CONFIRMED ACTIVE DEV |
+| Digital Spray Studios | 2001成立 | 2006《You Are Empty》、2007《Instinct》后无新项目公告；二手资料称公司仍以4人运作 | ORG POSSIBLY ALIVE / ACTIVE DEV UNKNOWN |
+| Sigma Team | 2003成立 | 2009《Alien Shooter: Revisited》等继续发行开发 | **ACTIVE DEV YES** |
+| MindLink Studio | 2003成立 | 2009乌克兰ITC明确称项目停止、工作室事实上停止存在 | **NO** |
+| Spector Studio | 2001成立 | 后续缺乏高质量连续开发证据 | UNKNOWN |
+| Temporal Games | 同期明确15—16岁debut团队 | 《The Tales of Walenir》2006—09开发后取消，未见其他PC/console商业发行 | **NO** |
+
+因此：
+
+> **2009 active-development confirmed lower bound = 1 / 6 = 16.7%**
+
+这不是CMR-5最终估计：
+- UNKNOWN不能按失败计；
+- 2004→2009是近似五年窗口；
+- 公司存在与active development必须分开；
+- Temporal虽然组织失败，人员留存尚需另追。
+
+当前可确定：
+- confirmed active development：1/6
+- confirmed organization/project failure：至少2/6
+- unknown / ambiguous：3/6
+
+这个分布已经足够否定“Project Fair年轻团队大多自然成长为长期老兵”的浪漫化版本，但不能估计真实长期成功率。
+
+来源：
+- Ghost Software：https://www.mobygames.com/company/9030/ghost-software/
+- Digital Spray：https://www.mobygames.com/company/9828/digital-spray-studios/
+- Sigma 2009：https://store.steampowered.com/app/33110/
+- MindLink 2009：https://itc.ua/articles/nashi_igry_2009_37715/
+- Temporal同期年龄：https://djvu.online/file/NHc7dPBDdXlA2
+- Temporal取消：https://www.unseen64.net/tag/temporal-games/
