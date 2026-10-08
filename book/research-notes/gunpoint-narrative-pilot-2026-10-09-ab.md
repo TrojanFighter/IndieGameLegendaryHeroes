@@ -70,7 +70,7 @@ Crosslink 给这次压缩提供了实际形式。可破解的对象被归为电�
 
 当时Francis仍在PC Gamer工作，游戏主要占用他的周末。写下一场戏，与把它做成可以播放的场景，是两份不同的劳动。会写作也带来了一个具体陷阱：想象世界时很自然写出的内容，未经再问一次“为什么要让玩家经历它”，就进入了制作计划。
 
-### 二、评论者的想法，需要一个能被别人操作的版本
+### 二、评论者的想法，开始遇到玩家和协作者
 
 这份路线图之前，Francis已经长期写游戏评论。他不断想到某款游戏可以怎样改进，也想知道这些判断真做出来以后是否成立。但他没有传统游戏开发履历，评论中的理由还需要变成代码和操作。
 
@@ -78,7 +78,11 @@ Crosslink 给这次压缩提供了实际形式。可破解的对象被归为电�
 
 记者工作给了他另一种材料：市面上已经有哪些游戏，哪些做法值得注意。他在同一采访中说，自己并不知道《Gunpoint》的核心机制能否成立，但如果成立，至少会足够不寻常。这个条件保留了尝试的价值，也保留了失败的可能。
 
-2013年，他把这段经历带到GDC Europe，演讲题名是《How Reviewing Games for Nine Years Helped in Designing Gunpoint》。题名里的九年包含开发时期，不能全部算成开工前的训练，更不是九年程序经验。评论让他有东西可比较；原型让比较之后的判断开始接受玩家检验。
+到2012年的这次采访时，公开开发已经给他带来了协作者。他描述了一条逐步发生的变化：点子引起关注，他便公开寻找美术；画面改善，又吸引了更多关注，随后可以寻找音乐作者。评论者做出了可以展示的东西，其他人的劳动又改变了它的样子。
+
+2013年发售后的开发复盘补充了这支团队的安排：John Roberts和Fabian van Dommelen负责美术，Ryan Ike、John Robert Matz和Francisco Cerda参与音乐。成员分布在不同国家，主要通过邮件沟通；项目转为商业销售时，大家按贡献约定收入分成。一个人在周末开始制作的游戏，逐渐有了其他人参与完成的画面与音乐。各人的最终分成比例仍不明确，不能把早期现金支出少写成这些劳动没有成本。
+
+同年，他把评论与制作的经历带到GDC Europe，演讲题名是《How Reviewing Games for Nine Years Helped in Designing Gunpoint》。题名里的九年包含开发时期，不能全部算成开工前的训练，更不是九年程序经验。
 
 ### 三、想留下的潜入体验，怎样少依赖逐场演出
 
@@ -96,4 +100,4 @@ Francis喜欢《Deus Ex》中想办法潜入建筑的乐趣。到2014年、在�
 
 本小样到此为止。工资、测试、职业网络、美术与音乐协作者、收入分成、市场接入和2013年辞职，都仍在[正式原稿](../profiles/gunpoint.md)中；完整候选不能省略这些条件。家庭支出、工资、辞职阈值和完整协作财务仍未公开。2010–2013年的工具与媒体/Steam窗口不默认适用于2026年；判断—原型—反馈机制为DURABLE，当年渠道与工具条件为CONDITIONAL。
 
-证据回查：[CASE-007](../../cases/CASE-007-gunpoint.md)、[Ledger E004–E006 / E008](../../evidence/CASE-007-gunpoint-source-ledger.md)、[2010年开发日志](https://pentadact.wordpress.com/2010/10/25/gunpoint-and-the-other-game/)。具体来源限制和等级待核项见[编辑报告](gunpoint-narrative-pilot-2026-10-09.md)。
+证据回查：[CASE-007](../../cases/CASE-007-gunpoint.md)、[Ledger E001 / E004–E006 / E008](../../evidence/CASE-007-gunpoint-source-ledger.md)、[2010年开发日志](https://pentadact.wordpress.com/2010/10/25/gunpoint-and-the-other-game/)。具体来源限制和等级待核项见[编辑报告](gunpoint-narrative-pilot-2026-10-09.md)。
