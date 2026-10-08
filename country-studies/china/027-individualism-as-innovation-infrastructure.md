@@ -570,6 +570,60 @@ personal judgment
 
 这比“缺乏个人主义精神”更精确。
 
+## 4.4 `AUTONOMY ≠ INDEPENDENCE`：家庭责任可以是自主选择
+
+必须防止另一个误区：
+
+> **家庭目标不自动等于反个人主义。**
+
+Self-Determination Theory长期区分：
+- `autonomy`：行动被自己认可、出于volition；
+- `independence`：不依赖别人、独自行动。
+
+跨文化研究明确指出：
+> autonomy并不与collectivism、interdependence或relatedness不相容；一个人完全可以因为真心认同家庭利益，把照顾父母、伴侣或孩子作为自己的目的。
+
+Sources:
+- https://selfdeterminationtheory.org/SDT/documents/2003_ChirkovRyanKimKaplan.pdf
+- https://scholarship.miami.edu/esploro/outputs/journalArticle/Differentiating-Autonomy-From-Individualism-and-Independence/991031598656802976
+
+因此本项目真正反对的不是：
+> “为家庭做事”。
+
+而是：
+
+# `CONTROLLED FAMILIAL TELOS`
+
+> **家庭目标不是个人自主内化的价值，而是通过羞耻、退出惩罚、经济依赖、婚育规范、养老义务或身份否定被强制设为唯一正当目标。**
+
+于是同样是“赚钱养家”，可能有两种完全不同结构：
+
+```text
+A. autonomous family commitment
+"I choose this life and endorse this responsibility"
+
+B. controlled family obligation
+"I cannot legitimately choose otherwise"
+```
+
+前者完全可以与个人主义、自主性和作者生活共存。
+
+后者才构成：
+`TELOS CONSTRAINT`。
+
+所以以后测量“家庭主义是否压制作者性”时，不能只问：
+- 给不给父母钱；
+- 是否重视家庭；
+- 是否结婚生育。
+
+而要问：
+- 能否拒绝；
+- 拒绝代价；
+- 是否允许延迟兑现；
+- 家庭是否承认非经济目标；
+- 家庭是否允许失败/二次尝试；
+- 个人是否真心认同该义务。
+
 # 5. 日本反例：创新不要求全民西方式个人主义
 
 Japan 001已经说明：
