@@ -272,11 +272,7 @@ Kickstarter之前，FTL的两位创作者已有职业经验，先用储蓄留出
 
 ---
 
-# 如果只记住这套书的八句话
-
-目前这批 Profile 最值得共同留下的，不是“辞职”“坚持”或“独立开发”本身。
-
-而是：
+# 读过这些经历，可以留下的八个判断
 
 1. **目标常常是做出来的，不是先想出来的。**
 2. **兴趣只有发生转换，才会变成能力资本。**
@@ -291,25 +287,10 @@ Kickstarter之前，FTL的两位创作者已有职业经验，先用储蓄留出
 
 # 想继续读什么？
 
-目前已有十三篇 reader-layer Profile，完整目录见 [人物传记索引](profiles/README.md)：
+想跟随一个人或团队，可以进入[十三篇人物传记目录](profiles/README.md)，按兴趣形成、谋生、失败与成功后的选择找下一篇。想顺序读章节，回到[书稿总目录](README.md)。
 
-1. [early id / DOOM](profiles/early-id-doom.md) — 兴趣、技术创造、产品、公司与成功后的组织裂变。
-2. [Kenshi](profiles/kenshi.md) — 如何用极低现金流购买极长时间。
-3. [Rocket League](profiles/rocket-league.md) — 公司怎样用服务业务活下来，并把失败前作变成第二次下注的资本。
-4. [Bills Must Be Paid](profiles/bills-must-be-paid.md) — 为什么“七个月爆款”其实可能站在七年失败史上。
-5. [Gunpoint / Tom Francis](profiles/gunpoint.md) — 长期体验和评论怎样转成选择、prototype 与作者能力。
-6. [FTL](profiles/ftl.md) — 怎样把一个高风险人生决定拆成一连串成本逐渐增加的实验。
-7. [David Wehle / The First Tree](profiles/david-wehle-first-tree.md) — 保留全职工资、抚育孩子与短游戏如何共同决定作品形态。
-8. [Nomada / GRIS → Neva](profiles/nomada-gris-neva.md) — 视觉作者与技术共同作者怎样组成一家工作室。
-9. [Zach Barth / Zachtronics](profiles/zach-barth-zachtronics.md) — 把最擅长的工程谜题做成品牌，以及品牌何时变成路径限制。
-10. [Josh Parnell / Limit Theory](profiles/josh-parnell-limit-theory.md) — 六年真实工程进步和没有完成的游戏承诺如何并存。
-11. [Question / The Magic Circle → The Blackout Club](profiles/question-magic-circle-blackout-club.md) — 完成作品却不足以维持原经营预期，工作室怎样改变下一作而非解散。
-12. [Eric Barone / Stardew Valley](profiles/stardew-valley.md) — 项目内学习、生活收入与发售前后贡献边界。
-13. [Toby Fox / Undertale](profiles/undertale-toby-fox.md) — 早期小作、公开音乐与从系统中逐渐形成的故事。
+想核对事实或继续研究，再进入：
 
-如果你已经读完这些，或者你本来就是研究者，再进入：
-
-- [Reader Layer 总目录](README.md)
 - [研究计划总图](../PROGRAM-MAP.md)
 - [Cases](../cases/README.md)
 - [Claims](../claims/README.md)
@@ -319,17 +300,6 @@ Kickstarter之前，FTL的两位创作者已有职业经验，先用储蓄留出
 
 ## 关于“能不能照着做”
 
-这不是保证回报的职业攻略，也不是“成功者做了什么，你照抄就能成功”。
-
-每篇文章都会尽量区分：
-
-- **可以迁移的机制**
-- **只属于当事人的条件**
-- **运气 / 右尾事件**
-- **目前还不知道的事实**
-
-所以这里所谓“人生性价比”，不是寻找一条稳赚的人生路线。
-
-而是尽量让一个人在承担几年真实人生之前，先看见：
+读到一种做法时，还要分清：哪些机制可能在别处成立，哪些条件只属于当事人，哪里有运气，哪些事实仍不知道。这些经历不能保证回报；比较的用处，是让人在承担几年真实人生之前，多看见一些代价和选择：
 
 > **别人当年到底付了什么、拥有什么、错了什么，又在哪一步获得了继续下注的资格。**
