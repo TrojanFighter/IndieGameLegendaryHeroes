@@ -47,6 +47,7 @@
 - [`023 — Creator Class Formation`](023-creator-class-formation-intergenerational-reproduction.md)：研究成功创作者如何把 `FUTURE CAPTURE` 转成下一代的 `FUTURE TRANSFER`，通过资本、taste、audience、工具、人才与治理结构形成跨代创作者再生产；用 `FOREST TEST / CREATOR SURPLUS MULTIPLIER` 防止用个例替代数量级。
 - [`024 — Creator Mobility & Spinout Topology`](024-creator-mobility-spinout-topology-noncompete.md)：研究人才是否能离开、重组、创业，并把能力转成新的产权容器；引入 `EFFECTIVE MOBILITY FRICTION / MOBILITY-TO-OWNERSHIP CONVERSION / SPINOUT CONVERSION RATE`，比较California人才流动、中国竞业制度及Atari/Looking Glass/Blizzard式alumni network。
 - [`025 — Alumni → Spinout Quantification Ledger v0.1`](025-alumni-spinout-quantification-ledger-v01.md)：首次把 Atari / Looking Glass / Blizzard / id / Valve / 腾讯 / 网易 / 米哈游按统一口径拆成 direct spinout、serial founder、alumni landing 与 design descendant；只报已验证下限，不在缺少senior-alumni分母时伪造“创业率”。
+- [`026 — Spinout ≠ Indie`](026-spinout-vs-indie-mode-conversion.md)：把 `EMPLOYMENT EXIT / OWNERSHIP EXIT / PRODUCT DIVERGENCE / OBJECTIVE-FUNCTION EXIT / INDIE-MODE TRANSITION` 拆开，防止把“大厂出去创业”自动写成“转独游”；重点研究 `SELECTIVE CAPABILITY RETENTION / SUBTRACTION CAPABILITY / STATUS-DECOMPRESSION / INDIE-MODE AFFINITY`。
 
 这里把“国民体验水平”拆成 reference breadth、comparative literacy、player→producer conversion、benchmark dependence、decision rights 等可观察变量，并要求用中国内部差异、东亚反例、斯拉夫 / 北欧 / 新西兰等跨国 comparator 做压力测试。
 
