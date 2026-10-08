@@ -229,6 +229,47 @@ BIG-COMPANY CAPABILITY
 
 ---
 
+## 4.1 四种Heterodoxy：做“不一样”到底哪里不一样？
+
+一个spinout与母公司的差异至少有四种：
+
+### `PRODUCT HETERODOXY`
+做不同genre / mechanic / aesthetic。
+
+### `BUSINESS-MODEL HETERODOXY`
+改变：
+- F2P / premium；
+- subscription；
+- DLC；
+- distribution；
+- target payer。
+
+### `PRODUCTION HETERODOXY`
+改变：
+- headcount；
+- workflow；
+- prototype sequence；
+- department structure；
+- capability acquisition；
+- player-truth timing。
+
+### `GOVERNANCE HETERODOXY`
+改变：
+- who owns；
+- who decides；
+- IP；
+- publisher veto；
+- residual judgment rights。
+
+一个项目可能：
+- product非常新，但production/governance完全旧；
+- product看起来传统，但production制度极新；
+- 商业模式创新，但作者权很低；
+- studio产权独立，但依然复制成熟工业语法。
+
+现代indie movement最关心的通常不是单独一种product heterodoxy，而是：
+> **production + governance层面是否让更小主体获得direct agency与低成本实验权。**
+
 # 5. Supergiant / Bastion：`CAPABILITY RETENTION × ORGANIZATIONAL GRAMMAR DELETION`
 
 Supergiant是区分spinout与indie-mode最好的正样本之一。
@@ -665,6 +706,83 @@ role scale dependence may ↑
 
 这正是“出去创业”和“出去做独游相性”必须分开的原因。
 
+## 10.2 `PEDIGREE CAPITALIZATION / 履历资本化`
+
+大厂老兵拥有一个普通首作作者没有的优势：
+
+> **可以在产品被玩家验证以前，就用履历、团队名单和前作credit向资本证明“我们值得下注”。**
+
+路径：
+
+```text
+prestigious employer / shipped hit
+→ investor confidence
+→ capital before player truth
+→ hiring / organization build
+→ product later
+```
+
+这对创业非常有利。
+
+但它与indie-mode存在一个条件性张力：
+
+```text
+capital substitutes for early external validation
+→ burn can rise before thesis is proven
+→ scope becomes harder to reshape
+→ sunk organization creates feature obligations
+```
+
+因此新增：
+
+# `CAPITAL SEQUENCING`
+
+真正要问的不是：
+> “有没有融资？”
+
+而是：
+> **资本在product thesis被什么程度验证以后进入？它买的是验证前的组织规模，还是验证后的缺失能力？**
+
+### `PEDIGREE-FIRST SCALE`
+先凭团队履历融资，再建立完整组织。
+
+适合：
+- 资本密集项目；
+- licensed IP；
+- MMO / live service；
+-高规格技术目标。
+
+它是强创业路径，不是indie-mode失败。
+
+### `THESIS-FIRST EXPANSION`
+先用：
+- hobby prototype；
+- small playable；
+- direct player test
+
+证明核心thesis，
+再用资金购买：
+- art；
+- QA；
+- porting；
+- publishing；
+- specialist capability。
+
+更接近许多indie→AA作者项目的扩张顺序。
+
+### `SELF-FUNDED THESIS PRESERVATION`
+上一作retained earnings让creator在不新增外部governance的情况下扩能力。
+The Witness属于强样本。
+
+边界：
+- thesis-first不是永远更优；
+- 有些技术项目必须先投入大量资本；
+- early player signal也可能误导；
+- 外部资本可以帮助而非破坏作者性。
+
+重点只是：
+> **资本进入顺序会改变谁在早期拥有现实裁决权。**
+
 # 11. Indie相性真正关键的个人能力可能是`SUBTRACTION CAPABILITY`
 
 大组织常奖励：
@@ -696,6 +814,54 @@ role scale dependence may ↑
 后者才是indie-mode特别关键的能力。
 
 ---
+
+## 11.1 `CAPABILITY-GAP RESPONSE / 能力缺口响应函数`
+
+发现“我们不会做X”以后，一个团队怎么反应，是indie相性的核心观察变量。
+
+### A. `HIRE-TO-SPEC`
+```text
+project spec fixed
+→ missing role
+→ raise money / hire
+```
+
+大型工业最自然。
+
+### B. `RESHAPE-TO-CAPABILITY`
+```text
+missing capability
+→ redefine problem
+→ delete / abstract / systematize requirement
+```
+
+这是Capability-Shaped Project Formation最典型的indie动作。
+
+### C. `COMPOSE-AT-FOUNDING`
+缺的不是普通岗位，而是核心作者能力：
+> 找互补cofounder，共享equity/control。
+
+GRIS是典型研究方向。
+
+### D. `SPECIALIST PERIPHERY`
+保留核心内部作者权，
+把非核心：
+- music；
+- porting；
+- localization；
+- QA；
+- asset
+
+放到外围。
+
+真正成熟的小团队不是“什么都自己做”，而是：
+
+> **知道什么必须拥有，什么只需要购买。**
+
+所以“大厂老兵相不相容”不能只看skill list，
+还要看他的默认缺口响应：
+
+> **一缺人就扩组织，还是会先问“这个需求本身能不能消失？”**
 
 # 12. `STATUS-DECOMPRESSION`：大厂老兵还要适应身份降级
 
