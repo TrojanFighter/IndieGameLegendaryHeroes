@@ -456,14 +456,25 @@ Riot 的公开 R&D 流程是当前最强制度证据；COD 提供长时段重复
 - NetEase 显示 portfolio-level replication；
 - 2021–2026 可能正在快速收敛。
 
-### H3 — China convergence since 2021
+### H3 — Visible count increase ≠ rate convergence
 
-> **中国头部商业游戏组织的 T-attempt density 在 2021 后、尤其 2024 后出现上升。**
+> **2021 后中国头部商业游戏组织的可见 T-attempt / T-candidate 绝对案例数量增加，但这不能证明 T-attempt rate、PTR 或 T-producing organization density 正在收敛美国。**
 
 Status:
-**PLAUSIBLE / COHORT AUDIT NEEDED**
+**VISIBLE ABSOLUTE COUNT SIGNAL / RATE CONVERGENCE UNPROVEN**
 
-不能因为 Naraka / Genshin / Marvel Rivals / FragPunk / Delta Force 等连续出现，就直接声称产业整体已追平。需要固定 cohort。
+Naraka / Genshin / Love and Deepspace / Marvel Rivals / FragPunk / Delta Force 等连续出现，只能说明：
+- existence 下限上升；
+- visible absolute count 上升；
+- 部分企业开始直接面对全球成熟市场。
+
+它不能单独证明：
+- 中国 T-attempt rate 上升；
+- PTR 上升；
+- ORR 上升；
+- 与美国头部生态的组织密度差距缩小。
+
+要证明“正在追平 / 快速收敛”，必须有固定 cohort、项目分母和时间序列。
 
 ### H4 — Paradigm origination is not the right commercial KPI
 
@@ -861,7 +872,7 @@ https://www.nppa.gov.cn/xxfb/ywdt/202412/t20241216_877441.html
 
 只有当全球验证与显著 phenotype shift 同时成立，才进入高等级 IPI。
 
-### 9.15 为什么 2021 后中国 T-attempt 上升可能具有结构原因
+### 9.15 为什么 2021 后可见 T-candidate 绝对数量增加可能具有结构原因
 
 当前有三个彼此独立但方向一致的信号：
 
@@ -886,7 +897,7 @@ https://www.sciencedirect.com/science/article/abs/pii/S0167268126002842
 
 > **随着本土增量、IP移植租金和部分渠道优势边际下降，同时全球收入的重要性提高，中国头部企业面对的产品选择环境开始更接近“必须与原作 / 世界头部正面竞争”的 frontier regime；这可能提高 T-attempt 的相对回报。**
 
-这是解释 2021–2026 convergence 的候选机制之一，需要项目时间线与公司资源配置数据验证。
+但当前证据只能支持“选择压力发生变化”这一机制候选，**不能把它写成 2021–2026 已发生 rate convergence 的证据**。要验证收敛，仍需固定项目分母与同口径时间序列。
 
 ### 9.16 Tencent 2022 vs Riot 2021：两种公开“成熟范式创新”语言
 
@@ -1357,7 +1368,7 @@ T projects reaching G2/G3 / validated T projects
 4. 中国项目在全球成熟市场已形成大量 G2/G3 T，只是当前分类漏计手游 / 女性向 / 东亚市场；
 5. 组织层复现消失：所谓“美国公司能力”其实主要由少数核心个人迁移解释，而不是制度。
 
-## 14. 当前最小结论
+## 14. 当前最小结论：正向偏离不是免责条款
 
 截至 2026-10-08，最稳妥的表述不是：
 
@@ -1365,18 +1376,82 @@ T projects reaching G2/G3 / validated T projects
 
 而是：
 
-> **在 2015–2025 全球商业游戏领域，美国最强的一批设计组织显示出更长的“成熟范式 → 新行为表型”重复历史，并且 Riot 等已将这类创新显式制度化。中国并非缺少 T：miHoYo 与 NetEase 已构成强压力测试，Papergames / Hypergryph 等也出现高密度信号；但目前尚未看到与美国头部设计生态同等厚度的 T-producing organization layer。**
+> **中国商业游戏产业已经证明自己拥有世界级执行、商业化和少数世界级表型创新组织；但相对于其巨大的市场、人才和项目分母，能够反复把成熟全球范式转化成新核心玩法表型的组织仍异常稀薄。美国的优势不是“偶尔多几个原创天才”，而是在多个相互独立的大型商业组织中，已经长期存在可重复的成熟范式转化能力。当前证据足以支持显著的组织密度与历史积累差距；尚不足以给出精确倍数，也不足以证明差距正在以何种速度收敛。**
 
-同时必须保留时间变化：
+### 14.1 正向案例的正确解释
 
-> **2021 后中国 T-attempt 的可见密度明显上升，因此“今天仍差一个数量级”不能在分母审计完成前写成定论。**
+miHoYo、NetEase、Papergames、Hypergryph 等正向样本的用途只有两类：
 
-真正要回答的下一题不再是：
+1. 推翻“这种能力在中国绝对不存在”的全称命题；
+2. 帮助识别哪些组织条件可能打破旧均衡。
 
-> “中国有没有创新案例？”
+它们**不能**被用来：
+- 证明中国商业游戏整体 T-rate 已接近美国；
+- 证明 T-producing organization density 已接近美国；
+- 证明 2021 后正在快速追平；
+- 以“也有几个”制造数量级上的对称感。
 
-而是：
+尤其在中国这样的大产业分母下：
+
+> **少数异常强案例不是产业健康的免责条款；它们可能恰好反衬出能力分布的稀薄。**
+
+### 14.2 当前方向性比较
+
+以当前最严格口径：
+- 明显改变玩家行为的 T；
+- 经 G2/G3 全球成熟市场验证；
+- 不是单纯 transfer / monetization / industrial optimization；
+- 关注组织是否可重复产生，而非一次命中；
+
+美国 comparator 中 Riot / Epic / Respawn / COD体系 / Blizzard 均至少拥有一个相当明确的全球 T 样本，并且其中多家显示跨项目、跨年代或显式 R&D 制度化的重复性。
+
+中国 comparator 中：
+- miHoYo、NetEase 已基本进入强组织级讨论；
+- Papergames 可在垂直赛道进入；
+- Hypergryph 样本小；
+- Lilith 的全球商业能力强，但 T 强度仍需单独证明；
+- Tencent China in-house 的工业与全球竞争能力极强，但巨大项目分母下的 PTR / ORR 仍未建立。
+
+这支持：
+> **当前差异更像“美国已经形成一层较厚的 T-producing commercial organizations，中国仍主要由少数强正向偏离节点承担”。**
+
+### 14.3 不再提前写“正在收敛”
+
+当前只能写：
+
+> **2021 后中国可见的 T-candidate / T-attempt 绝对案例数量增加。**
+
+不能写：
+
+> “T-attempt density 已明显上升”；
+> “中美正在快速收敛”；
+> “今天已不能谈数量级差距”。
+
+原因是缺少：
+- 同时期中国项目总分母；
+- 同期美国 comparator 项目总分母；
+- cancelled / failed / ordinary projects；
+- 统一 T 判定；
+- studio / group 归属；
+- 时间序列。
+
+因此正式状态：
+
+# `VISIBLE ABSOLUTE COUNT ↑ / RATE CONVERGENCE UNKNOWN`
+
+### 14.4 真正要回答的数量级问题
+
+下一阶段不再继续为中国搜“漂亮正例”，而是建立固定 frame：
 
 > **在相同项目分母、全球验证和组织归属口径下，中美到底有多少组织能连续两次、三次把成熟赛道推成世界玩家必须重新学习的新表型？**
 
-这才是数量级问题。
+至少同时计算：
+- N：绝对 T 数量；
+- PTAR：T-attempt / comparable projects；
+- PTR：validated T / comparable projects；
+- ORR：能重复 T 的组织比例；
+- GVR：T 中通过全球成熟市场验证的比例；
+- organization density：每个可比研发组织中有多少是真正 T-producing。
+
+在这些分母完成前：
+> **存在性可以判断，方向性结构差距可以讨论，精确倍数和收敛速度必须保持 UNKNOWN。**
