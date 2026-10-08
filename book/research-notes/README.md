@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`double-fine-amnesia-public-pitch-cohorts-051.md`](double-fine-amnesia-public-pitch-cohorts-051.md) — Double Fine 2012/2017/2026具名提案起点队列（23→5、25→4、26→4→1），回访Jeremy/Jared/Asif跨年反复提案；同制度的Hack 'n' Slash、Spacebase DF-9、Kiln提供商业开发正反结果。2026独立后众筹加权投票，明确区分项目选中、商业成功与作者存续。
+
 - [`creator-selection-institution-comparison-050.md`](creator-selection-institution-comparison-050.md) — 腾讯NExT 2018 2–5人/100人天/30–40孵化，网易2018六周Mini项目与晋升训练，Supercell Spark 2025的30名参与者/5个新团队，Valve手册及Battlestate自筹转型；按项目、人才、团队和退出权分离分母，不用例子代替国别水平。
 
 - [`revenue-to-career-selector-audit-048.md`](revenue-to-career-selector-audit-048.md) — 以巨人2007 SEC费用与核心研发期权为锚点，区分市场收益、预算、薪酬、原型权、晋升和立项权；不从7:1费用推国别原创者数量。
