@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`open-prototype-community-china-global-entry-cohorts-052.md`](open-prototype-community-china-global-entry-cohorts-052.md) — 中国2024–25 CiGA GGJ/CGJ、CUSGA大学生完整作品、全球2025–26 GMTK/GGJ与2024 mod.io的规模与不同分母；巨鸟多多《刀塔自走棋》提供War3→Dota2 Mod养成国际新玩法反例；提出中外同口径公开非明星作者队列，拒绝全球平台vs中国单一区域的伪国别数量级比较。
+
 - [`double-fine-amnesia-public-pitch-cohorts-051.md`](double-fine-amnesia-public-pitch-cohorts-051.md) — Double Fine 2012/2017/2026具名提案起点队列（23→5、25→4、26→4→1），回访Jeremy/Jared/Asif跨年反复提案；同制度的Hack 'n' Slash、Spacebase DF-9、Kiln提供商业开发正反结果。2026独立后众筹加权投票，明确区分项目选中、商业成功与作者存续。
 
 - [`creator-selection-institution-comparison-050.md`](creator-selection-institution-comparison-050.md) — 腾讯NExT 2018 2–5人/100人天/30–40孵化，网易2018六周Mini项目与晋升训练，Supercell Spark 2025的30名参与者/5个新团队，Valve手册及Battlestate自筹转型；按项目、人才、团队和退出权分离分母，不用例子代替国别水平。
