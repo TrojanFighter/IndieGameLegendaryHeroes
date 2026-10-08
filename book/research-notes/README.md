@@ -6,6 +6,10 @@
 
 ## 当前索引
 
+- [`industry-triangle-decision-rights-audit-046.md`](industry-triangle-decision-rights-audit-046.md) — 回看作者 2023 年“行业三角关系”，将其转为 THESIS / GREENLIGHT / SCOPE / BUDGET / MARKET / IP / EXIT 七类 decision-rights 的纵向人物审计；不重复中国 017–021 的需求、渠道及作者品牌研究。
+- [`experience-capital-creator-conversion-gates-047.md`](experience-capital-creator-conversion-gates-047.md) — 从资深玩家到作者的 G0–G6 转换关口：鉴赏、体验假说、可玩原型、真实纠错、付费回流、第二次生产；与中国 019 的社会鉴赏基础设施分工，要求固定队列分母及失败/未入场者。
+
+
 - [`beginner-jam-public-authorial-persistence-cohort-045.md`](beginner-jam-public-authorial-persistence-cohort-045.md) — 2020 Beginner Friendly Game Jam 完整18个主提交账号的六年公开作者性追踪：固定入口后至少13/18有baseline后公开创作、至少4/18在2024–2026仍有明确新作；严格限定为public-authorial-continuation lower bound，不把空主页、未见后作或Jam持续误写成职业退出/职业留存。\n\n- [`creator-exit-reentry-economics-044.md`](creator-exit-reentry-economics-044.md) — OQ-002/005/006 的失败后人生结果层：GBGames、Atomic Armies、PONCHO、Mountaincore、Iron Cross→Attack at Dawn 与 Drunk Shotgun；建立 Exit Outcome Vector / Reversibility Capital，区分项目、公司、就业、作者性和残余资产，不把“回上班”“出第二作”“法人关闭”混成一个结局。
 
 - [`carmack-romero-complementary-error-correction-network-042.md`](carmack-romero-complementary-error-correction-network-042.md) — Dangerous Dave、Wolf3D push walls、Doom editor/glue与Quake反馈延迟：将Carmack×Romero从技能互补升级为跨域翻译/可否决/角色可塑/快速shared-build的纠错网络，并以Tom Hall与Playdead CASE-056反证二人神话和治理永久有效。
