@@ -61,6 +61,8 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 - [Complementary Taste / Founder Pair Lifecycle：互补鉴别力、创始组合与生命周期](complementary-taste-founder-pairs-001.md) — 用 Carmack×Romero 与 Jobs×Woz 两组不同终局的创始组合，区分 skill complementarity 与 ERROR COMPLEMENTARITY；提出 TRANSLATION BANDWIDTH、FEEDBACK-TIMING COMPATIBILITY、IDENTITY TERRITORY OVERLAP、TASK-BOUNDED COMPLEMENTARITY，并把组合终局拆为 CONFLICT FAILURE / TASK COMPLETION / CAPABILITY SUCCESSION。下一步用 Nintendo 多代师承与制度传递压力测试第三型。
 
+- [Reversible Bets / Irreversibility Gradient：可逆下注、创新期权与承诺升级](reversible-bets-irreversibility-gradient-001.md) — 把 Bezos 的 one-way/two-way door、McGrath/MacMillan 的 discovery-driven planning、Christensen 的 emergent→deliberate strategy 与 Grove 的 inflection-point experimentation 放入同一可证伪框架；提出 IRREVERSIBILITY GRADIENT、QUESTION-MADE-EXECUTABLE、INFORMATION-FIRST MILESTONE、PERPETUAL OPTIONALITY 与 OPTION EXPIRY，并显式保留 prototype false-negative problem 作为下一轮反例压力测试。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
