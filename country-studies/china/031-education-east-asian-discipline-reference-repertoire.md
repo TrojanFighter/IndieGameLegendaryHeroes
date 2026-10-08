@@ -256,6 +256,8 @@ no self-chosen learning
 
 并优先通过：CEPS等人群调查、学校课程、家庭访谈、学生队列、课外时间、设备/阅读/游戏经历恢复上游分母。
 
+**机制延伸（2026-10-08）：** [034 认识论规训、遗制权威与知识载体污染](034-epistemic-discipline-authority-legacy-and-knowledge-aversion.md) 将本篇的 `STANDARD-ANSWER EPISTEMOLOGY` 推进到权威代替论证、历史判断技能与评价权限代际脱钩，以及说教可能降低自主接触原始材料意愿的三个 H 级研究问题；不把儒家或党史教育直接写成单因果。
+
 ## 15. 当前最小结论
 
 > **“中国从业者游戏阅历窄”不应只作为行业能力缺陷研究。它可能是更早的教育—家庭—社会规训链条的结果：高风险考试与家庭投资把课外时间持续转化为可评分活动，广泛阅读都需要证明“对拿分有用”，而游戏还额外面对娱乐/成瘾污名、设备控制与职业不可见性。由此形成的Reference Repertoire Poverty会在进入商业游戏工业前就限制Solution-Space Visibility；商业组织随后再通过benchmark、specialization和resource allocation把局部解强化成Production Grammar。真正的比较变量不是“东亚人是否更听话”，而是SELF-EDUCATION SOVEREIGNTY、GAME-REFERENCE ACQUISITION TAX、DISCRETIONARY-TIME CAPTURE，以及社会是否提供足够强的ESCAPE INSTITUTIONS来抵消规训。**

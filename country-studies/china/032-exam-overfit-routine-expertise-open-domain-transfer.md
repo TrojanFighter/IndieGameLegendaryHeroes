@@ -14,6 +14,8 @@
   - 正式学术邻接概念主要是 `routine expertise / adaptive expertise`、transfer、teaching-to-the-test 与评价收窄；
   - 个体截图/轶事只能作为作者原始观察与机制例，不用于估计发生率。
 
+**教育方法增量（2026-10-08）：** [034 — 认识论规训、遗制权威与知识载体污染](034-epistemic-discipline-authority-legacy-and-knowledge-aversion.md) 把 `RUBRIC-AS-TRUTH`、`JUDGMENT-RIGHTS DECOUPLING`、`KNOWLEDGE-CARRIER AVERSION` 独立为待检验假说，并提出以历史决策节点/同期史料取代人物表彰式标准答案的教学对照协议；区分“反对说教”与“证据能力已经形成”。
+
 ## 0. 核心纠偏：此前我们已经有材料，却没有把它提升为教育主机制
 
 项目此前已经积累大量同构观察：
