@@ -64,3 +64,16 @@
 - TapTap游戏设计与版本：https://www.taptap.cn/app/63940/all-info?platform=android
 - Steam三作：https://store.steampowered.com/app/759940/ ，https://store.steampowered.com/app/933940/ ，https://store.steampowered.com/app/1142040/
 - Steam第三作Demo：https://store.steampowered.com/app/1401690/
+
+
+## 7. 增量机制：作者如何对待不确定性（关联中国032第25节）
+
+2018第一手访谈显示，《前程似锦》作者**并未等市场已经证明一种新形式必成才行动**，而是先测试核心搜索机制，再在个人能力、开发时长与原型反馈之间调整范围。这对应“从可控变量出发作出可承担损失的选择”，可与Sarasvathy（2001）的effectuation讨论，但不能直接把作者归类成其理论中已测量的expert entrepreneur。
+
+尤其注意：当事人公开承认发行/营销薄弱、认为自己未必适合全面制作人职责。这是对**商业发行能力与玩法作者能力的区分**，不是证据表明作者缺乏决策力。相反，敢于根据不足缩小范围和学习新技能，正是有待独立评估的判断行为。
+
+仍未知：2018之后的就业和家庭现金流、所有试错项目、2019—2026开发时间线。结果“后来又发了两款游戏”不能直接证明早期商业预测正确；这正是**事前判断质量不等于事后成功**的评价边界。
+
+参见：[中国032，第25节 Judgment Devaluation](../../country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)。
+
+---
