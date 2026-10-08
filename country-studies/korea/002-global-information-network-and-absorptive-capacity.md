@@ -95,3 +95,46 @@ P0 / Krafton官方声明：https://www.linkedin.com/posts/krafton-inc_gearing-up
 ## 九、方法红线
 
 `PRE_BREAKOUT`不是`NO_MARKET_EVIDENCE`；`EXPORT`不是`ABSORPTIVE_CAPACITY`；`FOREIGN_CAPITAL_RETURN`不是`DOMESTIC_CREATOR_REPRODUCTION`；`MARKET_ADAPTATION`不是`MECHANIC_INVENTION`；`FOUR_CASES`不是`NATIONAL_DISTRIBUTION`。
+
+## 十、阶段性收束（V1，2026-10-08）
+
+### 研究目标已达到的边界
+
+本轮“韩国在早期网络游戏技术先发优势减弱后的主要比较优势”研究，已经完成了**概念校正、跨年代成功/失败案例、直接访谈与韩国两篇学术研究交叉核对**。它是一个可引用的 **v1 结构性研究稿**，不是已做完人口级数量统计的定量论文；后者作为后续独立研究议程留存，不阻止本轮并库。
+
+**可以作为文中陈述的案例事实：**
+
+1. NCsoft于2000年起开展全球化布局，2009年与2012年海外收入占比44%，2015年36%（Jinah Choi 2016 KCI摘要）。**所以国际关系网络是在技术先发期形成的，不是先发优势消失后凭空建立**。https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART002189101
+2. 金昌汉2017年GamesBeat采访：改变“本土韩国市场必须先成功”假设，发现全球PC直接发行可能性，再找到有真实Mod玩家反馈的Greene，2016年赴韩合作。https://gamesbeat.com/inside-the-company-behind-sensation-playerunknowns-battlegrounds/
+3. 蓝洞创始人2017-09-10同期采访：Steam发行建议来自美国子公司外国员工，并明确称韩美团队信任是信息能够被采纳的重要条件（属于受访者归因）。https://www.koreatimes.co.kr/amp/business/companies/20170910/past-failures-and-endurance-can-make-success
+4. Smilegate官方2018回顾：CrossFire韩国首发不利、随后通过腾讯和QQ打入中国市场；中方市场知识对韩方产品商业成功有直接作用。https://newsroom.smilegate.com/en/eng/CrossFire_Records_as_Global_No_1_Online_FPS_Game_EN
+5. 2025年四家韩企比较论文观察到Born Global实践绩效差异（Smilegate/Krafton与NCsoft/Nexon的本地化适应不同），研究并非“所有韩企跨国吸收能力都强”的证据；作者与Smilegate任职关联必须显式标记。https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003240906
+6. 腾讯通过海外投资取得Riot/Supercell等成熟组织，网易同样有Quantic Dream及原创海外工作室实践。**本轮强命题必须是“差异待检验”，而非“中国企业完全不会借力”**。腾讯Riot 2011年报（交易前22.34%，后92.78%）：https://www.annualreports.com/HostedData/AnnualReportArchive/t/OTC_TCEHY_2011.pdf
+
+### 操作化测量：Frontier Recognition Lag / 前沿识别时滞
+
+**定义：** 对同一“可玩创意或独特团队能力”，从其**最早可核实公开信号**（T0，例如Mod发布、可玩Demo、公开直播和用户反馈）到企业的**首笔实质性资源配置**（T1，例如付薪签约、雇佣、投资或正式带资源立项）的时间差 `FRL = T1 - T0`。
+
+- `T0`必须附**当时**可见的作品、社区/活跃用户信号，避免事后挑最早一条无意义原型；
+- `T1`必须有财务、人事、组织或开发资源投入证明；报道/口头关注不等于正式投入；
+- 分开记`EARLY_CREATOR_SCOUTING`（作者尚未有商业爆款）、`MATURE_IP_ACQUISITION`（买成功公司）、`STUDIO_RESCUE`（收购面临关闭的团队）；
+- `FRL`可以呈现同类型内的领先/滞后，但**更早并不自动更高质量**，还要记录投入后3/5年存活、收入和人才复用；
+- `FRL`不能直接跨不同品类、不同Mod公开度、不同组织规模或地域相减得出国别排名。
+
+| 案例 | T0可观察起点 | T1正式资源事件 | 观察到的知识输入 | 关键不确定性 |
+|---|---|---|---|---|
+| NCsoft × ArenaNet | 2000年美国前Blizzard团队成立、着手未发售游戏 | 2002年NCsoft收购 | 海外在线游戏团队与开发能力 | 对韩国本土设计师的知识迁移未核 |
+| Bluehole × Greene | 2013年前后DayZ/Arma Battle Royale社区作品（精确首版待核） | 2016-03前后邀请/合作 | 海外Mod玩法经验；美国分公司Steam市场知识 | 最早可见T0、工资预算及决策合同未核 |
+| Smilegate × 腾讯 | 2007韩国已有商业FPS成品 | 2008中国上线、两公司合作（具体合同签日待核） | 中国市场/QQ渠道知识 | 不是未成名玩法识别；应记`MARKET_ADAPTATION`而非与Mod案例合并 |
+| 腾讯 × Riot | 2000年代后期Riot开发及发行《英雄联盟》前验证 | 2011年取得92.78%控股（此前已有22.34%） | 美国在线游戏团队/IP和长期管理能力 | 首次入股具体签署时间及权利边界需另核 |
+
+**目前不能计算可信的中韩平均FRL或“能力借用胜率”**：全量候选分母缺失，不同案例的T0质量和T1阶段不同。严禁使用表中四例人为制造精确排名。
+
+### 入库结论／将来升级条件
+
+- **SUPPORTED CASE-LEVEL**：韩企至少在不同年代通过全球人才、市场伙伴与海外员工的决策知识补足国内能力；NCsoft的海外网络早于后续竞争力压力；《穿越火线》说明中国企业也是韩企外部能力的重要来源。
+- **SUPPORTED NEGATIVE CASE-LEVEL**：外国名制作人及成熟IP投资可能失败或出现治理冲突（Striking Distance / Unknown Worlds）；全球收购量不能代替外国知识的长期留存。
+- **HYPOTHESIS, UNPROVEN COUNTRY EFFECT**：与中国全产业相比，韩国更多企业、在更早阶段、更容易采纳外国专业判断。必须建立同年、同类、同规模的中韩全量投资/人才/项目队列后才能讨论发生率和数量级。
+- **不能成立的绝对说法**：“韩国本质更原创”；“韩国没有模仿型工业”；“中国企业只在品类爆红以后行动”；“外国制作人一加盟就代表获得先进原创能力”。
+
+**本文v1可正式并入主库。** 缺少完整跨国分母是一个记录明确的下一阶段研究课题，不应通过继续堆明星故事假装已经解决。
