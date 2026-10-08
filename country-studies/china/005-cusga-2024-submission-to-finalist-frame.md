@@ -1,8 +1,8 @@
 # 005 — 2024 CUSGA：从五百余个作品出发，不再从爆款作品倒推学生时代
 
 - Program: C / 中国国情研究
-- Status: **OFFICIAL COHORT-BOUNDARY VERIFIED / 75-ENTRY ROSTER NOT YET TRANSCRIBED / OUTCOMES NOT_ASSESSED**
-- Observation date: 2026-10-07
+- Status: **2024 FINALIST 40/40 PUBLIC TITLES + TEAM ALIASES RESTORED / PRELIM 75 IMAGE STILL UNTRANSCRIBED / OUTCOMES NOT_ASSESSED**
+- Observation date: 2026-10-08
 - **Priority update:** [007 样本裁决](007-workforce-authorship-sampling-pivot-and-comparators.md) 已确定 CUSGA 是**P2 public-project archival frame**，不是中国作者性研究的唯一主样本、也不是P0在职人群研究的前置 blocker。即使抽完75份获选作品也不能推大厂雇员的私人项目发生率。
 - Links: [002 GGJ深圳](002-ggj-2024-shenzhen-nanshan-public-attempt-pilot.md) / [003 非入场者](003-nonentrants-upstream-cohort-and-survey-selection-audit.md) / [004 中传作品—就业](004-cuc-creator-training-to-career-cohort-gates.md) / [006 毕设团队的职业分流](006-cuc-mousu-to-doraccoon-decision-fork.md) / [抽样门控](../../schemas/creator-visibility-sampling-gate.md)
 - Scope: **公开作品和主办者的汇总记录**；不以游戏发售、媒体曝光、奖项为入样前提；不猜匿名学生的私生活、就业或家庭条件。已有失败研究和著名创始人仍是机制档案，不是此 cohort 的人数证明。
@@ -26,7 +26,7 @@
 | 报名 | 2000+ | 学生人数 | 人数近似；报名是否包含待审核/无投稿及重复角色未知 |
 | 完整作品提交 | 500+ | game submission | 近似且到2024-05-08截面；全部游戏 ID/下载链接未取得 |
 | 初赛入围 | 75 | selected game | **主办方同期名册在图片**；原始文本/去重尚未复核 |
-| 决赛入围 | 40 | selected game | 现场记者计数；官网长图名单存在；具体唯一 ID 未确认 |
+| 决赛入围 | 40 | selected game | **40/40题名+团队公示名已恢复**；原始项目唯一ID/玩家下载URL及全员身份仍未确认 |
 | 奖项 | 多奖 | award | 同项目可能拿多个奖，不能把获奖个数当团队人数 |
 | 2026公开商业/就业后续 | UNKNOWN | game / team / person | 尚未采用统一搜索协议追踪所有入选作品 |
 
@@ -34,24 +34,19 @@
 
 关于初赛 75 个长图条目：官方页面可访问、**图片未转换为可核逐行的项目清单**，必须保留 `roster_status=IMAGE_PRESENT_NOT_RECONCILED`。不要用第三方转录的决赛类别列表伪装成初赛75个全体；同一决赛作品可获多个类别提名而重复出现。
 
-## 2. 最小公开作品候选：从决赛名单抽，不追成功者
+## 2. 新增里程碑：完整40件决赛作品与44个提名位置已复原（2026-10-08）
 
-2024-06-19 主办方决赛公告及其 *WePlay文化展* 同期公开转录中，可复核下列 **作品—团队名称**；只是**待构造的决赛子样本入口**，不等于官方75项完整名册：
+**完整名册（40款作品的题名、团队公示名、提名类别、稳定研究ID）：** [030 — CUSGA 2024决赛40项目复原](030-cusga-2024-full-finalist-40-project-reconstruction.md)。
 
-| 公布的作品 | 当时公示团队 | 研究时点 / 限制 |
-|---|---|---|
-| 《鼠鼠来了》 | 鼠鼠Studio | 2024入围视觉类别；**后来其中两名创作者另组队制作《浣熊推币机》**，不是同项目续作或40件作品的普遍后果 |
-| 《空青壁垒》 | 不会做游戏 | 不得根据队名推能力或其后职业 |
-| 《昆仑奴传》 | 戴德来恩 | 多类别提名不能多计项目 |
-| 《蚁穴》 | 曱甴团队 | 游戏玩法提名；截至本轮未统一追踪 |
-| 《泡沫天平》 | 波动花束 | 创意类别提名；后续 UNKNOWN |
-| 《脱水》 | 美博犇工作室 | 潜力类别提名；后续 UNKNOWN |
-| 《卷中坞》 | Room B Interactive | Paradox Award 类别提名；后续 UNKNOWN |
-| 《奇迹松鼠俱乐部》 | 奇迹松鼠俱乐部 | 策略类别提名；后续 UNKNOWN |
-| 《未来之战》 | zjcty | Paradox Award 类别提名；后续 UNKNOWN |
-| 《深海回响》 | 深海 | 多人类别提名；后续 UNKNOWN |
+2024年6月19日UGDAP官方决赛公示被WePlay于6月20日以完整可搜索文字转载，包含**11个奖项类别 × 每类4个候选 = 44个提名位置**。严格按「标题+公示团队名」去重，重复提名4款（小鼠开车大冒险、忆时倒带、昆仑奴传、太荒岁纪），得到**40项不重复的公示决赛作品**，恰与2024-08-07同期现场报道“40个决赛入围作品”吻合。
 
-当轮没有以「哪个游戏出名」选择这些条目；要转化为 cohort，必须**先抽取所有75名单或全部40决赛名单，再统一批量处理**。此处10条只是验证可查性的例示而非率的样本。每个团队只引用主办方自愿公布的项目代号，不挖掘未公开本名。
+这里的40/40仅说明“作品题名 + 团队公示名”的文字名册已恢复，不说明对应原始参赛ID/下载URL已逐一核验。**75项初赛名单仍为单张长图，尚未完成75/75内容复原；超过500项普通投稿亦无完整公开目录。**
+
+同一团队「虚无幻象」分别以《Spirit》与《Van宁弹射物语》提名，故不同作品不能因队名相同而错误去重；而同一《昆仑奴传》提名听觉、动作，只能算一项游戏。正式追踪可先从40项**高选择决赛层**启动，但无法推出大陆普通学生、报名未提交者的创作概率。
+
+主办方原文：https://www.bilibili.com/opus/944660821083947014
+完整团队/作品文字转载：https://www.10100.com/article/101113485
+现场40项确认：https://www.gcores.com/articles/186313
 
 ## 3. 2024→2026 同期压力测试：一次比赛中的获奖者和未获奖者不能直接比较“人生好坏”
 
@@ -116,4 +111,4 @@ source_links: []
 - **S1 2026访谈/现场**：游戏茶馆, 2026-04, https://youxichaguan.com/archives/192705 。提供《鼠鼠来了》团队分流为**被采访开发者视角**。
 - **P0 2026另一赛事**：开拓芯 CGF2026 官方日程 https://www.coreblazer.com/cgf/2026 展示**20件**2026学生决赛作品，与 **2024 CUSGA 完全不同年份/主办赛事**；只能作为将来的可比 frame 设计参考，不能与2024数据拼连续漏斗。
 
-**Next exit condition：** 至少把官方**75作品题名—团队公示名**逐项复核，然后才能声称 `roster_complete=75/75`，否则不报告任何公开延续率、发售率或人物就业率。
+**Next exit condition：** 40项决赛名册已可作为明确的selected-finalist frame进行全量公开作品轨迹追踪（但目前尚未实施40/40 follow-up，不能报后续率）。升级到初赛层仍须逐一核验官方75作品题名—团队公示名；在此之前不得声称 `prelim_roster_complete=75/75` 或计算75项后续率。2024地区归属亦必须单独确认，因为赛事包含港澳台及海外学生。
