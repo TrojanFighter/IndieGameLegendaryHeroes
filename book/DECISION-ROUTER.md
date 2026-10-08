@@ -214,16 +214,16 @@ Into the Breach提供了第二种经历。FTL成功后，Subset保留小核心�
 
 # 第三步：这次到底应该移动什么？
 
-| 你的真实问题 | 优先 maneuver | 第一批案例 | 最大风险 |
+| 你的真实问题 | 可先考虑的调整 | 第一批案例 | 需要检查的风险 |
 |---|---|---|---|
-| 强项明显，项目未定 | **SHAPE** 项目适配能力 | Gunpoint / First Tree / Zachtronics | FIT-TRAP |
-| thesis 很强，缺共同核心能力 | **COMPOSE** founding capability | Nomada / Playdead | governance / equity / authorship |
-| thesis 已验证，缺生产能力 | **EXPAND** 购买 capability | Witness / Outer Wilds / House House / TGC | burn / control / future funding |
-| broad generalist，能力还不够成熟 | **ACCRETE** 连续项目生产能力 | Kenny Sun / Bills Must Be Paid | endless practice without market truth |
-| 技术强，局部问题无限多 | **STOP** 定义 enough condition | Factorio / Limit Theory | engine progress ≠ product progress |
-| 第一次成功，选择突然变多 | **PRESERVE OPTIONALITY** | Into the Breach / House House | success → premature fixed cost |
-| 已有多年固定产品 grammar | **AUDIT LOCK-IN** | Zachtronics / Spiderweb | switching cost / audience replacement |
-| 想从成熟 grammar 真正转出去 | **STAGED ESCAPE** 分维度解耦 | Croteam / The Talos Principle（首例）；Zachtronics / Spiderweb（压力对照） | 一家 studio 的成功≠已知普适规律；2014 与 2023 所有权不同 |
+| 强项明显，项目未定 | **SHAPE** 围绕能力形成作品 | Gunpoint / First Tree / Zachtronics | 强项是否使你选错问题 |
+| 作品方向明确，缺共同核心能力 | **COMPOSE** 与共同创始人组合能力 | Nomada / Playdead | 治理、股份与作者权利 |
+| 相关体验已有验证，缺生产能力 | **EXPAND** 用资金获得能力 | Witness / Outer Wilds / House House / TGC | 支出、控制权与后续资金依赖；体验反馈非完整商业验证 |
+| 多种技能尚未成熟 | **ACCRETE** 用连续项目积累能力 | Kenny Sun / Bills Must Be Paid | 一直练习却不接受市场检验 |
+| 技术强，局部问题无限多 | **STOP** 明确做到什么程度就够了 | Factorio / Limit Theory | 引擎进展是否转成产品进展 |
+| 第一次成功，选择突然变多 | **PRESERVE OPTIONALITY** 保留探索和放弃的空间 | Into the Breach / House House | 过早增加固定支出 |
+| 已多年沿用固定制作方式与产品类型 | **AUDIT LOCK-IN** 核对转型限制 | Zachtronics / Spiderweb | 切换成本与新受众的建立 |
+| 想从成熟制作路线转出去 | **STAGED ESCAPE** 分开改变不同层面 | Croteam / The Talos Principle；Zachtronics / Spiderweb作压力对照 | 单个工作室不能证明普遍规律；2014与2023所有权不同 |
 
 ---
 
@@ -231,81 +231,46 @@ Into the Breach提供了第二种经历。FTL成功后，Subset保留小核心�
 
 ## 1. 不要只按职业认领案例
 
-“我是程序员，所以我看 Carmack”不够。
-
-还要问：
-- 你有没有他的技术 frontier capability？
-- 你有没有 runway？
-- 你的项目是不是技术创造型？
-- 你真正的问题是不是反而在市场 / 美术 /组织？
-
-岗位名称不是 capability vector。
+“我是程序员，所以我看Carmack”只能提供阅读兴趣。用于决定下一步时，还要比较：你能否推进所需技术，资金能支持多久，项目是否需要技术创造，以及主要困难是否落在市场、美术或组织。岗位名称不能代替这些实际能力。
 
 ## 2. 不要只按年龄认领案例
 
-24 岁、34 岁并不是风险模型。
-
-真正相关的是：
-- household burn；
-- dependents；
-- debt；
-- healthcare / visa；
-- reemployment；
-- savings；
-- spouse / family support；
-- geographic cost。
+年龄相近也可能承担完全不同的风险。比较家庭支出、需要照护的人、债务、医疗与签证约束、再就业条件、储蓄、伴侣或家庭支持，以及所在地区的生活成本。
 
 ## 3. 不要把成功结果倒写成正确动作
 
-同一个动作可能：
-- 在一个 regime 是高杠杆；
-- 在另一个 regime 是灾难。
-
-所以每个案例都继续问：
+同一个动作在不同年代和生产条件下，可能提供很大帮助，也可能带来严重损失。读到成功结果时，继续问：
 
 > **哪一年？什么平台？什么融资环境？什么已有能力？**
 
 ## 4. 至少匹配两个坐标，再谈“这个案例像我”
 
-如果你只和一个案例共享：
-> “都是程序员”
+至少在下面两类条件上接近，才适合用来比较下一步：
 
-不够。
+- 已有能力与缺口；
+- 风险与可持续制作时间；
+- 项目阶段；
+- 市场接入；
+- 治理关系。
 
-更合理的比较至少需要同时接近两类：
-
-- capability position；
-- risk / runway position；
-- project stage；
-- market access；
-- governance structure。
-
-否则只是人物爱好，不是人生决策对照。
+只共享职业或年龄，仍不能说明同一种选择适合你。
 
 ---
 
 # 目前还没有答案的格子
 
-本页故意保留空白。
+## 已被多年制作方式与受众期待限制以后，怎样转型？
 
-## 成熟 FIT-LOCK-IN 之后怎样成功逃逸？
-
-现在有：
+先看限制怎样形成：
 - [Zachtronics](../cases/CASE-051-zachtronics.md)；
 - [Spiderweb Software](../cases/CASE-058-spiderweb-fit-lock-in.md)；
 
-可以证明：
-> 长期 fit 会积累成专用生产资本和 audience expectation。
-
-也有：
+长期适配会积累专门工具、制作能力与受众期待。再比较较早的预防：
 - [Into the Breach](../cases/CASE-020-into-the-breach.md)；
 
-可以证明：
-> 第一次成功后，团队可以通过低 burn、延迟承诺和不做直接续作来**防止过早锁死**。
+第一次成功后，低固定支出、延迟承诺和不做直接续作，可以帮助保留选择。成熟路线的分叉，目前有Croteam这一例：
 
-现在找到第一份成熟 grammar 成功分叉正例：
-
-- [Croteam / Serious Sam → The Talos Principle → UE5](../cases/CASE-060-croteam-staged-lockin-escape.md) — 十余年 FPS 后，**2014 保留 Serious Engine/Editor**，但把不适合射击节奏的新谜题分离为独立产品，并补充外部写作和玩家测试能力；**2023 则在 2020 年已被 Devolver 收购的另一个所有权制度下，换掉自研技术底座而保留解谜产品语法**。
+- [Croteam / Serious Sam → The Talos Principle → UE5](../cases/CASE-060-croteam-staged-lockin-escape.md) — 十余年FPS后，2014年的解谜作品保留Serious Engine/Editor，把不适合射击节奏的新谜题分离出来，并增加外部写作和玩家测试能力。2023年又换用UE5，保留解谜作品的基本做法；此时已在2020年被Devolver收购，所有权制度不同。
 
 因此可以提出一种有证据支持、但尚未经跨工作室验证的机制：
 
@@ -313,15 +278,15 @@ Into the Breach提供了第二种经历。FTL成功后，Subset保留小核心�
 
 但仍然没有权利把它写成“低成本、可复制的成熟锁定逃逸公式”：Croteam 的 2014 项目预算、Devolver 条款、受众迁移和完整利润都尚未核实。
 
-真正值得继续找的不是第三个被锁住的作者，而是：
-- 独立新品牌是否降低 audience baggage；
-- parallel team 是否降低 workflow reset；
-- retained earnings 是否能购买 transition runway；
-- side project 是否能先生成新 capability；
-- 是否保留 technology substrate、只换 product grammar；
-- 是否先建立新 audience bridge 再扩大承诺。
+后续需要寻找能回答这些问题的对照：
+- 新品牌是否减轻原受众期待；
+- 并行团队是否减少重建工作方式的成本；
+- 前作收入是否能支付转型期间的制作与生活；
+- 业余项目是否能先形成新能力；
+- 能否保留技术工具，只改变作品的规则与体验；
+- 能否先接触新受众，再扩大承诺。
 
-这会是下一阶段唯一高优先级的新案例方向之一。
+这是下一阶段优先补证的方向之一。
 
 ---
 
@@ -330,16 +295,10 @@ Into the Breach提供了第二种经历。FTL成功后，Subset保留小核心�
 - **“我会很多，但不知道该做什么。”** → [能力反向立项](../claims/C015-capability-shaped-project-formation.md)
 - **“我不敢辞职。”** → [先买几个月试错](chapters/02-buy-time-before-betting-your-life.md)
 - **“作品已经想好了，但团队缺关键能力。”** → [LR-004 改作品还是补能力？](life-routes/project-thesis-capability-gap-004.md)（Nomada / Witness / House House / TGC 为对照）
-- **“我技术很强，但项目越做越大。”** → Limit Theory + Factorio
-- **“我成功过一次，不知道该不该扩张。”** → Into the Breach
-- **“我已经被自己最擅长的类型锁住了。”** → Zachtronics + Spiderweb（代价）→ [Croteam（分阶段转型）](../cases/CASE-060-croteam-staged-lockin-escape.md)
+- **“我技术很强，但项目越做越大。”** → [Limit Theory人物稿](profiles/josh-parnell-limit-theory.md) + [Factorio技术停项条件](../cases/CASE-055-factorio-stop-conditions.md)
+- **“我成功过一次，不知道该不该扩张。”** → [第一次成功以后](chapters/07-success-buys-the-next-question.md) + [Into the Breach研究档案](../cases/CASE-020-into-the-breach.md)
+- **“我已经被自己最擅长的类型锁住了。”** → [Zachtronics人物稿](profiles/zach-barth-zachtronics.md) + [Spiderweb研究档案](../cases/CASE-058-spiderweb-fit-lock-in.md) → [Croteam分阶段转型](../cases/CASE-060-croteam-staged-lockin-escape.md)
 - **“我是名校 / 大厂高绩效者，想转作者项目。”** → [LR-001 大厂老兵→作者项目](life-routes/big-company-veteran-to-author-001.md)
 - **“我只想按职业找相似的人。”** → [按主创者能力进入](READER-ARCHETYPES.md)
 
-真正的阅读顺序不是：
-
-> Case 001 → Case 058。
-
-而是：
-
-> **我的处境 → 我的约束 → 我现在要移动哪一个变量 → 找到最接近的历史对照。**
+从自己的处境与约束出发，确定这次要调整什么，再找最接近的历史对照。编号只是回查材料的办法。
