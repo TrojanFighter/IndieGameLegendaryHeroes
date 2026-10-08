@@ -10,7 +10,7 @@
 
 想读故事，可以从下面选一个和你现在最接近的问题；不用先熟悉研究编号。
 
-如果你更愿意像读一本书一样顺序读，目前已经有六篇跨人物章节（第六篇是跨篇章专题）：
+如果你更愿意像读一本书一样顺序读，目前已经有七篇跨人物章节（第六篇是跨篇章专题）：
 
 1. [目标不是先想清楚的](chapters/01-goals-are-made-not-found.md)
 2. [先买几个月试错](chapters/02-buy-time-before-betting-your-life.md)
@@ -18,6 +18,7 @@
 4. [技术时代不会替你做选择](chapters/04-technology-will-not-choose-for-you.md)
 5. [市场不是最后一步](chapters/05-market-interface-is-production.md)
 6. [你缺的真是一支团队吗？](chapters/06-you-do-not-need-a-standard-studio.md)
+7. [第一次成功以后](chapters/07-success-buys-the-next-question.md)
 
 完整章节目录见 [Chapters](chapters/README.md)。
 
@@ -249,6 +250,8 @@ Kickstarter之前，FTL的两位创作者已有职业经验，先用储蓄留出
 ---
 
 ## 我已经成功过一次，为什么事情反而越来越复杂
+
+先读：[第一次成功以后：钱可以买时间，也会把新的工作交给你](chapters/07-success-buys-the-next-question.md)。
 
 先看下一步需要什么：
 

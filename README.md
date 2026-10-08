@@ -19,13 +19,14 @@
 
 它按现实问题组织文章，不要求你先理解 Case / Evidence / Claim。你可以从“我不知道自己以后要做什么”“该不该辞职”“没钱怎么办”“失败很多次还有没有意义”“新技术到底改变了什么”直接进入已经写出的跨人物章节，再按兴趣下钻到完整 Profile。
 
-当前书稿已有六篇跨人物章节样稿：
+当前书稿已有七篇跨人物章节样稿：
 - [目标不是先想清楚的](book/chapters/01-goals-are-made-not-found.md)
 - [先买几个月试错](book/chapters/02-buy-time-before-betting-your-life.md)
 - [失败不是资产](book/chapters/03-failure-only-matters-if-something-survives.md)
 - [技术时代不会替你做选择](book/chapters/04-technology-will-not-choose-for-you.md)
 - [市场不是最后一步](book/chapters/05-market-interface-is-production.md)
 - [你缺的真是一支团队吗？](book/chapters/06-you-do-not-need-a-standard-studio.md) — 《GRIS》《Gunpoint》《Playdead》等案例中的能力选择与合伙代价
+- [第一次成功以后](book/chapters/07-success-buys-the-next-question.md) — 第二作探索、自发行劳动、组织协调与转型成本
 
 现在新增三篇完整人物稿，研究第一次成功前的能力前史、真实机会成本和成功后的职业选择：
 - [Nomada / GRIS → Neva](book/profiles/nomada-gris-neva.md) — 插画家与 AAA 程序员如何成为共同作者。
