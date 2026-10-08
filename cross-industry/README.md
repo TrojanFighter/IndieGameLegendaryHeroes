@@ -75,7 +75,7 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 - [Sensemaking / Ambiguity Competence：Weick、模糊决策与行动中的理解](sensemaking-ambiguity-competence-001.md) — 把 identity / retrospect / enactment / social / cues / plausibility 等sensemaking机制与 Small Wins、Mann Gulch、Drop Your Tools 接入前范式决策框架；提出 PROVISIONAL COHERENCE、ACTION-GENERATED EVIDENCE、CUE REGIME、IDENTITY–CUE LOOP、SOCIAL SENSEMAKING BANDWIDTH、PROBLEM-SCALE FIT 与 BEST UPDATABLE STORY，用于区分模糊决策能力与单纯信息不足。
 
-- [Intuitive Expertise / Taste Validity：Klein × Kahneman × Hogarth](intuitive-expertise-taste-validity-001.md) — 用2009年Kahneman–Klein共同结论与Hogarth kind/wicked learning环境，为Taste Capital加上环境有效性、反馈完整性和领域迁移边界；核实消防指挥研究的26名专家/156决策点，提出 TASTE DOMAIN MAP、EXPERTISE SCOPE DISCIPLINE、LEARNING-ENVIRONMENT TRANSFER GAP，连接CDM与Premortem，并区分快速模式识别、预测校准和创造性问题形成。
+- [Intuitive Expertise / Taste Validity：Klein × Kahneman × Hogarth](intuitive-expertise-taste-validity-001.md) — 用2009年Kahneman–Klein共同结论与Hogarth kind/wicked learning环境，为Taste Capital加上环境有效性、反馈完整性和领域迁移边界；核实消防指挥研究的26名专家/156决策点，提出 TASTE DOMAIN MAP、EXPERTISE SCOPE DISCIPLINE、LEARNING-ENVIRONMENT TRANSFER GAP，连接CDM与Premortem，并区分快速模式识别、预测校准和创造性问题形成；追加“判断主权属于个人，判断信用来自现实”原则及 Jobs / Miyamoto / Carmack 人物判断审计协议（待执行）。
 
 ### 统一分析模板
 

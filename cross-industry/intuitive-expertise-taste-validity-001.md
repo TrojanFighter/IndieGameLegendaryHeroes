@@ -416,6 +416,76 @@ context → pre-registered forecast → artifact/action → observed outcome →
 7. 高级导师如何防止在把自己的“局部专长”授予新人时误将个人身份与全部判断权捆绑？
 8. 能否用CDM、版本历史、pre-mortem与prediction log共同建立更高保真Judgment Trace？
 
+## 17. 统一原则：判断主权属于个人，判断信用来自现实
+
+与 [Innovation Constitutionalism](innovation-constitutionalism-exit-voice-loyalty-001.md) 及 [Judgment Under Uncertainty](judgment-under-uncertainty-theory-stack-001.md) 合并后，本项目把以下两件事严格分开：
+
+> **判断主权属于个人，判断信用来自现实。**
+
+### Judgment Right — 判断权
+任何人都可以提出非共识假说，包括没有职位、名校履历和先前成功的人。身份和权威不是发言、构造假说、申请低成本试验资格的先决条件。
+
+### Epistemic Credit — 认识论信用
+某人的判断是否值得在某个**特定领域**加重权重，要由相关问题中的前瞻性判断、有效反馈、错误校准、替代解释和适用环境决定。经验、履历、故事感染力、名气、职位和自信都不能代替这部分证据。
+
+二者不互相取消：
+- **有判断权**不意味着判断可靠；
+- **此前没有校准记录**不意味着没有探索权；
+- **某领域高度可靠**不意味着跨域也高度可靠；
+- **现实结果很好**不意味着提出者当时的因果判断就是成功原因。
+
+原则适用于人类专家、机构、LLM/Agent以及研究者自己。
+
+## 18. 首批 Taste Reliability Audit：范围、取证与防错
+
+**Status: AUDIT PROTOCOL / OPEN QUESTIONS; NOT A COMPLETED COMPARATIVE STUDY.**
+
+首批值得研究 Jobs、Miyamoto、Carmack，再加入同年代/同任务下声望相近但结果不佳者和未成名者，避免将成功者传记直接当成校准记录。前三者是**不同领域的压力测试样本**，不是可代表整个产业的随机样本。
+
+### 18.1 每个Decision Episode最小记录字段
+
+| 字段 | 记录要求 |
+|---|---|
+| Decision date / domain | 当时哪年、哪个产品阶段、属于技术/手感/市场/组织/设计哪一类 |
+| Information available then | 决策时公开或组织可得的材料，不得用后来结果倒灌 |
+| Actor's contemporaneous claim | 决策前或决策当时本人到底提出了什么主张；找不到记 UNKNOWN |
+| Alternative paths | 同期真实替代方案；无证据不虚构 |
+| Decision right / stake | 当事人有何权限、押了什么、是否可以逆转 |
+| Forecast / falsifier | 有没有明确事前预测、可能改变判断的条件；没有不得补写 |
+| Outcome / time window | 何时出现、按哪个尺度衡量；销量、口碑、制作能力和组织健康要分开 |
+| Calibration verdict | 只能在存在足够可评分预测时评论预测准确；否则仅记录选择—结果 |
+| Environment validity / shift | 此前经验和本次问题之间的环境规律是否可迁移 |
+| Countercases / denominator | 同期失败者、未选方案、其他团队、采访可见性与样本截尾 |
+| Evidence tier | P0 / P1 / S1 / S2 / H；回忆性叙事不能伪装为同期预测 |
+| Transfer validity | 发生年代、技术/市场/平台版本与2026年的迁移边界 |
+
+### 18.2 对三位候选人物的不同审计任务
+
+- **Jobs**：区分产品整合Taste、设计/商业化判断与大品类预测；优先找当时的产品决策、价格与定位依据、失败项目及事后修正。不能因为后来Apple整体成功，就给每个早期判断追认正确。
+- **Miyamoto**：区分高频动作/游戏行为/可读性迭代的判断，与硬件、受众扩大、市场预测；同时检视其他Nintendo开发者真实的判断权。不能把集体作品和公司销量单人归因。
+- **Carmack**：区分技术可行性、性能/近似求解、工具链与产品整合、玩法、商业市场判断；审计技术突破收益与进度、内容生产、组织成本的不同口径。不能以某种技术先进，推出产品判断必然先进。
+
+### 18.3 强制比较规则
+
+1. **不从三名天才推断一般人的直觉准确率**，也不从单一失败断言其Taste不存在。
+2. **不把已成产品的结果伪造成事前概率预测**；若无同期记录，应记“forecast unavailable”。
+3. **不拿作品命中率等同预测命中率**：团队选择、资金、营销、技术窗口、平台、运气都是混杂变量。
+4. **不把局部Taste可靠性升级为跨域组织统治权**，也不因新领域缺少历史规律而否定探索合法性。
+5. **若证据仅够做选择史，不够做Reliability Audit，应明确降级**为决策事件目录，未来再补校准数据。
+
+### 18.4 合理的下一步
+
+优先建立每人5–8个有明确日期和可检索当期资料的Decision Episodes；至少为每人找2个不利结果/明确修正的片段，再寻找同一时间尺度下的对照。完成证据搜集后，再决定哪些领域可形成有分母的校准判断，哪些只能讲“选择曾经发生过什么”。这些是**研究目标，不是已完成数量**。
+
+结论必须区分：
+- 快速情境识别；
+- 预测校准；
+- 生成性问题选择；
+- 最终产出；
+- 组织权力与制度条件。
+
+---
+
 ## Sources / audit pointers
 
 - Kahneman & Klein 2009, *American Psychologist*: https://doi.org/10.1037/a0016755
