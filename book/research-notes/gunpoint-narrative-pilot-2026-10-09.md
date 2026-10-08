@@ -200,3 +200,25 @@ Delete先去反复定义与例行结论；Restore Person用可审计的工具尝
 当前交付为完整编辑候选加原稿快照、小样A/B与差异记录。状态仍AUTHOR_REVIEW_PENDING，尚不能ACCEPT_REVISION或合并。下一步可以由作者保留原稿、要求再次修改或接收候选；DOOM与Chapter06仍是后续独立试验，不在本PR展开。
 
 整篇独立审读已执行：另一编辑代理对照全部原Profile、Case/Ledger与候选，确认原八项建议合并无明显损失、贡献者及工作退出等边界保留。指出的“原型只完成移动”排他断言已修为“进度指移动原型”；从评论删建议与美术后第二视频两处退回已登记摘要口径；数字归于本人复盘，避免后台语言遮蔽来源性质。无未纠正REGRESSION；本次独立审读未重开外链，NOT TESTED与作者验收限制不变。reader-layer lint与diff检查通过，原Profile/研究文件保持基线。
+
+## 报道补读第二批：试错、协作与下一作
+
+2026-10-09按作者“多到网上搜索这些报道再来整合”的要求，检索职业转变、开发复盘、设计访谈与会议报道。下面三篇已读取全部文章正文并核对署名、日期；访问日期均为2026-10-09。这是Lane C的编辑接入清单，新增事实状态为 **VERIFY_IN_LANE_B / NOT_ADOPTED**，不改Case、Evidence或研究结论。
+
+| 来源 | 读到的材料与候选接入位置 | 忠实性与接入限制 |
+| --- | --- | --- |
+| [We ask indies: Tom Francis, creator of Gunpoint, Heat Signature and The Grappling Hook Game!](https://www.gamedeveloper.com/design/we-ask-indies-tom-francis-creator-of-gunpoint-heat-signature-and-the-grappling-hook-game-)，Nico Saraintaris，Game Developer Featured Blog，2014-02-05 | Q1–Q3：本人回述早期关卡/简单mod尝试，并把接线想法与先前关卡设计联系起来。若核证，可在“把评论交给玩家检验”补足前史，再于规则节交代来源 | 托管于专业网站的社区访谈不自动等于编辑部S1报道。须由Lane B核说话人与原访谈谱系；“无传统开发履历”不能膨胀为从未尝试mod或编程。Q1约2010年4月与Giant Bomb所述5月需区分开工和开始博客，不能静默择一 |
+| [How Gunpoint dev Tom Francis settled on his next commercial game](https://www.gamedeveloper.com/design/how-i-gunpoint-i-dev-tom-francis-settled-on-his-next-commercial-game)，Mike Rose，Game Developer，2014-08-07 | 正文讨论公开原型招募协作者及下一作选择。拟用于协作节的事实校验，以及极短尾声中展示他后来仍需选择工具与项目 | Gunpoint经历为发售后回忆；当时Heat Signature进度为另一项目。对协作者贡献的成功解释须归于本人判断，不升级为已证明因果；下一作预付报酬不可倒填成Gunpoint安排。工具快慢只及本人当时经历 |
+| [Scope Creep: A useful, treacherous tool, says Heat Signature dev](https://www.gamedeveloper.com/design/scope-creep-a-useful-treacherous-tool-says-i-heat-signature-i-dev)，Kris Graft，Game Developer，2018-03-19 | 会议报道中，他回顾Gunpoint原型怎样发现核心，也讲同种探索在Heat Signature里遭遇困难。拟校验规则节与尾声，避免把删减写成从未走弯路的计划执行 | 对Gunpoint是多年后回顾；记者报道不等于已观看演讲，未取得timecode。工期超预期口径不能替换总开发周期；个人试错经验不能变成所有小团队都该扩大范围的建议 |
+
+同时重读Giant Bomb全文（原论坛链接的可读文章入口已列在第一批表中）、E004完整采访与E002全文。E001本轮页面初次返回内容，随后定位正文超时，本轮不重复宣称全文重读成功；前轮完整阅读记录仍在。E005仅重核官方会议信息与简介，未看完整演讲。搜索所得“30美元预算/64秒回本”等标题未作为新事实采纳；成本口径必须先核原始财务自述与协作者报酬。
+
+### 整合裁决与后续核证顺序
+
+1. **优先核电梯与Cold Call。** E004末段是已有来源中的具体失手和删减材料，但当前Ledger没有登记这些关键细节。拟在路线图与规则之间增加一个反差：会删计划的人也会陷在小功能里。核证前不加入候选，不写成电梯耗时导致某次删剧情。
+2. **再核早期关卡经验与核心发现。** 2014访谈、2018报道与2010日志回答不同时间点的问题。先区分“规则设想”“开始实现”“发现核心”三个节点；不能用2018回顾替2010人物补出成熟认识。现候选已明确2010尚未实现、2014才有方法归纳，继续保留。
+3. **结尾优先用本人职业变化，少加新作品概要。** E002已承担销售阈值与休假后辞职。其运气、自由时间及身份感受尚未进入Ledger；若接入，应作为标年自述，不能虚构辞职当天场景、心理或家计。2014下一作与2018经验只在确能推进这条人物线时使用。
+
+新增报道暂未进入人物正文。已登记的协作者、分成、职业网络和销售后退出仍构成现候选的行动与后果；补读的用途是找出还欠哪些具体经历、校验人物是否被写成完美判断者。待Lane B核证后可交第二版小样，保留当前候选与原稿供比较，不以来源篇数作为阅读质量证据。
+
+**Fidelity Readback：** 本次仅追加编辑参考；人物、时间、数字、否定/情态、因果、回顾与同期、UNKNOWN/H/Signal均未在候选或正式Profile中变化。未采纳条目保持未采纳；没有新对白或仿写报道场景。六维A/B观察仍见上文，继续阅读意愿为NOT TESTED，作者验收仍待完成。本轮不修改Gate或将“补一个失败插曲”固定成全书模板。
