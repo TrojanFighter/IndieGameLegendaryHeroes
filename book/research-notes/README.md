@@ -6,7 +6,7 @@
 
 ## 当前索引
 
-- [`creator-exit-reentry-economics-044.md`](creator-exit-reentry-economics-044.md) — OQ-002/005/006 的失败后人生结果层：GBGames、Atomic Armies、PONCHO、Mountaincore、Iron Cross→Attack at Dawn 与 Drunk Shotgun；建立 Exit Outcome Vector / Reversibility Capital，区分项目、公司、就业、作者性和残余资产，不把“回上班”“出第二作”“法人关闭”混成一个结局。
+- [`beginner-jam-public-authorial-persistence-cohort-045.md`](beginner-jam-public-authorial-persistence-cohort-045.md) — 2020 Beginner Friendly Game Jam 完整18个主提交账号的六年公开作者性追踪：固定入口后至少13/18有baseline后公开创作、至少4/18在2024–2026仍有明确新作；严格限定为public-authorial-continuation lower bound，不把空主页、未见后作或Jam持续误写成职业退出/职业留存。\n\n- [`creator-exit-reentry-economics-044.md`](creator-exit-reentry-economics-044.md) — OQ-002/005/006 的失败后人生结果层：GBGames、Atomic Armies、PONCHO、Mountaincore、Iron Cross→Attack at Dawn 与 Drunk Shotgun；建立 Exit Outcome Vector / Reversibility Capital，区分项目、公司、就业、作者性和残余资产，不把“回上班”“出第二作”“法人关闭”混成一个结局。
 
 - [`carmack-romero-complementary-error-correction-network-042.md`](carmack-romero-complementary-error-correction-network-042.md) — Dangerous Dave、Wolf3D push walls、Doom editor/glue与Quake反馈延迟：将Carmack×Romero从技能互补升级为跨域翻译/可否决/角色可塑/快速shared-build的纠错网络，并以Tom Hall与Playdead CASE-056反证二人神话和治理永久有效。
 
