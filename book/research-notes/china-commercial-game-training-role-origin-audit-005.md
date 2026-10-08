@@ -8,6 +8,8 @@
 
 > **2026-10-08制度补证入口**：[050 — NExT × 网易Mini × Supercell Spark](creator-selection-institution-comparison-050.md)。新增2018同期NExT孵化项目数/100人天评审与网易新人六周Demo、2025 Supercell选团队制度，以免将“存在个别原型策划”误写成“商业大厂没有或普遍拥有原创作者训练”。本文件现有职业便利样本仍不得当作发生率分母。
 
+> **2026-10-08负面观察入口**：[055 中国游戏项目主程《RESTART》未完成 + 2024《昆仑工程》Steam完成却错位](unshipped-creator-gates-china-spain-credit-055.md)。前者自述已能写Unity缓存/AssetBundle/FSM和受雇任主程，但2022私人作品无法达自己认可的可公开标准；后者不在游戏行业、是跨主机老玩家且最终发售，但缺早期陌生玩家测试、认为退款反馈偏难度。两人都反证“程序技能足够就自动会完成私人作者游戏”“玩得多就自动有校准过的市场体验判断”，但**绝不能把自述个人心理困难归因为商业岗位或应试教育**。与既有角色样本一起追`PROTOTYPE-AUTHORITY / FEEDBACK-PROXIMITY / SCOPE-CHOICE / PUBLICATION-TOLERANCE`。
+
 ## 0. 研究问题：真正需要检验的不是“程序员是不是比策划更会做独立游戏”
 
 一个反复出现的中国游戏行业观察是：
