@@ -517,13 +517,13 @@ id 在 DOOM / Quake 关卡、空间、战斗和美术层面长期保持很强的
 
 > **项目层的 Not Now，是否被错误升级成能力层的 Never Again。**
 
-### G. 对小团队 / playable stone 的迁移边界
+### G. 对小团队 / prototype 阶段的迁移边界
 
 这一条可以迁移到任何高强度 scale-down 阶段，但不能借此反对 MVP：
 
 > **CURRENT PRODUCTION PRIORITY ≠ PERMANENT EPISTEMIC HIERARCHY**
 
-当前 playable stone 可以正确地砍掉大量叙事、世界模拟、战略层或未来系统；真正危险的是把“当前不生产”误写成“完整产品不需要这类问题/能力”。
+当前 prototype / vertical-slice 阶段可以正确地砍掉大量叙事、世界模拟、战略层或未来系统；真正危险的是把“当前不生产”误写成“完整产品不需要这类问题/能力”。
 
 因此成熟的 scope discipline 应同时保存：
 1. **production cut**：现在不做；
