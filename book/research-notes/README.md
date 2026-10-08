@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`creator-exit-scope-five-biographies-china-us-054.md`](creator-exit-scope-five-biographies-china-us-054.md) — 希罗×亚恒×Gunpoint×The First Tree×early id：按入场前阅历和已出货、原型组织/砍规模、工资与家庭支持、何时辞职及市场接入作历史对照。新增2018亚恒本人10章→6章复盘、2017已辞职、2019家庭尊重/跨国阅读，Francis 2010试玩反驳、2013三个月假期，Wehle 2016全职+育儿和2017真实愿望单。拒绝“先辞职=勇敢/原创”和5例外推国别数量级。
+
 - [`ciga-heero-akaba-two-creator-life-crossroads-053.md`](ciga-heero-akaba-two-creator-life-crossroads-053.md) — 2017先发Steam再参2018Jam的国企电缆检修工希罗，与2018年先有Idea Pocket/嵌入式技能、经Jam组队验证后《拣爱》发行的亚恒：同期一手采访＋Steam核对，纠正Jam首次创作神话、solo署名误读、上市=财务自由与孤立国别例证。
 
 - [`open-prototype-community-china-global-entry-cohorts-052.md`](open-prototype-community-china-global-entry-cohorts-052.md) — 中国2024–25 CiGA GGJ/CGJ、CUSGA大学生完整作品、全球2025–26 GMTK/GGJ与2024 mod.io的规模与不同分母；巨鸟多多《刀塔自走棋》提供War3→Dota2 Mod养成国际新玩法反例；提出中外同口径公开非明星作者队列，拒绝全球平台vs中国单一区域的伪国别数量级比较。
