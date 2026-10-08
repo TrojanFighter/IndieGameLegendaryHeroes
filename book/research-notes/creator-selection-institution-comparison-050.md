@@ -258,3 +258,21 @@ CEO反而批评西方移动游戏依赖成熟游戏优化，呼吁能吸引新�
 - P1 2021机核对Battlestate主创采访：https://www.gcores.com/articles/132289
 - P1/repost 2015俄语Battlestate采访存档：https://steamcommunity.com/groups/EscapefromTarkov/discussions/0/494631873666487207/
 - S1 2020《永劫无间》24 Entertainment（网易投资）采访，团队选择买断/非P2W，证明“同一资本集团只有F2P”绝对断言不成立；非网易内部人才培训代表：https://news.17173.com/content/08032020/135746568.shtml
+
+
+## 13. 谁有资格当创意评委？不要把主管职级当成新创意的预测力
+
+新增衔接[中国032第27节](../../country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)：\`CREATIVE_FORECASTING\` 与 \`AUTHORITY_GATE\` 必须分开量测。
+
+- **学术量化锚点（2016，Berg）**：339名马戏行业创作/管理从业者及13,248观众对照中，创作者评价**别人的**新创意较经理准确，对自己的创意则不一定；不能凭“经理／作者”身份直接推断所有行业能力差异。https://www.gsb.stanford.edu/faculty-research/publications/balancing-creative-high-wire-forecasting-success-novel-ideas
+- **外生反证（2022，PNAS）**：49期刊27,323投稿中，新颖性与接收正相关；不能把全部专业评审都写作反新颖性。https://www.pnas.org/doi/10.1073/pnas.2118046119
+- **项目早期的相反证据（Boudreau等）**：142专家随机评150医学项目产生2,130配对，较新颖的方案被折价；早期提案筛选与已完成稿件筛选本来就是不同门槛。https://dash.harvard.edu/entities/publication/73120378-ab5f-6bd4-e053-0100007fdf3b
+- **游戏一手教训**：《Demon's Souls》2009欧美发行在索尼内部未获支持，吉田修平2012复盘同时指向早期技术展示不足与自身未识别价值，不是只凭最终销量判定每次评审当时都应批准。https://gameinformer.com/b/news/archive/2012/02/10/shuhei-yoshida-interview
+
+**研究字段**：\`evaluator_role\`、\`actual_creation_history\`、\`project_stage_at_review\`、\`decision_reason_recorded\`、\`cost_of_small_probe\`、\`forecast_vs_observed_feedback\`、\`author_reentry_right\`。其中“原型评委属于名校/海外3A/大厂经理”不能当作预测准确性变量；可以记录但不能作为主证据。
+
+**普通人的可见分母**：本库[051 Amnesia Fortnight](double-fine-amnesia-public-pitch-cohorts-051.md)已有2012/2017/2026提案公示名单与多次未入选作者的重提记录；[054 PABL](pabl-solo-author-scope-down-career-054.md)则记录国内低资源作者通过自主原型完成商业作品。这些样本各自只能证明不同环节的存在性，不能混作中外成功率。
+
+**结论**：创新制度至少要同时具有异类进入、真实创意鉴别、低成本验证和失败再尝试；管理者必须有预算/风险裁决能力，但未必能凭行政权限替代创作者与受众对原创体验的判断。
+
+---
