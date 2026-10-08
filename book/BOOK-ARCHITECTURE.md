@@ -366,6 +366,8 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 
 ## Part VI — 第一次成功以后，题目会换掉
 
+当前章节候选：[第一次成功以后：钱可以买时间，也会把新的工作交给你](chapters/07-success-buys-the-next-question.md)。先消费已有Subset、early id、thatgamecompany与Zachtronics证据；其余人物池不是已写入正文的承诺。
+
 核心问题：
 
 > 为什么成功以后反而更难？成功的钱应先购买新能力，还是购买暂不承诺的选择权？

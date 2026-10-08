@@ -76,7 +76,15 @@ Minecraft、Factorio、Bills Must Be Paid 与 Brigador 说明：市场接口可�
 
 ---
 
-## 接下来会写什么
+### Part VI — 第一次成功以后，题目会换掉
+
+> **已经做成过一次，下一笔钱应该购买什么？**
+
+[第一次成功以后：钱可以买时间，也会把新的工作交给你](chapters/07-success-buys-the-next-question.md)
+
+Subset为不同作品留出探索时间，thatgamecompany接过发行与服务劳动，id面对更复杂项目的协调，Zachtronics重新判断专门制作的未来。成功提供资源，下一次选择仍需承担代价。
+
+## 全书结构与后续填充
 
 完整结构见 [BOOK-ARCHITECTURE](BOOK-ARCHITECTURE.md)。目前规划六个 Part：
 
