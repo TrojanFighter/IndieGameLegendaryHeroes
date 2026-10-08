@@ -8,6 +8,7 @@
 - Indie movement definition: [Indie Movement](../../book/INDIE-MOVEMENT.md)
 - Capability route: [Industrial Capability × Independent Authorship](../../book/research-notes/industrial-capability-independent-authorship-comparison-027.md)
 - Core case: [CASE-061 — Supergiant / Bastion](../../cases/CASE-061-supergiant-bastion-aaa-to-author.md)
+- Individualism synthesis: [027 — Individualism as Innovation Infrastructure](027-individualism-as-innovation-infrastructure.md)
 - Boundary: 本文明确禁止把“离开大厂创业”“做不同产品”“成为独立公司”“做indie”“获得作者权”五件事互相替代。
 
 ## 0. 核心修正
