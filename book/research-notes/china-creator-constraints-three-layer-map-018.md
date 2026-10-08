@@ -900,6 +900,337 @@ Source:
 - 公司介入教育必然提高或降低原创能力。
 
 
+
+
+## 1.3.10 Hiring-Function Audit｜大厂到底在筛什么，而不是“哪个国家更看作品”
+
+在 Pre-Firm Creator Substrate 与 Maker-to-Career Conversion 之后，真正进入公司的人还要经过 **HIRING SELECTION FUNCTION / 招聘选择函数**。2026-10-08 做第一轮同时间窗招聘快照后，一个重要修正是：
+
+> **当前证据不支持“欧美游戏大厂主要看作品、中国/韩国大厂主要看学历与标准答案”的简单国别二分。**
+
+至少在游戏策划 / game design 相邻岗位里，中韩欧美公司都混合使用：
+- 学历或在校身份；
+- 游戏经历 / genre familiarity；
+- portfolio / project links；
+- playable prototype / engine ability；
+- 文档与逻辑能力；
+- 项目/实习经历；
+- 岗位测试；
+- 数据 / live-service / production fit。
+
+真正的差异目前更像 **role × project × production regime**，而不是 country dummy。
+
+### A. 2026–2027 早期职业 / junior 招聘快照
+
+#### Tencent｜《和平精英》产品策划 / 新星引力计划
+
+当前公开岗位允许“应届优秀者”考虑，但明确要求：
+- 本科及以上；
+- 丰富游戏经历；
+- 主流游戏品类与玩家文化理解；
+- 逻辑拆解、需求文档、产品原型；
+- 数据驱动迭代；
+- 《和平精英》5个赛季王牌以上为加分项。
+
+本岗位公开页没有要求个人 playable game / game-design portfolio；它主要验证 **product/system execution + target-product player depth + data/logic**。
+
+Source, official:
+- Tencent Careers, 2026-08-25 updated: https://careers.tencent.com/zh-cn/jobdesc.html?postId=2092153248067792896
+
+#### miHoYo｜2027 系统策划 / 关卡策划实习
+
+当前二手镜像的米哈游招聘信息（指向官方岗位链接）显示：
+- 系统策划要求“热爱游戏、涉猎广泛、有丰富游戏经历”；
+- 投递时**必须提供个人游戏经历**，包括游戏名称、时长、相关成就；
+- 作品集不是系统策划硬性必需，但鼓励提供设计文档，若有 Demo 要附试玩录屏；
+- 关卡策划实习要求熟悉商业引擎、能独立实现简单原型；
+- 个人游戏 Demo 经历是加分项；
+- 同样要求详细游戏经历。
+
+这说明米哈游的早期设计岗至少在公开招聘层面并不只筛 credential，而是显式筛：
+**Player Capital + Design Reasoning + Prototype Ability**。
+
+Sources, secondary mirrors of current company postings:
+- miHoYo 2027 System Designer: https://www.nowcoder.com/feed/main/detail/f2a83f72ac834f70a54b60b8ccb8b708
+- miHoYo 2027 Level Design Intern: https://www.nowcoder.com/feed/main/detail/f4a54f498f6c4aa1a59dec68f8bcef53
+
+Boundary:
+- 当前官方动态职位页未被搜索引擎完整索引，因此本轮不把二手镜像升为 P0；
+- “作品集可选”不能解释成作品不重要，真实简历筛选权重 UNKNOWN。
+
+#### NetEase Games｜《无限大》关卡策划实习
+
+2026 当前招聘镜像显示：
+- 欢迎提供作品集；
+- 要求详细游戏经历；
+- 熟悉主机 / 二次元游戏关卡并有深度体验更佳；
+- 有代码经验更佳；
+- 强调创新、总结、执行与跨职能合作。
+
+它同样体现 **game-depth + artifact signal + implementation adjacency**，并不是纯学历筛选。
+
+Source, current secondary job mirror pointing to NetEase:
+- https://jobs.ultraai.site/jobs/netease/19310
+
+#### Nexon｜Embers of the Uncrowned 新人级战斗/职业设计
+
+Nexon 2026 当前官方职位把岗位标为“신입 / new hire”，公开要求主要是：
+- MMORPG 战斗机制理解；
+- PvP MMORPG / quarter-view action RPG 游戏经验与理解；
+- 能逻辑化、清晰地文档表达；
+- UE5、MMORPG 项目经验、PoE/Diablo 构筑理解为加分项。
+
+公开岗位中没有看到明确学历门槛，也没有强制 portfolio。
+
+Source, official:
+- Nexon Careers: https://careers.nexon.com/recruit/10361
+
+这直接构成一个反例：
+
+> **韩国头部公司同样可以在新人策划岗主要筛 genre knowledge / documentation，而不把个人 portfolio 写成硬门槛。**
+
+#### KRAFTON / Flyway Games｜Jazz & Juice Junior Content Designer
+
+当前 2026 岗位明确：
+- 1–3 年游戏策划经验，或**新卒可凭 portfolio 申请**；
+- portfolio 是提交材料；
+- 要能结构化解释自己觉得“哪里有趣”；
+- 能从玩家视角快速判断反应；
+- 英美流媒体 / TikTok / YouTube 日常消费、美国 Z/Alpha 世代 meme 理解，以及特定经营/制造模拟游戏理解都属于加分项；
+- 共同作品必须写清自己的贡献。
+
+Source, current direct hiring page:
+- Flyway Games / KRAFTON Greenhouse: https://job-boards.greenhouse.io/flywaygames/jobs/8859708002
+
+#### Electronic Arts / Respawn｜Apex Legends Game Designer Intern 2027
+
+当前招聘镜像显示：
+- 必须仍在 accredited college/university；
+- 要有 Unreal/Unity + scripting 能力；
+- **要求 comprehensive online design portfolio，且必须展示 functional gameplay work**；
+- 明确欢迎 systemic mechanics、balance maps、custom multiplayer scripts、mod frameworks、Overwatch Workshop、Fortnite Creative 或 standalone logic prototypes；
+- 同时要求对 FPS / Battle Royale 有非常深入的 tactical knowledge。
+
+Source, current secondary mirror:
+- https://www.internships.com/posting/game-designer-intern-summer-2027-apex-legends-electronic-arts-1031142873
+
+因此 EA 本例同时存在：
+- credential gate（仍需在校 degree program）；
+- maker/artifact gate；
+- genre-depth gate。
+
+它本身就否定“portfolio 与 credential 必然二选一”。
+
+#### Ubisoft｜Technical Game Designer, Rainbow Six Mobile
+
+当前官方岗位虽不是严格 new-grad，因此只作为 role-level 对照：
+- 需要 game/level design 相邻经历；
+- 需要编辑器/开发工具/系统设计 workflow；
+- 要求提交 **portfolio or project links demonstrating gameplay / systems / technical design work**；
+- 同时要求 tactical shooter / multiplayer / live-service 兴趣与理解。
+
+Source, official:
+- https://www.ubisoft.com/en-us/company/careers/search/744000143105029-technical-game-designer-rainbow-six-mobile
+
+### B. 第一结论：PORTFOLIOIZATION ≠ DE-CREDENTIALIZATION
+
+当前快照至少显示：
+
+> **作品集文化和学历/岗位匹配可以同时存在。**
+
+EA intern 是最清楚的例子：
+- 在校 credential 是门；
+- functional gameplay portfolio 又是第二道门。
+
+中国公司也不是“完全不看作品”：
+- 米哈游允许/鼓励策划作品与 Demo；
+- 网易关卡实习欢迎作品集；
+- 更专业化的关卡/美术岗位通常进一步提高 artifact 权重。
+
+韩国也不是“天然 portfolio-only”：
+- Nexon 当前一个新人战斗设计岗并未把 portfolio 写为硬条件；
+- KRAFTON Flyway 则恰好明确允许新卒凭 portfolio 进入。
+
+因此任何国家比较都必须控制：
+- role；
+- seniority；
+- project type；
+- production regime；
+- job family。
+
+### C. 第二结论：ARTIFACT PROOF ≠ PROBLEM-OWNERSHIP PROOF
+
+一个人能提供：
+- 一张 UE5 白盒；
+- 一个 Fortnite Creative 规则；
+- 一个系统策划案；
+- 一个战斗 Demo；
+
+证明的是：
+
+> **他能够把某种设计做成 artifact。**
+
+这并不自动证明：
+
+> **他会独立发现一个值得解决的新问题。**
+
+因此招聘信号必须拆成：
+
+### ARTIFACT PROOF / 作品证明
+能不能做出来？
+
+### PROBLEM-OWNERSHIP PROOF / 问题主权证明
+这个问题是不是自己发现/定义的？为什么值得解决？过程中有没有主动改题？
+
+目前大部分招聘信息对第一项观察得更直接；第二项通常只能从：
+- 设计起因；
+- 决策过程；
+- trade-off；
+- prototype iteration；
+- 为什么砍掉旧方向
+
+间接判断。
+
+米哈游公开招聘镜像要求作品集说明“设计起因和目的、过程中的思考、困难与解决方案”，已经比单纯看最终 asset 更接近第二项，但仍不能从岗位文案推断真实筛选权重。
+
+### D. 第三结论：很多“大厂看游戏阅历”其实首先是 REFERENCE-FIT FILTER
+
+本轮最一致的跨国现象不是学历，而是：
+
+> **公司倾向奖励对自己正在做的那类游戏非常熟的人。**
+
+例子：
+- 腾讯：《和平精英》高段位是加分；
+- Nexon：PvP MMORPG、PoE / Diablo 经验加分；
+- KRAFTON Flyway：经营/制造模拟游戏与英美青年媒体生态；
+- EA Apex：FPS / Battle Royale 的 tactical knowledge；
+- Ubisoft：tactical shooter / multiplayer / live-service 兴趣。
+
+可定义：
+
+### REFERENCE-FIT FILTER / 参照系适配筛选
+
+> **招聘函数优先选择已经理解当前项目 genre grammar、玩家语言与 production problem 的候选人。**
+
+这完全合理，因为能降低 onboarding cost，提高短期执行效率。
+
+但它与原创问题发现不是同一目标函数。
+
+长期风险：
+
+```text
+公司已有产品语法
+→ 招最懂该语法的人
+→ 新人更快产出
+→ 这些人以后成为 interviewer / mentor
+→ 下一代继续学习相同 reference set
+→ selector correlation 上升
+```
+
+这意味着即使公司“非常看游戏经历”，也必须继续区分：
+
+### TARGET DEPTH
+对目标游戏/品类有多深。
+
+### REFERENCE BREADTH
+跨类型、年代、地区、媒介的 reference set 有多宽。
+
+### MAKER EXPERIENCE
+是否亲自制造和失败过。
+
+三者不能用“资深玩家”一个标签合并。
+
+### E. 一个新的反直觉：Maker-friendly hiring 也可能强化 incumbent grammar
+
+EA 接受：
+- mod；
+- Overwatch Workshop；
+- Fortnite Creative；
+- standalone prototype。
+
+这是很强的 artifact-friendly signal。
+
+但该岗位仍然是 Apex Arcade team，因此最有价值的作品自然倾向：
+- FPS；
+- multiplayer；
+- system balance；
+- scripting。
+
+同样，KRAFTON 的 portfolio-friendly junior role 仍奖励：
+- 当前经营模拟品类；
+- 美国 youth meme；
+- streaming moments。
+
+所以：
+
+> **作品集招聘可以降低 credential mismatch，却仍然高度优化 job fit。**
+
+这不是缺陷，而是企业招聘的合理目标。
+
+因此不能把：
+
+> “公司看个人项目”
+
+直接解释成：
+
+> “公司在选择原发创新者”。
+
+更精确的是：
+
+### MAKER LEGIBILITY ≠ HETERODOX LEGIBILITY
+
+> **一个招聘制度可以非常善于识别“做过东西的人”，却仍不善于识别“会提出当前产品语法之外问题的人”。**
+
+### F. 当前最值得测的 Hiring Function 字段
+
+未来建立职位样本时，每条岗位至少编码：
+
+1. **DEGREE_GATE**：学历/在校身份是否硬门槛；
+2. **MAJOR_GATE**：专业限制；
+3. **GAME_DEPTH**：是否要求目标品类深度；
+4. **GAME_BREADTH**：是否明确奖励跨类型/跨地区/跨年代阅历；
+5. **PORTFOLIO_REQUIRED**；
+6. **PLAYABLE_ARTIFACT**：是否明确要/奖励 playable Demo、mod、map、prototype；
+7. **SELF_ORIGIN**：是否要求解释问题起因与本人定义；
+8. **IMPLEMENTATION**：是否要求自己进引擎/脚本实现；
+9. **SHIPPED / LIVE EXPERIENCE**；
+10. **DATA / LIVE-OPS**；
+11. **TAKE-HOME / TEST**；
+12. **REFERENCE-FIT**：岗位特定 benchmark/genre 熟悉度；
+13. **CROSS-DOMAIN SIGNAL**：是否奖励非游戏文化/学科输入；
+14. **CREDENTIAL_SUBSTITUTION**：强 artifact 是否可替代学历/正式经验。
+
+### G. 对“应试教育→大厂材料”假说的修正
+
+这一轮招聘快照目前更支持：
+
+> **大厂并非只依赖传统 credential；很多公司已经主动把游戏阅历、portfolio、prototype 和项目经验纳入选择。**
+
+因此，如果未来仍观察到 proposal-supply diversity 的数量级差异，不能简单归因于“HR 只招会考试的人”。
+
+更值得检验的是：
+
+1. 上游有多少高 PPAD maker 真正形成；
+2. 这些 maker 是否申请；
+3. 作品是否能跨过学历/职位匹配等 gate；
+4. 招聘的 artifact criteria 是筛 maker ability，还是主要筛 reference fit；
+5. 入职后异质 reference set 能否保持；
+6. 谁能从“很会做当前题”升级为“有资格重新出题”。
+
+当前状态：**H / SNAPSHOT SUPPORTED / COUNTRY EFFECT NOT IDENTIFIED**。
+
+本轮只证明：
+- 2026 中韩欧美头部公司都可观察到 artifact / game-experience / role-fit 信号；
+- clear country binary 不成立；
+- hiring function 可能成为 upstream composition 与 in-firm treatment 之间的独立 amplifier。
+
+不证明：
+- 各国公司实际录取权重相同；
+- portfolio 真实评分标准相同；
+- 学历 gate 对不同学校/地区的隐性权重相同；
+- 作品集导向会提高原创创新率。
+
+
 ## 1.4 对独立开发者真正重要的教育层变量
 
 后续案例统一编码：
