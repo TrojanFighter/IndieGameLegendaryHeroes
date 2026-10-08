@@ -100,6 +100,8 @@ Deus Ex是最重要的内部控制：同样的Ion Storm资本与“design autono
 
 043 暂定的组织变量包括：PROBLEM SOVEREIGNTY、REALITY ARBITRATION、BENCHMARK CAPTURE、SUNK-COST KILL CAPACITY、PROTECTED HERESY、SELECTIVE INSTITUTIONAL AMNESIA 与 INVARIANT RECOMPOSITION。杨小凯/林毅夫“后发优势—后发劣势”争论只作为模式切换的类比背景，不直接升级成游戏产业因果。
 
+Hall → Petersen → American McGee 的后续压力测试进一步修正“组织失去某类人才=失去某类能力”的过粗叙事：需要区分 **CAPABILITY PRESENCE vs CAPABILITY AGENCY**、**PERSONNEL AMPUTATION vs DECISION-RIGHT AMPUTATION**，以及 **SOLUTION DIVERSITY vs PROBLEM DIVERSITY**。当前更安全的 H 级解释是 **ORGANIZATIONAL COGNITIVE PRUNING**：连续成功会强化曾经有效的出题方式，而不必真的把异质人才全部清除。详见 043 §13.5。
+
 这个延长段把 id 从“创新英雄”改造成完整生命周期样本：**产生答案 → 成功与制度化 → 创始人栈失效/能力偏科 → 学习外部标准答案 → 重新夺回问题定义权**。下一步用 Eternal 与 The Dark Ages 检验：2016 的新理论是否会再次教条化，以及组织是否仍能推翻自己刚建立的成功公式。
 
 ## 六点十一、第二答案测试：革命理论也必须重新接受现实审判
