@@ -59,6 +59,8 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 - [Self-Obsolescence / Second-Answer Test：成功公式处决、自我过时与第二答案测试](self-obsolescence-second-answer-test-001.md) — 用 DOOM Eternal→The Dark Ages、Intel/Grove、Christensen、Apple、Nintendo 与 Pocketpair 边界样本检验：真正长期创新是否取决于让**自己的成功答案**重新接受现实审判；提出 SELF-OBSOLESCENCE、ORTHODOXY HALF-LIFE、SECOND-ANSWER TEST、LAGGED-EVIDENCE TRAP，并明确要求失败型自我蚕食与数量级对照。
 
+- [Complementary Taste / Founder Pair Lifecycle：互补鉴别力、创始组合与生命周期](complementary-taste-founder-pairs-001.md) — 用 Carmack×Romero 与 Jobs×Woz 两组不同终局的创始组合，区分 skill complementarity 与 ERROR COMPLEMENTARITY；提出 TRANSLATION BANDWIDTH、FEEDBACK-TIMING COMPATIBILITY、IDENTITY TERRITORY OVERLAP、TASK-BOUNDED COMPLEMENTARITY，并把组合终局拆为 CONFLICT FAILURE / TASK COMPLETION / CAPABILITY SUCCESSION。下一步用 Nintendo 多代师承与制度传递压力测试第三型。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
