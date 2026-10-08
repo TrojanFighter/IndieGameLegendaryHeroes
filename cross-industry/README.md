@@ -71,6 +71,8 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 - [Representation / Orientation / Paradigm：Alan Kay、Boyd、Kuhn、Lakatos 与前范式搜索](representation-orientation-paradigm-search-001.md) — 把 point-of-view leverage、new-medium masquerade、Kuhnian exemplar/normal science/anomaly、Boyd 的 Orientation / destruction-and-creation 与 Lakatos 的 progressive / degenerating research programme 接成一套表征更新框架；提出 REPRESENTATION SOVEREIGNTY、MEDIUM MASQUERADE、EXEMPLAR CAPTURE、ANOMALY PROMOTION THRESHOLD、PARADIGM PATCH BURDEN、ORIENTATION DEBT、PREDICTION-BEFORE-OUTCOME TEST 与 REPRESENTATION PROTOTYPING，并区分 output diversity 与 representation diversity。
 
+- [Double-Loop Learning / Defensive Routines：Argyris 与组织为什么明知有问题却学不会](double-loop-learning-defensive-routines-001.md) — 区分 single-loop 行动纠错与 double-loop governing-variable 重审；提出 LOOP-DEPTH MISMATCH、GOVERNING-VARIABLE LOCK、FEEDBACK THEATER、ESPOUSED–ENACTED GAP、SUCCESS-SHELTERED LEARNING、TESTABLE ADVOCACY 与 STRUCTURAL DOUBLE LOOP，并用 defensive routines / skilled incompetence 解释为什么聪明、成功、开放沟通的组织仍可能系统性逃避真正学习。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
