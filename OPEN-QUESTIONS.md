@@ -380,6 +380,29 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 
 ---
 
+
+## P1 — Education / Epistemic Autonomy / Decision Formation
+
+### OQ-019｜谁培养“判断”，谁只传承“判定正确的权力”？
+**Status:** `PARTIAL` — `AUTHOR HYPOTHESIS + RESEARCH DESIGN / PREVALENCE + CAUSALITY OPEN`  
+**Evidence in repo:** [中国031 第16节](country-studies/china/031-education-east-asian-discipline-reference-repertoire.md)的`EPISTEMIC DISCIPLINE / INHERITED VERDICT WITHOUT INHERITED JUDGMENT / SERMON-INDUCED KNOWLEDGE AVERSION`；[中国032 第28节](country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)的`GOAL-FORMATION & DECISION EDUCATION / HISTORICAL DECISION CASES`；[中国029 第9.1节](country-studies/china/029-orthodoxy-inversion-chundeng-farmer-inventor.md)的正统与评价权继承；中国032第25–27节已有模糊决策、创意评估和反例文献。2026-10-08所附教材/媒体截图只是**作者提出研究问题的原始观察**，不是政策意图、国别数量级或长期心理效应的证据。  
+**Unresolved core:** 目前不知道中国教材/课堂中以道德权威替代论证的频率，也不知道长期说教是否真正导致学生回避一手历史与人文材料；不知道项目/教育评价权与开放问题判断能力的相关性及因果方向；更不知道“以党史等史料做决策案例”相较一般课堂的迁移收益有多大。  
+**Closure condition:** 至少完成（1）不按传播热度抽取的真实教材+试卷+课堂固定样本；（2）同一批被试的开放目标/决策能力前后测与迁移题；（3）一个“表彰结论讲授 vs 先呈现当时史料的决策案例”的对照（最好随机）；（4）中日/台/韩或其他跨制度对照并报告分母、效应及无效结果。不能靠成功人物故事替代因果检验。  
+**Question:** 什么条件下“知识与成功经验的传承”会退化为“背诵权威判词”；何种教学能使学生重新接触原始材料、形成独立目标和行动判断？
+
+**Working variables**
+- `SOURCE_AUTONOMY`：主动选择原始材料的能力及阅读量（不仅主观兴趣）；
+- `EXPLANATION_OPENNESS`：面对与标准答案不同但有证据支持的解释，评分与教师如何回应；
+- `MORAL_ASSERTION_WITHOUT_WARRANT`：对价值判断附加因果断言却未给出证据或边界的频率；
+- `VERDICT_AUTHORITY / JUDGMENT_CALIBRATION`：否决权分布、事前预测、行动后校准；
+- `CARRIER_AVERSION`：对教学方式的逆反是否扩散到相关史料、传记或学科；
+- `DECISION_CASE_TRANSFER`：读案例之后是否改善新情境中的目标生成、反例检验与行动时机判断；
+- `RETAINED_DISCIPLINE_BENEFITS`：规范、记忆、系统性知识训练带来的正收益，作为反压力对照。
+
+**Route:** 中国031负责社会化上游与材料污染假说；032负责案例教学与测量；029负责产业创作判断权/评价权的继承；跨国比较只在同口径数据充分后进入综合。**警示：反规训不能成为另一套无需检验的教条。**
+
+---
+
 ## Usage
 
 其他对话领取问题时应：
