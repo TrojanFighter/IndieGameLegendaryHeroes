@@ -103,6 +103,12 @@ DOOM 则提醒我们：G2 并不总是先于技术突破。在 [CASE-016](../../
 
 每个字段都要有 Observation / Source / Counterexample / Temporal Regime。未写入不代表从未发生。
 
+## 7. 已有固定提案池对G2/G3/G6的新观测
+
+[051 Double Fine Amnesia Fortnight 2012–2026公开提案池](double-fine-amnesia-public-pitch-cohorts-051.md)增加一个以前较薄弱的观察窗口：`G2 想法/提案`本身可被登记，且未入选原型者也有署名。2012 23提案→5原型，2017 25→4，2026 26→4→1后续开发，**这些都是项目选择而非自然人的职业成功率**。
+
+Jeremy Natividad的2012/2017/2026三次未入选具名提案，Jared Mills的2017未入选→2026入选四强，Asif Siddiky的2017入选→2026再次入选四强，证明`一次项目未过G3机构门`不能推出`个人丧失下一次G2/G3机会`。2017原型Kiln到2026才发售，提醒`G6观察窗口`存在九年延迟；2012原型Spacebase DF-9商业1.0却提前收敛，则提醒`G5 paid return`不同于`可持续供养原定scope`。
+
 ## 7. 下一轮取证设计
 
 1. 使用相同时期的 game jam / mod uploader / 社团公开队列，至少在两地区分别追 G3→G4→G6；不把公开上传样本当全部意愿人口；
