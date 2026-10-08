@@ -93,7 +93,7 @@ David Wehle面对的约束不同。2016年，他已有技术美术工作和育�
 
 **你先做的测试：** 给自己一个限定任务，例如完成一个可评价的角色动画状态机、战斗手感样例或可复用工具链。比较实际达到的质量、迭代速度和维护负担，而不是衡量“我上了多少课”。
 
-**正例：** [Croteam](../../cases/CASE-060-croteam-staged-lockin-escape.md) 继承 Serious Engine/Editor，但为新解谜体验发展了自身的难度测试、外部 alpha 和自动 QA；它不是要求每个人重新学习完整技术栈。
+**历史对照：** [Croteam](../../cases/CASE-060-croteam-staged-lockin-escape.md) 制作《The Talos Principle》时继续使用Serious Engine/Editor，新增的解谜体验则需要交叉试玩、难度统计、外部alpha和自动QA。2015年的开发者复盘记录了这些方法及反馈后的删改；既有工具仍有用途，新判断也有具体的学习对象。
 
 **压力例：** [Limit Theory](../../cases/CASE-054-limit-theory-fit-trap.md) 提醒：技术能力持续进步，并不代表完整产品的剩余义务在减少。
 
@@ -105,7 +105,7 @@ David Wehle面对的约束不同。2016年，他已有技术美术工作和育�
 
 **你先做的测试：** 先签一项最小可验收交付——一组角色、一段 music、一次 porting compatibility audit、一套视觉探索，而非“包整款游戏”。同时确认二次修改、源码/工程文件、授权、署名和资产可持续维护边界。
 
-**正例：** [The First Tree](../../cases/CASE-042-the-first-tree.md) 的 licensed assets/scripts 与后续 console porting，及 [Into the Breach](../../cases/CASE-020-into-the-breach.md) 的小作者核心 + 音乐、音频、美术、写作等外围，证明 core headcount 不是 total production perimeter。
+**历史对照：** David Wehle在《The First Tree》开发期使用授权素材和脚本，PC发售后又由DO Games承担主机移植与性能优化。Subset Games的《Into the Breach》保留很小的作者核心，音乐、音频、美术和写作等工作仍有外围协作者参与。两案都需要把核心人数与完整生产人力分开；具体合同成本和各人的加入时点，继续以 [Wehle档案](../../cases/CASE-042-the-first-tree.md) 与 [Subset档案](../../cases/CASE-020-into-the-breach.md) 的已知边界为准。
 
 **压力例：** 外包不能自动替代缺位的创意总监：如果你连审美标准和验收权都无法独立建立，购买一个资产包可能只是生成下一轮返工。此为路线判断，不是某个 Case 的直接结论。
 
@@ -117,9 +117,9 @@ David Wehle面对的约束不同。2016年，他已有技术美术工作和育�
 
 **你先做的测试：** 在决定长期绑定前完成一次短期、真实的小型共同创作；让双方各自拥有实质决定权，并故意提前讨论一次冲突场景：目标、范围、现金、下一作、署名和退出。
 
-**正例：** [Nomada / GRIS](../../cases/CASE-050-nomada-gris-neva.md) 并非画家雇用程序员的简单雇佣关系，而是 visual thesis 与 AAA 技术生产能力在 founding stage 组合。
+**历史对照：** [Nomada / GRIS](../../cases/CASE-050-nomada-gris-neva.md) 的Conrad Roset带来职业插画能力和作品设想，Roger Mendoza与Adrián Cuevas带来AAA程序经验，三人共同建立围绕作品的公司。这里需要共同作者关系，具体股份与协议仍未知。
 
-**压力例：** [Playdead](../../cases/CASE-056-playdead-founder-governance.md) 的 Arnt Jensen / Dino Patti 已经成功做出《LIMBO》《INSIDE》，但 founder-level 权限、时间尺度、身份和退出的矛盾仍可能爆发。产品成功不等于合伙治理成功。
+**压力例：** [Playdead](../../cases/CASE-056-playdead-founder-governance.md) 的Arnt Jensen主导作品方向，Dino Patti承担公司建设等职责；团队完成《LIMBO》《INSIDE》后，Patti仍在2016年退出，后来的报道和本人说法揭示创始人冲突。作品完成没有使合伙永久稳定；哪些权限安排可以避免分歧，现有材料不能替双方回答。
 
 **停手信号：** 无法明确 product authority、equity/vesting、deadlock、IP/credit 和离开后的持续义务；这时你还没有一个可长期运行的 cofounder 结构。
 
@@ -129,7 +129,7 @@ David Wehle面对的约束不同。2016年，他已有技术美术工作和育�
 
 **你先做的测试：** 先用一次受限合同或短生产周期记录真实产能、协作质量和验收率，再确定岗位职责与可持续现金义务；固定成本必须覆盖到下一个可验证的里程碑及失败退出，而不仅是支付一个月工资。
 
-**历史对照：** [The Witness](../../cases/CASE-047-the-witness.md) 利用《Braid》收入购买自己缺失的 art、architecture、landscape 等能力；但 Jonathan Blow 拥有前作积累的资本，这不是首作零收入团队的条件。[Kenny Sun](../../cases/CASE-053-kenny-sun.md) 的多作历史也显示创作者可以先改变自身 production frontier，再进入带 specialist 的团队生产。
+**历史对照：** Jonathan Blow用《Braid》收入为 [《The Witness》](../../cases/CASE-047-the-witness.md) 补入美术、建筑和景观等专长，首作零收入团队不能省略这项资金条件。[Kenny Sun](../../cases/CASE-053-kenny-sun.md) 则经过个人作品、职业工作和发行合作，到2025年的《BALL x PIT》才明确说自己首次真正带领团队。两条历史记录了不同的能力扩展，不能据此把协作者一律当作长期员工，或声称两人执行过同一套招聘验证程序。
 
 **停手信号：** 招聘理由只能写成“正规游戏应该有这个岗位”，写不出已验证体验对应的持续工作队列。
 
@@ -146,7 +146,7 @@ David Wehle面对的约束不同。2016年，他已有技术美术工作和育�
 | Publisher / platform | [Outer Wilds](../../cases/CASE-049-outer-wilds.md)、[Croteam](../../cases/CASE-060-croteam-staged-lockin-escape.md) | 制作、发行、平台支持、市场接入等不同能力束 | milestone、IP、平台、recoup 和批准权须逐合同核；案例不证明特定 veto 已存在 |
 | Company equity / VC | [thatgamecompany](../../cases/CASE-057-thatgamecompany-vc-equity-expansion.md) | 把发行、营销、客服等能力直接建成公司组织 | 稀释、董事会、投资回报、下一轮资金依赖；board seat ≠ 自动创意否决权 |
 
-**融资前唯一必须说清的问题：** 如果明天资金到账，具体哪一项已经确定的 player/product obligation 会因此更快得到满足？如果答案只是“团队终于可以像一家正式工作室运转”，不要把融资当成作品本身的验证。
+**融资前先说清一个问题：** 如果明天资金到账，哪项已经确定的玩家体验或交付任务会因此更快实现？如果答案只是“团队终于可以像一家正式工作室运转”，就还没有说明资金如何服务作品；融资本身也不构成玩家价值的验证。其他合同和治理问题仍须分别检查。
 
 ---
 
@@ -168,11 +168,11 @@ David Wehle面对的约束不同。2016年，他已有技术美术工作和育�
 
 ## 两个反例：为什么“团队很适配”仍不够
 
-**[Brigador](../../cases/CASE-026-brigador.md)**：团队的工程、美术管线、战斗口味与作品相当契合，成品也已经完成，但首发市场理解与定位出现严重问题。它否定“只要补齐最强能力，市场自然认可”。
+**[Brigador](../../cases/CASE-026-brigador.md)** 的工程、美术管线和战斗口味与作品契合，2015年也已进入Early Access。2016年正式发售仍出现商业不足；Hugh Monahan指出，展示让人以为它是双摇杆射击，实际玩法却复杂得多。能力补足没有自动使陌生玩家正确理解作品，这项诊断也不能解释全部销售结果。
 
-**[The Magic Circle](../../cases/CASE-048-the-magic-circle.md)**：三位 immersive-sim 老兵做出了极度符合自身经验的作品，却仍面临被主创判定为不可持续的商业表现。这里不是“缺一个更厉害的程序员”。真正的缺口可能是品类可解释性、受众规模和市场接入。
+**[The Magic Circle](../../cases/CASE-048-the-magic-circle.md)** 把三位核心创作者的系统、AI和叙事经历变成了作品。2016年Jordan Thomas却把当时销售称为不可持续，并讨论品类、受众和营销预算问题。Question后来继续制作《The Blackout Club》，财务是否恢复仍未知。再加程序能力，不能自动回答这些市场问题。
 
-所以所有选择都要经过两次独立审计：
+因此，本路线把制作与市场分成两次检查：
 
 1. **Creator–Project Fit**：我们有没有能力以合理代价做成这件事？
 2. **Project–Market Selection**：即使做成，有没有足够清楚、足够大的付费理由支持未来生产？
@@ -203,25 +203,11 @@ David Wehle面对的约束不同。2016年，他已有技术美术工作和育�
 
 ## 一个虚构的双人团队：如何使用这张卡
 
-假设一个双人 PC 战斗游戏团队：
-- A 负责战斗设计、系统和世界观；
-- B 负责程序；
-- 核心玩法可运行，但敌人可读性、动画与场景美术尚不成立；
-- 团队考虑立刻招长期全职美术，或先做大量 AI 视觉素材。
+这是一个虚构教学示例：双人PC战斗游戏团队中，A负责战斗设计、系统和世界观，B负责程序。核心玩法能运行，敌人可读性、动画和场景美术却还没成立；他们正在考虑长期招聘美术，或先做大量AI视觉素材。按前面的卡片，可以先把待验证的缺口写清。
 
-正确的第一步**不是**从“要不要招聘”开始。
+如果陌生玩家看不懂敌人意图，先用灰盒、临时精灵和动作提示，必要时配合短期动画/视觉专家，做出一个完整可测试的敌人，观察玩家能否读懂并作出操作选择。如果缺的是统一的视觉身份，则可以安排一次付费方向探索，用少量角色、场景和UI比较可读性与市场反应。增加素材数量并不会自动完成这两种验证。
 
-先把两个问题分开：
-
-**玩家看不懂敌人意图**，这是战斗信息传达和玩法验证问题。可以先借助灰盒、临时精灵、动作提示及短期动画/视觉专家做一套完整可测试的敌人，并观察陌生玩家是否能读懂、是否有操作决策。
-
-**作品无法形成统一可识别的视觉承诺**，这可能是 visual-direction capability gap，而不是美术生产数量不足。可以通过一次付费视觉方向探索，测试少量核心角色、场景与 UI 的共同语言，再比较真实可读性和市场反应。
-
-只有当“视觉标准已经明确、要稳定产出一整套资产”得到证明，**美术吞吐**才可能成为 permanent hire 的正当理由。
-
-如果视觉导演本身必须长期共同决定作品，就要重新评估核心作者权限：长期艺术总监、重要员工与共同创始人不是同一个答案。
-
-这是**虚构教学示例**，不是某个真实项目的已核事实，也不是“所有双人战斗游戏必须如此”。
+视觉标准明确后，若持续制作整套资产仍超出团队产能，再评估长期岗位；若美术方向需要长期共同决定作品，则要同时讨论作者权限。长期艺术总监、员工与共同创始人带来的权利和责任不同。这个例子演示怎样拆问题，没有真实测试结果，也不要求所有双人战斗游戏按同一顺序行动。
 
 ---
 
