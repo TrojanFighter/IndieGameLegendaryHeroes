@@ -69,6 +69,8 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 - [Tacit Judgment / Selection Apprenticeship：Polanyi、Taste传承与AI时代的隐性知识](tacit-judgment-selection-apprenticeship-ai-001.md) — 用 Polanyi 的 tacit knowing / connoisseurship 与 Schön 的 reflection-in-action解释为什么规则、文档和design bible不能完整复制高手Taste；提出 DOCUMENTATION COMPLETENESS FALLACY、ATTENTIONAL APPRENTICESHIP、APPRENTICESHIP–SOVEREIGNTY TRANSITION、JUDGMENT TRACE 与 AI-AUGMENTED SELECTION APPRENTICESHIP，并讨论AI既可能提高隐性模式可观察性，也可能制造 apprenticeship void。
 
+- [Representation / Orientation / Paradigm：Alan Kay、Boyd、Kuhn 与前范式搜索](representation-orientation-paradigm-search-001.md) — 把 point-of-view leverage、new-medium masquerade、Kuhnian exemplar/normal science/anomaly 与 Boyd 的 Orientation / destruction-and-creation 接成一套表征更新框架；提出 REPRESENTATION SOVEREIGNTY、MEDIUM MASQUERADE、EXEMPLAR CAPTURE、ANOMALY PROMOTION THRESHOLD、PARADIGM PATCH BURDEN、ORIENTATION DEBT 与 REPRESENTATION PROTOTYPING，并区分 output diversity 与 representation diversity。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
