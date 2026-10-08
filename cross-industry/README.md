@@ -73,6 +73,8 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 - [Double-Loop Learning / Defensive Routines：Argyris 与组织为什么明知有问题却学不会](double-loop-learning-defensive-routines-001.md) — 区分 single-loop 行动纠错与 double-loop governing-variable 重审；提出 LOOP-DEPTH MISMATCH、GOVERNING-VARIABLE LOCK、FEEDBACK THEATER、ESPOUSED–ENACTED GAP、SUCCESS-SHELTERED LEARNING、TESTABLE ADVOCACY 与 STRUCTURAL DOUBLE LOOP，并用 defensive routines / skilled incompetence 解释为什么聪明、成功、开放沟通的组织仍可能系统性逃避真正学习。
 
+- [Sensemaking / Ambiguity Competence：Weick、模糊决策与行动中的理解](sensemaking-ambiguity-competence-001.md) — 把 identity / retrospect / enactment / social / cues / plausibility 等sensemaking机制与 Small Wins、Mann Gulch、Drop Your Tools 接入前范式决策框架；提出 PROVISIONAL COHERENCE、ACTION-GENERATED EVIDENCE、CUE REGIME、IDENTITY–CUE LOOP、SOCIAL SENSEMAKING BANDWIDTH、PROBLEM-SCALE FIT 与 BEST UPDATABLE STORY，用于区分模糊决策能力与单纯信息不足。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
