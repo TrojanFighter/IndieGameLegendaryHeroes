@@ -63,6 +63,8 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 - [Reversible Bets / Irreversibility Gradient：可逆下注、创新期权与承诺升级](reversible-bets-irreversibility-gradient-001.md) — 把 Bezos 的 one-way/two-way door、McGrath/MacMillan 的 discovery-driven planning、Christensen 的 emergent→deliberate strategy 与 Grove 的 inflection-point experimentation 放入同一可证伪框架；提出 IRREVERSIBILITY GRADIENT、QUESTION-MADE-EXECUTABLE、INFORMATION-FIRST MILESTONE、PERPETUAL OPTIONALITY 与 OPTION EXPIRY，并显式保留 prototype false-negative problem 作为下一轮反例压力测试。
 
+- [Innovation Constitutionalism：Exit / Voice / Loyalty 与创新中的判断主权](innovation-constitutionalism-exit-voice-loyalty-001.md) — 用 Hirschman 的 Exit / Voice / Loyalty 把 Grove 的内部异议、Christensen 的替代选择系统、early id 的退出与无许可验证、Nintendo 的内部原型权放进同一纠错框架；提出 CREDIBLE EXIT + EFFECTIVE VOICE + REVOCABLE LOYALTY、PERMISSIONED INDIVIDUALISM、PERMISSIONLESS VALIDATION 与 Innovation Rights Stack 2.0，并明确美国同样存在层级、竞业、阶级与沉默边界。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
