@@ -259,3 +259,9 @@ no self-chosen learning
 ## 15. 当前最小结论
 
 > **“中国从业者游戏阅历窄”不应只作为行业能力缺陷研究。它可能是更早的教育—家庭—社会规训链条的结果：高风险考试与家庭投资把课外时间持续转化为可评分活动，广泛阅读都需要证明“对拿分有用”，而游戏还额外面对娱乐/成瘾污名、设备控制与职业不可见性。由此形成的Reference Repertoire Poverty会在进入商业游戏工业前就限制Solution-Space Visibility；商业组织随后再通过benchmark、specialization和resource allocation把局部解强化成Production Grammar。真正的比较变量不是“东亚人是否更听话”，而是SELF-EDUCATION SOVEREIGNTY、GAME-REFERENCE ACQUISITION TAX、DISCRETIONARY-TIME CAPTURE，以及社会是否提供足够强的ESCAPE INSTITUTIONS来抵消规训。**
+
+## 16. 2026-10-08增量：高投入、低迁移与没有发生的创作者前史
+
+新增[中国034 — 高投入、低迁移：数学课程结构与自主创作者机会成本](034-curriculum-depth-time-cost-autonomy-creator.md)。该条目把旧数学课程争议、2022现行课标、学习时间效率、游戏时间政策及66RPG业余创作的正反材料分别落到可检验的机制上。
+
+**本笔记031仍主责教育/家庭社会化对阅读与游戏阅历的上游筛选；034主责知识结构与教学效率及maker机会成本；032主责应试熟练度向开放决策的错误迁移；016主责实际创作者社群及职业传输。** 不以2005年旧课标批评或个别截图推定2026全国教材质量；需要跨年教材和学生/创作者固定队列。
