@@ -98,6 +98,12 @@ Joseph Henrich 的 WEIRD / individualism 研究可作为理论来源之一，用
 - Elon Musk：高风险资本配置、垂直整合、工程组织与个人控制的收益 / 代价；
 - 后续可加入 Jensen Huang、Jeff Bezos、Edwin Land、James Dyson、Kelly Johnson 等，用不同产业和资本强度做压力测试。
 
+### C3. 韩国跨国能力获取对照 / Korea Capability Integration
+
+[韩国比较入口](country-studies/korea/README.md) · [技术先发衰退后的国际人才、市场与组织能力获取](country-studies/korea/001-post-lead-transnational-capability-acquisition-integration.md)
+
+重点不是断言韩国原创强于中国，而是识别“外来创作者/市场知识被找到、进入产品权利、与本土工业能力组合并长期保留”的可核验机制；用中国大型企业的海外收购和韩国失败治理案例进行压力测试，待建立跨国全量队列。
+
 ### D2. Industrial Revolutions Comparative Lab / 工业革命比较实验室
 
 入口：[cross-industry/industrial-revolutions](cross-industry/industrial-revolutions/)

@@ -5,6 +5,8 @@
 - As-of: 2026-10-08
 - Origin: 作者关于“仿制伟大”的研究命题；本篇将其操作化，**不是**把作者评论直接认定为社会科学事实
 - Core question: 社会是否容易把**已经验证的伟大结果**、**可复制的伟大表征**和**产生伟大的问题定义/实验机制**混为一谈，从而过度奖励可辨认的成功模板，而降低未获承认者的独立判断机会？
+- Korean information-network extension (2026-10-08): [韩国002 Born Global、Cohen–Levinthal吸收能力与《穿越火线》中韩能力互补](../korea/002-global-information-network-and-absorptive-capacity.md)。跨国借力并非民族原创性标签；学习已被验证的作品/伙伴也可能是真正的能力建设，必要条件是鉴别其适用知识并让外来判断进入产品决策。
+- Korea counterexample (2026-10-08): [跨国能力获取并不等于仿制伟大：PUBG、ArenaNet、Embark 与 Unknown Worlds 反例](../korea/001-post-lead-transnational-capability-acquisition-integration.md)。必须把“向外国已成名大师采购声望”和“在全球发现尚未放大的特殊能力并给予真实决策权”区分开；同时保留腾讯Riot/网易Quantic Dream等反例，不推国别数量级。
 - Principal anchors:
   - [027 — 个人主义作为创新基础设施](027-individualism-as-innovation-infrastructure.md)
   - [016 — 中国创作者路网拓扑：66RPG 至现代创作接口](016-creator-route-topology-from-66rpg-to-modern-bridges.md)

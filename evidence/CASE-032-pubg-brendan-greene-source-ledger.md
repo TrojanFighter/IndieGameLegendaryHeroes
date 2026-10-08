@@ -2,7 +2,7 @@
 
 - Case: [`../cases/CASE-032-pubg-brendan-greene.md`](../cases/CASE-032-pubg-brendan-greene.md)
 - Status: ACTIVE
-- Last verified: 2026-10-05
+- Last verified: 2026-10-08
 
 ## E001 — ABC / triple j: Brazil, nontraditional background, and re-entry through DayZ
 
@@ -140,6 +140,38 @@
 - Confidence: HIGH as a session summary
 - Boundary:
   - secondary summary; use E006/video when exact language or sequence matters.
+
+## E009 — Bluehole founder 2017: Steam publication came from foreign U.S. subsidiary staff
+
+- Source class: P1 — direct founder interview, contemporaneous to commercial breakout
+- Title: Past failures and endurance can make success
+- Author / Institution: Yoon Sung-won / Korea Times; interviewee Chang Byung-gyu (Bluehole founder)
+- Published: 2017-09-10.
+- Accessed: 2026-10-08.
+- URL: https://www.koreatimes.co.kr/business/companies/20170910/past-failures-and-endurance-can-make-success
+- Claim use:
+  - Bluehole opened U.S. subsidiary En Masse in 2008 and invested in the U.S. market through years of mixed results;
+  - founder reports foreign employees in that U.S. unit proposed publishing PUBG through Steam, which was relatively unfamiliar to Korean game organizations;
+  - founder identifies Korean HQ and U.S. subsidiary trust/collaboration as enabling the idea's uptake, a **self-explanation**, not an independent causal estimate;
+  - founder distinguishes Korean online/server engineering strength from internationally supplied market knowledge.
+- Confidence: HIGH for interviewee's attributed account; MEDIUM for wider causal inference.
+- Boundary: not evidence that every Korean firm trusts overseas staff or that China firms do not.
+
+## E010 — Kim 2017: escape from home-market-first gate and proactive Greene recruitment
+
+- Source class: P1 — direct producer interview
+- Title: Inside the company behind sensation Playerunknown's Battlegrounds
+- Author / Institution: GamesBeat; interviewee Chang-Han Kim
+- Published: 2017-06-27.
+- Accessed: 2026-10-08.
+- URL: https://gamesbeat.com/inside-the-company-behind-sensation-playerunknowns-battlegrounds/
+- Claim use:
+  - Kim says prior Korea-first market assumption had delayed his interest in Battle Royale;
+  - global digital distribution changed his market hypothesis, leading him to research global Mod projects and approach PLAYERUNKNOWN;
+  - he describes Greene's design experience as an input specifically used when building a standalone battle royale rather than another survival game's appended mode;
+  - snapshot staff counts: roughly 70 dedicated team members including 15 programmers, 25 artists, 5 UI/game designers, 5 QA, roughly 20 business/marketing/community.
+- Confidence: HIGH for stated timeline and organizational intent; headcount is a one-time self-reported snapshot.
+- Boundary: Kim's comments are not proof of exact initial budget, sole design ownership or Korean-versus-Chinese success rate.
 
 ## Current evidence-level conclusions
 
