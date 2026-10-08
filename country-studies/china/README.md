@@ -55,6 +55,9 @@
 
 ## 3. 教育与社会化主轴
 
+新增总入口：
+- [`031 — Education × East-Asian Discipline × Reference Repertoire`](031-education-east-asian-discipline-reference-repertoire.md)：把教育放回行业之前，研究 `NON-EXAM SELF-EDUCATION SUPPRESSION / UTILITY-JUSTIFICATION TAX / DISCRETIONARY-TIME CAPTURE / GAME-REFERENCE ACQUISITION TAX / SELF-EDUCATION SOVEREIGNTY`，并以 `DISCIPLINE × ESCAPE INSTITUTIONS` 防止“东亚规训”变成万能解释。
+
 需要把“规训”“标准答案”“怕犯错”“不容异类”拆成可研究的问题：
 - 高风险考试与 credential sorting 是否强化 answer-seeking；
 - 家庭投资与失败成本怎样影响职业选择；
