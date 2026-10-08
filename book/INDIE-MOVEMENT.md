@@ -173,6 +173,45 @@ employee leaves company
 
 ---
 
+## 四-B、独立生产的核心不是“小”，而是约束重写
+
+独立游戏的低成本优势不能只理解为：
+> 少做一点。
+
+更核心的production lineage是：
+
+```text
+constraint
+→ redefine problem
+→ make proof
+→ learn
+→ scale only after evidence
+```
+
+这与大型商业组织常见的：
+
+```text
+target product
+→ identify missing capability
+→ allocate resources / headcount
+→ execute
+```
+
+是不同的默认响应函数。
+
+本书因此把：
+- game jam；
+- mod；
+- hobby prototype；
+- toolmaking；
+- capability-shaped project；
+视为独立游戏运动的重要前置训练，而不是成品游戏之外的“业余活动”。
+
+详细框架：
+- [China 028 — Hacker Spirit × Scale Down × Commercial Anti-Training](../country-studies/china/028-hacker-spirit-scale-down-commercial-antitraining.md)
+
+---
+
 ## 五、为什么这本书会研究后来变成“大商业游戏”的案例？
 
 因为我们研究的不是标签，而是**生产能力和原创机制的历史谱系**。

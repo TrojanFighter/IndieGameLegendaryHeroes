@@ -13,6 +13,7 @@
   - [026 — Spinout ≠ Indie](026-spinout-vs-indie-mode-conversion.md)
 - Japan counterexample:
   - [Japan 001 — East Asian Counterexample / Bounded Eccentricity](../japan/001-japan-east-asian-counterexample-weird-kinship-and-game-creator-ecology.md)
+- Hacker/production extension: [028 — Hacker Spirit × Scale Down × Commercial Anti-Training](028-hacker-spirit-scale-down-commercial-antitraining.md)
 - Boundary: 本文反对把国家创新差异压缩成“民族性”；文化倾向只作为变量之一，必须和市场、产权、署名、流动、家庭、组织与生产制度联动。
 
 ## 0. 核心修正：个人主义不是一个变量，而是一条链
@@ -1035,3 +1036,34 @@ AI不是自动个人主义机器。
 # 16. 当前最小结论
 
 > **个人主义对创新真正有用的部分，不是个人承担更多责任、竞争更激烈或更会赚钱，而是个人既有行动能力，又拥有把“我认为值得”当作正当人生目的的空间，并能让这种非共识判断获得可验证、可归因、可携带、可复利的制度能力。中国可能已经拥有很强的Career / Entrepreneurial Agency，却同时存在Familialized Individualization：个人承担更高经济风险和家庭责任，但Self-Authored Ends、作者归因、未来捕获与剩余判断权未同比增长。真正值得检验的是Authorial Individualism的实现率。日本证明高从众社会也能通过Bounded Eccentricity与作者职业角色稳定生产怪人；因此目标不是把全社会变成美国，而是提高Protected Non-Consensus、Self-Authored Ends与合法怪人生态位的密度。第四次工业革命的重要性在于，它可能降低个人判断进入现实测试所需的Minimum Organizational Mass，但是否转成真正个人主义仍取决于家庭、市场、产权和平台结构。**
+
+
+## 17. Self-Authored Ends 还不够：必须有Hacker Execution
+
+027把个人主义收紧到：
+`SELF-AUTHORED ENDS`。
+
+028补上生产侧乘数：
+
+```text
+SELF-AUTHORED ENDS
+×
+HANDS-ON CONSTRAINT REWRITING
+=
+AUTHORIAL EXPERIMENT
+```
+
+只有“我认为这值得做”：
+- 可能只产生私人理想。
+
+只有强hands-on能力：
+- 可能只是替组织高效执行既定objective function。
+
+真正高authorial innovation要求：
+> **个人目的主权 + 低成本把判断压成现实证明的能力。**
+
+因此“中国个人主义研究”以后同时追：
+- `TELOS LEGITIMACY`；
+- `HACKER-MODE SOCIALIZATION DENSITY`；
+- `SCALE-DOWN LITERACY`；
+- `COMMERCIAL→INDIE RETRAINING COST`。

@@ -9,6 +9,7 @@
 - Capability route: [Industrial Capability × Independent Authorship](../../book/research-notes/industrial-capability-independent-authorship-comparison-027.md)
 - Core case: [CASE-061 — Supergiant / Bastion](../../cases/CASE-061-supergiant-bastion-aaa-to-author.md)
 - Individualism synthesis: [027 — Individualism as Innovation Infrastructure](027-individualism-as-innovation-infrastructure.md)
+- Hacker / scale-down extension: [028 — Hacker Spirit × Scale Down × Commercial Anti-Training](028-hacker-spirit-scale-down-commercial-antitraining.md)
 - Boundary: 本文明确禁止把“离开大厂创业”“做不同产品”“成为独立公司”“做indie”“获得作者权”五件事互相替代。
 
 ## 0. 核心修正
@@ -1190,3 +1191,27 @@ raise millions and rebuild a studio
 # 18. 当前最小结论
 
 > **创业生态和独立游戏生态必须分开研究。大厂员工离职成为founder，只证明Mobility-to-Ownership Conversion；做了不同产品，只证明Product Divergence；只有当项目进一步改变旧公司的objective function，并主动重置团队规模、固定成本、player-truth距离、能力塑形与治理结构时，才出现与现代independent-production lineage相符的Indie-Mode Transition。Supergiant的价值正在于“带走EA能力、删除EA生产语法”；而Blizzard/Tencent的高spinout现象首先证明其Founder School能力，不能直接当作Indie School。今后必须同时统计Spinout Rate、Authorial-Divergence Rate和Indie-Mode Conversion Rate。**
+
+
+## 19. Indie-Mode Conversion 还需要重建默认响应函数
+
+026已经区分Founder School与Indie School，但028进一步指出：
+
+> **大厂老兵是否适合indie，不只取决于skill vector，也取决于遇到约束时的default response。**
+
+如果默认是：
+```text
+missing capability
+→ hire / budget / department / benchmark / approval
+```
+则即使作者目的很强，也可能继续复制旧production grammar。
+
+如果能切换成：
+```text
+missing capability
+→ delete / reshape / abstract / buy peripheral / prototype
+```
+才发生更深的indie retraining。
+
+Canonical:
+- [028 — Hacker Spirit × Scale Down × Commercial Anti-Training](028-hacker-spirit-scale-down-commercial-antitraining.md)

@@ -767,3 +767,36 @@ C015 先用 Gunpoint、Dream Quest、RCT、The First Tree、Everything 支撑。
 5. Limit Theory + Factorio 已形成第一组 deep-tech failure/success 对照：前者 engine maturity 与 game closure 脱钩，后者存在 multiplayer enough、feature deletion、1.0 descoping 三类 stop condition。下一步不再补同类英雄，而是再找一个非 Wube 样本验证 `TECHNICAL STOP CONDITION` 是否可泛化，并继续用 DOOM 区分 frontier creation 与 frontier discipline。
 6. AI / modern tools 让过去的 weakness deletion 变成 weakness amplification：原本不能做的领域，现在是否值得做；
 7. 大厂出来的作者是否更容易误判“自己会什么”与“原组织替自己完成了什么”。
+
+
+## Scale Down Gate：不是缩小标准游戏，而是重写问题
+
+[China 028](../../country-studies/china/028-hacker-spirit-scale-down-commercial-antitraining.md)进一步把C015前置成一个生产习惯问题。
+
+正式区分：
+
+```text
+SHRINKING:
+standard genre spec
+→ insufficient resources
+→ cut quality/features
+
+THESIS-PRESERVING SCALE DOWN:
+player thesis
+→ minimum playable proof
+→ delete/convert/peripheralize dependencies
+→ player truth
+```
+
+因此Capability-Shaped Project Formation需要观察：
+- creator是否会把约束当作design input；
+- 是否会在高sunk cost前重写问题；
+- missing capability出现时第一反应是招聘还是删需求；
+- 能否用system/abstraction/tool/asset/AI替换headcount；
+- 是否保持足够低fixed burn以允许错误。
+
+新增研究边界：
+
+> **“会砍scope”仍然可能太晚。真正高阶能力是从项目形成阶段就不产生那些自己负担不起的obligation。**
+
+这也是 `HACKER-MODE SOCIALIZATION` 与 C015 的接口。
