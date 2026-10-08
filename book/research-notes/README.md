@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`ciga-heero-akaba-two-creator-life-crossroads-053.md`](ciga-heero-akaba-two-creator-life-crossroads-053.md) — 2017先发Steam再参2018Jam的国企电缆检修工希罗，与2018年先有Idea Pocket/嵌入式技能、经Jam组队验证后《拣爱》发行的亚恒：同期一手采访＋Steam核对，纠正Jam首次创作神话、solo署名误读、上市=财务自由与孤立国别例证。
+
 - [`open-prototype-community-china-global-entry-cohorts-052.md`](open-prototype-community-china-global-entry-cohorts-052.md) — 中国2024–25 CiGA GGJ/CGJ、CUSGA大学生完整作品、全球2025–26 GMTK/GGJ与2024 mod.io的规模与不同分母；巨鸟多多《刀塔自走棋》提供War3→Dota2 Mod养成国际新玩法反例；提出中外同口径公开非明星作者队列，拒绝全球平台vs中国单一区域的伪国别数量级比较。
 
 - [`double-fine-amnesia-public-pitch-cohorts-051.md`](double-fine-amnesia-public-pitch-cohorts-051.md) — Double Fine 2012/2017/2026具名提案起点队列（23→5、25→4、26→4→1），回访Jeremy/Jared/Asif跨年反复提案；同制度的Hack 'n' Slash、Spacebase DF-9、Kiln提供商业开发正反结果。2026独立后众筹加权投票，明确区分项目选中、商业成功与作者存续。
