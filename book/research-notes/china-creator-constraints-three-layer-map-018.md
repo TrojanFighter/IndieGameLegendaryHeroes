@@ -216,6 +216,146 @@ PISA 2022 creative-thinking 结果中，新加坡与韩国位居最高组，同�
 本节状态：**H / HIGH-PRIORITY COMPETING EXPLANATION**。当前没有足够 cohort data 给“上游人才池 > 大厂制度”分配因果权重。
 
 
+
+## 1.3.6 第一轮 cohort 代理证据：先测“入厂前做过什么”，不要先测学历
+
+当前公开资料还**不足以**给中国、美国、韩国职业游戏开发者的入厂前经历做同口径总体排名；尤其缺少“第一份正式工作以前完成过多少 playable artifact / mod / jam / student project”的代表性 cohort 数据。因此本节只建立 proxy hierarchy，不把院系数量、Game Jam 站点数或名人传记直接当作最终分母。
+
+### A. 全球 Game Jam 证明“职业以前反复做 artifact”是一个真实且大规模存在的 feeder
+
+Global Game Jam 2026 共有 39,197 名参与者、824 个站点和 9,874 个上传游戏。可选后测问卷收到 3,535 份回答，其中：
+- 37% 自报为学生；
+- 28% 为 hobbyist；
+- 61% 在 GGJ 2026 前已经参加过至少一次 game jam；
+- 94% 的问卷回答者在本届提交了游戏。
+
+这不能代表所有职业开发者，也有明显自选择偏差；但它证明 **student / hobbyist → repeated short-cycle artifact production** 并不是少数名人故事，而是一条可规模化观察的 pre-professional maker pipeline。
+
+Source:
+- Global Game Jam 2026 Jammer Survey Data: https://globalgamejam.org/news/global-game-jam-2026-jammer-survey-data
+
+### B. 美国样本：长期学生社团可以把“想做游戏”转成重复完成作品
+
+Carnegie Mellon 的 Game Creation Society 自 2004 年运行：
+- 每学期 veteran creators 可 pitch；
+- 团队通常用约 10 周完成一款游戏并公开展示；
+- 2005 年已累计 15 个完成项目；
+- 2013 年达到第 100 个游戏；
+- 当前每学期有 50+ creators 参与；
+- 进入其 resume book 还要求至少参加过一个完成项目。
+
+它不是美国全国分母，但展示了一种重要 feeder architecture：
+
+> **社团不是“讨论游戏”，而是固定周期反复完成项目；完成 artifact 本身再成为进入职业市场的信号。**
+
+Sources:
+- https://www.gamecreation.org/about
+- https://www.gamecreation.org/history
+- https://www.gamecreation.org/FAQ
+
+美国 PC modding 还提供另一条历史 feeder。Game Developer 对多位开发者的回顾指出，1990s–2000s mod work 曾直接成为 AAA 求职 portfolio；JP LeBreton 等人的第一份行业工作就与 Half-Life mod work 有关。该材料是职业路径例证，不提供全国比例。
+
+Source:
+- Game Developer, “DOOM and game design in 2016: the influence of user-gen content”: https://www.gamedeveloper.com/design/-i-doom-i-and-game-design-in-2016-the-influence-of-hellbound-user-gen-content
+
+### C. 韩国样本：game-making education 的制度化时间深度明显值得单独研究
+
+韩国不能被写成“因为大学游戏专业多，所以更原创”，但其 maker-professionalization 时间线与中国不同：
+
+- 韩国高校的第一批游戏开发相关专业可追到 1997–1998 年；
+- 2008 年报道统计全国已有约 65 个游戏相关院系，其中 19 个四年制大学、32 个专科、10 个研究生院、4 个 cyber university；
+- 2016 年韩国游戏学会论文已把“韩国高校开设游戏学科约二十年”作为既成事实，并明确要求继续加强 game-making practical courses；
+- 2026 年研究对 21 个四年制工程类游戏院系、818 门课程做课程结构分析，覆盖 planning / development / art / project 四类；
+- 个别长期样本（如 Hoseo）还记录了学生社团在假期持续开发、长期参加竞赛的 maker culture。
+
+这支持的是 **institutional depth / repeated making opportunity**，不是韩国开发者总体原创能力的因果结论。
+
+Sources:
+- Electronic Times, 2008: https://www.etnews.com/200807240156
+- KCI, Present and Future for the Curriculums of Game Majors, 2016: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART002157642
+- KCI, engineering game-department curriculum study, 2026: https://www.kci.go.kr/kciportal/ci/sereArticleSearch/ciSereArtiView.kci?sereArticleSearchBean.artiId=ART003304055
+- Dong-A Ilbo / Hoseo case, 2015: https://www.donga.com/news/article/all/20150715/72487205/1
+
+### D. 中国样本：maker infrastructure 并非不存在，但制度化较晚且 career-conversion friction 值得单独测
+
+当前证据直接否定“中国学生没有游戏社团/不会做项目”的强说法：
+
+- 一篇 2015 Game Developer 对 UIGAC 学生调查的二手报道中，约 53% 受访者曾参加游戏相关社团；但超过 70% 的受访学生没有实际申请游戏行业职位，一个重要原因是认为自己技能/知识不足，报道还指出 career information access 不足。原始问卷抽样框和完整数据尚未找到，不能当作全国比例；
+- 2026 GGJ 中国已有武汉、天津、杭州、广州、深圳、上海、北京、苏州等多地站点，并出现由多所深圳高校组成的 Student Game Development Alliance 站点；
+- 腾讯游戏学堂公开称已与 23+ 高校合作、形成 125+ game projects，说明大厂也在主动补 maker / education feeder；
+- 上海交通大学 2026 已有面向零基础学生、要求一门课程完成完整游戏的独立游戏设计课程，并一次产出 20+ 游戏；
+- 另一方面，中国教育部 2025 年才把新的本科“游戏艺术设计”等游戏专门专业正式纳入最新专业目录；中国传媒大学等学校虽早在 2004 年前后已有游戏方向，但“正式游戏专业”长期更多寄生于动画、数字媒体、计算机等邻近学科，而不是像韩国那样较早形成大量独立 game department。
+
+这组材料目前更支持：
+
+> **中国 maker opportunity 到 2026 已明显增长，不能把今天的生态描述成“没有原型池”；真正需要比较的是不同出生 cohort 在关键形成期实际获得了多少次完整制作、失败和重做机会，以及这些经历能否转换成职业合法性。**
+
+Sources:
+- Game Developer on UIGAC student survey, 2015: https://www.gamedeveloper.com/business/game-career-becomes-the-first-choice-for-new-graduates-in-china-reports-
+- Global Game Jam 2026 China sites: https://globalgamejam.org/jam-sites/2026
+- Tencent Institute of Games: https://gameinstitute.tencent.com/
+- Shanghai Jiao Tong University, 2026 independent-game course: https://designschool.sjtu.edu.cn/dynamic/news/detail/6a6f237c3920e14c35f66eda
+- Ministry of Education 2025 undergraduate major catalogue: https://www.moe.gov.cn/srcsite/A08/moe_1034/s4930/202504/t20250422_1188239.html
+
+### E. 韩国反压力进一步削弱“东亚考试文化单因论”
+
+韩国 1990s 已形成 PC / text-MUD 开发者技术与人员基础；相关科技史研究认为，这些人在盗版、混乱流通和商业收益困难中积累的技术与人员经验，后来成为 2000s 在线游戏产业的重要前史。
+
+也就是说，韩国同样经历强教育竞争，却在职业教育正式化之前已经存在一批 **业余/早期 PC maker → 行业人才** 的历史底层。这提示：
+
+> **考试制度的作用必须与可获得的 maker substrate、PC/网络文化、行业合法性、国际信息接入和商业窗口共同解释。**
+
+Source:
+- Nam Young, “The Appearance of the Korean Online Game Industry: The ‘Symbiogenesis’ of Technology,” 2014: https://www.kci.go.kr/kciportal/landing/article.kci?arti_id=ART001942380
+
+### F. 下一轮不要再用“学历”当主变量：建立 Pre-Professional Artifact Density
+
+比学历/职位标签更接近本项目核心的候选变量：
+
+### PRE-PROFESSIONAL ARTIFACT DENSITY / 入职前作品密度
+
+至少编码：
+
+1. **FIRST ARTIFACT AGE**：第一次自己做出可运行游戏/关卡/mod/规则系统的年龄；
+2. **COMPLETED ARTIFACT COUNT**：第一份职业游戏工作前完成的 playable artifacts 数量；
+3. **FAILED / ABANDONED ARTIFACT COUNT**：失败、废弃、重做次数；
+4. **JAM / MOD / UGC HISTORY**：是否长期在低成本 creator ecology 里反复生产；
+5. **SELF-GENERATED PROJECT SHARE**：这些作品有多少不是课程/比赛/老板布置；
+6. **TEAM VARIETY**：是否与不同背景的人做过项目；
+7. **REFERENCE-SET BREADTH**：深度体验过的游戏类型、平台、年代、地区范围；
+8. **CROSS-DOMAIN INTAKE**：文学、历史、电影、音乐、技术、桌游等异质输入；
+9. **INTERNATIONAL INFORMATION ACCESS**：是否长期直接读取海外开发资料、论坛、postmortem、作品；
+10. **PARALLEL AUTHORIAL THREAD**：进入学校/大厂评分器以后，是否仍有自发创作线程。
+
+其中前 1–5 项相对更容易建立可审计数据；6–10 项需要更精细的问卷或访谈，不应从简历猜测。
+
+### G. 最关键的研究设计：比较 cohort，而不是比较名人
+
+下一阶段的理想分母不是“中美韩各找十个成功制作人”，而是：
+
+> **从相近职业阶段抽样一批首次进入职业游戏岗位的人，回溯他们在第一份行业工作以前的 artifact history。**
+
+建议最小 cohort 字段：
+- 地区 / 出生 cohort；
+- 第一份职业游戏工作年份；
+- 岗位；
+- 大学/专业；
+- first artifact age；
+- pre-career completed projects；
+- jam/mod/UGC；
+- game breadth；
+- self-directed vs assigned projects；
+- family / school permission；
+- first market/player feedback；
+- international-source exposure。
+
+只有这种数据才能真正检验：
+
+> **“送进大厂的材料已经不一样”究竟是核心结构，还是我们因为几个典型人生故事产生的新叙事。**
+
+本节仍保持 **H / proxy evidence**。当前最多能说：不同地区的 pre-professional maker infrastructure 确实存在可观察历史差异，而中国到 2026 的 maker infrastructure 已明显增长；尚不能据此估计中国/美国/韩国职业开发者 PPAD 的真实均值、方差或因果效应。
+
+
 ## 1.4 对独立开发者真正重要的教育层变量
 
 后续案例统一编码：
