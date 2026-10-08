@@ -73,7 +73,8 @@
 总论入口：
 - [`027 — Individualism as Innovation Infrastructure`](027-individualism-as-innovation-infrastructure.md)：把“个人主义”拆成 `NORMATIVE / ATTRIBUTIONAL / MARKET / ECONOMIC / MOBILITY / PRODUCTION / REPRODUCTIVE` 七层，提出 `INDIVIDUALISM REALIZATION RATE / PROTECTED NON-CONSENSUS / INSTITUTIONALLY PRODUCED INDIVIDUALISM`；并进一步区分 `AGENCY × TELOS / FAMILIALIZED INDIVIDUALIZATION / SELF-AUTHORED ENDS`。
 - [`028 — 仿制伟大：成功声望、判断外包与原创者识别`](028-imitation-of-greatness-prestige-copying-and-authorial-judgment.md)：区分技术学习、范式继承与声望/身份仿制；以 `ACHIEVEMENT-TO-EPISTEMIC-AUTHORITY TRANSFER / JUDGMENT OUTSOURCING / SELF-AUTHORED-ENDS SUBSTITUTION` 三机制解释“成功模板为何可能侵占原创判断权”，以66RPG、CiGA、Mod反例及跨国分母审计限制外推。
-- [`028 — Hacker Spirit × Scale Down × Commercial Anti-Training`](028-hacker-spirit-scale-down-commercial-antitraining.md)：把 hacker 精神操作化为 `HANDS-ON CONSTRAINT REWRITING`，把 scale down 定义为 `THESIS-PRESERVING SCALE DOWN`，并研究商业工业习惯在微型作者生产中的 `INDIE NEGATIVE TRANSFER / REGIME-SPECIFIC SKILL INVERSION`。
+- [`028 — Hacker Spirit × Scale Down × Commercial Anti-Training`](028-hacker-spirit-scale-down-commercial-antitraining.md)
+- [`029 — 正统倒置 × 春登 × 农民发明家`](029-orthodoxy-inversion-chundeng-farmer-inventor.md)：把“正道/邪道武功”明确标为作者提出的产业评价体系隐喻，研究后发答案红利如何经招聘、晋升、立项和融资变成能力正统；对照“春登”的成功路径锁定与“农民发明家”的无标准答案实验能力，保留国别分母未知和反例。：把 hacker 精神操作化为 `HANDS-ON CONSTRAINT REWRITING`，把 scale down 定义为 `THESIS-PRESERVING SCALE DOWN`，并研究商业工业习惯在微型作者生产中的 `INDIE NEGATIVE TRANSFER / REGIME-SPECIFIC SKILL INVERSION`。
 
 Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可以提供跨社会比较假说，例如 impersonal institutions、voluntary association、individual choice、conformity / nonconformity、trust beyond kin、occupational mobility。
 
