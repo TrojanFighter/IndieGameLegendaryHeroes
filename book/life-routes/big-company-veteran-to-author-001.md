@@ -124,52 +124,23 @@ Casey Yano 与 Anthony Giovannetti 在大学期间就一起做过 Flash 和手�
 
 ### CASE-059 Slay the Spire — 正向
 
-看：
-- Parallel Authorial Thread；
-- corporate skill transfer；
-- staged exit；
-- ugly/cheap prototype；
-- metrics/reality adjudication；
-- category before benchmark。
-
-不要读成：
-> Amazon 员工都可以这样。
+这对创始人的共同制作经历早于职业生涯，卡牌与roguelike兴趣也有长期积累。读他们的路径，可以同时核对公司内的工作、公司外的设计，以及先后离职和原型测试的顺序；后来的遥测与玩家反馈，又怎样继续改变作品。职业前史、个人趣味和外部检验各有作用，不能合成“Amazon员工都能这样转型”的公式。见[CASE-059 E001–E004](../../evidence/CASE-059-slay-the-spire-mega-crit-source-ledger.md)。
 
 ### 王妙一 / WILL — 中国正向反例
 
-看：
-- 清华 + 网易并没有决定 objective function；
-- 保留成熟技术/流程判断；
-- 项目反过来适配“会编程写作、不会高成本美术”的能力结构。
-
-不要读成：
-> 名校大厂完全没有风险。
+王妙一的清华与网易履历没有阻止她选择自己的作品题目。她在2018年采访中回顾，网易教给她成熟技术的稳定性、制作流程和认真处理质量问题的态度；有限预算又促使她从文本出发构思《WILL》。读这段经历，可以核对她的编程与写作能力怎样进入作品，怎样避免让高成本美术成为项目的前提，不能据此说名校大厂没有风险。既有材料与出处见[研究019 §1/2](../research-notes/china-creator-three-layer-pressure-tests-019.md)。
 
 ### 月下 / 铸仙之境 — 负压力
 
-看：
-- 人离职了；
-- 资本来了；
-- 团队扩了；
-- 评价函数仍可能保持“乙方模式”。
+这个对照要分开读离职、融资与团队扩张，以及主创怎样理解自己与投资、发行的关系。作者提出的风险是：组织身份已经改变，决定项目要证明什么的方式却仍可能保持“乙方模式”。核对具体决定，才能判断这项解释是否成立；资金与团队本身不能替代这一步。复盘索引见[研究006 §2](../research-notes/china-commercial-game-training-role-origin-audit-006-tencent-producer-pressure-test.md)与[研究020 §2](../research-notes/china-creator-three-layer-failure-pressure-tests-020.md)。
 
 ### Sea / 安尼姆 — 中间态
 
-看：
-- deliberate unlearning 可能需要失败才能发生；
-- 第二轮才学会 1–2 人先做 evidence prototype。
+这里关注的是旧经验怎样被重新检验：本人如何回顾大厂工作惯性，后续项目怎样安排少数人探索核心Demo、再考虑扩人。阅读时要区分复盘、当时已做的工作和对下一阶段的打算，继续核对执行及结果，不能把“第二轮学会了”当作已经成功转型。昂贵失配可能促成重新学习，这是需要检验的解释。材料索引见[研究006 §1](../research-notes/china-commercial-game-training-role-origin-audit-006-tencent-producer-pressure-test.md)。
 
 ### The Magic Circle — 最重要的反成功学
 
-看：
-- AAA 老兵真的卸载了旧流程；
-- 项目也很作者；
-- creator-project fit 也强；
-- 市场仍然可以说“不”。
-
-因此：
-
-> **作者性不是成功充分条件。**
+团队有意识地减少AAA流程，把自身开发经历写进题材，Kain Shin的AI工程能力也进入玩家可编辑的系统。到2016年复盘时，Jordan Thomas仍称商业结果不可持续；工作室后来继续开发其他作品，不能把这一时点写成立即倒闭。见[CASE-048 E001/E003–E006/E008/E009](../../evidence/CASE-048-the-magic-circle-source-ledger.md)。这条路径保留了本路线最重要的反成功学判断：**作者性不是成功充分条件。**
 
 ---
 
