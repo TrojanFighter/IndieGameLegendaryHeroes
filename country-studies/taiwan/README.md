@@ -37,6 +37,7 @@
 - [016 — 独立创作者路网密度与连续性](016-amateur-creator-route-density-and-continuity.md)：重建2010以来社群、Game Jam、学生比赛、TGDF、G-EIGHT、TGS IGA、GameWorks等不同入口的重叠，提出ROUTE_REDUNDANCY与PUBLIC_AUTHORSHIP_NORMALIZATION。
 - [017 — 量产中段、国际发行与第二作瓶颈](017-creator-production-middle-and-second-title-bottlenecks-2026.md)：补入2026年《梦游边境》与产业中介直接访谈；串联试玩反馈、制作规模、现金流、无MG发行报价和作者再生产；汇总2025学生同名Steam误配纠错。
 - [018 — 东亚立项前作者支持与全球高关注产品管线](018-east-asian-pre-greenlight-author-support-and-global-premium-proxy.md)：日本2026讲谈社月奖与学生成长型比赛、韩国BIC和韩国商业结构、波兰/GIC Steam愿望单Top200；把作者试错权、预立项编辑劳动、创业前入口和跨国数量级代理拆开。
+- [019 — 2024台湾DIY Game Jam五账号固定队列](019-diy-game-jam-2024-five-submitter-account-cohort.md)：全量5/5公开提交账号，3/5已有2024年前作品，2025后续创作证据宽口径至少2/5（其中严格本人日期至少1/5）；提醒Jam回头客不是新作者、非商业持续创作不能当作失败。
 
 ## 研究分工（单一权威，不重复记账）
 

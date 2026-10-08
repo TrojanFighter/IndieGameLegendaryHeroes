@@ -1,6 +1,6 @@
 # 004 — GGJ 2024 台北第一会场：台湾首个非明星 Public-Attempt Cohort
 
-- Status: PILOT / ROSTER VERIFIED AT PROJECT LEVEL / FOLLOW-UP NOT STARTED
+- Status: PILOT / ROSTER VERIFIED AT PROJECT LEVEL / TWO CREATOR PUBLIC FOLLOW-UP EXAMPLES / COMPLETE FOLLOW-UP NOT DONE
 - Program: C Taiwan comparator
 - As of: 2026-10-07
 - Cohort event: MIT Game Jam #12 × Global Game Jam 2024，台北第一会场

@@ -105,7 +105,7 @@ source_links: []
 能得到 `selected75` 后，在同一赛事内比较「2024是否通过学校/导师获得商业机构早期接触」「2026是否有原型、发行、投资公开痕迹」的**共现关系**，但投资者事先筛选好作品，**selection into funding confounds any apparent treatment effect**。融资比例与资源帮助需访谈未获资助者、且保留 refusal。对于家庭与就职，不能绕过知情同意。
 
 ## 5. Source ledger
-跨海峡学生决赛层商品化压力测试：[台湾014 — 2025放视大赏 × 2025 CUSGA](../taiwan/014-selected-student-cohort-productization-taiwan-vs-cusga.md)。该比较发现强筛选决赛层Steam/Demo行为高度收敛，进一步证明**CUSGA决赛者不能代表大陆普通学生的default awareness**；本文件继续优先恢复完整投稿分母。
+跨海峡学生决赛层商品化压力测试：[台湾014 — 2025放视大赏 × 2025 CUSGA](../taiwan/014-selected-student-cohort-productization-taiwan-vs-cusga.md)。该比较在2025台湾学生决赛19项中核实5项Steam匹配、大陆26项决赛暂核8项；两边都出现商品化，但不能由这些样本估国别差异或总体发生率。这进一步提示**CUSGA决赛者不能代表大陆普通学生的default awareness**；本文件继续优先恢复完整投稿分母。
 
 
 - **P0 官方主办者，2024-05-29**：UGDAP，《2024CUSGA中国大学生游戏开发创作大赛初赛入围名单公布!》，https://www.bilibili.com/opus/936835803008467041 。**2000+报名学生/500+作品/75入围**；图片形式75名单**仍待人工录入**。
