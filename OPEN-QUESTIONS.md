@@ -322,6 +322,29 @@ external signal latency / source directness / reference breadth / platform acces
 
 ---
 
+## P1 — Innovation Decision Architecture
+
+### OQ-016｜Cheap Prototype 会不会系统性误杀必须高保真 / 高规模才能显值的创新？
+**Status:** `OPEN` — `FRAMEWORK CREATED / COUNTEREXAMPLES NEEDED`  
+**Evidence in repo:** [Reversible Bets / Irreversibility Gradient](cross-industry/reversible-bets-irreversibility-gradient-001.md) 已建立 reversible bet / information-first milestone / option expiry 框架，并明确留下 prototype false-negative problem。  
+**Unresolved core:** 目前只能证明“小额可逆下注”在高未知条件下具有清晰的信息价值逻辑；尚不能证明所有关键价值都能在低保真、小规模、短周期 artifact 中显现。网络效应、叙事累积、高感官保真、生态 complements、社会意义与学习曲线都可能使 early prototype 产生系统性 false negative。  
+**Closure condition:** 至少建立 3 类“低保真测试会漏掉关键价值”的高质量案例，同时包含 1 类“声称必须完整做出才知道、最终却只是昂贵失败”的反例，形成 fidelity-to-hypothesis matching 规则，而不是替愿景项目开无限信用。
+
+**Question**  
+什么问题适合 cheap prototype；什么问题只有达到足够 fidelity / scale / duration 后才可观测？
+
+**Needed**
+- early prototype / concept-test 与最终产品评价不一致的同期材料；
+- network / platform / narrative / sensory / social-product 分型；
+- 早期 gate 误杀或险些误杀的项目；
+- “不能prototype所以必须梭哈”式失败反例；
+- prototype fidelity、cost、unknown 与最终结果的可比编码。
+
+**Route**  
+Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升级为私人项目方法论。
+
+---
+
 ## Usage
 
 其他对话领取问题时应：
