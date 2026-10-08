@@ -12,6 +12,8 @@
 
 - [`beginner-jam-public-authorial-persistence-cohort-045.md`](beginner-jam-public-authorial-persistence-cohort-045.md) — 2020 Beginner Friendly Game Jam 完整18个主提交账号的六年公开作者性追踪：固定入口后至少13/18有baseline后公开创作、至少4/18在2024–2026仍有明确新作；严格限定为public-authorial-continuation lower bound，不把空主页、未见后作或Jam持续误写成职业退出/职业留存。\n\n- [`creator-exit-reentry-economics-044.md`](creator-exit-reentry-economics-044.md) — OQ-002/005/006 的失败后人生结果层：GBGames、Atomic Armies、PONCHO、Mountaincore、Iron Cross→Attack at Dawn 与 Drunk Shotgun；建立 Exit Outcome Vector / Reversibility Capital，区分项目、公司、就业、作者性和残余资产，不把“回上班”“出第二作”“法人关闭”混成一个结局。
 
+- [`doom-organizational-aging-rejuvenation-043.md`](doom-organizational-aging-rejuvenation-043.md) — DOOM 1993→Quake→Rage/Doom 4→2016 的组织老化与再年轻：后发者模式切换、benchmark capture、problem sovereignty、reality arbitration、沉没成本处决与受保护异端；Hall→Petersen→McGee 进一步拆出 Capability Presence≠Capability Agency、Solution Diversity≠Problem Diversity 与 Organizational Cognitive Pruning。
+
 - [`carmack-romero-complementary-error-correction-network-042.md`](carmack-romero-complementary-error-correction-network-042.md) — Dangerous Dave、Wolf3D push walls、Doom editor/glue与Quake反馈延迟：将Carmack×Romero从技能互补升级为跨域翻译/可否决/角色可塑/快速shared-build的纠错网络，并以Tom Hall与Playdead CASE-056反证二人神话和治理永久有效。
 
 - [`truth-shield-to-narcissism-shield-ion-storm-governance-041.md`](truth-shield-to-narcissism-shield-ion-storm-governance-041.md) — Romero 2023自认把id成功公式错误迁移到Ion Storm；用Dallas/Austin同公司对照拆出feedback integrity、规模断层、互补能力依赖、decision-right accountability，并引入Exit/Voice/Loyalty和20项未展开研究欠账。
