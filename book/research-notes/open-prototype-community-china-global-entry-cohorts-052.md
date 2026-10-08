@@ -79,6 +79,16 @@
 
 另见CiGA既往[GGJ生存指南](https://www.ciga.me/blog/global-game-jam-9a674d9d-2441-4d70-b356-be7e7c7c2467)：明确教现场组队、配岗位身份牌、48小时scope、调解分歧、做简单构建和提交。其教育价值是教尚未就业者**通过一次可玩劳动，获得反馈与协作机会**，非只做招聘题。
 
+## 3. 从组织规模转到真正人物：2017—2021两条中国非标准作者生命史
+
+[053 — 希罗 × 亚恒：被Jam发现之前谁已经在创作？](ciga-heero-akaba-two-creator-life-crossroads-053.md)完成两段有原始同期访谈+Steam商店交叉核对的入场史：
+
+- 希罗是非游戏公司国企电缆检修工，2017接触Construct 2，**2017-12已经自行发行过《This Is Not A Jumping Game》**，才于2018在GGJ制作《Mr Husky》原型、半年后CGJ《Kninja》，2019《Mr Husky》EA→正式Steam。Jam的新增变量不是`FIRST GAME EVER`，而是`PUBLIC FEEDBACK / PEER RECOGNITION / REENTRY`；其2020—26是否继续制作UNKNOWN。
+- 亚恒在2018广州Jam前已有嵌入式程序能力、长期游戏阅历与《拣爱》私人Idea Pocket；Jam中10人合作圈分三项目，`LoveChoice`以部分合作者完成48小时验证，2018-09-30 Steam EA、2021-11-15 1.0；2018本人自述约1.8万份累计销量，**非审计净收入**；随后长期职业状态UNKNOWN。
+- 亚恒2018点名Jonathan Blow及The Witness为榜样，并通过YouTube学习独立开发制作节奏与通过海外论坛请人免费帮助语言校对，是**中国非商业游戏创作者实际主动获取国际信息的同期反例**。不代表中国创作者中外信息敏捷程度的普遍频率。
+
+这使`Jam produces creators`应改成`Jam can expose, connect and reality-test creators who may already have ideas, skills and even shipped games`。只有把每位作者在Jam以前的旧项目、职业/家庭runway查清楚，才能判断此次活动真实新增了什么，不能把入场者本来拥有的能力全部归功于组织方。
+
 ## 3. “市场外部化”和“平台准入成本”两层同时存在
 
 - 2025 GMTK官方规则：https://itch.io/jam/gmtk-2025 。**不分国籍/年龄**允许参赛；团队或个人可提交，制作者保留自己游戏的所有权，其他作者可公开试玩评分；2026继续类似规则。要核对各届AI资源、设备、技术与许可不同版本。

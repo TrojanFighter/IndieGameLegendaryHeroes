@@ -103,6 +103,12 @@ DOOM 则提醒我们：G2 并不总是先于技术突破。在 [CASE-016](../../
 
 每个字段都要有 Observation / Source / Counterexample / Temporal Regime。未写入不代表从未发生。
 
+## 7. 中国独立创作者的Gate顺序反证：成功入Jam之前就可能G3/G5
+
+[053 希罗×亚恒](ciga-heero-akaba-two-creator-life-crossroads-053.md)新增同一时期（2017–2021）一手人生数据：希罗2017年12月已自行在Steam发行作品，2018 GGJ才获得一次强公众试玩/同伴认可；亚恒2018 Jam之前已有嵌入式软件工作经验、游戏阅历和完整的`Idea Pocket`，Jam帮助其用合作补齐美术/音乐、压缩scope并验证产品。
+
+因此`G0→G6`是**诊断能力和权利的维度，不保证自然发生的固定流水线**；有些作者甚至已经完成`G5 STORE RELEASE`后才第一次参加jam。研究Jam边际价值应计算`entrant state_before → state_after`而非把所有入场者都编码为零起点。
+
 ## 7. 已有固定提案池对G2/G3/G6的新观测
 
 [051 Double Fine Amnesia Fortnight 2012–2026公开提案池](double-fine-amnesia-public-pitch-cohorts-051.md)增加一个以前较薄弱的观察窗口：`G2 想法/提案`本身可被登记，且未入选原型者也有署名。2012 23提案→5原型，2017 25→4，2026 26→4→1后续开发，**这些都是项目选择而非自然人的职业成功率**。
