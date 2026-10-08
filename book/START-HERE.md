@@ -216,25 +216,13 @@ Kickstarter之前，FTL的两位创作者已有职业经验，先用储蓄留出
 - [PLAYERUNKNOWN / Brendan Greene 研究档案](../cases/CASE-032-pubg-brendan-greene.md)
 - [工业革命比较实验室](../cross-industry/industrial-revolutions/README.md)
 
-DOOM 特别适合把技术决定论拆开。
-
-Carmack 不是坐等 PC 发展到某个年份，然后领取一项“现在可以做 FPS”的时代福利。
-
-他自己就在推进 renderer / engine 的技术前沿。
-
-所以技术机会至少有三种：
+回顾early id时，Carmack谈到团队一边推进渲染与引擎技术，一边围绕实际做到的能力重新设计游戏；想要的体验也会反过来推动技术。DOOM的技术窗口有他们主动创造的部分。读到这里，可以区分三种技术位置：
 
 - 有人继承已经扩散的工具；
 - 有人把已有技术重新组合成新用途；
 - 有人自己把技术边界向前推，给团队创造新窗口。
 
-真正的问题从来不是：
-
-> “新技术来了没有？”
-
-而是：
-
-> **它具体把什么变便宜了？谁真正能用？谁看见了新的可能？谁甚至亲手创造了那个可能？**
+判断自己是否错过机会时，可以问：**它具体把什么变便宜了？谁真正能用？谁看见了新的可能？谁甚至亲手创造了那个可能？**
 
 ---
 
@@ -252,13 +240,9 @@ Carmack 不是坐等 PC 发展到某个年份，然后领取一项“现在可�
 
 这一组还可加入 [Question / The Magic Circle](profiles/question-magic-circle-blackout-club.md)：当期有行业声望与 IGF 提名，也不等于品类易于理解或收入足以支持组织。
 
-这组案例共同提醒：
-
 > **有曝光，不等于市场接口有效；市场越早进入，也不等于越好。**
 
-真正要先问的是：
-
-> 我现在最怕判断错什么？需要的是玩法反馈、需求规模、产品可理解性，还是 runway？
+带着一个具体问题去读：我现在最怕判断错什么？需要的是玩法反馈、需求规模、产品可理解性，还是继续制作的资金？
 
 而且这些方法高度依赖年份。2009 Minecraft、2013 Factorio、2016 Brigador、2026 Bills Must Be Paid 处在完全不同的平台环境里。
 
@@ -266,14 +250,14 @@ Carmack 不是坐等 PC 发展到某个年份，然后领取一项“现在可�
 
 ## 我已经成功过一次，为什么事情反而越来越复杂
 
-这时先把“扩张”拆成两个问题：
+先看下一步需要什么：
 
-> **我真的需要更多 capability，还是更需要保留不承诺的选择权？**
+> **我需要补足哪些能力，又希望保留哪些暂不承诺的选择？**
 
 补读：
-- [Into the Breach / Subset Games](../cases/CASE-020-into-the-breach.md) — 第一次成功以后，用 retained earnings 买低 burn、延迟公开和长期 prototype，而不是立刻把 FTL 成功固化成续作与更高 fixed cost；
-- [thatgamecompany](../cases/CASE-057-thatgamecompany-vc-equity-expansion.md) — 另一条路径：用 equity 直接扩公司 capability，但同时进入 board / ownership / fundraising governance；
-- [Zachtronics](../cases/CASE-051-zachtronics.md) + [Spiderweb Software](../cases/CASE-058-spiderweb-fit-lock-in.md) — 如果一种成功 grammar 已经积累多年，转型成本会怎样反过来变高。
+- [Into the Breach / Subset Games](../cases/CASE-020-into-the-breach.md) — FTL收入给小团队留下长期试原型和延迟公开的空间，他们选择做不同的游戏，并在后续加入专门协作者；
+- [thatgamecompany](../cases/CASE-057-thatgamecompany-vc-equity-expansion.md) — 股权融资支持扩充开发与自发行能力；投资者加入董事会，后续筹资也占用创始人的制作时间，具体条款仍需另核；
+- [Zachtronics](../cases/CASE-051-zachtronics.md) + [Spiderweb Software](../cases/CASE-058-spiderweb-fit-lock-in.md) — 工具、品牌与受众长期积累以后，改做不同游戏的成本会怎样变化。
 
 
 先读：
@@ -281,25 +265,7 @@ Carmack 不是坐等 PC 发展到某个年份，然后领取一项“现在可�
 - [early id / DOOM](profiles/early-id-doom.md)
 - [Rocket League](profiles/rocket-league.md)
 
-成功不是结局。
-
-成功会买来：
-
-- 更多钱；
-- 更多人；
-- 更高野心；
-- 更多选择权。
-
-也会带来：
-
-- 组织冲突；
-- 更高固定成本；
-- 更复杂的决策权；
-- “我们以后究竟要成为什么”的新问题。
-
-early id 从 DOOM 到 Quake 的历史尤其说明：
-
-> **解决“怎么做出来”之后，人生和组织会立刻出现下一道完全不同的题。**
+成功后的钱与选择权可以用来维持小规模、扩大组织，也可以为不同作品留出探索时间；扩张还可能提高固定成本和协调要求。early id从DOOM走到Quake，技术与商业成绩没有替团队解决下一阶段的协调问题。读这些后续人生，仍要问：**我们以后究竟要成为什么，要为此承担哪些新的成本？**
 
 ---
 
