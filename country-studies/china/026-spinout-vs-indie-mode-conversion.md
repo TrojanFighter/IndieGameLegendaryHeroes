@@ -1012,6 +1012,19 @@ High Indie Conversion among those who exit
 
 完全不一定。
 
+## 14.2 四象限样本：Company Builder能力与Indie-Mode能力不是一条轴
+
+| Case | Organization-building | Indie-mode conversion | 读法 |
+|---|---:|---:|---|
+| Supergiant early Bastion | 中 | **高** | 小核心、低burn、作者thesis、专业能力保留 |
+| Lucas Pope | 低 | **很高** | 不建大组织，直接压成solo author unit |
+| Second Dinner | **高** | 混合 | hands-on creator impulse + $30m minority capital + licensed IP + F2P |
+| Frost Giant | **高** | 低/混合 | 独立studio、作者RTS愿景，但资本/规模/长期服务强 |
+| Dreamhaven | **很高** | 不适合单一编码 | 更像creator-governed company/publisher infrastructure |
+| Game Science | **高** | phase-dependent | 先commercial ownership exit，后premium authorial turn；最终不是典型small-team indie |
+
+所以“最会创业的人”与“最适合独游的人”不是同一排序。
+
 # 15. 对025当前样本的初步重新解释
 
 | Parent | Spinout evidence | Indie-mode inference |
