@@ -46,6 +46,7 @@
 作者旧文中关于“体验水平 / 有效需求 / 技术价值”的判断不直接升级为本书结论，统一先进入可证伪的 hypothesis intake：
 
 - [`001 — Experience Capital / Demand Discovery`](001-experience-capital-demand-discovery-hypotheses.md)
+- [`033 — 技术指标替代体验判断：需求形成、商业制度与人才能力的双向反馈`](033-technology-proxies-experience-demand-and-commercial-feedback.md)：增加1995–2015产业史学术分期、2010年同期对道具收费的反思、跨区域随机奖励机制与2026中国玩家商业化话语研究；区分 `TECHNICAL-PROXY SUBSTITUTION`、`REVENUE-SELECTED EXPERTISE`、`EXPERIENCE-LED TECH DEMAND`，保留双向因果与规模未知。
 - [`017 — Demand-Side Creator Selection`](017-demand-side-creator-selection-player-veto.md)：把“玩家审美 / 人民选择”拆成 `TASTE_CAPITAL / CREATOR_SELECTION_CAPACITY / CONSUMER_VETO / DEMAND_WEIGHTING / CHANNEL_MEDIATION`；研究玩家如何给作者性定价，也研究玩家choice set如何被渠道和商业模式反向塑造。
 - [`018 — 富豪阶级游戏性、玩家社会化与 Design Attractor`](018-wealth-class-gameplay-player-socialization-design-attractor.md)：统一“富豪阶级游戏性”术语，并把《征途》进一步拆成 `RESOURCE_CONVERSION_RIGHT / PLUTOCRATIC_DEMAND_WEIGHTING / CLASS_COMPLEMENTARY_PLAY / PREFERENCE_SOCIALIZATION / DESIGN_ATTRACTOR / ATTRACTOR_ESCAPE_COST`；重点研究商业制度如何同时塑造玩家偏好、人才价值和下一代产品。
 - [`019 — Taste Institutions`](019-taste-institutions-player-literacy-creator-selection.md)：把“玩家品味”进一步拆成 `ACCESS / INTERPRETATION / LEGITIMATION / PRACTICE / TRANSACTION / MEMORY` 六层，并提出中国早期可能存在的 `CULTURAL-INPUT / CREATOR-RETURN ASYMMETRY`：文化输入和Experience Capital并不必然同步形成稳定作者回流。
