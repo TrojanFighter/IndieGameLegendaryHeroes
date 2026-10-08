@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`creator-selection-institution-comparison-050.md`](creator-selection-institution-comparison-050.md) — 腾讯NExT 2018 2–5人/100人天/30–40孵化，网易2018六周Mini项目与晋升训练，Supercell Spark 2025的30名参与者/5个新团队，Valve手册及Battlestate自筹转型；按项目、人才、团队和退出权分离分母，不用例子代替国别水平。
+
 - [`revenue-to-career-selector-audit-048.md`](revenue-to-career-selector-audit-048.md) — 以巨人2007 SEC费用与核心研发期权为锚点，区分市场收益、预算、薪酬、原型权、晋升和立项权；不从7:1费用推国别原创者数量。
 - [`innovation-dimensions-zhengtu-doom-comparator-049.md`](innovation-dimensions-zhengtu-doom-comparator-049.md) — 创新六维分类：把《征途》的需求/商业制度重组与DOOM技术—玩法共创、Gunpoint小范围规则重组分开；禁止把收入规模代替玩法原创能力。
 
