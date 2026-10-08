@@ -70,6 +70,9 @@
 
 ## 4. Individualism / WEIRD 比较
 
+总论入口：
+- [`027 — Individualism as Innovation Infrastructure`](027-individualism-as-innovation-infrastructure.md)：把“个人主义”拆成 `NORMATIVE / ATTRIBUTIONAL / MARKET / ECONOMIC / MOBILITY / PRODUCTION / REPRODUCTIVE` 七层，提出 `INDIVIDUALISM REALIZATION RATE / PROTECTED NON-CONSENSUS / INSTITUTIONALLY PRODUCED INDIVIDUALISM`；并严格区分 career、entrepreneurial、authorial 与 civic individualism。
+
 Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可以提供跨社会比较假说，例如 impersonal institutions、voluntary association、individual choice、conformity / nonconformity、trust beyond kin、occupational mobility。
 
 但它只是一组理论和经验文献，不是中国游戏创新差距的总钥匙。任何引用都要区分国家、地区、代际和阶层，区分心理测量与真实产业行为，并寻找东亚内部与西方内部反例。
