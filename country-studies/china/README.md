@@ -65,6 +65,7 @@
 - [`031 — Education × East-Asian Discipline × Reference Repertoire`](031-education-east-asian-discipline-reference-repertoire.md)：把游戏阅历/广泛阅读不足前移到教育与家庭社会化，研究 `SELF-EDUCATION SOVEREIGNTY / UTILITY-JUSTIFICATION TAX / DISCRETIONARY-TIME CAPTURE / GAME-REFERENCE ACQUISITION TAX / DISCIPLINE × ESCAPE INSTITUTIONS`。
 - [`032 — Exam Overfit`](032-exam-overfit-routine-expertise-open-domain-transfer.md)：把“中国好学生综合征”统一到 `EXAM-OVERFIT / ROUTINE EXPERTISE / CLOSED-DOMAIN TRANSFER ERROR`，连接会议考试化、立项冻结、benchmark答案册、scale-down缺失与开放问题迁移失败。
 - [`034 — 认识论规训、遗制权威与知识载体污染：从标准答案到历史决策教育`](034-epistemic-discipline-authority-legacy-and-knowledge-aversion.md)：把 `EP-01 权威替代证据`、`EP-02 判断能力与评价权力脱钩`、`EP-03 说教诱发知识载体回避` 转成 H 级可证伪机制；同时给出原始史料→决策节点→异议/反证的教学协议，不以轶事推国别分母。
+- [`035 — 党史原始材料作为决策教育：史料目录、案例重建与八讲课程`](035-party-history-original-sources-decision-education-curriculum.md)：筛出17份原始文件或史料簇，区分手稿/选集/晚年回忆/历史研究，提供1930调查、1941精兵简政、1948淮海电报等双面决策课程，并用1959–1961纠错史作为不可省略的反压力案例；**17份材料不等于17个已完成教学案例**。
 - [`034 — 高投入、低迁移：教材结构与独游创作者的机会成本`](034-curriculum-depth-time-cost-autonomy-creator.md)：区分2005姜伯驹旧课标批评与2022课标；用OECD学习时间、Wang 2026政策研究、66RPG及大学高中化/教师KPI治理材料建立知识结构、时间、评价权与maker转化的可检验命题，拒绝用轶事推全国。
 
 需要把“规训”“标准答案”“怕犯错”“不容异类”拆成可研究的问题：
