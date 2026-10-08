@@ -324,6 +324,9 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 
 ## 横向研究入口 — 什么制度把玩家、员工和团队筛成下一代作者？
 
+- [053 — 白天修电缆的制作者与口袋里的叙事游戏：希罗×亚恒](research-notes/ciga-heero-akaba-two-creator-life-crossroads-053.md)：用同期作者访谈与Steam日期锁定两段中国职业门外创作人生，特别核实希罗2017已发首作、亚恒Jam前已有题目且2018需外部美术音乐，防止把“Game Jam孵化”误写成“Game Jam首次赋予创意/能力/收入”。可在补完Case/Evidence后写成读者群像。
+
+
 - [052 — 职业门槛之外的原型社区：中外Jam／高校／Mod作者的数量级与转化门](research-notes/open-prototype-community-china-global-entry-cohorts-052.md)：2024–25国内数百份公开作品与2000–3000名左右报名/参加者级入口，2025–26 GMTK/GGJ全球万份作品；中国巨鸟多多Mod→自动战斗范式反例；必须以同年度、同平台、同自然人或作品单位对分母，不能把全球原创总量全部计入“西方”，也不以中国爆款个案否认结构瓶颈。
 
 
