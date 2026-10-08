@@ -380,6 +380,19 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 
 ---
 
+## P1 — Education / Maker Opportunity Cost
+
+### OQ-019｜高投入、低迁移：教材结构与自主创作者的机会成本有多大？
+**Status:** `PARTIAL` — `HISTORICAL CURRICULUM CRITIQUE + POLICY VERSION CONTRAST + HOURS / GAME-RESTRICTION EVIDENCE / LONGITUDINAL CREATOR EFFECT OPEN`  
+**Evidence in repo:** [中国034教材与机会成本](country-studies/china/034-curriculum-depth-time-cost-autonomy-creator.md)、[中国031自我教育主权](country-studies/china/031-education-east-asian-discipline-reference-repertoire.md)、[中国032 Exam Overfit](country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)、[中国016 66RPG与创作者路网](country-studies/china/016-creator-route-topology-from-66rpg-to-modern-bridges.md)、[创作者三层约束018](book/research-notes/china-creator-constraints-three-layer-map-018.md)。  
+**Unresolved core:** 2005年课程改革争论不能代表2022/2026在用教材；PISA旧地区时长、游戏时间政策的短期考试结果与maker转化并非同一指标。缺教材逐页比较、同背景学生的自由时间与迁移测验、创作者固定队列的长期结果。  
+**Question:** 高风险评价与碎片化/重复教学分别占据多少时间？造成多大知识结构、开放问题迁移和自主作品机会成本？如何与家庭资源、学校管理、工具和社群机会区分？  
+**Competing explanations:** 扎实应试可能改善基础能力；学生自主时间增加可能流向无结构娱乐；中国已有66RPG及当代maker旁路；制度修订和教师减负治理可能已改善部分问题。  
+**Closure condition:** 同题跨版本课标—教材—考卷比较；至少两个代表性学生队列的时间/推理/自主项目数据；一个可比的中国—海外非明星制作者固定进入队列，能够报告发生率、效应大小、时间边界和反例。  
+**Route:** 中国034主责；教育/社会化031、应试迁移032、社群路网016与OQ-001/003/014相连。不得用零星成功者替代人群分母。
+
+---
+
 ## Usage
 
 其他对话领取问题时应：
