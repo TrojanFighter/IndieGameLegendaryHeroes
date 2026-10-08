@@ -345,6 +345,24 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 
 ---
 
+## P1 — Prestige / Authorship Selection
+
+### OQ-017｜仿制伟大：成功模板何时替代了原创判断？
+**Status:** `PARTIAL` — `CONCEPTUAL MODEL + SOURCE-ANCHORED COUNTEREXAMPLES / PREVALENCE + CAUSAL STRENGTH OPEN`  
+**Evidence in repo:** [中国028 — 仿制伟大](country-studies/china/028-imitation-of-greatness-prestige-copying-and-authorial-judgment.md)、[中国027 — 个人主义作为创新基础设施](country-studies/china/027-individualism-as-innovation-infrastructure.md)、[中国016 — 66RPG与创作路网](country-studies/china/016-creator-route-topology-from-66rpg-to-modern-bridges.md)、[能力复制陷阱048](book/research-notes/capability-reproduction-trap-horizontal-discovery-048.md)、[创新维度049](book/research-notes/innovation-dimensions-zhengtu-doom-comparator-049.md)。  
+**Unresolved core:** 已能区分技术/范式继承与身份/声望仿制，并有prestige learning文献、国内原型生态及中国原创成功的反压力。但**没有**可比的评审偏好实验、完整项目绿灯候选池、长期创作者队列和国别效应量。不能把文化评论升级为“中国人普遍仿制伟大”的既成事实。  
+**Closure condition:** 至少建立(1)一个含通过/被拒项目的组织内立项全样本或声望标签盲评，(2)一个同构跨国/跨机构对照，(3)一个普通/失败原型队列；报告benchmark作为描述语言与作为目标函数的区别，独立检验每个因果箭头。  
+**Question**  
+为什么成功者的社会认证可能在某些机制中取代对尚未成功创作者的判断？哪些组织/社群容许独立问题定义，并让其低成本接受现实反馈？
+
+**Key variables**  
+`PRESTIGE_TO_AUTHORITY TRANSFER / BENCHMARK_OBJECTIVE_SHARE / GREENLIGHT_DECISION_RIGHTS / PROTOTYPE_ACCESS / AUTHORIAL_JUDGMENT / SECOND_ATTEMPT`。
+
+**Route**  
+中国国情 028 为本地机制入口，跨国效果与分母挂 OQ-001/003/014/015；人物传记须回查同期原型/决策，不能靠英雄成功故事解释强因果。
+
+---
+
 ## Usage
 
 其他对话领取问题时应：
