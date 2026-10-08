@@ -24,10 +24,10 @@
 固定决赛队列第一次给出了强反证。
 
 ### 当前（2026-10）Steam 可见度
-- 台湾 2025 放视大赏 PC/主机决选：**6 / 19 = 31.6%**
+- 台湾 2025 放视大赏 PC/主机决选：**5 / 19 = 26.3%**
 - 大陆 2025 CUSGA 决赛：**8 / 26 = 30.8%**
 
-几乎完全相同。
+数值接近，但样本太小、选拔框不同，不能估计地区效应量。
 
 ### 赛事时点前后的 SteamDB app-record proxy
 台湾：
@@ -104,7 +104,7 @@ https://moda.gov.tw/ADI/news/latest-news/16270
 
 ---
 
-# 2. 台湾当前 Steam-positive 6项
+# 2. 台湾当前 Steam-positive 5项（完成同名主体排除）
 
 | Project | SteamDB first seen | Relative to 2025-04-28 shortlist | Current EN | Current JP | Current demo | Current publisher |
 |---|---|---|---:|---:|---:|---|
@@ -113,7 +113,6 @@ https://moda.gov.tw/ADI/news/latest-news/16270
 | 炎上棉 HOT 糖 / Hot Stuff | 2025-01-27 | PRE | YES | YES | no current match | self |
 | 絕對武裝MK / Full Gear Mong Kok | 2025-02-16 | PRE | YES | YES | no current match | self |
 | 星爆狂歡夜 / Starburst Fever Night | 2025-10-14 | POST | YES | YES | YES (2026) | Waku Waku Games |
-| 背包地牢 / Backpack Dungeon | 2026-02-28 | POST | YES | YES | YES (2026) | Shuffle Play Games |
 
 Sources:
 - Dream Strikers: https://steamdb.info/app/3183230/
@@ -124,16 +123,22 @@ Sources:
 - Full Gear Mong Kok: https://steamdb.info/app/3539360/
 - Starburst Fever Night: https://steamdb.info/app/4111360/
 - Starburst Demo: https://steamdb.info/app/4406690/
-- Backpack Dungeon: https://steamdb.info/app/4478640/
-- Backpack Demo: https://steamdb.info/app/4524110/
+
+### 身份核验纠错（2026-10-08）｜2025《背包地牢》≠ Steam app 4478640
+
+此前仅据中文同名，把放视大赏2025《背包地牢》（学生团队「一周目工作室」）误配到 Steam app 4478640，并当作2026发行、多语言、Demo及发行商成果。**该匹配错误，全部从分子中排除。**
+
+Steam原始页面显示 app 4478640 开发者为「夜喵」，发行商为 Shuffle Play Games，作品是像素背包管理 Roguelike；与上述学生作品的开发主体、游戏机制均不一致。该app记为 `TITLE_COLLISION_EXCLUDED`，不能算作学生项目的商业延续。P0来源（核验2026-10-08）：https://store.steampowered.com/app/4478640/Backpack_Dungeon/ 。
+
+注意：排除误配 **不等于证明学生作品已经放弃**。当前记为 `NO_CONFIRMED_STEAM_MATCH`，将来可凭团队官方链接再更新。统一匹配要求：`DEVELOPER_IDENTITY + ARTIFACT/GENRE + PROJECT_LINEAGE`，不得凭同名、译名或Steam标签判定同一项目。
 
 ### 当前 follow-up 状态
-- Steam page / app record：6/19；
-- English support：6/6 Steam-positive；
-- Japanese support：6/6；
-- current or historical Steam Demo可确认：4/6；
-- 外部专业发行商：至少2/6；
-- 已正式发售：至少2/6（手摇饮店模拟器、背包地牢）。
+- Steam page / app record：5/19；
+- English support：5/5 Steam-positive；
+- Japanese support：5/5；
+- current or historical Steam Demo可确认：3/5；
+- 外部专业发行商：至少1/5（Waku Waku Games）；
+- 已正式发售：至少1/5（手摇饮店模拟器）；其余项目后续逐项复核。
 
 这些是2026-10状态，不是赛事入口状态。
 
@@ -255,14 +260,14 @@ Sources:
 | Metric | Taiwan Vision 2025 PC/console finalist | Mainland CUSGA 2025 finalist | Interpretation |
 |---|---:|---:|---|
 | cohort n | 19 | 26 | 都是强筛选决赛层 |
-| current Steam-positive | 6/19 = 31.6% | 8/26 = 30.8% | 几乎相同 |
+| current Steam-positive | 5/19 = 26.3% | 8/26 = 30.8% | 两个高选拔队列都存在Steam商品化；非区域总体比较 |
 | SteamDB record before key selection cutoff | 4/19 = 21.1% before TW shortlist | 6/26 = 23.1% before CN submission deadline | 未见台湾优势 |
 | by final-shortlist announcement | 4/19 | 7/26 = 26.9% | 大陆反而略高；不能作国别推断 |
-| current English among Steam-positive | 6/6 | 6/8 | 台湾当前localization breadth更整齐 |
-| current Japanese among Steam-positive | 6/6 | 5/8 | 台湾当前日本向准备更整齐 |
-| current/historical demo confirmed | 4/6 | >=6/8 | 大陆顶层demo行为不弱 |
-| external specialist publisher | >=2/6 | >=2/8 | 两边都存在 |
-| released by 2026-10 | >=2/6 | >=3/8 | 相近 |
+| current English among Steam-positive | 5/5 | 6/8 | 台湾当前localization breadth更整齐，分母很小 |
+| current Japanese among Steam-positive | 5/5 | 5/8 | 台湾当前日本向准备更整齐，分母很小 |
+| current/historical demo confirmed | 3/5 | >=6/8 | 大陆顶层demo行为不弱 |
+| external specialist publisher | >=1/5 | >=2/8 | 两边都存在 |
+| released by 2026-10 | >=1/5 | >=3/8 | 不能凭此推断总体成功率 |
 
 ### 统计解释
 
@@ -376,7 +381,7 @@ interest self-selection
 现有证据现在支持三层模型：
 
 ## Layer 1 — TOP SELECTED PROJECTS
-**Convergence is strong.**
+**Both sides have productization cases; no identified regional effect size.**
 
 两岸都能产生：
 - Steam-ready；
@@ -483,7 +488,7 @@ P0优先级：
 
 反而显示：
 
-> **一旦进入高选择强度学生开发社群，两岸顶层在Steam、Demo和商业桥梁上高度收敛。**
+> **一旦进入高选择强度学生开发社群，两岸顶层在Steam、Demo和商业桥梁上均有明确行为，区域数量级差异未知。**
 
 所以用户观察到的巨大差距若真实存在，更可能位于：
 **进入这个社群之前**。
