@@ -39,7 +39,23 @@
 
 E008的Class为“P1”，描述却为“contemporaneous creator development post”，与AGENTS同期P0规则有冲突。交Lane B核等级，Lane C不修改标签；候选说明文章的实际日期与性质，报告不假装等级冲突已解决。Case/Ledger另有“开工前约九年”压缩口径，候选沿原Profile保留“2013演讲的九年包含开发期”，此冲突同样留给Lane B。
 
-本次E004请求返回403、E006返回406，未读到它们的在线正文。相关内容只消费现有Case/Ledger与原Profile，不加入新引语、日期或细节；不可称本次完成全部外链核验。E005只使用已登记演讲题名与口径，不声称读过完整视频/幻灯片。E001/E002本轮未重新打开，只锁定后续结构应保留的既有事实。
+首次直接请求E004返回403、E006返回406。随后通过网页检索工具读到了E004完整采访正文，核对Mike Rose署名、2012-01-30日期、原型口径与条件判断；E006仍未读到在线正文，相关内容只消费现有Case/Ledger与原Profile。E005只使用已登记演讲题名与口径，不声称读过完整视频/幻灯片。E002随后已重读全文；E001未重新打开。不可称本次完成全部外链核验。
+
+### 报道补读：人物经历足以承担叙事
+
+按作者建议，2026-10-09补读以下报道/访谈与既有一手回顾的正文。以下为编辑参考与核证清单，不新增canonical Evidence，不将报道里尚未登记的细节写进B版。
+
+| 来源、署名、日期 | 阅读定位与编辑用途 | 事实接入边界 |
+| --- | --- | --- |
+| [One Tom Francis Is All You Need](https://giantbomb.com/articles/one-tom-francis-is-all-you-need)，Patrick Klepek，Giant Bomb，2013-08-22 | 已读全部报道正文。职业愿望、工具入门、开发障碍与寻求协作构成连续人生，比逐节定义品味更适合作整篇动线的参考 | 发售后访谈中追忆早年，不能当同期日记。碰撞重写次数、早年通信和生日测试等未登记细节为VERIFY_IN_LANE_B；报道把Spelunky记作2009年，不能直接据此定作品首版年份 |
+| [Gunpoint preview - a game about rewiring things and punching people](https://www.pcgamer.com/gunpoint-preview-a-game-about-rewiring-things-and-punching-people/)，Owen Hill，PC Gamer，页面当前未显示发布日期（UNKNOWN） | 已读全部采访正文。测试反馈与他尚未解决的问题，适合用来检查叙事有没有把探索写成既定规划 | 开场明确同事采访，需保留职业接入偏差；“去年五月”不能在日期未核时换算绝对年份。Visual Basic前史等留Lane B，不能把“无开发履历”扩写成从未接触编程 |
+| [Gunpoint and Heat Signature developer Tom Francis on going from critic to creator](https://mcvuk.com/business-news/media-pr/gunpoint-and-heat-signature-developer-tom-francis-on-going-from-critic-to-creator/)，页面署名MCV Staff，MCV/DEVELOP，2015-07-09 | 已读全部报道正文。评论者怎样说明好坏、后来怎样选择下一作，提供人物声音与后续路线参考 | 后来的回忆与记者概括分开；页面标签有matthew-jarvis，不据标签改认署名。职业退出的精确天数不替代E002口径 |
+| [Road to the IGF: Tom Francis' Gunpoint](https://www.gamedeveloper.com/business/road-to-the-igf-tom-francis-i-gunpoint-i-)，Mike Rose，Gamasutra / Game Developer，2012-01-30，既有E004 | 已读全部采访正文，重新确认B版的评论→测试、移动原型与不寻常机制的条件。末段的删道具、电梯耗时，提示范围判断也会失手 | 已登记来源不等于其中所有细节都已入档。电梯一周、Cold Call与素材尚在压缩包等新增关键细节先VERIFY_IN_LANE_B，再决定是否进入后续候选 |
+| [2013](https://www.pentadact.com/2013-12-31-2013/)，Tom Francis，2013-12-31，既有E002 | 已读全文。退出PC Gamer不只有销售结果，也伴随职业身份变化；适合整篇结尾的来源方向 | E002已承担销售阈值与休假后辞职。其他自述，包括中断、支持与身份感受，需先由Lane B登记，不能当成编辑自行补出的心理活动 |
+
+**编辑判断：REVISE_AGAIN适用于下一阶段整篇动线，不撤销本次小样的可审阅性。** 整篇宜沿“长期想做但未动手→工具与反馈→实现障碍/删改→寻求协作→销售与职业身份变化”讲述。每个节点需由事实Owner承担；保留作者关于品味的判断，让判断出现在经历改变选择的位置。当前B版是其中取舍与原型的局部试验，不足以替代这条完整人物线。
+
+报道的精彩应来自真实经历及当事人的表达。不得复制其“天才/必然”概括、长段措辞或戏剧性编排；采访也有事后筛选和成功者偏差。暂不追加第四节或用未登记细节覆盖样段。作者可先判断当前开场，或要求后续核证后改用更连贯的人物前史开场。
 
 ## Narrative Packet
 
@@ -74,7 +90,7 @@ E008的Class为“P1”，描述却为“contemporaneous creator development pos
 
 本轮三个连续候选小节：**2010删演出计划 → 倒回评论/工具/移动原型 → 2014回顾解释规则与价值取舍**。第三节再次提醒2010核心机制未实现，避免将回顾倒填成预知。
 
-作者审核样段后，拟整篇动线：2010取舍 → 职业与原型前史 → 规则及删改 → 公开开发/测试/美术音乐/分成 → 媒体、IGF、Steam接入 → 2013销售与职业退出 → 极短后续作品尾声 → 来源、未知、时效与独立决策工具。**此蓝图不等于本次已交整篇候选或已获准扩写。**
+作者审核样段后，原拟整篇动线：2010取舍 → 职业与原型前史 → 规则及删改 → 公开开发/测试/美术音乐/分成 → 媒体、IGF、Steam接入 → 2013销售与职业退出 → 极短后续作品尾声 → 来源、未知、时效与独立决策工具。报道补读后，另建议以职业愿望与动手前史开始的顺叙动线；两种开场待作者选择，均非确定的扩写计划。**此蓝图不等于本次已交整篇候选或已获准扩写。**
 
 ## 原稿—候选—证据Fidelity Readback
 
