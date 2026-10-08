@@ -24,6 +24,8 @@ last_verified: 2026-10-05
 - Evidence Ledger: [`../evidence/CASE-032-pubg-brendan-greene-source-ledger.md`](../evidence/CASE-032-pubg-brendan-greene-source-ledger.md)
 - Corpus role: **LINEAGE / TRANSITION CASE**。早期 mod 阶段具有高度独立性；H1Z1 是顾问/授权关系；PUBG 已是 Bluehole 公司化商业生产，不得整段包装成“独立游戏开发”。
 
+**2026-10-08 韩国比较补注：**本案不能仅用作Greene的Mod→商业职业谱系；韩国Bluehole在后技术先发时代展示的是`GLOBAL_CAPABILITY_SCOUTING + CAPABILITY_COMPOSITION`。2017年Bluehole创始人称Steam发行建议来自美国子公司的外国员工，提示全球玩法作者和海外渠道知识双重输入。参见[韩国001跨国能力获取](../country-studies/korea/001-post-lead-transnational-capability-acquisition-integration.md)和[本案证据 E009–E010](../evidence/CASE-032-pubg-brendan-greene-source-ledger.md)。不可断言韩国整个产业原创性高于中国；须保留腾讯Riot、网易海外投资等反例。
+
 ## Why this case
 
 Brendan Greene 的故事不是“一个摄影师一夜做出 PUBG”，而是一条异常清楚的生产谱系：
