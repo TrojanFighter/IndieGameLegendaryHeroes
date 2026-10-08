@@ -693,6 +693,147 @@ idea
 
 ---
 
+## 13.1 Strategy is downstream of repertoire：策略之前先要“看得见”解法
+
+前文仍有一个过度理性化风险：
+
+> 把创作者写成“看见多种生产路线以后，有意识选择了错误策略”。
+
+现实中更常见的情况可能更上游：
+
+> **他根本不知道还有别的路线。**
+
+因此新增因果链：
+
+```text
+PLAY / REFERENCE REPERTOIRE
+→ COMPARATIVE GAME LITERACY
+→ SOLUTION-SPACE VISIBILITY
+→ AVAILABLE STRATEGIES
+→ DEFAULT RESPONSE
+→ PROJECT FORM
+```
+
+也就是说：
+
+# `STRATEGY SET IS LEARNED`
+
+> **有意策略只能从已经进入认知候选集的解法里选择。**
+
+一个人若长期只接触少数同质商业产品，那么：
+- open world；
+- gacha；
+- MMO；
+- hero shooter；
+- mature F2P loop；
+- high-fidelity 3D；
+
+可能不再是“参考案例”，而会被内化成：
+> **游戏正常应该长成的样子。**
+
+于是 `SPEC PRESERVATION` 并不一定是经过理性比较后的选择，而可能是：
+
+# `ONTOLOGY LOCK / 游戏本体论锁定`
+
+> **创作者把自己有限经验中的产品形态误认成“游戏本身”的必要组成。**
+
+例如：
+- 认为角色必须有完整动画；
+- 认为RPG必须有大地图和大量内容；
+- 认为动作游戏必须高规格3D；
+- 认为商业产品必须先有人群/竞品/市场盘子；
+- 认为“完整游戏”必须有某套成熟feature bundle。
+
+这种情况下，“请他有意识scale down”往往已经太晚。
+
+因为他不是不会砍，而是：
+> **他无法想象那个需求原本可以不存在。**
+
+### 玩得多 ≠ Reference Repertoire宽
+
+必须再区分：
+
+- `PLAY HOURS`：总时长；
+- `TITLE COUNT`：玩过多少游戏；
+- `REFERENCE BREADTH`：年代/地区/平台/genre/规模/商业模式跨度；
+- `REFERENCE REMOTENESS`：是否接触非主流、失败、实验、旧游戏、mod、jam作品；
+- `COMPARATIVE LITERACY`：能否解释不同游戏为什么采取不同解决方案；
+- `PRODUCTION LITERACY`：是否知道这些产品在什么资源/组织条件下做出来。
+
+一个人5000小时玩同一个live-service，可能拥有极高操作/系统熟练度，却仍有很低的 `SOLUTION-SPACE BREADTH`。
+
+### Game literacy并不等于“会玩”
+
+既有game-literacy研究指出：即使是进入game studies / game design课程、很会玩游戏的学生，也未必具备深层game literacy；真正理解要求能把游戏放进其他游戏、技术平台、文化语境以及组件与交互机制中进行描述、比较、拆解和定位。
+
+Source:
+- https://www.researchgate.net/publication/221643982_A_framework_for_games_literacy_and_understanding_games
+
+这对本项目的意义是：
+
+> **“中国从业者游戏玩得少”真正需要测的，不只是平均游戏时长，而是其reference repertoire和comparative game literacy。**
+
+### Design fixation的双刃剑
+
+设计研究的meta-analysis显示：examples既能提供灵感，也会造成fixation；例子会让设计者更集中在已有example相关区域、减少solution category breadth，同时某些不常见example又可能提高novelty/quality。
+
+Source:
+- https://www.sciencedirect.com/science/article/abs/pii/S0142694X15000290
+
+所以正确结论不是：
+> “多看爆款就能创新”。
+
+而是：
+
+# `DIVERSE REFERENCE PORTFOLIO`
+
+> **需要大量、相互矛盾、跨制度、跨年代、跨规模的案例，才能防止单一example变成世界模型。**
+
+因此真正的创作者训练应该同时看：
+- hit；
+- flop；
+- solo；
+- AAA；
+- jam；
+- mod；
+- experimental；
+- old games；
+- non-Western games；
+- failed prototypes；
+- production postmortems。
+
+### Reference贫困如何产生“商业游戏反训练”
+
+如果一个人的reference set在进大厂之前已经很窄，而大厂又每天强化benchmark、mature category、live metrics和department grammar，则：
+
+```text
+narrow repertoire
+→ enter commercial regime
+→ same examples repeated
+→ ontology lock strengthened
+→ alternative production modes become cognitively invisible
+```
+
+这时所谓“商业反训练”并不是把一个原本拥有丰富indie grammar的人简单洗掉，而可能是：
+
+> **在原本就贫乏的reference substrate上，把少数商业解法训练成唯一现实。**
+
+### Hacker Spirit的上游其实是“玩过什么、见过什么”
+
+真正的hacker反射“这个问题还能不能换个做法？”依赖脑中已经见过：
+- 别人如何绕过类似约束；
+- 不同年代怎样解决同一问题；
+- 小团队怎样用抽象替代资产；
+- 失败者为什么失败；
+- 奇怪游戏怎样成立。
+
+因此：
+
+# `REFERENCE REPERTOIRE IS PRODUCTION CAPITAL`
+
+> **游戏经验不是消费履历，而是创作者的可调用生产资本。**
+
+没有足够reference repertoire，很多所谓“有意scale down策略”根本不会出现。
 # 14. `CAPABILITY DEFICIT EXTERNALIZATION`：把“我不会”改写成“客观做不了”
 
 Reference Set Poverty + Scale-Down Deficit容易形成：
