@@ -85,45 +85,27 @@ Nomada可以看互补作者怎样把视觉方向变成一家能够制作的公�
 
 ## C. 我什么都会一点，但没有明显单项护城河
 
-这种情况最容易误读成：
-
-> “我是不是不适合做作者项目？”
-
-不一定。
-
-真正的问题是：
-> 你是否能把 broad capability 变成**快速闭环与连续出货**，而不是把自己变成所有岗位的廉价替代品？
+多种技能能否支持一个可完成的项目，要看怎样使用它们：能不能更快做出作品、获得反馈并继续制作，还是只让一个人硬扛所有岗位的工作？
 
 先读：
 - [Kenny Sun](../cases/CASE-053-kenny-sun.md)
 - [Kenshi](profiles/kenshi.md)
-- [Stardew Valley](../cases/CASE-004-stardew-valley.md)
+- [Stardew Valley人物稿](profiles/stardew-valley.md) · [研究档案](../cases/CASE-004-stardew-valley.md)
 - [FTL](profiles/ftl.md)
 
-重点区分：
+可以区分三种过程：
 
-**Labor Compression**
-> 一个人硬做五个人的常规工作。
+- **劳动压缩（Labor Compression）**：一个人承担原本需要多人完成的常规工作，工作量仍在那里。
+- **重新定义项目（Problem Redefinition）**：改变作品的做法，减少对多种昂贵专业制作的需求。
+- **逐步积累能力（Capability Accretion）**：通过连续可完成的项目，逐渐扩大能承担的制作范围。
 
-与
-
-**Problem Redefinition**
-> 项目本身减少了需要五种昂贵专业生产的地方。
-
-Kenny Sun 再提供第三条：
-
-**Capability Accretion**
-> 用连续可完成项目，把今天的 generalist 能力生产成明天更大的 production frontier。
+Kenny Sun在2023年回顾中说，自己在Harmonix受薪工作时继续用周末做小作品，后来这些作品的收入逐渐足以覆盖生活。他的经历可以用来追问：每个项目留下了什么能力，又在哪个阶段改变了下一次投入的条件？它不能保证不断练习就会获得同样结果。
 
 ---
 
 ## D. 我已经成功过一次 / 手里有一笔资本
 
-这是另一种危险阶段。
-
-第一次成功以后，最容易犯的错不是“没钱”，而是：
-
-> **把钱立即兑换成更高 fixed burn、更大的团队和更难撤回的承诺。**
+**成功后值得警惕的，是立即把钱变成更高的固定支出、更大的团队和难以撤回的承诺。** 资金既可以增加制作能力，也可以让你暂时不必确定下一款作品。
 
 先读：
 - [Into the Breach / Subset Games](../cases/CASE-020-into-the-breach.md)
@@ -131,27 +113,18 @@ Kenny Sun 再提供第三条：
 - [House House / Goose Game → Big Walk](../cases/CASE-052-house-house-goose-game.md)
 - [thatgamecompany](../cases/CASE-057-thatgamecompany-vc-equity-expansion.md)
 
-这里至少有两种不同用钱方法：
+两种用钱方式值得分别比较：
 
-### BUY CAPABILITY
-> 雇人、买 art / production / publishing / distribution 能力。
+- **购买能力（BUY CAPABILITY）**：雇人或获得美术、制作、发行与分发能力。
+- **保留选择（BUY OPTIONALITY）**：给探索留出时间，不急着扩团队、公开或融资，让不合适的方向仍能放弃。
 
-### BUY OPTIONALITY
-> 不急着扩团队，不急着宣布，不急着融资，让项目可以被扔掉。
+Into the Breach提供了第二种经历。FTL成功后，Subset保留小核心，较长时间不公布新项目。2018年Ma与Davis回顾说，他们想做新的、不同的游戏，刻意不让已有粉丝的期待成为主要设计输入，同时保留两人共同的设计原则。
 
-Into the Breach 最值得看的就是第二种。
-
-FTL 成功以后，Subset 没有把“玩家想要 FTL 2”直接变成产品规格。2018 年 Ma / Davis 直接说，他们想做新的、不同的东西，并刻意压低粉丝期待对设计的支配；同时又保留了自己的 design ethos。
-
-因此 CASE-020 更适合叫：
-
-> **LOCK-IN PREVENTION / OPTIONALITY PRESERVATION**
-
-而不是“成功逃出成熟 FIT-LOCK-IN”。
+这叫预防成功经验过早固定路线、保留选择权（LOCK-IN PREVENTION / OPTIONALITY PRESERVATION）。一次成功后的主动选择，还不能等同于摆脱多年工具、固定受众和品牌期待形成的成熟限制。
 
 ---
 
-# 第二步：你现在能承担哪一级 Risk Position？
+# 第二步：你的生活能承担什么风险？
 
 能力相似，不代表风险承受力相似。
 
@@ -165,93 +138,76 @@ FTL 成功以后，Subset 没有把“玩家想要 FTL 2”直接变成产品规
 
 这时优先读：
 - [Gunpoint](profiles/gunpoint.md) — 工资购买低承诺试错；
-- [The First Tree](../cases/CASE-042-the-first-tree.md) — full-time job + family constraint；
-- [Kenshi](profiles/kenshi.md) — 极端低现金生存，但高 human cost；
-- [Rocket League / Psyonix](profiles/rocket-league.md) — service work 购买公司寿命。
+- [The First Tree人物稿](profiles/david-wehle-first-tree.md) · [研究档案](../cases/CASE-042-the-first-tree.md) — 保留工资，在工作和家庭责任之间制作；
+- [Kenshi](profiles/kenshi.md) — 夜班维持生活，个人制作跨越多年，实际生活支出仍未知；
+- [Rocket League / Psyonix](profiles/rocket-league.md) — 客户合同维持公司并保留原创空间。
 
-不要先问：
-> “我够不够勇敢辞职？”
-
-先问：
-> **能否把第一次不可逆下注推迟到已有 playable / stranger feedback / market evidence 之后？**
+**能否在承担难以撤回的投入之前，先做出可玩版本、取得陌生人的反馈，并核查市场证据？** 辞职的勇气不能替代这些信息，几个步骤也不必同时发生。
 
 ---
 
-## R1 — 我有几个月到一年 runway，但还没有强证据
+## R1 — 我能支持几个月到一年制作，但还没有强证据
 
-优先动作：
-
-> **BOUNDED EXPERIMENT**
+可以先安排有边界的试验（BOUNDED EXPERIMENT），说清准备投入多久、验证什么，以及什么结果会改变决定。
 
 先读：
 - [FTL](profiles/ftl.md)
 - [Project Wingman](../cases/CASE-009-project-wingman.md)
 - [despelote](../cases/CASE-023-despelote.md)
 
-目标不是“一年内做完梦想游戏”。
-
-而是：
-> 在 runway 耗尽前，拿到一个足以决定 **kill / continue / pivot / pitch** 的外部证据。
+在资金窗口耗尽前，争取获得足以判断停项、继续、转向或向资方提案的外部证据。把这项试验当作“一年内必须完成梦想游戏”，可能会错过较早调整方向的机会。
 
 ---
 
-## R2 — 我有稳定工资 / 低 burn，可以慢慢试
+## R2 — 我有稳定工资、支出较低，可以慢慢试
 
-这是很强的结构优势，但也有陷阱：
-
-> 低 burn 会延长试错寿命，也可能延长错误寿命。
+**低支出能延长试错，也可能让错误维持更久。** 稳定收入留下了时间，仍需要外部反馈和结束某个方向的依据。
 
 优先读：
 - [Gunpoint](profiles/gunpoint.md)
-- [The First Tree](../cases/CASE-042-the-first-tree.md)
+- [The First Tree人物稿](profiles/david-wehle-first-tree.md) · [研究档案](../cases/CASE-042-the-first-tree.md)
 - [Kenny Sun](../cases/CASE-053-kenny-sun.md)
 
 检查：
-- 有没有 deadline；
-- 有没有 stranger feedback；
-- 有没有 scope reversal；
-- 有没有 kill condition；
-- side project 是否真的生产新 capability。
+- 项目或阶段的截止期限是什么；
+- 有没有来自陌生人的反馈；
+- 能不能缩小或重新调整范围；
+- 什么情况下停止这个方向；
+- 业余项目是否留下了新的能力。
 
 ---
 
 ## R3 — 我已有前作收入 / 组织现金流 / 很高退出能力
 
-这时的高杠杆资产不是“可以花更多钱”，而是：
-
-> **可以让现实晚一点逼你承诺。**
+这些资源可以购买探索时间，让你晚一点才必须确定方向或扩大投入。它们也可以用于增加人手，两种用途需要比较。
 
 优先读：
 - [Into the Breach](../cases/CASE-020-into-the-breach.md)
 - [The Witness](../cases/CASE-047-the-witness.md)
 - [House House / Big Walk](../cases/CASE-052-house-house-goose-game.md)
 
-先决定：
-
-> 这笔资本应该买 headcount，还是买搜索时间？
+先问：**现在缺的是更多人手，还是更多尝试不同方向的时间？**
 
 ---
 
-## R4 — 我准备接受 publisher / VC / cofounder
+## R4 — 我准备与发行商、股权投资者或共同创始人合作
 
-这不是简单“获得更多资源”。
-
-你同时在购买新的 decision-right surface。
+这些合作会增加资源，也会改变决定怎样作出、权利怎样分配。发行合作、股权投资与共同创始不是同一种安排，需要分别读合同与治理关系。
 
 优先读：
 - [Outer Wilds](../cases/CASE-049-outer-wilds.md)
-- [Nomada / GRIS](../cases/CASE-050-nomada-gris-neva.md)
+- [Nomada / GRIS人物稿](profiles/nomada-gris-neva.md) · [研究档案](../cases/CASE-050-nomada-gris-neva.md)
 - [Playdead](../cases/CASE-056-playdead-founder-governance.md)
 - [thatgamecompany](../cases/CASE-057-thatgamecompany-vc-equity-expansion.md)
 
 至少查清：
-- 谁持有 equity；
-- 谁在 board；
-- 谁能杀项目；
-- 谁能改 milestone；
-- 谁决定 launch；
-- 谁拥有 IP；
-- 谁承担 recoup / return；
+- 谁持有股份；
+- 谁在董事会；
+- 谁能停止项目；
+- 谁能修改交付节点；
+- 谁决定发售；
+- 谁拥有作品知识产权；
+- 投入怎样回收，回报与义务由谁承担；
 - 下一轮资金依赖是否因此变强。
 
 ---
