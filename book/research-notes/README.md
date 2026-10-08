@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`unshipped-creator-gates-china-spain-credit-055.md`](unshipped-creator-gates-china-spain-credit-055.md) — 中国呼兰Alex（2022《RESTART》未完成但拥有项目主程/Unity基础）、LZY（2024《昆仑工程》完成但退款反馈/ROI不理想，2024作者自述）、西班牙Evolve Games（2016四人失去两人且规模翻倍后取消《The Swarm》）及IGDA 2023署名/离职信心调查：区分技术、完成、市场、团队连续和可转移作品信用；非随机国家样本。
+
 - [`creator-exit-scope-five-biographies-china-us-054.md`](creator-exit-scope-five-biographies-china-us-054.md) — 希罗×亚恒×Gunpoint×The First Tree×early id：按入场前阅历和已出货、原型组织/砍规模、工资与家庭支持、何时辞职及市场接入作历史对照。新增2018亚恒本人10章→6章复盘、2017已辞职、2019家庭尊重/跨国阅读，Francis 2010试玩反驳、2013三个月假期，Wehle 2016全职+育儿和2017真实愿望单。拒绝“先辞职=勇敢/原创”和5例外推国别数量级。
 
 - [`ciga-heero-akaba-two-creator-life-crossroads-053.md`](ciga-heero-akaba-two-creator-life-crossroads-053.md) — 2017先发Steam再参2018Jam的国企电缆检修工希罗，与2018年先有Idea Pocket/嵌入式技能、经Jam组队验证后《拣爱》发行的亚恒：同期一手采访＋Steam核对，纠正Jam首次创作神话、solo署名误读、上市=财务自由与孤立国别例证。
