@@ -363,6 +363,21 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 
 ---
 
+
+## P1 — Technology / Demand Formation
+
+### OQ-018｜技术指标替代体验判断，和商业模式锁定谁是因谁是果？
+**Status:** `PARTIAL` — `HISTORICAL SEQUENCE + CROSS-REGIONAL PRESSURE TEST / CAUSAL EFFECT SIZE OPEN`  
+**Evidence in repo:** [中国033 技术代理指标与体验需求](country-studies/china/033-technology-proxies-experience-demand-and-commercial-feedback.md)、[中国001 Experience Capital](country-studies/china/001-experience-capital-demand-discovery-hypotheses.md)、[中国018 Design Attractor](country-studies/china/018-wealth-class-gameplay-player-socialization-design-attractor.md)、[中国032 Exam Overfit](country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)、[商业制度谱系003](book/research-notes/china-game-commercial-regime-lineage-003.md)。  
+**Unresolved core:** Chew的1995–2015历史分期与2010同期新规则/新商业模式反思证明“从来没人懂玩法”不成立；2024跨区域RRM与2026国内商业化争论证明不能将抽卡=P2W、也不能将中国玩家偏好写成单一总体。但**无法判定**最初经验资本不足、后来收入函数筛选及组织技术代理评价三者的相对效应。  
+**Question:** 开发者与评审为什么选择技术规格、成熟赛道收入和功能数量作为项目价值信号？在有原型玩家证据和独立决策权时，偏好是否变化？  
+**Key variables:** `GREENLIGHT_EVIDENCE_MODE / EXPERIENCE_HYPOTHESIS_RATE / PROBLEM_DEFINITION_RIGHT / PROTOTYPE_TO_DECISION / TECH_EXPERIENCE_CAUSALITY / CAPABILITY_ROUTE_SHARE`。  
+**Closure condition:** 获得至少一组含通过/拒绝项目的同组织绿灯资料或盲评实验、一组同年代跨制度（最好同平台）对照、一组普通创作者/失败者队列，并对教育、发行、市场与游戏类型混杂因素做压力测试。  
+**Warning:** `TECHNIQUE ≠ EXPERIENCE`不等于“技术不重要”；单个聊天轶事、明星成功或一部论文摘要均不能估算发生率。  
+**Route:** 中国033为主，Program D技术史为比较，OQ-011/012/017为相邻问题。
+
+---
+
 ## Usage
 
 其他对话领取问题时应：
