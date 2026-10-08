@@ -674,6 +674,232 @@ Source:
 Status: **PILOT / METHOD VALIDATED / COUNTRY COMPARISON NOT YET IDENTIFIED**.
 
 
+
+
+## 1.3.9 Maker-to-Career Transmission｜“做过东西的人”如何真的进入职业池
+
+前几节把重点放在 pre-professional maker exposure，但“做过游戏”不会自动变成“大厂收到的材料”。中间还存在一条独立的转换链：
+
+```text
+MAKER SUPPLY
+→ CAREER LEGIBILITY
+→ APPLICATION
+→ HIRING SIGNAL
+→ FIRST GAME JOB
+→ AUTHORIAL THREAD SURVIVAL
+```
+
+因此更完整的工作模型应改成：
+
+```text
+FIRM INPUT POOL
+≈ PRE-FIRM CREATOR SUBSTRATE
+× MAKER-TO-CAREER CONVERSION
+× LABOR DEMAND
+× HIRING SELECTION FUNCTION
+```
+
+这里新增：
+
+### MAKER-TO-CAREER CONVERSION / 制作者→职业转换
+
+> **已经拥有 hobby / student / jam / mod / prototype 经历的人，有多大概率把这些经历转化为实际申请、被雇佣和进入第一份游戏开发工作。**
+
+这与“教育有没有培养 maker”不同，也与“公司入职后怎样训练人”不同。
+
+### A. 中国 2015：兴趣/社团并不自动转成申请
+
+UIGAC 2015 学生调查的二手公开报道显示：
+- 约 53% 受访者参加过游戏相关社团；
+- 超过 60% 对与游戏公司接触持积极态度；
+- 但超过 70% 的受访学生实际上没有主动申请游戏行业工作；
+- 报道把“觉得自己技能/知识不够”和缺少行业/职位信息渠道列为重要原因。
+
+同一报道还引用 UIGAC 对约 1,000 个、78 家中国游戏公司的招聘岗位统计：技术类约 36%，设计类约 9%。这提示学生的职业想象、实际需求结构和自身能力判断之间可能存在明显错位。
+
+Source:
+- Game Developer, 2016-02-19, *Game Career Becomes the First Choice for New Graduates in China [Reports]*: https://www.gamedeveloper.com/business/game-career-becomes-the-first-choice-for-new-graduates-in-china-reports-
+
+限制：
+- 原始 UIGAC 问卷抽样框与完整数据仍未取得；
+- 样本是“对游戏行业感兴趣的学生”，不是全国学生；
+- 2015 的 career interface 不能代表 2026。
+
+因此这里不能写“中国 maker 大多不入行”，只能提出：
+
+> **至少在 2015 的一个兴趣学生样本里，maker/club exposure 与真实申请之间存在明显 transmission loss。**
+
+### B. 韩国：Game Institute 把项目训练和职业转换设计成同一条制度链
+
+KOCCA Game Institute 的 2025 招生页显示：
+- 每期约 120 人；
+- 两年八学期、全日制；
+- 第一学年 mini team projects；
+- 第二学年跨专业 team project；
+- 明确提供就业教育/咨询、作品集与自我介绍准备、游戏企业网络；
+- 第一届就业率 77%、第二届 89%、第三届 86%，页面给出的平均就业率为 **84%**。
+
+这不是韩国全国游戏专业就业率：
+- Game Institute 本身是经过筛选的专业培养项目；
+- “就业/创业率”具体岗位构成仍需进一步拆；
+- 不能与中国兴趣社团样本直接比较。
+
+但它证明一种强 **conversion interface** 可以被制度化：
+
+> **反复做项目 + 行业导师 + portfolio legibility + 求职辅导 + 企业网络 → 职业入口**
+
+Source:
+- KOCCA EduKocca, Game Institute 7th Cohort recruitment (2024-12-13): https://edu.kocca.kr/edu/bbs/B0000048/view.do?menuNo=500205&nttId=75796&pageIndex=
+
+### C. 中国 2020s：industry-sponsored maker → hiring bridge 正在明显增强
+
+当前公开材料显示，中国企业已经不只是赞助学生“做游戏”，而是在主动把 maker signal 接入招聘：
+
+**吉比特 / 雷霆：**
+- “未来游戏制作人大赛”连续多年运行；
+- 官方明确写明优秀团队可洽谈孵化/投资；
+- 获奖者可取得面试直通卡，部分届次直接写“实习/秋招面试、提前锁定 offer”。
+
+Sources:
+- https://gameproducer.g-bits.com/pc/index.html
+- https://www.g-bits.com/zh/news/631.html
+- https://www.g-bits.com/zh/news/636.html
+
+**IGG G星计划：**
+- 面向高校招募约 100 名潜力实习生；
+- 先进行专业训练与 Demo 制作竞赛；
+- 结束后提供获得 IGG / 合作公司实习或工作 offer 的机会。
+
+Source:
+- https://jobs.igg.com/gstar/
+
+**当前企业招聘接口：**
+- 多家中国游戏企业校招已明确要求策划/美术岗位附作品集；
+- 2025–2026 高校招聘活动中，企业招聘人员公开强调项目经验、作品质量和团队协作能力。
+
+Sources / examples:
+- 叠纸 2025 校招（华东师大就业网镜像）：https://career.ecnu.edu.cn/commonpage/JobInfDetail.aspx?oid=SgRUBkO5R%2FnSCVFFTpaNPg%3D%3D&sn=2020022682
+- 网易雷火 2025 校招活动（吉林动画学院）：https://yx.jlai.edu.cn/info/1006/2692.htm
+
+这些材料不能证明“现在中国的 career conversion 已经和韩国/美国相同”，但明显削弱“高校 maker 与职业游戏公司之间没有接口”的旧描述。
+
+### D. 美国 2026 反压力：maker substrate 丰富也会被劳动力市场截断
+
+GDC / *State of the Game Industry 2026* 对 100+ 教育者和 50 名学生的调查显示：
+- 74% 学生担忧进入游戏行业后的就业前景；
+- 87% 教育者表示已经看到或预计会看到毕业生 placement 受到负面影响；
+- 开放回答集中提到 entry-level jobs 减少、被裁有经验者参与竞争和 AI 带来的不确定性。
+
+这说明即使一个生态拥有成熟的 Game Jam、mod、portfolio 和学生制作传统：
+
+> **Rich Maker Substrate ≠ Stable Firm Input**
+
+宏观裁员、岗位数量和企业招聘结构仍然可以在最后一公里压缩 maker→career conversion。
+
+Source:
+- GDC, *2026 State of the Game Industry*: https://investgame.net/news/pdf/2026-01-29-dec052f4_d88e_48ce_9f83_a18ce2f2a6e5_541400_gdc26_pdf_soti_report/
+
+### E. 新概念：CAREER-CONVERSION INTERFACE / 职业转换接口
+
+> **把非正式 maker capability 转换成企业可识别 hiring signal 的制度层。**
+
+它可以包括：
+- public portfolio；
+- student showcase；
+- game jam；
+- recruiter-facing competition；
+- internship；
+- mentorship；
+- portfolio review；
+- school–industry collaboration；
+- job information；
+- referral；
+- student studio / incubator。
+
+其作用不是创造全部能力，而是降低：
+
+### TALENT TRANSMISSION LOSS / 人才传输损耗
+
+> **已经具备某些创作能力的人，因为信息、信心、信号不可读、地理、经济或招聘门槛而没有进入职业候选池的比例。**
+
+这使“送进大厂的材料”需要拆成：
+1. **maker 产生了没有；**
+2. **maker 有没有成为 applicant；**
+3. **applicant 的 artifact 是否被 hiring system 当作有价值信号；**
+4. **谁最终被录取。**
+
+### F. 双刃剑：企业参与上游既能降低传输损耗，也可能提高 selector correlation
+
+当企业赞助：
+- 比赛；
+- 课程；
+- 导师；
+- 作品集训练；
+- 招聘直通
+
+时，它们已经不只是下游“接收人才”，而是在**共同塑造 pre-firm creator substrate**。
+
+正向机制：
+- 学生更早知道真实生产要求；
+- maker work 获得职业合法性；
+- artifact 可以替代部分纯 credential signal；
+- 降低 career-information gap。
+
+潜在风险：
+- 如果评委、导师、招聘者高度来自同一批 incumbent studios；
+- 学生可能提前学会针对当前 industry selector 优化；
+- “maker pipeline”可能从开放探索变成更早的职业 benchmark training。
+
+这里可称：
+
+### UPSTREAM SELECTOR FEEDBACK / 上游选择器反馈
+
+> **行业不仅选择毕业生，也通过课程、比赛、导师和招聘信号反向塑造未来毕业生会做什么。**
+
+这不是企业干预教育必然有害；它要求后续区分：
+- broad maker capability；
+- portfolio legibility；
+- incumbent-specific optimization。
+
+### G. 对原假说的进一步修正
+
+当前不能再把因果写成简单的：
+
+```text
+应试教育
+→ 人才底材不同
+→ 大厂收到不同材料
+```
+
+更完整的是：
+
+```text
+教育 / 家庭 / 游戏阅历
+→ maker supply
+→ maker-to-career conversion interface
+→ application pool
+→ employer hiring selection
+→ in-firm production regime
+→ 下一代行业导师 / 课程 / 比赛
+→ 反向塑造新的 maker supply
+```
+
+这是一条循环，而不是单向流水线。
+
+本节状态：**H / MECHANISM SUPPORTED, COMPARATIVE EFFECT SIZE UNKNOWN**。
+
+当前证据支持：
+- maker→career 之间存在可观察转换接口；
+- 这些接口在中韩美都可能成为瓶颈或放大器；
+- 中国 2020s 的 industry-sponsored conversion infrastructure 明显比 2015 更丰富。
+
+当前不支持：
+- 中韩美 maker-to-career conversion rate 的直接排名；
+- 韩国 84% 专业项目就业率代表全国；
+- 中国 2015 的 70% 未申请比例代表当前 cohort；
+- 公司介入教育必然提高或降低原创能力。
+
+
 ## 1.4 对独立开发者真正重要的教育层变量
 
 后续案例统一编码：
