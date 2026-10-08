@@ -32,10 +32,11 @@
 - [011 — 成人独游Revenue Waterfall与发行合同黑箱](011-adult-indie-revenue-waterfall-publisher-contract-opacity.md)：区分商店gross、平台抽成、发行recoup/split与作者take-home，并记录标准合同长期不公开的问题。
 - [012 — 外部资讯摩擦与弱信号时延](012-external-information-friction-signal-latency.md)：区分重大新闻传播速度与日常原始资料/海外社群接触摩擦，检验台湾较宽global reference set对类型吸收、国际发行与fast-follower倾向的影响。
 - [013 — 学生/业余独游的默认生产意识](013-student-amateur-indie-default-production-awareness.md)：把“意识差距”拆成reference breadth、作者身份、Steam商品化、全球路线显著度等变量；台湾学生生态与大陆CUSGA/中传强反例并列压力测试。
-- [014 — 放视大赏 × CUSGA学生决赛层商品化固定队列](014-selected-student-cohort-productization-taiwan-vs-cusga.md)：19个台湾PC/主机决选项目对26个大陆CUSGA决赛项目；Steam/Demo/productization高度收敛，提出SELECTION_COMPRESSION并把真正差距问题前移到未筛选层。
+- [014 — 放视大赏 × CUSGA学生决赛层商品化固定队列](014-selected-student-cohort-productization-taiwan-vs-cusga.md)：19个台湾PC/主机决选项目对26个大陆CUSGA决赛项目；两边顶层均有Steam/Demo商品化行为（台湾剔除同名作品误配后5/19，大陆暂8/26），提出SELECTION_COMPRESSION并把真正差距问题前移到未筛选层。
 - [015 — 台北 × 深圳GGJ公共作品栈](015-amateur-public-artifact-platform-stack-taipei-vs-shenzhen.md)：把普通jam层的“意识差距”拆成global discoverability、GmHub/B站本地栈、dual-posting与observability friction；拒绝用GitHub搜不到直接推导大陆创作者不公开。
 - [016 — 独立创作者路网密度与连续性](016-amateur-creator-route-density-and-continuity.md)：重建2010以来社群、Game Jam、学生比赛、TGDF、G-EIGHT、TGS IGA、GameWorks等不同入口的重叠，提出ROUTE_REDUNDANCY与PUBLIC_AUTHORSHIP_NORMALIZATION。
 - [017 — 量产中段、国际发行与第二作瓶颈](017-creator-production-middle-and-second-title-bottlenecks-2026.md)：补入2026年《梦游边境》与产业中介直接访谈；串联试玩反馈、制作规模、现金流、无MG发行报价和作者再生产；汇总2025学生同名Steam误配纠错。
+- [018 — 东亚立项前作者支持与全球高关注产品管线](018-east-asian-pre-greenlight-author-support-and-global-premium-proxy.md)：日本2026讲谈社月奖与学生成长型比赛、韩国BIC和韩国商业结构、波兰/GIC Steam愿望单Top200；把作者试错权、预立项编辑劳动、创业前入口和跨国数量级代理拆开。
 
 ## 研究分工（单一权威，不重复记账）
 
