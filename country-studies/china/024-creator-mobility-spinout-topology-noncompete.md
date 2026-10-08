@@ -4,6 +4,7 @@
 - Status: **MECHANISM FRAMEWORK / COMPARATIVE INSTITUTION / DENOMINATOR REQUIRED**
 - As-of: 2026-10-08
 - Parent: [023 — Creator Class Formation](023-creator-class-formation-intergenerational-reproduction.md)
+- Quantification ledger: [025 — Alumni → Spinout Quantification v0.1](025-alumni-spinout-quantification-ledger-v01.md)
 - Creative surplus: [022 — Creative Surplus Allocation](022-creative-surplus-allocation-rights-customer-future-control.md)
 - Attribution: [021 — Attribution Politics](021-attribution-politics-credit-regimes-author-power.md)
 - Boundary: 本文研究人才流动如何影响创新扩散，不主张“流动越高越好”，也不把California非竞业制度单独当成Silicon Valley成功的充分原因。
@@ -683,3 +684,28 @@ Atari→Activision→Imagic正是一个微型例子。
 ## 20. 当前最小结论
 
 > **创作者阶层不能只靠成功者“扶新人”，还需要高水平人才能够离开、重组并建立新的产权容器。Silicon Valley研究提示employee mobility与知识扩散、startup formation存在重要联系，但noncompete不是唯一解释。California长期采用极强的反竞业默认，中国则允许针对涉密核心人员的有偿竞业，并在2025规则中强化必要性与比例性。对游戏业真正要测的是Effective Mobility Friction与Mobility-to-Ownership Conversion：人才是否只是从一个大厂流向另一个大厂，还是能把能力进一步转成股权、IP、玩家关系和剩余判断权。真正的森林需要的不只是树长得高，还要种子能离开母树并在别处生根。**
+
+
+## 21. Quantification handoff
+
+024定义了 `SPINOUT CONVERSION RATE`，但当前多数公司缺少可信的senior-alumni分母，因此禁止在此直接给百分比。
+
+第一版实证账本见：
+- [025 — Alumni → Spinout Quantification Ledger v0.1](025-alumni-spinout-quantification-ledger-v01.md)
+
+025强制区分：
+- direct spinout；
+- serial founder；
+- alumni landing；
+- design/cultural descendant。
+
+尤其保留三个防错原则：
+
+1. **spinout density ≠ influence density**；
+2. **serial founder intensity ≠ broad creator class**；
+3. **case existence ≠ same quantity / same rate**。
+
+后续真正比较中美日俄时，必须先补：
+- senior-alumni denominator；
+- unique-founder de-duplication；
+- 3/5/10年outcome cohort。
