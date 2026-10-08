@@ -948,6 +948,141 @@ https://www.riotgames.com/en/news/r-d-foundations-opportunity-thesis-and-audienc
 继续检验。
 
 
+### 9.17 MARKET-TRUTH CAPITAL：全球市场不仅验证，也可能训练组织
+
+前文把 G2/G3 主要当作高等级 IPI 的外部压力测试。这里进一步区分：
+
+# `GLOBAL VALIDATION`
+> 产品是否在成熟海外市场成立。
+
+与：
+
+# `GLOBAL FEEDBACK INTERNALIZATION`
+> 组织是否把海外玩家、竞争者、平台和运营中获得的知识，真正改写进下一轮产品 / 流程 / 资源配置。
+
+后者形成一种暂称：
+
+# `MARKET_TRUTH_CAPITAL`
+
+定义：
+> **一个团队通过持续与高水平外部市场直接交易、发布、运营和失败，积累的“什么玩家真的会接受、什么假设会被市场否证”的组织性知识。**
+
+它不是“海外经验年数”，也不是“海外收入”本身。只有反馈被吸收并改变后续决策，才形成可复用资本。
+
+### 9.18 Learning-by-exporting 不是自动发生
+
+国际商务文献提供了非常适合本研究的反压力：
+
+- 2023 *International Journal of Management Reviews* 系统回顾 1984–2021 年 167 篇 learning-by-exporting 研究，认为该效应已有相当经验支持，但结果受 absorptive capacity、innovation persistence、managerial characteristics、internationalization strategy 等条件影响；
+- 2024 *Journal of International Economics* 使用中国企业运营、贸易和专利匹配数据，发现进入出口市场后创新数量与质量提高，并通过目的地专利引用观察到知识流入；作者使用 event-study 等方法检验前趋势，支持 learning-by-exporting；
+- 但 2024 *International Business Review* 对 1489 家德国中型制造企业发现，样本总体没有自动出现 LBE；只有在同期进行 **organizational innovation / internal routine change** 的企业中，出口经验才转化为更高 product innovation。
+
+Sources:
+https://onlinelibrary.wiley.com/doi/full/10.1111/ijmr.12336  
+https://www.sciencedirect.com/science/article/pii/S0022199624000606  
+https://www.sciencedirect.com/science/article/pii/S0969593124000866
+
+这给游戏产业一个重要修正：
+
+> **GLOBAL EXPOSURE ≠ GLOBAL LEARNING。**
+
+公司可以在海外发行、买量、赚钱，却仍把国外市场当成销售终点；也可以把国际玩家直接变成下一代产品定义的知识来源。
+
+因此新增变量：
+
+# `GFIC — GLOBAL FEEDBACK INTERNALIZATION CAPABILITY`
+
+研究字段：
+- 海外反馈是否直接进入研发，而不只进入localization / marketing；
+- 不同地区的行为数据能否回到product team；
+- 海外失败是否改变下一作 launch / content / platform / monetization / design；
+- 是否建立长期跨区用户研究 / community /运营团队，而不是单次发行代理；
+- 外部学习是否导致 internal routine / organizational change。
+
+### 9.19 miHoYo：Honkai Impact 3rd → Genshin 的公开 learning loop
+
+截至当前公开材料，miHoYo 提供了中国游戏公司里一个相当干净的“海外运营经验 → 下一项目组织方式变化”实例。
+
+2020 对米哈游境外发行负责人的采访记录：
+- 《崩坏3》早期在日本、港澳台、欧美分批上线，不同海外地区版本长期不同步；
+- 海外玩家明确反馈希望更同步地获得内容；
+- 团队因此在运营《崩坏3》海外期间，就开始思考下一作如何做到全球同步；
+- 《原神》从 2019 年首曝、CB、市场物料、本地社群、用户研究起就尽量全球同步；
+- 当时境外发行团队已超过 200 人，但受访者强调这不是发行部门单独完成，而是研发各职能从很早阶段协同；
+- 他们承认对亚洲更熟悉，而希望通过《原神》进一步学习此前不熟悉的地区；
+- 在欧美缺少可直接 benchmark 的跨平台全球统一发行指标时，团队从首次曝光后就持续观察社群讨论、用户研究和游戏内行为数据。
+
+Interview reproductions / reports:
+https://www.gameres.com/876879.html  
+https://www.xkb.com.cn/articleDetail/72231
+
+这支持一条窄命题：
+
+> **《崩坏3》的海外服务暴露了地区分服 / 内容不同步问题，米哈游随后把“全球同步”从发行策略升级成需要研发、发行、本地化、社群与用户研究共同支持的组织能力，并在《原神》中实施。**
+
+它不证明：
+- 《原神》的 gameplay T 是海外反馈“造成”的；
+- 米哈游所有后续创新都来自国外市场；
+- 200人发行团队规模本身产生创新。
+
+它证明的是：
+> **国际市场经验确实可以被组织内化成下一项目的生产 /发行架构。**
+
+这正是 `GFIC` 的可观察实例。
+
+### 9.20 GLOBAL-FIRST 不是地理标签，而是反馈制度
+
+因此应进一步修正“美国公司全球-first，中国公司本土-first”这种过粗语言。
+
+真正可比较的不是总部国家，而是：
+
+# `FRONTIER FEEDBACK CONTINUITY`
+
+定义：
+> **一个产品组织在连续多个项目周期中，是否从立项、测试、发布到长期运营都直接暴露于全球头部竞品和高经验用户，并把该反馈保留到下一轮团队决策。**
+
+Riot / Epic / COD / Respawn 的全球商业产品长期天然处于这种竞争环境，是当前 comparator；但这仍需逐项目证据，而不是因为“美国公司”三个字自动成立。
+
+中国近年的关键变化也不只是在海外收入增加，而是 miHoYo、NetEase、Tencent部分团队开始建立：
+- 全球同步发布；
+- 全球 beta；
+- 国际社群；
+- PC / console / mobile 同时竞争；
+- 海外长期 live service；
+- 多地区用户研究。
+
+若这些接口能把真实市场反馈带回 product thesis，才可能提高下一轮 T 的概率。
+
+所以 `SELECTION-PRESSURE CONVERGENCE` 应被拆成两步：
+
+```text
+global competitive exposure
+        ↓
+global feedback internalization
+        ↓
+organizational learning / thesis update
+        ↓
+next-project transformation capability
+```
+
+中间任何一步断掉，都不能把“出海”直接写成创新原因。
+
+### 9.21 一个新的中美可检验预测
+
+如果“美国头部商业组织的 T repeatability 较高”部分来自更长期的 frontier feedback continuity，那么固定 cohort 后应观察到：
+
+1. 高 T 组织不是只拥有更多海外销售，而是更频繁把 global player / competitor learning 写进下一作设计与流程；
+2. 中国已经长期全球运营、且完成内部 routine change 的组织（miHoYo、NetEase部分团队）应比只做海外发行 / 投放的公司更容易出现重复 T；
+3. 单纯 G3 商业成功但缺少 product-learning evidence 的企业，不能因此升为高 T organization；
+4. 若中国本土产品即使不大规模出海，也通过 Steam / 全球 beta / 国际核心社区获得同等高质量 feedback，则该机制仍可能成立——因此因果变量不是“出口”本身，而是 `FRONTIER_FEEDBACK_CONTINUITY × GFIC`。
+
+这组预测可用来连接：
+- global validation；
+- absorptive capacity；
+- player-truth access；
+- organizational repeatability。
+
+
 ## 10. 数量级审计指标
 
 暂不把它们机械合成为一个总分。
