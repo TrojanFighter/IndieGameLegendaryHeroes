@@ -77,7 +77,7 @@ FTL能把短实验升级为产品，Hunt等到玩家收入可以购买人手，P
 | 历史路径 | 观察年份 | 当时条件 | 2026 状态 | 今天保留什么 |
 |---|---:|---|---|---|
 | FTL 储蓄 → prototype → 外部信号 → Kickstarter | 2011–2012 | 早期 Kickstarter PC indie 窗口、IGF /媒体环境 | DURABLE mechanism / HISTORICAL-CONDITIONAL tactic | staged commitment；Kickstarter 本身不是永恒入口 |
-| Kenshi 夜班工资长期交叉补贴 | 2000s–2010s | 极低个人 burn、单人长期开发、不同生活责任 | DURABLE question / CONDITIONAL tactic | 先回答“谁替我支付试错时间”；夜班路线不作为普遍建议 |
+| Kenshi 夜班工资长期交叉补贴 | 2000s–2010s | 低薪夜班支持、单人长期开发；具体生活支出未知、生活责任各异 | DURABLE question / CONDITIONAL tactic | 先回答“谁替我支付试错时间”；夜班路线不作为普遍建议 |
 | Psyonix work-for-hire 维持公司并保留原创期权 | 2000s–2015 | 当时外包/合同项目、Unreal 能力、公司客户结构 | DURABLE mechanism / CONDITIONAL implementation | 服务业务可购买组织寿命；合同市场、毛利和 IP 条款必须按当下重核 |
 
 完整规则见 [Temporal Validity Gate](../TEMPORAL-VALIDITY.md)。
