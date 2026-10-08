@@ -67,6 +67,8 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 - [Judgment Under Uncertainty：March / Simon / Knight / Hayek / Buxton 理论栈](judgment-under-uncertainty-theory-stack-001.md) — 把 exploration/exploitation、bounded rationality、Knightian uncertainty、dispersed local knowledge 与多方案prototype放入同一前范式决策链；回答为什么旧答案会获得资源优势、为什么数据不能消灭真正未知、为什么中央指标不能替代局部知识，以及为什么 Compare Before Commit 比过早精炼唯一方案更可靠。
 
+- [Tacit Judgment / Selection Apprenticeship：Polanyi、Taste传承与AI时代的隐性知识](tacit-judgment-selection-apprenticeship-ai-001.md) — 用 Polanyi 的 tacit knowing / connoisseurship 与 Schön 的 reflection-in-action解释为什么规则、文档和design bible不能完整复制高手Taste；提出 DOCUMENTATION COMPLETENESS FALLACY、ATTENTIONAL APPRENTICESHIP、APPRENTICESHIP–SOVEREIGNTY TRANSITION、JUDGMENT TRACE 与 AI-AUGMENTED SELECTION APPRENTICESHIP，并讨论AI既可能提高隐性模式可观察性，也可能制造 apprenticeship void。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
