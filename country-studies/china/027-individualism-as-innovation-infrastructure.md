@@ -307,6 +307,114 @@ personal thesis
 
 ---
 
+## 4.1 `INDIVIDUALIZATION ≠ INDIVIDUALISM`：责任个人化与自主个人化可以错位
+
+阎云翔对中国“个体化”的研究提供一个非常关键的区分：
+
+> `individualization` 是社会结构把越来越多人生责任、选择和风险推给个人；它不自动等于经典意义上的 `individualism`，即个人自主、尊严、自由选择和“个人作为目的”。
+
+Yan 2010将中国个体化视为国家现代化过程中形成的独特路径，并指出毛时代和改革时代的制度变化都参与了这种过程。
+
+Sources:
+- https://onlinelibrary.wiley.com/doi/10.1111/j.1468-4446.2010.01323.x
+- https://pubmed.ncbi.nlm.nih.gov/20840429/
+- https://china.usc.edu/qa-yan-yunxiang-about-rise-individualism-among-chinese-youth-post-mao-era
+
+其后续访谈尤其强调：
+- 教育、住房、医疗和劳动市场改革使个人承担更多本来由集体/国家承担的责任；
+- 竞争性、生产性与“自己负责自己人生”被强化；
+- 但这并不自动同步产生同等强度的自主、公共参与或个人作为目的的价值。
+
+这给本项目提供一个极强变量：
+
+# `RESPONSIBILITY–AUTONOMY ASYMMETRY / 责任—自主不对称`
+
+> **个人承担的风险、绩效责任与人生后果已经高度个人化，但个人对目标函数、作者归因、产权与剩余判断权的控制并未同比个人化。**
+
+放进游戏产业，可以出现：
+
+```text
+salary / career / housing / family risk
+→ individual responsibility
+
+but
+
+IP / product thesis / customer / credit / final judgment
+→ organizational control
+```
+
+这正好解释：
+> **为什么一个社会可以拥有极强竞争、极强职业进取、极强创业欲，却仍不自动产生同等强度的authorial individualism。**
+
+因此新增：
+
+# `BURDEN INDIVIDUALIZATION`
+
+> 风险、竞争、成本、失败后果向个人转移。
+
+与：
+
+# `AUTHORITY INDIVIDUALIZATION`
+
+> problem ownership、署名、产权、退出权、residual judgment向个人转移。
+
+二者必须分别测量。
+
+### 中国并非静态“集体主义社会”
+
+2026年发表于 *Journal of Cross-Cultural Psychology* 的跨时元分析考察2001–2023中国样本，结论是：
+- individualism总体呈上升趋势；
+- collectivism总体呈下降趋势；
+- 但变化幅度相对有限。
+
+Source:
+- https://journals.sagepub.com/doi/10.1177/00220221261490899
+
+这意味着：
+> **“中国缺个人主义”不能写成静态民族人格。**
+
+更精确的问题是：
+- 哪一种individualism在增长？
+- 哪一种没有同步增长？
+- 增长发生在哪些阶层/年龄/职业/城市？
+- 是否主要体现为consumer/career choice，还是authorial autonomy？
+
+这与本文四种individualism划分直接兼容。
+
+### 2025 neo-familism：个体化并没有简单消灭家庭约束
+
+Yan 2025进一步把当代变化描述为 `neo-familism`：
+- child-centeredness；
+- intergenerational dependence；
+- parent–child identity integration；
+- individual happiness与family prosperity之间的新张力。
+
+Source:
+- https://journals.sagepub.com/doi/10.1177/00380261251347745
+
+这提示：
+> **现代中国的个体化并不必然意味着家庭退出；反而可能形成“个人承担更多竞争责任 + 家庭资源/义务更加密集绑定”的混合结构。**
+
+对于独游/创业研究尤其重要，因为：
+- founder risk是个人承担；
+- 住房/婚育/赡养仍可能是家庭共同账本；
+- 成功收益也可能服务于家庭目标，而不只是个人authorial life project。
+
+因此以后家庭研究不能把：
+> family collectivism
+
+和：
+> lack of individual agency
+
+直接画等号。
+
+真正需要看：
+- 谁承担风险；
+- 谁决定目标；
+- 谁拥有退出权；
+- 成功后收益归谁；
+- 家庭是否允许第二次失败。
+
 # 5. 日本反例：创新不要求全民西方式个人主义
 
 Japan 001已经说明：
