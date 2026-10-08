@@ -99,10 +99,11 @@ Subset为不同作品留出探索时间，thatgamecompany接过发行与服务�
 
 ## 想直接读人物
 
-如果你更喜欢完整人物传记，而不是跨案例章节，可以进入 [人物传记目录（当前 11 篇）](profiles/README.md)。以下是全部入口：
+如果你更喜欢完整人物传记，而不是跨案例章节，可以进入 [人物传记目录（当前 12 篇）](profiles/README.md)。以下是全部入口：
 
 - [early id / DOOM：游戏少年怎样把兴趣变成工具、公司和一个新行业](profiles/early-id-doom.md)
 - [Kenshi：夜班保安如何把时间变成一间工作室](profiles/kenshi.md)
+- [Eric Barone：一款学习项目，为什么做了四年多](profiles/stardew-valley.md)
 - [Rocket League：一家公司怎样靠替别人做游戏，养出自己的游戏](profiles/rocket-league.md)
 - [Bills Must Be Paid：七个月爆款之前，是七年和一百个原型](profiles/bills-must-be-paid.md)
 - [Gunpoint / Tom Francis：品味决定命运](profiles/gunpoint.md)

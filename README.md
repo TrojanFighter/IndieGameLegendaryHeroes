@@ -28,15 +28,16 @@
 - [你缺的真是一支团队吗？](book/chapters/06-you-do-not-need-a-standard-studio.md) — 《GRIS》《Gunpoint》《Playdead》等案例中的能力选择与合伙代价
 - [第一次成功以后](book/chapters/07-success-buys-the-next-question.md) — 第二作探索、自发行劳动、组织协调与转型成本
 
-现在新增三篇完整人物稿，研究第一次成功前的能力前史、真实机会成本和成功后的职业选择：
+人物稿还包括以下制作经历与职业选择：
 - [Nomada / GRIS → Neva](book/profiles/nomada-gris-neva.md) — 插画家与 AAA 程序员如何成为共同作者。
 - [David Wehle / The First Tree](book/profiles/david-wehle-first-tree.md) — 上班、育儿与个人作品的时间结构。
 - [Zach Barth / Zachtronics](book/profiles/zach-barth-zachtronics.md) — 工程谜题作者的成长、低现金预算与长期职业路径锁定。
 - [Josh Parnell / Limit Theory](book/profiles/josh-parnell-limit-theory.md) — 项目终止、个人资源损耗与真实技术残值。
 - [Question / The Magic Circle → The Blackout Club](book/profiles/question-magic-circle-blackout-club.md) — 首作没有达到经营预期，却没有抹掉团队的下一作。
+- [Eric Barone / Stardew Valley](book/profiles/stardew-valley.md) — 学习与重做怎样延长项目，生活收入与发行外围如何支持个人核心制作。
 
 
-[全部十一篇人物传记](book/profiles/README.md) · [机会成本与失败退出比较](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)
+[全部十二篇人物传记](book/profiles/README.md) · [机会成本与失败退出比较](book/research-notes/creator-life-cost-exit-comparison-2026-10-07.md)
 
 如果你当前正面临实际项目抉择，优先走 [按处境进入｜作者型项目决策路由](book/DECISION-ROUTER.md)：把能力结构、runway/household risk 和项目阶段放到一起，判断这次应移动项目、团队、资本、能力，还是承诺。已经确认具体职业转换处境的读者可继续看 [Life Risk Routes](book/life-routes/README.md)（包括[作品方向已定但团队能力不足的 LR-004](book/life-routes/project-thesis-capability-gap-004.md)）；只想按专业强项找人物，再进入 [按主创者能力进入](book/READER-ARCHETYPES.md)。
 
