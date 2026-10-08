@@ -160,3 +160,53 @@ early access / payment / piracy / regulation / distribution constraints
 - `NO_EXIT / NO_SHIP COHORT`：把未离职、未发售、未获得第二次机会的人纳入候选队列，而不把它们自动标失败。
 
 **当前裁决边界**：少量自选访谈可以支持机制存在及其发生顺序，不能检验该机制在中外公司间的平均发生率，也不能把转换制度后的收益变化误当作单一政策因果。应优先追已拒项目与已入选项目的可比后续结果，及同一开发者在两种反馈架构下有时间戳的实际修改/删除记录。
+
+
+---
+
+## 10. 2026-10-08：技术继承、工艺与作者目标——公开创作史补证
+
+- Status: PUBLIC FIRSTHAND INTERVIEWS + SECONDARY TECHNICAL SOURCES / CONCEPT SYNTHESIS / PREVALENCE UNKNOWN.
+- Research boundary: 本节仅有公开产业知识与通用研究概念。不含任何私人聊天、非公开设计信息或个人推断性画像。
+
+### 10.1 工艺技能并不自动决定作者身份
+
+必须分离四个变量：
+- CRAFT_CAPABILITY：执行指定工程、工艺方案的专业水平；
+- PROBLEM_ORIGIN_RIGHT：能否自行提出和改变问题；
+- PRODUCT_DECISION_RIGHT：能否决定体验目标与删改；
+- IP_FUTURE_RIGHTS：能否控制作品产权、后续收益与未来项目。
+
+受雇工程师可以有很强创造力，作者型开发者也可能使用现成工具；技术专精、产品作者权、产权与个人自主目标是不同坐标。专业分工本身不是失败；本文批评的是以易测量技术指标替代对玩家体验的判断。与中国027个人主义和中国010 NExT作者权研究相连。
+
+### 10.2 2008年乌克兰GSC负责人的开发复盘：技术研发受体验愿景牵引
+
+2008-03-12，Gamasutra / AIGameDev 采访乌克兰GSC Game World AI负责人 Dmitriy Iassenev。他清楚解释，为让NPC在玩家不在时继续觅宝、交易、冲突，团队开发A-Life online/offline层、世界导航、目标规划等。NPC搜寻物品与弹药的一些复杂行为、更多自主持久目标，最终没有完整进入2007年上市游戏；后期Smart Terrain承担了部分任务选择。
+
+当事人的建议包括：不重复发明已有解法；主动搜索并学习网上成果；先定义游戏的目标，使用原型控制无价值特性；设计师和工程师发挥不同长处；每款游戏争取真正创新至少一件事。他明确将Jeff Orkin在2005年F.E.A.R.使用的GOAP视为值得学习的先行方案。故不能声称潜行者发明GOAP，也不能把开发期的完整A-Life愿景误当发售版已实现。
+
+- P0/P1 interview: https://www.gamedeveloper.com/game-platforms/interview-inside-the-ai-of-i-s-t-a-l-k-e-r-i-
+- S1 technical reconstruction: https://www.gamedeveloper.com/design/building-the-ai-of-f-e-a-r-with-goal-oriented-action-planning
+- Game AI Pro官网提供多卷免费阅读的章节（不同版权归属，不等于可无限再分发）：https://www.gameaipro.com/ 。除算法，章节亦讨论智能幻觉、玩家知觉和战术协调。因此公开知识传输不等于自动获得创造高价值体验的能力。
+
+### 10.3 创新可以继承已有技术：三条开放创作链
+
+- Quake → Valve GoldSrc / Half-Life → 1999 Counter-Strike Mod：模组开发利用既有图形/网络/制作基础设施，重新组织攻防目标、回合节奏、装备经济。不能把CS玩法起源完全归因于卡马克的网络同步技术。Valve又在2001年升级GoldSrc网络补偿。技术谱系：https://www.sourcemodding.com/history/goldsrc/
+- StarCraft Aeon of Strife → Warcraft III地图编辑器 → DotA：借用已有平台与英雄、物品基础，经过Eul、Guinsoo、IceFrog等不同阶段持续深化单英雄与团队竞技。不是完全从零发明全部机制。现有社区年表为S2，Eul早年准确版本时间仍需同期材料：https://liquipedia.net/dota2/Defense_of_the_Ancients/Development_Eras
+- DayZ / Arma Mod → H1Z1 → 2017 PUBG：Brendan Greene从自己希望游玩的生存竞技出发，反复改变已有Mod；韩国Bluehole的Chang-han Kim同样有长期想做Battle Royale的产品愿景，并选择与Greene互补合作。此案例是跨国作者发现、工业能力整合与持续玩家实验，不应压缩为“韩国只是外包代码”。2017一手访谈：https://www.unrealengine.com/developer-interviews/playerunknown-s-battlegrounds-takes-aim-at-the-battle-royale-crown
+
+机制假说：公共技术/工具可得性 → 低成本制作尝试 → 自主体验目标与机制重新组织 → 玩家反馈 → 公司化/商业接口。这些环节缺一项均可能中断；三个成功案例不能估算任一国家的真实人才分布。
+
+### 10.4 同一种技术/机制，不是所有游戏的统一最佳答案
+
+星际争霸II设计师Dustin Browder在开发者访谈中谈到，团队多次实验类似英雄连的掩护机制，但发现拖慢了星际独有的流动战斗节奏，故删掉。吸收他人知识、判断不适合自己的体验目标，属于高水平设计能力。来源：https://www.escapistmagazine.com/designing-starcraft-ii-an-interview-with-blizzards-dustin-browder/
+
+RTS在2000s–2010s的相对商业衰落，还可能涉及技能学习负担、MOBA分流、变现适配、资本回报预期等；这些是竞争性解释，不是“传统RTS设计上必死”的证明。2010同期采访：https://www.gamedeveloper.com/business/the-end-of-rts-a-i-command-conquer-4-i-interview
+
+### 10.5 研究裁决与下一轮可观测变量
+
+技术与游戏体验创新至少存在体验先行、技术实验先行及相互共演三条路径。因此反技术崇拜不是反技术或反专业化；需要记录具体的选择轨迹。
+
+建议跟踪：技术选择时是否有清楚的玩家体验目标、为什么试用而不试用某项机制、原型阶段删掉了什么、有没有因玩家行为改变技术方案、谁有权否决成熟竞品与技术规格指标。补充到OQ-018，保留跨国家/组织比较与分母未知。
+
+关键约束：盈利动机不是独立创造能力的反证，贫困或热爱也不是独立创造能力的证明；中国存在开放创作生态，不应因少量个例、私人交流或一个技术名词的缺席推全国低创新率。
