@@ -415,6 +415,215 @@ Source:
 - 成功后收益归谁；
 - 家庭是否允许第二次失败。
 
+## 4.2 `AGENCY × TELOS`：行动主体不等于目的主体
+
+上一节仍有一个容易误判的地方：
+
+> **责任、竞争和行动都落到“个人”身上，不代表这个行动的终极目的属于个人。**
+
+因此以后“个人主义”研究强制拆成两个问题：
+
+### A. `AGENCY / 谁行动？`
+谁承担：
+- 找工作；
+- 跳槽；
+- 创业；
+- 赚钱；
+- 风险；
+- 绩效责任。
+
+### B. `TELOS / 为了谁、按照谁的目的行动？`
+最终objective function主要服务：
+- self-authored life；
+- 家庭繁荣 / 阶层维持；
+- 组织KPI；
+- 国家/集体目标；
+- 财富本身。
+
+由此得到四格：
+
+| | Individual Telos | Familial / Organizational Telos |
+|---|---|---|
+| High Individual Agency | personal individualism / self-authorship | **familialized individualization / organizationalized agency** |
+| Low Individual Agency | frustrated/private individualism | traditional collective dependence |
+
+中国现代化最值得研究的可能不是“个人行动能力低”，而是：
+
+# `HIGH INDIVIDUAL AGENCY × FAMILIALIZED TELOS`
+
+个人可能非常：
+- 勤奋；
+- 竞争；
+- 功利；
+- 擅长跳槽；
+- 敢创业；
+
+但其人生资源配置的最高目标仍然是：
+- 买房；
+- 婚育；
+- 养老；
+- 家庭财富；
+- 子代教育；
+- 家族阶层位置。
+
+这不应再被编码为“career individualism很强”。
+
+更准确是：
+
+# `FAMILIALIZED INDIVIDUALIZATION / 家庭化个体化`
+
+> **社会把执行责任和风险个人化，但个人被期待把成功重新兑现为家庭再生产。**
+
+以及：
+
+# `INDIVIDUALIZED FAMILY DUTY / 个人化家庭责任`
+
+> **家庭不再替个人安排全部生产单位，但个人成为承担家庭经济责任的主要执行单元。**
+
+这可以产生极强的竞争性，却不等于“个人作为目的”。
+
+### `FAMILIAL ROI DISCIPLINE / 家庭投资回报纪律`
+
+若家庭长期投入：
+- 教育；
+- 住房首付；
+- 城市落脚；
+- 婚育支持；
+- 社会关系；
+
+成年成员容易面对一种隐性回报要求：
+
+```text
+family investment
+→ career income
+→ housing / marriage / child / elder support
+→ family reproduction
+```
+
+于是职业风险不仅是“我愿不愿意承担”，而是：
+
+> **我是否有权为了自己的非共识目标，让整个家庭承担机会成本？**
+
+这会直接提高：
+- 快速收入偏好；
+- 稳定现金流偏好；
+- 高薪大厂偏好；
+- 已验证赛道偏好；
+
+并提高：
+- 长周期无收入创作；
+- 低概率作者创业；
+- 延迟婚房/婚育；
+的道德与关系成本。
+
+因此：
+
+# `PERSONAL RISK ≠ PERSONAL PURPOSE`
+
+一个人承担全部风险，也可能是在替家庭执行目标。
+
+---
+
+## 4.3 `SELF-AUTHORED ENDS`：个人主义最关键的不是行动，而是“我有权决定什么值得”
+
+本项目以后把真正与作者创新最相关的个人主义核心定义为：
+
+# `SELF-AUTHORED ENDS / 自我制定目的`
+
+> **个人有规范上的正当性，根据自己的判断决定什么事情值得投入人生，而不必把该选择完全证明为家庭、组织或市场的最优收益方案。**
+
+它与任性不同。
+
+Self-authored ends仍然需要：
+- 承担后果；
+- 尊重他人权利；
+- 接受市场裁决；
+- 对合作者负责。
+
+关键只在于：
+
+> **“因为我认为这件事值得做”本身是否具有合法性。**
+
+这直接连接作者型创新。
+
+Carmack / Blow / Pope式选择的重要性，不只是“他们敢辞职”，而是：
+
+```text
+personal judgment
+→ legitimate life objective
+→ resource allocation
+→ product experiment
+```
+
+如果一个社会要求个人价值必须快速翻译成：
+- 家庭收入；
+- 职级；
+- 房产；
+- 婚育能力；
+- 可量化商业成功；
+
+则非共识创作会面对：
+
+# `TELOS LEGITIMACY GAP / 个人目的正当性缺口`
+
+> **不是你没有行动能力，而是“只因为这是你认为值得做的事”不足以成为被家庭/社会承认的资源配置理由。**
+
+这比“缺乏个人主义精神”更精确。
+
+## 4.4 `AUTONOMY ≠ INDEPENDENCE`：家庭责任可以是自主选择
+
+必须防止另一个误区：
+
+> **家庭目标不自动等于反个人主义。**
+
+Self-Determination Theory长期区分：
+- `autonomy`：行动被自己认可、出于volition；
+- `independence`：不依赖别人、独自行动。
+
+跨文化研究明确指出：
+> autonomy并不与collectivism、interdependence或relatedness不相容；一个人完全可以因为真心认同家庭利益，把照顾父母、伴侣或孩子作为自己的目的。
+
+Sources:
+- https://selfdeterminationtheory.org/SDT/documents/2003_ChirkovRyanKimKaplan.pdf
+- https://scholarship.miami.edu/esploro/outputs/journalArticle/Differentiating-Autonomy-From-Individualism-and-Independence/991031598656802976
+
+因此本项目真正反对的不是：
+> “为家庭做事”。
+
+而是：
+
+# `CONTROLLED FAMILIAL TELOS`
+
+> **家庭目标不是个人自主内化的价值，而是通过羞耻、退出惩罚、经济依赖、婚育规范、养老义务或身份否定被强制设为唯一正当目标。**
+
+于是同样是“赚钱养家”，可能有两种完全不同结构：
+
+```text
+A. autonomous family commitment
+"I choose this life and endorse this responsibility"
+
+B. controlled family obligation
+"I cannot legitimately choose otherwise"
+```
+
+前者完全可以与个人主义、自主性和作者生活共存。
+
+后者才构成：
+`TELOS CONSTRAINT`。
+
+所以以后测量“家庭主义是否压制作者性”时，不能只问：
+- 给不给父母钱；
+- 是否重视家庭；
+- 是否结婚生育。
+
+而要问：
+- 能否拒绝；
+- 拒绝代价；
+- 是否允许延迟兑现；
+- 家庭是否承认非经济目标；
+- 家庭是否允许失败/二次尝试；
+- 个人是否真心认同该义务。
+
 # 5. 日本反例：创新不要求全民西方式个人主义
 
 Japan 001已经说明：
@@ -596,7 +805,7 @@ Japan 001已经说明：
 
 ---
 
-# 10. 中国游戏工业的一个可能结构：高商业个体能动性，低作者个体主权
+# 10. 中国游戏工业的一个可能结构：高个人执行能动性，低个人目的主权
 
 中国商业游戏从业者并不一定缺：
 - ambition；
@@ -606,74 +815,98 @@ Japan 001已经说明：
 - 高收入追求；
 - 商业判断。
 
-所以“个人主义不足”若写成：
-> 中国人不敢为自己争利益
+但这些现象本身只证明：
+# `INDIVIDUAL AGENCY`
 
-明显错误。
+不能再直接命名为“career / entrepreneurial individualism”。
 
-更可能出现的是：
+因为一个人可以：
+- 极力升职；
+- 高强度跳槽；
+- 创业；
+- 赚快钱；
+
+但最终objective function仍主要是：
+- 家庭收入；
+- 房产；
+- 婚育；
+- 父母养老；
+- 子女教育；
+- 家庭阶层再生产。
+
+因此更准确的中国H是：
+
+# `INDIVIDUAL AGENCY > INDIVIDUAL TELOS SOVEREIGNTY`
+
+以及产业层：
 
 # `COMMERCIAL INDIVIDUAL AGENCY > AUTHORIAL INDIVIDUAL SOVEREIGNTY`
 
-即：
-- 很会争岗位；
-- 很会跳槽；
-- 很会创业；
-- 很会做商业竞争；
+也就是：
+- 个人很会行动；
+- 很会竞争；
+- 很会把自己变成高价值经济单元；
 
-但“我的非共识taste能否成为整个项目最终objective function”
+但“我的非共识taste本身是否足够成为长期资源配置理由”
 相对更难。
 
 这与026的Founder School / Indie School区分直接对应。
 
-因此未来研究不能把：
-> entrepreneurial individualism
-
-和：
-> authorial individualism
-
-混为一谈。
-
 ---
 
-# 11. 四种个人主义必须分开
+# 11. 不再把“职业竞争/创业”直接叫个人主义
 
-## 11.1 `CAREER INDIVIDUALISM`
-为自己争：
-- 工资；
-- 头衔；
+以后统一区分：
+
+## 11.1 `CAREER AGENCY`
+个人积极：
+- 争工资；
+- 争头衔；
 - 跳槽；
-- 机会。
+- 获得机会。
 
-## 11.2 `ENTREPRENEURIAL INDIVIDUALISM`
-自己：
+它可能服务个人目的，也可能服务家庭目的。
+
+## 11.2 `ENTREPRENEURIAL AGENCY`
+个人：
 - 创业；
 - 融资；
 - 组织资本；
-- 拥有公司。
+- 持有公司。
+
+它同样不自动等于personal individualism。
+
+一个founder完全可能主要追求：
+- 家庭财富；
+- 商业成功；
+- 社会地位；
+- 组织扩张。
 
 ## 11.3 `AUTHORIAL INDIVIDUALISM`
-坚持：
-- 自己定义问题；
-- 自己的taste；
-- 自己的产品thesis；
-并让其获得现实裁决。
+至少同时要求：
+- `INDIVIDUAL AGENCY`；
+- `SELF-AUTHORED ENDS`；
+- `PROBLEM OWNERSHIP`；
+- `PROTECTED NON-CONSENSUS`；
+- 足够的`RESIDUAL JUDGMENT RIGHTS`。
+
+即：
+> **个人不仅自己行动，而且有正当性让自己的判断决定“什么值得做”。**
 
 ## 11.4 `CIVIC / MORAL INDIVIDUALISM`
 更广泛的：
 - 个人权利；
 - 价值自主；
-- 社会规范。
+- 人格尊严；
+- 个人作为目的。
 
-四者相关，但绝不等价。
+这些变量彼此相关，但绝不等价。
 
-一个社会可以：
-- career individualism很强；
-- entrepreneurial individualism很强；
-- authorial individualism较弱；
-- civic individualism又是另一套结构。
-
-中国游戏产业很可能需要用这种分解，而不是“个人主义强/弱”总分。
+所以未来不得再用：
+- 高跳槽率；
+- 高创业率；
+- 强赚钱欲；
+作为authorial individualism的直接proxy。
 
 ---
 
@@ -801,4 +1034,4 @@ AI不是自动个人主义机器。
 
 # 16. 当前最小结论
 
-> **个人主义对创新真正有用的部分，不是抽象的“更自我”，而是让个人非共识判断获得可验证、可归因、可携带、可复利的制度能力。中国可能并不缺career/entrepreneurial individualism，也不缺异类人格；更值得检验的是authorial individualism的实现率：个人判断是否能从私人taste一路穿过署名、市场、产权、流动和第二次机会，最终变成持续作者权。日本证明高从众社会也能通过Bounded Eccentricity与作者职业角色稳定生产怪人；因此真正目标不必是把全社会变成美国，而是增加Protected Non-Consensus与合法怪人生态位。第四次工业革命之所以重要，是它可能大幅降低个人判断进入现实测试所需的Minimum Organizational Mass，从而提高Individualism Realization Rate。**
+> **个人主义对创新真正有用的部分，不是个人承担更多责任、竞争更激烈或更会赚钱，而是个人既有行动能力，又拥有把“我认为值得”当作正当人生目的的空间，并能让这种非共识判断获得可验证、可归因、可携带、可复利的制度能力。中国可能已经拥有很强的Career / Entrepreneurial Agency，却同时存在Familialized Individualization：个人承担更高经济风险和家庭责任，但Self-Authored Ends、作者归因、未来捕获与剩余判断权未同比增长。真正值得检验的是Authorial Individualism的实现率。日本证明高从众社会也能通过Bounded Eccentricity与作者职业角色稳定生产怪人；因此目标不是把全社会变成美国，而是提高Protected Non-Consensus、Self-Authored Ends与合法怪人生态位的密度。第四次工业革命的重要性在于，它可能降低个人判断进入现实测试所需的Minimum Organizational Mass，但是否转成真正个人主义仍取决于家庭、市场、产权和平台结构。**
