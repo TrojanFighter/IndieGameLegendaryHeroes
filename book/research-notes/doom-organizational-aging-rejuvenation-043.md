@@ -533,6 +533,138 @@ id 在 DOOM / Quake 关卡、空间、战斗和美术层面长期保持很强的
 
 本节目前保持 **H / longitudinal interpretation**。Petersen / McGee 的具体 decision rights、Quake/Quake II 时期正式组织权力结构和 id 对 Valve 式叙事方向的内部反应，仍需更多同期材料，不将后见叙述直接升级为强因果。
 
+
+---
+
+## 13.6 Problem Diversity Governance：重新出题权不能简化成“扁平化”
+
+Hall → Petersen → McGee 暴露的下一层问题不是“组织里有没有不同想法”，而是：
+
+> **谁有资格把“我们正在回答什么问题”本身重新提交讨论？**
+
+这里用 Valve、Nintendo、Looking Glass / Ion Storm Austin 做三个公开样本压力测试。它们都曾保留较强的 problem-definition 能力，但使用的并不是同一种组织结构，因此不能把 PROBLEM DIVERSITY 简化为“扁平公司更创新”。
+
+### A. Valve：把部分出题权变成人力自选市场
+
+Valve 2012 年公开的 Handbook for New Employees 明确描述：员工并非由经理分配到项目；人可以移动工位并自主选择自己认为最有价值的工作；强项目通过吸引他人加入而获得人力；员工与用户反馈之间尽量减少正式层级。官方 handbook 属于公司自我描述，不能据此假定实际权力完全扁平，但至少证明 Valve 有意把“什么值得做”部分下放给个体的人力配置决定。
+
+Gabe Newell 后来回顾 Steam 早期时还提供了更强的机制例子：公司内部有人认为 Steam 是坏主意，却不能命令 Steam 团队停止；反对者可以把自己的时间投入 Half-Life 2，而支持者继续用自己的时间证明 Steam。
+
+管理研究对 Valve 的抽象常称这种结构为 polyarchy / 多中心选择；Felin、Lakhani、Tushman 记录的 rule of three 则进一步说明：少数员工若愿意实际放弃别的机会、共同投入一个方向，这本身可以成为继续探索的内部信号。
+
+### LABOR-BACKED PROBLEM OPTION / 人力背书式问题期权
+
+> **一个新问题不需要先获得中央委员会批准；它先通过“是否有人愿意把自己的稀缺时间押上去”取得有限生存权。**
+
+这与简单“人人都能提建议”不同，因为参与者承担机会成本。
+
+但 Valve 同样提供反证边界：Jeri Ellsworth 等前员工回忆存在隐性权力网络和项目被非正式势力终止的问题；后续组织研究也指出 flat structure 可能产生 shadow hierarchy、资源协调困难与项目完成问题；游戏开发创业样本研究则显示 flatter hierarchy 往往提高 novelty，却可能牺牲 execution / commercial coordination。
+
+因此 Valve 不能证明“无老板 = problem diversity”。更安全的结论是：
+
+> **分散出题权可以降低中央 gate 的 false negative，但如果缺乏透明资源配置与收敛机制，非正式声望也会重新形成 selector。**
+
+Sources:
+- Valve, Handbook for New Employees (2012): https://steamcdn-a.akamaihd.net/apps/valve/Valve_Handbook_LowRes.pdf
+- Andrea Peterson, Gabe Newell on what makes Valve tick, Washington Post, 2014-01-03: https://www.washingtonpost.com/news/the-switch/wp/2014/01/03/gabe-newell-on-what-makes-valve-tick/
+- Teppo Felin, Karim R. Lakhani, Michael L. Tushman, Firms, crowds, and innovation, Strategic Organization (2017): https://journals.sagepub.com/doi/10.1177/1476127017706610
+- Katie Scott, Valve's flat management structure 'like high school', Wired, 2013: https://www.wired.com/story/valve-management-jeri-ellsworth/
+- Saerom Lee, The myth of the flat start-up, Strategic Management Journal (2022): https://doi.org/10.1002/smj.3333
+
+### B. Nintendo：把“问题意识”训练成设计能力
+
+Nintendo 提供的是另一种模型。Iwata Asks 中，Miyamoto 多次把 idea generation 描述为 problem awareness → solution，而不是脱离问题的灵感；他还明确指出，仅把一个年轻人的想法判成“不行”却不理解问题本身，会浪费未来再次利用该 idea 的机会。
+
+Splatoon 开发回顾提供了更具体的组织样本：
+- 新团队明确以“做 Mario / Zelda 之外的新游戏”为目标；
+- 半年提出约 70 个候选；
+- 最终胜出的早期“豆腐”方案并不是靠 presentation 共识，而是因为已有可玩的 4v4 prototype，基本玩法结构能够直接被体验；
+- 后续角色、世界和表现层大幅变化，但涂地 / 信息读取 / 对抗这一核心 survived。
+
+Nintendo 的硬件/软件协作材料还显示，软件团队可以反向向硬件团队提出新硬件需求。这意味着“产品问题”并未被既有硬件规格永久预定义。
+
+### PROBLEM-AWARENESS APPRENTICESHIP / 问题意识学徒制
+
+> **组织通过长期共同制作，让成员学习“什么才是值得解决的问题、哪些缺陷是致命的、哪些只是风险”，并允许新问题通过 prototype 而不是资历取得合法性。**
+
+其风险同样明显：如果“问题意识”过度集中在少数资深创意权威身上，组织可能产生 high-quality but correlated selectors；强 mentorship 既能传递 frontier taste，也可能把上一代 problem model 固化成隐性正统。
+
+因此 Nintendo 证明的不是“强人创意总监比委员会好”，而是：
+
+> **高质量问题定义可以被训练和传承，但必须继续让 prototype 与玩家/市场反馈拥有降权资深判断的能力。**
+
+Sources:
+- Nintendo, Iwata Asks: Super Mario Bros. 25th Anniversary — Context Makes All the Difference: https://www.nintendo.com/en-gb/Iwata-Asks/Super-Mario-Bros-25th-Anniversary/Vol-1-Itoi-asks-Miyamoto/5-Context-Makes-All-the-Difference/5-Context-Makes-All-the-Difference-217381.html
+- Nintendo, Iwata Asks — Write the Problem on a Label: https://www.nintendo.com/en-gb/Iwata-Asks/Super-Mario-Bros-25th-Anniversary/Vol-1-Itoi-asks-Miyamoto/4-Write-the-Problem-on-a-Label/4-Write-the-Problem-on-a-Label-217343.html
+- Nintendo, Iwata Asks: Splatoon (2015): https://www.nintendo.co.jp/wiiu/interview/agmj/vol1/
+- Nintendo, Splatoon — 70 ideas / playable prototype: https://www.nintendo.co.jp/wiiu/interview/agmj/vol1/index2.html
+- Nintendo, 70th AGM Q&A — hardware/software idea catch ball (2010): https://www.nintendo.co.jp/ir/en/stock/meeting/100629qa/06.html
+
+### C. Looking Glass / Ion Storm Austin：故意保留冲突的问题模型，再用 artifact 收敛
+
+Ion Storm Austin / Deus Ex 提供第三种模型。Chris Norden 回忆，Looking Glass Austin 关闭后，Spector 核心小组仍希望继续原来的 RPG / simulation 方向；加入 Ion Storm 时的重要条件就是 Austin 保持高度自治。
+
+Spector 后来又故意建立两支设计队：一支偏 Looking Glass immersive simulation，一支偏 Origin / Ultima RPG。他的意图不是尽快消灭分歧，而是利用两套问题模型的张力创造新东西。结果也暴露了成本：两队竞争一度演变成内部“战争”，最后必须收敛到 Harvey Smith 领导的一套设计组织。
+
+真正关键的是后半段。Spector 的 Deus Ex postmortem 明确记录：数百页 design document 并不能替代真实玩法；Gabe Newell、Looking Glass / Irrational 同行试玩 proto-missions 后指出 skill / augmentation 缺乏 tension；团队接受反馈，Harvey Smith 大改系统；实际使用暴露了纸面推理无法发现的问题。
+
+### CONTAINED PROBLEM PLURALISM / 受约束的问题多元
+
+> **在 discovery 阶段允许互相不兼容的问题模型同时存在；但在继续投入前，必须把争论转成共同 artifact，并授权一个明确的收敛机制。**
+
+这与“所有意见一直平等”不同。Deus Ex 本身就是重要反例：两套 design team 的并行并没有自动产生 best-of-both-worlds；没有 conflict containment 时，problem diversity 会退化成政治阵营；真正有效的是“异质问题模型活得足够久 → prototype 暴露真实 trade-off → decision rights 收敛”。
+
+Sources:
+- David Lightbown / Chris Norden, Classic Tools Retrospective: The tools that built Deus Ex, Game Developer, 2018: https://www.gamedeveloper.com/design/classic-tools-retrospective-the-tools-that-built-deus-ex-with-chris-norden
+- Warren Spector, Postmortem: Ion Storm's Deus Ex, Game Developer, 2000: https://www.gamedeveloper.com/design/postmortem-ion-storm-s-i-deus-ex-i-
+- Game Developer, Developing Deus Ex: An oral history, 2015: https://www.gamedeveloper.com/design/developing-i-deus-ex-i-an-oral-history
+- Warren Spector retrospective on design rules / multiple solutions: https://www.gamedeveloper.com/design/warren-spector-traces-i-deus-ex-i-s-development-back-to-a-game-of-d-d
+
+### D. 三类机制的共同上层变量：PROBLEM-REOPENING CAPACITY
+
+三个组织没有共同的 org chart，却有一个共同功能：
+
+> **既有产品定义不能永久垄断“下一题是什么”。**
+
+### PROBLEM-REOPENING CAPACITY / 问题重开能力
+
+> **组织在已有成功范式、正式岗位和 production pipeline 存在时，仍能让一个新问题获得有限资源、进入 artifact，并在证据足够时重写原产品定义。**
+
+它至少需要四个可分变量：
+
+1. QUESTION LEGITIMACY：是否允许质疑题目本身，而不仅是提交更好的解法。
+2. OPTION GRANT：少数意见能否获得有限时间/人力/预算做 prototype。
+3. ARTIFACT ARBITRATION：是否有共同可玩的东西把 worldview conflict 转成可观察差异。
+4. CONVERGENCE RIGHT：当成本上升时，谁有权收敛、砍掉或合并问题模型。
+
+由此，真正危险的两个极端是：
+
+HIGH CONVERGENCE + LOW REOPENING → 生产稳定，但容易认知修枝 / benchmark lock-in。
+
+HIGH REOPENING + LOW CONVERGENCE → idea 丰富，但容易 faction war / endless exploration。
+
+因此成熟创新组织追求的不是最大化 Problem Diversity，而是：
+
+> **在 cheap discovery 阶段提高重新出题率，在 expensive production 阶段提高收敛强度。**
+
+这与前文的 ASYMMETRIC BURDEN OF PROOF 属于同一个选择架构。
+
+### E. 对 043 原命题的修正
+
+此前“2016 id 从拥有创新者走向拥有创新机制”应保留 H 级，不应暗示唯一正确组织结构。
+
+跨案例后，更安全的表述是：
+
+> **创新机制的关键不是复制 Valve 的扁平、Nintendo 的资深创意体系或 Spector 的双团队冲突，而是明确设计“问题如何被重开、异端如何获得期权、争论如何进入 artifact、何时以及由谁收敛”。**
+
+因此：
+- 扁平度不是充分条件；
+- strong auteur 不是充分条件；
+- 多团队竞争也不是充分条件；
+- 真正可迁移的是 problem-definition decision rights 的生命周期设计。
+
+本节保持 H / cross-case mechanism。三个案例只证明多种组织结构都可能实现 problem reopening；尚不能比较它们的长期成功率，更不能据此做国家或公司总体排名。
+
 ---
 
 ## 14. 对《独立游戏英雄传说》的理论贡献
