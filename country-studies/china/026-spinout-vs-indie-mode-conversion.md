@@ -315,6 +315,67 @@ EA production regime
 
 ---
 
+## 6.1 Second Dinner / Dreamhaven / Frost Giant：三个很好的“创业强、indie判断需另做”样本
+
+### Second Dinner
+
+Second Dinner由前Hearthstone核心成员创办，创始团队强调重新回到hands-on development；但2019很早就获得NetEase **3000万美元少数股权投资**并拿到Marvel授权，首作最终成为Marvel Snap。
+
+Sources:
+- https://ir.netease.com/news-releases/news-release-details/second-dinner-declares-it-now-real-company-because-they-have
+- https://www.gamedeveloper.com/game-platforms/second-dinner-grabs-marvel-partnership-and-30m-investment-for-inaugural-game
+
+这说明同一案例可以同时拥有：
+- high ownership exit；
+- high creator hands-on desire；
+- strong external capital；
+- licensed IP；
+- F2P/mobile commercial regime。
+
+所以它既不能被简单判成“仍是Blizzard复制品”，也不能因为“小团队创办”自动判为indie-mode。
+
+最好的标法是：
+> **strong founder/authorial signal；indie-mode dimensions mixed。**
+
+### Dreamhaven
+
+Dreamhaven 2020由Morhaime等大量Blizzard veteran创立，一开始就是：
+- parent company；
+- 两个内部studio；
+- publishing function。
+
+官方目标强调empower creators和原创产品。
+
+Source:
+- https://www.dreamhaven.com/news/announcement
+
+但它的组织形态本身更接近：
+> **creator-governed commercial platform / studio group**
+
+而不是“小团队indie spinout”。
+
+它对023 Creator Class Formation可能比“独游转型”更有价值。
+
+### Frost Giant
+
+Frost Giant做Stormgate时：
+- 明确是独立studio；
+- 已获得大量venture funding；
+- Kickstarter主要承担collector edition / beta-server等成本；
+- 2024又做crowd equity；
+- 其产品目标仍是大型长期RTS/live product。
+
+Sources:
+- https://www.sec.gov/Archives/edgar/data/2013852/000166516024000316/offeringmemoformc.pdf
+- https://techcrunch.com/2024/02/22/frost-giant-kickstarter-campaign/
+
+所以：
+> **independent company ≠ indie production mode。**
+
+Frost Giant非常适合做：
+`OWNERSHIP EXIT HIGH / GENRE AUTHORSHIP HIGH / CAPITAL INTENSITY HIGH / SCALE DECOMPRESSION LOW`
+的对照。
+
 # 7. 中国案例也必须重写
 
 ## 7.1 莉莉丝：强Ownership Exit，不是indie-route证据
@@ -546,6 +607,64 @@ Supergiant early Bastion是强样本。
 
 ---
 
+# 10.1 `ROLE SCALE DEPENDENCE / 岗位规模依赖度`
+
+大厂能力能否转到独游，不只看“能力强不强”，还要看：
+
+> **这项能力离开大型组织、预算、部门和基础设施以后，还剩多少直接产品价值？**
+
+定义：
+
+# `INDIE TRANSFERABILITY`
+
+> **某项职业能力在团队规模显著缩小时，仍能直接压缩生产成本、提高核心体验或加快player truth的程度。**
+
+与之相对：
+
+# `ROLE SCALE DEPENDENCE`
+
+> **某项能力需要多大的组织、预算、跨部门接口和持续运营系统才能发挥价值。**
+
+### 初步工作矩阵
+
+| 能力/岗位 | Founder compatibility | Indie-mode compatibility | 主要原因 |
+|---|---:|---:|---|
+| gameplay programmer / systems designer | 中高 | 高 | 能直接把idea→playable压短 |
+| technical artist | 中 | 高或很高 | 若项目围绕视觉/工具强项塑形，可同时承担生产与market legibility |
+| QA / player-facing systems literacy | 中 | 中高 | 能强化reality adjudication；需另有authorial substrate |
+| generalist designer-programmer | 中 | 很高 | hands-on + scope塑形 |
+| senior producer / executive producer | 很高 | 条件性 | 强组织能力；若缺hands-on/subtraction，容易重建大组织 |
+| live-ops / economy specialist | 很高（商业创业） | 项目依赖 | 对F2P startup强，对bounded premium未必是核心 |
+| cinematic / ultra-specialized AAA role | 中 | 条件性或低 | 能力价值可能依赖完整pipeline；也可通过能力反向立项重新变高 |
+| publishing / BD / UA leader | 很高 | 低到条件性 | 强market/company formation，但不自动产生product thesis |
+
+这不是职业等级表。
+同一岗位因：
+- outside hobby；
+- cofounder composition；
+- project thesis；
+-工具进步；
+可以改变相性。
+
+### 一个特别重要的非单调关系
+
+```text
+seniority ↑
+→ capital / hiring / organization skill often ↑
+
+but
+
+hands-on density may ↓
+status decompression cost may ↑
+role scale dependence may ↑
+```
+
+所以：
+
+> **Founder readiness可能随seniority上升，而Indie-mode readiness未必同步上升。**
+
+这正是“出去创业”和“出去做独游相性”必须分开的原因。
+
 # 11. Indie相性真正关键的个人能力可能是`SUBTRACTION CAPABILITY`
 
 大组织常奖励：
@@ -687,6 +806,45 @@ High Indie Conversion among those who exit
 两者政策含义完全不同。
 
 ---
+
+## 14.1 Founder School / Indie School 二维图
+
+母公司真正应该有两个不同输出：
+
+### `FOUNDER SCHOOL STRENGTH`
+能否把员工训练成：
+- 招人；
+- 融资；
+-建公司；
+-ship；
+-经营组织。
+
+### `INDIE SCHOOL STRENGTH`
+离职者中有多少能：
+- 自己出题；
+-缩scope；
+-低burn；
+-亲手做prototype；
+-快速见玩家；
+-保留optionality；
+-避免复制旧组织。
+
+可能出现四象限：
+
+|  | Indie School弱 | Indie School强 |
+|---|---|---|
+| Founder School弱 | 普通雇员型组织 | 少数作者出走，但难形成公司 |
+| Founder School强 | **大量商业spinout / 新大厂** | **最容易形成作者型studio forest** |
+
+当前H：
+- Blizzard很可能是高Founder School，但其Indie School强度仍需另算；
+- Tencent明确具备Founder School样本，Indie School不能由Lilith/Game Science数量直接推出；
+- Supergiant只是“EA alumni中一个高Indie-mode conversion案例”，不能证明EA整体是Indie School。
+
+这张图直接修正：
+> “某公司出了很多创业者，所以它很鼓励独立创作。”
+
+完全不一定。
 
 # 15. 对025当前样本的初步重新解释
 
