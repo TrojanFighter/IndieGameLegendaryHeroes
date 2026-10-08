@@ -356,6 +356,154 @@ Source:
 本节仍保持 **H / proxy evidence**。当前最多能说：不同地区的 pre-professional maker infrastructure 确实存在可观察历史差异，而中国到 2026 的 maker infrastructure 已明显增长；尚不能据此估计中国/美国/韩国职业开发者 PPAD 的真实均值、方差或因果效应。
 
 
+
+
+## 1.3.7 Pilot 结果修正：差异更像“制度化深度 × cohort 时滞”，不是“有/无 maker culture”
+
+第一轮继续追溯后，不能把中韩差异写成“韩国学生做游戏、中国学生不做”。中国高校至少在 2008 年已有可核的游戏开发协会，例如北京理工大学软件学院当时已有游戏开发协会并由高年级学生对新生做技术培训；2009 年该院又把游戏开发协会列入正式科技类社团体系。
+
+Source:
+- 北京理工大学，2008级学生技术培训（2009）：https://www.bit.edu.cn/xww/zhxw/a35164.htm
+- 北京理工大学软件学院学生科技创新动员（2009）：https://www.bit.edu.cn/xww/zhxw/jjxy/a40674.htm
+
+韩国真正更值得注意的不是“存在社团”，而是**更早把学校游戏社团作为产业人才管道做系统研究和政策化**。韩国国家资料目录显示，《学校游戏社团的游戏产业及文化振兴利用方案研究——以游戏社团产业人才化为中心》原始报告出版于 **2006 年**；KOCCA 后续公开页面虽在 2010 年登记，但目录明确包含：
+- 企业调查；
+- 学生调查；
+- 学界调查；
+- 游戏开发社团 / 游戏玩家社团区分；
+- 产业人才化；
+- 学校与业界合作项目。
+
+因此它至少证明：到 2000 年代中期，韩国已经在国家/行业研究层明确把“student game club → industry workforce”作为可设计的 feeder system，而不仅是零散校园兴趣活动。
+
+Sources:
+- National Library of Korea catalogue: https://www.nl.go.kr/kolisnet/search/searchResultAllList.do?keyword1=%EA%B2%8C%EC%9E%84%EB%AC%B8%ED%99%94&keywordType1=total&tab=ALL
+- KOCCA archive page: https://www.kocca.kr/kocca/bbs/view/B0000147/1289346.do
+
+### A. 中国 2015：有相当多兴趣社团参与，但 creator → career conversion 仍有明显摩擦
+
+2015 年 UIGAC 学生调查的二手公开报道显示：
+- 约 53% 受访者曾参加游戏相关社团；
+- 超过 60% 对与游戏企业接触表现积极；
+- 但超过 70% 并没有实际申请游戏行业岗位，报道将自我判断“技能/知识不足”和缺少行业信息渠道列为重要障碍。
+
+该调查原始抽样框和完整问卷仍未取得，因此不能当作中国大学生总体比例；但它至少说明 2015 年的问题已经不是“没有兴趣社团”，而可能包括：
+
+> **club participation ≠ repeated artifact production ≠ career conversion**
+
+Source:
+- Game Developer, 2016, summarizing UIGAC 2015 survey: https://www.gamedeveloper.com/business/game-career-becomes-the-first-choice-for-new-graduates-in-china-reports-
+
+### B. 中国 2021–2024：maker feeder 正在发生数量级扩张
+
+吉比特公开年报提供了一个目前较少见的连续组织数据：
+
+**2022 年末：**
+- 高校游戏开发联盟 1,500+ 成员；
+- 覆盖近 300 所高校；
+- 60+ 高校游戏开发社团。
+
+**2023 年中：**
+- 2,000+ 成员；
+- 近 400 所高校；
+- 近 80 个高校游戏开发社团。
+
+**2024 年末：**
+- 6,000+ 联盟成员；
+- 600+ 高校；
+- 120 个游戏开发社团；
+- 2024 年相关高校赛事吸引 600+ 境内外高校、2,000+ 学生游戏开发者，形成 300+ 游戏创意作品。
+
+这些数字来自公司公开年报/社会责任披露，属于组织自报，不能等同于全国唯一人数、完成商业游戏数量或职业转化率；同一个学生/学校也可能跨项目重复计入。但它足以否定：
+
+> “2020s 中国高校 maker infrastructure 仍只是几个零散社团。”
+
+Sources:
+- 吉比特 2022 年年度报告相关披露（新浪财经镜像）：https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=8930247
+- 吉比特 2023 半年度报告相关披露：https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=9406961
+- 吉比特 2024 年年度报告相关披露：https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=10812923&stockid=603444
+
+### C. 新变量：COHORT MAKER EXPOSURE / 代际制作暴露
+
+因此 Pre-Firm Creator Substrate 必须显式加入年份。
+
+一个 1988 年出生、2006–2010 年上大学的中国从业者，与一个 2005 年出生、2023–2027 年上大学的中国从业者，面对的：
+- game jam 密度；
+- 引擎可得性；
+- Steam / itch / 独游可见度；
+- 高校社团；
+- 行业导师；
+- 中文教程；
+- AI coding；
+- 创作职业合法性
+
+已经不是同一个制度环境。
+
+可暂定：
+
+### COHORT MAKER EXPOSURE / 代际制作暴露
+
+> **一个出生/教育 cohort 在第一份职业工作以前，平均能接触多少次低成本、可完成、可失败、可获得陌生玩家反馈的游戏制作机会。**
+
+这意味着后续国别比较必须至少按：
+- 出生 cohort；
+- 大学年份；
+- first-job year
+
+分层。禁止拿 2010 年进入腾讯/网易的一代，直接代表 2026 年正在毕业的一代。
+
+### D. Maker-Pipeline Catch-Up Hypothesis / 制作者管道追赶假说
+
+当前形成一个新的 H：
+
+> **中国游戏 creator substrate 的历史差距若存在，可能正在被高校社团、Game Jam、行业联盟、成熟引擎和独立发行接口快速缩小；因此未来行业人才池可能发生显著 cohort shift，即使高考和大型公司组织本身没有同步发生根本改革。**
+
+这不是“未来中国必然原创爆发”。至少还有五个未知量：
+1. 600 所高校覆盖相对于中国巨大高校人口的真实密度；
+2. 每名成员实际完成多少 playable artifact，而不是只听课程/参加社群；
+3. 作品是否由本人定义问题，还是竞赛/导师给题；
+4. maker 经历能否转成第一份职业工作的 selection advantage；
+5. 入厂后作者线程是否继续，还是再次被高强度 production regime 中断。
+
+因此更好的数量级指标不是“有多少高校社团”，而是：
+
+```text
+PPAD per entrant
+= pre-career completed / failed artifacts
+  normalized by first-job cohort
+```
+
+以及：
+
+```text
+MAKER-TO-CAREER CONVERSION
+= 有 repeated maker history 的学生
+  → 实际进入职业开发并保留 authorial thread 的比例
+```
+
+### E. 对“送进大厂的材料不一样”的时间限定
+
+当前最安全的写法不是：
+
+> “中国大厂收到的材料天生比美国/韩国差。”
+
+而是：
+
+> **不同国家、不同出生代际的职业候选池可能经历了不同密度和不同合法性的 pre-professional making；历史上的差异若存在，也不应假定在 2026 以后保持不变。**
+
+这使本假说具有明确可证伪预测：
+
+- 如果年轻中国 cohort 的 PPAD 显著上升；
+- 而相似岗位的大厂组织制度变化不大；
+- 随后 0→1 proposal diversity、员工 side-project history 或独立创业作品的异质性也上升；
+
+那么 upstream-composition explanation 将得到明显增强。
+
+反之，如果 PPAD 已接近其他生态，而原创问题供给仍长期没有改善，则应把更多解释权重新移回 selector、market interface、production regime 与社会风险结构。
+
+本节状态：**H / COHORT-SENSITIVE UPDATE**。现有公开资料支持“maker infrastructure 正扩张”和“韩国较早系统化人才管道研究”，不支持中韩美 PPAD 均值的直接排名。
+
+
 ## 1.4 对独立开发者真正重要的教育层变量
 
 后续案例统一编码：
