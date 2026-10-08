@@ -397,6 +397,144 @@ early id 的创新自由很大程度来自真正的 **EXIT**：
 
 ---
 
+## 13.5 Hall → Petersen → McGee：能力存在不等于能力拥有出题权
+
+前面的 **CAPABILITY ASYMMETRY LOCK-IN** 仍需进一步修正。Tom Hall 离开后，id 并没有简单失去“世界、气氛、叙事、作者性”人才；Sandy Petersen 与 American McGee 都说明相关能力仍然存在。真正需要审计的是：**这些能力在组织内是否仍拥有定义产品问题的合法性与决策权。**
+
+### A. Tom Hall：项目不适配不等于能力低级
+
+Hall 在 early id 里承担的不只是“写剧情”：
+- Carmack 后来回忆 Commander Keen “very much Tom Hall's baby”，Hall 对角色、世界和创意方向有实质贡献；
+- Wolf3D 的 secret/push-wall 争论中，Hall 与 Romero 一起持续推动探索奖励；
+- Doom Bible 则代表更强的角色、连续世界、功能空间与叙事取向。
+
+这些方向与 1993 年最终形成的高速、抽象、以战斗为核心的 DOOM 发生真实冲突。就 **当前项目收敛** 而言，拒绝其中很多答案完全可能是正确的。
+
+因此必须区分：
+
+### CAPABILITY MISFIT ≠ CAPABILITY INFERIORITY
+
+> **一种能力不适配当前项目，不等于这种能力本身低级，也不等于组织未来不再需要它。**
+
+错误的长期外推不是“DOOM 不需要这些 feature”，而是“这类提问不再值得参与产品定义”。
+
+### B. Sandy Petersen：id 补回了设计产能与局部异质性，但未必补回 Hall 的 problem-definition function
+
+Petersen 进入 id 前已经设计《Call of Cthulhu》等桌面 RPG，显然不缺世界、规则与氛围构造经验；加入 DOOM 后，他又高速修改/制作关卡，并在 DOOM II、Quake 延续强烈而异质的空间设计。
+
+值得注意的不是“Petersen 有没有世界观能力”，而是 id 主要如何调用这些能力：
+
+> **environment → encounter → pacing → atmosphere**
+
+而 Hall 更接近：
+
+> **character → place → continuity → interaction → world system**
+
+因此职位补位不等于认知功能一对一补位。更准确的说法是：
+
+> **id 很快补回了 level-design throughput 和局部 solution diversity；但“整个产品应该解决什么问题”这一层的 decision rights 未必同步恢复。**
+
+Sources / leads:
+- Sandy Petersen interview, 1 More Castle (2013): https://www.1morecastle.com/2013/01/sandy-petersen-an-interview-about-doom-quake-and-aoe/
+- Shacknews, Rocket Jump / Petersen on Doom & Quake level design: https://www.shacknews.com/article/101156/rocket-jump-quake-and-the-golden-age-of-first-person-shooters?page=9
+- Shacknews, Quake degrees of freedom: https://www.shacknews.com/article/124733/the-making-of-quake-part-2-degrees-of-freedom
+
+### C. American McGee：latent capability 可以在组织里存在，却不被激活为新的产品定义
+
+McGee 在 id 内从测试/支持等工作逐步进入关卡设计，参与 DOOM、Quake、Quake II；这本身说明 early/mid id 仍具有较强的 **capability discovery**：人可以先进入生产，再由真实表现重定角色。
+
+但 McGee 后来回忆，看到 Valve 基于 Quake 技术做更叙事化、角色化的演示后，他意识到同一技术还可以服务另一种产品表达；而当时 id 的兴趣中心并没有因此重新开放成“id 可以做什么”。这类回忆属于多年后的个人叙述，当前只作为 H 级组织线索，不升级为“id 明确压制叙事创新”的强因果。
+
+Source / lead:
+- PC Gamer, McGee on Valve demo and narrative possibility: https://www.pcgamer.com/games/alice-creator-american-mcgee-says-he-was-inspired-by-a-valve-demo-he-saw-while-working-on-quake-2/
+
+这要求新增一个核心区分：
+
+### CAPABILITY PRESENCE ≠ CAPABILITY AGENCY
+
+组织的真实能力不是员工技能简单求和。一个工作模型是：
+
+```text
+EFFECTIVE CAPABILITY
+≈ SKILL
+× DECISION RIGHTS
+× RESOURCE ACCESS
+× PROBLEM LEGITIMACY
+```
+
+其中任何一项接近零，组织都可能“拥有这种人才”，却无法让这种人才真正影响产品定义。
+
+### D. PERSONNEL AMPUTATION 与 DECISION-RIGHT AMPUTATION 必须拆开
+
+#### PERSONNEL AMPUTATION / 人员截肢
+人离开，能力随人离开。
+
+#### DECISION-RIGHT AMPUTATION / 决策权截肢
+人仍在、能力仍在，但只能回答已经被别的认知范式定义好的问题，无法再参与“我们究竟应该做什么”的出题。
+
+后者更隐蔽，也更适合解释成熟组织的认知收窄：
+- 组织可以同时拥有叙事设计、系统设计、美术、用户研究、技术专家；
+- 但如果 greenlight / product definition 只有一种 worldview 拥有合法性；
+- 那么名义上的能力多样性并不等于真实的认知多样性。
+
+### E. SOLUTION DIVERSITY 与 PROBLEM DIVERSITY
+
+Hall → Petersen → McGee 线索迫使本研究再拆两层：
+
+#### SOLUTION DIVERSITY / 解法多样性
+> 在同一个已定义问题里，组织允许多少种不同解法竞争？
+
+id 在 DOOM / Quake 关卡、空间、战斗和美术层面长期保持很强的 solution diversity。
+
+#### PROBLEM DIVERSITY / 问题多样性
+> 组织是否仍允许成员质疑“我们为什么必须继续回答这道题”？
+
+长期风险不一定是“设计师都变得一样”，而可能是：
+
+> **大家仍能用很多方式设计 FPS，但“id 是否应该重新定义 FPS / 做另一种体验”越来越少进入合法问题空间。**
+
+因此“内部异质性下降”不能写得过粗。更安全的假说是：**局部设计异质性可以很高，同时 problem-definition layer 仍逐渐收窄。**
+
+### F. ORGANIZATIONAL COGNITIVE PRUNING / 组织认知修枝
+
+“组织性截肢”过于二元，更合适的上层概念是：
+
+> **组织在连续项目中不断强化曾经产生胜利的思考方式，并逐步降低其他思考方式的资源、地位与问题定义权。**
+
+其短期收益是真实的：
+- identity 更清楚；
+- production 更稳定；
+- 新人更容易理解好方案；
+- 当前项目更容易 scope down。
+
+其长期风险同样真实：
+- PROBLEM DIVERSITY ↓
+- latent capability 无法 activation
+- ORTHODOXY HALF-LIFE ↑
+- 组织越来越擅长回答自己已经知道怎样提出的问题。
+
+这不是“所有修枝都错”。真正需要审计的是：
+
+> **项目层的 Not Now，是否被错误升级成能力层的 Never Again。**
+
+### G. 对小团队 / playable stone 的迁移边界
+
+这一条可以迁移到任何高强度 scale-down 阶段，但不能借此反对 MVP：
+
+> **CURRENT PRODUCTION PRIORITY ≠ PERMANENT EPISTEMIC HIERARCHY**
+
+当前 playable stone 可以正确地砍掉大量叙事、世界模拟、战略层或未来系统；真正危险的是把“当前不生产”误写成“完整产品不需要这类问题/能力”。
+
+因此成熟的 scope discipline 应同时保存：
+1. **production cut**：现在不做；
+2. **capability memory**：知道未来仍需要谁/哪类认知；
+3. **future-option pool**：区分“垃圾”“当前不适配”“技术/时机尚未成熟”；
+4. **re-entry trigger**：什么证据出现时，允许该问题重新进入 product definition。
+
+本节目前保持 **H / longitudinal interpretation**。Petersen / McGee 的具体 decision rights、Quake/Quake II 时期正式组织权力结构和 id 对 Valve 式叙事方向的内部反应，仍需更多同期材料，不将后见叙述直接升级为强因果。
+
+---
+
 ## 14. 对《独立游戏英雄传说》的理论贡献
 
 本节点把前几条 DOOM 研究连接起来：
