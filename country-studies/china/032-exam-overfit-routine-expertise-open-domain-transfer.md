@@ -719,7 +719,7 @@ AI会进一步削弱 routine-answer production 的稀缺性。
 这称为 **FULL-CYCLE AUTHOR PRACTICE / 全周期作者练习**；**不是**“每个人必须兼任所有专业岗位”。多人分工团队也可能共同经历完整作者循环。
 
 *教育实验线索*：
-- **S1（2023）** Aurava等：系统性综述汇集2010–2022年25篇Game Jam原始研究，归纳跨学科知识、认知与元认知、社交及实践技能的可能学习收益；同时指出研究场景异质，不能将jam自动等同于长期能力形成。原文：https://www.sciencedirect.com/science/article/pii/S2666557323000071
+- **S1（2023）** Riikka Aurava与Kati Sormunen：系统性综述汇集2010–2022年25篇Game Jam原始研究，归纳跨学科知识、认知与元认知、社交及实践技能的可能学习收益；同时指出研究场景异质，不能将jam自动等同于长期能力形成。原文：https://www.sciencedirect.com/science/article/pii/S2666557323000071
 - **S1（2026-06-19发表；2026-08-31正式版本）** Arya与Bani-Taha：以一处GGJ站点的回顾性访谈研究Game Jam如何连接业余/正式教育与职业经验；受访者把从idea到working prototype的全流程经验视作重要收益。研究明确承认单站点、自述回忆、缺乏雇主和指导者访谈的限制；**不能**推算“参赛者几年后成为职业主创”的胜率。原文：https://link.springer.com/article/10.1007/s44217-026-01810-5
 - **S1（2021）** Aurava、Meriläinen等在芬兰普通高中环境的研究：Game Jam可嵌入正式教育，但资源、教师能力、非竞技性和包容设计影响参与门槛与体验，不能将高强度jam浪漫化为人人适用的教育替代品。原文：https://www.sciencedirect.com/science/article/pii/S2212868921000192
 
