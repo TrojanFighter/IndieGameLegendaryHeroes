@@ -543,6 +543,40 @@ AI最有价值的角色不是：
 而是：
 > **防止组织过早把冲突压平。**
 
+
+## 23. 边界：Double-loop不是“质疑一切”的万能药
+
+后续研究对double-loop提出几个必要压力：
+
+1. **修改底层假设也可能修改错。**  
+   Blackman、Connelly、Henderson 2004直接质疑double-loop是否必然产生可靠知识，指出它同样可能制造错误并错过重要方向。
+
+2. **概念很流行，但实施与测量困难。**  
+   2023年系统综述梳理1974–2021年128项研究，认为double-loop虽然被广泛引用，但实践影响常较表面，原因包括定义复杂、生成条件和测量困难。
+
+3. **不是每个问题都值得升到double-loop。**  
+   大量成熟、稳定、低不确定任务用single-loop更经济。频繁重开目标函数会制造协调成本和战略漂移。
+
+4. **Double-loop本身仍有更高层价值前提。**  
+   即使组织允许修改战略与目标，仍可能默认“组织生存 / 增长”不可质疑。不能把double-loop误称为没有任何hard core的彻底反思。
+
+因此本项目的使用规则：
+
+> **Double-loop提供“允许底层假设进入审判”的权利，不提供“底层假设一定应该被推翻”的结论。**
+
+它必须和：
+- Lakatos式programme accountability；
+- Prediction-Before-Outcome；
+- Reality Arbitration；
+- Reversible Bets；
+联合使用。
+
+Sources:
+- Blackman, Connelly & Henderson, “Does double loop learning create reliable knowledge?”, 2004:
+  https://www.emerald.com/tlo/article-abstract/11/1/11/378035/Does-double-loop-learning-create-reliable
+- Auqui-Caceres & Furlan, “Revitalizing double-loop learning in organizational contexts,” 2023:
+  https://doi.org/10.1111/emre.12615
+
 ## Sources
 
 - Argyris, “Double Loop Learning in Organizations,” HBR 1977:
