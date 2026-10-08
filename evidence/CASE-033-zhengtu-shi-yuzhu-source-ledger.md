@@ -31,7 +31,7 @@
 - Source class: P0 — SEC-filed company financial release
 - Title: Giant Interactive Group Inc. consolidated condensed statements / 2007 full-year results
 - Author / Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
-- Published: 2008-02-19
+- Published: 2008-02-20
 - Accessed: 2026-10-05
 - URL: https://www.sec.gov/Archives/edgar/data/1415016/000119312508034863/d6k.htm
 - Claim use:
@@ -185,7 +185,7 @@
 - Source class: P0 — SEC-filed full-year earnings release and statements
 - Title: Giant Interactive Group Inc., Fourth Quarter and Fiscal Year 2007 Financial Results (Form 6-K)
 - Author / Institution: Giant Interactive Group Inc. / U.S. Securities and Exchange Commission
-- Published: 2008-02-19
+- Published: 2008-02-20
 - Accessed: 2026-10-08
 - URL: https://www.sec.gov/Archives/edgar/data/1415016/000119312508034863/d6k.htm
 - Claim use:

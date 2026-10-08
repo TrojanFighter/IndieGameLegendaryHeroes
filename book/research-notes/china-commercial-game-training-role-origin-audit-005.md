@@ -6,6 +6,8 @@
 - Related: `china-indie-dual-environment-capability-transfer-004.md`, `china-game-commercial-regime-lineage-003.md`, `CASE-028 Chinese Online Game`, `CASE-038 Sultan's Game`
 - Claim status: **NOT A FORMAL CLAIM**
 
+> **2026-10-08制度补证入口**：[050 — NExT × 网易Mini × Supercell Spark](creator-selection-institution-comparison-050.md)。新增2018同期NExT孵化项目数/100人天评审与网易新人六周Demo、2025 Supercell选团队制度，以免将“存在个别原型策划”误写成“商业大厂没有或普遍拥有原创作者训练”。本文件现有职业便利样本仍不得当作发生率分母。
+
 ## 0. 研究问题：真正需要检验的不是“程序员是不是比策划更会做独立游戏”
 
 一个反复出现的中国游戏行业观察是：
