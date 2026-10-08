@@ -795,6 +795,341 @@ Tradition / Apprenticeship
 6. 高Taste专家之间的分歧是否主要来自不同tacit representation，怎样通过shared artifact暴露差异；
 7. Apprenticeship–Sovereignty Transition在不同国家/公司文化中什么时候发生、谁拥有授予Decision Right的权力。
 
+
+## 20. Dreyfus：Expert 不是“更多规则的新手”，而是情境感知发生变化
+
+Hubert 与 Stuart Dreyfus 的技能获得模型把 novice→expert 理解为一种质变过程，而不是规则数量线性增加。
+
+在其成熟表述中，expertise的典型特征是：
+- 不再逐条匹配抽象规则；
+- 更直接地感知“这个具体情境要求什么”；
+- 经验已经改变什么线索会自动凸显；
+- 直觉判断不是无理由拍脑袋，而是长期situated experience压缩后的快速情境响应。
+
+他们同时强调：
+> 专家仍会在有时间时反思和推理，但反思的目标往往是改进直觉，而不是用规则永久替代直觉。
+
+Source:
+- Dreyfus & Dreyfus, “Peripheral Vision: Expertise in Real World Contexts,” *Organization Studies* 26(5), 2005:
+  https://journals.sagepub.com/doi/10.1177/0170840605053102
+
+### 20.1 Rule Ceiling
+
+这给我们一个新概念：
+
+# `RULE CEILING / 规则上限`
+
+规则对：
+- novice onboarding；
+- common failure prevention；
+- vocabulary；
+- safety boundary；
+非常重要。
+
+但一个系统如果只训练：
+> “在什么条件下套什么规则”
+
+可能把人长期锁在：
+# `ADVANCED BEGINNER / COMPETENT RULE USER`
+
+而没有形成：
+# `SITUATIONAL SALIENCE`
+
+即：
+> **哪些线索在这个具体局面里应该自动变得重要。**
+
+### 20.2 Taste Training = Salience Training
+
+因此游戏设计Taste培训，不只是：
+> 多讲设计原则。
+
+而是：
+> **反复让新人面对真实artifact，并追问：你第一眼注意到什么？为什么？高手第一眼注意到什么？结果证明谁漏掉了关键线索？**
+
+这使：
+# `ATTENTIONAL APPRENTICESHIP`
+进一步变成：
+# `SALIENCE CALIBRATION`
+
+---
+
+## 21. Lave & Wenger：学习不是“获得知识”，而是逐步获得真实参与资格
+
+Lave与Wenger 1991提出：
+# `LEGITIMATE PERIPHERAL PARTICIPATION / 合法边缘参与`
+
+学习者不是先在课堂里“完整学会”，再进入实践。
+
+更常见的机制是：
+- 先以低风险、边缘但真实的角色参与；
+- 接触真实artifact、语言、人际关系、工具和标准；
+- 逐渐理解共同体“实际上在乎什么”；
+- 责任与访问范围不断扩大；
+- 最终移动到full participation。
+
+Primary:
+- Jean Lave & Etienne Wenger, *Situated Learning: Legitimate Peripheral Participation*:
+  https://www.cambridge.org/highereducation/books/situated-learning/6915ABD21C8E4619F750A4D4ACA616CD
+
+这与一般“培训新人”最大的区别是：
+
+> **Peripheral不等于Fake。**
+
+新人可以做简单任务，
+但这些任务必须真正处在生产/创作共同体里，
+并让他看见：
+- 完整产品怎样被讨论；
+- 老手怎样判断；
+- 自己的工作怎样影响最终结果。
+
+---
+
+## 22. 新概念：Legitimate Low-Stakes Reality
+
+结合Reversible Bets与Lave/Wenger，新增：
+
+# `LEGITIMATE LOW-STAKES REALITY / 合法低风险现实`
+
+新人最好的训练任务同时满足：
+
+1. **Low Stakes**  
+   错了不会毁掉大项目。
+
+2. **Real Consequence**  
+   结果不是课堂假题，真的有人使用/试玩/依赖。
+
+3. **Visible Whole**  
+   新人知道自己的局部怎样进入完整产品。
+
+4. **Expert Proximity**  
+   可以观察更强者怎样处理同类问题。
+
+5. **Increasing Agency**  
+   做对以后得到更大的问题权与决策权。
+
+这比：
+> sandbox exercise
+
+更强，
+
+也比：
+> 把新人直接扔进高风险核心任务
+
+安全。
+
+### 对游戏行业
+
+高价值入口可能包括：
+- 小型真实关卡；
+- 小活动；
+- mod；
+- jam；
+- bounded prototype；
+- 支线系统；
+- 内部可玩实验；
+- 小规模live feature。
+
+前提是：
+> **新人不是只做“资产加工”，而是能看到判断→结果链。**
+
+---
+
+## 23. 这给“大厂有没有培养原创人才”一个新的审计方法
+
+过去容易按：
+- 公司名；
+- 项目规模；
+- 年资；
+- 职级；
+
+推断人才质量。
+
+Polanyi + Dreyfus + Lave/Wenger要求改问：
+
+### Practice Access
+新人是否看得见真正的设计/产品判断过程？
+
+### Judgment Exposure
+是否知道为什么A被选、B被杀，而不是只收到Jira任务？
+
+### Salience Calibration
+有没有人指出他漏看了什么？
+
+### Consequence Contact
+能否看到真实玩家、市场或工程结果？
+
+### Agency Escalation
+是否从：
+```text
+execute
+→ choose between options
+→ frame bounded problem
+→ own prototype
+→ own product decision
+```
+逐步升级？
+
+所以：
+# `YEARS IN INDUSTRY != YEARS OF JUDGMENT PRACTICE`
+
+一个人在大厂待8年，
+如果8年主要是：
+> 接feature需求 → 高质量执行
+
+他的Production Capital可以极强，
+但Selection Apprenticeship未必同样深。
+
+---
+
+## 24. AI Apprenticeship Paradox：AI可能同时扩大“边缘参与”和删除“边缘参与”
+
+AI有两种完全相反的可能。
+
+### Path A — Access Expansion
+过去新人无法独立碰的东西：
+- coding；
+- art；
+- research；
+- prototype；
+
+现在借AI可以更早做出真实artifact。
+
+这会提高：
+# `LEGITIMATE PARTICIPATION ACCESS`
+
+即：
+> 新人更早进入真实生产循环。
+
+### Path B — Experience Removal
+但如果团队流程变成：
+```text
+prompt
+→ AI produces
+→ senior approves
+```
+
+新人可能不再经历：
+- 分解问题；
+- 手动处理大量边界案例；
+- 观察局部错误；
+- 慢慢形成salience。
+
+于是：
+# `OUTPUT ACCESS ↑`
+同时：
+# `EXPERIENTIAL DEPTH ↓`
+
+这就是AI时代真正需要测的矛盾：
+
+> **AI究竟让新人更早进入实践，还是只让新人更早得到实践的输出？**
+
+两者完全不同。
+
+---
+
+## 25. Harry Collins：并非所有“Tacit”都是同一种东西
+
+后续研究者Harry Collins尝试进一步区分 tacit knowledge。
+
+其中至少有两个对AI讨论很有用的维度：
+
+### Somatic / embodied limits
+某些能力和身体、感觉运动系统相关。
+
+### Collective tacit knowledge
+某些“知道怎么做”并不只存在个人头脑，而嵌在一个社会共同体的规范、语言使用、默契与互动里。
+
+Source:
+- Harry Collins, “Bicycling on the Moon: Collective Tacit Knowledge and Somatic-limit Tacit Knowledge,” *Organization Studies* 28(2), 2007:
+  https://journals.sagepub.com/doi/10.1177/0170840606073759
+
+这提醒我们：
+
+> **AI是否能学会某项“隐性知识”，要先问它究竟是哪一种隐性。**
+
+有些只是：
+- 未被写下；
+- 写下成本太高；
+
+AI通过大量行为trace可能学到相当多。
+
+有些依赖：
+- 身体；
+- 长期社会参与；
+- 共同体内部不断变化的规范；
+
+则不能因为LLM语言表现很好，就直接宣布问题已经解决。
+
+---
+
+## 26. “Expertise Capture”应该从文档工程升级成 Practice Observatory
+
+如果目标是保存高级团队Taste，
+组织真正应该建设的可能不是：
+
+# `KNOWLEDGE REPOSITORY`
+
+而是：
+
+# `PRACTICE OBSERVATORY / 实践观测层`
+
+最低记录：
+- artifact版本；
+- alternatives；
+-谁提出什么判断；
+- 哪些变量触发关注；
+- 哪些方向被杀；
+- 当时预测；
+- 实际结果；
+- 复盘时模型如何更新。
+
+AI可以进一步：
+- 聚类反复出现的judgment pattern；
+- 找senior常见exception；
+- 把同类case调给junior；
+- 比较不同高手的salience差异；
+- 发现“团队嘴上原则”和实际选择不一致。
+
+这比让模型读取1000页Design Bible更接近：
+# `SELECTION FUNCTION OBSERVABILITY`
+
+---
+
+## 27. 最终合并：创新能力的形成不是“自由”与“服从”二选一
+
+现在可以把个人主义主线修正为完整生命周期：
+
+```text
+LEGITIMATE PARTICIPATION
+→ APPRENTICESHIP
+→ TACIT INTEGRATION
+→ SALIENCE CALIBRATION
+→ BOUNDED DECISION RIGHT
+→ JUDGMENT SOVEREIGNTY
+→ REALITY CORRECTION
+→ GENERATIVE MUTATION
+```
+
+因此：
+
+### 没有前半段
+容易产生：
+> 没学会任何东西就宣称自己独立思考。
+
+### 没有后半段
+容易产生：
+> 技艺很高，但永远只能复制师傅和旧组织。
+
+真正创新体系需要：
+
+# `TRADITION WITHOUT PERMANENT SUBMISSION`
+
+以及：
+
+# `INDIVIDUALISM WITHOUT IGNORANT ANTI-EXPERTISM`
+
+这两个边界应当长期保留。
+
 ## Sources
 
 - Michael Polanyi, *Personal Knowledge*:
