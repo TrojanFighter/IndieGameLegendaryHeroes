@@ -1582,6 +1582,83 @@ AC-010 增加一个跨层问题：
 
 ---
 
+## 3.6 教育—雇佣—晋升—决策权的再生产：不只是谁会答题，也是由谁制定下一道题（2026-10-09）
+
+**Scope:** 这是对 3.5 `Prestige Pipeline Coupling` 的管理组织层补证与细化，不是第四个平行框架。教育如何形成学习习惯由[中国031](../../country-studies/china/031-education-east-asian-discipline-reference-repertoire.md)负责；封闭题域向开放决策误迁移、`MEETING-AS-EXAM`、`DECISION-TEMPO OVERFIT`及最小随机实验由[中国032，第29节](../../country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)负责；教材结构与自由时间机会成本由[中国034](../../country-studies/china/034-curriculum-depth-time-cost-autonomy-creator.md)负责。本节仅研究**组织如何奖励、复制或打断既有评价函数**。
+
+### 3.6.1 从个人认知假说改写成制度再生产假说
+
+```text
+SCHOOL TRAINING / SELECTION
+已知题目与外部评分器中的优秀表现
+          ↓ （不保证发生）
+FIRM ENTRY FILTER / 招聘
+学历/名企/快速应答/文化适配/已完成作品何者被当作有效信号？
+          ↓
+REWARD & PROMOTION / 奖励晋升
+现岗位业绩何时被当作下一岗位能力？
+          ↓
+DECISION-RIGHT ALLOCATION / 关键权力
+谁能定义目标、暂停决策、增加资料、否决题目、设置验证预算？
+          ↓
+POLICY & CULTURE REPRODUCTION / 规则复制
+晋升后的经理设计JD、面试、会议、绿灯、KPI和项目评价方式
+          ↓
+NEXT INTAKE COHORT / 下一批从业者
+同类能力/行为更容易被雇佣、留下并获得下一轮授权
+```
+
+**严格因果边界：** 此闭环当前仅为 H / MECHANISM HYPOTHESIS。学校训练能够影响初始分布 ≠ 每家企业按考试选人；某个经理喜欢快速交卷 ≠ 他因中国教育而这样；文化适配选人 ≠ 必然压制创新。竞争解释包括行业成熟阶段、财务约束、信息不对称、合规与安全风险、现岗位奖励、强协调需求与真实决策紧迫性。
+
+### 3.6.2 现有实证各自支持哪一环，哪些环根本没有证据？
+
+| 来源与样本 | 直接支持 | **不支持的越级推论** |
+|---|---|---|
+| **Schneider 1987，Attraction–Selection–Attrition (ASA) 理论** | 组织可能通过吸引、选择和流失机制保持自身人员与文化的相似性；为循环提供理论语言 | 不曾实测中国游戏企业，更不证明“应试文化”被复制 |
+| **Benson, Li & Shue 2019，QJE，131家企业销售晋升微观数据** | 高销售业绩更易晋升，但晋升前销售表现对管理增值呈负关系；只为提高管理表现的反事实晋升政策可提升约30%的**管理质量指标** | 不是“经理能力普遍下降30%”，也不能视为中国/游戏行业的估计；企业可能理性地用晋升激励销售 |
+| **Tholen 2024，Work, Employment and Society，47名外部招聘顾问访谈** | 组织适配评价经常包含非透明、主观判断，可能再生产招聘者认为合适的群体边界 | 不等于中国大厂专门招“听话做题家” |
+| **Wei Cai 2022，单家中国农业企业、4000+新员工、200+办公室** | 形式化文化适配筛选可以让组织价值观沿人员进入路径扩散；研究中第二、三年绩效评估差异分别约10%、16%；也识别申请人迎合测试的风险 | 文化复制可强化好制度也可强化坏制度；无开放式创作决策测量 |
+| **2024中国精英高校回报研究，Economic Development and Cultural Change** | 入职时学历作为信号获得溢价，随后早期职业阶段变化，契合雇主学习解释 | 不能推断高学历者缺判断力；工资溢价不等于授予产品问题定义权 |
+| **Edmondson 1999，51个制造业团队，ASQ** | 团队心理安全与可观察的学习行为相关，并经由学习行为关联团队绩效 | 不表示高心理安全一定创造成功游戏，也不证明某国“天生缺乏质疑” |
+
+**可核验来源：**
+- Schneider, B. (1987), *The People Make the Place*, Personnel Psychology. https://doi.org/10.1111/j.1744-6570.1987.tb00609.x
+- Benson, A., Li, D., Shue, K. (2019), *Promotions and the Peter Principle*, QJE. https://doi.org/10.1093/qje/qjz022
+- Tholen, G. (2024), *Matching Candidates to Culture*, Work, Employment and Society. https://doi.org/10.1177/09500170231155294
+- Cai, W. (2022), *Formalizing the Informal*, Columbia Business School research/press summary. https://business.columbia.edu/press-release/cbs-press-releases/workplace-culture-how-systems-measuring-fit-may-have-long-term
+- 中国精英大学回报与雇主学习 (2024), *Employer Learning and the Dynamics of Returns to Universities*. https://doi.org/10.1086/727519
+- Edmondson, A. (1999), *Psychological Safety and Learning Behavior in Work Teams*, ASQ. https://doi.org/10.2307/2666999
+
+**Argyris 1977 双环学习**（已有[跨行业专题](../../cross-industry/double-loop-learning-defensive-routines-001.md)）：单环学习优化已接受的目标下的做法，双环学习容许修改目标/规则。适用于解释为何“以后会议更快收卷”不同于“下次还要不要现场出题”；这是管理理论，不是中国教育因果证据。https://hbr.org/1977/09/double-loop-learning-in-organizations
+
+### 3.6.3 在一个团队里，究竟应测量哪四个门槛？
+
+1. **Entry Selectors / 入场选择器：** JD、面试题、实际选中者的履历、作品、独立项目、外部研究史；同岗位候选人中，标准题速答、学位、benchmark、独立原型各有多大权重？
+2. **Promotion Selectors / 晋升选择器：** 已知问题的交付、数字绩效、跨角色协调、玩家证据处理、主动推翻错误前提、预测校准，哪些获得晋升？必须把现岗位优秀与拟晋升岗位优秀分开。
+3. **Decision Rights / 决策授权：** 谁可以改变目标、延期定案、采购证据、资助低成本验证、撤回承诺、承认无知？将名义上的“可以提建议”和实际预算/否决权分开。
+4. **Reproduction / 制度复制：** 晋升者是否重写招聘规则、会议流程、绿灯表和绩效表？同一人/组织在6、12、24个月后是否增加了同类型人才的录取率、存留率与权力集中度？
+
+连接032第29节的**信息时间价值**审计：不以会议快慢作为质量代理。必须同时记录问题紧迫度、研究劳动小时、信息可改善性、决策可逆性、方向性返工与原型后的玩家反馈。
+
+### 3.6.4 可证伪设计：要追学校—企业—主管队列，不要只找成功者采访
+
+**研究单元:** `candidate → hire → work task → promotion → decision right → policy change → next candidate` 的连续记录；优先使用同公司跨团队、同专业不同管理者与同教育出身不同业余maker前史的匹配样本。
+
+**最小观测方案（不是已完成）：**
+- A. 取得一组有通过/淘汰名单的产品策划或游戏设计招聘样本，不只读被录用者故事；
+- B. 收集同组织真实绿色通道/否决提案与后续可玩物的记录，追 `DECISION-RIGHT GRANT` 和 `TIME-TO-PLAYER-TRUTH`；
+- C. 对不同资历的候选管理者执行[032第29节](../../country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)的`exam tempo / research first / time-matched`实验，盲评问题定义质量、反证整合、决策成本与校准；
+- D. 观察获权后是否改变下一轮组织的招聘/会议/研发规则，而不是把一次个人高分叫“组织转型成功”；
+- E. 加入中国同类型不同管理制度、以及韩国/美国等相近产业组织的并行样本，不以国名替代处理变量。
+
+**反驳条件：** 若公司在同样学历与岗位结构下，实际持续奖励擅长发现问题/推翻目标者并赋予足额决策权；若管理者原有教育类型无法预测开放决策，而岗位激励能解释大部分变异；若快速决策因信息价值低/决策可逆性高而明显更优；若高标准考试者表现出同等甚至更好的开放研究与组织重构，则须削弱“应试→组织复制”强因果说法。
+
+**目前Verdict:** `SUPPORTED` 的是一般行业内“现岗位业绩和管理潜能可能错配”“招聘可能再生产文化标准”“组织学习需要安全的质疑机制”；`H / PARTIAL` 的是这些路径在中国游戏公司出现的频率、是否大于其他国家、以及究竟由教育还是公司内部激励产生的效应。
+
+**新增优先级:** 本节不再采集泛泛“年轻人不敢提问”的截图。优先找已有决策权的管理者**何时、怎样改变下一代人的选择器**；否则再多描述一百个“会议像考试”也无法证明代际再生产。
+
+---
+
 # 四、三层闭环：英雄如何在出发前被优化掉
 
 最重要的综合不是“三个坏东西相加”，而是：
