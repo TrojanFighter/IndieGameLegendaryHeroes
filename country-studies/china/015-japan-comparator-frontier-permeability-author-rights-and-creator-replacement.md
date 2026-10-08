@@ -4,6 +4,7 @@
 - Status: **SYNTHESIS / MECHANISM COMPARISON / HYPOTHESIS-BUILDING / NOT A NATIONAL-CHARACTER CLAIM**
 - As-of: 2026-10-08
 - Japan comparator: [日本WEIRD反例与作者生态](../japan/001-japan-east-asian-counterexample-weird-kinship-and-game-creator-ecology.md)
+- 2026 external entry comparator: [台湾018 东亚立项前作者支持与全球产品管线](../taiwan/018-east-asian-pre-greenlight-author-support-and-global-premium-proxy.md)；记录讲谈社2026月奖的作者概念→担当编辑→有条件试制金，作为企业内部作者权以外的日本第三条路径，不能把其历史资金条款当成当下条款。
 - China foundations: [009 中国游戏雇员创造性劳动](009-china-gameworker-creative-subjectivity-fieldwork-2017-2026.md) / [010 NExT立项权](010-next-studios-greenlight-rights-governance-lifecycle-2017-2024.md) / [012 Full-cycle Team Density](012-full-cycle-authoring-team-supply-proxy-china-vs-comparators.md) / [014 DeepSeek正向偏离](014-liang-wenfeng-deepseek-positive-deviant-innovation-organization.md)
 - Industry lineage: [中国游戏产业前史](../../book/research-notes/china-game-industry-prehistory-002.md) / [商业制度谱系](../../book/research-notes/china-game-commercial-regime-lineage-003.md) / [双层环境与能力迁移](../../book/research-notes/china-indie-dual-environment-capability-transfer-004.md) / [玩家×从业者代际](../../book/research-notes/china-player-worker-generations-009.md) / [能力重新定价](../../book/research-notes/china-capability-repricing-black-myth-sultan-013.md)
 - Boundary: 本文比较的是**作者权、资源权、失败权、退出与重组通道**，不是“中国人 vs 日本人谁更有创造力”。所有宏观差异命题必须保留组内反例与分母缺口。
