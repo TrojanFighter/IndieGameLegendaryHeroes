@@ -65,6 +65,8 @@ PUBG / Brendan Greene 因此连接了 indie production 与 industrial-scale inno
 
 - [Innovation Constitutionalism：Exit / Voice / Loyalty 与创新中的判断主权](innovation-constitutionalism-exit-voice-loyalty-001.md) — 用 Hirschman 的 Exit / Voice / Loyalty 把 Grove 的内部异议、Christensen 的替代选择系统、early id 的退出与无许可验证、Nintendo 的内部原型权放进同一纠错框架；提出 CREDIBLE EXIT + EFFECTIVE VOICE + REVOCABLE LOYALTY、PERMISSIONED INDIVIDUALISM、PERMISSIONLESS VALIDATION 与 Innovation Rights Stack 2.0，并明确美国同样存在层级、竞业、阶级与沉默边界。
 
+- [Judgment Under Uncertainty：March / Simon / Knight / Hayek / Buxton 理论栈](judgment-under-uncertainty-theory-stack-001.md) — 把 exploration/exploitation、bounded rationality、Knightian uncertainty、dispersed local knowledge 与多方案prototype放入同一前范式决策链；回答为什么旧答案会获得资源优势、为什么数据不能消灭真正未知、为什么中央指标不能替代局部知识，以及为什么 Compare Before Commit 比过早精炼唯一方案更可靠。
+
 ### 统一分析模板
 
 每个跨行业人物 / 组织至少回答：
