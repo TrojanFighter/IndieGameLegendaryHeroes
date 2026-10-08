@@ -55,6 +55,12 @@
 
 [上海交大／StudioGM／云母组人物史](../../country-studies/china/sjtu-acg-peer-network-career-histories-2005-2026.md) 已新增 **2016触乐同时采访姚蒙、羽中双方的原始证言**：2008同人论坛→2013《面包房少女》实际PC战棋交付→2015 100万元发行/股权合作→2016服务器三测崩溃、修改设计需三个月/新资金、协议/渠道/第三方资本争议→两家公司分裂；2013 Bangumi 旧作credits识别未成名贡献者。与Krank/KranX/KD Vision、Klimov/Snowball、Gusarov/发行商争议做**四变量严格配对：原型与交付、money+IP+distribution rights、产能与技术债、断裂后人员/技能留存**。不以人际“背叛”粉丝传闻代替同期双边证词。
 
+### 2026-10-08 P0：中国像素证券申报与俄方合同权利的可测匹配
+
+新增[像素软件2003—2016证据账](../../country-studies/china/pixel-software-2003-2016-online-pivot-financial-rights-evidence.md)：2003制作人访谈确认联网动作是原创团队主动寻找新问题域；2016申报确认腾讯独家运营/少数股权、像素确认收入极高集中度、2014《刀剑2》项目毛利为负及大额无形资产减值；这不是腾讯直接干预玩法的证据。俄侧优先找**K-D LAB—1C、KranX—1C**发行合同的预付与预算负担、开发者修改权、源代码/IP/终止与利润分配、分工作室以后作者/核心程序后续5/10年复利；不把俄国回顾性成功叙事当财务表。
+
+
+
 ## C. 设计与人物谱系待核
 
 - Four founders：Gusarov—Krank—Klimov—Orlovskiy 每人 **第一次赚钱、第一次商业交付、第一次项目崩盘、商业模式变化、治理/控制权代价**，并做 20 年时间轴。
