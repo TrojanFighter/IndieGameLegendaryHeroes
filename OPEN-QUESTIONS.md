@@ -393,6 +393,19 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 
 ---
 
+
+## P1 — Historical Decision Education / Archival Curriculum
+
+### OQ-020｜原始党史资料如何转化成真正可训练的目标与决策教育？
+**Status:** `PARTIAL` — `17 SOURCE CLUSTERS IDENTIFIED / THREE PEDAGOGICAL PILOTS / CROSS-SOURCE PACKETS + OUTCOME STUDY OPEN`  
+**Evidence in repo:** [中国035 党史原始材料与八讲课程](country-studies/china/035-party-history-original-sources-decision-education-curriculum.md)、[中国034 认识论规训](country-studies/china/034-epistemic-discipline-authority-legacy-and-knowledge-aversion.md)、[中国032 应试过拟合](country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)。已找到1941中央调查研究决定、1930《反对本本主义》、1935陈云手稿、1941李鼎铭提案、1948淮海电报等高价值入口；**很多只是后世出版转录、原文摘录或研究报道，不是已核完所有档案和反方的成熟案例。**  
+**Unresolved core:** 同期军事/政治材料如何剔除后验成功叙事、如何补反对方和民众成本；同一作者的“反教条”方法为何未保证组织以后不犯严重错误；史料决策教学能否超越背诵法并迁移到真实人生选择仍未知。  
+**Closure condition:** (1) 至少4个覆盖原始时间节点、反方、档案版本、后果和人道代价的双面教学包；(2) 一组失败/错误决策案例；(3) 同期文献与后编选集的版本差异校勘；(4) 以相同时长、同背景学生比较“表彰摘要 vs 史料盲化案例”的延迟迁移/自愿阅读/独立方案指标，并公开无效结果。  
+**Suggested route:** 中国035材料与教学目录主责；1941调查、李鼎铭缩编、淮海9/24–25往返电报优先，1959–61组织纠错作负例，陈云遵义手稿用于来源鉴定；中国034提供避免说教式教学自我复制的伦理与方法约束。  
+**No unwarranted conclusions:** 一段伟人指示≠现代MBA实效；党史原始材料不等于所有官方解释正确；军事组织方法不自动正当化民用组织的强制/权力集中；优秀个案≠国别发生率。
+
+---
+
 ## Usage
 
 其他对话领取问题时应：
