@@ -62,8 +62,8 @@
 
 ## 3. 教育与社会化主轴
 
-- [`031 — Education × East-Asian Discipline × Reference Repertoire`](031-education-east-asian-discipline-reference-repertoire.md)：把游戏阅历/广泛阅读不足前移到教育与家庭社会化，研究 `SELF-EDUCATION SOVEREIGNTY / UTILITY-JUSTIFICATION TAX / DISCRETIONARY-TIME CAPTURE / GAME-REFERENCE ACQUISITION TAX / DISCIPLINE × ESCAPE INSTITUTIONS`。
-- [`032 — Exam Overfit`](032-exam-overfit-routine-expertise-open-domain-transfer.md)：把“中国好学生综合征”统一到 `EXAM-OVERFIT / ROUTINE EXPERTISE / CLOSED-DOMAIN TRANSFER ERROR`，连接会议考试化、立项冻结、benchmark答案册、scale-down缺失与开放问题迁移失败。
+- [`031 — Education × East-Asian Discipline × Reference Repertoire`](031-education-east-asian-discipline-reference-repertoire.md)：把游戏阅历/广泛阅读不足前移到教育与家庭社会化，研究 `SELF-EDUCATION SOVEREIGNTY / UTILITY-JUSTIFICATION TAX / DISCRETIONARY-TIME CAPTURE / GAME-REFERENCE ACQUISITION TAX / DISCIPLINE × ESCAPE INSTITUTIONS`；第16节补入 **认识论规训／继承评价权但未继承判断力（超人遗制）／说教污染知识载体** 三项作者H及证据边界。
+- [`032 — Exam Overfit`](032-exam-overfit-routine-expertise-open-domain-transfer.md)：把“中国好学生综合征”统一到 `EXAM-OVERFIT / ROUTINE EXPERTISE / CLOSED-DOMAIN TRANSFER ERROR`，连接会议考试化、立项冻结、benchmark答案册、scale-down缺失与开放问题迁移失败；第28节提出 **目标与决策教育／党史等原始史料的历史决策案例／先入局再揭答案**，以真实任务训练目标生成、信息核验和不确定决策，教学收益仍待验证。
 
 需要把“规训”“标准答案”“怕犯错”“不容异类”拆成可研究的问题：
 - 高风险考试与 credential sorting 是否强化 answer-seeking；
