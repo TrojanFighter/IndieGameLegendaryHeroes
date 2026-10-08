@@ -1,5 +1,7 @@
 # 按主创者能力进入｜你手里已经有什么？
 
+> **新增跨出身人物分诊（2026-10-08）**：如果你已经有非游戏本职、技术美术、嵌入式程序或评论/游戏阅历，却担心“必须先辞职/补齐所有能力/拿到专业策划头衔”才能做出自己的题目，优先读[054 五作者生计与scope抉择](research-notes/creator-exit-scope-five-biographies-china-us-054.md)，再分流[053 希罗×亚恒同期人物史](research-notes/ciga-heero-akaba-two-creator-life-crossroads-053.md)、[Gunpoint](profiles/gunpoint.md)、[The First Tree](profiles/david-wehle-first-tree.md)和[early id](profiles/early-id-doom.md)。这些是**个体机制**，不代表中美同职业总体机会率。
+
 © 2026 洪荒行者。All Rights Reserved.
 
 这不是性格测试，也不是“什么职业最适合做独立游戏”。
