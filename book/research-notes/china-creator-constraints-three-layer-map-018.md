@@ -504,6 +504,176 @@ MAKER-TO-CAREER CONVERSION
 本节状态：**H / COHORT-SENSITIVE UPDATE**。现有公开资料支持“maker infrastructure 正扩张”和“韩国较早系统化人才管道研究”，不支持中韩美 PPAD 均值的直接排名。
 
 
+
+
+## 1.3.8 Pilot 0：31 人学生 maker 子样本 + 韩/中 feeder cohort 的可比性边界
+
+为避免继续用名人传记代替分母，本轮先做一个 **feasibility pilot**，目的不是给中美韩排名，而是验证 PPAD / maker-to-career 指标是否能从公开数据中稳定取得。
+
+### A. 美国子样本：CMU Game Creation Society 2019–2022 届 31 名公开成员
+
+GCS 公开成员页为 2019–2022 四届共列出 31 名 alumni。每个成员页可列出其参与的 GCS games，因此可以建立一个最小的、成员级 artifact-count proxy。
+
+按公开页面直接计数“该成员页列出的 GCS Games”：
+
+- n = 31；
+- 总计 188 个 member-project participations；
+- mean = **6.1 个/人**；
+- median = **5 个/人**；
+- IQR 约 **2–10 个/人**；
+- 26/31（约 84%）页面至少列出 2 个项目；
+- 16/31（约 52%）至少列出 5 个；
+- 12/31（约 39%）至少列出 8 个。
+
+四届分布并不稳定：
+- 2019 届 4 人，均值 2.5；
+- 2020 届 8 人，均值 5.9；
+- 2021 届 11 人，均值 7.5；
+- 2022 届 8 人，均值 6.1。
+
+这不是“美国大学生平均做 6 个游戏”。样本高度自选择：
+- GCS 本身就是 maker club；
+- 成员名册明确仍在补录，可能漏人；
+- 个别页面更新到毕业后，可能包含毕业当年或之后的项目；
+- 页面只统计 GCS 项目，漏掉个人、课程、实习、mod 和校外 jam；
+- 参与项目不等于独立主导项目，也不等于全部完成度一致。
+
+因此这个数字只能被编码为：
+
+> **HIGH-INTENSITY STUDENT MAKER SUBCOHORT / 高强度学生制作者子样本**
+
+而不能外推美国全国 PPAD。
+
+但它证明了一件此前只能靠人物传记描述的事：一个学生 feeder ecology 确实可以让相当一批人在进入稳定职业以前累计多轮 artifact production、jam、mod 和团队协作，而不是只完成一次 capstone。
+
+Sources:
+- GCS Members index: https://www.gamecreation.org/members
+- GCS About / 10-week production cycle: https://www.gamecreation.org/about
+- GCS FAQ / completed-project requirement for resume book: https://www.gamecreation.org/FAQ
+
+### B. 韩国 cohort：Game Institute 给出“制作训练 → 就业”的完整机构链，但缺 individual PPAD
+
+韩国 KOCCA Game Institute 的公开招生/业务资料提供另一种类型的数据：
+- 每期当前招生规模 120 人（企划 30、艺术 40、程序 50）；
+- 2 年、8 学期、全日制；
+- 第一年明确进行 mini projects；
+- 第二年按接近真实游戏公司的方式进行 team projects；
+- 第一届（2021年8月毕业）公开就业率 **75%**；
+- 第二届（2022年8月毕业）公开就业率 **77.4%**；
+- 2024 年又把 5 期毕业作品中的 8 款带到 G-STAR 做现场玩家体验和评价。
+
+这比单纯“韩国有很多游戏专业”更有价值，因为它把：
+**training cohort → repeated project production → public playtest → employment**
+连接在一条制度链里。
+
+但它仍不能回答：
+- 学员进入 Game Institute **之前**已经做过几个 artifact；
+- 每个学员第一年到底做了几个 mini projects；
+- 75% / 77.4% 就业中多少进入 game-development roles；
+- 入职后是否继续保留 authorial thread。
+
+因此它适合测 **institutional maker exposure + career conversion**，不适合直接与 GCS 的 member-project count 比 PPAD 均值。
+
+Sources:
+- KOCCA 2023 business guide / Game Institute cohort and employment rates: https://www.kocca.kr/download/cop/kocca_business_2023_v1.pdf
+- KOCCA 2024 business guide / two-year mini-project + team-project curriculum: https://www.kocca.kr/download/cop/kocca_business_2024_v1.pdf
+- KOCCA / G-STAR 2024 graduate-project exhibition: https://welcon.kocca.kr/ko/info/business/1954405
+
+### C. 中国 cohort：2024 已有大规模 participant→artifact 数据，但 career conversion 仍缺失
+
+吉比特 2024 年年报提供目前最清楚的高校 maker aggregate：
+- “未来游戏制作人大赛”吸引境内外 **600+ 高校**；
+- **2,000+** 高校游戏开发者；
+- 形成 **300+** 游戏创意作品；
+- 高校游戏开发联盟到 2024 年末 **6,000+ 成员**；
+- 覆盖 **600+ 高校、120 个游戏开发社团**；
+- 同时有暑期实训、Game Jam、线下试玩与行业人员指导。
+
+这已经足够证明 2020s 中期中国存在数千人级的学生 maker feeder。
+
+但公开数据目前主要停在：
+**参加 → 产出作品**
+
+而不是：
+**参加 → 每人累计多少 artifact → 第一份行业工作 → 入职岗位 → 是否继续 authorial thread**。
+
+如果把 2,000+ 开发者与 300+ 作品机械相除，最多只能得到约 6–7 人/作品的粗略 team-size quantity；由于参与者是否重复、一个人是否参与多个作品、作品是否全部 playable 等口径未知，不应把它解释成个人 artifact density。
+
+Source:
+- 吉比特 2024 年年度报告（HTML镜像）：https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?id=10812923&stockid=603444
+
+### D. Pilot 0 的真正结果：公开数据的 measurement regime 不同
+
+当前三类公开生态分别更容易测：
+
+| Feeder | 当前公开数据最强项 | 当前最大缺口 |
+|---|---|---|
+| CMU GCS / 美国局部 maker club | individual → repeated projects | 全国代表性、career conversion |
+| KOCCA Game Institute / 韩国 | fixed cohort → project curriculum → employment | 入学前 PPAD、个人项目数量 |
+| 吉比特高校联盟 / 中国 | large participant base → works → school coverage | longitudinal career conversion、个人 repeated-making intensity |
+
+因此现在不能把这三组直接做“谁均值最高”的表。
+
+但 Pilot 0 已验证：**PPAD 不是不可测概念，只是需要统一采样。**
+
+### E. 对正式 30–50 人 pilot 的方法修正
+
+与其继续随机搜简历，正式 pilot 应固定一个共同的 observation unit：
+
+> **首次进入职业游戏开发前 12 个月内的人。**
+
+每个地区先 n=30–50，并只编码能由本人公开 portfolio / official team page / interview / resume 直接确认的字段：
+
+1. first-job year；
+2. first-artifact year；
+3. completed playable artifacts before first full-time game job；
+4. jams / mods / UGC；
+5. self-directed artifacts；
+6. school-assigned artifacts；
+7. public player feedback before first job；
+8. game-development club participation；
+9. game-development internship；
+10. current / first role。
+
+无法确认一律记 UNKNOWN，不从“会 Unity”“读游戏专业”“参加社团”推断完成过作品。
+
+### F. 一个新的研究警告：PUBLIC-PORTFOLIO VISIBILITY BIAS
+
+美国 GCS 型样本特别容易留下：
+- 个人网站；
+- itch / GitHub；
+- 成员页；
+- resume book；
+- 游戏下载。
+
+而其他生态可能同样做过作品，但没有长期公开索引。
+
+因此：
+
+> **公开可见 artifact 数 ≠ 实际 artifact 数。**
+
+国别比较若只靠搜索引擎，很容易把“更善于公开 portfolio”误判成“做得更多”。
+
+正式 pilot 必须给每个样本增加：
+- PUBLIC_PORTFOLIO_PRESENT；
+- SOURCE_COMPLETENESS；
+- ARTIFACT_COUNT_LOWER_BOUND。
+
+因此本轮 31 人 CMU 数字只记为 **公开下限**。
+
+### G. Pilot 0 当前判断
+
+目前可以说：
+
+1. 一个成熟学生 maker 社群能够让核心成员在毕业前后累积多轮可玩作品；31 人 CMU 子样本的公开项目参与中位数为 5。
+2. 韩国已经存在能公开追踪“项目制训练 → 就业”的国家级 feeder cohort。
+3. 中国到 2024 年已有数千人、数百作品级的高校 maker pipeline，但公开 longitudinal conversion 数据明显不足。
+4. 因此“送进大厂的材料是否不同”已经可以被操作化，但**尚未被跨国数据证明**。
+5. 下一步的瓶颈已经不是理论，而是统一 observation unit 和 primary / portfolio data collection。
+
+Status: **PILOT / METHOD VALIDATED / COUNTRY COMPARISON NOT YET IDENTIFIED**.
+
+
 ## 1.4 对独立开发者真正重要的教育层变量
 
 后续案例统一编码：
