@@ -207,7 +207,7 @@ Kenny Sun 补的是另一条风险相反的路径：不要把当前职业标签�
 优先看：
 - [Kenshi / Chris Hunt](profiles/kenshi.md)
 - [FTL / Subset](profiles/ftl.md)
-- [Stardew Valley](../cases/CASE-004-stardew-valley.md)
+- [Stardew Valley / Eric Barone人物稿](profiles/stardew-valley.md) — 项目内学习、个人核心制作与生活/发行支持；[研究档案](../cases/CASE-004-stardew-valley.md)。
 - [CASE-042 The First Tree / David Wehle](../cases/CASE-042-the-first-tree.md) — 作为“偏科但覆盖多工种”的正式研究对照。
 
 核心问题：

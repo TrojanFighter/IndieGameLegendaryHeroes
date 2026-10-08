@@ -291,7 +291,7 @@ Kickstarter之前，FTL的两位创作者已有职业经验，先用储蓄留出
 
 # 想继续读什么？
 
-目前已有十一篇 reader-layer Profile，完整目录见 [人物传记索引](profiles/README.md)：
+目前已有十二篇 reader-layer Profile，完整目录见 [人物传记索引](profiles/README.md)：
 
 1. [early id / DOOM](profiles/early-id-doom.md) — 兴趣、技术创造、产品、公司与成功后的组织裂变。
 2. [Kenshi](profiles/kenshi.md) — 如何用极低现金流购买极长时间。
@@ -304,6 +304,7 @@ Kickstarter之前，FTL的两位创作者已有职业经验，先用储蓄留出
 9. [Zach Barth / Zachtronics](profiles/zach-barth-zachtronics.md) — 把最擅长的工程谜题做成品牌，以及品牌何时变成路径限制。
 10. [Josh Parnell / Limit Theory](profiles/josh-parnell-limit-theory.md) — 六年真实工程进步和没有完成的游戏承诺如何并存。
 11. [Question / The Magic Circle → The Blackout Club](profiles/question-magic-circle-blackout-club.md) — 完成作品却不足以维持原经营预期，工作室怎样改变下一作而非解散。
+12. [Eric Barone / Stardew Valley](profiles/stardew-valley.md) — 项目内学习、生活收入与发售前后贡献边界。
 
 如果你已经读完这些，或者你本来就是研究者，再进入：
 
