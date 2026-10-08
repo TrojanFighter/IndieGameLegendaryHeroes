@@ -1083,6 +1083,164 @@ next-project transformation capability
 - organizational repeatability。
 
 
+### 9.22 FAILURE CAPITAL RETENTION：失败是否被组织资产化
+
+高 T 组织不只需要“敢失败”，还需要把失败转成下一轮可复用能力。
+
+因此新增区分：
+
+# `FAILURE OCCURRENCE`
+项目是否失败 / pivot / cancel。
+
+与：
+
+# `FAILURE CAPITAL RETENTION`
+失败产生的人员经验、thesis knowledge、prototype insight、tooling 与组织判断是否被保留并进入下一轮。
+
+Riot R&D 提供一个强公开样本：
+
+- Game Zebra 在约50人、Pre-Production阶段被决定 reboot；
+- 新核心团队缩到12人；
+- Riot 公开记录最终约90%的原团队成员被重新安置 / 留在公司体系；
+- 官方明确把 pause / pivot / cancel 视为 R&D 成功的一部分；
+- R&D Engineering 文档又明确说，early learnings 不应消失，不同项目会共享早期迭代知识，并复用已经解决的技术能力。
+
+Sources:
+https://www.riotgames.com/en/r-and-d-office/game-over-good-game  
+https://www.riotgames.com/en/r-and-d-office/engineering-in-riot-r-d
+
+这说明至少在 Riot 的公开制度设计中：
+
+```text
+project death
+≠
+team / knowledge death
+```
+
+### 9.23 为什么这件事在 project-based creative industries 特别重要
+
+2025 *International Journal of Project Management* 对美国电影业项目型公司研究指出：
+- 临时、项目制团队在项目结束后容易解散；
+- 这种 discontinuity 会限制组织从失败中保留知识；
+- 项目失败后企业反而可能降低 exploration；
+- 既有专业经验可以缓解这种风险厌恶。
+
+Source:
+https://www.sciencedirect.com/science/article/pii/S0263786325000389
+
+2023 对 organizational member turnover 导致 knowledge loss 的系统综述汇总91项经验研究，也说明人员流动可能带走 firm-specific knowledge。
+
+Source:
+https://www.sciencedirect.com/org/science/article/pii/S0969647423000587
+
+因此游戏业的一个重要组织问题是：
+
+> **失败发生以后，学习究竟留在“个人简历”里，还是留在“公司下一次研发能力”里？**
+
+两者不能混为一谈。
+
+### 9.24 EXPERIMENT COMPOUNDING LOOP
+
+由 global feedback、failure learning 与 team continuity 合并后，暂形成：
+
+```text
+non-consensus thesis
+→ cheap experiment
+→ player / market falsification
+→ informative success or failure
+→ retain people / team / knowledge
+→ transfer lessons across projects
+→ next thesis formed from a richer prior
+→ another experiment
+```
+
+这里真正产生复利的不是“失败次数”，而是：
+
+# `RETAINED LEARNING CYCLES`
+
+如果每次失败都：
+- 团队解散；
+- 核心成员离职；
+- 项目资料无人再用；
+- 失败被当成职业污点；
+- 下一支团队从零开始；
+
+那么企业可以投入很多 R&D，却没有形成组织复利。
+
+反过来，一个项目即使被砍，只要：
+- 人留得住；
+- lessons 能跨项目传播；
+- 核心团队仍有 second attempt；
+- common tech / tools 被复用；
+
+它仍可能提高下一轮 T-capability。
+
+### 9.25 美国 comparator 的两个不同“记忆载体”
+
+#### Riot：departmental memory
+Riot R&D 公开设计是：
+- 人属于整个 R&D department，而不只是单一项目；
+- 被 pivot / cancel 后尽量转入其他项目；
+- 产品间共享早期 learnings 与 common technology。
+
+因此它更接近：
+
+# `ORGANIZATIONAL MEMORY THROUGH REDEPLOYMENT`
+
+#### Respawn：core-team memory
+Apex 两周年回顾中，Game Director Chad Grenier 说明自己自 2010 Respawn 成立起就在团队，并经历 Titanfall / Titanfall 2 / Apex；Apex 的 Survival prototype 就发生在 Titanfall 2 发售后团队持续试验新模式的过程中。
+
+Source:
+https://www.ea.com/games/apex-legends/apex-legends/news/two-years-of-apex-legends
+
+这更接近：
+
+# `ORGANIZATIONAL MEMORY THROUGH TEAM CONTINUITY`
+
+两种路线都可能产生 retained learning，但载体不同：
+- 部门 / 流程 / shared tech；
+- 长期共同工作的核心团队。
+
+### 9.26 中国比较：当前最重要的是“证据缺口”，不是预设负面结论
+
+中国现有材料已经能看到：
+- NExT 有反复 proposal / Demo / Review / 缩队回炉；
+- miHoYo 有《崩坏3》海外运营经验进入《原神》全球同步组织方式的公开学习链；
+- NetEase 开始通过内部团队、全球 studio portfolio、GDC 分享等形成跨项目知识接口。
+
+但目前公开证据仍不足以像 Riot Zebra 那样回答：
+- 被砍项目成员有多少被组织重新部署；
+- 失败团队多久获得 second attempt；
+- 哪些 design lessons 被下一项目直接继承；
+- 关键核心团队在多次失败 / 成功之间的人员连续率；
+- 项目取消是否导致 know-how 外流。
+
+因此当前只提出：
+
+# `ORGANIZATIONAL LEARNING HALF-LIFE HYPOTHESIS`
+
+> **中美 T-repeatability 的差异，可能部分来自“失败 / 市场反馈所产生的组织知识能保存多久”。**
+
+它必须用项目取消、人员流动、团队重组和下一项目 genealogy 数据检验，不能从“中国员工流动大”之类印象直接升级。
+
+### 9.27 新增可编码字段
+
+- `POST_FAILURE_TALENT_RETENTION`：项目 pivot / cancel 后核心成员是否留在组织；
+- `CORE_TEAM_CONTINUITY`：连续项目中核心团队重叠程度；
+- `CROSS_PROJECT_KNOWLEDGE_TRANSFER`：是否有明确机制把 lessons 传给其他项目；
+- `SECOND_ATTEMPT_LATENCY`：失败后核心作者 / 团队多久能再次拿到真实项目权；
+- `FAILED_THESIS_TRACE`：下一项目是否能看到前一失败假设的修正痕迹；
+- `SHARED_TECH_REUSE`：失败项目形成的工具 / tech 是否留下；
+- `LEARNING_CARRIER`：知识主要保存在个人、稳定team、R&D department、central tech、postmortem archive，还是 UNKNOWN。
+
+这组字段与 PTR / ORR 互补：
+
+```text
+PTR tells us how often T appears.
+Learning retention tells us why T may compound.
+```
+
+
 ## 10. 数量级审计指标
 
 暂不把它们机械合成为一个总分。
