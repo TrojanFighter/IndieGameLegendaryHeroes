@@ -67,7 +67,7 @@ Project Fair是完整的展示/对接母体，不是按公司年龄筛选的“�
 | Clidea | UNKNOWN | 待核 | UNKNOWN | UNKNOWN |
 | MindLink Studio | 乌克兰/Kyiv | 2009报道明确项目停止、工作室事实上停止存在 | **NO** | **NO** |
 | Parallax Arts | 俄罗斯/St Petersburg | 2005—07多款PC项目；《Exodus from the Earth》2008正式商业发行；随后停止活动 | **YES (2008 release)** | **NO CONFIRMED** |
-| Spector Studio | 乌克兰/Kyiv | 2004《五个月亮世界》仍pre-production；后续待核 | UNKNOWN | UNKNOWN |
+| Spector Studio | 乌克兰/Kyiv | 2004《五个月亮世界》pre-production；2005仍在完成《Свободу попугаям》，1C页面确认2006-01正式发行 | ACTIVE THROUGH 2005/06; 2009 UNKNOWN | UNKNOWN |
 | Crazy House | 乌克兰/Kharkiv | 2004游戏/项目；后续品牌资料零散 | UNKNOWN | UNKNOWN |
 | Alawar Entertainment | 俄罗斯/Novosibirsk | 2008—10持续casual PC并并购工作室 | **YES** | **YES** |
 | Eagle Dynamics | 俄罗斯/Moscow | 2008 DCS: Black Shark→2011 A-10C→DCS长期线 | **YES** | **YES** |
@@ -496,3 +496,59 @@ Viktor Reutsky在2001《Hover Ace》中已经有AI/Physics Programmer credit，�
 https://www.mobygames.com/game/50029/hover-ace/credits/windows/
 
 因此后续新人研究仍需坚持LN/TN/PDN，不把“新公司”当成“全新人才”。
+
+
+## 十二、Ghost Software：7人专业开发credits的人员留存下界
+
+《Sea Wolves》(2004)公开credits固定7名专业开发角色：
+1. Aleksander Grigoriev — Project Director / Concept / Design
+2. Rustem Sitdikov — Concept / Design / Programmer
+3. Nikolay Nasonov — Artist
+4. Yevgeny Dlinnov — Artist
+5. Sergey Burlakov — Artist
+6. Aleksey Smirnoff — Artist
+7. Vasily Kharahoniko — Music / Sound
+
+Ghost Software公开公司页目前只记录这一款游戏，因此组织层2009 active-development仍为UNKNOWN，不能由credits断裂直接记NO。
+
+目前可无争议追到：
+- **Yevgeny Dlinnov**：2006《Heroes of Might and Magic V》2D Art/Texture、《Planet Alcatraz》2D Graphics；2014《Prime World》Graphics。
+
+因此以2004固定7人专业credits为分母：
+> **2014 game-development retention confirmed lower bound = 1 / 7 = 14.3%**
+
+其余6人目前全部记UNKNOWN，不记退出。
+
+来源：
+- Sea Wolves credits：https://www.mobygames.com/game/25927/sea-wolves/credits/
+- Ghost Software：https://www.mobygames.com/company/9030/ghost-software/
+- Yevgeny Dlinnov：https://www.mobygames.com/person/164687/yevgeny-dlinnov/
+- Prime World credits：https://www.mobygames.com/game/65344/prime-world/credits/windows/
+
+### 解释边界
+Ghost再次显示：
+> organization visibility loss ≠ zero people retention
+
+但1/7只是公开credits可确认下界，不能拿来和Sigma的4/4直接平均：
+- Sigma是同系列团队credits的高可见幸存者；
+- Ghost是沉寂组织，成员后续可能改名、转公司或未被数据库记录；
+- 不同项目credits完整度不同。
+
+因此跨团队PRR必须等每队使用相同角色抽样规则后再汇总。
+
+
+## 十三、Spector：确认至少持续开发到2006，但2009仍UNKNOWN
+
+2004材料显示Spector的《Five Moons》自2003年11月进入pre-production；2005同期报道又称Spector正在完成另一项目《Свободу попугаям》。1C发行页面确认该作开发者为Spector Studio，并于2006-01-31发行。
+
+因此Spector的严格状态应改为：
+- 2004 newcomer eligibility：YES（2001成立，2004约3年）
+- 2005/06 active development：**YES**
+- 2009 active development：**UNKNOWN**
+
+不能因为2006有发行就把它算作CMR-5成功，也不能因为2009搜不到就算失败。
+
+来源：
+- 2004项目背景：https://www.ggmania.com/full.php3?show=five-moons-interview-5717
+- 2005仍在开发：https://www.dpk.com.ua/2005/08/27/18615/
+- 1C 2006发行：https://1c.ru/news/info.jsp?id=5792
