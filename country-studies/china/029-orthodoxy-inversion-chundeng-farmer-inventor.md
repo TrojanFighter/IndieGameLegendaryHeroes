@@ -159,6 +159,18 @@ AI 可以让过去无法实现的美术、代码、内容变便宜，却不自�
 
 ---
 
+### 9.1 超人遗制在“判断权—评价权”上的分离
+
+作者2026-10-08提出`INHERITED VERDICT WITHOUT INHERITED JUDGMENT`：开创者曾在未知问题中形成判断，后来者可以继承由其经验沉淀的规则与评价/否决权，却未必经历同等的开放决策训练。这是[中国031 第16节](031-education-east-asian-discipline-reference-repertoire.md)的`认识论规训 / 超人遗制`与[中国032 第28节](032-exam-overfit-routine-expertise-open-domain-transfer.md)的`目标与历史决策教育`在产业中的候选连接点。
+
+```text
+一次真实发现 → 可复用规范 → 人才与项目审查权
+→ 容易将符合旧规范误认成“仍有发现新事物的能力”
+→ 拒绝陌生原型 → 新发现的训练与入场机会缩减
+```
+
+此处的“超人”是用户原有理论中的历史创制者角色，不是对现实人物智商/出身的评等。关键可测量差异是`PAST RULE PROFICIENCY`、`OPEN-DOMAIN DECISION TRACK RECORD`、`GREENLIGHT/VETO RIGHTS`。规范继承也可能保护产业经验、避免代际遗忘；一位经理拒绝一款游戏并不自动证明其缺乏判断力。必须收集通过/未通过项目池、当时可得信息及持续校准结果，尤其不能以少量著名原创者当全国分母。
+
 ## 10. 防止理论自身春登化
 
 本研究最容易出现的错误，是把“Hacker、原创、Scale Down”也变成不容推翻的身份标签。必须允许：
