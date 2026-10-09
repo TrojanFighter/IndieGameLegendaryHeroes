@@ -1676,6 +1676,22 @@ NEXT INTAKE COHORT / 下一批从业者
 
 ---
 
+## 3.7 Confidence-based Authority Allocation：资格—自信—授权的额外错配（2026-10-09）
+
+作为 §3.6 教育→招聘→晋升→下一代评分器 的**一个特定筛选偏差**，不是再造一套三层模型。
+
+- **专业解释深度错觉**：Fisher & Keil (2016)显示强专业知识亦可伴随不准确的自我理解评估；跨到游戏产品/玩家体验的强度仍为待检验假说。https://doi.org/10.1111/cogs.12280
+- **选领导时的自信代理**：Ronay et al. (2019)五研究显示过度自信可以改善管理岗位适任印象；不能据此认定某国或游戏公司实际选拔主要如此。https://doi.org/10.1016/j.leaqua.2019.101316
+- **中国企业的反向机制**：国内互联网技术团队与其他企业观察研究显示谦逊领导、团队反思/建言、员工创新存在积极关系，尽管关系并不等于因果，且表演性谦逊可能失效。详见[中国033 §14](../../country-studies/china/033-technology-proxies-experience-demand-and-commercial-feedback.md)。
+- **新颖提案的预测力不能由职级/作者身份直接替代**：Berg (2016)的339人/13,248观众创作判断研究已在[050第13节](creator-selection-institution-comparison-050.md)与中国032§27记录，需由预注册预测与盲评测试判断，不重复录入事实。
+- **新假说**：专业荣誉与自信表达可能在缺少真实玩家证据的场景替代较难直接观察的设计判断能力；获得授权后若异议与试错权不足，既可能提升错误判断的不可逆投入，也可能继续复制偏向“快速交卷”的评价函数。
+
+后续岗位对照时记录：`WARRANTED_CONFIDENCE / UNCERTAINTY_CALIBRATION / CROSS_DOMAIN_EVIDENCE / ROLE_REAL_DECISION_RIGHTS / CORRECTION_ACCESS / CREATIVE_FORECAST_ACCURACY`。严禁把“他说我不知道”直接算创新能力、或把“会表述自信”直接算失败指标。组内现有经济激励/投资风险/经验累积的竞争解释必须保留。
+
+**研究归属**：[中国033 §14](../../country-studies/china/033-technology-proxies-experience-demand-and-commercial-feedback.md)为心理/专家证据主档；本文件只维护组织链路，[OQ-022](../../OPEN-QUESTIONS.md)为未完成定量研究，032为决策节奏实验，050为职业组织实际筛选与评审材料。
+
+---
+
 # 四、三层闭环：英雄如何在出发前被优化掉
 
 最重要的综合不是“三个坏东西相加”，而是：
