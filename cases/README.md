@@ -21,7 +21,7 @@
 | CASE-009 | Project Wingman / Sector D2 | 检验通用引擎、自学、公开 Alpha、众筹和社区协作如何支撑小团队挑战成熟品类 | RESEARCHING |
 | CASE-010 | Undertale / Toby Fox | 检验学生开发、mod/音乐社区前史、众筹与“solo”协作者边界 | RESEARCHING |
 | CASE-011 | Lethal Company / Zeekerss | 检验 Roblox/连续发售前史、迭代能力、试玩反馈与主播传播 | RESEARCHING |
-| CASE-012 | Kenshi / Lo-Fi Games | 检验夜班工作维持长期 runway、长期 solo 研发与 Early Access 扩团队 | RESEARCHING |
+| CASE-012 | Kenshi / Lo-Fi Games | 检验夜班工作维持长期 runway、长期 solo 研发、自营网站 paid alpha 与 Early Access 两段扩团队 | RESEARCHING |
 | CASE-013 | Rise of the White Sun / Maestro Cinetik | 检验极小核心如何通过系统抽象、历史研究、社群反馈与外围协作重构大战略成本 | RESEARCHING |
 | CASE-014 | Minecraft / Markus Persson → Mojang | 检验付费 Alpha、公开开发与市场—生产耦合如何制造研发 runway | RESEARCHING |
 | CASE-015 | Hollow Knight / Team Cherry | 检验家庭收入、储蓄、低地区成本、众筹、Indie Fund、工具与外围协作者如何共同支撑超范围小团队项目 | RESEARCHING |

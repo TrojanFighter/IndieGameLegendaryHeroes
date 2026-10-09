@@ -20,7 +20,7 @@ Hunt面对的开发周期长得多。按他2015年的回顾，《Kenshi》前五
 
 ## 个人工资与公司合同，保住的是什么？
 
-夜班工资先维持Hunt的个人生活。到2013年前后，《Kenshi》通过Steam Greenlight / Early Access后的收入足以支持小团队，资金才开始让他购买其他人的专业时间。个人能够继续制作与组织能够增加人手，是两个不同阶段。
+夜班工资先维持Hunt的个人生活。Greenlight之前，他已在自营网站卖alpha版本，那笔收入足以养活自己并雇佣freelancers；到2013年Steam Greenlight / Early Access之后，收入才足以支持一支小团队。个人继续制作、雇佣freelancer协作、组织增加人手，是三个阶段。
 
 Psyonix从另一种组织形态出发：公司承接work-for-hire，为客户做开发，支付账单并训练Unreal、工程与协作能力，同时保留少量原创资源。Hagewood在2016年的回顾中将这类合同描述为公司自筹发展的办法。首次车球作品SARPBC没有达到《Rocket League》后来的商业规模，团队仍有条件继续修改这个问题。
 

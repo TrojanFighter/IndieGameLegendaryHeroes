@@ -27,7 +27,7 @@
 | CASE-009 | Project Wingman / Sector D2 | PUBLIC-AUTHOR + EXTERNAL-VERIFIED | 小团队挑战成熟大厂品类、引擎/社区/众筹 |
 | CASE-010 | Undertale / Toby Fox | CHAT-RESEARCH | UGC/mod/音乐社区前史与学生开发 |
 | CASE-011 | Lethal Company / Zeekerss | PUBLIC-AUTHOR + CHAT-RESEARCH | Roblox→多次发售→Patreon/playtest；现代 OPC 爆款前史 |
-| CASE-012 | Kenshi / Lo-Fi Games | CHAT-RESEARCH + EXTERNAL-VERIFIED | 夜班工资维持多年 solo 研发，EA 收入再扩团队 |
+| CASE-012 | Kenshi / Lo-Fi Games | CHAT-RESEARCH + EXTERNAL-VERIFIED | 夜班工资维持多年 solo 研发；自营网站 alpha 先养活本人与 freelancers，EA 收入再扩团队 |
 | CASE-013 | Rise of the White Sun / Maestro Cinetik | CHAT-RESEARCH | 系统抽象、历史研究与外围协作重构大战略成本 |
 | CASE-014 | Minecraft / Markus Persson → Mojang | CHAT-RESEARCH + EXTERNAL-VERIFIED | 周末原型神话、付费 Alpha、公开开发与现金流自融资 |
 | CASE-015 | Hollow Knight / Team Cherry | CHAT-RESEARCH + EXTERNAL-VERIFIED | jam→Kickstarter；家庭收入/储蓄/低地区成本/Indie Fund 共同构成 runway |
