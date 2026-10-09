@@ -101,7 +101,7 @@ SteamDB 动态页面：[all releases](https://steamdb.info/stats/releases/)、[3
 ## 5.5 逐年数据与四生产主体分代分析（第二轮进度）
 
 - [006 — 1958—2026 69 年年度观察 CSV](006-annual-production-capability-observations.csv)／[字段字典](006-annual-observations-dictionary.md)：Steam 2D/3D 可直接对照的逐年数量，GGJ 与 UGC 的独立作者生态分母；空白是 UNKNOWN，不是零。
-- [007 — 同品类 2D/3D × 大厂／中厂／独立／作者量产的阶段审计](007-genre-production-diffusion.md)：对比 1983 Manic Miner、1984 Elite、1996 Super Mario 64、2017 A Hat in Time、2020 Pumpkin Jack、2024 UEFN 的生产尺度，附两张 SVG 图；**M 中型量产年份目前缺可靠跨项目样本，不准编造。**
+- [007 — 同品类 2D/3D × 大厂／中厂／独立／作者量产的阶段审计](007-genre-production-diffusion.md)：对比 1983 Manic Miner、1984 Elite、1996 Super Mario 64、2017 A Hat in Time、2020 Pumpkin Jack、2024 UEFN 的生产尺度，附两张 SVG 图；**M 核心中等规模已有 1991 Sonic（5→7）、1996 Crash（8）、1998 Spyro（内部署名13）案例；但中型项目的全行业量产年份仍缺跨主体分母。**
 
 ## 6. 接下来的统计缺口，按优先级
 
