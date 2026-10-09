@@ -1213,3 +1213,20 @@ fast deliverable
 
 
 第29节的实验只测量`DECISION-TEMPO / OPEN-DECISION QUALITY`，不直接证明教育到组织代际传递。涉及招聘、晋升、授权、下一代评价函数复制的假说与外部实证另见[创作者三层约束018 §3.6](../../book/research-notes/china-creator-constraints-three-layer-map-018.md)和[OQ-020](../../OPEN-QUESTIONS.md)。
+
+---
+
+## 2026-10-09 增量：从高效雇员到需要重新定义题目的老板
+
+**角色迁移失败而非职业贬低：** routine expertise 对外部目标清晰的岗位可以非常有用；当创始人、制片人或总指挥握有 `PROBLEM_DEFINITION_RIGHT`、`STOP_RIGHT` 与 `RESOURCE_ALLOCATION_RIGHT` 时，继续把原项目规格当作考题，可能放大错误成本。不能从“高学历/高分/技术强”直接判定其缺乏领导判断。
+
+新增两项应分别观察的错误：
+
+- `STATIC_TARGET_FALLACY`：自己已在进步，但对手、市场、战争态势也会进步并选择行动时机；静态“完成多少师/地图/系统”不能充当相对竞争优势。
+- `STRATEGIC_RECALIBRATION_FAILURE`：可推翻原设想的市场/敌情/性能反馈**已经出现**，组织却继续加资源做原题，不公开比较“缩scope、改技术、提前发售、转向或终止”。
+
+同时加入 **FOUNDER-ACCOUNT EVIDENCE GATE**：制作人自述能证实他持此解释，不能自动证明技术必然性、延期最优、真实账单或企业盈利；不能用后来商业成功豁免此前管理选择。匿名聊天只能提示查证方向。多案例同构**不代表**国别普遍性或强教育因果。
+
+操作化指标：`INITIAL_THESIS`、`RIVAL_STATE(t)`、`DISCONFIRMING_SIGNAL_DATE`、`DECISION_RIGHT_OWNER`、`ALTERNATIVES_TESTED`、`DELAY_BURN`、`MARKET_WINDOW_COST`、`REVISION_LATENCY`。有个例却无对照队列时，不报普遍性比例。
+
+参见 [多人游戏架构与老板决策对照](../../book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md) 和 [蒋介石抗战准备：动态竞争与再校准](../../book/research-notes/static-target-trap-chiang-and-strategic-recalibration-2026-10-09.md)。历史个案的结构类比不能直接证明现代应试教育因果。
