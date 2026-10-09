@@ -228,3 +228,11 @@ Escape from Tarkov 的市场接入同样不是“产品自己火起来”。其�
 ## 2026-10-09 Addendum — 多人局的持续义务不是自动庞氏
 
 新增[Improbable × PUBG × Party Animals × Tarkov架构与单位经济对照](../book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md)。本CASE提供了有同期公开证据的较低风险前作 `Contract Wars`、技术/团队积累和预售融资；不要将后续多年在线成本说成“所有老用户必然让买断制亏损”，亦不得用英国单一实体财报当作整个生产组织合并利润。局内临时 + 局外持久是**设计义务选择**而非神秘节省费用。实际全成本/玩家小时、PvE本地化前后账单为UNKNOWN，反过来也不能把Party Animals开发商的“同步量大”直接换算为8倍总成本。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010–17｜Contract Wars Unity Web Player。
+- **实际体验验证与进入市场的路径：** 先有商业FPS技术+现金→Battlestate→预售Alpha。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 前作并非Mod；实际联网成本。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

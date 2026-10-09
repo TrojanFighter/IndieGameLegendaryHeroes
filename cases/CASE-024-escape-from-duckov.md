@@ -357,3 +357,11 @@ Bilibili 是 Steam publisher，也承担更多市场、发行与本地化支持�
 - **Market sufficiency / legibility:** **STRONG** — “单机轻量 extraction + 鸭子视觉”可读性高，launch 前 wishlist 已形成显著需求；Bilibili perimeter 是不可忽略的 market-access 条件。
 - **Capability scaling:** strong through 5-person R&D core + corporate publisher/localization/market periphery；不等同 external indie scaling。
 - **Major unknowns:** founders household economics、内部预算、利润/IP安排、Bilibili market contribution、personal exit options。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2020s｜公司共享PC生产/发行资源。
+- **实际体验验证与进入市场的路径：** 制作人选择删多人/hardcore义务→单人化。
+- **机会类型：** `RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 引擎/实际技术与版权边界待核。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
