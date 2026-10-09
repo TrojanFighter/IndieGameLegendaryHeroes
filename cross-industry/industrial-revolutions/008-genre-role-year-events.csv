@@ -1,0 +1,43 @@
+year,family,format,subgenre,stage,case,scope_and_caveat,source_url,source_level
+1958,GEN,2D,PONG,F,Tennis for Two,实验室交互演示；非商业,https://www.computerhistory.org/timeline/graphics-games/,S1
+1962,GEN,2D,SHOOT,F,Spacewar!,大学计算机实验与早期复制；非量产商业,https://www.computerhistory.org/pdp-1/spacewar/,P0
+1972,GEN,2D,PONG,P,Pong,街机单屏交互商业化；头部专业环境,https://americanhistory.si.edu/blog/2012/04/pong-atari-and-the-origins-of-the-home-video-game.html,S1
+1980,SHOOT,3D_WIRE,ARCADE,P,Battlezone,专用街机线框3D战车；不能代表现代多边形3D,https://www.arcade-museum.com/Videogame/battlezone,S2
+1981,PLATFORM,2D,SCROLL,P,Donkey Kong,2D街机平台动作的专业商业锚点,https://www.nintendo.com/jp/character/mario/en/history/index.html,P0
+1983,PLATFORM,2D,SCROLL,I,Manic Miner,小作者商业2D平台动作；不表示独立首次,https://worldofspectrum.org/archive/software/games/manic-miner-bug-byte-software-ltd,S1
+1984,SYSTEM,3D_WIRE,SIM,I,Elite,Ian Bell / David Braben双作者商业线框三维系统模拟,https://elite.bbcelite.com/,P0
+1985,PLATFORM,2D,SCROLL,P,Super Mario Bros.,专业公司主机横向卷轴动作标杆,https://www.nintendo.com/jp/character/mario/en/history/smb/index.html,P0
+1990,PLATFORM,2D,SCROLL,M,Commander Keen,早期id小核心技术驱动PC卷轴，精确FTE待核,https://www.computerhistory.org/timeline/graphics-games/,S1
+1991,PLATFORM,2D,SCROLL,M,Sonic the Hedgehog,Sega内核心5→7人；不是独立中厂,https://shmuplations.com/sonicteam/,P1
+1991,UGC,2D,CREATION,I,ZZT,个人shareware商业作品与编辑器/脚本的结合,https://store.epicgames.com/p/zzt,P0
+1992,SHOOT,PSEUDO3D,FPS,P,Wolfenstein 3D,受限光线投射FPS专业小团队；不等于通用多边形3D,https://www.computerhistory.org/timeline/graphics-games/,S1
+1992,SHOOT,3D_POLY,ARCADE,P,Virtua Racing,专用街机硬件实时多边形商业化,https://www.sega.jp/history/arcade/topics/6512/index.html,P0
+1993,SHOOT,PSEUDO3D,FPS,F,DOOM,id小团队自造窗口，网络多人+WAD/编辑生态，受限三维,https://www.computerhistory.org/timeline/graphics-games/,S1
+1994,UGC,2D,CREATION,T,Klik & Play 制作时期,1994研发/合作，公开上市年份待核（社区记为1995）；不作为Q,https://clickteam.itch.io/,P1
+1996,PLATFORM,3D_POLY,PLATFORM,P,Super Mario 64,专业主机3D空间平台动作交付,https://www.nintendo.com/jp/character/mario/en/history/index.html,P0
+1996,PLATFORM,3D_POLY,PLATFORM,M,Crash Bandicoot,Naughty Dog回顾首作核心8人，发行支持另记,https://blog.playstation.com/archive/2014/12/03/naughty-dog-looks-back-20-years-playstation-development,P1
+1996,MULTI,3D_POLY,FPS,P,Quake,实时多边形FPS和网络基座，专业小团队技术前沿,https://www.computerhistory.org/timeline/graphics-games/,S1
+1997,UGC,2D,CREATION,T,RPG Tsukuru 95,名称95但实际1997年日本发布，低成本RPG作者工具,https://rpgmaker.net/engines/rm95/,S2
+1998,PLATFORM,3D_POLY,PLATFORM,M,Spyro the Dragon,Insomniac栏13名署名，不能等同13FTE或全部credits,https://www.mobygames.com/game/3633/spyro-the-dragon/credits/playstation/,S1
+1999,UGC,2D,CREATION,T,GameMaker,作者工具供给年份；不代表1999就量产,https://gamemaker.io/en/blog/gamemaker-25,P0
+1999,MULTI,3D_POLY,MOD,I_PROTO,Counter-Strike Mod,Half-Life现成图形/联网基座上的玩法规则试验,https://blog.counter-strike.net/history/,P0
+2000,UGC,2D,CREATION,T,RPG Maker 2000,2000年日本工具上市；海外传播渠道另核,https://www.rpgmakerweb.com/products/rpg-maker-2000,P0
+2004,PLATFORM,2D,METROIDVANIA,I,Cave Story,Pixel单作者2D完整游戏；非该类首次个人生产,https://www.cavestory.org/,S2
+2005,ACTION,3D_POLY,THIRD_PERSON,I,Lugaru,Wolfire第三人称3D动作独立商业作品，前Unity普及反例,https://store.steampowered.com/app/25010/Lugaru_HD/,P0
+2005,UGC,3D_POLY,ENGINE,T,Unity,3D通用引擎首次推出，供给而非当年独游量产,https://unity.com/news/unity-technologies-celebrates-six-years-continual-leadership-and-innovation,P0
+2006,UGC,3D_POLY,CREATION,T,Roblox,3D平台级可创作内容生态起点，数量待分年度审计,https://corp.roblox.com/,S1
+2009,SYSTEM,3D_VOXEL,SANDBOX,I_PROTO,Minecraft alpha,Java+voxel沙盒+玩家反馈的个人起步；非正式版年份,https://www.minecraft.net/en-us/article/15-years-minecraft,P0
+2011,SYSTEM,2D,SANDBOX,I,Terraria,2D系统沙盒小团队商业产品，联网额外维度,https://store.steampowered.com/app/105600/Terraria/,P0
+2012,MULTI,3D_POLY,MOD,I_PROTO,DayZ Mod,ARMA 2基座和社区生存验证，未独立造所有底座,https://dayz.com/,P0
+2013,SHOOT,3D_POLY,FPS,I_PROTO,SUPERHOT 7DFPS,7天Jam原型验证规则→2016年独立商业发行,https://superhotgame.com/presskit/,P0
+2014,UGC,3D_POLY,ENGINE,T,UE4订阅/Godot首次公开,工具价格/可获得性的变化，不等于当年作者量产,https://www.unrealengine.com/blog/epic-games-releases-unreal-engine-4-for-all,P0
+2016,SYSTEM,2D,FARM_RPG,I,Stardew Valley,个人多年制作高完成度2D经营/RPG商业产品,https://www.stardewvalley.net/,P0
+2016,SHOOT,3D_POLY,FPS,I,SUPERHOT release,Jam→众筹→扩团队→独立完整FPS；不能将原型人数作最终人力,https://superhotgame.com/presskit/,P0
+2017,PLATFORM,3D_POLY,PLATFORM,I,A Hat in Time,UE3/UDK起步的独立团队3D平台产品；不代表最早,https://store.steampowered.com/app/253230/A_Hat_in_Time/,P0
+2017,MULTI,3D_POLY,FPS,M,PUBG standalone,MOD作者路径到商业多人产品，商业开发团队承担完整后端,https://pubg.com/,P1
+2018,SHOOT,3D_POLY,FPS,I,DUSK,小型作者驱动复古3D FPS；外部发行支持另记,https://store.steampowered.com/app/519860/DUSK/,P0
+2018,UGC,3D_POLY,CREATION,T,Fortnite Creative,平台用户创作入口，未等于独立成品,https://www.fortnite.com/news/creative,P0
+2020,PLATFORM,3D_POLY,PLATFORM,I,Pumpkin Jack,个人主导独立3D平台动作商业成品，非首次,https://store.steampowered.com/app/1186640/Pumpkin_Jack/,P0
+2023,MULTI,3D_POLY,COOP,I,Lethal Company,独立3D合作恐怖EA作品；服务/运营成本独立核算,https://store.steampowered.com/app/1966720/Lethal_Company/,P0
+2023,UGC,3D_POLY,CREATION,T,UEFN,Fortnite托管的编辑器/发行/分成能力，平台不是standalone,https://www.fortnite.com/news/unreal-editor-for-fortnite-and-creator-economy-2-0-are-here-new-worlds-await,P0
+2024,UGC,3D_POLY,CREATION,Q_PLATFORM,Creative+UEFN作者群,"Epic 70,000 creators / 198,000 islands是平台总量，非每一子品类作者数量",https://www.fortnite.com/news/fortnite-ecosystem-2024-year-in-review-celebrating-creators-and-looking-ahead,P0
