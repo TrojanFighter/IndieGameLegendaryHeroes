@@ -143,3 +143,8 @@ Gunfire Reborn 是中国 commercial organization 内部出现的 premium / EA �
 - **Market sufficiency / legibility:** **STRONG** — premium roguelite FPS + solo/co-op 形成可理解 category，EA/销量证明 audience sufficiency。
 - **Capability scaling:** strong — core product 成立后逐步扩英雄、内容、DLC、移动/主机与外部发行。
 - **Major unknowns:** T9 life history、household economics、prototype 人数/周期、internal budget、shared departments。
+
+
+## 2026-10-09 补充：人效规模审计尚未闭环
+
+MobyGames当前Windows版credits页面（https://www.mobygames.com/game/146169/gunfire-reborn/credits/windows/）记162名不同署名（128专业职务、34致谢），并列出编程、设计、美术、QA、市场、本地化和共享技术援助；此记录截至2026年仍可修改，不保证是2020 EA当天同期的全部署名/投入，也不等于128名全职研发或128人年。多益2020-12-15同期公告称截至2020-11-28销量**100万份**（https://qh.duoyi.com/news/news_17691.shtm）。在未取得2020 EA前原始人员/每月FTE、持续共享部门工时及外部采购支出前，本作只能算**商业公司premiun+EA模式正例**，不能据此称“中国中间件路线小团队高人效”；与《Lethal Company》等比必须把不同完整项目人年及版本边界统一。详见[生产效率审计](../book/research-notes/china-indie-manpower-efficiency-middleware-build-buy-incentives-2026-10-09.md)。
