@@ -24,6 +24,17 @@
 - Supports: EA founders, Rao's family living room, original seven stayed through 2019, small independent structure, revenue from each game funded next.
 - Boundary: cumulative sales at 2019 not 2011; no payroll detail.
 
+Direct quotes (verbatim, page re-read 2026-10-09):
+
+- "Somehow, 10 years have flown by since our studio co-founders, Amir Rao and Gavin Simon, left their jobs at Electronic Arts in Los Angeles, hunkered down in the living room of a house in San Jose, and started working on our first game, Bastion. Since then, we moved to San Francisco, and proceeded to create Transistor, Pyre, and most recently, Hades."
+- "Our games have sold more than 10 million copies on more than 10 different platforms, and the success of each one made the next one possible. … Through the years, we've stayed small, stayed independent, and stuck together as a team -- in fact, all seven of the original members of the Bastion team are all still here, working together in their respective roles. Above all, we've been extraordinarily lucky that our games have found such a big and supportive audience."
+- On the PAX booth: "We'll be at PAX all Labor Day weekend in booth #1515 -- the exact spot where we first debuted Bastion as part of the PAX 10, back in 2010."
+
+Boundary additions:
+- The "more than 10 million copies" figure is studio-stated, cumulative across all four games through 2019, and not per-title.
+- "extraordinarily lucky" is the studio's own framing. It supports treating luck as a factor the creators name themselves, rather than one the researcher infers.
+- The rest of the page is PAX scheduling, not retrospective analysis; it should not be read as a development history.
+
 ## E003 — GDC China 2011 Amir Rao retrospective on production
 - Title: GDC China: Bastion's Rao: If You Own Your IP, Do Something With It.
 - Author / Institution: Brandon Sheffield / Game Developer.
