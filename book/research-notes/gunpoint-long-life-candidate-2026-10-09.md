@@ -1,4 +1,4 @@
-# 品味决定命运：Tom Francis怎样走到Gunpoint
+# 品味决定命运：Tom Francis从游戏评论走进制作
 
 © 2026 洪荒行者。All Rights Reserved.
 
@@ -110,6 +110,30 @@ John Roberts与Fabian van Dommelen参与美术制作，Ryan Ike、John Robert Ma
 
 ---
 
+## 他没有接着做Gunpoint 2
+
+离开杂志之后，Francis没有把新工作固定成不断续写《Gunpoint》。2015年接受[MCV采访](https://mcvuk.com/business-news/media-pr/gunpoint-and-heat-signature-developer-tom-francis-on-going-from-critic-to-creator/)时，他说，有人希望他做续作，前作的成功却让他有余地不这么做。假如需要为生存继续开发它的商业价值，他可能会做更多移植、追加内容和续集；当时还不必。
+
+他转向《Heat Signature》。那个太空游戏的设想比《Gunpoint》还早，起初是3D形式。朋友重新提起它时，已经学会用GameMaker做2D游戏的Francis，开始看得出另一种可实现的办法。这是他在2015年的回忆，不能替早期设想安排一个精确开工日期。
+
+记者生涯留下的判断还在，手里能做的东西却变了。从前停留在纸上的设想，现在有了不同的制作路径；前作收入也给了他选择的余地。
+
+## 第二款作品，又是一次风险
+
+2017年9月27日，《Heat Signature》发售六天后，Francis在[博客](https://www.pentadact.com/2017-09-27-heat-signatures-launch-and-first-player-legend/)里说，游戏用了三年半，他花了约二十万英镑，可能是自己一生最大的风险。这个金额是本人对支出的表述，尚非完整账目核算。
+
+这次也有协作者：页面署名列出John Roberts的美术、John Winder的程序，以及John Halpart和Chris Harvey的音乐。Francis并没有因为第一款做成了，就突然可以独自包办一切。
+
+他对发售初期结果感到宽慰：同一时段的表现略高于《Gunpoint》，但能不能有同样的长尾，还不知道。第一款游戏使他能做下一款，下一款仍然可能失手。多年准备和一笔已花出去的钱，并没有消除上市时的不确定。
+
+## 他仍然会先玩，再挑毛病
+
+2020年，Jeremy Peel在[PC Gamer采访](https://www.pcgamer.com/tactical-breach-wizards-interview/)中追踪《Tactical Breach Wizards》。Francis喜爱《XCOM 2》，同时也想改变它的一些做法：更简单的战斗空间、可以免费倒回行动，成了新作的具体设计选择。评论者习惯的比较，现在继续进入他自己要做的游戏。
+
+2024年8月22日，他在[发售公告](https://www.pentadact.com/2024-08-22-tactical-breach-wizards-is-out/)里向博客读者介绍这款作品，说团队已经做了6.8年。这个跨度不能换算成一个人的全职工时，却足以提醒读者，学会制作以后，完成仍然会花许多年。
+
+他的博客从一个不确定能否坚持的开工公告，写到了多款作品。这里没有一段初学者熬过去就永久轻松的生涯：曾经让他困惑的角色移动、素材集成和范围取舍，是实际工作；后来有了收入和经验，新项目又带来新的成本。所谓品味，得一次次落实到自己愿意做、能够做，也愿意删去的东西上。
+
 ## 继续读他本人和当年的报道
 
 最适合与本篇对读的是Patrick Klepek的[人物报道](https://giantbomb.com/articles/one-tom-francis-is-all-you-need)（Giant Bomb，2013-08-22）与Mike Rose的[制作中访谈](https://www.gamedeveloper.com/business/road-to-the-igf-tom-francis-i-gunpoint-i-)（Gamasutra，2012-01-30）。前者回看人生，后者保留尚未完成时的困难。媒体的赞许不能代替生产事实，回顾中顺畅的路线也需要与同期记录核对。
@@ -138,13 +162,13 @@ Francis的[个人博客](https://www.pentadact.com/)可继续读：
 
 “品味决定命运”保留的是判断对资源投向的影响。比较作品、说清楚偏好、让原型接受反驳、重审已写内容，值得练习；这不要求年轻人复制记者生涯，更不保证作品得到同样的关注。现实承诺问题可接着读[有稳定工资的创作者](../life-routes/salaried-creator-staged-commitment-002.md)、[先改作品还是补能力](../life-routes/project-thesis-capability-gap-004.md)及[决策权审计](industry-triangle-decision-rights-audit-046.md)。
 
-后来的作品也可以对照阅读：[2020年Jeremy Peel的采访](https://www.pcgamer.com/tactical-breach-wizards-interview/)谈到《XCOM 2》的喜爱与问题怎样进入《Tactical Breach Wizards》。它只承担后续方法对照，不反推《Gunpoint》每个功能的起源。本文故事停在2013的职业转换，不把后续作品自动当成同一个成功公式。
+后续材料承担职业与方法对照，不反推《Gunpoint》每个功能的起源。故事延长到2024，不把三款作品自动当成同一个成功公式。
 
-原稿关于AI降低部分制作成本后判断可能更重要的意见仍作为作者条件性判断保留；本案不能证明2026的工具效果。观察窗口为约2000–2013的前史与制作，2014/2020只作回顾及后续对照。比较、判断、原型和反馈的机制按原稿标记为DURABLE；当年GameMaker、媒体职业网络、IGF与Steam接入为CONDITIONAL。具体当代渠道要另核，见[时效规则](../TEMPORAL-VALIDITY.md)。
+原稿关于AI降低部分制作成本后判断可能更重要的意见仍作为作者条件性判断保留；本案不能证明2026的工具效果。观察窗口延长为约2000–2024；后续作品不反推早期决定。比较、判断、原型和反馈的机制按原稿标记为DURABLE；当年GameMaker、媒体职业网络、IGF与Steam接入为CONDITIONAL。具体当代渠道要另核，见[时效规则](../TEMPORAL-VALIDITY.md)。
 
 正式[原稿](../profiles/gunpoint.md)保持原样。本篇为独立长候选，AUTHOR_REVIEW_PENDING；史实依赖独立Lane B补证，编辑对照及Fidelity Readback见[编辑记录](gunpoint-long-life-editorial-2026-10-09.md)。
 
-研究主档：[CASE-007](../../cases/CASE-007-gunpoint.md)、[Evidence Ledger](../../evidence/CASE-007-gunpoint-source-ledger.md)。E003承担教育/求职；E009承担早期愿望与作品认识的回忆；E010–E012承担开工和移动试错；E008承担2010删改；E004承担记者判断、集成瓶颈；E001承担协作、传播与后期安排；E002承担离职/身份/运气；E006和E007只承担后期方法回顾与对照。
+研究主档：[CASE-007](../../cases/CASE-007-gunpoint.md)、[Evidence Ledger](../../evidence/CASE-007-gunpoint-source-ledger.md)。E003承担教育/求职；E009承担早期愿望与作品认识的回忆；E010–E012承担开工和移动试错；E008承担2010删改；E004承担记者判断、集成瓶颈；E001承担协作、传播与后期安排；E002承担离职/身份/运气；E006/E007承担后期方法；新增E013–E015承担不做续作、第二作成本和2024发布，依赖独立Lane B补证，尚待本分支接入。
 
 九年评论是截至2013的职业跨度，包含开发期；约三年的业余开发不能换算成三年全职工时。家庭经济、住房、总预算与工时、辞职阈值金额、带薪休假、贡献者工时及分成比例、完整IP和合同否决权仍未知。早期晚间开发与后期周末回顾分别记录，不拼成统一作息。读者可以沿链接核对当事人怎么说，也可以看到本篇没有替他回答什么。
 
