@@ -41,3 +41,7 @@ year,family,format,subgenre,stage,case,scope_and_caveat,source_url,source_level
 2023,MULTI,3D_POLY,COOP,I,Lethal Company,独立3D合作恐怖EA作品；服务/运营成本独立核算,https://store.steampowered.com/app/1966720/Lethal_Company/,P0
 2023,UGC,3D_POLY,CREATION,T,UEFN,Fortnite托管的编辑器/发行/分成能力，平台不是standalone,https://www.fortnite.com/news/unreal-editor-for-fortnite-and-creator-economy-2-0-are-here-new-worlds-await,P0
 2024,UGC,3D_POLY,CREATION,Q_PLATFORM,Creative+UEFN作者群,"Epic 70,000 creators / 198,000 islands是平台总量，非每一子品类作者数量",https://www.fortnite.com/news/fortnite-ecosystem-2024-year-in-review-celebrating-creators-and-looking-ahead,P0
+1982,SHOOT,2D,TOPDOWN,P,Robotron: 2084,"1982 Williams arcade twin-stick official manual; professional hardware baseline",https://www.robotron-2084.co.uk/williams/documents/robotron,P0
+2012,SHOOT,2D,TOPDOWN,I,Hotline Miami,"Dennaton 2 creators; GameMaker indie top-down action; Devolver publishing",https://test.gamemaker.io/en/blog/hotline-miami-developed-with-gamemaker,P0
+2015,SHOOT,2D,TOPDOWN,I,Nuclear Throne,"Vlambeer small-team top-down roguelike shooter; core full-time FTE unverified",https://store.steampowered.com/app/242680/Nuclear_Throne/,P0
+2015,MULTI,2D_2_5D,COOP,M,Helldivers,"Arrowhead top-down four-player online/local co-op; production FTE and publisher support not yet verified",https://www.arrowheadgamestudios.com/aboutarrowhead/games/,P0
