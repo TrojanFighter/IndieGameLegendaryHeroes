@@ -411,7 +411,7 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 
 ## P1 — Institutional Reproduction / Career Decision Rights
 
-### OQ-020｜从好学生到有权出题的管理者：封闭题域评价如何跨代复制？
+### OQ-022｜从好学生到有权出题的管理者：封闭题域评价如何跨代复制？
 **Status:** `PARTIAL` — `SELECTION / PROMOTION / CULTURE TRANSMISSION MECHANISMS SUPPORTED ELSEWHERE; CHINA GAME-INDUSTRY LONGITUDINAL EFFECT UNMEASURED`  
 **Evidence in repo:** [三层图018§3.6 招聘—晋升—授权—制度复制](book/research-notes/china-creator-constraints-three-layer-map-018.md#36-教育雇佣晋升决策权的再生产不只是谁会答题也是由谁制定下一道题2026-10-09)、[中国032§29 决策节奏对照实验](country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md#29-closed-book-decision-vs-research-first-decision把会议考试化做成可检验实验2026-10-09)、[中国031教育主权](country-studies/china/031-education-east-asian-discipline-reference-repertoire.md)、[中国034知识结构与机会成本](country-studies/china/034-curriculum-depth-time-cost-autonomy-creator.md)。  
 **Question:** 某一教育或职业 cohort 在学校擅长标准题之后，是否因招聘—晋升—关键决策权分配而更可能复制临场答题、benchmark和任务完成型的组织评价函数？哪些公司在不依赖名校/大厂绩效作为充分信号的情况下真正向高质量开放决策者授权？  
@@ -419,6 +419,8 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 **Competing explanations:** Peter Principle可能来自职场激励而非教育；组织筛选可能复制良好的研究文化；产品阶段、预算与风险可逆性可能合理解释决策速度；考试出色者也可能有同等或更强的作者性。  
 **Closure condition:** 至少两个具有完整候选人—任务—晋升—决策权—招聘/立项制度变更记录的组织队列，或一个跨制度准实验；报告开放问题判断和玩家反馈质量、真实选择分母、控制变量及效应量。不能只收集获奖者和高曝光管理者访谈。  
 **Route:** 中国研究018负责组织闭环；032负责决策节奏实验；OQ-019负责教材/自学上游；OQ-001/003负责跨国共同分母。
+
+**2026-10-09增量：** [中国033 §14 校准过的专业判断权](country-studies/china/033-technology-proxies-experience-demand-and-commercial-feedback.md)归档（a）专业知识解释深度错觉，（b）过度自信提高领导适任感的多研究证据，（c）中国135技术团队等谦逊管理与创新/建言关系，（d）经理与真实创作者创意预测质量差异。应在本项后续审计纳入 `CONFIDENCE_AS_LEADERSHIP_PROXY / CROSS_DOMAIN_CONFIDENCE_GAP / EMPLOYEE_VOICE_QUALITY / PREDICTION_CALIBRATION / ERROR_CORRECTION_RIGHTS`，同时保持相关性与中国游戏行业效应未知。  
 
 ---
 
