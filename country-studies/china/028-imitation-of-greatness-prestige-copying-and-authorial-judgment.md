@@ -218,3 +218,12 @@ CiGA官方记录，2025年GGJ中国区有**2300多人、735支队伍、563款48�
 - Related existing notes: [中国017–027研究索引](README.md)；[OQ状态池](../../OPEN-QUESTIONS.md)；[Prestige Pipeline](../../book/research-notes/prestige-pipeline-authorial-continuity-026.md)；[Media Survivorship Protocol](../../book/research-notes/media-selection-survivorship-and-denominator-protocol-028.md)。
 
 本文件仅研究公开行业/学术材料和抽象制度机制，不转写任何私人项目的产品决策、设计或竞争信息。
+
+
+## 9. 2026-10-09｜补充边界：从“仿制伟大”到高能力同质化竞争
+
+[中国033 §11：高能力同质化陷阱](033-technology-proxies-experience-demand-and-commercial-feedback.md#11-2026-10-09高能力同质化陷阱技术追赶成功如何与内部竞争失序并存)新增一个不同层次的**可证伪命题**：当公开知识与工程能力使大量企业能迅速进入已经验证的产品方向时，资本、政策或认知层面的共同选择，可能让技术能力越强、同一产品的后发竞争越激烈，企业利润与差异化空间越受挤压。
+
+这不是“学习、模仿一定有害”，也**不是“竞争激烈证明国民缺乏原创能力”**。必须分开 `COGNITIVE_CONVERGENCE`（认知评价趋同）、`INCENTIVE_CONVERGENCE`（投资/政策/渠道诱导趋同）、`CAPABILITY_REPLICATION`（工程复现能力扩散）、`EXIT_FRICTION`（退出与需求约束）。这四者即使产生相似的价格战结果，也需要不同证据；消费者低价收益与企业利润损失也不能混为同一福利方向。
+
+IMF 2026中国第四条磋商支持“某些制造业领域技术进步与过度投资/供给并存”的宏观事实，但**不直接证明中国游戏产业存在同等机制**；WIPO专利资料也说明合法公开知识学习与盗取商业秘密须分开。完整来源、反对意见及指标请使用中国033 §11，不在此复制第二份证据主档；经验效果量仍未知，见[OQ-021](../../OPEN-QUESTIONS.md)。
