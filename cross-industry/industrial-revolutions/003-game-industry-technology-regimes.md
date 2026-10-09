@@ -4,6 +4,14 @@
 - Purpose: 为《独立游戏英雄传说》的 Technical Opportunity Window 提供时代背景。
 - Boundary: 这里只研究公开技术条件与产业扩散，不推导私人项目设计方案。
 
+## 2026-10-09 增量｜技术分代从“有技术”改为“作者可以买到何种成熟生产能力”
+
+新增[004 — Unity、Asset Store、联网中间件到 AI：独游生产资料商品化](004-unity-asset-store-network-middleware-ai-indie-industrialization.md)，要求以实际可获取的工具与成本，而非仅硬件代际/玩法年份划分时间窗口。其层级是重叠累积的：早期GameMaker/RPG Maker/Torque/Flash → 2005–09 Unity跨平台通用化与免费工具 → 2010 Asset Store/2011 Photon第三方能力交易 → 2015 UNet/2015 uMMORPG/2018–19 Mirror社区网络框架 → 2022 NGO/2023《Lethal Company》可组合联网、语音、Steam系统 → 2024–26 AI内容/代码/Agent生产层。
+
+**关键核验：**《Lethal Company》2023-10 Steam试玩版实际 DLL 包含 `Unity.Netcode.Runtime.dll`、`Facepunch Transport for Netcode for GameObjects.dll`、`DissonanceVoip.dll`，**没有证据支持其使用Mirror**。Mirror是扩散链上的一条重要技术分支，而非该游戏的直接依赖。2026版的`DunGen.dll`也不得回填到2023首发包。已将2023 SteamDB depot证据链和vis2k/uMMORPG公开历史写入004。
+
+新增解释机制：`PUBLICLY_REUSABLE_PRODUCTION_CAPITAL`、`SOFTWARE_ASSEMBLY_INDUSTRIALIZATION`、`COMPLEMENTARY_TOOL_MARKET`、`SOCIAL_CONTENT_COMBINATORICS`；这比把技术“创新”只定义为自研引擎更适合研究作者型游戏的机会窗口。AI可以作为承继工具商品化的下一代，但产出一致性、工程验证、实际节省工时和市场供需不能预设已解决。
+
 ## 1. 为什么不能只写“8-bit → 16-bit → 3D → AI”
 
 游戏开发者真正面对的可行解空间至少由五组条件共同决定：
