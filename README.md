@@ -1,5 +1,8 @@
 # 独立游戏英雄传说
 
+**新专题（2026-10-09）｜多人游戏基础设施、老板决策与动态竞争**：[Improbable × PUBG × Tarkov × Party Animals × Prologue：架构、单位经济与发行窗口](book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md) · [静态目标谬误：蒋介石的抗战准备与战略再校准](book/research-notes/static-target-trap-chiang-and-strategic-recalibration-2026-10-09.md)。两篇为研究后台对照，不占新的编号CASE；禁止把制作者自述视为独立因果证据，亦禁止用模拟服务器装箱率冒充实测成本。
+
+
 [English entry](translations/en/README.md) | [贡献指南](CONTRIBUTING.md) | [研究计划总图](PROGRAM-MAP.md)
 
 **Indie Game Legendary Heroes**  
