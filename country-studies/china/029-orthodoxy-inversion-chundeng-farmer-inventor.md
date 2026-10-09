@@ -112,6 +112,15 @@
 
 后续要把自融资连续作品（如 Subset、Supergiant）、融资失利后小项目转轨（Aggro Crab × Landfall）与“投资前置→先扩编”的失败/存活队列交叉核验，不能只选成功者。
 
+### 补充：Scale Sequencing 作为正统倒置的跨代反例（2026-10-09）
+
+不能只问一个独立创作者会不会把作品缩小；更应问：他是否会用第一代/可试玩原型建立玩家价值、团队交付与商业能力的证据，再用这些证据确定第二代扩张哪些方面。这种 **EARNED SCALE / PROOF-BASED SCALE** 与“一开始照着已成型中大型竞品配置完整团队”是两种不同的资本顺序。重点不是拒绝所有融资，而是 **proof precedes irreversible scale**。
+
+- 参见 [Earned Scale 综合比较研究](../../book/research-notes/earned-scale-sequel-proof-first-20261009.md)：《Helldivers》1→2、《Risk of Rain》1→2、Larian《神界：原罪》1→2；国内《失落城堡》1→2、《波西亚时光》→《沙石镇时光》，以及91ACT先以《超限领域》小型可测试原型再转轨《苍翼：混沌效应》。
+- **不要把存在国内案例误认作与国外相同的规模密度。** 缺少同分母国家/地区队列时，国别劣势仍是待检验假说。
+- **也不要把首作成功误当作高规格续作一定成功。** 《The Culling 2》《Cities: Skylines II》与2026年《Deep Rock Galactic: Rogue Core》EA 的不同反馈提示：市场证明、设计形态迁移证明、组织扩张交付证明必须分开。
+- 帕斯亚 CEO 2022 TGDC 演讲回顾了不同程度的失败产品和《波西亚时光》多次改方向的流程问题，并在面试中将大厂策划自豪的 ARPU 业绩与买断制的沉浸体验评价区别开。这是本章 **METHOD-ORTHODOXY** 假说罕见的中国当事人材料，不是国别比例调查（https://www.youxituoluo.com/529643.html）。
+
 ## 7. AI 技术冲击与历史基本功缺口
 
 AI 可以让过去无法实现的美术、代码、内容变便宜，却不自动补上既往多年 prototype / playtest / feature deletion / authorial judgment 的训练。
