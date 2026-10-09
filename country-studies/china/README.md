@@ -40,6 +40,7 @@
 - [Game Science × Sultan 能力重新定价](../../book/research-notes/china-capability-repricing-black-myth-sultan-013.md)
 - [NExT portfolio 效率审计](../../book/research-notes/next-studios-portfolio-efficiency-audit-014.md)
 - [本轮 provenance closeout](../../book/research-notes/china-indie-source-intake-closeout-015.md)
+- [036 — 维塔士、海外3A人才流动与原创组织形成](036-virtuos-aaa-alumni-return-and-authorial-team-formation.md)：把专业制作、创作核心、实际回国、资本购买海外组织和产品成绩拆开；同时记录2025维塔士裁员、2026 Rebel Wolves上市与未能证实的海归分母。
 
 ## 2. Experience Capital / Demand Discovery 假说线
 
