@@ -96,3 +96,11 @@ Minecraft 的关键结构不是“一次融资”，而是把开发中产品本�
 - **Market sufficiency / legibility:** **STRONG** — early paid demand 直接证明产品价值；但 2009–2011 alpha-funding环境高度历史化。
 - **Capability scaling:** solo-heavy public alpha → player-financed full-time development → Mojang organization / operations / content expansion。
 - **Major unknowns:** Persson 2009 前职业时间线、第一次辞职精确收入阈值、household、Mojang earliest hiring chronology。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2009–11｜Java及LWJGL、自建沙盒代码。
+- **实际体验验证与进入市场的路径：** 周末原型→TIGSource→付费Alpha→Mojang。
+- **机会类型：** `CREATED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 开源库与自研的实际边界。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

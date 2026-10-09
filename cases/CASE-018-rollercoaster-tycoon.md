@@ -97,3 +97,11 @@ RCT 不是现代 direct-to-consumer indie：它依赖 boxed retail 时代的 pub
 4. 从 Transport Tycoon sequel → RCT1 → RCT2，代码、工具和数据格式究竟复用了多少？
 5. RCT2 的生产周期、核心协作者数量和 outsourcing boundary 能否被强证据锁定？
 6. 作为历史 comparator，哪些机制能迁移到现代、哪些因 boxed retail 体系失效？
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 1996–99｜汇编语言/作者长期模拟工具。
+- **实际体验验证与进入市场的路径：** 熟练底层能力→高密度经营模拟→零售。
+- **机会类型：** `CREATED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 额外美术/音效外围工时。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

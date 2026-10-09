@@ -73,3 +73,11 @@ Steam 当前页面显示：
 3. 使用的引擎、assets、middleware、netcode 与 contractors？
 4. pre-launch runway 和 launch 后收入如何改变人员结构？
 5. 当前/未来招聘是否会把 OPC 迅速转成小 studio？
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2020s｜当代Unity与Steam EA生态。
+- **实际体验验证与进入市场的路径：** 小核心开发→Steam付费EA→玩家验证。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 中间件清单与兼职人年。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

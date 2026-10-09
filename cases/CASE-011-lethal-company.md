@@ -84,3 +84,11 @@ Ryan Rigney 2024 profile 基于 SteamDB 记录的首周/随后周一峰值近似
 3. Lethal Company 成品是否存在 paid contractor / asset / QA / localization 等外围贡献？
 4. Unity networking / asset dependency 的具体边界？
 5. streamer growth 是否能用时间序列和主要渠道进一步量化？
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2012–23｜Roblox→Unity NGO/Steamworks/Dissonance。
+- **实际体验验证与进入市场的路径：** UGC反复发布形成技能→独立原型→EA/主播。
+- **机会类型：** `PLATFORM_UGC→INHERITED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 不是Mirror；非同一Roblox游戏移植。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
