@@ -331,6 +331,7 @@ external signal latency / source directness / reference breadth / platform acces
 **Evidence in repo:** [Reversible Bets / Irreversibility Gradient](cross-industry/reversible-bets-irreversibility-gradient-001.md) 已建立 reversible bet / information-first milestone / option expiry 框架，并明确留下 prototype false-negative problem。  
 **Unresolved core:** 目前只能证明“小额可逆下注”在高未知条件下具有清晰的信息价值逻辑；尚不能证明所有关键价值都能在低保真、小规模、短周期 artifact 中显现。网络效应、叙事累积、高感官保真、生态 complements、社会意义与学习曲线都可能使 early prototype 产生系统性 false negative。  
 **Closure condition:** 至少建立 3 类“低保真测试会漏掉关键价值”的高质量案例，同时包含 1 类“声称必须完整做出才知道、最终却只是昂贵失败”的反例，形成 fidelity-to-hypothesis matching 规则，而不是替愿景项目开无限信用。
+**2026-10-09 补充理论边界：** [中国033 §12 分阶段学习期权](country-studies/china/033-technology-proxies-experience-demand-and-commercial-feedback.md)新增软件研发实物期权文献锚点（Erdogmus 2002）：先花有限预算获取信息、保留后期完整开发选择权有经济价值，但实际游戏还须单测原型保真度、研发阶段过渡成本、市场时机；不能把模型定理当作所有游戏都可廉价验证的经验结论。
 
 **Question**  
 什么问题适合 cheap prototype；什么问题只有达到足够 fidelity / scale / duration 后才可观测？
@@ -372,8 +373,9 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 **Status:** `PARTIAL` — `HISTORICAL SEQUENCE + WITHIN-PERSON ACCOUNTS + FAILED-PROTOTYPE COUNTERCASES / CAUSAL EFFECT SIZE OPEN`  
 **Evidence in repo:** [商业游戏职业训练015补证](book/research-notes/china-commercial-game-training-role-origin-audit-005.md#15-2026-10-08-新增同一开发者转制度的观察与有作者权仍失败的反证)、[中国033 技术代理指标与体验需求](country-studies/china/033-technology-proxies-experience-demand-and-commercial-feedback.md)、[中国001 Experience Capital](country-studies/china/001-experience-capital-demand-discovery-hypotheses.md)、[中国018 Design Attractor](country-studies/china/018-wealth-class-gameplay-player-socialization-design-attractor.md)、[中国032 Exam Overfit](country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)、[商业制度谱系003](book/research-notes/china-game-commercial-regime-lineage-003.md)。  
 **Unresolved core:** Chew的1995–2015历史分期与2010同期新规则/新商业模式反思证明“从来没人懂玩法”不成立；2024跨区域RRM与2026国内商业化争论证明不能将抽卡=P2W、也不能将中国玩家偏好写成单一总体。2025–2026新增鱼尾、凉屋、孤星猎人、未退出从业者和发行筛选漏斗等正反观察，证明作者权、内容编排能力、制作成本和商业回报可以彼此分离。**仍无法判定**最初经验资本不足、后来收入函数筛选及组织技术代理评价三者的相对效应；当前访谈是自选样本，并非配对准实验。  
-**Question:** 开发者与评审为什么选择技术规格、成熟赛道收入和功能数量作为项目价值信号？在有原型玩家证据和独立决策权时，偏好是否变化？  
-**Key variables:** `GREENLIGHT_EVIDENCE_MODE / EXPERIENCE_HYPOTHESIS_RATE / PROBLEM_DEFINITION_RIGHT / PROTOTYPE_TO_DECISION / TECH_EXPERIENCE_CAUSALITY / CAPABILITY_ROUTE_SHARE / CRAFT_CAPABILITY / PRODUCT_DECISION_RIGHT / TECHNOLOGY_CHOICE_RATIONALE`。  
+**Question:** 开发者与评审为什么选择技术规格、成熟赛道收入和功能数量作为项目价值信号？在有原型玩家证据和独立决策权时，偏好是否变化？
+**2026-10-09 边界与增量：** [中国商业制度003 §13](book/research-notes/china-game-commercial-regime-lineage-003.md)以2006年史玉柱同期采访锚定市场/付费需求发现，不能把《征途》误写成“完全不主动找需求”。[中国033 §12](country-studies/china/033-technology-proxies-experience-demand-and-commercial-feedback.md)进一步拆分市场、支付与体验型需求发现，区分岗位任务来源、个人出题能力、修改目标的授权、事前设计判断与事后商业收益；增加原型学习的期权价值与误杀风险。仍无可比国别分布与因果效应量。  
+**Key variables:** `GREENLIGHT_EVIDENCE_MODE / EXPERIENCE_HYPOTHESIS_RATE / PROBLEM_DEFINITION_RIGHT / PROTOTYPE_TO_DECISION / TECH_EXPERIENCE_CAUSALITY / CAPABILITY_ROUTE_SHARE / CRAFT_CAPABILITY / PRODUCT_DECISION_RIGHT / TECHNOLOGY_CHOICE_RATIONALE / DEMAND_DISCOVERY_TYPE / RESEARCH_OPTION_VALUE / REGIME_TRANSFER_BIAS / EX_ANTE_VS_EX_POST_ASSESSMENT`。  
 **Closure condition:** 获得至少一组含通过/拒绝项目的同组织绿灯资料或盲评实验、一组同年代跨制度（最好同平台）对照、一组普通创作者/失败者队列，并对教育、发行、市场与游戏类型混杂因素做压力测试。  
 **Warning:** `TECHNIQUE ≠ EXPERIENCE`不等于“技术不重要”；单个聊天轶事、明星成功或一部论文摘要均不能估算发生率。  
 **Route:** 中国033为主，Program D技术史为比较，OQ-011/012/017为相邻问题。
