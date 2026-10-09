@@ -2,7 +2,7 @@
 
 - **状态：** INITIAL BACKFILL / 大部分游戏技术环境可定位，但许多“实际插件、启动前人数、人年、验证数据”仍UNKNOWN。此处不是全部技术史已完成核验，更不是用媒体可见成功样本推全球成功率。
 - **权威方法：** [技术机会窗口审计v1](../schemas/technology-opportunity-window-audit.md) · [跨行业003](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md) · [跨行业004](../cross-industry/industrial-revolutions/004-unity-asset-store-network-middleware-ai-indie-industrialization.md)。
-- **识别逻辑：** 锚定作者最早形成该作品目标/原型时可获得的条件；遇到跨十年项目分别标关键期；\`CREATED\`=推进技术边界，\`RECOMBINED\`=既有技术重组，\`INHERITED\`=旧技能/代码/第三方生产资料，\`PLATFORM_UGC\`=Mod/UGC发行+反馈，\`CO_EVOLUTION\`=工程与游戏共同塑形，\`UNKNOWN\`=需要继续核。分类可重叠，`FIT_TRAP`不是技术成果的否定。
+- **识别逻辑：** 锚定作者最早形成该作品目标/原型时可获得的条件；遇到跨十年项目分别标关键期；`CREATED`=推进技术边界，`RECOMBINED`=既有技术重组，`INHERITED`=旧技能/代码/第三方生产资料，`PLATFORM_UGC`=Mod/UGC发行+反馈，`CO_EVOLUTION`=工程与游戏共同塑形，`UNKNOWN`=需要继续核。分类可重叠，`FIT_TRAP`不是技术成果的否定。
 
 | Case | 技术条件/可获得生产资料 | 作者验证—商品化路线 | 暂定机会关系 | 最需要补核的证据 |
 | --- | --- | --- | --- | --- |

@@ -138,3 +138,7 @@ Subset为不同作品留出探索时间，thatgamecompany接过发行与服务�
 作者 / 维护者入口见 [编辑与研究后台索引](EDITORIAL-INDEX.md)。
 
 [斯拉夫姊妹篇书稿入口](../sister-projects/slavic/book/README.md) 独立维护。
+
+### 技术工业化专题续篇——谁替作者完成了底层技术？
+
+[第八篇：技术早已在那里，题目却还没人出](chapters/08-the-tools-were-already-there.md)把DOOM、GameMaker、Unity/Asset Store、Arma/DayZ Mod、Roblox、UEFN与AI作为一条工业生产资料扩散史来读。它是第四章三类技术窗口的历史延展，**不是**宣布“技术创新现在不需要了”；全部63个Case按[技术窗口矩阵](../metadata/technology-opportunity-window-matrix.md)先补了初步技术及验证路径，更多核证仍在研究层。

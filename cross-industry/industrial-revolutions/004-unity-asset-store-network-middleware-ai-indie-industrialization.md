@@ -130,3 +130,9 @@ Dissonance商品页：https://marketplace.unity.com/packages/tools/audio/dissona
 ## 8. 被前述工具史漏掉的核心分母：游戏项目每单位产出耗费多少完整人年
 
 [2026-10-09中国与海外项目人效对照](../../book/research-notes/china-indie-manpower-efficiency-middleware-build-buy-incentives-2026-10-09.md)建立`FTE_YEARS + BUY/BUILD/DELETE + MARKET_VALIDATED_HOOK + FIRST_PAID_ACCESS`。已有技术市场且存在中国产中间件，均**无法**证明中国创作者以全球同样的成本形成体验。工具创造者可能帮助别国开发者降低人年，国内同业若反而常用旧式部门自研方式，生产函数转化会出现缺口；“员工以自研捍卫岗位”属于委托代理及NIH候选机制。科研不可先验认定全部自研或全部大型员工为寄生。最关键的下一步是固定队列的工具利用率、实际开发/外包人年、玩家实验数、上市率、收入、失败者分母。成熟大厂的高`REVENUE_PER_EMPLOYEE`也不能取代新玩法的`ORIGINAL_HOOKS_PER_DEV_YEAR`。
+
+## 9. MOD / Roblox / UEFN：买中间件之外的更大工业生产能力市场
+
+[全案例审计Schema](../../schemas/technology-opportunity-window-audit.md)已将`PLATFORM_UGC_WINDOW`独立编码。借助已有游戏的Mod/服务器直接验证玩法（1999 CS、2000s Red Orchestra/Killing Floor、2013 Arma大逃杀）和Unity插件市场的意义相通：**作者不必先从零支付完整基础设施**，先把新规则交给玩家。Roblox在此基础上进一步提供托管、账号、跨平台分发、作品发现和DevEx收入；UEFN于**2023-03-22**上线，直接让创作者向Fortnite生态发行UEFN岛并使用Epic的全球玩家及分成系统。Roblox与UEFN产品有可能**长期留在平台内商业运营**，不意味着UGC只是某个Steam项目融资前的免费Demo；Standalone需重新审技术/资产产权、运行时、后端、发行和成本。
+
+硬来源：Epic https://www.unrealengine.com/blog/unreal-editor-for-fortnite-is-now-available-in-beta ；Roblox 2025 10-K https://www.sec.gov/Archives/edgar/data/1315098/000131509826000024/rblx-20251231.htm 。多案例验证见[案例全矩阵](../../metadata/technology-opportunity-window-matrix.md)与[书稿第八篇](../../book/chapters/08-the-tools-were-already-there.md)。

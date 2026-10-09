@@ -194,3 +194,9 @@ CASE-032 已支持：
 - generative AI 的 frontier / professional / indie diffusion 分离。
 
 任何对象都先补时间线，再写“技术导致了什么”。
+
+## UNIVERSAL_CASE_APPLIED_GATE｜2026-10-09全案例回填执行
+
+从[技术分代通史004](004-unity-asset-store-network-middleware-ai-indie-industrialization.md)与[技术机会窗口Schema](../../schemas/technology-opportunity-window-audit.md)抽出可实际检查的7字段，已覆盖[独立篇全部63个Case](../../metadata/technology-opportunity-window-matrix.md)，同时[斯拉夫8个主题](../../sister-projects/slavic/TECH-WINDOW-APPLICATION-2026-10-09.md)另按公司技术谱系回填；后续新Case须同步填写。
+
+核心纠正：2000年代已存在Mod先行路线、2005–09通用商用引擎普及、2010–23插件与联网中间件产业化、2013–2026 Roblox/UEFN等平台化UGC、2024–26 AI工具化，属于**时间重叠的生态层**，绝非2018 Mirror一次发明了小团队网游。体验重组可能在这些条件下更常见，但`CREATED_WINDOW`占比下降与否仍须由固定、包含失败者的队列测量，不能用63个精选故事直接计数。

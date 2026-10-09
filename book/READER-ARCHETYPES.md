@@ -290,3 +290,14 @@ Into the Breach 则提醒另一条完全不同的用钱方式：
 - [Creator Capability Archetype Expansion 001](research-notes/creator-capability-archetype-expansion-001.md)
 
 其中已把 visual-first、programmer/systems-first、designer/critic、modder/UGC、商业/AAA 转作者、solo/generalist、business/operations 分开，并为每类维护正例、边界例和失败/压力对照。
+
+## 技术生产资料与验证路径索引（2026-10-09）
+
+按职业/能力进入人物篇时，也应检查[63案技术机会窗口矩阵](../metadata/technology-opportunity-window-matrix.md)及[技术窗口审计规范](../schemas/technology-opportunity-window-audit.md)：
+
+- **技术边界本身是作品核心的人**：early id/DOOM、Factorio、Dwarf Fortress、Limit Theory（同时保留其中未交付的失败对照）。
+- **用现成通用技术重组规则的人**：Gunpoint、The First Tree、Lethal Company、R.E.P.O.、FTL（非Unity项目）、Slay the Spire。
+- **先借Mod/UGC进行公开规则试验的人**：Greene/PUBG、Tripwire、Garry Newman；Roblox creator cluster及Zeekerss的前史又展示平台学徒与技能资本的不同转化方式。
+- **同一公司多代生产方式的纵向压力案例**：Psyonix、Garry Newman、Tarkov/Contract Wars、Wargaming/BigWorld与Gaijin/Dagor（斯拉夫专题）。
+
+这里按历史生产条件选阅读对象，不把成品作者机械归入“天才技术流/更聪明体验流”的人格优劣分类。
