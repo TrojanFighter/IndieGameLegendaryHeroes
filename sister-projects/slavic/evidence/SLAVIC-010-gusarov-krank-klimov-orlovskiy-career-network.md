@@ -112,6 +112,10 @@ https://www.kommersant.ru/doc/830918 （2026-10-07）
 
 [中国跨区canonical：Royal Quest / Red Winter / 新剑侠传奇2012—2024作者、产权和失败后复活](../../../country-studies/china/royal-quest-dungelot-xinjianxia-author-ip-split-2012-2024.md)：2023《Royal Quest》俄区运营与开发权由Fulqrum交Lesta，2024 Steam显示Lesta负责新版，**不能推原Katauri全队仍雇于Lesta**。2013年Katauri程序/设计Dmitry Mitrofanov本人称早在《Royal Quest》开发期就为做自己的游戏而离开，与原团队艺术负责人Alexander Yazynin组成只有2名常驻核心的Red Winter；2013年报道同时把Yazynin称为Katauri共同所有人与美术总监，**需核可能同时保留Katauri职务，不应写全员集体离职**。他们2014《Dungelot 2》因F2P和QA失败主动撤市，5月回归，2016回买断tinyBuild发行。这个跨角色谱系能做人物人年追踪样板，不能推出俄团队裂变总体频率。
 
+### 2026-10-09 credits审计纠错：Katauri旧游戏的续作署名不是2012实际雇佣人群
+
+新证据canonical中国跨区档：[2008 Katauri具名员工与王屹制作人决策对比](../../../country-studies/china/katauri-wangyi-2008-2025-credits-decision-domain-audit.md)。2008《King's Bounty: The Legend》有18位Katauri专业核心具名署名，而总credits是65人含发行/音乐/致谢；2012《Royal Quest》并没有公开完整Credits（MobyGames只有2014 Steam上架），不可拿Gusarov“45名团队”直接推离业率。2014《King's Bounty: Dark Side》包含继承的Katauri旧团队名单，不能当这些人2014仍受雇或参与制作。2019 Gusarov亲述**他与Alexander Yazynin仍在Neodynamics工作且Katauri并未消失**；Yazynin参与Red Winter并非永久离职。须分开项目合作、股权、雇佣以及旧代码/credit的保留。
+
 ## 7. 2026-10-09 Gusarov自述新证据重检：从自选MMO到商业化压迫，不是俄国永恒自由神话
 
 以下**仍是前文D01同一来源**的精细补读，并非无关的新第二作者证词。2019-08-22 Gusarov亲署第一人称：https://dtf.ru/gamedev/65368-istoriya-tvorchestva-dmitriya-gusarova-avtora-kosmicheskih-reindzherov-i-kings-bounty 。全部2019回忆定P1，不能把2019回忆误记2009/2012 P0。
