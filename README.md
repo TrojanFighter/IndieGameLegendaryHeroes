@@ -1,5 +1,8 @@
 # 独立游戏英雄传说
 
+**研究纠偏（2026-10-09）**：[中国独游项目人效、外部中间件与内部造轮子的组织激励](book/research-notes/china-indie-manpower-efficiency-middleware-build-buy-incentives-2026-10-09.md)：对照Lethal Company/Phasmophobia/BattleBit与Gunfire Reborn/Party Animals/ChillyRoom，强制区分公司人数、署名人数、项目FTE×年、固定现金burn、销量/付费和核心玩法验证，并检验自研保岗位与老板判断失灵的`BUILD-BUY-DELETE`机制。
+
+
 **游戏工业化分代（2026-10-09）**：[Unity → Asset Store → 联网中间件 → AI：独立游戏软件攒机与生产能力商品化](cross-industry/industrial-revolutions/004-unity-asset-store-network-middleware-ai-indie-industrialization.md)。采用Mirror维护者本人历史、Unity官方时点、2023年《致命公司》Demo实际DLL清单；纠正“《致命公司》使用Mirror”的直接因果误认。
 
 **新增产业史专题**：[民间高手时代：1999—2025多人游戏技术就绪与玩法创新权转移](book/research-notes/grassroots-online-multiplayer-opportunity-window-1999-2025.md)。区分早期Mod谱系、2012—2018新规则爆发与2020年代小团队联机扩散；包含SteamDB回溯统计和大厂反例。
