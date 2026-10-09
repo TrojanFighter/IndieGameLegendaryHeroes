@@ -109,9 +109,27 @@ Hunt recalls two nights of security work and five development days per week duri
 - Publication date: 2018-12-06
 - URL: https://www.pcgamesinsider.biz/indie-interview/68200/surviving-steam-greenlight-and-decade-of-development-with-lo-fi-games-chris-hunt/
 - Access date: 2026-10-09
-- Verification Status: PARTIAL (body read; date inconsistency retained)
+- Verification Status: VERIFIED (body re-read 2026-10-09; quotes taken verbatim)
 
-Hunt describes distrust during update gaps and after other Early Access abandonments, and recalls repeated engine upgrades/workarounds, with further improvement requiring major rewriting. Reporter places Greenlight in 2012 in the opening and 2013 later; exact approval date remains unresolved, and neither wording establishes the EA release date. Do not treat steady updates as proof of inevitable completion or general commercial causality.
+Reported facts:
+- Kenshi was among the first ten titles on Steam Greenlight, and left Early Access in the week of this article (December 2018).
+- After the 2018-12-06 release date was announced it charted at No.1 on Steam in Japan.
+- Very little of the core game changed from its origins, apart from an early move away from early-2000s design tropes.
+
+Direct quotes (verbatim):
+- "Our own dedication was the key. Players got disheartened and suspicious whenever we had to go a long time without updating, and whenever another prominent early access game was abandoned by its team. But over time our game updates just never stopped coming, never stopped improving and fixing the game, and people saw that I guess, saw that we meant business no matter what."
+- "Your technology ages. We've upgraded the game engine and worked around its limitations a lot but it's pretty much pushed to its limit now, only a major rewrite can improve it further."
+- "In its very early days it was going to be about guns and ranged combat, but we're talking about the early 2000s there."
+- "For me personally, it's worked great, but over time I've seen it increasing to a flood of new games, and now there's a lot of fakes, cash-grabs and trashy clones in there. I'm a little worried that it's going to end up like the mobile app stores." (on Greenlight)
+- "The game has some influences from Japanese culture which I think must have attracted them a bit. Also, Japanese players aren't so shy of having lots of character stats and numbers in the game, which is something I like."
+- "The open world aspect is something you don't see a lot of in Japanese games, so I like to think it's something I got them into."
+- "Not much, but if you keep your fans happy and treat them with respect then they will give the same back." (on what the team learned)
+- "We will continue supporting Kenshi for as long as needed and then start work on a new secret project."
+
+Boundary:
+- The reporter places Greenlight in 2012 in the opening and 2013 later in the piece; the exact approval date remains unresolved, and neither wording establishes the EA release date. Use E004 for team composition rather than this piece.
+- The Japan No.1 charting is a release-week observation, not a lifetime sales figure.
+- Steady updates are not proof of inevitable completion or general commercial causality; "our own dedication was the key" is Hunt's own account, not an audited mechanism.
 
 ## E007 — Early programming recollection in the 2019 AMA
 
