@@ -47,4 +47,4 @@
 
 - [原始 Case](../../cases/CASE-016-early-id-software.md)
 - [Evidence Ledger](../../evidence/CASE-016-early-id-software-source-ledger.md)
-- [扩大试点与升级门槛](../EDITORIAL-CROSS-MODEL-ROLLOUT-2026-10-09.md)（该计划当前见独立 Lane A PR #294，尚未进入 main）
+- [扩大试点与升级门槛：Lane A PR #294](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/pull/294)（尚待作者审核）
