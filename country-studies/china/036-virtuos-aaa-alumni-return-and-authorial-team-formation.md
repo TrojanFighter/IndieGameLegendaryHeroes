@@ -119,6 +119,45 @@ pre-existing creator judgment / collaboration network
 
 但不能倒过来说所有好公司都必须先有单一天才，或只有这样的先后顺序才可能成功。维塔士与NExT提供另一种路线：**现有大组织可以为员工建立可用的原型入口与市场责任训练。** 其效果要按进入原型、完成产品、形成第二次尝试的同一队列验收。
 
+## 3.4 产业分工的代际效应：同为“3A老兵”，工作十年练到的并非同一种能力
+
+WIPO《World Intellectual Property Report 2024》第五章以历史资料指出：游戏开发团队平均规模从1995年约26人增加到2015年约94人，伴随开发成本、专业化工种和发行商垂直整合扩张 [S17]。这支持**跨时期比较必须区分组织结构和职位责任**，却不等于证明“1990年代游戏都比现在创新”或“3A员工普遍没有创意”。
+
+候选机制（H）：
+```
+rising production complexity / sunk costs
+→ specialization and division of authority
+→ many capable specialists have fewer full-product thesis and market decisions
+→ seniority/pedigree becomes a noisy proxy for authorial capacity
+→ incomplete conversion from technical employees to independent creative cores
+```
+
+必须跟踪个体是否在正式项目以外持续练习原型、jam、mod、个人作品与设计复盘。**雇主没有提供作者权**与**本人没有在其他场合培养作者能力**是两个不同变量；不能只依组织压制解释、也不能无证据推断当事人从不实践。对比Warhorse/4A等前史时要控制第一次从业的年份、当时工种数量、早期是否实际决定过项目方向。并保留DOOM等技术创造直接产生新体验的历史反例：技术能力有时就是原创方向的一部分，而非天然与设计判断对立。
+
+## 3.5 “3A资历”与完整游戏权威之间的岗位错配
+
+育碧官方《Games Explained》将3C明确为Camera、Character、Controls，作为玩家基础体验的核心；《Rayman Origins》2012年开发复盘说明镜头、角色和控制的基础体验若失效，优秀关卡本身也难以补救 [S18–S19]。一个高级UI程序岗位的资历可能证明UI架构、性能或协作能力，却**不自动证明其曾经拥有3C、combat、完整产品的定义权**；反之亦然。检验这种错配不能用姓名和大厂Logo，要索要本人与具体系统责任相对应的作品、原型、决策记录，以及实际反馈闭环。
+
+**概念区分**：
+- `SPECIALIST CRAFT`：特定模块的高水平实现；
+- `INTERACTION CRAFT`：3C、game feel、关卡/战斗等玩家体验闭环；
+- `PRODUCT AUTHORSHIP`：选择核心体验、目标玩家、产品结构与可接受风险；
+- `ENTREPRENEURIAL DELIVERY`：筹资、控制生产范围、进入市场、形成第二次产品。
+
+从其中某一层晋升到“Lead”并不会把其余层同时认证。具体个案需按事实核验，不能以聊天传闻推定姓名、项目职责或人品。
+
+## 3.6 创作判断的“运气化”与身份代理的筛选假说
+
+海外3A人才的高薪招聘潮已有公开观察。2021年游戏葡萄对海外猎头的同期采访记录了2018—2019年前后有海外游戏技术及设计人才回中国工作，同时中国厂商也转而在海外设立办公室的现象；猎头的具体高薪举例仅为个案，不是分布统计 [S20]。
+
+真正值得检验的不是“海归高级员工有没有价值”，而是 **`CREDENTIAL-TO-AUTHORIAL-AUTHORITY LEAP`**：在缺乏可比较的原型评测、玩家洞察和完整产品经历时，企业是否因海外厂牌、年限和职称而把专项人才提升为产品创意负责人？
+
+与之相伴的可能是 **`AUTHORIAL-JUDGMENT DENIAL`**：将非共识设计判断简单称为“运气/讲故事”，却把可测的工程学历、技术职位或人力规模视为真正基本功。风险不只是误招几个负责人，更是使会独立定义需求的作者型人才缺乏专业筛选与晋升市场。
+
+两者目前均为**H / NEEDS EMPIRICAL SAMPLING**：要收集有明确职位需求的JD、招聘考核表、过往设计作品及立项/项目淘汰机制，以编码雇主实际把什么当创作能力；不能因某人曾在AAA任职就认定他虚荣或没有创造力。
+
+还要将**产品商业成功、国际高规格交付、成熟类型的优秀组合创新、真正的新问题/新规则发明**分别评价。同一作品可以在一维获得极高成绩，在另一维的范式原创度较低；不能用销售证明某项目“必定开创新范式”，也不能用借鉴现有品类否认其所有原创组织能力。
+
 ## 4. 当前系统性命题（区分事实、机制和强因果）
 
 | ID | 命题 | 当前状态 | 什么会推翻或修正 |
@@ -173,6 +212,10 @@ pre-existing creator judgment / collaboration network
 - **[S13] P0** Warhorse Studios 由CRYENGINE发布，*Kickstarter For Kingdom Come: Deliverance*, 2014-01-23。https://www.cryengine.com/news/view/kickstarter-for-kingdom-come-deliverance
 - **[S14] S1转述公司财报** Diego Argüello / Game Developer, *Kingdom Come: Deliverance II surpasses 5 million sales within first year*, 2026-02-12。https://www.gamedeveloper.com/business/kingdom-come-deliverance-ii-surpasses-5-million-sales-within-first-year
 - **[S15] S1+开发者自述** Eddie Makuch / GameSpot, *La Quimera Reverts To Early Access Launch*, 2025-05-07。https://www.gamespot.com/articles/la-quimera-reverts-to-early-access-launch-out-now-on-steam-for-30/1100-6531370/
+- **[S17] S1 / 组织间研究综述** World Intellectual Property Organization, *World Intellectual Property Report 2024*, Chapter 5, “Leveraging local know-how to develop video game hubs”, 2024。https://www.wipo.int/web-publications/world-intellectual-property-report-2024/en/5-leveraging-local-know-how-to-develop-video-game-hubs.html （1995/2015所引平均团队26/94人；须按报告原始统计口径解释）
+- **[S18] P0/官方制作说明** Ubisoft, *Games Explained: From Game Engines to Going Gold*, 2021。https://news.ubisoft.com/en-gb/article/P8R9SX3LGlQrlXuTuwAfQ/games-explained-from-game-engines-to-going-gold
+- **[S19] P0/P1/创作者回顾** Game Developer, *Remaking Rayman: Camera, character, controls*, 2012-10-09，Chris McEntee《Rayman Origins》开发复盘节选。https://www.gamedeveloper.com/design/remaking-i-rayman-i-camera-character-controls
+- **[S20] S1/同期猎头采访** 游戏葡萄原访谈，36氪转载，*海外猎头：3A员工薪资动辄翻倍，腾讯米哈游在北美有多「卷」？*, 2021。https://www.36kr.com/p/1489086035879042 （猎头观察是样本，不代表全行业实际回国率或薪资平均）
 - **[S16] P0** 腾讯控股，*2025年度报告*（2026披露），主要附属公司列表列示 Riot Games（美国）与 Supercell（芬兰），并在业务讨论中报告国际游戏收入。https://www.tencent.com/zh-cn/investors/financial-reports/ （官方报告目录；须以该目录对应2025年度PDF的附属公司表核对；不拿集团合并收入推算中国籍主创绩效）
 
 > **Method note / 避免自我循环举证**：本仓库已有024/025/012等用作比较方法与已登记的证据指针，不是这些外部事实的独立二次验证；本篇引用公开来源的具体原稿。全部S编号需将来随项目状态定期更新；禁止仅以网页还活着作为证据等级充分条件。
