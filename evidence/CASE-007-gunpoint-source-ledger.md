@@ -277,6 +277,8 @@ For the following extensions, author/title/URL/class remain those of the corresp
 
 Francis attributes his freedom to avoid a sequel to Gunpoint's earnings. He recalls an older, initially 3D space-game idea becoming feasible as a 2D project after learning GameMaker, when a friend reminded him of it. This records his choice and retrospective feasibility judgment, not guaranteed commercial viability. The article's ten-day departure wording is not used to replace E002's launch-week threshold account. No Claim status changes.
 
+E013 detail readback: Francis reports requests for a Gunpoint sequel and describes ports, DLC and sequels as hypothetical survival choices had he needed to extract more income. These are his counterfactual options, not work all actually performed.
+
 ## E014 — Heat Signature launch risk
 
 - Case ID: CASE-007
@@ -289,6 +291,8 @@ Francis attributes his freedom to avoid a sequel to Gunpoint's earnings. He reca
 - Verification Status: PARTIAL (body and page credits read; no accounts audit)
 
 Six days after launch he reports 3.5 years and about GBP 200,000 spent, and an early performance slightly above Gunpoint in the same interval, with the long tail explicitly unknown. This is personal expenditure framing, not independently audited total budget or profit. Page credits also name John Roberts (art), John Winder (code), John Halpart and Chris Harvey (music). His market explanation is his interpretation, not measured industry causation.
+
+E014 detail readback: he calls the project probably the biggest risk of his life. Preserve this as personal assessment, including “probably,” not objective financial comparison.
 
 ## E015 — Tactical Breach Wizards release endpoint
 

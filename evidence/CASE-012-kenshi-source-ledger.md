@@ -48,6 +48,11 @@ Boundary:
 
 ## Current evidence-level conclusions
 
+## 2026-10-09 detail readback of E001/E004
+
+- E001: Hunt describes a weak starting character, raids even in town, wound/bleeding consequences, later recruitment and building, and the pressure of keeping publicly sold Early Access builds stable/playable while adding work. These are creator explanations of design and production, not audited player frequencies or all shipped feature states.
+- E004: at the interview four core people are named: Hunt design/code; Sam Gin programming; sister Natalie scenario/business; Oli Hatton graphics. Two freelancers handle music/sound and media art. Hunt describes keeping his own salary minimal and experiencing difficult periods. Neither this nor the two-security-day/five-development-day recollection supplies a total income, payroll, cash reserve or annual schedule audit.
+
 ## E003 — Learning to share control; a simulated town goes wrong
 
 - Case ID: CASE-012
