@@ -180,7 +180,7 @@ Roset 与两位程序员共同制作《GRIS》，Francis 改写《Gunpoint》的
 - [Tom Francis / Gunpoint](../profiles/gunpoint.md)；
 - [Question / The Magic Circle → The Blackout Club](../profiles/question-magic-circle-blackout-club.md)。
 
-要查明这篇文章中人物的完整职业路径、已知资金结构、证据来源与明确未知项，从各个 [Case](../../cases/README.md) 及其来源账本继续核对：
+要查明这篇文章中人物的完整职业路径、已知资金结构、证据来源与明确未知项，从各个 [案例档案](../../cases/README.md) 及其来源账本继续核对：
 
 - [Gunpoint / Tom Francis](../../cases/CASE-007-gunpoint.md)
 - [Nomada / GRIS](../../cases/CASE-050-nomada-gris-neva.md)

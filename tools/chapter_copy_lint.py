@@ -8,8 +8,10 @@ temporal-validity status labels (`DURABLE`, `CONDITIONAL`).
 
 Two deliberate exceptions:
 
-- markdown table rows: the temporal-validity card is a schema-bound structure
-  whose status cells are canonical vocabulary, not prose;
+- table rows inside a chapter's temporal-validity card: that card is a
+  schema-bound structure whose status cells are canonical vocabulary defined in
+  `book/TEMPORAL-VALIDITY.md`, not prose.  Table rows anywhere else are still
+  checked;
 - link labels: the end-of-chapter entry list names claims by their canonical
   English title, which may itself contain a backend word such as `runway`.
 
@@ -50,6 +52,8 @@ BANNED_TERMS = (
 )
 
 LINK_RE = re.compile(r"\[[^\]]*\]\([^)]*\)")
+HEADING_RE = re.compile(r"^#{1,6}\s")
+TEMPORAL_CARD_RE = re.compile(r"^#{1,6}\s*时效性卡")
 
 errors: list[str] = []
 
@@ -77,10 +81,13 @@ else:
 for chapter in chapters:
     rel = chapter.relative_to(ROOT).as_posix()
     text = chapter.read_text(encoding="utf-8")
+    in_temporal_card = False
     for lineno, raw in enumerate(text.splitlines(), start=1):
         line = raw.strip()
-        if line.startswith("|"):
-            continue  # schema-bound table row (temporal-validity card)
+        if HEADING_RE.match(line):
+            in_temporal_card = bool(TEMPORAL_CARD_RE.match(line))
+        if in_temporal_card and line.startswith("|"):
+            continue  # schema-bound status cells of the temporal-validity card
         prose = LINK_RE.sub(" ", line)
         for term, pattern in PATTERNS:
             if pattern.search(prose):
