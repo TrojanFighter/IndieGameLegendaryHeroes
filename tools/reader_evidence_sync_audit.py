@@ -92,6 +92,13 @@ def main() -> int:
             density.append((path.name, len(blocks), sum(len(b) for b in blocks) // len(blocks)))
     mean_density = sum(d[2] for d in density) // max(1, len(density))
     thin = sorted((d for d in density if d[2] < 700), key=lambda d: d[2])
+    # The actionable subset: thin AND carrying no quote at all. A thin ledger
+    # that already quotes its source needs a different fix than one that
+    # summarised the source into bullets (EDITORIAL-GATE 0.6).
+    thin_no_quote = [
+        (name, n, avg) for name, n, avg in thin
+        if not LONG_QUOTE_RE.search(read(EVIDENCE / name))
+    ]
 
     print("reader/evidence sync audit (report only, does not block merges)")
     print(f"profiles: {len(profiles)}, with backlink problems: {len(backlink_problems)}")
@@ -102,8 +109,9 @@ def main() -> int:
         print(f"  - {message}")
     print(f"ledgers: {len(ledgers)}, with >=1 verbatim quote: {len(with_quote)} ({pct}%)")
     print(f"mean summary per evidence record: {mean_density} chars; {len(thin)} ledgers average under 700")
-    for name, n, avg in thin[:8]:
-        print(f"  - {name}: {n} records, avg {avg} chars")
+    print(f"  of those, quote-free (most actionable): {len(thin_no_quote)}")
+    for name, n, avg in thin_no_quote[:10]:
+        print(f"  - {name}: {n} records, avg {avg} chars, no quote")
     print("Re-read the original source for each hit before editing anything (EDITORIAL-GATE 0.6).")
 
     if args.strict and (backlink_problems or year_drift):
