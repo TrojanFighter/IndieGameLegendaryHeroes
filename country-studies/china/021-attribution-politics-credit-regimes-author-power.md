@@ -37,6 +37,66 @@
 - 历史记忆；
 - 谁能成为“英雄传说”中的人物。
 
+## 0.1 组织光环与独立作者声望：身份能否代替实际贡献？（2026-10-09专题增量）
+
+与 [036 — 维塔士、海外3A人才与原创组织形成](036-virtuos-aaa-alumni-return-and-authorial-team-formation.md)、[027 — 个人主义创新基础设施](027-individualism-as-innovation-infrastructure.md) 及 [029 — 正统倒置](029-orthodoxy-inversion-chundeng-farmer-inventor.md) 交叉。这里讨论的是 **prestige allocation / 身份声望如何分配**；不将私人社交观察作为公共统计证据。
+
+### A. 必须拆开三种“职业声望”
+
+1. `ORGANIZATIONAL PRESTIGE`：曾供职或参与著名3A公司/IP的身份信号。可能确有高度专业价值，但**不是完整作者资格证书**。
+2. `SPECIALIST REPUTATION`：本人在特定岗位/技术、团队协作、3C、设计模块上的可验证贡献、peer references与具体作品记录。
+3. `PORTABLE AUTHOR CAPITAL`：离开原雇主/IP后，仍能凭自主形成的游戏创作、玩家信任、原型与交付记录吸引合作者、受众、资金与发行商。其更严定义见[020](020-author-brand-capital-portable-demand-bargaining-power.md)。
+
+将第一类直接当第三类，定义为候选 **`ORGANIZATIONAL-HALO→AUTHORIAL-STATUS TRANSFER` / 组织光环的作者权误认证**。它不是海外就业或技术岗位的道德缺陷，而是**评价者可能犯的贡献归因错误**。
+
+Cialdini等（1976）研究 `Basking in Reflected Glory`，在三项大学橄榄球场景实验中发现，集体成就能影响个体公开展示归属的倾向，即使个人未直接促成球队成功 [H01]。该研究**只能为“集体声望可被个人挪用”提供一般社会心理学机制**；它没有研究游戏业、中国、欧美差异，不能据此断言中国3A员工更傲慢。
+
+Jan Švelch对2016–2020年100款电子游戏的片头/片尾署名研究指出：AAA、AA、独游及服务型游戏存在不同的贡献显化与署名层级，部分实际劳动可能被忽视 [H02]。IGDA在2023年发布的开发署名规则及调查进一步表明，署名不足是国际行业问题而非中国独有 [H03]。
+
+### B. 美国的独立作品认可：有直接制度证据，但不是所有美国从业者的共同态度
+
+NYU Game Center的2026本科招生说明要求 **creative portfolio**、团队贡献清单，并声明没有credits的作品不予评审；作品可以是游戏、程序、电影、文字、音乐等 [H04]。其MFA招生明确写明不要求职业游戏履历，要求个人创作愿景、作品意图、实际贡献、独立游戏分析 [H05]。MFA FAQ公开将目标设定为培养创作领导者、独立游戏艺术家及评论家，而非仅训练大规模工业分工岗位 [H06]。
+
+2026 Game Center Incubator筛选标准包括明确的产品目标、目标玩家、独特性/差异点及合作能力，并提供每团队15,000美元资助与导师资源 [H07]。
+
+**这些可验证材料支持：** 在美国至少存在有权威且有资源的机构，会将非大厂个人作品作为严肃的专业入场凭据，也训练从判断到完整产品的作者型能力。**不能推出：** 所有美国大厂员工都尊重独游，所有国内从业者都轻视个人作品，或美国独游普遍比中国独游容易生存。美国游戏业署名和集体权威问题同样实际存在 [H02–H03]。
+
+### C. 候选机制：跨评价环境的资历溢价、身份排序及正统倒置
+
+**H / NEEDS SAMPLING**：在某些强调国际大厂/知名IP履历的职业网络里，独游作者或小团队的实际作品会被误判为“规格不足”，而承担部分模块的3A资深员工可以凭组织prestige获得超出实际作者性证据的地位。于是可能存在：
+```
+big-brand role → occupational signal
+→ (evaluators weak at assessing full-cycle creativity)
+→ inflated perceived authorial authority
+→ hiring/recognition/attention allocation
+→ young developers preferentially invest in pedigree
+→ fewer opportunities to train and signal independent product judgment
+```
+这与029的 `ANSWER-RENT / METHOD-ORTHODOXY / SELECTION INVERSION` 兼容，但**不能把它写成中国3A职业群体的人格特征或发生率**。
+
+应保留两个反方向：一些优秀3A岗位本身拥有真实原创系统/产品责任；一些独立开发者虽然自己拥有作品，也不意味着能胜任3A工程和团队管理。考核单位是 **`ROLE × ACTUAL CONTRIBUTION × DECISION RIGHTS × TRANSFERABLE WORK`**，不是“3A比indie高级”或“indie比3A高级”。
+
+### D. 证伪与测量
+
+- **访谈/作品集对照**：分国内在职3A、海外在职3A、国内商业手游、国内独立团队、美国独立团队等职业群，按同年龄/职位/经验/产品类型匹配；比较其评价他人作品所问的问题、是否查项目贡献、是否看可玩原型。
+- **匿名招聘材料实验**：控制候选人的相同作品与贡献记录，仅变更雇主名气/3A标志与个人项目展示顺序，比较能力评价、回复和面试意愿；必须得到适当伦理许可，不能欺骗真实求职者。
+- **成长与回报**：记录自发jam/mod/prototype是否在招聘、晋升、内部立项、融资中获得可观察兑换；与单纯公司履历溢价分开。
+- **反例**：美国AAA同样存在强势公司身份/歧视独立作者的行业子群；中国本土也有明确以个人原型、独立创作判断为选拔依据的组织。必须纳入同一问题，不得只搜最符合预设的访谈。
+- **沟通行为注意**：个人私信未回复只表明一次未产生互动，无法单独认定对方因indie身份歧视；负面评价/拒绝与不回复应分开编码。
+
+**状态：** NYU“有作者型作品认证与孵化制度”= VERIFIED AS INSTITUTIONAL PRACTICE；署名不均= SUPPORTED AS INTERNATIONAL INDUSTRY FACT；中国3A与手游人之间存在何等数量级身份等级差异= UNKNOWN；“组织光环阻碍原创人才再生产”的作用方向与规模= H。
+
+**外部证据（2026-10-09访问）：**
+- **[H01] P0/心理学同期实验** Robert B. Cialdini et al., *Basking in Reflected Glory: Three (Football) Field Studies*, *JPSP* 34(3), 1976, pp. 366–375. https://doi.org/10.1037/0022-3514.34.3.366
+- **[H02] S1/同行评审论文摘要** Jan Švelch, *Developer Credit: Para-Industrial Hierarchies of In-Game Credit Attribution in the Video Game Industry*, *Games and Culture* 17(3), 2022（online 2021-07-29），仅核摘要，正文可能受限。https://doi.org/10.1177/15554120211034408
+- **[H03] P0/协会调查报告** IGDA, *Game Crediting Guidelines 10.1*, updated 2023-03，刊2023-07-15。https://igda.org/resources-archive/igda-game-crediting-guidelines-10-1-march-2023-update/
+- **[H04] P0/2026官方招生标准** NYU Game Center, *BFA Application*, 2026招生周期。https://gamecenter.nyu.edu/academics/game-design-bfa/apply/
+- **[H05] P0/2026官方招生标准** NYU Game Center, *MFA Application*, 2026招生周期。https://gamecenter.nyu.edu/academics/game-design-mfa/apply/
+- **[H06] P0/官方教育理念** NYU Game Center, *MFA Frequently Asked Questions*, 访问2026-10-09（页面动态）。https://gamecenter.nyu.edu/academics/game-design-mfa/faq/
+- **[H07] P0/2026官方孵化政策** NYU Game Center, *Incubator Application*, 2026–2027周期。https://gamecenter.nyu.edu/incubator-application/
+
+---
+
 ## 1. 署名不是荣誉装饰，而是职业资本基础设施
 
 电影/电视工会已经把这一点制度化。
