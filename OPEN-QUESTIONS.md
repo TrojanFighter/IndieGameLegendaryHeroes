@@ -407,6 +407,9 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 **Suggested route:** 中国035材料与教学目录主责；1941调查、李鼎铭缩编、淮海9/24–25往返电报优先，1959–61组织纠错作负例，陈云遵义手稿用于来源鉴定；中国034提供避免说教式教学自我复制的伦理与方法约束。  
 **No unwarranted conclusions:** 一段伟人指示≠现代MBA实效；党史原始材料不等于所有官方解释正确；军事组织方法不自动正当化民用组织的强制/权力集中；优秀个案≠国别发生率。
 
+
+**2026-10-10新增的检验单元：** [中国036第6节](country-studies/china/036-narrative-provenance-counter-discipline-free-exploration.md#6-第二轮图片重读三道审计与谁有权出题2026-10-10增量)与[中国035第9节](country-studies/china/035-party-history-original-sources-decision-education-curriculum.md#9-必须先审计谁出的题再评价谁答得好2026-10-10)：在原来`SOURCE / DECISION TIME`门槛之前加入`QUESTION OWNER / ACTOR–GOAL–COST / CLAIM STRENGTH / TEMPORAL PROVENANCE`。对比“接受既定目标并优化行动”与“允许根据当时证据质疑、修订目标”的课程，盲测学生是否识别被省略的行动主体和利益，以及能否辨认伦理主张被偷换成经验因果。**研究问题待证**：目标自主权的课程训练有多少迁移，不用一两名历史英雄或名人图像作教育效果分母。
+
 ---
 
 ## P1 — Institutional Reproduction / Career Decision Rights
