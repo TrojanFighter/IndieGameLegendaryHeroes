@@ -264,6 +264,45 @@ For the following extensions, author/title/URL/class remain those of the corresp
 
 ## Current evidence-level conclusions
 
+## E013 — Success created room to decline a sequel
+
+- Case ID: CASE-007
+- Source class: P1 (past choices); P0 (ongoing project intentions); S1 (reporting)
+- Source title: Gunpoint and Heat Signature developer Tom Francis on going from critic to creator
+- Author / organization: MCV Staff / MCV; interviewee Tom Francis
+- Publication date: 2015-07-09
+- URL: https://mcvuk.com/business-news/media-pr/gunpoint-and-heat-signature-developer-tom-francis-on-going-from-critic-to-creator/
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (body read; recollections not independently corroborated)
+
+Francis attributes his freedom to avoid a sequel to Gunpoint's earnings. He recalls an older, initially 3D space-game idea becoming feasible as a 2D project after learning GameMaker, when a friend reminded him of it. This records his choice and retrospective feasibility judgment, not guaranteed commercial viability. The article's ten-day departure wording is not used to replace E002's launch-week threshold account. No Claim status changes.
+
+## E014 — Heat Signature launch risk
+
+- Case ID: CASE-007
+- Source class: P0 (launch observations); P1 (development expenditure recollection)
+- Source title: Heat Signature’s Launch, And First Player Legend
+- Author / organization: Tom Francis / personal blog
+- Publication date: 2017-09-27
+- URL: https://www.pentadact.com/2017-09-27-heat-signatures-launch-and-first-player-legend/
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (body and page credits read; no accounts audit)
+
+Six days after launch he reports 3.5 years and about GBP 200,000 spent, and an early performance slightly above Gunpoint in the same interval, with the long tail explicitly unknown. This is personal expenditure framing, not independently audited total budget or profit. Page credits also name John Roberts (art), John Winder (code), John Halpart and Chris Harvey (music). His market explanation is his interpretation, not measured industry causation.
+
+## E015 — Tactical Breach Wizards release endpoint
+
+- Case ID: CASE-007
+- Source class: P0
+- Source title: Tactical Breach Wizards Is Out!
+- Author / organization: Tom Francis / personal blog
+- Publication date: 2024-08-22
+- URL: https://www.pentadact.com/2024-08-22-tactical-breach-wizards-is-out/
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (creator release announcement read)
+
+The announcement states that the team worked on the game for 6.8 years. This is an elapsed project duration, not 6.8 years of one person's full-time hours. It supports the release endpoint, not lifetime sales or a complete contributor perimeter. E007 remains the authority for the 2020 design interview.
+
 ### STRONGLY SUPPORTED
 - Gunpoint was not literally a one-human production.
 - Development was publicly documented over about three years.
