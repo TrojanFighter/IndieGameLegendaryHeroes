@@ -158,7 +158,7 @@ SOURCE-SYSTEM TRAINING / SELECTION
 - **[E04] S1/同行评审公开全文** Songyue Lin, Jin Liu, Wenjing Lyu, *Who is more popular in the faculty recruitment of Chinese elite universities: overseas returnees or domestic graduates?*, *Humanities and Social Sciences Communications* 11 (2024), 1426。https://www.nature.com/articles/s41599-024-03818-4
 - **[E05] S1/同行评审论文摘要** Zaichao Du, Yuting Sun, Guochang Zhao, David Zweig, *Do Overseas Returnees Excel in the Chinese Labour Market?*, *China Quarterly* 247 (2021), 875–897。https://doi.org/10.1017/S0305741021000023
 - **[E06] P0/随机化招聘实验研究** Mingyu Chen, *The Value of U.S. College Education in Global Labor Markets: Experimental Evidence from China*, *Management Science* 70(2) (2024), 1276–1300, published online 2023-04-07。https://doi.org/10.1287/mnsc.2023.4745
-- **[E07] S1/质性研究全文及摘要** *When the halo of my overseas credentials disappeared: Chinese student returnees and their domestic employability*, *British Journal of Sociology of Education*, 2025, 100名海归访谈。https://doi.org/10.1080/01425692.2025.2519491
+- **[E07] S1/同行评审质性研究** Yinni Peng, *When the halo of my overseas credentials disappeared: Chinese student returnees and their domestic employability*, *British Journal of Sociology of Education* 46(6) (2025), 815–833，online 2025-06-23，100名海归访谈。https://doi.org/10.1080/01425692.2025.2519491
 - **[E08] P1/社会哲学家著作节选** Michael Sandel, *The Tyranny of Merit*, Harvard Gazette转载选文，2021-01-05。https://news.harvard.edu/gazette/story/2021/01/the-myth-of-meritocracy-according-to-michael-sandel/
 
 ---
