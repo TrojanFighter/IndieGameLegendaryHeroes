@@ -251,3 +251,5 @@ Fidelity Readback：人物归责、数字口径、否定/情态、因果、UNKNO
 六维差异：人物具体性改由当事人的疑问表达，而非作者替他总结；连贯度沿记者提问→实际原型→本人迟疑，不添新节点；作者关于品味、试验与取舍的判断保留；节奏增加短引语的不同声音，是否有效仍待作者；阅读意愿NOT TESTED；保真回读的归责、时间、数字、情态、因果、回顾/同期、未知均PRESERVED。短引语不能单独证明成功原因，也不提供新增前史。
 
 本轮另完整读取Peter Brown的GameSpot《Gunpoint Review》（2013-10-04，https://www.gamespot.com/reviews/gunpoint-review/1900-6409472/），它同时肯定可组合谜题并批评内容短、编辑器不足；以及Brian Rubin的《Limit Theory Q&A: Limitless Procedural Good Timiness》（2012-11-26，https://www.spacegamejunkie.com/featured/limit-theory-qa-limitless-procedural-good-timiness/）访谈正文。后者已登记于CASE-054 E002，前者尚未登记，均未加入Gunpoint候选新事实。外界的具体期待和批评应进入后续取证与叙事选择，而不是只收集赞誉、把引文装饰在不变的提纲上。每篇按其已核材料分别处理，不设引用数量配额。
+
+独立编辑本轮重开E004原文，提出并已修正两处时间表达：2012-01-30是刊出日，不声称是提问日；短引语用“我当时不知道”保留didn't know过去时，不误写成2012受访时仍不知道。采访问题、条件与已有事实边界均获回读支持；编辑回读不构成作者文风验收。
