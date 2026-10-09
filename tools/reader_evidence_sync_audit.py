@@ -26,7 +26,7 @@ CASES = ROOT / "cases"
 EVIDENCE = ROOT / "evidence"
 
 YEAR_RE = re.compile(r"\b(?:19|20)\d{2}\b")
-LONG_QUOTE_RE = re.compile(r'"[^"]{60,}"')
+LONG_QUOTE_RE = re.compile(r'"[^"]{60,}"|“[^”]{20,}”')
 CASE_LINK_RE = re.compile(r"\(\.\./\.\./cases/(CASE-\d{3}[^)\s]*\.md)\)")
 LEDGER_LINK_RE = re.compile(r"\(\.\./\.\./evidence/(CASE-\d{3}[^)\s]*\.md)\)")
 
