@@ -118,6 +118,8 @@ Packet 可复用改写协议中的字段，但它是策划纸条，不是所有�
 
 逐节正确不等于全文好读。连读开篇到结尾，检查是否反复先概括、再举例、再总结，是否每个小节都同样短促，是否正文夹入了上一稿的编辑说明。只处理实际冗余，必要转场、作者有意强调、技术用语、原话和事实边界仍保留。不强制口语化、随机变化句长或把不同作者写成刻意不同的角色。
 
+译腔另查语境与中文搭配，不能只核对字典词义。职业名词先辨岗位、职责、职级或身份，再检查它与“应聘、担任、负责、转岗”等动词怎样搭配；优先写清具体工作。例如杂志招聘语境的staff writer可写“撰稿岗位”，后续职责可写“转去写稿”，不写“应聘杂志的写作者”。writer并非处处同译，也不能为顺口把它升级成主编、加上自由职业身份或管理权限。陌生职称回查原文和职责，必要时保留原称说明；直接引语不擅改，A/B中的旧译保留为历史版本。这是语境审读，不是“写作者”等词的黑名单。
+
 交付沿用六维比较，附少量原句/改句及编辑收益；可判KEEP_ORIGINAL或REVISE_AGAIN。如实记录是否匿名、由谁比较及是否有真实读者参与；非匿名比较不称盲测，Agent比较不能证明真实读者阅读意愿改善。跨篇复用的是检查方法，不是Gunpoint的八节结构或固定字数。
 
 方法参考（2026-10-09核读，独立转述）：[Humanizer-zh](https://github.com/op7418/Humanizer-zh/blob/main/SKILL.md)的作者声音与模式诊断、[stop-slop](https://github.com/hardikpandya/stop-slop/blob/main/SKILL.md)的具体表达检查、[shuorenhua](https://github.com/MrGeDiao/shuorenhua/blob/main/SKILL.md)的实词与语义回读、[nuwa-skill](https://github.com/alchaincyf/nuwa-skill/blob/main/SKILL.md)的表达维度与张力观察。上述方法各自的整套流程、禁词/禁标点、人物模拟或自动编排不因此成为本库规则；外部效果自述未由本库验证。实践差异见独立Lane C [Gunpoint候选PR #289](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/pull/289)，作者及真实读者验收仍待完成。
