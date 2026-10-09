@@ -6,6 +6,14 @@
 - **解释对象：** 为什么成熟联机/网络计算技术并不自动转化为新游戏范式；为何玩家、modder、独立作者和异业软件从业者获得更低成本的规则实验权；又为何大厂仍是基础设施与规模化的重要建设者。
 - **边界：** “民间高手时代”是历史叙事标签，**不是**“1999年以前没有mod创作/独立多人游戏”，亦**不是**“大厂不懂联网技术”；“民间高手”包含不同商业关系（Mod、独立工作室、小商业FPS团队、传统厂商聘用创意者），不是统一的资本身份。
 
+## 2026-10-09 工业化分代补丁：Mirror ≠ 《致命公司》直接使用
+
+配套[跨行业004：Unity/Asset Store/联网中间件/AI扩散](../../cross-industry/industrial-revolutions/004-unity-asset-store-network-middleware-ai-indie-industrialization.md)。早在2009–13，Unity可用开发环境与插件交易平台（2010 Asset Store），Photon PUN（2011）等已经为联网小团队提供能力；不能说2018 Mirror“发明了独游联网”。Mirror 2018–19时期作为社区UNet替代方案的意义，是让原有游戏和小开发者可以获得可维护、可替换transport的开源高层网络能力；其开发者vis2k 2015年还通过Asset Store销售uMMORPG模板成为全职中间件作者。
+
+《Lethal Company》2023-10-14 Steam Demo depot公开列出Unity NGO、Facepunch Steam transport、DissonanceVoip等DLL，未见Mirror。其设计创新是将共享风险、语音交流和玩家失误组合为游戏内容生成器，而不是由Mirror单独创造。SteamDB证明的是分发组件存在，不是采购价格或制作人只靠“拼插件”。
+
+2012 FTL使用C++/SDL而非Unity；当时独立游戏并非全部单人肉鸽，但程序生成/Permadeath能压低PvE内容义务。成熟联网中间件进一步使 **`SOCIAL_CONTENT_COMBINATORICS`** 可选，玩家互动与程序化内容叠加，形成新的小团队产品窗口。不同层次要按当时工具实际可获取性与授权价格考察。
+
 ## 1. 技术可能性远早于2017 PUBG / 2016 EFT
 
 | 年份 | 已公开存在的能力 | 对假说的约束 |
