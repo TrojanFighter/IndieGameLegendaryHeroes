@@ -51,6 +51,12 @@
 - `VALVE`: https://store.steampowered.com/news/
 - `CASE`: https://github.com/TrojanFighter/IndieGameLegendaryHeroes/blob/main/cases/README.md
 
+- `NINTENDO_HISTORY`: https://careers.nintendo.com/our-history/
+- `COUNTER_STRIKE`: https://blog.counter-strike.net/history/
+- `STEAM_HAT`: https://store.steampowered.com/app/253230/A_Hat_in_Time/
+- `EPIC_CREATIVE`: https://www.fortnite.com/news/creative
+- `EPIC_UEFN`: https://www.fortnite.com/news/unreal-editor-for-fortnite-and-creator-economy-2-0-are-here-new-worlds-await
+
 ## 可做与不可做
 
 **可以**：在相同数据快照和 Steam 平台内比较 2D/3D Platformer 各发售年份的*标签数量*、可观察品类供应趋势；比较 GGJ 同口径 jam 原型与人群规模的不同年度；讨论 UEFN 作者生态的生产量级。
