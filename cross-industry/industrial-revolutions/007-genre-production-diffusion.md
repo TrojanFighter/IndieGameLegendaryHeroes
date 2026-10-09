@@ -14,7 +14,7 @@
 每个 **genre × format × target-platform × target-fidelity** 组成一条独立队列。时间坐标定为：
 
 - **L｜专业高资本／头部**：作品以专业公司／高预算组织／专用硬件等条件实现；大公司规模要另证，**不能从 Nintendo 品牌推算开发当时人数**。
-- **M｜中等组织生产**：有可识别的中等规模人员／人月／预算档位，以常规商业流程稳定完成同档产品；不凭“工作室名字”作判断，未核团队数据时写 `UNKNOWN`。
+- **M｜中等核心制作规模**：为可操作比较，暂用**5—49 名署名核心项目开发者**作为观察组（研究阈值，不是当代/历史通用定义），必须标注人数口径、年代、是否依附大公司/大发行、周边外包；不凭“工作室名字”判断，未核数据时写 `UNKNOWN`。 **M 是人员规模，不等于“中型独立公司”；L 是组织资金/平台环境，两者可能同时成立。**
 - **I｜独立作者完整产品**：创作者自主主导、完成可玩的有市场接口产品；可以有签约发行／美术合作，必须另记真正核心人数。原型单独标为 `I-prototype`。
 - **Q｜同品类多作者量产**：严格版必须年内有足够多**不同开发主体**，且可统计重复年份和商业/非商业边界。只观察到游戏数（`Q-product-proxy`）**不等于 Q-author-confirmed**。
 - **F｜技术前沿创造** 与 **T｜工具/平台供给** 是和以上四种主体**正交的辅助时钟**，不算另一种大厂规模；MOD 出品也不得偷换 standalone。
@@ -39,8 +39,8 @@
 
 | 队列 | L／专业头部的**可观察案例** | M／中型正式产能 | I／独立完成或公开试验 | Q／可检验量产依据 |
 |---|---|---|---|---|
-| 2D 平台动作 | **1985** 《Super Mario Bros.》Famicom 商业关卡产品 [Nintendo](https://www.nintendo.com/jp/character/mario/en/history/smb/index.html) | **UNKNOWN**：需逐款核实同期商业制作人数，不等同 1985 任天堂项目整体员工 | **1983** 《Manic Miner》Matthew Smith 作为小作者商业作品，ZX Spectrum [World of Spectrum](https://worldofspectrum.net/item/0003012/) | 2015 Steam 2D Platformer **50 款**；2017 **96 款**；2024 **1,962 款**；是同标签 **Q-product-proxy**，作者去重未完成 |
-| 3D 平台动作 | **1996** 《Super Mario 64》Nintendo 的专业消费市场 3D 产品 [Nintendo](https://www.nintendo.com/jp/character/mario/en/history/index.html) | **UNKNOWN**；2017 `A Hat in Time` 有多人参与，却未核同期全职／外包边界，不能擅标“中厂” | **2012** `A Hat in Time` 开始 UDK 原型，2013 Kickstarter，**2017** 成品小团队；**2020** 《Pumpkin Jack》Nicolas Meyssonnier 主导的 3D 平台动作 [2013 开发者访谈](https://www.cubed3.com/features/interviews/gears-for-breakfast-talk-a-hat-in-time)／[Kickstarter](https://www.kickstarter.com/projects/jonaskaerlev/a-hat-in-time-3d-collect-a-thon-platformer)／[Steam 2017-10-05 发行](https://store.steampowered.com/app/253230/A_Hat_in_Time/)／[Xbox](https://www.xbox.com/en-US/games/store/pumpkin-jack/9N7TB1SB2M0K) | 2015 Steam 3D Platformer **37 款**；2017 **104 款**；2024 **1,374 款**；**Q-product-proxy**，非作者群独立样本 |
+| 2D 平台动作 | **1985** 《Super Mario Bros.》Famicom 商业关卡产品 [Nintendo](https://www.nintendo.com/jp/character/mario/en/history/smb/index.html) | **1991**《Sonic the Hedgehog》核心团队 **5→7 人**，中裕司 1997 第一人称回顾；**Sega 内部制作组、不是独立中型公司** [开发者同期近时采访](https://shmuplations.com/sonicteam/) | **1983** 《Manic Miner》Matthew Smith 作为小作者商业作品，ZX Spectrum [World of Spectrum](https://worldofspectrum.net/item/0003012/) | 2015 Steam 2D Platformer **50 款**；2017 **96 款**；2024 **1,962 款**；是同标签 **Q-product-proxy**，作者去重未完成 |
+| 3D 平台动作 | **1996** 《Super Mario 64》Nintendo 的专业消费市场 3D 产品 [Nintendo](https://www.nintendo.com/jp/character/mario/en/history/index.html) | **1996**《Crash Bandicoot》核心 **8 人**，Naughty Dog 官方回顾；**1998**《Spyro the Dragon》在 Insomniac 分类下可核到 **13 名署名者**（完整 credits 约 240 人，包含发行／支持），这是项目开发者口径而非累计人力。2017 `A Hat in Time` 仍缺完整人年，不能擅标中型公司 [Naughty Dog 原厂回顾](https://blog.playstation.com/archive/2014/12/03/naughty-dog-looks-back-20-years-playstation-development)／[Spyro 项目 credits](https://www.mobygames.com/game/3633/spyro-the-dragon/credits/playstation/) | **2012** `A Hat in Time` 开始 UDK 原型，2013 Kickstarter，**2017** 成品小团队；**2020** 《Pumpkin Jack》Nicolas Meyssonnier 主导的 3D 平台动作 [2013 开发者访谈](https://www.cubed3.com/features/interviews/gears-for-breakfast-talk-a-hat-in-time)／[Kickstarter](https://www.kickstarter.com/projects/jonaskaerlev/a-hat-in-time-3d-collect-a-thon-platformer)／[Steam 2017-10-05 发行](https://store.steampowered.com/app/253230/A_Hat_in_Time/)／[Xbox](https://www.xbox.com/en-US/games/store/pumpkin-jack/9N7TB1SB2M0K) | 2015 Steam 3D Platformer **37 款**；2017 **104 款**；2024 **1,374 款**；**Q-product-proxy**，非作者群独立样本 |
 | 3D 空间模拟／系统性开放世界 | **UNKNOWN：**1980 《Battlezone》只证明专业线框 3D 战车，不能等同 1984 `Elite` 的持久世界系统 | UNKNOWN | **1984** `Elite` 商业作品，明确 Ian Bell 和 David Braben 两位原始作者；**2009** `Minecraft` 早期公共开发候选（正式逐日资料待补）[Elite source archive](https://elite.bbcelite.com/) | 商业独立 3D「系统模拟」作者 cohort 未建立，**UNKNOWN** |
 | 3D FPS／可编辑射击 | **1993** `DOOM` 小型专业工作室主动推进渲染／工具，属于专业能力与内生技术创作，不是 1990s AAA 大厂样本 [CHM](https://www.computerhistory.org/timeline/graphics-games/) | UNKNOWN | 1993 起 WAD 与 MOD 为可用底座；**1999**《Counter-Strike》先作为《Half-Life》MOD 发布 [Valve 原站](https://blog.counter-strike.net/history/)；**2018** `DUSK` David Szymanski 署名开发，New Blood 发行（不把发行支持抹去）[Steam](https://store.steampowered.com/app/519860/DUSK/) | FPS/MOD 内容与 standalone 产量尚未同口径去重，**UNKNOWN** |
 | 3D 商业多人合作 | 早期联网商业 FPS 与 2023 合作恐怖属于**不同子品类**，无可比同产品大型先行者年份 | UNKNOWN | **2023** `Lethal Company`：Zeekerss 署名开发及发行、Steam Early Access；能证实 3D 联机玩法独立供给，不能推出零外包、零服务器成本 [Steam](https://store.steampowered.com/app/1966720/Lethal_Company/) | 同规模作者群 cohort **UNKNOWN** |
@@ -91,6 +91,16 @@ GGJ 2026 官方 2 月报道和 4 月问卷报道参与人数分别为 39,069 和
 | 系统生存／开放世界 | 1984 `Elite`、后续专业 3D 模拟 | 多人沙盒/开放世界中型工作室（待核） | `Minecraft`、`Terraria`、`Kenshi` | 系统规模 vs 画面规格、第一版原型 vs 完成版 |
 | 多人模式验证→standalone | 专业商业在线射击平台 | `H1Z1` / `PUBG` 系列中期团队 | `Counter-Strike`、`DayZ`、`Battle Royale` 作者链 | 在现有地图/服务器上验证规则 ≠ 开发完整大型多人后台 |
 | 平台托管多人 UGC | Roblox / Fortnite 大型平台 | 平台内专业创作者工作室 | UEFN、Roblox 个人／小队 | 平台产品能力与 standalone 工程的成本归属不同 |
+
+## 6.5 核心制作小队 vs 巨型组织：极其重要的中间层发现
+
+| 项目 | 年份 | 核心人员口径 | 母组织／发行体系 | 证据级别 |
+|---|---:|---:|---|---|
+| `Sonic the Hedgehog` | 1991 | 初始 5，后 7 人 | Sega 公司内部 | P1：中裕司 1997 年自述，译文见 [shmuplations](https://shmuplations.com/sonicteam/) |
+| `Crash Bandicoot` | 1996 | 首作 8 人 | Naughty Dog 开发、外部主机发行体系 | P1：Naughty Dog [PlayStation 官方站回顾](https://blog.playstation.com/archive/2014/12/03/naughty-dog-looks-back-20-years-playstation-development) |
+| `Spyro the Dragon` | 1998 | Insomniac 栏目下 13 名署名者，外部全部 credits 约 240 | Insomniac + Universal Interactive / PlayStation 发行结构 | 项目原始署名之公开档案，见 [MobyGames](https://www.mobygames.com/game/3633/spyro-the-dragon/credits/playstation/)；其余非核心 contributors 不能自动算全职 |
+
+**新方法门禁**：对历史游戏不是“发行商/母公司=大组”“核心 8 人=纯独游”二选一，而要拆成 `核心开发 FTE` × `母组织／publisher` × `工具与技术支持` × `外部美术音乐/QA`。Sonic 的 M 与 L 可同时为真：小制作组在大公司体制内。以上人数不能直接换算同样的人月。
 
 ## 7. 下一轮审计应优先解决，而不是追逐更多英雄
 
