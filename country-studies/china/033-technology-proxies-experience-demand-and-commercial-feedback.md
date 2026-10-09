@@ -390,3 +390,8 @@ PUBG/Greene：外部成熟引擎及Mod→低成本发现新规则；韩国Blueho
 ### 2025 全球 Steam 高关注管线：粗数量级代理，不是原创能力或中间件率
 
 波兰PARP《The Game Industry of Poland 2025》p.29复刻Game Industry Conference对2025-07 Steam Top200愿望单来源国的统计：中国**8**项（4.08%）、波兰**12**、瑞典**14.75**、韩国**10**。这些包含共享归属的加权数值，**不是**中国2025年全部发售数，也**不是**新机制原创项目数或每开发者成功率。来自Steam premium全球关注市场的**高注意力管线份额**，只能作为“为何中国巨大游戏工业在特定全球产品市场中显得相对偏薄”的研究动机；不同市场制度、流量、题材与发行节奏为重大混杂。来源原报告：https://www.parp.gov.pl/storage/publications/pdf/The_Game_Industry_Poland_2025_12_29.pdf ，p.29 Table 2。此表不能证明中国“比发展中国家精英意识落后”，也不能用于估算技术吸收缺口比例。
+
+
+### 2026-10-09 人效纠偏：`EXISTENCE ≠ PRODUCTIVITY`
+
+新增[《中国独游与商业游戏的人年、成本、中间件与岗位激励审计》](../../book/research-notes/china-indie-manpower-efficiency-middleware-build-buy-incentives-2026-10-09.md)。前文以“QFramework/Luban/HybridCLR存在”及“凉屋/枪火重生成功”反驳作者关于中国中间件意识与低人效的比较是方法错误：工具存在不能推项目FTE成本、资本效率、原创可验证hook/开发人年、行业中位数。2020《Gunfire Reborn》MobyGames如今credits录入128个专业角色、34致谢，**既不能叫2–3人独游，也不能当2020首发时128全职员工**；2017《元气骑士》确有每项目1–3人，2026凉屋公司约200人但项目仍4–5人起，亦不能拿公司总人数冒充项目规模。详见该审计，并将`BUILD-BUY-DELETE`、`MAKE-WORK_BY_INHOUSE_INFRASTRUCTURE`设为待测组织机制；特定雇员是否为保岗位而反对工具须有内部证据，不能直接指控。
