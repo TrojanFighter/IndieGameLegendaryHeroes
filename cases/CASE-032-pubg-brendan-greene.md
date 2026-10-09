@@ -302,3 +302,11 @@ PUBG 之前已经存在完整验证链：
 8. modder → creative director 的管理转型具体在哪些环节失败或重构；
 9. 与 CASE-016 DOOM、CASE-021 Roblox、CASE-022 Tarkov 的可比机制；
 10. 何时有足够跨案例证据将本案绑定到 C006/C010/C011，而不是为了关系完整性过早归因。
+
+---
+
+## 2026-10-09 Addendum — 同一创始人的两种生产范式
+
+与[多人世界技术/单位经济比较](../book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md)接通：Greene 在 mod / H1Z1 时先取得规则与受众反馈，Bluehole / 金昌汉提供公司生产与全球分发能力；PUBG商业成功不证明Greene下一次技术押注必然正确。
+
+PLAYERUNKNOWN Productions于2026-06-17官方宣布停止开发并免费开放**单人**《Prologue: Go Wayback!》，继续Melba地形技术（https://pp.studio/news/prologue-go-wayback-goes-free）。禁止误写成“独立后又因多人服务器成本失败”；研究应拆开游戏商业回报与潜在技术资产、后续资本和实际退出条件。不要从一个人的第一作成功推导该人所有方法和能力恒定，更不要将少数精英案例外推到国家人群。
