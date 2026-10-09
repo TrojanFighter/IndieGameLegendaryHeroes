@@ -121,6 +121,17 @@
 - **也不要把首作成功误当作高规格续作一定成功。** 《The Culling 2》《Cities: Skylines II》与2026年《Deep Rock Galactic: Rogue Core》EA 的不同反馈提示：市场证明、设计形态迁移证明、组织扩张交付证明必须分开。
 - 帕斯亚 CEO 2022 TGDC 演讲回顾了不同程度的失败产品和《波西亚时光》多次改方向的流程问题，并在面试中将大厂策划自豪的 ARPU 业绩与买断制的沉浸体验评价区别开。这是本章 **METHOD-ORTHODOXY** 假说罕见的中国当事人材料，不是国别比例调查（https://www.youxituoluo.com/529643.html）。
 
+### 来自 Mod→独立作品→续作的第三批证据（2026-10-09）
+
+更新 [Earned Scale 跨代案例库](../../book/research-notes/earned-scale-sequel-proof-first-20261009.md) 后，新增一条更严格的“正统倒置”检验：
+
+- 加拿大 Torn Banner：2007《Age of Chivalry》在《Half-Life 2》上以免费 Mod 验证多人冷兵器体验，2012《Chivalry》商业化后2013才正式设办公室；2017《Mirage》失败，团队复盘玩家错配后，2021以35名雇员及 Tripwire 发行资源把二代发展为64人多平台产品（https://tornbanner.com/ ; https://www.unrealengine.com/developer-interviews/chivalry-2-is-designed-to-make-you-feel-like-you-re-in-a-medieval-war）。
+- 《Legion TD》作者2009在 Warcraft III 地图里设计机制，2016亲自说明有意维持小团队、保有最初设计者控制权（https://beta.legiontd2.com/updates/meet-the-creator-of-legion-td/）。与国内《Dota Auto Chess》比较时应问：这些工具社区每年发现多少新作者，最终有多少能够保留IP并转成可持续团队？不是简单罗列成功例外。
+- 《BattleBit Remastered》的低多边形大战场射击，三人核心历经约6年原型/测试，在2018—2019根据玩家观感改变“硬核规则 + Roblox式外观”错配，说明 Scale Down 是**体验承诺与实际能力的重构**，不是“给大作换低成本贴图”（https://howtomarketagame.com/2023/07/03/how-to-market-a-multiplayer-the-battlebit-remastered-story/）。
+- 资本顺序必须增加**作者与知识延续**：2017 Take-Two 收购 KSP IP，续作转交其他开发组织后商业/交付表现并未因老IP验证就自动成功。这支持将 CREATIVE CONTINUITY PROOF 与 MARKET PROOF、DESIGN TRANSFER PROOF、ORG DELIVERY PROOF 分开；不能凭单例证明资本收购必然害死作品（https://ir.take2games.com/static-files/f86fae80-882c-4c68-b71c-07560c4b1183）。
+
+研究含义：**从原型社区出现发明，到低成本商业化，再到续作扩张，实际上是跨代积累四种不同资产（市场、设计、交付、作者控制）的过程。**先发者可以低成本创造与保有这一链条；后发者复现成熟产品的最终形态时，未必获得前面三代积累。该差异需比较不同地区 Mod/Jam 作品转商业、第一作转第二作的真实队列比例。
+
 ## 7. AI 技术冲击与历史基本功缺口
 
 AI 可以让过去无法实现的美术、代码、内容变便宜，却不自动补上既往多年 prototype / playtest / feature deletion / authorial judgment 的训练。

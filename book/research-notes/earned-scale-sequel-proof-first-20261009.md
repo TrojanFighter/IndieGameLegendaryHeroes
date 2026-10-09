@@ -237,3 +237,91 @@
 | Warhorse KCD1→2 | 早期投资/发行商拒绝后直接玩家证明 | 联合创始人访谈；不能当小预算首作 |
 
 **Evidence policy:** 本档是证据集合，直接引述须回到相应访谈与项目原页。事实、创作者回忆、媒体推算及我们自己的解释分栏；不把任何一个成功公司投射为整国制度代表。
+
+
+---
+
+## 13. Third case pass — Mod → Commercial 1 → selective scale to 2（2026-10-09）
+
+### 13.1 Torn Banner: Age of Chivalry (2007 Mod) → Chivalry (2012) → Mirage (2017 fail) → Chivalry 2 (2021)
+
+**优先级：high。此案例覆盖原型、商业化、试错失败、制作扩编与复盘，不能简化成“续作天然暴增”。**
+
+- 2007：跨国业余团队基于 Half-Life 2 的 Source 制作免费 total conversion《Age of Chivalry》。旧游戏承担引擎、底层联网和既有玩家聚集成本，新团队集中验证“第一人称多人冷兵器战斗 + 重型格挡、地图目标”的玩家体验。
+- 2010：组建 Torn Banner；从 Source Mod 转到当时逐步开放的 Unreal Developer Kit（UDK）；2012：独立商业《Chivalry: Medieval Warfare》上市。官方自己记载 2013 在商业成功后才建立多伦多办公室：**团队组织成熟滞后于首次产品验证**。
+- 2017：团队没有直接吃初代成功红利制作续作，而选择更偏幻想法术战斗的《Mirage: Arcane Warfare》，最终商业失败。Torn Banner 2021 对 Unreal 官方访谈承认 Mirage 的目标受众识别出错：设定/美术显得偏休闲，但操作核心却极硬核，两个客群都未被照顾；团队创作方向失去一致性。自称这场失败迫使团队改进产品、沟通与内部分工。
+- 2021：《Chivalry 2》增加64人战场、跨平台/主机交叉联机、电影式攻城、改良近战交互；2021-05 品牌总监在 Unreal 访谈给出 **35名雇员**，与二代升级匹配，而非从2007就雇齐完整主机工业团队。合约有 Tripwire 发行方。
+- 更重要的一手细节：2020-03 至2021-04 每月约1—4天的封闭 alpha 轮次，共吸引数万名测试者；设计者说某些大型地图迭代几百次。即使有资本和既有 IP，最终二代仍须单独取得 **DESIGN-TRANSFER / DELIVERY** 证明。
+- 官方回顾：《Chivalry 2》发售首两个月售约100万。团队却还有一部未成功的 Mirage，所以应编码为 **MOD PROOF → COMMERCIAL PROOF → FAILED NEW-IP EXPERIMENT → REFINED SEQUEL-SCALE**。
+- 负面边界：官网首周畅销不等于净利、发行分成未知；不能将公司35员工等于所有外包贡献者。
+
+**一手来源：**
+- 公司历史：https://tornbanner.com/
+- 2019回顾：https://chivalry2.com/2019/10/08/498/
+- 开发者 2021 详细访谈（组织、人数、专用战斗系统、alpha）：https://www.unrealengine.com/developer-interviews/chivalry-2-is-designed-to-make-you-feel-like-you-re-in-a-medieval-war
+- 2019 公告 https://chivalry2.com/2019/06/09/chivalry-2-announced/
+
+### 13.2 AutoAttack — Legion TD 1 (Warcraft III Mod) → Legion TD 2
+
+- 原始 Legion TD 是作者 Brent “Lisk” Batas 在 **2009年高中毕业年级** 于《Warcraft III》创作的免费防守地图；后成立 AutoAttack 将这一经多年玩家接触的规则转为独立商品《Legion TD 2》。
+- **2016-02-22 开发者自己的公开宣言** 明确表示：团队刻意保持小规模，是为了“freedom to innovate”、“minimal overhead”，并让游戏仍由最初的设计者控制。这是 **作者性 / 规模纪律 / 资本模式** 的同一因果陈述，不是媒体推论。
+- 2016-03 开启 Kickstarter；不等于全自筹。此案尤其适合与中国《Dota Auto Chess》（Dota2 Mod）比较：二者都在第三方游戏工具里寻找新人游戏范式，不靠先融资造完整引擎。
+- 概念上的重要增量：**预产品收入的技能证明/受众证明** 可以发生在 Mod 层；付费首作不必是首个公共验证节点。
+- 来源：https://beta.legiontd2.com/updates/meet-the-creator-of-legion-td/ ；https://preview.legiontd2.com/team/
+
+### 13.3 BattleBit Remastered：并非一代二代，但展示“高机械复杂度 × 低视觉规格”的另外一种 scale sequencing
+
+- 3名核心开发者、约6年半的长期原型—测试—推广过程，曾在Mod圈建立初始玩家关系。
+- 前期开发偏硬核拟真、视觉却是低多边形风格。团队2018—2019决定把产品往更可亲近的射击体验调整；不是一味砍功能，而是**重配美术承诺与机制难度之间的匹配**。其后持续开放限时周末测试、追踪玩家行为与主播反馈。
+- 据制作人 2023-07 与 Chris Zukowski 的访谈：EA上架两周约180万份，事前约80万愿望单。作者还明确劝诫第一次独立开发不要轻易做多人项目。团队花了多年创造未来一次性放大的市场选择权。
+- 注意：三人“核心”不是完整经济生产成本；大型多人服务器、反作弊、持续服务、外包、六年人力机会成本都应计入。此作也不是“完全新范式”的例子，而是有效重组已有大战场射击的体验并降低表现成本，按 **EXPERIENCE FIT-SCALE** 编码。
+- 访谈转述：https://gameworldobserver.com/2023/07/04/battlebit-remastered-sales-1-8-million-copies-case
+- 制作人原采访：https://howtomarketagame.com/2023/07/03/how-to-market-a-multiplayer-the-battlebit-remastered-story/
+
+## 14. 第四项资本风险：IP 转让后的创作知识与成果所有权断裂
+
+### 14.1 Squad / KSP (2015) → KSP2 (2023 EA)
+
+- Take-Two 2017-05-31 **官方投资者公告**：收购《Kerbal Space Program》IP（不是仅取得发行权），当时初代已售>200万；原制作团队 Squad 继续维护一代。公告：https://ir.take2games.com/static-files/f86fae80-882c-4c68-b71c-07560c4b1183
+- 二代不是由最初完整创作团队续做，而是由新团队 Star Theory / Intercept 开发，Private Division 发行。2023-02 EA 上线，2024技术和规模问题长期累积。
+- 2024年 Take-Two 先否认已完成关停，后确认 Intercept 被关闭，并于 2024-11 公布出售 Private Division 及大部分项目（交易相关报道：https://www.pcgamer.com/gaming-industry/take-two-has-sold-private-division-to-an-unnamed-buyer-we-are-top-ten-hit-makers-around-here-and-private-division-wasnt-making-them/）。不能从2024年春夏不同阶段报道直接断言当时公司发言一致。
+- 截止2026-10，Steam 商店依然标 Early Access 且英文评价约25%好评，官方游戏补丁可核实至2024-06；新拥有者与项目后续发展需要独立验证，不能当成永久不可挽回的终局。
+- **新增 Gate F — CREATIVE CONTINUITY PROOF：**既有商业IP有购买受众，不意味着新的开发组织继承其系统代码、工程/调优 tacit knowledge、设计决策、社区信任与交付体系。IP所有权是一种 legally transferable asset，original gameplay insight 并不完全是。
+- 本例只证明这种断裂是重大需要调查的风险；**不能把二代失败完整归因为资本收购**，也不能假设原团队继续做就一定成功。
+- 源：https://store.steampowered.com/app/954850/Kerbal_Space_Program_2/ ，https://steamcommunity.com/app/954850/announcements/ ，https://www.gamedeveloper.com/business/take-two-confirms-kerbal-space-program-2-is-safe-despite-seattle-layoffs
+
+### 14.2 Endnight — The Forest → Sons of the Forest：自融资神话的一个硬反例
+
+- 2014年《The Forest》以约4人内部核心团队配合 freelancer/outsourcing，从电影VFX经验迁移；采取有玩家直接支付并参与反馈的 Early Access。
+- 创始人 Ben Falcone 在2014-08由 Game Developer 采访，坦言发售付费Alpha时已经资金耗尽、私人投资者施压、账上仅剩几百美元。这是**自融资/低成本 ≠ 无外部资金、无融资纠纷、无流动性风险**的强一手反例。
+- 2023-02-23 续作《Sons of the Forest》EA推出，据 Endnight 2023-02-24 官方推文前24小时卖>200万份，是受众被一代长期证实之后“下一代启动需求”的强证据，但并不代表原作高销售转化率或二代净利润率已核实。
+- 来源：https://www.gamedeveloper.com/business/selling-a-game-before-it-s-done-tips-and-insight-for-paid-alphas ，https://www.gamedeveloper.com/design/fine-young-cannibals-developing-early-access-hit-i-the-forest-i- ，https://www.videogameschronicle.com/news/sons-of-the-forest-sold-2-million-copies-in-first-24-hours/
+
+## 15. Theory revision & cohort instrumentation
+
+**从原来三证据改为四证据，加“资本控制权/生存约束”作为贯穿条件：**
+
+1. MARKET PROOF — 现有首作是否真的有人付费/长期参与；
+2. DESIGN-TRANSFER PROOF — 新相机、新机制、新操作对象是否放大而非损坏原有体验；
+3. ORG DELIVERY PROOF — 扩编/外包/平台迁移能否交付；
+4. CREATIVE CONTINUITY PROOF — 二代是否继承原一代具体作者、代码/工具/玩法洞察、玩家沟通机制，以及是否控制IP/项目否决权。
+
+注意：一代正面市场验证不可替代其余三个 Gate。《Chivalry》2017试错失败与《KSP2》的组织/IP断裂使这一命题更具可否证性。
+
+**新增原型→商业→续作的 multi-generation coding**：
+- PROTOTYPE_ORIGIN = mod / jam / PICO8 / paid prototype / independent game / corporate venture
+- PROTOTYPE_IP_AND_TOOL_RIGHTS = own / game-licensed / workshop / unknown
+- GEN1_IP_RIGHTS = owned / co-owned / licensed / sold before sequel / unknown
+- GEN1_COMMERCIAL_PROOF = sales / paid EA / wishlist / retained communities / qualitative only
+- TRANSFER_ORG_CONTINUITY = founders / core dev / partial / entirely new developer
+- GEN2_TEAM_FTE_PLUS_PARTNERS = employee size + hired contractors + externally financed tech
+- FAILED_EXPERIMENT_BETWEEN_GENS = yes/no/unknown (《Mirage》相当重要)
+- PROOF_RISK_SHIFT = which risks were reduced, which were new, and which remained untested
+- CENSORED_SEQUEL = announced / alpha / EA / full release / abandoned / studio closed
+
+**Method guardrails:**
+1. 不把“作品第一天卖得快”解释成作品利润率和人效高；无全成本与净发行收入不能做ROI排名；
+2. 对中国职业生态/东亚规训相关假说，必须比较同样拥有业界资历、同类型、同年代的 cohort，不能使用全球 Jam 总量当欧美国家分母；
+3. Mod→standalone 的源平台版权、IP和分成风险不可忽略；要找同时期**未成功转正的Mod团队**入失败分母；
+4. 比起销售收入，还要统计 **DESIGN-TRANSFER SUCCESS RATE & CREATOR RIGHTS RETENTION**，因为一代若卖IP失权可能无法再自行利用一代积累；
+5. 研究不把“没有卖 IP”设为道德优越；有些开发者选择出售IP，实现个人财务自由或另起炉灶，这是另一种合法成功。
