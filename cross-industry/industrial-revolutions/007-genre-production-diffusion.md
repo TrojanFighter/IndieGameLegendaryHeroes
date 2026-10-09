@@ -9,6 +9,8 @@
 
 ![专业／中型／独立／多作者阶段对照](007-genre-diffusion-clock.svg)
 
+> **2026-10-10 更新：本页为原始研究地图。更新、史料纠错和可视化请以 [008—图表化实证图谱](008-audited-genre-capability-atlas.md) 为准。特别关注1991 ZZT作者工具、1980s Spectrum 年产数、2005 Lugaru、2012 Hotline Miami、2013→2016 SUPERHOT、Unity 2012/2013/2015工具时间线的新增证据。**
+
 ## 1. 研究对象重定义：同一类型的“四个生产时钟”，不是硬件世代
 
 每个 **genre × format × target-platform × target-fidelity** 组成一条独立队列。时间坐标定为：
