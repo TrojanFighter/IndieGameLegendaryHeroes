@@ -6,6 +6,10 @@
 - Denominator: 2002《秦殇》MobyGames 104人含美国发行、俄语本地化、翻译、配音等，不能作为中国当年104全职研发者。2008 KB MobyGames 65人含1C/Nobilis发行；**只有其中的18位Katauri开发署名是本次固定俄方子集**。二者差6年且不同机制，绝非标准化国家创新率比较。
 - Boundary: 只写公开产业史，不涉及任何私人项目。人名/岗位都依据公开游戏credits、本人采访或证券法律申报；人口级比例与国家因果均UNKNOWN。
 
+## 强制样本适用性撤回（2026-10-09）
+
+**本档只回答早期国产PC RPG员工专业能力、转网游/多端迁移、法人/项目与发行中介生存**。该组1990—2000年代作品的核心玩法大多沿传统RPG范式，不能凭《秦殇》核心职员四人2015担任像素高管、主策、程序及美术管理，就把他们算成**四位持续产生新题材、新机制的独立游戏作者**。俄《King's Bounty》同属已有奇幻/RPG/策略传统，**以俄方18 vs中方4比较玩法原创率同样无意义**。中国更相关的早期RTS/格斗ARPG和2013+独游原型路线详见[原创游戏设计队列重选与RPG样本纠错](china-original-game-design-cohort-selection-correction-1998-2025.md)。人事迁移事实不撤销，但与玩法原创命题彻底解绑。
+
 ## A. 核心史料与版本条件
 
 1. 中国原游戏2002-07-06本土上市（Bangumi《秦殇》中文角色https://bangumi.tv/subject/341 / 2002同期新浪页 https://games.sina.com.cn/zhuanqu/qin/qinliao.shtml）。MobyGames英文合成原始credits https://www.mobygames.com/game/8958/prince-of-qin/credits/windows/ 同时列1999—2002中国开发、2002 Strategy First发行和2004俄语1C发行工作人员，**同一档案不代表同一年同公司104开发者**。
