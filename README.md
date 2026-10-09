@@ -1,6 +1,6 @@
 # 独立游戏英雄传说
 
-**全案技术分代落地（2026-10-09）：** [63个Case技术窗口与验证阶梯总矩阵](metadata/technology-opportunity-window-matrix.md) · [技术窗口审计Schema](schemas/technology-opportunity-window-audit.md) · [第八篇书稿：技术早已在那里，题目却还没人出](book/chapters/08-the-tools-were-already-there.md) · [斯拉夫8个专题技术审计](sister-projects/slavic/TECH-WINDOW-APPLICATION-2026-10-09.md)。全部编号Case已形成初步附录；已深入补证的案例包括DOOM、Lethal Company、PUBG、Roblox、Tripwire、Tarkov、R.E.P.O.、Garry Newman。
+**全案技术分代落地（2026-10-09）：** [Roblox《Deadzone》→《Unturned》与Future Trash从Steam尝试转UEFN融资的双向实证](book/research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md) ·  [63个Case技术窗口与验证阶梯总矩阵](metadata/technology-opportunity-window-matrix.md) · [技术窗口审计Schema](schemas/technology-opportunity-window-audit.md) · [第八篇书稿：技术早已在那里，题目却还没人出](book/chapters/08-the-tools-were-already-there.md) · [斯拉夫8个专题技术审计](sister-projects/slavic/TECH-WINDOW-APPLICATION-2026-10-09.md)。全部编号Case已形成初步附录；已深入补证的案例包括DOOM、Lethal Company、PUBG、Roblox、Tripwire、Tarkov、R.E.P.O.、Garry Newman。
 
 **研究纠偏（2026-10-09）**：[中国独游项目人效、外部中间件与内部造轮子的组织激励](book/research-notes/china-indie-manpower-efficiency-middleware-build-buy-incentives-2026-10-09.md)：对照Lethal Company/Phasmophobia/BattleBit与Gunfire Reborn/Party Animals/ChillyRoom，强制区分公司人数、署名人数、项目FTE×年、固定现金burn、销量/付费和核心玩法验证，并检验自研保岗位与老板判断失灵的`BUILD-BUY-DELETE`机制。
 
