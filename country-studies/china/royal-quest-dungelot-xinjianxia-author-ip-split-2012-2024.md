@@ -44,6 +44,12 @@
 - **2016-01-21 iOS/2016-02-18 PC**《Dungelot: Shattered Lands》由Red Winter制作、tinyBuild国际发行；tinyBuild官方 https://www.tinybuild.com/dungelot 、Steam https://store.steampowered.com/app/403940/ 、2016-01-26 TouchArcade实测说明**回到买断、无IAP** https://toucharcade.com/2016/01/26/dungelot-shattered-lands-review/ 。**买断回归是实际产品事实，主观动机只能与2014本人不打算再做F2P的宣言联系为SUPPORTED，而非完整因果证明**。
 - **特别注意**：2016 tinyBuild官网称开发商为two-man studio，与2013/14 2核心/外包定义相容，但不能抹掉美术协作者/移植/发行人员；tinyBuild 2016只是担任发行者，并不证明开发商让渡全部IP/决策权。
 
+### 2026-10-09 人员归属纠错：Yazynin不能计入“永久离开Katauri”
+
+2013-12/2014-02 Mitrofanov当事人确称自己从Katauri/Royal Quest离开做《Dungelot》；**但这不允许把美术合作者Alexander Yazynin归入完全相同的永久离职事件**。Gusarov在2019-08-22本人史稿Royal Quest尾段称“部分员工留在Katauri和我及Yazynin制作Music Wars”，末尾明确“我与Yazynin都在Neodynamics工作，Katauri也是我们的公司，没有消失”。因此更符合现存材料的是**Mitrofanov明确独立创业、Yazynin同时/不同时参与多个小团队合作及Katauri/Neodynamics的作者关系**；独占雇佣/持股/具体工时均UNKNOWN。不能将Red Winter的“两名常驻核心”算为“Katauri两名完全离职员工”。来源：https://dtf.ru/gamedev/65368-istoriya-tvorchestva-dmitriya-gusarova-avtora-kosmicheskih-reindzherov-i-kings-bounty （2019 P1）。
+
+Royal Quest 2012**完整个人Credits**仍未得到，MobyGames https://www.mobygames.com/game/94341/royal-quest/ 只记录开发商与2014 Steam发售、未提供姓名。2008《King's Bounty: The Legend》原始Katauri具名子组可作为固定前史队列，不能当2012新项目的全体员工；见[2008—2025团队署名与中国王屹制作人决策审计](katauri-wangyi-2008-2025-credits-decision-domain-audit.md)。
+
 ## 3. 中国李兰云云游《新剑侠传奇》：2014失败后很快复活，非立即团队消亡
 
 **CN-01 P0公司2014-04公开合作角色**：珠海云游主开发，李兰云制作人、裘新**研发顾问**、罗晓音**音乐制作**、广州艾游发行且前身百游单机业务；艾游称成立孵化基金，**“三剑客重聚”是宣传概念，不代表三人全在云游领薪共同开发整个项目**。
