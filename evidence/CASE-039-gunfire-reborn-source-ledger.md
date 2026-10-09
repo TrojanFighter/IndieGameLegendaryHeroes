@@ -44,6 +44,24 @@
 - Confidence: HIGH for official announcements.
 - Boundary: official product news is promotional material; it does not disclose project budget or internal failed prototypes.
 
+Direct quotes (verbatim, 原文重读 2026-10-09；`qh.duoyi.com` 的页面返回 UTF-8 字节):
+
+2020-12-15《全球销量破百万》公告:
+- “截止2020年11月28日，《枪火重生》全球总销量突破100万份！”
+- 官方对产品当时状态的自评（官方公开承认不足，在同类材料里少见）：“目前版本还存在诸如内容量不足、部分模块完成度不够等问题，我们接下来会再接再厉，继续完善游戏，补充内容。”
+- 对反馈的态度：“感谢自上线以来大家的支持和厚爱……同时我们更要感谢你们对我们的包容和反馈。”
+
+2022-05-26 手游公告:
+- 手游于 5 月 25 日全平台登录上线，26 日开放安卓版试玩关卡。
+
+2026-01-01 新年致辞:
+- “目前，开发团队正在筹备2026年度的更新计划，全新赛季也将在不久后与大家见面。”
+
+Boundary additions:
+- 这些是官方公告，属推广材料；销量为官方口径，未经审计。
+- “内容量不足、部分模块完成度不够”是官方自评，可作为“成功产品的公开短板陈述”使用，不能反过来当作失败证据。
+- 抓取提示：该域名的页面是 UTF-8 编码；按 GBK 解码会得到乱码。这一点已实测，供后续维护者参考。
+
 ## E004 — 505 Games publishing perimeter
 
 - Source class: P0 — publisher support documentation.
