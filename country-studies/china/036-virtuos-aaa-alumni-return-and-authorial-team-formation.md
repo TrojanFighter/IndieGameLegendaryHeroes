@@ -5,7 +5,7 @@
 - As-of: **2026-10-09**
 - Canonical owner: 本文负责“国际3A人才引进/生产服务→完整作者型团队”的跨公司制度比较；具体 GSC→4A 证据仍由[斯拉夫SLAVIC-002](../../sister-projects/slavic/evidence/SLAVIC-002-gsc-4a-studio-schism.md)管理；NExT 项目决策权由[中国010](010-next-studios-greenlight-rights-governance-lifecycle-2017-2024.md)管理。
 - Parent: [012 完整作者型团队供给代理](012-full-cycle-authoring-team-supply-proxy-china-vs-comparators.md) · [024 人才流动](024-creator-mobility-spinout-topology-noncompete.md) · [025 alumni→spinout量化](025-alumni-spinout-quantification-ledger-v01.md) · [026 spinout≠indie](026-spinout-vs-indie-mode-conversion.md)
-- Adjacent: [032 Exam Overfit](032-exam-overfit-routine-expertise-open-domain-transfer.md) · [033 技术代理与需求判断](033-technology-proxies-experience-demand-and-commercial-feedback.md)
+- Adjacent: [021 创作归因与组织光环](021-attribution-politics-credit-regimes-author-power.md#01-组织光环与独立作者声望身份能否代替实际贡献2026-10-09专题增量) · [027 个人主义创新制度](027-individualism-as-innovation-infrastructure.md) · [029 正统倒置](029-orthodoxy-inversion-chundeng-farmer-inventor.md) · [032 Exam Overfit](032-exam-overfit-routine-expertise-open-domain-transfer.md) · [033 技术代理与需求判断](033-technology-proxies-experience-demand-and-commercial-feedback.md)
 - Scope boundary: 仅使用公开材料；无私人聊天记录、未公开项目、特定求职者履历或无法验证的个人能力评价。**本研究不能推算中国籍3A裁员后回国率。** 研究对象是不同训练和职业制度所生产的创作人才/团队，**不是中国资本海外资产的经营能力，也不是个人民族出身的本质属性**。
 
 ## 0. 研究入口：不能把“参加过大作”直接兑换为“能够创办Warhorse”
