@@ -3,7 +3,9 @@
 - Status: **WORKING BASELINE / 不得当作完整量产统计**
 - As-of: 2026-10-09
 - Canonical owner: Industrial Revolutions Comparative Lab，承接 [001 技术吸收框架](001-technology-absorption-framework.md) 与 [003 游戏产业技术体制](003-game-industry-technology-regimes.md)
-- Visual: [按年份排列的 2D／3D × 专业／独立路线锚点图](005-game-production-capability-timeline.svg)
+- Visual: [单独打开 SVG 时间图](005-game-production-capability-timeline.svg)
+
+![游戏产业2D/3D专业/独立历史里程碑时间轴](005-game-production-capability-timeline.svg)
 - Boundary: 公开游戏产业史；不引入私人游戏项目设计和组织资料。
 
 ## 0. 本研究真正要画什么
