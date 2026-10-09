@@ -241,3 +241,13 @@ Delete：合并原型后再次解释“不到一个月不是完成商品”的�
 | 历史忠实性 | E004原型口径与2012访谈、E008未实现/可能更难/若成立、E0062014回顾均保留；无新研究事实，待独立回读 |
 
 Fidelity Readback：人物归责、数字口径、否定/情态、因果、UNKNOWN/H/Signal、时效与版权PRESERVED；Chronology PRESERVED，调整披露顺序未把2014归纳倒填为2010知识。2014段结尾再次指明当时待实现，不能把规则描述误作2010已完成成果。既有NEEDS_VERIFY仍在，无候选替代作者验收；本次正文差异以PR最新commit为准，正式正文与研究主档均未改。
+
+## 作者否定候选后的调整：让采访进入正文
+
+作者指出候选仍然由模型的架构主导，要求多使用当时外界报道。本轮REVISE_AGAIN，不把此前独立回读等同于文风认可。原候选存于`7859f235c8b888a198dd59320e927e6aa9c5b7b7`。仅重写第二节首尾：以Mike Rose的采访问题进入，再以Francis对核心机制的迟疑收束；没有改写全库。
+
+2026-10-09全文重读E004，核对Mike Rose署名、2012-01-30日期及职业帮助问题。短引语为本人原话“I didn't know if Gunpoint's main mechanic would work in practice”的中文翻译；随后“如果奏效至少不寻常”的条件不删除。记者提问与人物回答分别归属，不把采访发生时点当作最初原型日期。采访事实与观点已由E004承担，Case/Evidence不改。
+
+六维差异：人物具体性改由当事人的疑问表达，而非作者替他总结；连贯度沿记者提问→实际原型→本人迟疑，不添新节点；作者关于品味、试验与取舍的判断保留；节奏增加短引语的不同声音，是否有效仍待作者；阅读意愿NOT TESTED；保真回读的归责、时间、数字、情态、因果、回顾/同期、未知均PRESERVED。短引语不能单独证明成功原因，也不提供新增前史。
+
+本轮另完整读取Peter Brown的GameSpot《Gunpoint Review》（2013-10-04，https://www.gamespot.com/reviews/gunpoint-review/1900-6409472/），它同时肯定可组合谜题并批评内容短、编辑器不足；以及Brian Rubin的《Limit Theory Q&A: Limitless Procedural Good Timiness》（2012-11-26，https://www.spacegamejunkie.com/featured/limit-theory-qa-limitless-procedural-good-timiness/）访谈正文。后者已登记于CASE-054 E002，前者尚未登记，均未加入Gunpoint候选新事实。外界的具体期待和批评应进入后续取证与叙事选择，而不是只收集赞誉、把引文装饰在不变的提纲上。每篇按其已核材料分别处理，不设引用数量配额。
