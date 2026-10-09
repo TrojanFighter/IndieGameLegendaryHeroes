@@ -169,6 +169,14 @@ Anton Yudintsev、Kirill Yudintsev、Alexey Volynskov、Nikolay Savichev、Serge
 
 因此行业总体与旗舰credits必须分开。
 
+## 2026-10-09 精英7v7之外：公开法律履历和游戏署名的非名人追踪
+
+新增[目标→像素与Katauri人事/中介证据档](object-pixel-katauri-1c-personnel-cohorts-2002-2025.md)，显示中国2002原创PC工作室至少3名互补成员（刘坤美术/刘岩程序/李江3D美术）2002-03转入像素，原《秦殇》主策刘豫斌2003-04加入；**2015法定履历显示4人在公司仍任治理或技术负责人**。这里不仅是董事长，也有美术负责人李江，其2002目标员工→2015像素三维动画与美术经理职位具有长达13年的手艺连续证据。故“中国Premium人才退出网游时代后全部流失”“中国老兵不再做技术/策划”两个绝对判断均被反证；后续作者跨新问题域能力概率仍UNKNOWN。
+
+俄2008《King's Bounty》Katauri 18实名研发基线确认，其中2015《Space Wolf》HeroCraft新关卡署名和2021《King's Bounty II》TRACE外包美术都出现Dmitry Degtyaryov；需补独立身份核验，不把2021外包当主创。2012《Warriors of the North》**同时保留整张原Katauri2008老署名、另列真正Warriors of North新制作团队**，是严重的False veteran continuity风险。不能拿18人所有2012姓名重合当18/18职业留存率。
+
+新增制度事实：1C的Nikolay Baryshnikov／Anatoliy Subbotin／Svetlana Gorobets在2004《秦殇》俄文版及2008俄《King's Bounty》均列市场/PR岗位，2004 Yury Miroshnikov任制片但2008只是特别感谢。**商业中介的职业持续性同样是独立单位，不能和研发作者合并**。
+
 ## 八、下一轮
 
 真正值得做的是扩大到“非名人credits”：
