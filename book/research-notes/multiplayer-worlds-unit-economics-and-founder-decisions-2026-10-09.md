@@ -97,3 +97,7 @@ Unity 官方案例核实《Contract Wars》为Battlestate核心成员积累了FP
 - Tarkov 同口径每付费玩家小时成本、地区与平台账单，以及多版本付费结构的长期利润？
 - Greene/Prologue产品收入、Melba技术路线的分拆目标与下一轮可审计退出标准？
 - 固定同代、多人形态、资本规模和成功/失败全集，避免选5个故事就推国别普遍性。
+
+## 2026-10-09 增量：技术准备好≠已有产业愿意/擅长发现新规则
+
+参见[1999—2025民间多人游戏创新的两次浪潮](grassroots-online-multiplayer-opportunity-window-1999-2025.md)：2010索尼《MAG》已有256人同场；1999《CS》、2003《DotA》说明民间玩家规则发现比PUBG早得多。2013 Steam EA/2014 UE4开放/2016 GameLift降低生产或发行门槛，PUBG、Tarkov和大量在线合作游戏不需要从零发明“联网”。Epic在2017年9月数月内推出借鉴PUBG的《Fortnite》BR，说明大公司可以迅速利用成熟的外部规则，不能简单写为大厂无技术/无能力。SteamDB“Online Co-op”回溯发布数量2013年31款、2018年143款、2024年846款；占Steam全部上市比例在2013→2018反而下降，不能把绝对量爆发冒充相对份额暴涨。此阶段更可靠的命题是 **PERMISSIONLESS RULE DISCOVERY + CAPABILITY-TO-DESIGN TRANSLATION GAP**，国别/业态频率待统计。
