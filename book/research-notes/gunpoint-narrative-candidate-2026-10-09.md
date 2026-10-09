@@ -6,17 +6,17 @@
 
 ## 评论游戏的人，也要把游戏交给别人玩
 
-2012年1月30日刊出的Gamasutra访谈里，Mike Rose先问Tom Francis有什么游戏制作背景。他的回答是：“我没有！”（原文：I don't have one!）
+2012年1月30日刊出的[Gamasutra访谈](https://www.gamedeveloper.com/business/road-to-the-igf-tom-francis-i-gunpoint-i-)里，Mike Rose先问Tom Francis有什么游戏制作背景。他的回答是：“我没有！”（原文：I don't have one!）
 
-他当时仍是PC Gamer的记者，正在业余时间做《Gunpoint》。写评论时，他时常想到某款游戏可以怎样改进，但不知道自己的主意到底对不对。采访过设计师，并不等于已经做出了好设计。他决定试试看。
+他当时仍是PC Gamer的记者，正在业余时间做[《Gunpoint》](https://store.steampowered.com/app/206190/)。写评论时，他时常想到某款游戏可以怎样改进，但不知道自己的主意到底对不对。采访过设计师，并不等于已经做出了好设计。他决定试试看。
 
-实际入口来自《Spelunky》。发现这款自己喜欢的游戏使用GameMaker制作后，Francis开始学习这个适合新手的工具。不到一个月，他有了可以发给测试者的移动原型。评论别人作品的人，现在也要等别人来玩自己的东西。[Mike Rose，〈Road to the IGF〉，2012年1月30日](https://www.gamedeveloper.com/business/road-to-the-igf-tom-francis-i-gunpoint-i-)
+实际入口来自[《Spelunky》的早期免费版](https://spelunkyworld.com/original.html)。发现这款自己喜欢的游戏使用GameMaker制作后，Francis开始学习这个适合新手的工具。不到一个月，他有了可以发给测试者的移动原型。评论别人作品的人，现在也要等别人来玩自己的东西。
 
 原型之后还有规则、关卡、故事和修改。Francis保留着全职工作，主要在周末制作。把时间倒回2010年的开发日志，可以看见一个写作者熟悉、制作新手却必须重新计算的问题：已经写好的东西，是否都要做出来？
 
 ## 已经写下的故事，还可以不做
 
-2010年10月25日，Francis在博客上写起另一款即时战略游戏的想法。几个系统似乎就能处理一些令他不满的问题，也让手里的《Gunpoint》显得要做的东西太多。他没有换项目：新点子还会不断出现，丢下《Gunpoint》并不能解决这个问题。他转而重审它的开发计划。
+2010年10月25日，Francis在[博客](https://pentadact.wordpress.com/2010/10/25/gunpoint-and-the-other-game/)上写起另一款即时战略游戏的想法。几个系统似乎就能处理一些令他不满的问题，也让手里的《Gunpoint》显得要做的东西太多。他没有换项目：新点子还会不断出现，丢下《Gunpoint》并不能解决这个问题。他转而重审它的开发计划。
 
 角色、场景和剧情发展已经写过，脚本演出也被列进了要做的东西。他几次尝试简化游戏，回头才发现：“我却从未真正质疑过让它由故事驱动这件事。”（原文：I've never really questioned that it was going to be story-driven.）这些计划进入路线图，是因为他已经想过、写过它们。
 
@@ -26,15 +26,15 @@
 
 最终《Gunpoint》的Crosslink让玩家重新连接建筑中的电气设备：一个设备可以触发与它连接的另一个设备。玩家改变连接，便改变环境怎样响应自己的行动，自己安排通过关卡的办法。
 
-2012年刊出的Rose采访里，Francis说：“我当时不知道《Gunpoint》的核心机制实际会不会奏效。”如果奏效，至少它会足够不寻常——这是熟悉许多游戏给他的判断，余下的仍要交给制作和测试。发售后，他在2014年的博客文章里归纳怎样用简单规则重新产生自己喜欢的体验。这份回顾见阅读附录，不能当作2010年已经想清楚的答案。
+2012年刊出的[Rose采访](https://www.gamedeveloper.com/business/road-to-the-igf-tom-francis-i-gunpoint-i-)里，Francis说：“我当时不知道《Gunpoint》的核心机制实际会不会奏效。”如果奏效，至少它会足够不寻常——这是熟悉许多游戏给他的判断，余下的仍要交给制作和测试。发售后，他在2014年的博客文章里归纳怎样用简单规则重新产生自己喜欢的体验。这份回顾见阅读附录，不能当作2010年已经想清楚的答案。
 
 ## 游戏开始由更多人完成
 
 到2012年的采访时，《Gunpoint》已经有了协作者。Francis描述，点子公开后引起关注，他便有机会寻找美术；画面改善，又吸引了更多兴趣，随后可以寻找音乐人。
 
-2013年的开发复盘记录了这些人：John Roberts和Fabian van Dommelen参与美术，Ryan Ike、John Robert Matz、Francisco Cerda参与音乐。美术人选通过公开样稿征集选出。团队分散在不同国家，主要用邮件沟通；决定商业销售后，大家约定按贡献分配收入。
+2013年的[开发复盘](https://www.pentadact.com/2013-10-15-gunpoint-development-breakdown/)记录了这些人：John Roberts和Fabian van Dommelen参与美术，Ryan Ike、John Robert Matz、Francisco Cerda参与音乐。美术人选通过公开样稿征集选出。团队分散在不同国家，主要用邮件沟通；决定商业销售后，大家约定按贡献分配收入。
 
-周末制作的游戏于是有了其他人参与完成的画面与音乐。上述招募与协作安排，见Francis的[2013年10月开发复盘](https://www.pentadact.com/2013-10-15-gunpoint-development-breakdown/)。这份回顾说的是他怎样找到协作者，并未证明有趣的点子总能换来同样的帮助；他的媒体职业也带来了行业网络、解释作品的能力与可见性。
+周末制作的游戏于是有了其他人参与完成的画面与音乐。这份回顾说的是他怎样找到协作者，并未证明有趣的点子总能换来同样的帮助；他的媒体职业也带来了行业网络、解释作品的能力与可见性。
 
 具体分成比例仍不明确。早期现金支出少，也不能把贡献者的劳动写成没有成本。
 
@@ -64,9 +64,9 @@ Francis从开发初期就在博客谈制作，也用解释视频展示游戏。�
 
 ### 可以练习的工作
 
-2014年1月25日，Francis在[〈Game Design: The Non-Stick Plan〉](https://www.pentadact.com/2014-01-25-game-design-the-non-stick-plan/)中回顾，《Gunpoint》的起点之一是他喜欢在《Deus Ex》里想办法潜入建筑。他把对象归为可连接、可触发的电气设备，以简单规则反复产生这种乐趣，不为每一种解法单独编写事件。这篇发售后的方法归纳可与2010日志对读：当年机制仍待实现，不能倒写成从一开始就确定的制作计划。
+2014年1月25日，Francis在[〈Game Design: The Non-Stick Plan〉](https://www.pentadact.com/2014-01-25-game-design-the-non-stick-plan/)中回顾，《Gunpoint》的起点之一是他喜欢在[《Deus Ex》](https://store.steampowered.com/app/6910/)里想办法潜入建筑。他把对象归为可连接、可触发的电气设备，以简单规则反复产生这种乐趣，不为每一种解法单独编写事件。这篇发售后的方法归纳可与2010日志对读：当年机制仍待实现，不能倒写成从一开始就确定的制作计划。
 
-后来他仍从玩游戏时的不满里寻找制作问题。2020年谈《Tactical Breach Wizards》时，他把对《XCOM 2》的喜爱和批评转成了更简单的战斗空间、自由倒回等约束。这是后续方法对照，不能反推《Gunpoint》每个功能的早期起源；人物故事至2013年的职业转换暂告一段落。
+后来他仍从玩游戏时的不满里寻找制作问题。[2020年的PC Gamer采访](https://www.pcgamer.com/tactical-breach-wizards-interview/)谈到[《Tactical Breach Wizards》](https://store.steampowered.com/app/1043810/)，他把对[《XCOM 2》](https://store.steampowered.com/app/268500/)的喜爱和批评转成了更简单的战斗空间、自由倒回等约束。这是后续方法对照，不能反推《Gunpoint》每个功能的早期起源；人物故事至2013年的职业转换暂告一段落。
 
 - 玩游戏时解释喜欢或不喜欢的原因，比较同类与邻近作品，了解市场已有的东西。
 - 试做前问：假如这个想法成立，它是否仍足够特别？差异能否被玩家理解？
@@ -89,7 +89,26 @@ PC Gamer职业带来的网络与媒体理解、长期评论的强制训练、Fra
 
 完整预算、机会成本、家庭支出、工资与储蓄、辞职阈值金额、休假是否带薪、贡献者工时和最终分成比例仍未知。按贡献约定分成是已知安排，比例未知不等于没有分成。我们也不知道完整IP与合同否决权，不能由一次范围删改或辞职推断他拥有下一作的全部权利。两类决定的进一步区分见[决策权审计](industry-triangle-decision-rights-audit-046.md)。
 
-### 来源入口
+### 继续阅读与作品入口
+
+如果只想接着读人物报道，可从Patrick Klepek的[〈One Tom Francis Is All You Need〉](https://giantbomb.com/articles/one-tom-francis-is-all-you-need)（Giant Bomb，2013年8月22日）开始。作品评价可读Peter Brown的[〈Gunpoint Review〉](https://www.gamespot.com/reviews/gunpoint-review/1900-6409472/)（GameSpot，2013年10月4日）。它们提供记者与评论者的视角；其中未进入本书证据记录的细节，不作为本文历史结论的依据。
+
+Francis的[个人博客](https://www.pentadact.com/)和[按时间排列的Gunpoint开发日志](https://www.pentadact.com/category/making-games/gunpoint/?order=ASC&orderby=date)保留了更多自述。本文直接使用的文章是：
+
+- Tom Francis，[〈Gunpoint And The Other Game〉](https://pentadact.wordpress.com/2010/10/25/gunpoint-and-the-other-game/)，2010年10月25日：制作中的取舍。
+- Mike Rose，[〈Road to the IGF: Tom Francis' Gunpoint〉](https://www.gamedeveloper.com/business/road-to-the-igf-tom-francis-i-gunpoint-i-)，2012年1月30日：评论、原型与协作。
+- Tom Francis，[〈Gunpoint Development Breakdown〉](https://www.pentadact.com/2013-10-15-gunpoint-development-breakdown/)，2013年10月15日：开发复盘。
+- Tom Francis，[〈2013〉](https://www.pentadact.com/2013-12-31-2013/)，2013年12月31日：发售与职业转换。
+- Tom Francis，[〈Game Design: The Non-Stick Plan〉](https://www.pentadact.com/2014-01-25-game-design-the-non-stick-plan/)，2014年1月25日：发售后的方法归纳。
+- Jeremy Peel，[〈XCOM 2’s problems inspired a whole other tactics game〉](https://www.pcgamer.com/tactical-breach-wizards-interview/)，PC Gamer，2020年11月10日：附录中的后续方法对照。
+
+| 文中作品 | 官方页面 |
+| --- | --- |
+| Gunpoint | [Steam](https://store.steampowered.com/app/206190/) |
+| Spelunky | [早期免费版及源码](https://spelunkyworld.com/original.html)；[Steam商业版](https://store.steampowered.com/app/239350/)——这是后续版本，不能替换本文的早期工具入口 |
+| Deus Ex | [Steam：Game of the Year Edition](https://store.steampowered.com/app/6910/) |
+| Tactical Breach Wizards | [Steam](https://store.steampowered.com/app/1043810/) |
+| XCOM 2 | [Steam](https://store.steampowered.com/app/268500/) |
 
 继续阅读Francis的博客，可以先读正文引用的2010开发日志，再读2013开发复盘与年末回顾，最后看2014的方法归纳。同一位作者在不同阶段回答的问题不同；他的自述也需要与外界报道对读。这条阅读路径不把博客中的每一个新细节自动纳入本篇事实。
 
