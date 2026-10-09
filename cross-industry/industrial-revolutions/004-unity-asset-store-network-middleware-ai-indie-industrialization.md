@@ -133,7 +133,7 @@ Dissonance商品页：https://marketplace.unity.com/packages/tools/audio/dissona
 
 ## UGC技术史增量：Nelson Sexton与Future Trash的两条反方向路径
 
-[源证据与完整对照](../../book/research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)：Nelson Sexton于2012–13 Roblox中的《Deadzone》起步，换Unity重建《Unturned》并2014 Steam发行，2021年Xbox本人访谈证实。这是`UGC→Standalone`真实产品路线，与Zeekerss“在Roblox学习制作技能，后来另外制作《Lethal Company》”不同。Future Trash 2023时UE5独立产品难获融资，反而转入UEFN，并经多轮产品试验与2014? **更正：2024年底**累计二十亿分钟UEFN玩家体验后融得500万美元seed，显示`STANDALONE_ATTEMPT→UGC→FINANCING`的反向链。详细披露为Epic与合作工作室2026-08-19案例，不能据此判断一般创作者融资成功率。2026-06 Epic宣布UE6未来统一传统Unreal与UEFN、目标2027年底EA；**不是现有UGC项目已无障碍迁出**。
+[源证据与完整对照](../../book/research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)：Nelson Sexton于2012–13 Roblox中的《Deadzone》起步，换Unity重建《Unturned》并2014 Steam发行，2021年Xbox本人访谈证实。这是`UGC→Standalone`真实产品路线，与Zeekerss“在Roblox学习制作技能，后来另外制作《Lethal Company》”不同。Future Trash 2023时UE5独立产品难获融资，反而转入UEFN，并经多轮产品试验与2024年底累计二十亿分钟UEFN玩家体验后融得500万美元seed，显示`STANDALONE_ATTEMPT→UGC→FINANCING`的反向链。详细披露为Epic与合作工作室2026-08-19案例，不能据此判断一般创作者融资成功率。2026-06 Epic宣布UE6未来统一传统Unreal与UEFN、目标2027年底EA；**不是现有UGC项目已无障碍迁出**。
 
 ## 9. MOD / Roblox / UEFN：买中间件之外的更大工业生产能力市场
 
