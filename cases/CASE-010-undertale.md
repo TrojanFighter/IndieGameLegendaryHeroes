@@ -94,3 +94,11 @@ Toby 2025 年回顾甚至明确说，Homestuck 给他的社交媒体 following �
 3. 完整 credits / tester / porting map？
 4. Demo、Homestuck followers、Kickstarter、Steam 分别贡献了多少市场接入？
 5. 哪些系统/表现选择真正降低了作者型 RPG 的成本？
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2008–15｜EarthBound mod/音乐社区→GameMaker。
+- **实际体验验证与进入市场的路径：** 文化/模组前史→原型/Kickstarter→付费。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** MOD技能与该作代码/素材分离。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

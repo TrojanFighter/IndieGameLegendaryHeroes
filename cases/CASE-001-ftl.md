@@ -347,3 +347,11 @@ FTL 第一轮证据目前最有价值的不是“贫穷独立开发者逆袭”�
 - **Market sufficiency / legibility:** **STRONG pre-launch signal** — competitions、媒体与 Kickstarter 已证明高需求信号；不能把 Kickstarter 当第一次验证。
 - **Capability scaling:** 从两人 core 扩到外部音乐 /发行外围；完整 contributor / post-launch scaling 仍 partial。
 - **Major unknowns:** household economics、精确储蓄/月 burn、上海成本、Kickstarter 净额、伴侣/家庭支持。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2011–12｜C++/SDL、小团队数字发行。
+- **实际体验验证与进入市场的路径：** 单机随机事件/抉择→IGF反馈→Kickstarter→付费发行。
+- **机会类型：** `RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 明确生产栈版本、总人年。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

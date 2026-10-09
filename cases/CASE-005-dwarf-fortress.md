@@ -84,3 +84,11 @@ Dwarf Fortress 的社区不是单纯传播渠道：
 3. wiki/mod/forum 等玩家基础设施对生产/可用性贡献多大？
 4. premium 版完整 contractor / art / audio / code credits？
 5. ASCII 节省的资产成本如何用可比较 proxy 量化？
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2000s–2022｜自研长期模拟系统。
+- **实际体验验证与进入市场的路径：** 捐赠/免费版→持续玩家反馈→Steam升级。
+- **机会类型：** `CREATED+CO_EVOLUTION`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 版本/核心库及持续FTE。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

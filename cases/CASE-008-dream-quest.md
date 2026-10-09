@@ -65,3 +65,11 @@ Whalen 明确谈过找过几位美术，但合作没有持续；Dream Quest 保�
 3. 上线收入与口碑扩散时间线？
 4. Richard Garfield 等行业设计师传播到底带来多少增量？
 5. Dream Quest 与加入 Blizzard 的因果关系是否存在直接当事人证据？在找到前禁止写“因为 Dream Quest 被 Blizzard 招募”。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2013–14｜个人旧引擎/抽象卡牌表现。
+- **实际体验验证与进入市场的路径：** 数学/卡牌熟练度→小规模产品→市场。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 引擎细节与早期玩家规模。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

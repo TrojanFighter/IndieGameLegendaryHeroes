@@ -99,3 +99,11 @@ Barone 2019 官方澄清是重要边界证据：
 - **Market sufficiency / legibility:** **PARTIAL→STRONG** — Harvest Moon-like reference 提供可读入口，Greenlight / community 提供 pre-launch signal；精确 early-demand chronology 仍需补。
 - **Capability scaling:** pre-launch solo core；business / marketing / localization / ports / multiplayer 后续由 publisher / collaborators 扩 capability perimeter。
 - **Major unknowns:** household 月 burn、伴侣收入比例、住房、医疗、完整 Greenlight→publisher 时间线。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2011–16｜C#/XNA及微软PC工具链。
+- **实际体验验证与进入市场的路径：** 农场RPG个人长期原型→发行商/Steam。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** XNA→移植技术成本。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

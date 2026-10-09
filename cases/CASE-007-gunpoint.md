@@ -334,3 +334,11 @@ Gunpoint 的生产函数同时包括：
 - **Market sufficiency / legibility:** **STRONG** — Crosslink 等机制可被视频清楚解释，devlog/媒体/测试形成发售前可读市场面。
 - **Capability scaling:** core design/programming ownership 保持集中；visual/audio 通过全球 collaborators 扩张，未要求 founder 补成六边形。
 - **Major unknowns:** household economics、开发三年的总时间投入、各 collaborator compensation 细节。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010–13｜GameMaker通用工具。
+- **实际体验验证与进入市场的路径：** 在Spelunky看到工具可行→动作原型→测试→付费。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 引擎商业版/外部插件。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
