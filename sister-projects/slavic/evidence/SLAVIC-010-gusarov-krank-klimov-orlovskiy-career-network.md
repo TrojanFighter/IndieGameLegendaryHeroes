@@ -108,6 +108,10 @@ https://www.kommersant.ru/doc/830918 （2026-10-07）
 - 重点比较：Gusarov《Royal Quest》与 Orlovskiy/Ener1 是不同的 decision-right 成本模型；没有统一合同证据前不得并案推断。
 - 2026 的“可迁移”应是决策机制，不是照用当年俄罗斯低价光盘/海外出版策略。
 
+### 同一老项目的IP与原作者分离（2026-10-09增量入口）
+
+[中国跨区canonical：Royal Quest / Red Winter / 新剑侠传奇2012—2024作者、产权和失败后复活](../../../country-studies/china/royal-quest-dungelot-xinjianxia-author-ip-split-2012-2024.md)：2023《Royal Quest》俄区运营与开发权由Fulqrum交Lesta，2024 Steam显示Lesta负责新版，**不能推原Katauri全队仍雇于Lesta**。2013年Katauri程序/设计Dmitry Mitrofanov本人称早在《Royal Quest》开发期就为做自己的游戏而离开，与原团队艺术负责人Alexander Yazynin组成只有2名常驻核心的Red Winter；2013年报道同时把Yazynin称为Katauri共同所有人与美术总监，**需核可能同时保留Katauri职务，不应写全员集体离职**。他们2014《Dungelot 2》因F2P和QA失败主动撤市，5月回归，2016回买断tinyBuild发行。这个跨角色谱系能做人物人年追踪样板，不能推出俄团队裂变总体频率。
+
 ## 7. 2026-10-09 Gusarov自述新证据重检：从自选MMO到商业化压迫，不是俄国永恒自由神话
 
 以下**仍是前文D01同一来源**的精细补读，并非无关的新第二作者证词。2019-08-22 Gusarov亲署第一人称：https://dtf.ru/gamedev/65368-istoriya-tvorchestva-dmitriya-gusarova-avtora-kosmicheskih-reindzherov-i-kings-bounty 。全部2019回忆定P1，不能把2019回忆误记2009/2012 P0。
