@@ -110,3 +110,18 @@ Dissonance商品页：https://marketplace.unity.com/packages/tools/audio/dissona
 - `TEMPORAL_VALIDITY`：2026“今天容易”不能倒写成2012项目“本来也应该很容易”。
 
 **优先研究任务：** 提取一组2012–2015单人/联机作品与2020–2025多人合作作品的可核组件清单、首次推出日期、团队和成本；以软件分发文件/技术讲演/仓库tag进行取证，而不是成功开发者口述“我一个人做的”。
+
+## 7. 中国非均衡吸收的压力测试：有中间件供应链，不代表玩法选择权同步扩散
+
+本笔记原先着重技术能力被商品化，现补充**工业知识吸收的用途分流**：`TOOL_ACCESS`、`TOOL_ADOPTION`、`TECHNICAL_SPECIALIZATION`、`AUTHORIAL_DECISION_RIGHT`、`GAME_DESIGN_DISCOVERY`分属不同变量，不能由前者自动推后者。
+
+**供应侧正例（2026-10-09查）：** 中国开发者开源QFramework（https://github.com/liangxiegame/qframework）、Luban（https://github.com/focus-creative-games/luban）、HybridCLR（https://github.com/focus-creative-games/hybridclr）、YooAsset（https://github.com/tuyoogame/YooAsset）。他们明确实现工具/代码复用、跨项目交易或公共维护。HybridCLR项目方所述千余款上线项目仍属其自述、不得当独立抽样调查。
+
+**创作权正例（2017同期）：** 凉屋《元气骑士》访谈报告员工先原型后立项、每项目常1–3人，程序担任制作人；这不是“某国人普遍意识强”的证据，而是可复制的中国组织制度设计：https://www.ali213.net/news/html/2017-4/293569.html 。2020《枪火重生》选择EA+合作Roguelite而非完整GaaS，详见[CASE-039](../../cases/CASE-039-gunfire-reborn.md)。
+
+**压力负例：** 《猛兽派对》2020–23内容返工、网络方案迭代和组织增长并列存在；不能把技术困难自动写成必要延期，也不应在没有架构演变源码/成本记录时判定“造轮子”是唯一原因。《边境》证明强技术hook与短期销量不能消除持续多人生态的义务；失败责任分配仍有争议，见[CASE-029](../../cases/CASE-029-boundary.md)。
+
+进一步研究框架见[中国033的中间件能力转化缺口](../../country-studies/china/033-technology-proxies-experience-demand-and-commercial-feedback.md)。
+
+**AI后继的具体预测**：中间件和AI将降低原型技术供给成本，但如果原创验证、跨圈资料吸收、作者原型权、失败退出及国际市场入口不变，最可能的表现是**更快完成既定规格、更多看起来像产品的原型，未必更多真正形成新体验的新产品**。反证包括新手/非传统作者借AI在短时间制造原创玩法，或传统公司修改原型权/市场验证制度后同样提高转化。都需固定发行队列与玩家反馈，而不能拿国别成功者名字做结论。
+---
