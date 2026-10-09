@@ -91,4 +91,6 @@ Delete：去掉每节对同一观点的复述与重复辞职结尾。Restore Per
 
 research_lint --strict、research_evidence_lint、context_audit_lint、case_maturity --check、reader_layer_lint、explorer_lint及diff空白检查通过；18项Evidence既有警告在CASE-016。case_maturity报告的是全库派生成熟度，不意味着CASE-007已经毕业。来源已读正文；新增Darwinia/Heat Signature商店入口核过标题和开发者，商店日期未作为起源年代。
 
-独立审阅及最终提交/远端检查在完成后追加。本记录不将机器检查或Agent审读当成作者签收。
+独立编辑Agent完整读取长稿、编辑记录及补证档案，给出需要修正的来源登记与日期问题：刊出日不能充当采访日；美术细分分工、跳跃预览基本乘法、样稿与第二视频的具体承接时序、履历“降职”精确译引未在本次Ledger登记。正文已退回到现有证据承担的粒度，不凭已读但未登记细节加戏。同时删除若干谈编辑本身的句子。
+
+独立六维意见：人物具体性明显增加；人生与制作过程连续；品味观点及条件意见保留；节奏更丰富，但编辑说明仍可删；阅读意愿没有实测；忠实性须先处理上述缺口。编辑意见为修正后可交作者，不是作者验收。两份PR的初次远端lint/private-content-guard均通过，收尾提交须按当前head再核。本记录不将机器检查或Agent审读当成作者签收。
