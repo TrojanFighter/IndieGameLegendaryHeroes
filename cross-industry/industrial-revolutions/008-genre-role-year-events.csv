@@ -7,7 +7,7 @@ year,family,format,subgenre,stage,case,scope_and_caveat,source_url,source_level
 1983,PLATFORM,2D,SCROLL,I,Manic Miner,小作者商业2D平台动作；不表示独立首次,https://worldofspectrum.org/archive/software/games/manic-miner-bug-byte-software-ltd,S1
 1984,SYSTEM,3D_WIRE,SIM,I,Elite,Ian Bell / David Braben双作者商业线框三维系统模拟,https://elite.bbcelite.com/,P0
 1985,PLATFORM,2D,SCROLL,P,Super Mario Bros.,专业公司主机横向卷轴动作标杆,https://www.nintendo.com/jp/character/mario/en/history/smb/index.html,P0
-1990,PLATFORM,2D,SCROLL,M,Commander Keen,早期id小核心技术驱动PC卷轴，精确FTE待核,https://www.computerhistory.org/timeline/graphics-games/,S1
+1990,PLATFORM,2D,SCROLL,P,Commander Keen,早期id小核心技术驱动PC卷轴，精确FTE待核,https://www.computerhistory.org/timeline/graphics-games/,S1
 1991,PLATFORM,2D,SCROLL,M,Sonic the Hedgehog,Sega内核心5→7人；不是独立中厂,https://shmuplations.com/sonicteam/,P1
 1991,UGC,2D,CREATION,I,ZZT,个人shareware商业作品与编辑器/脚本的结合,https://store.epicgames.com/p/zzt,P0
 1992,SHOOT,PSEUDO3D,FPS,P,Wolfenstein 3D,受限光线投射FPS专业小团队；不等于通用多边形3D,https://www.computerhistory.org/timeline/graphics-games/,S1
@@ -44,4 +44,4 @@ year,family,format,subgenre,stage,case,scope_and_caveat,source_url,source_level
 1982,SHOOT,2D,TOPDOWN,P,Robotron: 2084,"1982 Williams arcade twin-stick official manual; professional hardware baseline",https://www.robotron-2084.co.uk/williams/documents/robotron,P0
 2012,SHOOT,2D,TOPDOWN,I,Hotline Miami,"Dennaton 2 creators; GameMaker indie top-down action; Devolver publishing",https://test.gamemaker.io/en/blog/hotline-miami-developed-with-gamemaker,P0
 2015,SHOOT,2D,TOPDOWN,I,Nuclear Throne,"Vlambeer small-team top-down roguelike shooter; core full-time FTE unverified",https://store.steampowered.com/app/242680/Nuclear_Throne/,P0
-2015,MULTI,2D_2_5D,COOP,M,Helldivers,"Arrowhead top-down four-player online/local co-op; production FTE and publisher support not yet verified",https://www.arrowheadgamestudios.com/aboutarrowhead/games/,P0
+2015,MULTI,2D_2_5D,COOP,P,Helldivers,"Arrowhead top-down four-player online/local co-op; production FTE and publisher support not yet verified",https://www.arrowheadgamestudios.com/aboutarrowhead/games/,P0
