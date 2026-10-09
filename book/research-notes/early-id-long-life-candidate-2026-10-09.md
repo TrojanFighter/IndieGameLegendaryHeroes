@@ -50,7 +50,7 @@ Miller带来了Apogee的发行方式：免费部分先让人玩，后续内容�
 
 从《Wolfenstein 3D》走到《DOOM》，空间不再局限于格子，地板和天花板高度、光照、墙面几何有了更多变化，联网对战也进入作品。Carmack在2013年回顾中说，技术与设计相互推动：想要一种体验，推进技术，看到实际能够做到什么，再调整游戏。这是多年后的总结，不是开工时全队已有的完整计划。他推进了当时普通PC上可用的游戏技术；把这份工作只归于机器性能上涨，会抹去创造者，称他发明了全部3D图形或FPS则又夸大了归责。
 
-1994年1月，《Game Developer》刊出Alexander Antoniades的[〈Monsters From the Id〉](https://www.gamedeveloper.com/game-platforms/the-game-developer-archives-monsters-from-the-id-the-making-of-i-doom-i-)。《DOOM》刚发布，报道中的id是七人公司，开发环境包括NeXTStep。Romero为DoomEd关卡编辑器投入约五个人月，让设计者能直接编辑关卡；这个工作量不能写成项目因此延期五个月。
+1994年1月，《Game Developer》刊出Alexander Antoniades的[〈Monsters From the Id〉](https://www.gamedeveloper.com/game-platforms/the-game-developer-archives-monsters-from-the-id-the-making-of-i-doom-i-)。《DOOM》刚发布，报道中的id是七人公司，开发环境包括NeXTStep。Romero为DoomEd关卡编辑器投入约五个人月，让设计者能直接编辑关卡。
 
 编辑器改变了同事怎样工作。新的引擎能力，还要经过关卡、设计和视觉制作才能成为游戏；Hall、Adrian Carmack、Kevin Cloud等人的贡献不能消失在两位John的名字后面。同期报道也写到外部图形、声音和网络贡献。七人的公司规模，没有包括每一个制作和服务环节。
 
@@ -104,3 +104,5 @@ Carmack与母亲的关系后来缓和，Kushner还记述她玩《Commander Keen�
 事实入口：[CASE-016](../../cases/CASE-016-early-id-software.md)、[Ledger](../../evidence/CASE-016-early-id-software-source-ledger.md)。E020/023/027/030承担设备与教育，E022/026承担同事前史，E001–E003承担交付/Keen/离职，E007/015承担技术、工具、公司规模及发行，E013–E019承担修改生态与后续制作，E028/031–E034及原稿研究链接承担家庭边界。精确家庭财务、合同、总工时和私人对话仍不补齐。
 
 正式[原稿](../profiles/early-id-doom.md)保留。本篇独立候选，史实回读和作者验收待完成，见[编辑记录](three-lives-editorial-2026-10-09.md)。1990年代shareware与技术前沿保持HISTORICAL；工具、分阶段承诺、技术创造和外围协作只沿用原稿机制判断，不承诺2026渠道效果。AUTHOR_REVIEW_PENDING。
+
+核验说明：E007的约五个人月是DoomEd的工作量，不是《DOOM》延期五个月。正文没有从这项投入推导项目延期。

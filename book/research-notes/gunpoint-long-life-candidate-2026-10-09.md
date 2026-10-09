@@ -84,8 +84,6 @@ Private Dick是他给游戏起的第一个名字。玩家要扮演带着奇异�
 
 Rose也问起开发中遇到的问题。Francis原以为一个下午就能做好的电梯轮廓，花了整整一周。他老觉得快好了，实际上还没有。美术协作者交来的素材也还放在下载目录的压缩包里，等他放进游戏。他同时要做的事太多，便给自己的岗位取了个名字：“Bottleneck”，瓶颈。
 
-别人交来的素材还要由他放进游戏；一个电梯的工作又会超出预期。他并不只是给别人分派任务，自己仍有一堆没做完的事。
-
 游戏发售以后，他在[2014年的〈The Non-Stick Plan〉](https://www.pentadact.com/2014-01-25-game-design-the-non-stick-plan/)里总结了自己的方法：他喜欢在[《Deus Ex》](https://store.steampowered.com/app/6910/)里想办法潜入建筑，希望用简单规则，让玩家反复获得这种乐趣。这是发售后的总结；2010年他删演出时，还没有把核心机制做出来。
 
 ## 更多人让这款游戏成形
@@ -121,8 +119,6 @@ John Roberts与Fabian van Dommelen参与美术制作，Ryan Ike、John Robert Ma
 离开杂志之后，Francis没有把新工作固定成不断续写《Gunpoint》。2015年接受[MCV采访](https://mcvuk.com/business-news/media-pr/gunpoint-and-heat-signature-developer-tom-francis-on-going-from-critic-to-creator/)时，他说，有人希望他做续作，前作的成功却让他有余地不这么做。假如需要为生存继续开发它的商业价值，他可能会做更多移植、追加内容和续集；当时还不必。
 
 他转向《Heat Signature》。那个太空游戏的设想比《Gunpoint》还早，起初是3D形式。朋友重新提起它时，已经学会用GameMaker做2D游戏的Francis，开始看得出另一种可实现的办法。这是他在2015年的回忆，不能替早期设想安排一个精确开工日期。
-
-过去他不知道怎样实现的3D设想，现在可以用自己学会的2D工具重想。前作收入让他不必立即拿同一个游戏继续挣钱，他选择了这个旧点子。
 
 ## 第二款作品，又是一次风险
 
