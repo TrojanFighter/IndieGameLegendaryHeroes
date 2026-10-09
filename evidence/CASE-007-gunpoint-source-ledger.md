@@ -154,6 +154,21 @@ Supports:
 Boundary:
 - This is one concrete decision, not proof that Francis always avoided sunk-cost or scope errors.
 
+## Year drift note — re-read attempt 2026-10-09
+
+`book/profiles/gunpoint.md` gives its observed window as "c. 2009–2013" in the temporal-validity card. **No 2009 appears anywhere in this ledger.** Its earliest dated record is 2010-10-25 (`Gunpoint And The Other Game`), and its own STRONGLY SUPPORTED list describes development as "publicly documented over about three years".
+
+So the profile's start year sits one year earlier than anything the evidence layer holds, and the two statements ("c. 2009–2013" vs "about three years") are not compatible.
+
+Two possibilities, which this ledger cannot currently distinguish:
+
+- the profile is right, and a 2009 start simply has not entered the evidence layer yet;
+- the profile should read "c. 2010–2013".
+
+Attempted to resolve it: `pentadact.wordpress.com` (Francis's own devlog) returns 403, and `pentadact.com` now serves his current site rather than the 2012 résumé this ledger cites. Not resolved either way.
+
+Action for whoever picks this up: find a dated statement of when Gunpoint development began, add it as an evidence record, then either keep the 2009 start or correct the profile. **The profile was deliberately left unchanged here** — it is a reader-layer document, and the correction should follow the evidence rather than precede it.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
