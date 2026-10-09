@@ -80,11 +80,11 @@
 
 | 观测样本 | 2012 | 2014 | 2017 | 2024 | 2025 | 含义／限制 |
 |---|---:|---:|---:|---:|---:|---|
-| SteamDB 全平台每年游戏发行 | 303 | 1,712 | 6,925 | 18,450 | 21,297（动态快照） | **总游戏数量**，不能推出全是 indie、独立作者数或引擎起效年份 |
-| SteamDB「3D Platformer」标签每年游戏数 | 4 | 22 | 104 | 1,355 | 1,445 | 标签有追标、重叠、历史覆盖不等问题；可提示品类作品供给扩张，不能证明 2017 才开始量产 |
+| SteamDB 全平台每年游戏发行 | 303 | 1,712 | 6,925 | 18,450 | 21,261（动态快照） | **总游戏数量**，不能推出全是 indie、独立作者数或引擎起效年份 |
+| SteamDB「3D Platformer」标签每年游戏数 | 4 | 22 | 104 | 1,374 | 1,479 | 标签有追标、重叠、历史覆盖不等问题；可提示品类作品供给扩张，不能证明 2017 才开始量产 |
 | Fortnite Creative+UEFN 作者／发布岛屿 | — | — | — | **70,000 creators／198,000 islands** | — | 创作者人数和作品数分开；2024 137,000 islands via UEFN |
 
-SteamDB 动态页面：[all releases](https://steamdb.info/stats/releases/)、[3D Platformer](https://steamdb.info/stats/releases/?tagid=5395)。2025 是截至 2026-10-09 检索展示的历史年度结果，日后回访可能有小幅变化；**2026 当年数据不入年度比较**。
+SteamDB 动态页面：[all releases](https://steamdb.info/stats/releases/)、[3D Platformer](https://steamdb.info/stats/releases/?tagid=5395)。2025 是截至 2026-10-09 查询时网页快照所展示的历史年度结果；本轮复核发现旧快照 2024 年 3D Platformer 曾显示 1,355 款、这次显示 1,374 款，不能将标签追标当新增历史发行，日后回访可能有小幅变化；**2026 当年数据不入年度比较**。
 
 下一阶段 Q 的严格定义建议：
 - **Q1 可见作者群**：同类型、同年度至少 20 个可辨别的独立作者／开发主体有可玩作品；只作研究筛选阈值，不是行业普遍法则；
@@ -97,6 +97,11 @@ SteamDB 动态页面：[all releases](https://steamdb.info/stats/releases/)、[3
 1. **1984 Elite：早期就有双作者 3D 商业游戏。** 无法把 3D 研发能力简单写成“90s 大厂专属→2010s 独游”。实际要按 3D 玩法／资产规格和工具负担分级。
 2. **1993 DOOM：小团队的 Created Window。** 由少数高技术作者推进技术前沿，不等于当时一般小团队能以同等成本开发 FPS。制作公司规模、技术创造位置是两根轴。
 3. **2024 UEFN：大规模作者生产未必对应大量独立 standalone 产品。** 平台把引擎、多人基础、发行、玩家入口捆绑，让作者可以生产体验，但产权、后端依赖、迁移成本、商业回报仍另算。
+
+## 5.5 逐年数据与四生产主体分代分析（第二轮进度）
+
+- [006 — 1958—2026 69 年年度观察 CSV](006-annual-production-capability-observations.csv)／[字段字典](006-annual-observations-dictionary.md)：Steam 2D/3D 可直接对照的逐年数量，GGJ 与 UGC 的独立作者生态分母；空白是 UNKNOWN，不是零。
+- [007 — 同品类 2D/3D × 大厂／中厂／独立／作者量产的阶段审计](007-genre-production-diffusion.md)：对比 1983 Manic Miner、1984 Elite、1996 Super Mario 64、2017 A Hat in Time、2020 Pumpkin Jack、2024 UEFN 的生产尺度，附两张 SVG 图；**M 中型量产年份目前缺可靠跨项目样本，不准编造。**
 
 ## 6. 接下来的统计缺口，按优先级
 
