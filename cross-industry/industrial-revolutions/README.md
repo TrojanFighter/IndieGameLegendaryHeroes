@@ -39,6 +39,8 @@
 - [005 — 游戏产业技术—产品生产能力年代表（1958—2026）](005-game-production-capability-timeline.md) — 研究入口与证据锚点，[SVG 历史图](005-game-production-capability-timeline.svg)
 - [006 — 年度观察数据集与字典](006-annual-observations-dictionary.md) — 69 个年份的 CSV、五种 Steam/GGJ/UGC 数量分母
 - [007 — 同品类 2D/3D 生产主体与量产时钟](007-genre-production-diffusion.md) — 专业/中型/独立/多作者的阶段证据；[年度产量图](007-2d-vs-3d-platform-production.svg)、[分代证据图](007-genre-diffusion-clock.svg)
+- [008 — 年度×2D/3D×大型／中型核心／独立制作图谱](008-audited-genre-capability-atlas.md) — 复核 46 项事件与阶段证据；[8轨产品能力时间轴](008-genre-production-multitrack.svg)、[前Steam与Steam产量图](009-presteam-to-steam-production-volumes.svg)、[2D/3D射击对照图](010-shooter-coop-2d3d-parallel.svg)
+- [009 — 前Steam历史收录数原始观察](009-presteam-platform-release-observations.csv) — ZX Spectrum 1982—1989／DOS 1990、1993、1995 的平台收录数及动态档案注意事项
 
 ## 与《独立游戏英雄传说》的接口
 
