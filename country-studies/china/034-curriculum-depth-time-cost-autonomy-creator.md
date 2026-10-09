@@ -120,4 +120,4 @@ https://www.moe.gov.cn/srcsite/A10/s7058/202511/t20251107_1419596.html
 
 需加入`UNASSISTED SELF-STUDY TASK`：同主题、不同年代教材的随机分组与相同外部资料限制，测试学生独立建模、解释为何、跨题迁移，控制教师质量、家庭背景、基础数学水平与题型。学校实际课本与补课材料必须一起调查。
 
-这些变量属于[中国034](034-curriculum-depth-time-cost-autonomy-creator.md)对教材投入效率的细化；相邻的职业端“技术能力越域外推/热门模板依赖”正式见[中国033 §11](033-technology-proxies-experience-demand-and-commercial-feedback.md)，不由教材问题直接推出中国技术人群性格。
+这些变量属于[中国034](034-curriculum-depth-time-cost-autonomy-creator.md)对教材投入效率的细化；相邻的职业端“技术能力越域外推/热门模板依赖”正式见[中国033 §13](033-technology-proxies-experience-demand-and-commercial-feedback.md)，不由教材问题直接推出中国技术人群性格。
