@@ -50,6 +50,8 @@
 
 - [金山系18人精选名单审计、李兰云重返单机与Katauri反向转MMO](kingsoft-18-roster-li-lanyun-katauri-reverse-pivots-1995-2024.md)：2024媒体18人是高度曝光精选，混合平台/销售/发行/音效/项目主创，不能算“18个作者样本”。李兰云2014主动填补国产武侠ARPG需求，却在《新剑侠传奇》上线后因QA/技术问题停售返工；俄Katauri 2007自有《Battle Lord》原型由1C后购《King's Bounty》品牌发行，2012又主动转入大型MMO，2019 Gusarov亲述发行商成本压力/裁员/quest干预、2013 Master of Orion提案被拒、随后转小型F2P；**作者意愿、独立审批权、市场融资与商业交付必须分开追踪**。
 
+- [《Royal Quest》—《Dungelot》—《新剑侠传奇》：作者离职、IP经营与2014双停售](royal-quest-dungelot-xinjianxia-author-ip-split-2012-2024.md)：俄Katauri原IP 2023区域权益交给Lesta、2024以新公司运营；两位原Katauri开发者组成2核心Red Winter，2014《Dungelot 2》F2P缺陷停售并5月重上、2016转回premium由tinyBuild发行；中国《新剑侠传奇》2014-07停售而2014-08-12已发布2.0恢复销售，其“黑市币”明确不开放直接充值（不得误记P2W）；云游2015/2016融资有36氪数据库线索但缺原公告。**法律实体/IP/原作者/核心人员/盈利是五套存活指标。**
+
 ## 1.5.1. Premium PC 生态分叉：完美世界／Runic × Nival（2000—2017）
 
 - [2005中国“推荐原创力量”固定子集：能力年龄与选择偏差审计](china-online-2005-showcase-capability-age-census.md)：固定35项展示子集，仅用于审计selection bias与能力继承；至少30/35不是干净的2005从零新能力入口，至少17/35有同期明确既往游戏能力输入。禁止外推到117家总体或官方24家新公司。
