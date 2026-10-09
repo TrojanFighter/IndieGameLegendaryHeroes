@@ -36,6 +36,12 @@ https://www.mobygames.com/game/94269/space-rangers-hd-a-war-apart/credits/window
 
 **2019 P1 强制关系纠错**：Gusarov亲笔写《Royal Quest》交给发行方、部分员工转去1C-SoftClub、许多人被裁或自主离开、部分保留在Katauri制作《Music Wars》；结尾明确“我和Alexander Yazynin在Neodynamics工作，Katauri也是我们的公司、没有消失”，此为**一位当事人对组织归属的自述**、不等于工商法人连续性或者所有员工还在。研究必须将**合作参与（project participation）**与**独占全职雇佣（exclusive employment）**区分。https://dtf.ru/gamedev/65368-istoriya-tvorchestva-dmitriya-gusarova-avtora-kosmicheskih-reindzherov-i-kings-bounty ，正文Royal Quest及末段。
 
+### 2026-10-09 正式追踪已获结果及中国匹配队列
+
+俄罗斯2008 Katauri全部18实名身份基线、2012《Warriors of the North》旧队+新队双Credits、2015 Herocraft《Space Wolf》Dmitry Degtyaryov关卡设计及2021《King's Bounty II》TRACE Studio外包环境艺术，**均已收入**[2002→2025目标→像素与Katauri完整对照证据](object-pixel-katauri-1c-personnel-cohorts-2002-2025.md)。新2015/2021角色属于非创始的制作工艺延续，尚不能判其拥有新游戏greenlight权。俄剩余大部分人的2015/2020/2025真实制作状态仍UNKNOWN（**未知不等于退行/离业**）。
+
+与俄2008年份更近的大陆高级Premium可用2007上海软星《仙剑四》游戏Credits 47人，但母公司注册地在台湾；须按实际研发地/劳动市场分母纳入，不把台湾母公司所有作品算中国大陆员工。另2002目标《秦殇》虽早6年，已找到非创始人员向像素转移并经2015律师申报确认的真实十三年轨迹，作为另一条原PC创作者去Online的机制锚点。
+
 ## 2. 中国王屹2016演讲：原型、判断、范围收束，不允许写成只会照榜单
 
 **CN-W01 P0 direct speech via edited transcript**：2016-09-22 腾讯全球合作伙伴大会，王屹复盘，游戏葡萄整理于2016-09-23 GameRes存档：https://www.gameres.com/683180.html 。P0只针对王屹亲自讲述的观点与当期公开数字；**第三方整理非会议完整录像、盈利或人效审计**。
