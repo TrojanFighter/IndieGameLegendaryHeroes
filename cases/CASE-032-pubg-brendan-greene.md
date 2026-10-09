@@ -310,3 +310,11 @@ PUBG 之前已经存在完整验证链：
 与[多人世界技术/单位经济比较](../book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md)接通：Greene 在 mod / H1Z1 时先取得规则与受众反馈，Bluehole / 金昌汉提供公司生产与全球分发能力；PUBG商业成功不证明Greene下一次技术押注必然正确。
 
 PLAYERUNKNOWN Productions于2026-06-17官方宣布停止开发并免费开放**单人**《Prologue: Go Wayback!》，继续Melba地形技术（https://pp.studio/news/prologue-go-wayback-goes-free）。禁止误写成“独立后又因多人服务器成本失败”；研究应拆开游戏商业回报与潜在技术资产、后续资本和实际退出条件。不要从一个人的第一作成功推导该人所有方法和能力恒定，更不要将少数精英案例外推到国家人群。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2013–17｜Arma/DayZ Mod→H1Z1→UE4。
+- **实际体验验证与进入市场的路径：** UGC真实玩家验证大逃杀→Bluehole商业团队。
+- **机会类型：** `PLATFORM_UGC→RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** Mod规则≠PUBG代码直接移植。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

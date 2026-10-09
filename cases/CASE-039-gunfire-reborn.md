@@ -148,3 +148,11 @@ Gunfire Reborn 是中国 commercial organization 内部出现的 premium / EA �
 ## 2026-10-09 补充：人效规模审计尚未闭环
 
 MobyGames当前Windows版credits页面（https://www.mobygames.com/game/146169/gunfire-reborn/credits/windows/）记162名不同署名（128专业职务、34致谢），并列出编程、设计、美术、QA、市场、本地化和共享技术援助；此记录截至2026年仍可修改，不保证是2020 EA当天同期的全部署名/投入，也不等于128名全职研发或128人年。多益2020-12-15同期公告称截至2020-11-28销量**100万份**（https://qh.duoyi.com/news/news_17691.shtm）。在未取得2020 EA前原始人员/每月FTE、持续共享部门工时及外部采购支出前，本作只能算**商业公司premiun+EA模式正例**，不能据此称“中国中间件路线小团队高人效”；与《Lethal Company》等比必须把不同完整项目人年及版本边界统一。详见[生产效率审计](../book/research-notes/china-indie-manpower-efficiency-middleware-build-buy-incentives-2026-10-09.md)。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2020–21｜商业团队共享资源/3D合作系统。
+- **实际体验验证与进入市场的路径：** PvE肉鸽FPS→Steam EA→百万销量。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 首发FTE与完整中间件清单UNKNOWN。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

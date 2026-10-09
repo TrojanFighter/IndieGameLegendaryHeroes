@@ -465,3 +465,11 @@ F-1 甚至记录 UnionPay / China PnR 的直接销售服务费低于 1%，显著
 - **Market sufficiency / legibility:** **STRONG for 2005–2007 China online-game regime** — F2P、县乡地推、网吧、虚拟商品和社会密度与当时市场高度适配；2026 具体 tactic 属 HISTORICAL。
 - **Capability scaling:** very high organizational scaling；该案例不能用于小团队 runway 正例。
 - **Major unknowns:** 对本 Case 的主要研究目标而言，个人 household 不是优先缺口；更重要的是产品团队、地推、支付、广告与 revenue-system 的时代边界。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2000s｜大型网游自产服务/支付运营。
+- **实际体验验证与进入市场的路径：** 中国F2P/交易模式试验→商业扩张。
+- **机会类型：** `MIXED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 商业制度创新≠低人年作者独游。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

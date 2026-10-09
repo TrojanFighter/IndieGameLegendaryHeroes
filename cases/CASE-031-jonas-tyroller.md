@@ -323,3 +323,11 @@ Each intake must record source date, URL, speaker, timestamp when applicable, ev
 - **Market sufficiency / legibility:** **STRONG for ISLANDERS/Thronefall** — “fantasy compression” produces high category legibility; public audience is a real but unquantified market-access asset.
 - **Capability scaling:** repeated shipping grows both skill and market/network capital; later projects use stable collaborator structure rather than large permanent organization.
 - **Major unknowns:** household economics、exact revenue/runway thresholds、YouTube audience causal share、contractor / porting perimeter。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–2023｜通用游戏工具与小队协作。
+- **实际体验验证与进入市场的路径：** 多次小作品/短原型→不同形式商业项目。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 各作分别核引擎/素材清单。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

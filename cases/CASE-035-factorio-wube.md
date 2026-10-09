@@ -146,3 +146,11 @@ Michal 已辞职全职投入，团队没有外部资助、主要自筹；他们�
 - **Market sufficiency / legibility:** **STRONG over time** — 公开 playable + direct purchase 在 Steam 前已形成数万 memberships。
 - **Capability scaling:** **EVIDENCE-FOLLOWING** — 新增开发能力跟随 paid-alpha revenue / product evidence，而非先建大组织。
 - **Major unknowns:** founder household、个人储蓄、年度 burn、早期职业前史、Indiegogo/直销/Steam 各自净贡献。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2012–20｜自研C++/工业仿真管线。
+- **实际体验验证与进入市场的路径：** 小队系统构造→付费早期版→更新。
+- **机会类型：** `CREATED+CO_EVOLUTION`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 不可把所有自研都算浪费。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

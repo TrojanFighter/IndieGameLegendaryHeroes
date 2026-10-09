@@ -149,3 +149,11 @@ Tripwire 是 C014 最强的历史正向 comparator 之一：它展示了怎样�
 - **Market sufficiency / legibility:** **STRONG for niche FPS/mod ecosystem** — the route depended heavily on 2000s Unreal/mod-contest infrastructure.
 - **Capability scaling:** community-as-production → company absorption → repeatable external talent/product pipeline.
 - **Major unknowns:** founding cashflow/loans、individual household/day-job histories、failure projects、exact core/periphery headcount。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 1998–2009｜Unreal Tournament mod工具。
+- **实际体验验证与进入市场的路径：** Red Orchestra/Killing Floor社区mod→验证→独立版。
+- **机会类型：** `PLATFORM_UGC→RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** MOD与公司/IP/技术延续分别核。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
