@@ -1,5 +1,7 @@
 # 独立游戏英雄传说
 
+**新增产业史专题**：[民间高手时代：1999—2025多人游戏技术就绪与玩法创新权转移](book/research-notes/grassroots-online-multiplayer-opportunity-window-1999-2025.md)。区分早期Mod谱系、2012—2018新规则爆发与2020年代小团队联机扩散；包含SteamDB回溯统计和大厂反例。
+
 **新专题（2026-10-09）｜多人游戏基础设施、老板决策与动态竞争**：[Improbable × PUBG × Tarkov × Party Animals × Prologue：架构、单位经济与发行窗口](book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md) · [静态目标谬误：蒋介石的抗战准备与战略再校准](book/research-notes/static-target-trap-chiang-and-strategic-recalibration-2026-10-09.md)。两篇为研究后台对照，不占新的编号CASE；禁止把制作者自述视为独立因果证据，亦禁止用模拟服务器装箱率冒充实测成本。
 
 
