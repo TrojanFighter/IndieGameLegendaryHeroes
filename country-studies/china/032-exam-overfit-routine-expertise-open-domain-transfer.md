@@ -1212,4 +1212,4 @@ fast deliverable
 > **本项目新的判断纪律：不能因某人能快速拿出一个答案就默认他具备开放决策能力，也不能因某人要求更多资料就默认他更有判断力。判断质量须看：信息增量是否改变了方案、反证是否被认真对待、成本是否可逆、长期校准是否改善。**
 
 
-第29节的实验只测量`DECISION-TEMPO / OPEN-DECISION QUALITY`，不直接证明教育到组织代际传递。涉及招聘、晋升、授权、下一代评价函数复制的假说与外部实证另见[创作者三层约束018 §3.6](../../book/research-notes/china-creator-constraints-three-layer-map-018.md)和[OQ-020](../../OPEN-QUESTIONS.md)。
+第29节的实验只测量`DECISION-TEMPO / OPEN-DECISION QUALITY`，不直接证明教育到组织代际传递。涉及招聘、晋升、授权、下一代评价函数复制的假说与外部实证另见[创作者三层约束018 §3.6](../../book/research-notes/china-creator-constraints-three-layer-map-018.md)和[OQ-022](../../OPEN-QUESTIONS.md)。
