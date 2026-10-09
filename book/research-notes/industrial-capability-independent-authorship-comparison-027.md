@@ -178,7 +178,7 @@ Bourassa 已育有孩子、有房贷。多年专业履历、老朋友合作、�
 
 来源：
 - 王妙一：https://www.ifanr.com/app/1201677 和 https://www.gamersky.com/zl/201708/940291.shtml
-- 云风在2024年六月聚餐观察（“游戏老兵聚会没人给出自己要做什么”是一次私人场景的见闻，不是群体统计）：https://blog.codingnow.com/2024/06/ ；2025设计学习：https://blog.codingnow.com/2025/08/gamedev.html ；2025试玩版复盘：https://blog.codingnow.com/2025/10/deepfuture_dev.html ；2024经济余裕一手自述：https://blog.codingnow.com/2024/05/farewell.html
+- 云风在2024年六月聚餐观察（“游戏老兵聚会没人给出自己要做什么”是一次私人场景的见闻，不是群体统计）：https://blog.codingnow.com/2024/06/ ；2025设计学习：https://blog.codingnow.com/2025/08/gamedev.html ；2025试玩版复盘：https://blog.codingnow.com/2025/10/deepfuture_dev.html ；2024经济余裕一手自述：https://blog.codingnow.com/2024/06/
 - 月下：https://finance.sina.com.cn/tech/csj/2025-02-17/doc-inektuqr5120329.shtml
 - 王剑：https://news.yxrb.net/202207/04230157.html
 - 金鱼、路演、发行机构：https://www.chuapp.com/article/291336.html
