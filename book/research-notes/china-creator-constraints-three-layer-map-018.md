@@ -1231,6 +1231,23 @@ EA 接受：
 - 作品集导向会提高原创创新率。
 
 
+
+
+## 1.3.11 入厂前作品密度还必须补上“首次自主出题”的维度
+
+018 前文的 PPAD、maker-to-career conversion 与 hiring-function audit，主要测“能否做出 playable artifact”和“企业能否识别这种能力”。但如果需要真正检验“送进大厂的人在入厂前已有哪些差异”，不能只数项目次数。
+
+新增两个**非替代性字段**：
+- **AUTHORIAL INITIATION AGE / 首次自主出题年龄（可为区间/UNKNOWN）**：第一次真正由本人发起或主导可检验的产品问题，而不是完成老师/公司给的任务；
+- **PRIOR PRODUCT-DEFINITION AUTHORITY / 先前产品定义权**：在入职前及入职后分别拥有过怎样的核心方向、scope、rescope/kill 与现实反馈决策责任；按 NO / SHARED / LEAD / UNKNOWN 编码。
+
+同时保留 **MAKING CAPABILITY / 制作能力** 与 **AUTHORIAL JUDGMENT / 作者判断** 的独立证据，不得用作品数量、游戏时长、AAA 职级、学历或“创始人”头衔相互代替。
+
+人物级机制与公开案例（Warhorse 的 Vávra/Klíma 前史、AAA 声望转移错误、制作治理、验证证据与资产累积差异）的 **canonical owner** 是 [026—声望管道与作者连续性 §十一](prestige-pipeline-authorial-continuity-026.md)。本 018 只继承字段和跨国识别要求，不复制案例正文。
+
+**新分母警告：** 能从成功者传记中发现早期作者性，不能证明某国年轻人的作者启动年龄普遍较早；需要按出生 cohort/岗位/教育环境取样，记录公开作品集缺失与未知，同时测后续职业授权。更早出题本身也不构成更好判断或商业成功的充分条件。
+
+
 ## 1.4 对独立开发者真正重要的教育层变量
 
 后续案例统一编码：
