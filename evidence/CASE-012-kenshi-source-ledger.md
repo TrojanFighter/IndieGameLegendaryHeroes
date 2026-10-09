@@ -46,8 +46,6 @@ Supports:
 Boundary:
 - does not give exact wages, savings, EA revenue or total budget.
 
-## Current evidence-level conclusions
-
 ## E006 — Public development altered work and feedback
 
 - Case ID: CASE-012
@@ -106,6 +104,36 @@ Hunt recalls two nights of security work and five development days per week duri
 - Verification Status: PARTIAL (body read; date inconsistency retained)
 
 Hunt describes distrust during update gaps and after other Early Access abandonments, and recalls repeated engine upgrades/workarounds, with further improvement requiring major rewriting. Reporter places Greenlight in 2012 in the opening and 2013 later; exact approval date remains unresolved, and neither wording establishes the EA release date. Do not treat steady updates as proof of inevitable completion or general commercial causality.
+
+## E007 — Early programming recollection in the 2019 AMA
+
+- Case ID: CASE-012
+- Source class: P1 (Hunt's recollection, not the surrounding community questions)
+- Source title: My name's Chris Hunt, game developer behind Kenshi and founder of Lo-Fi Games. I spent 12 years creating my dream game, ask me anything!
+- Author / organization: Chris Hunt, account Captain_Deathbeard / Reddit r/IAmA
+- Publication date: 2019-08-08
+- URL: https://www.reddit.com/r/IAmA/comments/cnmwen/comment/ewcgr1j/
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (original answer read; retrospective account, no independent education record)
+
+In his reply to Intrexa, Hunt rejects identification with another person of the same name. He recalls not figuring out how to make games until about eighteen, despite already being able to program; displaying graphics had been the obstacle. The age refers to figuring out game-making, not a separately established date for learning graphics. No first game, school, degree or employment history is identified. Do not adopt the questioner's college/friendship story as Hunt's biography.
+
+Identity/event cross-check: the thread identifies Hunt and links the Lo-Fi account's proof post, which could not be opened in this read. The institutional Japanese channel's 2019-08-13 translation independently identifies Hunt and Natalie as participants in the August 8 Reddit AMA: https://kenshi-jp.hatenablog.com/entry/ar1799350 (title: 「Kenshi」クリス・ハントQ&A：パート１　「Kenshi２ではビークシングが2倍になる」！？; author/organization Kenshi_JP; accessed 2026-10-09). This corroborates the event, not the age recollection. No global promotion of the AMA's engine, sales or sequel claims is made.
+
+## E008 — A Chinese interview on why a sequel was planned
+
+- Case ID: CASE-012
+- Source class: P0 (2019 plans attributed to Hunt); S1 (interview framing); mediated Chinese publication
+- Source title: 游研社专访Kenshi制作人：会做到第三代，再去想别的事
+- Author / organization: 游研社 (individual interviewer not identified in the accessible copy) / its Sohu publication
+- Publication date: 2019-12-16
+- URL: https://www.sohu.com/a/360833121_628730
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (published Chinese Q&A read; original spoken language/recording unavailable)
+
+In the WePlay Q&A, Hunt explains the planned sequel by the need for a new engine and environment, which patches or DLC could not deliver to his satisfaction. He describes more staff and funding and estimates release within two years. These are reported 2019 intentions and a forecast, not a verified subsequent delivery, audited finances or proof that every defect came from the engine. Introductory dates, solo-duration claims, team totals and universal claims about games are not adopted. The accessible copy credits 游研社; no additional Sohu repost is counted as independent corroboration.
+
+## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
 - long solo phase existed but did not cover the whole production history.
