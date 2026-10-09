@@ -46,7 +46,7 @@
 | **1980** | 《Battlezone》：专业街机线框 3D 战车 | P：高专用硬件技术环境已能商业化 3D；不是通用家用 3D 工具 | [Museum of the Game](https://www.arcade-museum.com/Videogame/battlezone) |
 | **约 1982–1988** | 英国家用 8-bit：单作者商业 2D 游戏生产生态 | I／Q 候选：卧室程序员群体，必要补同期出版物作者数和出货分母 | [1980s contextual study](https://code198x.com/vault/phenomena/bedroom-coder/)（二手，待来源升级） |
 | **1984** | 《Elite》：线框 3D＋交易、探索、状态系统 | **I 的反例锚点**：Ian Bell、David Braben 双作者，绝非“3D 等到 2005 年才可独立制作” | [BBC Micro archive](https://www.bbcmicro.co.uk/game.php?id=366) |
-| **1985** | 《Super Mario Bros.》卷轴平台动作 | P：成熟主机公司掌握高效 2D 表现与关卡生产；单作不是 Q | [CHM game timeline](https://www.computerhistory.org/timeline/graphics-games/)（补 Nintendo 一手细节） |
+| **1985** | 《Super Mario Bros.》卷轴平台动作 | P：成熟主机公司掌握高效 2D 表现与关卡生产；单作不是 Q | [Nintendo 日本首发日期](https://www.nintendo.com/jp/character/mario/en/history/smb/index.html)（开发团队规模仍需再核） |
 | **1992–1994** | 世嘉《Virtua Racing》1992（商业 3D 多边形）、PlayStation 日本 1994 | P：专业级实时多边形内容产品与消费硬件平台扩散 | [SEGA corporate history](https://www.sega.jp/history/arcade/topics/6512/index.html)、[CHM](https://www.computerhistory.org/timeline/graphics-games/) |
 | **1993–1996** | 《DOOM》1993：受限 3D＋WAD；《Quake》1996：实时多边形 FPS | 小型专业团队创建技术窗口，并开放地图／MOD 作者生态；不能等同一般独立作者可做整个 FPS 工程 | [CHM](https://www.computerhistory.org/timeline/graphics-games/)、[Quake official file archive](https://github.com/Jason2Brownlee/QuakeOfficialArchive) |
 | **1999** | GameMaker 开始；2D 作者工具进入现代降低门槛进程 | I：编辑器可得，不意味着当年所有类别已量产 | [GameMaker official 25th anniversary](https://gamemaker.io/en/blog/gamemaker-25) |
