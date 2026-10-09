@@ -327,3 +327,11 @@ Zachtronics 最值得进入“程序员读者入口”的原因不是：
 6. how much Matthew Burns / other collaborators changed project-selection ability；
 7. whether FIT-LOCK-IN is observable in other studios, not just creator self-report；
 8. Coincidence 是否真正摆脱 Zachtronics path dependence。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2000s–2022｜Flash/PC/自有工具演进。
+- **实际体验验证与进入市场的路径：** 个人系统谜题探索→自我限定内容形态。
+- **机会类型：** `MIXED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 各作品引擎与当时平台分别核。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

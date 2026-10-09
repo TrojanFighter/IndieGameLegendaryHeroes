@@ -463,3 +463,11 @@ Limit Theory 的危险恰好相反：
 - **Market sufficiency / legibility:** **STRONG interest / NOT REACHED as product** — Kickstarter 与社区证明愿景吸引力，但最终没有完成产品，不能把预售式兴趣当最终 market fit。
 - **Capability scaling:** late team expansion 未能弥补长期 product-closure debt；engine asset 成熟度高于 game code。
 - **Major unknowns:** household economics、年度 burn、团队 compensation、取消后的职业回撤。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2012–18｜自研引擎/程序生成。
+- **实际体验验证与进入市场的路径：** 引擎与规模能力提高，但核心游戏难闭环。
+- **机会类型：** `CREATED+FIT_TRAP`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 不能把技术Demo算产品验证。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
