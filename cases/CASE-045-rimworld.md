@@ -182,3 +182,11 @@ Sylvester 公开承认：
 3. early prototype discard chronology；
 4. first 12–18 months player-feedback 如何改变 systems；
 5. storyteller / character systems 哪些 feature 是因为成本删减，哪些纯设计选择。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2012–18｜Unity + 自建殖民模拟。
+- **实际体验验证与进入市场的路径：** 小核心AI故事生成→早期销售→正式发布。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** MOD支持与最早收益节点。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

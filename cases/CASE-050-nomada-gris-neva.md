@@ -314,3 +314,11 @@ GRIS 的真正“能力模型”不是：
 - **Market sufficiency / legibility:** **STRONG** — strong visual identity 本身构成 store/trailer legibility；具体 2016–2018 boutique-publisher / discovery 路径属 HISTORICAL/CONDITIONAL。
 - **Capability scaling:** **CAPABILITY-COMPOSED → CAPABILITY-EXPANDED** — 先通过 cofounder composition 补执行能力，再用资本/招聘扩 art/animation production。
 - **Major unknowns:** founders household、demo runway、publisher advance/recoup/IP、17 vs ~26 headcount 口径、Neva retained earnings。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2015–18｜Unity/艺术家与工程师组合。
+- **实际体验验证与进入市场的路径：** 围绕视觉强项重组团队→publisher。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 哪类能力外购、哪类自研。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

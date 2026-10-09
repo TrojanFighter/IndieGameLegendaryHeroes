@@ -319,3 +319,11 @@ Everything 提供一个对 Capability–Project Fit 很重要的内部压力：
 - **Market sufficiency / legibility:** **PARTIAL** — 独特视觉/动作语言高度可辨识，但作者自己已意识到 2017 indie saturation；完整 market-access / sales chronology 未闭环。
 - **Capability scaling:** strong authorial core + deeply coupled programmer + specialist periphery；不是 solo execution。
 - **Major unknowns:** household economics、Mountain revenue、project debt magnitude、Double Fine terms、完整 contributor / sales chronology。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–17｜Unity/抽象程序化表现。
+- **实际体验验证与进入市场的路径：** 艺术作者围绕弱项设计动作/表现系统。
+- **机会类型：** `RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 具体第三方组件版本。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

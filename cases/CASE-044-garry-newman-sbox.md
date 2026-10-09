@@ -213,3 +213,11 @@ s&box 对 C014 的贡献不是证明“做平台很危险”这种废话。
 4. s&box creator payout / Play Fund 的单位经济；
 5. review/discovery redesign 是否改善 creator retention 与 player discovery；
 6. 当前 mixed-review pressure 到 2027 是否收敛。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2004–26｜Source mod→Unity Rust→多代s&box。
+- **实际体验验证与进入市场的路径：** 免费Mod→付费GMod→Rust→UGC平台。
+- **机会类型：** `PLATFORM_UGC+CO_EVOLUTION`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 2026新平台生态不能倒写2004。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
