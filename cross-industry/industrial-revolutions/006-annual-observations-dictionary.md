@@ -57,6 +57,10 @@
 - `EPIC_CREATIVE`: https://www.fortnite.com/news/creative
 - `EPIC_UEFN`: https://www.fortnite.com/news/unreal-editor-for-fortnite-and-creator-economy-2-0-are-here-new-worlds-await
 
+- `SONIC_INTERVIEW`: https://shmuplations.com/sonicteam/
+- `NDOG`: https://blog.playstation.com/archive/2014/12/03/naughty-dog-looks-back-20-years-playstation-development
+- `SPYRO_CREDITS`: https://www.mobygames.com/game/3633/spyro-the-dragon/credits/playstation/
+
 ## 可做与不可做
 
 **可以**：在相同数据快照和 Steam 平台内比较 2D/3D Platformer 各发售年份的*标签数量*、可观察品类供应趋势；比较 GGJ 同口径 jam 原型与人群规模的不同年度；讨论 UEFN 作者生态的生产量级。
