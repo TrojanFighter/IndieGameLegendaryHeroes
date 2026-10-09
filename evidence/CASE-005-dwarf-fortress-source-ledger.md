@@ -60,6 +60,17 @@ Bay 12 states:
 Supports:
 - premium-era product has a larger contributor/business perimeter than the historical two-person core.
 
+## Fetch status — re-read attempt 2026-10-09
+
+- **E003** (`pcgamer.com/the-making-of-dwarf-fortress/`): **404**. The page is gone at that URL, and the extensionless variant also 404s.
+- **E001 / E004** (`patreon.com`): reachable, but client-rendered — a direct fetch yields 13 paragraphs of boilerplate and no post body.
+- **E002** (`gamedeveloper.com`): **403**, consistent with every other Game Developer URL tested in this run.
+- **archive.org**: returned **429 (rate-limited)** on both attempts made here.
+
+Consequence: none of the four records could be re-read today.
+
+Important distinction: the archive failure is a **throttle, not a dead end**. E003 is the record that carries the runway story (savings → monthly donations → full-time development), so it is worth retrying through archive once the rate limit clears. Nothing about the Case's content is in question — only today's access to it.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED

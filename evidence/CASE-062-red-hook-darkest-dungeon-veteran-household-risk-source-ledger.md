@@ -14,6 +14,30 @@
 - Supports: Bourassa/Sigman prior professional friendship, multi-year creative conversations, spring 2013 commitment, recruiting Kelvin, pre-KS mailing list/early funding plan.
 - Boundary: plans not yet completed outcomes.
 
+Direct quotes (verbatim, page re-read 2026-10-09):
+
+The creative starting point (Bourassa):
+- "I'd never really thought of it before. What happens in the minds of all those adventurers I'd sent into the darkness looking for hidden coin and weapons in the twisting tombs of long-dead kings?"
+- "Darkest Dungeon is a Lovecraftian dungeon crawler that focuses on the psychological toll of the adventuring lifestyle."
+
+When it became full-time:
+- "All the key pieces came together in May 2013 – that's when we threw ourselves into it full-time. We've been exploring the concept and doing prelim design on and off for a couple of years."
+
+How the three came together, with their prior credits:
+- "Tyler and I, the founders of Red Hook, met years ago while working at Backbone Entertainment in Vancouver. We became friends and also creative confidants…"
+- "Chris (artist) has worked on Sonic Rivals, Monster Lab, Armada of the Damned (sadly canceled), and a bunch of other NDA'd projects…"
+- "Tyler (designer) created and designed the award-winning strategy-arcade dragon game HOARD and designed the BAFTA-nominated turn-based conversion Age of Empires: the Age of Kings DS."
+- "Kelvin McDowell (programmer) worked at Relic for a number of years, contributing to Homeworld 2. He also teamed up with Tyler on HOARD."
+
+Pre-crowdfunding market access:
+- "Crowdsourcing opportunities (Kickstarter plus a Founders Program) are planned to launch early in the New Year (Jan or Feb)."
+- "The best way for people to help right now is to sign up for our mailing list on our website."
+
+Boundary additions:
+- The three named credit lists are self-reported in a pre-release interview; they are capability-prior evidence and should be cross-checked against credits databases before being treated as complete.
+- "May 2013" is the founders' own full-time start date, and must not be conflated with the 2014 campaign or the 2015 Early Access release.
+- Everything in this record is pre-launch intent: the campaign had not happened yet, so none of it is outcome evidence.
+
 ## E002 — Kickstarter primary funding record
 - Title: Darkest Dungeon by Red Hook Studios.
 - Author / Institution: Tyler Sigman / Kickstarter.
@@ -43,6 +67,31 @@
 - URL: https://80.lv/articles/red-hook-studios-talks-about-the-creation-of-darkest-dungeon
 - Supports: total cost >300k, founders' individual savings / RRSPs, early loan '75k' (currency not explicit), own small C++ engine, mailing list/trailer/email marketing.
 - Boundary: precise gross/net cost and loan currency UNKNOWN.
+
+Direct quotes (verbatim, page re-read 2026-10-09):
+
+Why the studio exists at all:
+- "We formed Red Hook Studios specifically to make Darkest Dungeon. Tyler Sigman and I had been talking about partnering to work on a game since we met years ago at a now-defunct Vancouver studio, Backbone Entertainment."
+
+The design premise:
+- "The game's concept began as an observation that RPGs generally tend to view adventuring through a very romanticized lens. Heroes are immutable, aspirational, and all-powerful. But heroes, real ones, are human. They are flawed, nuanced, and capable of failure."
+
+The custom engine, in the creator's own metaphor:
+- "We use a custom C++ engine built just for the game. At the time we started, Unity had not yet released it's 2d toolkit, and we felt that since the game was not particularly technically demanding, we could get by with a dune buggy instead of a Range Rover."
+
+The money and the runway:
+- "The actual budget for the game was higher than 300k – we each lived on our own financial runways (savings, rrsps, etc) during development, and we took a 75k loan early in the project to help out."
+
+Pre-campaign market preparation:
+- "We announced the game before coming to Kickstarter, and used the intervening time to collect email addresses and build a mailing list of our very earliest fans. The campaign prep was about 5-7 weeks prior to the launch, and took a full time effort from both Tyler and myself."
+
+Why Early Access:
+- "We felt that our game, being a system heavy RPG, would really benefit from the involvement and feedback of an early access community."
+
+Boundary additions:
+- "75k loan" is stated without a currency; it must not be converted or assumed.
+- The engine rationale is the creator's own account of a 2013 tooling decision, not evidence that a commercial engine would have failed.
+- "We each lived on our own financial runways" names household-level risk-bearing; it does not disclose amounts, household composition or who else contributed.
 
 ## E005 — Bourassa 2023 first-person retrospective about family risk
 - Title: Darkest Dungeon Interview: An Interview with Chris Bourassa.
