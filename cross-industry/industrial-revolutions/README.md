@@ -36,7 +36,9 @@
 - [002 — Watt / DeepSeek Comparative Reference](002-watt-deepseek-comparative-reference.md)
 - [003 — Game Industry Technology Regimes](003-game-industry-technology-regimes.md)
 - [004 — Delayed-Fit Case Matrix](004-delayed-fit-case-matrix.md)
-- [005 — 游戏产业技术—产品生产能力年代表（1958—2026）](005-game-production-capability-timeline.md) — 2D／3D 难度对照、组织规模、年份锚点、作者量产分母；含 [SVG 时间图](005-game-production-capability-timeline.svg)
+- [005 — 游戏产业技术—产品生产能力年代表（1958—2026）](005-game-production-capability-timeline.md) — 研究入口与证据锚点，[SVG 历史图](005-game-production-capability-timeline.svg)
+- [006 — 年度观察数据集与字典](006-annual-observations-dictionary.md) — 69 个年份的 CSV、五种 Steam/GGJ/UGC 数量分母
+- [007 — 同品类 2D/3D 生产主体与量产时钟](007-genre-production-diffusion.md) — 专业/中型/独立/多作者的阶段证据；[年度产量图](007-2d-vs-3d-platform-production.svg)、[分代证据图](007-genre-diffusion-clock.svg)
 
 ## 与《独立游戏英雄传说》的接口
 
