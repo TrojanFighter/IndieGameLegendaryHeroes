@@ -34,7 +34,7 @@ Gamer's Edge要求反复交付。Romero在[2023年回顾](https://howtomarketaga
 
 ## Keen先在夜里做出来
 
-Carmack推进PC平滑卷屏，团队因此能够尝试新的动作体验。机器已经存在，那种可做的体验却还需要他们亲手推进。作者坚持称他为“造窗口的人”，就是不愿让技术创造被笼统的时代进步吞掉；这也不意味着他一个人发明了所有图形技术。
+Carmack推进PC平滑卷屏，团队因此能够尝试新的动作体验。机器已经存在，那种可做的体验却还需要他们亲手推进。他是“造窗口的人”：沿着《Wolfenstein 3D》走到《DOOM》，空间几何、光照与地板和天花板高度有了更多变化，联网对战也进入作品。把技术创造只归为机器性能增长，会漏掉团队做出的工作；这也不意味着他一个人发明了所有图形技术。
 
 Tom Hall在[2015年采访](https://episodiccontentmag.com/2015/04/17/tomhall2/)中回顾，《Commander Keen》在夜间和周末做了约两个半月。Scott Miller的[同年回顾](https://episodiccontentmag.com/2015/08/17/bigger-in-texas-an-interview-with-scott-miller-part-2/)则说明，团队用过Softdisk的电脑。设备许可和合同尚未核清，不能把这件事写成得到授权，也不能在缺少文件时替当事人定违法。
 
@@ -48,7 +48,7 @@ Miller带来了Apogee的发行方式：免费部分先让人玩，后续内容�
 
 1994年1月，《Game Developer》刊出Alexander Antoniades的[〈Monsters From the Id〉](https://www.gamedeveloper.com/game-platforms/the-game-developer-archives-monsters-from-the-id-the-making-of-i-doom-i-)。《DOOM》刚发布，报道中的id是七人公司，开发环境包括NeXTStep。Romero为DoomEd关卡编辑器投入约五个人月，让设计者能直接编辑关卡；这个工作量不能写成项目因此延期五个月。
 
-作者看重工具，正因为它改变了同事怎样工作。新的引擎能力，还要经过关卡、设计和视觉制作才能成为游戏；Hall、Adrian Carmack、Kevin Cloud等人的贡献不能消失在两位John的名字后面。同期报道也写到外部图形、声音和网络贡献。七人的公司规模，没有包括每一个制作和服务环节。
+编辑器改变了同事怎样工作。新的引擎能力，还要经过关卡、设计和视觉制作才能成为游戏；Hall、Adrian Carmack、Kevin Cloud等人的贡献不能消失在两位John的名字后面。同期报道也写到外部图形、声音和网络贡献。七人的公司规模，没有包括每一个制作和服务环节。
 
 id还接管了分发，把电话订单执行交给Digital Magnetics。掌握商业决定与亲手接每一通电话，可以分别承担。团队把部分时间投入内部工具，也购买外部服务，自己保留什么、别人接走什么，成为作品做大以后要处理的安排。
 
@@ -70,7 +70,9 @@ Kushner把Romero与继父的一次餐厅见面放在1993年，Wolfenstein成功�
 
 Carmack与母亲的关系后来缓和，Kushner还记述她玩《Commander Keen》。反对家长替自己选职业，也不必等于拒绝家长的所有价值观。Romero在2025年的本人采访中说自己不会用童年遭遇的殴打管教孩子，并谈到与家人一起玩游戏；这是他的说法，不能代替家人的经历，也不能抹掉早期婚姻和分居成本。
 
-原稿的反例仍须保留：Mechner的父亲直接参与《Karateka》音乐与制作；Bithell家中限制游戏，却曾由父亲带回《DOOM》；Croshaw成名后仍未获得家长认可；Keith Judge靠储蓄和妻子工资尝试独立制作，最后回到专业工作。这些来源与边界见[反压力研究](family-acceptance-non-success-countercases-035.md)及[家庭机会关口研究](family-gates-game-creator-us-china-029.md)。他们不应只是正文轮流报到的例子，却也不能被删到只剩“成功以后家长都会理解”的结尾。
+同代的Jordan Mechner有另一段家庭经历：父亲不玩电子游戏，却为《Karateka》谱曲并参与拍摄。后来Mike Bithell家中限制玩游戏，父亲却曾偷偷带回《DOOM》。认可有时通过共同制作、一起接触作品发生，家里的规则也未必前后一致，不能把同一个时代写成同一种成长模板。
+
+声望也未必换来理解。2011年，游戏评论人、小游戏制作者Ben“Yahtzee”Croshaw在本人问答中说，父母仍不认可他的工作，希望他上大学；他并非商业巨作主创，游戏媒体事业却已经有了显著声望。另一边，前Lionhead程序员Keith Judge辞职尝试独立游戏，靠储蓄和妻子的工资养两个孩子、付房贷，六个月后只有引擎和一关原型，最终返回专业工作。这份复盘没有妻子的采访，收入来源不能代她表明态度。他们的年份、身份及来源见[反压力研究](family-acceptance-non-success-countercases-035.md)和[家庭机会关口研究](family-gates-game-creator-us-china-029.md)。有人得到帮助，作品仍可能未成；选择停止，也不必把整个人生判为失败。
 
 作者仍要问：尚未成功的人，为什么没有先尝试的空间？最终没有做成，是否就能证明当初不该给他机会？成功以后获得了认可，又为什么必须抹去此前的成本？这些问题没有被《DOOM》的销量代为回答。
 
@@ -82,6 +84,15 @@ Carmack与母亲的关系后来缓和，Kushner还记述她玩《Commander Keen�
 
 叙事脊柱为David Kushner的[《Masters of Doom / DOOM启世录》](https://www.penguinrandomhouse.com/books/96382/masters-of-doom-by-david-kushner/9781588362896/)，2003年出版。本篇概述已登记事实，不复制书中私人对白。上文链接区分同期报道与多年后回顾；更多本人长访谈可读[Romero / Tim Ferriss（2023）](https://tim.blog/2023/07/15/john-romero-transcript/)。
 
-作品链接和版本须另核后补齐，不能把今天重新包装的版本等同当年shareware。事实入口：[CASE-016](../../cases/CASE-016-early-id-software.md)、[Ledger](../../evidence/CASE-016-early-id-software-source-ledger.md)。E020/023/027/030承担设备与教育，E022/026承担同事前史，E001–E003承担交付/Keen/离职，E007承担工具、公司规模及发行，E013–E019承担修改生态与后续制作，E028/031–E034及原稿研究链接承担家庭边界。精确家庭财务、合同、总工时和私人对话仍不补齐。
+| 作品 | Steam入口 |
+| --- | --- |
+| Commander Keen | [作品页面](https://store.steampowered.com/app/9180/) |
+| Wolfenstein 3D | [作品页面](https://store.steampowered.com/app/2270/) |
+| DOOM | [DOOM + DOOM II现行入口](https://store.steampowered.com/app/2280/) |
+| Quake | [现行入口](https://store.steampowered.com/app/2310/) |
+
+这些是2026-10-09核对的商店入口，不把今天包装的版本、发行者或页面日期倒填当年shareware历史。部分页面有年龄提示，本次仅确认作品标识和链接，不评价当前版本内容。
+
+事实入口：[CASE-016](../../cases/CASE-016-early-id-software.md)、[Ledger](../../evidence/CASE-016-early-id-software-source-ledger.md)。E020/023/027/030承担设备与教育，E022/026承担同事前史，E001–E003承担交付/Keen/离职，E007/015承担技术、工具、公司规模及发行，E013–E019承担修改生态与后续制作，E028/031–E034及原稿研究链接承担家庭边界。精确家庭财务、合同、总工时和私人对话仍不补齐。
 
 正式[原稿](../profiles/early-id-doom.md)保留。本篇独立候选，史实回读和作者验收待完成，见[编辑记录](three-lives-editorial-2026-10-09.md)。1990年代shareware与技术前沿保持HISTORICAL；工具、分阶段承诺、技术创造和外围协作只沿用原稿机制判断，不承诺2026渠道效果。AUTHOR_REVIEW_PENDING。
