@@ -62,7 +62,7 @@ Zach Barth把工程问题变成可玩的谜题。长期制作让团队越来越�
 
 上述选择发生于1990年代的id、2010年代Subset与thatgamecompany，以及截至2022年的Zachtronics。工具、平台、发行合作和融资条件不同，不能把早年的融资渠道、人员配置或延迟公开时长规定成2026年的步骤。
 
-可以继续检验的是资源与承诺之间的机制，当前适用性为 **CONDITIONAL**：要先核当下现金、项目和合作条件。确切个人净收入、每月组织支出、完整合同治理与跨团队发生率仍未被这些故事回答。
+可以继续检验的是资源与承诺之间的机制，但它是否仍然成立，要先核当下现金、项目和合作条件。确切个人净收入、每月组织支出、完整合同治理与跨团队发生率仍未被这些故事回答。
 
 人物全文：[FTL](../profiles/ftl.md) · [early id / DOOM](../profiles/early-id-doom.md) · [Zach Barth / Zachtronics](../profiles/zach-barth-zachtronics.md)。
 

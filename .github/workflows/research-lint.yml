@@ -27,6 +27,8 @@ jobs:
         run: python tools/case_maturity.py --check
       - name: Run reader-layer drift checks
         run: python tools/reader_layer_lint.py
+      - name: Check chapter prose for backend vocabulary
+        run: python tools/chapter_copy_lint.py
       - name: Run Case Explorer metadata contract checks
         run: python tools/explorer_lint.py
       - name: Check translation registry and source versions
