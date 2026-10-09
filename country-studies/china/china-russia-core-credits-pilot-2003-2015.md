@@ -8,6 +8,10 @@
 - China parent: [2003中国Premium cohort](china-premium-pc-cohort-2003-reconstruction.md)
 - Russia parent: [SLAVIC-016 老兵密度](../../sister-projects/slavic/evidence/SLAVIC-016-russian-veteran-density-domain-tenure.md)
 
+## 2026-10-09 对用户质疑的明确采纳：这个7v7不能作为“玩法原创作者”队列
+
+原中国组主要是传统RPG、后续Online/MMORPG的商业制作人/核心研发。无论他们职业工龄、主策位阶与技术连续性有多高，**都不能由此证明其拥有跨类型新玩法/题材原创能力**；俄方KB/Nival RPG/战略续作等也需对等评价。把“老国产单机人才后来在哪里工作”当成“中国独立游戏作者如何诞生”的主研究线，是**选择上的方向错误**。本档现降为**职业迁移/老兵可见性辅助档**，不用于国家原生玩法作者形成率、原创品类分布或创新能力的统计推断；新主样本见[重选2000—2025中国玩法原型与早期RTS机制队列](china-original-game-design-cohort-selection-correction-1998-2025.md)。允许继续找2007上海软星47人但**不作为原创性研究优先任务**。
+
 ## 一、样本与问题
 
 不再抽“著名创始人”，而是从两边早期商业项目中选能追到后续履历的核心制作/设计/技术角色。
