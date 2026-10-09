@@ -222,3 +222,9 @@ Escape from Tarkov 的市场接入同样不是“产品自己火起来”。其�
 5. 2016–2020 官网直销各阶段销量、版本结构和现金流如何支撑团队从早期规模扩大到数十人？
 6. Twitch / YouTube 的关键放大节点分别是什么？需要建立可验证的市场时间线，而不是笼统写“主播带火”。
 7. Hired Ops 作为同母体平行分支为什么没有得到 EFT 同等级的市场结果？这是本案最有价值的内部对照问题之一。
+
+---
+
+## 2026-10-09 Addendum — 多人局的持续义务不是自动庞氏
+
+新增[Improbable × PUBG × Party Animals × Tarkov架构与单位经济对照](../book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md)。本CASE提供了有同期公开证据的较低风险前作 `Contract Wars`、技术/团队积累和预售融资；不要将后续多年在线成本说成“所有老用户必然让买断制亏损”，亦不得用英国单一实体财报当作整个生产组织合并利润。局内临时 + 局外持久是**设计义务选择**而非神秘节省费用。实际全成本/玩家小时、PvE本地化前后账单为UNKNOWN，反过来也不能把Party Animals开发商的“同步量大”直接换算为8倍总成本。
