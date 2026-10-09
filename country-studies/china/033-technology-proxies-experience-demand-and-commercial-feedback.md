@@ -386,3 +386,7 @@ PUBG/Greene：外部成熟引擎及Mod→低成本发现新规则；韩国Blueho
 **AI阶段压力测试：** 用AI替代编码/绘图的速度不自动产生玩家需求。真正检验中国/海外差距的应是`NEW_PLAYER-VALIDATED_PRODUCTS_PER_CREATOR_YEAR`而不是人均生成文件/图像、tokens或技术榜单。AI仍可能吸引此前被职业门槛排除的作者进入，并改变总体候选池，不能写为“技术变化完全不重要”。
 
 ---
+
+### 2025 全球 Steam 高关注管线：粗数量级代理，不是原创能力或中间件率
+
+波兰PARP《The Game Industry of Poland 2025》p.29复刻Game Industry Conference对2025-07 Steam Top200愿望单来源国的统计：中国**8**项（4.08%）、波兰**12**、瑞典**14.75**、韩国**10**。这些包含共享归属的加权数值，**不是**中国2025年全部发售数，也**不是**新机制原创项目数或每开发者成功率。来自Steam premium全球关注市场的**高注意力管线份额**，只能作为“为何中国巨大游戏工业在特定全球产品市场中显得相对偏薄”的研究动机；不同市场制度、流量、题材与发行节奏为重大混杂。来源原报告：https://www.parp.gov.pl/storage/publications/pdf/The_Game_Industry_Poland_2025_12_29.pdf ，p.29 Table 2。此表不能证明中国“比发展中国家精英意识落后”，也不能用于估算技术吸收缺口比例。
