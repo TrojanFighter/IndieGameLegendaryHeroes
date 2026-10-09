@@ -9,7 +9,7 @@
 ## 1. 起点：已有证据与尚未发生的验证
 
 - 截至本轮核验，现有读者层为 [14 篇 Profiles](profiles/README.md) 与 [7 篇 Chapters](chapters/README.md)。这些数量是现有目录，不等于 21 篇都已具备改写所需的独立一手素材。
-- Kenshi 首次跨模型试写目前有 [A v1](research-notes/cross-model-narrative-trial-2026-10-09-kenshi-candidate-a.md) 与 [A v2](research-notes/cross-model-narrative-trial-2026-10-09-kenshi-candidate-a-rev2.md)（来自独立试写分支，**不在 main**）。实验记录称 Reasonix agent，底层实际模型版本 UNKNOWN；**尚无真正独立模型 B、真人盲读或独立全篇保真通过**。
+- Kenshi 首次跨模型试写目前有 [A v1](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/blob/trial/kenshi-narrative-candidate-a-2026-10-09/book/research-notes/cross-model-narrative-trial-2026-10-09-kenshi-candidate-a.md) 与 [A v2](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/blob/trial/kenshi-narrative-candidate-a-2026-10-09/book/research-notes/cross-model-narrative-trial-2026-10-09-kenshi-candidate-a-rev2.md)（来自独立试写分支，**不在 main**）。实验记录称 Reasonix agent，底层实际模型版本 UNKNOWN；**尚无真正独立模型 B、真人盲读或独立全篇保真通过**。
 - A v2 的确出现更主动的事件组织与幽默，也暴露风险：口述的模拟系统 Bug 被添入动作／时间细节；Hunt 认为混乱是开发问题的态度可能在翻译中被改变。**后续史料包必须连同动词、情态、引语立场和事件时点一起交付。**
 - [#289](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/pull/289) 是其他模型人物长候选，不是最终对照胜者；[来源补证 #288](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/pull/288) 与其分支 base 关系须独立核对，不能把未合并事实描述为 main 已正式收录。
 - 此前 [EDITORIAL-GATE](EDITORIAL-GATE.md) 与 [REWRITE-PROTOCOL](EDITORIAL-REWRITE-PROTOCOL.md) 已解决事实门槛、去模板及历史回读。本计划只新增 **「候选源包」与「逐类试验—推广决策」接口**，不增加 Humanizer、AI 检测器、词频配额、全库自动批改。
