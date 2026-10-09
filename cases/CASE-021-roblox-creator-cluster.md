@@ -214,6 +214,10 @@ Jailbreak 的首发爆发是明确的右尾事件：badcc 在发售当天把 40,
 5. 最需要补的是**失败对照组**：同年代、同样开发多年但没有进入职业化的 Roblox 创作者，其 production history 与这组头部案例差在哪里？
 6. Roblox 学徒制形成的能力有多少能迁移到 Steam / 独立引擎 / 自建后端环境？
 
+### 2026年补充独立出口对照（不混入本Cluster人数分母）
+
+[Unturned／Nelson Sexton](../book/research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)提供同期Roblox游戏技能和规则→Unity中重新实现Steam产品的独立出口对照；Xbox官方2021本人访谈直接确认2012–13 Roblox起源、2014 Steam、2017结束抢先体验。原Roblox前作《Deadzone》与《Unturned》是**产品构想/玩法谱系**，不可无代码证据说Lua源码被直接移植到Unity。与之不同，本CASE的Jailbreak、RHS、MeepCity主角可以长期在Roblox经营，不需为了“完成创业”而离开平台。参见[证据对照](../book/research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)。
+
 ## 技术机会窗口与验证阶梯（2026-10-09）
 
 - **技术条件（初步归档）：** 2009–21｜Roblox Studio/平台托管/DevEx。

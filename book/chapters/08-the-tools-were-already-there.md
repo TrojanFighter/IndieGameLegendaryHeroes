@@ -50,6 +50,16 @@ Unity不是世界上第一种可以买来做游戏的工具。它之前有GameMa
 
 同样的工具也不会自动把任何人变成Greene。允许人动手改变题目的环境，是必要的生产条件之一，不是成功保证。
 
+在这条路线里，Nelson Sexton提供了比许多抽象议论更清楚的证据。他最初于2012—2013年在Roblox上开发多人僵尸生存游戏《Deadzone》，借助已有平台向玩家学习如何组织装备、生存和合作。之后Roblox作品不再适合继续扩大，他开始在Unity中重新实现自己的游戏，2014年在Steam发布《Unturned》。他在2021年Xbox官方播客中亲口复述了Roblox→Unity→Steam的三个节点，并说明随着产品成长已有社区和移植团队承担大量外围劳动。原来的玩法与经验可以带走；Roblox的代码与服务器没有因此直接成为Unity产品的代码。
+
+UGC也可能引起相反方向的迁移。2023年Future Trash带着已花约一年的UE5独立产品原型寻找融资，却迟迟未拿到需要的发行资金。就在这一年的GDC，团队看见UEFN推出，改而把已有资产和规则搬进Fortnite平台，再连续发布新的UGC作品。最初并非所有岛屿都得到玩家认可；后来《Boom Tycoon》数周内得到约二十万名不同玩家。到2024年末，Epic的合作伙伴报道记载团队UEFN作品累计二十亿分钟游玩，才完成五百万美元种子轮融资。它没有在融到钱后必然退出Fortnite；恰恰是留在平台里面反复试验、盈利、获得授权IP机会。这一案例是来自Epic的合作宣传报道，需要独立利润/流量数据复核，但明确告诉我们：**“先做Standalone”还是“先进入UGC”都是可以根据真实机会改写的题目。**
+
+这种平台内与独立发行的边界还在变化。Epic 2026年6月宣布，希望UE6将UE5与UEFN最终统一，使开发者有办法选择自有产品发行或在Fortnite平台发布；但UE6抢先体验目标仍在2027年底，所以不能把未来的便携性当成2023或2026已经拥有的功能。三条经历合起来说明，平台不仅可能成为创业前的试验场，也可能成为开发者的商业终点，甚至成为下一次融资前的**真实经营成绩**。
+
+研究线索：[Unturned本人Xbox播客](https://news.xbox.com/en-us/podcast/756-madden-nfl-21-i-am-dead-unturned/) · [Future Trash的Epic 2026案例](https://www.fortnite.com/news/from-last-ditch-pitch-to-thriving-on-fortnite-future-trashs-uefn-journey) · [Epic UE6发展路线](https://www.unrealengine.com/news/the-road-to-ue-6)。三案数据和验证边界详见[UGC到Standalone与平台融资阶梯研究](../research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)。
+
+---
+
 ## 四、为什么有些公司却越做越重
 
 另一条游戏工业史也在发生。

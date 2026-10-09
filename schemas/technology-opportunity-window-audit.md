@@ -55,6 +55,14 @@
 - **Fortnite Creative / UEFN**：Epic于**2023-03-22**上线UEFN Public Beta并同步开放 engagement payouts；Verse、现有玩家基础、托管与跨平台入口使其成为可信的**平台内体验测试**、作品集及收入路径。不能预设UEFN工程可一键出口为独立UE游戏，也不能在缺少公司完整人员/权利资料时杜撰UGC岛→Steam单独项目的直接血缘。官方：https://www.unrealengine.com/blog/unreal-editor-for-fortnite-is-now-available-in-beta ；https://www.epicgames.com/site/news/introducing-unreal-editor-for-fortnite-creator-economy-2-0-fab-and-more
 - **历史具体节点**：Arma/DayZ→PLAYERUNKNOWN BR MOD→H1Z1合作→Bluehole PUBG；Unreal Tournament mod→Red Orchestra→Tripwire，Killing Floor mod→独立产品；Roblox→Unity→Lethal Company属于**开发者技能与生产生态迁移**，不是同一款Roblox游戏直接改名移植；必须在叙事里区别。
 
+### 新增的反向路径：Standalone遇到资本或发行障碍，转向UEFN试水
+
+Epic 2026-08-19的官方研究案例说明，[Future Trash](../book/research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)先在UE5开发原型并寻找资方，遭遇发行/融资障碍后进入UEFN。多轮试错后，`Boom Tycoon`数周获得20万独立玩家，后以UEFN作品累计20亿分钟在2024年底完成**500万美元种子融资**。这属于`STANDALONE_ATTEMPT→UGC_LIVE_BUSINESS→EQUITY_FINANCING`，不能写成“每款UGC都必须单独发行才能赚钱”。媒体稿来自平台与开发商共同利益，实际净利润、人年待核。
+
+另外，[Nelson Sexton / Deadzone→Unturned](../book/research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)有Xbox官方播客2021本人直接访谈确认Roblox(2012–13)→Unity→Steam(2014)，是`UGC_GAME_TO_STANDALONE`清楚的独立路线，而Zeekerss/《致命公司》是`UGC_CREATOR_SKILL_TO_UNRELATED_STANDALONE`，两者不应归为相同产品谱系。
+
+**UE6前瞻边界：** Epic 2026-06宣布UE5/UEFN未来融合，2027年底UE6 Early Access；2026现在不可当成已支持UEFN岛“一键转完整SteamStandalone”。https://www.unrealengine.com/news/the-road-to-ue-6
+
 ## 5. 人物/游戏的两张账
 
 **生产能力账**：当时可获得的软件引擎、插件、社区、现有商业代码、团队技能、外包/素材/后端义务与FTE年；不能把大量公共已完成人年的成果计为主创全部自研。
