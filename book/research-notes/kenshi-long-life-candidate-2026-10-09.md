@@ -58,6 +58,6 @@ Hunt还讲了一个错误：一个佣兵要找酒馆，程序偶尔把民宅选�
 
 本篇以公开采访和机构历史为依据，尚不能写出未经核验的完整童年或家庭传记。上文链接均可直接阅读；再查资料可从[Lo-Fi Games官方网站](https://lofigames.com/)进入。作品入口是[Kenshi的Steam页面](https://store.steampowered.com/app/233860/)，不需要再自行辨认同名作品。
 
-事实Owner为[CASE-012](../../cases/CASE-012-kenshi.md)和[证据账本](../../evidence/CASE-012-kenshi-source-ledger.md)：E001承担夜班、网站alpha收入和随后团队；E002承担职业前史；新增E003–E005分别承担协作、2018访谈和发售期回顾，依赖Lane B本地提交`c80afbd`，接入及发布尚待完成。家庭经济、总成本、逐年人员和完整贡献边界仍UNKNOWN，不消费未核AMA。
+事实Owner为[CASE-012](../../cases/CASE-012-kenshi.md)和[证据账本](../../evidence/CASE-012-kenshi-source-ledger.md)：E001承担夜班、网站alpha收入和随后团队；E002承担职业前史；新增E003–E005分别承担协作、2018访谈和发售期回顾，依赖Lane B提交`c80afbd`与`e0e0a8f`，已推至[PR #288](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/pull/288)，Lane C分支尚未接入。家庭经济、总成本、逐年人员和完整贡献边界仍UNKNOWN，不消费未核AMA。
 
 本篇是独立候选，正式[原稿](../profiles/kenshi.md)保留。六维对照及回读见[编辑记录](three-lives-editorial-2026-10-09.md)。观察窗口是2000年代至2018；持续现金流、承认外部贡献的机制沿用原稿判断，夜班和当年Early Access渠道保持CONDITIONAL，不能据此给出2026职业承诺。AUTHOR_REVIEW_PENDING。
