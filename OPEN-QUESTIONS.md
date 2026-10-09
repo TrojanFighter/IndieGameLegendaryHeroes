@@ -377,6 +377,7 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 **Closure condition:** 获得至少一组含通过/拒绝项目的同组织绿灯资料或盲评实验、一组同年代跨制度（最好同平台）对照、一组普通创作者/失败者队列，并对教育、发行、市场与游戏类型混杂因素做压力测试。  
 **Warning:** `TECHNIQUE ≠ EXPERIENCE`不等于“技术不重要”；单个聊天轶事、明星成功或一部论文摘要均不能估算发生率。  
 **Route:** 中国033为主，Program D技术史为比较，OQ-011/012/017为相邻问题。
+**New linked question (2026-10-09):** [OQ-021 高能力同质化陷阱](#oq-021高能力同质化陷阱中技术吸收能力与目标多样性谁在驱动内部竞争)专门研究跨产业的认知趋同、激励趋同与技术复现的相对贡献，不把宏观工业政策估计移植为游戏原创率。
 
 ---
 
@@ -418,6 +419,23 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 **Route:** 中国研究018负责组织闭环；032负责决策节奏实验；OQ-019负责教材/自学上游；OQ-001/003负责跨国共同分母。
 
 ---
+
+
+## P1 — Capability Diffusion / Homogeneous Competition
+
+### OQ-021｜高能力同质化陷阱：技术吸收能力与目标多样性，谁在驱动内部竞争？
+**Status:** `PARTIAL` — `CROSS-INDUSTRY STRUCTURAL HYPOTHESIS / IMF + WIPO PUBLIC ANCHORS / CAUSAL DECOMPOSITION UNKNOWN`  
+**Evidence in repo:** [中国033 §11 — 高能力同质化陷阱](country-studies/china/033-technology-proxies-experience-demand-and-commercial-feedback.md)、[中国028 — 仿制伟大](country-studies/china/028-imitation-of-greatness-prestige-copying-and-authorial-judgment.md)、[中国018 — 收益函数及玩家社会化](country-studies/china/018-wealth-class-gameplay-player-socialization-design-attractor.md)、[中国019 — 鉴赏基础设施](country-studies/china/019-taste-institutions-player-literacy-creator-selection.md)。IMF 2026中国第四条磋商与2025相关论文支持部分制造业存在“技术进步 + 超额投资/供给 + 资源错配”并存；中国执行董事正式声明反对若干估计方法。WIPO官方文献支持公开专利知识作为合法学习和再创新的重要渠道，但不能将公开知识等同无专利实施权、无商业秘密或量产诀窍。  
+**Unresolved core:** 这些宏观与知识产权资料既没有测量中国游戏业的原创玩法产出，也没有说明重复投资中认知趋同与政策/资本激励趋同各占多少；中国创新综合排名与科学/技术架构/工程/产品范式原创能力不是同一指标。  
+**Question:** 当技术复制成本下降时，企业是否更频繁挤入已验证目标而非创造差异化需求？相似产品是创业者自发相信同一答案，还是融资、政府、渠道、平台和既有用户预算共同筛选出来？内部价格竞争的福利由生产者、劳动者、消费者和公共财政如何分担？  
+**Variables:** `TECH_ABSORPTION_COST / OBJECTIVE_DIVERSITY / GREENLIGHT_CONCENTRATION / POLICY_EXPOSURE / FINANCING_SIGNAL_ALIGNMENT / PRODUCT_SIMILARITY / FIRM_PROFIT_MARGIN / CONSUMER_SURPLUS / EXIT_FRICTION / ORIGINAL_EXPERIENCE_PARADIGM_RATE`。  
+**Competing explanations:** 标准化本身是有效的规模经济；同方向投资是合理的共同信息更新；海外同业也会重复建设；终端低价格可能增加社会福利；需求弱、融资或外贸冲击也可能造成产能过剩。  
+**Closure condition:** (1) 在一个确定游戏品类/同年平台与至少一个非游戏行业，各取得有退出者、被拒项目和非明星参与者的完整进入者/投资候选队列；(2) 同期同条件跨制度对照，区分投资补贴与私人判断；(3) 报告目标多样性、利润/成本、消费者效用的分布与可信效应量；(4) 对至少一个高能力且高差异化的国内行业/样本与一个国外同质化行业进行负压力测试。  
+**Critical constraints:** IMF模型中约2%的GDP**水平**错配估计不可改写成“认知趋同损失”或游戏业损失，且方法有正式争议；工业间谍需要具体证据，不能用文学企业形象代替；知名创新者≠国别发生率分母。  
+**Route:** 中国033为事实/机制主档，中国028消费其“仿制目标”子命题；OQ-018关注游戏开发者项目判断，OQ-021关注跨产业供给趋同、配置与福利。此项仅记研究债，不新建Claim。
+
+---
+
 
 ## Usage
 
