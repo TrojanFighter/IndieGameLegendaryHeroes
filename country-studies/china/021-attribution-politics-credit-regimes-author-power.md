@@ -97,6 +97,72 @@ big-brand role → occupational signal
 
 ---
 
+## 0.2 跨制度声望兑换：美国学位与海外3A履历的结构同构（2026-10-09）
+
+**命题归属：** 本节是公开教育/职业评价体系的比较研究，不能将私下谈话、私人教育/工作经历作为公共证据。相关游戏人才案例见[036](036-virtuos-aaa-alumni-return-and-authorial-team-formation.md)。这一节只验证**不同制度给相同资格赋予不同价值**的机制，并严格区分社会声望、劳动市场回报、实际技能与原创决策能力。
+
+### A. 先区分生产制度与兑换制度
+
+中国学生在美国高等教育取得的东西，至少包括 `SKILL/CREATIVE PRACTICE`、`INSTITUTIONAL CREDENTIAL`、`NETWORK`、`LANGUAGE/CULTURAL CAPITAL`。美国专业游戏厂经历，也至少包括 `VERIFIED ROLE PERFORMANCE`、`COMPANY/IP ASSOCIATION`、`PRODUCTION NETWORK` 和可能的 `AUTHORIAL DECISION HISTORY`。
+
+```
+SOURCE-SYSTEM TRAINING / SELECTION
+→ institutional credential / prestigious work history
+→ MOVE ACROSS EVALUATIVE FIELDS
+→ receiving-system reinterprets credential through local hierarchy
+→ status / opportunity premium OR discount
+```
+
+候选名：**`CROSS-FIELD STATUS CONVERSION`（跨评价场域声望兑换）**。只有能独立观察同一项资格在不同市场/岗位的价值，才有资格说 `ARBITRAGE PREMIUM`；“中国人更崇拜外国”不能直接当作总括因果。
+
+**对于游戏圈，应严守创作主体分母**：受中国资本收购的外国成功团队，不构成中国培养原创主创的成功案例；海外3A雇主身份本身，也不是完整产品创作权证明。
+
+### B. 已经得到直接支持的教育场域材料
+
+1. **[E01] 2022北大学生访谈与观察：** Ye Liu、Ying Huang与Wenqin Shen的 *Building Halos* 使用36名北大学生访谈、宿舍海报文化和11次留学活动观察，记录精英资格通过国内名校、外国名校、奖学金等叠加并排除他者。这是局部精英身份生产的直接资料，不是全国留学生的态度比例。
+2. **[E02] 2022北大1417名毕业生调查：** Shen等发现家庭经济/社会背景与海外深造、精英声望转换相联系；研究者使用“hard currency”解释国内与全球身份地位叠加；结果不能自动解释成“这些人的学习价值纯粹为零”。
+3. **[E03] 2026北京留学中介民族志：** Zhuoru Deng在2026-03-23发表论文，对比美国综合评价与中国考试/院校等级逻辑，指出家长和中介常使用熟悉的国内等级去解读海外大学，把实习、项目、申请表达等难量化能力视作可购买包装的次级证据。这是“取得外国资格→按本土科举等级重新编码”的直接观察。
+4. **[E04] 中国精英高校招聘资料：** Lin/Liu/Lyu 2024以约8.9万份中国985/211高校教职履历和倾向得分匹配检验，发现有海外博士经历的人更可能进入层级较高高校；在985本科背景者尤强。**观察对象是已经在精英高校任教的人，存在选入样本与不可观测能力差异；不能从职位优势直接算出纯资格光环或独立研究能力高低。**
+5. **[E05] 2015 CHFS的另一种回报：** Du/Sun/Zhao/Zweig发表于2021 *China Quarterly*，相似背景匹配后海归研究生年收入约高20%；作者认为主要来自海外教育形成的人力资本而非纯信号。因此并非所有海归回报都是“资格套利”，**真实能力积累可以占重要比重**。
+
+### C. 关键边界：海归身份并不天然带来正向工资与招聘溢价
+
+**[E06] 一项特别强的反压力：** Mingyu Chen（2023 online / 2024期刊）向中国商业与计算机岗位发送超过27,000份随机化美国/中国教育信息的虚构简历，发现美国大学背景**收到招聘回复的概率平均低约18%（相对差异，不是下降18个百分点）**。差距在高薪岗位和外资企业较小，研究者提出部分雇主担心候选人更难留任等解释。这不否认高校教职或特定高声望圈子的海外资格溢价，却否认“美国学位在中国劳动力市场处处加分”。
+
+**[E07] 2025年100名中国海归访谈**发现海外学位已出现更强的学校、国家、行业、组织类型的声望分层；部分人认为曾经的“海归光环”减弱。不能直接把2020年前的学历溢价率复用到2026。
+
+### D. “美国没有优绩主义”不准确；真正不同的是 merit 的被认证方式
+
+美国本身存在高度激烈的名校竞争、文书和课外履历竞赛、精英合法性叙事，并非低 `MERITOCRACY` 社会。Michael Sandel《The Tyranny of Merit》（Harvard 2021节选）正是对美国精英名校成功道德化与身份焦虑的内部批评 [E08]。美国部分大学的 `HOLISTIC REVIEW` 与中国以高考/院校等级为中心的 `EXAM-AND-TIER` 更适合当作**评价维度的不同组合**而非道德上下级。两国制度均可以被资源与阶层优势利用。
+
+专业教育如NYU Game Center公开要求个人作品和明确贡献（前节H04-H07），说明独立作品**至少在一些美国教育入口是正式能力凭据**；却不能代表所有美国雇主，更不能证明中国独立创作者必然没有类似渠道。
+
+### E. 与海外3A员工地位的同构关系是个需要单独证明的结构命题
+
+`FOREIGN DEGREE→HOME-COUNTRY RANK/PRESTIGE` 已有定量和民族志材料直接支持其存在但回报异质；`OVERSEAS AAA ROLE→DOMESTIC WHOLE-GAME-AUTHOR AUTHORITY` 目前只有少量访谈、行业招聘报道与社会心理理论，**尚无同强度的中国游戏开发者固定队列/招聘实验**。
+
+因此**可以说两者潜在机制同构，不能说两者在中国发生率一样高或溢价数值相同**。真正有问题的是在新市场中把 `NARROW VERIFIED ABILITY` 兑换成 `UNVERIFIED FULL-AUTHOR AUTHORITY`。对个体的评价仍应看实际原型、完整项目主导、玩家反馈与跨职能决策记录。
+
+特别关注以下两个可证伪假说：
+
+- `STATUS-REWARD WITHOUT AUTHORIAL-TRANSFER`：取得外部组织声望不一定伴随本人的开放式创作训练，但国内回报可能独立上涨，从而影响后续职业选择。
+- `LOCAL-MERIT RECODING`：部分受教育者在海外接触多元作品/独立判断，却在返回本土的就业、家庭与同行场域里，选择把这段经历包装成“学校名次/雇主厂牌”；如果其本人的实践记录不同，则应独立记为真正的人力资本改善，不得混同。
+
+**最终研究问题：** 并非“出国上学/海外AAA工作能否积累能力”，而是“真实学到的能力，与归国后被赋予的地位和创意决策资格，相互之间的对应程度怎样？这种不匹配是否会反过来削弱有独立作品的创作者获得资源的能力？”
+
+### Source ledger（2026-10-09；论文数据代表其研究时期，不自动为当下全部人口）
+
+- **[E01] S1/同行评审论文摘要** Ye Liu, Ying Huang, Wenqin Shen, *Building Halos: How do Chinese elites seek distinction through (mis) recognising studying abroad?*, *International Journal of Educational Development* 91 (2022), 102589。https://doi.org/10.1016/j.ijedudev.2022.102589
+- **[E02] S1/同行评审论文摘要** Wenqin Shen, Ye Liu, Yunshan Liu, Ying Huang, *Elite Mobility and Conversions of Different Forms of Capital: An Investigation of Patterns of Study Abroad amongst Elite Graduates from Peking University in China*, *Studies in Higher Education* 47(8) (2022), 1601–1612。https://doi.org/10.1080/03075079.2021.1946030
+- **[E03] S1/同行评审开放研究正文** Zhuoru Deng, *Mapping overseas education through local lens: valuation, merit, and hierarchy in Chinese students’ college applications*, *British Journal of Sociology of Education*, published 2026-03-23。https://doi.org/10.1080/01425692.2026.2642098
+- **[E04] S1/同行评审公开全文** Songyue Lin, Jin Liu, Wenjing Lyu, *Who is more popular in the faculty recruitment of Chinese elite universities: overseas returnees or domestic graduates?*, *Humanities and Social Sciences Communications* 11 (2024), 1426。https://www.nature.com/articles/s41599-024-03818-4
+- **[E05] S1/同行评审论文摘要** Zaichao Du, Yuting Sun, Guochang Zhao, David Zweig, *Do Overseas Returnees Excel in the Chinese Labour Market?*, *China Quarterly* 247 (2021), 875–897。https://doi.org/10.1017/S0305741021000023
+- **[E06] P0/随机化招聘实验研究** Mingyu Chen, *The Value of U.S. College Education in Global Labor Markets: Experimental Evidence from China*, *Management Science* 70(2) (2024), 1276–1300, published online 2023-04-07。https://doi.org/10.1287/mnsc.2023.4745
+- **[E07] S1/质性研究全文及摘要** *When the halo of my overseas credentials disappeared: Chinese student returnees and their domestic employability*, *British Journal of Sociology of Education*, 2025, 100名海归访谈。https://doi.org/10.1080/01425692.2025.2519491
+- **[E08] P1/社会哲学家著作节选** Michael Sandel, *The Tyranny of Merit*, Harvard Gazette转载选文，2021-01-05。https://news.harvard.edu/gazette/story/2021/01/the-myth-of-meritocracy-according-to-michael-sandel/
+
+---
+
 ## 1. 署名不是荣誉装饰，而是职业资本基础设施
 
 电影/电视工会已经把这一点制度化。
