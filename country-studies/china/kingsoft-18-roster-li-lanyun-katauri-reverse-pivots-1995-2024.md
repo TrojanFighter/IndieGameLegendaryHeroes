@@ -70,7 +70,7 @@ https://www.gamewatcher.com/interviews/royal-quest-interview/11353
 - 2012-04-09 Gusarov本人GameGuru接受采访再谈Diablo类MMO缺失 https://gameguru.ru/publication/royal_quest_intervju/ 。
 
 **RU-K03 P1 2019本人第一手回忆**：
-https://dtf.ru/gamedev/65368-istoriya-tvorchestva-dmitriya-gusarova-avtora-kosmicheskih-reindzherov-i-kings-bounty
+**额外必须纠正的动机归因**：Gusarov在2019文中明确写2009年俄罗斯光盘市场利润承压、F2P兴起，**发行商坚持要转做在线F2P，而他本人也乐于尝试新事物**。因此既不是“发行商完全没推动、纯个人决定”，也不是“作者被迫做不喜欢的类型”；该阶段为**外部商业压力与自有兴趣同方向的共同选择**。2010当期访谈的“我们认为MMO是未来”可以与2019回忆同时成立；来源有利益与时间差异。https://dtf.ru/gamedev/65368-istoriya-tvorchestva-dmitriya-gusarova-avtora-kosmicheskih-reindzherov-i-kings-bounty
 其回忆2009开始大型MMO、发行商提供约3年/45人团队、2012上线但持续开发+运营+利润难以覆盖，调整付费未及见效、1C-SoftClub要求裁员和派制作人干预具体quest，Gusarov最终主动离开项目。**来自利益相关方单方P1，不等于拿到了合同、发行商官方反驳或完备营收报表**。
 其2019自述后来与Krank/Neodynamics合作《Music Wars》《LittleBigSnake》，直接说受《MyBrute》《Slither.io》启发，后者是模仿基础规则加入团体/排名/成就等，**不是假冒完全原创游戏**。
 其回忆2013尝试向Wargaming提《Master of Orion》开发申请，约**2年、200万美元**提案被否决；Wargaming的成本及替代项目预算是他单方估计，缺双方合同/正式评审，**不可写成对手后来确定花了三倍价钱**。
