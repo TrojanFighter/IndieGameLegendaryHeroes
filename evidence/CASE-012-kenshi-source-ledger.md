@@ -48,6 +48,21 @@ Boundary:
 
 ## Current evidence-level conclusions
 
+## E006 — Public development altered work and feedback
+
+- Case ID: CASE-012
+- Source class: P1 (past work recollection); P0 (2018 production situation); S1 (reporting)
+- Source title: 1人で10年作り続けたRPGが日本で突然ヒット！「Kenshi」クリエイターインタビュー
+- Author / organization: 一條貴彰 / Business 4Gamer; interviewee Chris Hunt
+- Publication date: 2018-10-02
+- URL: https://business.4gamer.net/article/1810/18100201/
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (interview body read; mediated Japanese testimony)
+
+Hunt recalls occasionally taking a week away before public release, then being continually busy once public. Long bug lists and thousands of comments could be discouraging; he also found useful causes in angry bug feedback. These are his accounts, not surveyed sentiment or hours. His closing advice that money follows creative conviction is personal counsel, not an established commercial mechanism.
+
+Conflict/boundary: title says one person for ten years, body says solo for six; introduction mismatches 2019 with TGS 2018; Greenlight/Steam dates compress different stages and conflict with E001. Do not use these as a ten-year solo history or date authority. No names, user counts, revenue, complete technical-stack origin or single-video causation are adopted here.
+
 ## 2026-10-09 detail readback of E001/E004
 
 - E001: Hunt describes a weak starting character, raids even in town, wound/bleeding consequences, later recruitment and building, and the pressure of keeping publicly sold Early Access builds stable/playable while adding work. These are creator explanations of design and production, not audited player frequencies or all shipped feature states.

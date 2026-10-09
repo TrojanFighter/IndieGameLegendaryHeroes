@@ -30,6 +30,10 @@ Boundary:
 
 ## E002 — 2013 personal retrospective: sales enabled job exit
 
+### E001 narrative revision detail (re-read 2026-10-09)
+
+Francis recalls an initial space-robot idea, then a robot posing as a private investigator, then a human with gadgets. He discarded almost all early client scripts except the opening and postponed further story writing until most gameplay existed, around two years into development. This is post-release recollection, not proof of when each change happened or permanent rejection of narrative. It complements E008's contemporaneous decision to cut non-interactive sequences; the two entries cannot be collapsed into one dated action.
+
 - Class: P1 — creator retrospective
 - Source: Tom Francis, `2013`, 2013-12-31
 - URL: https://www.pentadact.com/2013-12-31-2013/

@@ -74,6 +74,7 @@ Siliconera 2015访谈同时明确：此前自家网站的alpha销售已经支持
 - E003 — GameSkinny 2017访谈：交出部分工作、模拟系统错误与受众反应。
 - E004 — 4Gamer 2018访谈：早期工作周、同期核心成员/自由职业协作者、日本传播与翻译。
 - E005 — PC Games Insider 2018访谈：更新压力、技术老化；Greenlight年份冲突保留。
+- E006 — Business 4Gamer 2018访谈：公开前休息、公开后持续忙碌、错误列表及反馈；标题与年份冲突不采用。
 
 ## Open Questions
 
