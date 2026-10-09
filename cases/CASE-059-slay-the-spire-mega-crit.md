@@ -455,3 +455,12 @@ Slay the Spire 是这类变形的反例。
 - “QA 比正式 game dev 更适合成为独立制作人”；
 - “只要保留兴趣，大厂经历就不会产生 lock-in”。
 
+## 2026-10-09补充：亚马逊经历必须同时解释“在职期间的QA资本”和“退出前的金钱/合同约束”
+
+**2017同期访谈 P0**：Casey说自己在Amazon QA约四年，总体喜欢那里并交到朋友，后因无聊想再次做游戏而离开；大学时期Casey与Anthony已经有共同制作Flash/手机游戏的经历。其顺序是Casey先离职→两人原型试验→Anthony再离职。https://seattleindies.org/seattle-indies-spotlight-mega-crit-games/
+
+**2026回顾采访 P1（转录，具体法律文件未核）**：Casey提到当年Amazon对moonlighting / 业余游戏开发的公司政策模糊，自己曾与起草相关政策的律师沟通；也表示几年Amazon收入使其经济条件相比早年显著改善。https://app.listenleap.com/s-episode-en-slay-the-spire-2-interview-casey-yano
+
+这两种说法**不矛盾**：喜欢同事不意味着业余项目没有制度摩擦；工资提高也不代表已核实其家庭现金或实际存款。不能把这个案例改写成“Amazon提供制度自由培养独立作者”，也不能写成“Amazon虐待QA逼出游戏发明家”。作者线程来自大学时期与合作者以及游戏趣味；QA与工资是可迁移的职业资本。
+
+中国普通出走者与2026路演样本新增对照统一放在[跨国比较027 §八](../book/research-notes/industrial-capability-independent-authorship-comparison-027.md)，不在本Case添加超出Mega Crit自身的国别因果断言。
