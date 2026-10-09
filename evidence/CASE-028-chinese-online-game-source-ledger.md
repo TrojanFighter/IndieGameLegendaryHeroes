@@ -111,10 +111,12 @@ Boundary additions:
 ## E007 — Steam 官方公告档案：销量节点与更新节奏
 
 - Source class: P0 — 官方公告档案（经 Steam ISteamNews API 逐条取回，非网页抓取）。
-- Source: 《中国式网游》Steam 官方公告，appid=1416920。
-- API: https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=1416920&count=300&maxlength=0
+- Title: 《中国式网游》Steam 官方公告档案（含 2024-11-28“销量突破:40W+”等公告）。
+- Author / Institution: 项目官方公告 / Valve Steam 平台承载；正文由项目方发布。
+- Published: UNKNOWN（档案含多篇；本次取回最早至 2024-08-14）。
 - Accessed: 2026-10-09。
-- Returned: 74 条，可回溯至 2024-08-14。
+- URL: https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=1416920&count=300&maxlength=0
+- Returned: 74 条公告条目。
 
 Source-derived facts:
 - 2024-11-28 公告标题载明“销量突破:40W+ 回馈——新史低、免费DLC、免费手游版本”。
