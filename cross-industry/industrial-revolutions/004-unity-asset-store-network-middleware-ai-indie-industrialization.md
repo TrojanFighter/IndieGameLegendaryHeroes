@@ -125,3 +125,8 @@ Dissonance商品页：https://marketplace.unity.com/packages/tools/audio/dissona
 
 **AI后继的具体预测**：中间件和AI将降低原型技术供给成本，但如果原创验证、跨圈资料吸收、作者原型权、失败退出及国际市场入口不变，最可能的表现是**更快完成既定规格、更多看起来像产品的原型，未必更多真正形成新体验的新产品**。反证包括新手/非传统作者借AI在短时间制造原创玩法，或传统公司修改原型权/市场验证制度后同样提高转化。都需固定发行队列与玩家反馈，而不能拿国别成功者名字做结论。
 ---
+
+
+## 8. 被前述工具史漏掉的核心分母：游戏项目每单位产出耗费多少完整人年
+
+[2026-10-09中国与海外项目人效对照](../../book/research-notes/china-indie-manpower-efficiency-middleware-build-buy-incentives-2026-10-09.md)建立`FTE_YEARS + BUY/BUILD/DELETE + MARKET_VALIDATED_HOOK + FIRST_PAID_ACCESS`。已有技术市场且存在中国产中间件，均**无法**证明中国创作者以全球同样的成本形成体验。工具创造者可能帮助别国开发者降低人年，国内同业若反而常用旧式部门自研方式，生产函数转化会出现缺口；“员工以自研捍卫岗位”属于委托代理及NIH候选机制。科研不可先验认定全部自研或全部大型员工为寄生。最关键的下一步是固定队列的工具利用率、实际开发/外包人年、玩家实验数、上市率、收入、失败者分母。成熟大厂的高`REVENUE_PER_EMPLOYEE`也不能取代新玩法的`ORIGINAL_HOOKS_PER_DEV_YEAR`。
