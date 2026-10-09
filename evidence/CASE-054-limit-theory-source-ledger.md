@@ -76,6 +76,28 @@
 - Confidence: VERY HIGH.
 - Boundary: official progress reporting has promotional incentives; contributor employment/compensation remains unverified.
 
+Full page re-read 2026-10-09. The archive holds 34 dated entries (2012-11-09 to 2018-09-28); the summary above used four of them.
+
+Entry index:
+- 2012: Nov 9 Website Launched · Nov 20 Kickstarter Campaign Launched · Nov 26 Mission Accomplished · Dec 22 Funding Successful
+- 2013: Jan–Dec Development Update #1–#12 · Apr 28 Prototype is Released
+- 2014: Jan–Dec Development Update #13–#21
+- 2015: Sep 17 Update on Development and Radio Silence
+- 2017: Feb 28 The State of Limit Theory Development · Mar 27 Dev Updates & Incoming Website Overhaul · May 5 Website Overhaul · May 29 Feature List · Jul 24 Two New Programmers · Nov 13 New Team Member · Dec 20 LT Coming to PAX South
+- 2018: Jan 18 LT at PAX South · Sep 28 The End
+
+Direct quotes (verbatim, from the entries):
+- 2018-09-28 (The End; the news page reproduces the opening, the full text continues on Kickstarter):
+  "It is with a heart of lead that I write this announcement. Not in my darkest nightmares did I expect this day to ever come, but circumstances have reached a point that even my endless optimism can no longer rectify. I cannot finish Limit Theory. After six years, I am finally at the end of my means. Financially, I am beyond the initial investment and have exhausted most of my personal savings. But significantly more troubling is that I am entirely out of energy -- emotionally, mentally, even physically."
+- 2018-01-18 (PAX South): "over 2000 ships, plus projectiles and full AI! Our engine work has really paid off!" … "The content implementation system is next, and after that it's pure gameplay!"
+- 2017-07-24 (Two New Programmers): "the team of LT programmers has tripled in size! We used to think it was impossible that we would find other developers that were both capable of contributing and willing to work with a 'doing it for the love of LT' budget, but we were wrong."
+- 2017-05-29 (Feature List): "a detailed roadmap showing exactly what we have left to do before the release of Limit Theory 1.0! This will help ensure we won't fall victim to the wiles of feature creep, so we can get the game into your hands as fast as possible."
+- 2017-11-13 (New Team Member): "She'll be starting her work off by finally getting rid of all our old 'blocky' ships that we heard so many complaints about, replacing them with something much smoother and shinier."
+
+Additional boundary:
+- The 2017-05-29 feature-creep promise and the 2018-09-28 termination are both dated statements; placing them side by side is a reading of the record, not proof that planning failed for that reason.
+- "doing it for the love of LT budget" is the project's own phrase; it names the arrangement, not audited pay or hours.
+
 ## E007 — Cancellation update
 
 - Source class: P0 — creator-authored final project update.
