@@ -9,6 +9,8 @@
 - [BOOK-ARCHITECTURE](BOOK-ARCHITECTURE.md) — 三层出版结构与 Part / Chapter 规划
 - [EDITORIAL-MISSION](EDITORIAL-MISSION.md) — 全书编辑使命
 - [EDITORIAL-GATE](EDITORIAL-GATE.md) — reader layer 写作门槛
+- [Cross-model rollout](EDITORIAL-CROSS-MODEL-ROLLOUT-2026-10-09.md) — 8 个异质样本的逐阶段写作试点、对照与推广条件（待作者审核）
+- [Narrative Source Pack Contract](EDITORIAL-NARRATIVE-SOURCE-PACK-CONTRACT.md) — 给独立写作者中性事件与原话、给核查者完整 Evidence；非第二套事实库
 - [HERO-PROFILE-DIMENSIONS](HERO-PROFILE-DIMENSIONS.md) — 人物形成维度
 - [TEMPORAL-VALIDITY](TEMPORAL-VALIDITY.md) — 历史成功经验的年份 / regime / 2026 时效门槛
 - [THESIS-CANDIDATES](THESIS-CANDIDATES.md) — 尚未升级成正式 Claim 的书级母题
@@ -17,7 +19,7 @@
 ## Reader Layer
 
 - [Chapters](chapters/README.md) — 跨人物正式章节
-- [Profiles](profiles/README.md) — 单人物 / 单团队完整生产史；现有 11 篇 reader-layer 人物初稿（包含产品取消与首作商业失利后继续的对照）
+- [Profiles](profiles/README.md) — 单人物 / 单团队完整生产史；现有 14 篇 reader-layer 人物初稿（包含产品取消与首作商业失利后继续的对照）
 - [START-HERE](START-HERE.md) — 按现实人生问题导读
 - [READER-ARCHETYPES](READER-ARCHETYPES.md) — 按主创者能力 / 出身类型找第一批案例
 - [INDIE-MOVEMENT](INDIE-MOVEMENT.md) — 独立游戏运动与谱系说明
