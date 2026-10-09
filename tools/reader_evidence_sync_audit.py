@@ -82,6 +82,17 @@ def main() -> int:
     with_quote = [p for p in ledgers if LONG_QUOTE_RE.search(read(p))]
     pct = (100 * len(with_quote)) // max(1, len(ledgers))
 
+    # Summary density: how much text one evidence record carries. A short
+    # average is where source nodes get compressed away, which is the failure
+    # EDITORIAL-GATE 0.6 describes. Measured, not asserted.
+    density = []
+    for path in ledgers:
+        blocks = re.split(r"(?m)^## E\d", read(path))[1:]
+        if blocks:
+            density.append((path.name, len(blocks), sum(len(b) for b in blocks) // len(blocks)))
+    mean_density = sum(d[2] for d in density) // max(1, len(density))
+    thin = sorted((d for d in density if d[2] < 700), key=lambda d: d[2])
+
     print("reader/evidence sync audit (report only, does not block merges)")
     print(f"profiles: {len(profiles)}, with backlink problems: {len(backlink_problems)}")
     for message in backlink_problems:
@@ -90,6 +101,9 @@ def main() -> int:
     for message in year_drift:
         print(f"  - {message}")
     print(f"ledgers: {len(ledgers)}, with >=1 verbatim quote: {len(with_quote)} ({pct}%)")
+    print(f"mean summary per evidence record: {mean_density} chars; {len(thin)} ledgers average under 700")
+    for name, n, avg in thin[:8]:
+        print(f"  - {name}: {n} records, avg {avg} chars")
     print("Re-read the original source for each hit before editing anything (EDITORIAL-GATE 0.6).")
 
     if args.strict and (backlink_problems or year_drift):
