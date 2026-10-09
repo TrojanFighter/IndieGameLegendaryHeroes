@@ -445,3 +445,12 @@ Profile 的职责是把这些条件写成可理解的人生处境，不是为了
 - 生产 / 发行执行方案。
 
 公开 Profile 只解释历史人物做了什么、当时为什么合理、哪些条件可见。
+
+## 2026-10-09 Technology Window Audit｜人物篇的“时代工具”写作要求
+
+创作人物篇时须先从其Case及[全案矩阵](../metadata/technology-opportunity-window-matrix.md)核实对应的[技术窗口](technology-opportunity-window-audit.md)：他开工时究竟能买到/借用什么、哪些工具尚未出现、哪个技术工作被别人承担、自己为什么选择自研/购买/删改需求、哪份原型被玩家真正检验、是否由Mod/Roblox/UEFN积累技能或客户。
+
+**这是事实审计，不是统一写作模板。**既有14篇人物成品不得机械追加五项技术KPI或在每个人最后贴同一套标签。只要技术条件真实改变了人物的人生选择，就将它自然写进关键节点；没有资料就保留空白，不用后来的技术史长篇解释替代人物经历。
+
+DOOM的`CREATED+CO_EVOLUTION`与Gunpoint/GameMaker、Greene/Arma、Zeekerss/Roblox+NGO分别代表不同的技术-体验关系。“体验驱动后来更占主流”仍是待队列验证的产业史假说，不可在所有人物故事中写成既定事实。
+

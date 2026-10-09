@@ -127,3 +127,11 @@ Artless Games 的作品、公开言论与持续创作方式继续保留在 [候�
 《植物大战僵尸杂交版》已进入 [`book/research-notes/pvz-hybrid-ugc-production-and-spread-001.md`](../book/research-notes/pvz-hybrid-ugc-production-and-spread-001.md) 的高优先级 UGC / fan-production intake：先核完整协作者、技术栈、免费同人经济结构、IP/授权和传播时间线，再决定是否升正式 `UGC / FAN-PRODUCTION LINEAGE CASE`，不得把商业 IP 的现成认知资本误记为原创 IP 的独立市场验证。
 
 正式升级其他中国候选前仍要做一次 Schema v2 的 Context–Situation–Action 与 ownership / financing / publisher-control audit，尤其核清：成员离开原公司后的 runway、外部发行商介入时间与资金/控制权、众筹在开发资金中的真实作用，以及“几乎没有买量”与实际 creator / platform resources 的边界。
+
+## 2026-10-09 Technology Window Audit｜63个Case统一审计入口
+
+- [全63个Case的技术生产资料与验证路径矩阵](../metadata/technology-opportunity-window-matrix.md)：与每篇Case文末“技术机会窗口与验证阶梯”附录对应；分别写技术环境、体验试验、机会关系和证据缺口。
+- [技术机会窗口方法规范](../schemas/technology-opportunity-window-audit.md)：新增Mod/Roblox/UEFN的试验场、商用引擎/中间件的可得性、项目FTE年和`CREATED/RECOMBINED/INHERITED/PLATFORM_UGC/CO_EVOLUTION`等字段，未知不伪填。
+
+这是**第一轮研究性回填**，不是宣称全部Case都已通过新增技术审计。人物书稿只保留对真实选择有作用的技术变化，不把这种矩阵直接贴成14篇传记的统一尾注。
+

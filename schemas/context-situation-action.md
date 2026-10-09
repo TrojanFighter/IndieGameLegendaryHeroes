@@ -236,3 +236,14 @@ CSA 不是新的因果理论，也不是“时代决定论”。它只是要求�
 5. 再考虑升 `REVIEW` / `STABLE`。
 
 从 `CASE-027` 起，新 Case 必须直接使用 Schema v2。
+
+## 2026-10-09 Technology Window Audit｜补充实际可用技术与UGC验证的CSA检查
+
+将[技术机会窗口v1](technology-opportunity-window-audit.md)作为CSA的具体执行表：
+
+- **Context**：技术出现、商业化、能买到、作者真正会用、成熟可复用，**五个日期可能完全不同**。区分1993 Doom、2011 FTL、2017 PUBG、2023 Lethal Company和2023后UEFN。
+- **Situation**：程序技能、旧产品技术资本、商业引擎license、资产市场、平台玩家、可用团队与实际完整人年；别把只有代码的学生modder与有前作收入和团队的Battlestate写成同一种“从零创业”。
+- **Action**：主动研发`CREATED`、现成技术重组`RECOMBINED`、能力继承`INHERITED`、Mod/Roblox/UEFN验证`PLATFORM_UGC`，及共同演进`CO_EVOLUTION`可并存；分别注明最早验证体验与真正扩大组织/资本投入的时点。
+
+Mod/UGC可以是游戏本身的长期商业终点、被大厂收编、发展Standalone，也可以没有后续；不要把成功的幸存者路径解释成所有玩家作者的通用阶梯。
+

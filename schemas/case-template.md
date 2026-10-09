@@ -305,3 +305,10 @@ Evidence 在 Claim metadata 中引用时必须使用全局可解析格式：
 ## 17. Open Questions
 
 尚未解决的问题。重要空白必须保留，不准模型自行填平。
+
+## 2026-10-09 Technology Window Audit｜全案必审
+
+所有63个旧Case已建立[技术分代与验证阶梯初步补录](../metadata/technology-opportunity-window-matrix.md)。今后创建或重新核验任何 Case，必须依[独立规范](technology-opportunity-window-audit.md)记录：最早原型时的**实际**可得引擎/中间件；自研、借用旧资产与模块采购的边界；网络及服务器义务；Mod/Roblox/UEFN/Steam等平台如何验证真实体验；外包与完整FTE年；当时尚不存在或不可负担的工具；以及`CREATED/INHERITED/RECOMBINED/PLATFORM_UGC/CO_EVOLUTION/UNKNOWN`可重叠分类。
+
+**不强制经过Mod→融资→Standalone**；未能核实技术栈/插件时写UNKNOWN。每个Case附录是initial backfill，不把分类或2026年可用工具倒填成已核史实。已有 `metadata/cases.json` 的正式状态字段暂不扩充，避免造成metadata lint失败。
+
