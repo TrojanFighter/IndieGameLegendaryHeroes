@@ -26,7 +26,7 @@ Supports:
 
 Boundary:
 - Creator postmortem is retrospective and naturally selects what Francis considered important.
-- Tester/follower numbers are acquisition/community signals, not sales or retention.
+- Tester/follower numbers are acquisition/community signals, not sales or retention. Re-read 2026-10-09: the testing section specifies a final-beta mailing list of 15,500, later builds sent to 1,000–2,000 people each, and feedback from fewer than 10%. The promotion summary's approximate 15,000 is not a count of active testers or feedback submissions. Preserve the distinction in reader prose.
 
 ## E002 — 2013 personal retrospective: sales enabled job exit
 
