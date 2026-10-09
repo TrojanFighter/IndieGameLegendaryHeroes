@@ -118,3 +118,9 @@ R.E.P.O. 又利用：
 - **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
 - **尚缺证据：** Photon具体产品/合同费用。未知项不得由2026年插件能力倒推。
 - **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+semiwork的多人转型可以作为`MIDDLEWARE-ABSORPTION`的可追源正例。现有Case已核团队此前并不熟悉Unity，且Photon承担多人网络与云托管；应进一步核Photon产品线/实际部署方式和成本。它不同于`Roblox→Standalone`：前作经验与收入是训练资本，但不能在无资料时编造一个已让玩家验证R.E.P.O.规则的前置UGC版本。
+
+这个例子最值得拿来对照“造轮子”：成熟多人组件确实允许非专门网络工作室改变项目范围，但同样必须投入原型、社区、内容/主播传播和付费市场。供应商技术宣传的“帮助项目”不自动证明节省了多少具体人年，需采购合同或同期工程记录。

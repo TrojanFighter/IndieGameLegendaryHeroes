@@ -157,3 +157,9 @@ Tripwire 是 C014 最强的历史正向 comparator 之一：它展示了怎样�
 - **机会类型：** `PLATFORM_UGC→RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
 - **尚缺证据：** MOD与公司/IP/技术延续分别核。未知项不得由2026年插件能力倒推。
 - **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+本案例不再仅作为“玩游戏的人最后开公司”的励志路径，而是精确区分两个以已有游戏/引擎为底层的低承诺试验：**Red Orchestra先在Unreal Tournament社区Mod中形成并通过Make Something Unreal得到比赛/同行检验**；**Killing Floor于2005年从Unreal Tournament 2004 Mod迭代而来，2009推出商业Standalone**。它们都在正式承诺完整工作室产品以前复用过上一款游戏的网络和内容平台。应核谁持有各阶段IP、哪些人才/内容可迁移、何时开始收费、获得何种实际玩家验证；不能把两个Mod项目合成一次资方融资的单一路线。
+
+初步辅助史料：https://killingfloor.net/en/archive/killing-floor/development-history/ ；正式结论仍以本案对应P0/P1档案优先，Mod社区改进者与正式商业团队名单必须独立审计。

@@ -318,3 +318,9 @@ PLAYERUNKNOWN Productions于2026-06-17官方宣布停止开发并免费开放**�
 - **机会类型：** `PLATFORM_UGC→RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
 - **尚缺证据：** Mod规则≠PUBG代码直接移植。未知项不得由2026年插件能力倒推。
 - **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+将“Arma/DayZ已有军事模拟、地图、战局与脚本→改造最后幸存规则→公开Mod玩家采用→H1Z1商业顾问/授权→Bluehole邀请加入并提供商业团队→UE4 Standalone PUBG”拆成六个**不同**可证节点。规则实验的有效性、Greene的人物前史、已可使用的底层能力、商业版代码/资产权属和公司提供的发行/运营都不属于同一项贡献。尤其要查最初Mod测试人数/留存、H1Z1阶段合同范围、Bluehole生产人年。不能说“他把Arma的Mod源码直接移植成PUBG”，也不能把Bluehole工程贡献从产品史中抹掉。
+
+这是`PLATFORM_UGC→RECOMBINED`的强锚点；它能证明一条路径**发生过**，并不能证明2017所有成功多人FPS都经由Mod。相关2015/2017采访与E001–E010应继续作为证据账本主体。

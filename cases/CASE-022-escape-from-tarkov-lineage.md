@@ -236,3 +236,9 @@ Escape from Tarkov 的市场接入同样不是“产品自己火起来”。其�
 - **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
 - **尚缺证据：** 前作并非Mod；实际联网成本。未知项不得由2026年插件能力倒推。
 - **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+与`ARMA mod→PUBG`最重要的差别：`Contract Wars→Battlestate`是**已有商业在线FPS项目→新商业团队和高风险独立IP**。据Unity官方，旧项目制造了现金、Unity技能和多人协作能力；技术继承不是从未经商业运维的业余Mod开始，不能套“先免费UGC检验，然后融资”的线性神话。另一方面，Tarkov局内临时战局、局外持久用户资产，也是作者主动裁切持续模拟义务的设计选择；仍有高额技术债及真实运营成本未知，不能用“使用Unity”推运行便宜。来源：https://unity.com/made-with-unity/escape-from-tarkov 。
+
+将旧项目技术重用额、团队FTE年、Tarkov初次付费Alpha至正式长期支付结构分开计算，与Greene/Bluehole形成有效的生产路径对照。

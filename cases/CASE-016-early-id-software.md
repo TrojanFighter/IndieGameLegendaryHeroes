@@ -230,3 +230,9 @@ DOOM 绝不是“两个 John 做完一切”。同期资料显示：
 - **机会类型：** `CREATED+CO_EVOLUTION`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
 - **尚缺证据：** 不能拿AI时代标准责备1991作者。未知项不得由2026年插件能力倒推。
 - **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+《DOOM》不是“技术做题家忽略体验”的早期范本。1990–93年团队推进当时难以获得的实时渲染、关卡工具和多玩家支持，技术与设计相互塑形；此时统一的Unity/Asset Store和今天的网络中间件均不存在。WAD和公开修改能力又把这项技术突破逐渐外溢为其他人的MOD/地图作者训练场。该例应同时记录`CREATED_WINDOW`和`CO_EVOLUTION`，而不是把“自主研发”当成天然过时或有害。判断2010s以后这类路径是否**占比下降**，必须先建同代、同平台、有失败者的来源队列；本书63个精选Case不承担发生率估计。
+
+技术权属、图形能力和工具历史继续以本案E014–E016及[工业革命003](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)为canonical证据；这段是研究分类而非新来源。
