@@ -96,6 +96,14 @@
 
 **Failure cases needed:** 初代成功但续作失败、初代成功后扩编过快倒闭、初代成功但拒绝扩张而错失机会、初代销售不足但靠 publisher 后来成功。尤其要避免成功案例选样中把风险决策看成结果必然性。
 
+
+## 6a. 成功初代不是续作 ALL IN 的充分条件：反向对照
+
+- **The Culling (2016 EA) → The Culling 2 (2018):** 初代以独特近战大逃杀获得受众；二代发售仅约一周后被下架和退款，开发商 Xaviant 承认新作品不符合原有玩家想要的续作，并回头恢复初代早期版本。这里失败的核心警讯不一定是扩大预算，而是**续作对已验证玩家价值的错误推断/过度改变**。来源：https://www.gamedeveloper.com/game-platforms/xaviant-to-delist-i-the-culling-2-i-after-rocky-launch-opts-to-support-i-the-culling-1-i-instead 以及 https://www.gamespot.com/articles/new-battle-royale-game-removed-from-sale-after-a-w/1100-6460492/
+- **Cities: Skylines (2015) → Cities: Skylines II (2023):** 首作系列成功与巨大既有市场需求并未自动证明技术架构、性能、编辑器和跨平台规格可被如期交付。发行商/开发商2024年公开为品质不足、DLC问题与不现实交付时间表道歉；2025-11 双方宣布分开，2026起由 Iceflake 继续开发系列。不能把它简单当成“缺乏原型文化导致失败”，但它证明**市场证明不等于交付/技术规模证明**。来源：https://www.paradoxinteractive.com/zh-CN/games/cities-skylines-ii/news/the-way-forward-update 以及 https://colossalorder.fi/news/future-cs2-colossal-order/
+
+**因此 EARNED SCALE 至少需要两项分别成立：MARKET PROOF（值得做大）和 DELIVERY PROOF（能做大）。** 具备第一项却没有第二项的高规格续作，仍可能遭遇放大失败；偏离一代的核心价值还需要独立的 NEW-THESIS PROOF。
+
 ## 7. 比较研究的真正分母
 
 “国内缺少这种方法”必须转化为队列统计，而非只靠三四个国别案例：
