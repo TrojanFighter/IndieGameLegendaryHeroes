@@ -124,6 +124,26 @@
 - Confidence: HIGH.
 - Boundary: current organizational experiment; does not retroactively explain Zachtronics economics.
 
+## Lead L001 — Amphour podcast page (S2; not yet verified)
+
+- Source class: **S2 — podcast show notes.** The episode audio/transcript has not been reviewed.
+- Source: The Amp Hour, episode 332, "An Interview with Zach Barth of Zachtronics", 2017-01-20.
+- URL: https://www.theamphour.com/332-an-interview-with-zach-barth-of-zachtronics/
+- Read: 2026-10-09 (page text only).
+
+The page's summary carries three career nodes that appear **nowhere** in this case's Case, Evidence or Profile layers (checked by search, 2026-10-09):
+
+- Barth started making games as a student at Rensselaer Polytechnic Institute (RPI);
+- after Ironclad Tactics did not go as well as the studio wanted, **the studio was shut down for a year**, and he worked at Valve with the Vive/HTC hardware team during that period; SHENZHEN I/O was partly inspired by that Valve hardware work;
+- Zachtronics was later **sold to Alliance**, and the studio continued producing games with them.
+
+Why this is a lead, not an E record:
+
+- Show notes are a secondary summary of a podcast. They are recorded here to make a gap in the archive visible, not to establish facts.
+- Each node needs a first-hand source (episode audio/transcript, a contemporaneous post, an official statement, or press coverage) before it can enter the E-series.
+- If verified, the **shutdown-and-Valve year** belongs in the Case's Failure and Runway sections, where it is currently absent. The existing UNKNOWN line "exact Ironclad Tactics loss" records the loss but not the shutdown or the re-employment that followed it.
+- The page is inconsistent with the record elsewhere: E001 already treats Barth's own site as a career source, yet these nodes were never carried across.
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
