@@ -455,3 +455,11 @@ Kenny 明确说：
 - **Market sufficiency / legibility:** **PARTIAL / PROJECT-DEPENDENT** — repeated small releases 形成现实反馈；BALL x PIT 的更大市场结果属于后期，不应用来重写早期路径。
 - **Capability scaling:** **LONGITUDINAL** — solo experiment → salaried specialist → full-time solo → publisher-expanded solo → author-led specialist team。
 - **Major unknowns:** household economics、2018 收入/储蓄阈值、publisher合同、BALL x PIT collaborator employment/equity。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–2022｜个人工具/作品与Publisher外围。
+- **实际体验验证与进入市场的路径：** 周末出货练习→不合适则暂存→条件变化再启动。
+- **机会类型：** `RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 游戏工具/资产实际采用。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

@@ -90,3 +90,11 @@ Kickstarter 后团队迁移到 Unity，并使用 PlayMaker 等工具加速敌人
 - **Market sufficiency / legibility:** **STRONG** — prototype、visual identity、Kickstarter 与后续市场 signal 较清楚。
 - **Capability scaling:** strong — 小核心 + tools + specialist contributors + external financing 共同承担超出最初小团队的 scope。
 - **Major unknowns:** household burn、完整 contributor perimeter、Indie Fund 金额与阶段、伴侣收入在总 runway 中的比例。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2013–17｜Unity + 游戏Jam环境。
+- **实际体验验证与进入市场的路径：** jam原型→Kickstarter→团队产品。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 实际中间件/资产/音频来源。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

@@ -169,3 +169,11 @@ Into the Breach 更适合证明：
 - **Market sufficiency / legibility:** **STRONG BY REPUTATION + PRODUCT**, 但早期无需 market truth 维持生存；已有 FTL audience 是重要不可复制条件。
 - **Capability scaling:** two-person core + selective specialists；成功资本被优先兑换成时间与删除权，而不是 permanent payroll。
 - **Major unknowns:** FTL retained earnings 规模、家庭条件、contractor 进入时间、已有 audience 对 launch 的精确贡献；以及如果团队立即制作 FTL 续作，真实 opportunity cost / counterfactual outcome 会怎样。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2013–18｜Subset旧技术与FTL收入。
+- **实际体验验证与进入市场的路径：** 保留现金/工具→多年试玩删改→上市。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 引擎具体版本/外部内容来源。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

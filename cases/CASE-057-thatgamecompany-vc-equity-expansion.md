@@ -516,3 +516,11 @@ TGC 并没有把下一项目缩成：
 - **Market sufficiency / legibility:** **STRONG PRIOR CREDENTIAL / UNCERTAIN NEXT-PRODUCT EARLY** — Journey 提供极强信誉与融资信号，但 Sky 的新平台、社交/live-service thesis 在早期并未因此自动成立。
 - **Capability scaling:** **VC-EQUITY CAPABILITY-EXPANDED** — development studio 逐步内建 publishing / marketing / PR / customer support；这是本案最核心的可观察扩张。
 - **Major unknowns:** founder household；2012/2014 cap table；valuation；liquidation preference；protective provisions；board voting；product milestone/veto；later-round exact terms；各轮融资对 founder ownership 的稀释。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2006–2020s｜学校/PS3/多平台工业技术。
+- **实际体验验证与进入市场的路径：** Flow→Flower→Journey→Sky多平台演进。
+- **机会类型：** `MIXED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 商业发行与引擎每代不同。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

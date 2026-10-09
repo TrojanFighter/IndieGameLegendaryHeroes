@@ -213,3 +213,17 @@ s&box 对 C014 的贡献不是证明“做平台很危险”这种废话。
 4. s&box creator payout / Play Fund 的单位经济；
 5. review/discovery redesign 是否改善 creator retention 与 player discovery；
 6. 当前 mixed-review pressure 到 2027 是否收敛。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2004–26｜Source mod→Unity Rust→多代s&box。
+- **实际体验验证与进入市场的路径：** 免费Mod→付费GMod→Rust→UGC平台。
+- **机会类型：** `PLATFORM_UGC+CO_EVOLUTION`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 2026新平台生态不能倒写2004。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+一条主体连续但**技术窗口跨代变化**的独特纵向：`2004 Source Mod / Garry's Mod→有收入的商业版本→2013 Rust的生存多人EA→2026 s&box UGC平台与发现算法治理`。这里既有作者从平台工具借力，亦有工作室自己逐渐成为他人的生产基础设施供应商。不能把s&box近期面对的AI内容治理和平台推荐难题倒写进2004年的Mod选择，也不能拿Rust和GMod的成功自动证明新平台产品定义正确。
+
+最适合提问的是：从`PLATFORM_UGC`创作者成长为`PLATFORM_INFRASTRUCTURE_OWNER`后，新的组织义务如何改变其作出游戏判断的速度？源码/引擎转换与UGC发行收入要按2004、2013、2026节点分开。

@@ -267,3 +267,11 @@ Steam 后来将《一个适合苏丹的游戏》作为“原著小说”DLC 正�
 - **Market sufficiency / legibility:** **STRONG** — Demo、wishlists、首周销量与后续官方百万销量信号都显示产品 category / premise 具备足够市场吸引力。
 - **Capability scaling:** strong through veteran core + publisher / community / localization perimeter；但 scalability 伴随明显 human-cost。
 - **Major unknowns:** household economics、Double Cross ownership、2P financing/recoup、旧资本权利、真实 burn 与成员 compensation。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–25｜中国商业手游能力→Steam。
+- **实际体验验证与进入市场的路径：** 卡牌叙事/规则原型→demo/EA/商业上市。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 具体引擎/工具采购待核。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

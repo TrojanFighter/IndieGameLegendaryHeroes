@@ -39,3 +39,8 @@ Profiles 写“一个人发生了什么”；Chapters 写“这些人生放在�
 完整书稿结构见 [BOOK-ARCHITECTURE](../BOOK-ARCHITECTURE.md)。
 
 如果你想先选“和我现在最像的问题”，进入 [第一次来，先从这里读](../START-HERE.md)。
+
+### 2026-10-09 Technology Window Audit｜技术史续篇
+
+8. [技术早已在那里，题目却还没人出：从DOOM到UGC的另一部游戏工业史](08-the-tools-were-already-there.md)（另有[Roblox→Standalone / UEFN融资双向实证](../research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)） — 从1993技术边界的共同创造，走到Unity中间件市场、Arma Mod、Roblox/UEFN，追问工业能力与玩法发现如何分工；对应[63案技术窗口矩阵](../../metadata/technology-opportunity-window-matrix.md)。
+

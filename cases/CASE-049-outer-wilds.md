@@ -351,3 +351,11 @@ Outer Wilds 的 market path 不是“一次 viral”：
 - **Market sufficiency / legibility:** **STRONG credibility / CONDITIONAL commercial legibility** — IGF / Fig / publisher/platform signal 足以持续融资；最终市场成功不能倒推所有阶段风险都低。
 - **Capability scaling:** **CAPABILITY-EXPANDED** — 典型“先有强 thesis + playable evidence，再让资金把团队能力追上愿景”。
 - **Major unknowns:** household、总预算、各资本层金额、publisher/platform approval rights、Epic deal economics。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2012–19｜Unity/学生原型+资助外围。
+- **实际体验验证与进入市场的路径：** 学生原型→公众奖项/孵化→出版。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 学生版本与正式版本技术差异。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

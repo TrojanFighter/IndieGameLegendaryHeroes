@@ -95,3 +95,11 @@ Lo-Fi 官方资料补充：Hunt 早年曾做游戏程序员，但厌恶“cash-c
 - **Market sufficiency / legibility:** **PARTIAL→STRONG over time** — EA 逐步形成付费需求与社区；早期项目可读性与销量增长时间线仍需补。
 - **Capability scaling:** **STRONG AFTER MARKET SIGNAL** — solo foundation 在付费市场成立后转为 revenue-funded specialist team。
 - **Major unknowns:** household economics、夜班/开发工时、早期售价/收入、逐年 headcount、完整 contributor perimeter。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2000s–2018｜长周期个人工具、PC/EA。
+- **实际体验验证与进入市场的路径：** 夜班工资→多年自制→EA→团队扩大。
+- **机会类型：** `CREATED+INHERITED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 各阶段具体引擎/技术投入。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

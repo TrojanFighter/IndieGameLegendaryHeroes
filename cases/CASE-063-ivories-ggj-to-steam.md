@@ -156,3 +156,11 @@ This Case adds an unusually valuable low-media-visibility, genuine delivered-pro
 - **CASE-063:E007** — Zeyt8 public identity bridge between jam and commercial releases.
 
 **Open verification:** individual credited participants in 2025 final game; actual project budget and person-hours; source-code lineage versus design lineage; financing, net sales and post-launch studio economics. No part of the Case implies paid ROI or continuous salaried employment.
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–2020s｜Game Jam低成本工具/公开赛事。
+- **实际体验验证与进入市场的路径：** GGJ小原型→强化制作→Steam产品。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 确切引擎/UGC平台、转换成本待核。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

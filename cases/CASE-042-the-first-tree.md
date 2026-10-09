@@ -318,3 +318,11 @@ Luck 不否定 production strategy，但禁止把 viral reach 写成可稳定复
 - **Market sufficiency / legibility:** **STRONG for 2016–2017 regime** — visual hook 与可传播 GIF 高度一致；具体社媒 tactic 到 2026 仅 CONDITIONAL/HISTORICAL。
 - **Capability scaling:** licensed asset ecology + specialist periphery + console partner；不是 founder 全工种补齐。
 - **Major unknowns:** spouse/household finance、childcare、total cash spend、launch revenue chronology。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2015–17｜Unity+Asset Store/预制资源。
+- **实际体验验证与进入市场的路径：** 围绕技术弱项主动定制短篇项目→发售。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 素材/音乐/脚本贡献逐一计价。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

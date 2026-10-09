@@ -51,3 +51,8 @@
 - “成功后仍然要不要继续做最擅长的类型？” → [Zach Barth](zach-barth-zachtronics.md) 与 [Zachtronics 原始 Case](../../cases/CASE-051-zachtronics.md)。
 
 **边界：** 以上 14 篇是已有研究基础上整理的人物传记，不是 14 个可复制的人生模板；家庭支持、总投入工时和个人净收入等尚未核实部分均需标 UNKNOWN。
+
+## 2026-10-09 Technology Window Audit｜14篇人物稿的核验入口
+
+现有14篇人物正文保持叙事结构，不把同一技术表格复制到所有文章末尾。其技术时代依据先进入对应[63个Case矩阵](../../metadata/technology-opportunity-window-matrix.md)与[审计规范](../../schemas/technology-opportunity-window-audit.md)，人物改稿时只补其实际使用工具、Mod/UGC/公司技术资产如何影响关键选择的**人生命运节点**。已经可读的跨人物技术史续篇：[技术早已在那里，题目却还没人出](../chapters/08-the-tools-were-already-there.md)。
+

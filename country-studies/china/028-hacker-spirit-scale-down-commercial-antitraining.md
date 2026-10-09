@@ -14,6 +14,12 @@
   - “Commercial Anti-Training”不是“商业游戏经验有害”，而是研究**在大型商业生产中局部合理的习惯，迁移到小团队作者生产时是否发生negative transfer**；
   - 个案存在不等于国家分布相同；中国也存在NExT、同人、Game Jam、个人作者等反例。
 
+## 2026-10-09 历史补丁：Scale Down 的工业化技术条件
+
+新增[游戏生产资料商品化004](../../cross-industry/industrial-revolutions/004-unity-asset-store-network-middleware-ai-indie-industrialization.md)：Unity通用跨平台工具（2005–09）→ Asset Store中间件/素材交易（2010）→ UNet、Photon及Mirror（2011–19）→ NGO+Steamworks及语音插件等组合（2022–23）→ AI模型/Agent（2024–26）。这不是纯粹“聪明人少雇人”的性格胜利，**scale down可以成立的可行解空间有明确的历史技术和交易市场前提**。
+
+在某些企业家只谈融资额、UBI或“必须有大团队”的同时，工具市场直接压低了若干游戏生产环节的必要自研工时；现金runway仍可对创作者生存至关重要，但**拥有资本与获取生产能力不是同一件事**。对2026 AI亦沿用同一审计：需衡量实际替代工时、质量与整合成本，不用所谓技术革命自动解释任何新产品成功。
+
 ## 0. 三个表面问题，其实是同一个底层问题
 
 近期讨论中的三条：

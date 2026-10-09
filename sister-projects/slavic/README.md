@@ -327,3 +327,8 @@ Gaijin 创始人 Anton Yudintsev 明确表示，War Thunder 的开发在 World o
 当前只在本仓库保存方法论接口、跨书命题和首批产业谱系。斯拉夫篇形成大量独立 Case 后，再决定是否拆成独立仓库。
 
 在此之前，不复制一套平行 schema，避免两套研究规则漂移。
+
+## 2026-10-09 Technology Window Audit｜工业技术继承、中间件采购与产品验证
+
+已按本库统一技术窗口标准对[SLAVIC-001至008](TECH-WINDOW-APPLICATION-2026-10-09.md)建立分代对照；历史强锚点之一是**2010《坦克世界》采用BigWorld商用中间件，Wargaming于2012收购供应商**。它与Gaijin长周期Dagor自研、GSC→4A技术人才迁移共同表明：购买/自研必须按年代、产品差异化、总人年与阶段性规模化判断，不以“是否自己写引擎”衡量游戏作者资格。
+

@@ -332,3 +332,66 @@ WIPO的《Patent and Technology Information》以及专利FAQ说明：公开的�
 | 创作者能否从公开知识中生成新目标？ | 同背景开发者和原型队列 | 技术复现测验 vs 自主需求发现与玩家验证实验 | 文本/原型评分偏见、熟悉品类不均 |
 
 **Closure / falsification threshold：** 要有同年同平台跨国或中国内部跨制度的固定候选队列（含失败、未入选），至少一组有时间先后的制度/资金变化和设计结果，直接报告对照、误差区间、效应量与反例；在此之前只用“候选机制”，不能宣布中国原发创新总体能力排序，或把宏观产能过剩数字当作游戏作者性数据。
+
+---
+
+## 2026-10-09 增量：多人架构的技术代理指标压力测试
+
+新的具体对照是 [Improbable / PUBG / Tarkov / Party Animals / Prologue](../../book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md)：
+
+- SpatialOS 的持续实体与跨进程模拟是一种真实技术能力，但《Worlds Adrift》2019面临架构更新、状态规模与体验/商业转化问题；不能从技术先进性直接推导产品成功。
+- PUBG 2018官方性能分析显示可以按距离减少无关状态复制来提高tick和降低延迟；一种有意**不模拟/不同步全部细节**的技术选择，也可能增强玩家重视的体验。
+- Tarkov把战斗物理放在有边界的短局、将风险报酬放在局外持久状态；不可把“持久价值”误作“所有世界实体必须实时永久存在”。
+- Party Animals 制作人所称物理同步量是技术负荷叙述，不能直接得出单位用户小时成本、更不能作为2020–23延期必要性证据；同期公开记录已显示重复改图与组织增长。
+- Greene 后来的《Prologue》2026停止开发，提供“玩法成功者换技术目标仍可能不具足够市场需求”的同一人反证；它是单人游戏，不能错记成多人服务器亏损。
+
+**定量禁止项**：未测量的「每机跑几局」装箱假设不可以得出Tarkov与Party Animals的真实成本倍数；8倍同步数据量不等于8倍服务器账单；Peak CCU也不是累计销量/利润。当前实际单位成本比值为**UNKNOWN**。要核完整成本，应固定 paid player-hour、真实实例/利用率、出口流量、合约价格、后端负担与LTV，不能以“算过一张表”替代测量。
+
+## 2026-10-09 增量：中间件吸收强 ≠ 作者型游戏的生产函数同步升级
+
+**新核心研究问题：** 中国的部分技术社区不但使用、而且**实际供给**工业软件中间件；既有技术投入是否更多服务于F2P/手游商业生产（热更新、配置表、资源管理），而较少转化为国际premium游戏的独立玩法发现、低投入联网、直接EA与小团队作者权？这里的差距暂名 **`MIDDLEWARE-TO-AUTHORSHIP CONVERSION GAP`（中间件能力到作者生产权的转化缺口）**，不是简单声称“中国人不懂中间件”。
+
+### 国内工具市场的真实正例（不得删除）
+
+| 供给方 / 系统 | 可核来源 | 说明及边界 |
+| --- | --- | --- |
+| 凉鞋 / QFramework | https://github.com/liangxiegame/qframework ; 公开访谈 https://www.d-arts.cn/article/article_info/key/MTIwMDY1MjE0MTiDuYWqsYa8cw.html | 独游失败后从外包项目抽象复用代码；采访确认其用Unity现成插件完成外包、意识到购买工具节省工时。2026时约5.4k GitHub stars≠企业部署数。 |
+| focus-creative-games / Luban | https://github.com/focus-creative-games/luban | 多引擎Excel/JSON/配置代码生成，约4.6k stars。AI Native 5.x说明中国工具作者并不天然排斥AI或模块化；各版本功能须按当期记录。 |
+| focus-creative-games / HybridCLR | https://github.com/focus-creative-games/hybridclr | Unity热更新，开发者声称大量商业游戏使用但没有独立部署普查；不能从宣传估计中国软件生态总体渗透率。 |
+| tuyoogame / YooAsset | https://github.com/tuyoogame/YooAsset | Unity资源管理/交付。开发者关于百万DAU项目采用属于当事人声明。 |
+| Unity中国商店 | https://unity.cn/tuanjie/help-center | 有模型、编辑器扩展、AI、完整项目模板等，说明当地确实有工具商品交易渠道。 |
+
+### 不可隐去的中国作者权组织正例
+
+- 2017-04《元气骑士》凉屋采访：最初5人→当时10人；项目多为**1–3人**，员工提交原型即可发起，程序常兼制作人，强调做自己擅长、原型验证。https://www.ali213.net/news/html/2017-4/293569.html
+- 2019-02凉屋招聘同步要求“能做策划的程序员”，且直接要求个人作品、可设计迭代；这是明确把游戏阅历/原型权写进岗位制度的反例。https://www.taptap.cn/moment/15204201630009873
+- 2020《Gunfire Reborn》多益内部 premium/Early Access 路线与同年正向商业信号，详见[CASE-039](../../cases/CASE-039-gunfire-reborn.md)；2022访谈确认团队有商业ARPG/MOBA/FPS经验但主动选择新PVE roguelite FPS：https://game-wisdom.com/guest/gunfire-reborn-interview
+- 2023《边境》不是没有玩家兴趣的技术垃圾，首日销售>10万；但多人PvP生态无法持久，开发与发行责任有争议；详见[CASE-029](../../cases/CASE-029-boundary.md)。不得简单将长周期/停服归因为没买中间件。
+
+### 目前支持的机制，但尚不支持的频率和因果
+
+现有实证可证明：**中国并非缺少中间件制造/采购能力**，并确实存在遵循早原型、小团队、作者自治和EA的组织。但是由中国特定付费/平台/招聘激励使`MONETIZATION_INFRASTRUCTURE_ABSORPTION`（商业运行工具吸收）大于`AUTHORIAL_PRODUCT_DISCOVERY`（玩法发现与产品转化）的程度，必须做同代团队分母审计。不能用4个外国经典 + 2个中国失败案例计算任何国别研发能力排名。
+
+**更可证伪的拆解：**
+1. `TOOL_AWARENESS`：给定项目时能否列出2018–2026年真实适用的通用插件？市场知识与英语/国际开发生态接入。
+2. `BUILD_BUY_DECISION`：自研、购买、开源复用、变更玩法规则的前瞻人月/风险比较，有没有做可复现小样。
+3. `DESIGN_CONVERSION`：节省的开发工时是否转向玩家测试、内容迭代、创意原型，还是转向规格膨胀、运营系统？
+4. `DECISION_RIGHTS`：员工可以直接建立原型、否定既定立项、对外测试/收费吗？
+5. `MARKET_OUTCOME`：3/5年发行率、成本、原型数量、国际付费表现、首发后活跃，与固定可观察队列比较。
+
+### 跨国四案例重新裁决
+
+PUBG/Greene：外部成熟引擎及Mod→低成本发现新规则；韩国Bluehole跨国吸收作者；说明商业组织能够购买互补的**判断力**。Tarkov/Battlestate：商业Unity页游《Contract Wars》形成可转移技术和资金，再修改产品目标；并非“每个俄国人都更懂插件”。Improbable：英国技术先行、产品适配不足，反证错误复杂度并非中国独有。Party Animals：用Unity却面对网络成本/反复改图/扩团队，至少存在需要追究的架构研究与scope时机问题；没有实测开发记录时**不得宣称团队拒绝成熟中间件、所有自研均可替换**。
+
+**AI阶段压力测试：** 用AI替代编码/绘图的速度不自动产生玩家需求。真正检验中国/海外差距的应是`NEW_PLAYER-VALIDATED_PRODUCTS_PER_CREATOR_YEAR`而不是人均生成文件/图像、tokens或技术榜单。AI仍可能吸引此前被职业门槛排除的作者进入，并改变总体候选池，不能写为“技术变化完全不重要”。
+
+---
+
+### 2025 全球 Steam 高关注管线：粗数量级代理，不是原创能力或中间件率
+
+波兰PARP《The Game Industry of Poland 2025》p.29复刻Game Industry Conference对2025-07 Steam Top200愿望单来源国的统计：中国**8**项（4.08%）、波兰**12**、瑞典**14.75**、韩国**10**。这些包含共享归属的加权数值，**不是**中国2025年全部发售数，也**不是**新机制原创项目数或每开发者成功率。来自Steam premium全球关注市场的**高注意力管线份额**，只能作为“为何中国巨大游戏工业在特定全球产品市场中显得相对偏薄”的研究动机；不同市场制度、流量、题材与发行节奏为重大混杂。来源原报告：https://www.parp.gov.pl/storage/publications/pdf/The_Game_Industry_Poland_2025_12_29.pdf ，p.29 Table 2。此表不能证明中国“比发展中国家精英意识落后”，也不能用于估算技术吸收缺口比例。
+
+
+### 2026-10-09 人效纠偏：`EXISTENCE ≠ PRODUCTIVITY`
+
+新增[《中国独游与商业游戏的人年、成本、中间件与岗位激励审计》](../../book/research-notes/china-indie-manpower-efficiency-middleware-build-buy-incentives-2026-10-09.md)。前文以“QFramework/Luban/HybridCLR存在”及“凉屋/枪火重生成功”反驳作者关于中国中间件意识与低人效的比较是方法错误：工具存在不能推项目FTE成本、资本效率、原创可验证hook/开发人年、行业中位数。2020《Gunfire Reborn》MobyGames如今credits录入128个专业角色、34致谢，**既不能叫2–3人独游，也不能当2020首发时128全职员工**；2017《元气骑士》确有每项目1–3人，2026凉屋公司约200人但项目仍4–5人起，亦不能拿公司总人数冒充项目规模。详见该审计，并将`BUILD-BUY-DELETE`、`MAKE-WORK_BY_INHOUSE_INFRASTRUCTURE`设为待测组织机制；特定雇员是否为保岗位而反对工具须有内部证据，不能直接指控。

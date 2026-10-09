@@ -1,5 +1,8 @@
 # 中国国情研究｜游戏产业、教育社会化与创新能力
 
+**2026-10-09｜应试过拟合→老板决策的动态纠偏**：新增[静态目标谬误与蒋介石抗战准备的史学压力测试](../../book/research-notes/static-target-trap-chiang-and-strategic-recalibration-2026-10-09.md)及[Improbable / PUBG / Tarkov / Party Animals / Prologue多游戏工程—商业对照](../../book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md)。与[032 Exam Overfit](032-exam-overfit-routine-expertise-open-domain-transfer.md)、[033 Technology Proxy](033-technology-proxies-experience-demand-and-commercial-feedback.md)相互引用；不把军事史类比当成现代教育成因，也不凭个案作国别分母估计。
+
+
 [返回研究计划总图](../../PROGRAM-MAP.md)
 
 韩国持续国际化制度（Born Global / Absorptive Capacity）与中韩外力互补补证：[韩国002](../korea/002-global-information-network-and-absorptive-capacity.md)。包含NCsoft2000年跨国扩张、Smilegate×腾讯《穿越火线》反向知识输入、2025韩国四公司研究及公共出口支持的边界。

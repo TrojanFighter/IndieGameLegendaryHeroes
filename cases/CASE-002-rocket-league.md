@@ -120,3 +120,11 @@ SARPBC 不能简单标成“失败”：
 - **Market sufficiency / legibility:** **STRONG AFTER REFINEMENT** — “cars playing football” 高可读，但市场爆发建立在前作七年迭代、PS Plus 和已有生产资本上。
 - **Capability scaling:** **WORK-FOR-HIRE-FUNDED** — 用外部项目现金维持 permanent team，再将组织资本周期性投入 own-IP。
 - **Major unknowns:** 每年合同收入、原创资源占比、PS Plus 条款、Rocket League 逐阶段 headcount /预算、founder household。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2000s–2015｜Unreal技术/外包业务共享能力。
+- **实际体验验证与进入市场的路径：** SARPBC弱销售前作→长期规则改造→付费续作。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 各版技术继承成本。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

@@ -222,3 +222,17 @@ DOOM 绝不是“两个 John 做完一切”。同期资料显示：
 - **Market sufficiency / legibility:** **STRONG in 1990s regime** — shareware + direct order 模式与产品差异高度匹配；具体 tactic 为 HISTORICAL。
 - **Capability scaling:** 先靠工具链 /专业分工 /外围服务而非先膨胀 headcount；成功后组织复杂度与 founder conflict 上升。
 - **Major unknowns:** household conditions、Softdisk subsidy 精确价值、Apogee contracts、各阶段个人收入与分配。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 1990–93｜PC/shareware、自研图形与工具。
+- **实际体验验证与进入市场的路径：** 创造滚屏/3D可行性→游戏设计→WAD/Mod外溢。
+- **机会类型：** `CREATED+CO_EVOLUTION`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 不能拿AI时代标准责备1991作者。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+《DOOM》不是“技术做题家忽略体验”的早期范本。1990–93年团队推进当时难以获得的实时渲染、关卡工具和多玩家支持，技术与设计相互塑形；此时统一的Unity/Asset Store和今天的网络中间件均不存在。WAD和公开修改能力又把这项技术突破逐渐外溢为其他人的MOD/地图作者训练场。该例应同时记录`CREATED_WINDOW`和`CO_EVOLUTION`，而不是把“自主研发”当成天然过时或有害。判断2010s以后这类路径是否**占比下降**，必须先建同代、同平台、有失败者的来源队列；本书63个精选Case不承担发生率估计。
+
+技术权属、图形能力和工具历史继续以本案E014–E016及[工业革命003](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)为canonical证据；这段是研究分类而非新来源。

@@ -133,3 +133,11 @@ UNKNOWN：生活支持、资金、工具、人才与市场条件的可复制边�
 - **Market sufficiency / legibility:** `UNKNOWN`
 - **Capability scaling:** `UNKNOWN`
 - **Major unknowns:** 该 Case 尚未达到人生性价比横向比较门槛；须先恢复制作人原始复盘、组织归属、团队规模、资金与开发时间线。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–2024｜PC高规格生产、技术栈待核。
+- **实际体验验证与进入市场的路径：** 产品范围/商业化时点和原型史未闭环。
+- **机会类型：** `UNKNOWN`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 骨架：不可伪填引擎或Mod路径。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

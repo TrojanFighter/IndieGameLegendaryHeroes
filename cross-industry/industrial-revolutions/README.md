@@ -59,3 +59,13 @@
 - participant testimony。
 
 作者自己的历史解释不得因为“写得早”自动升级为外部证据。
+
+## 2026-10-09 Technology Window Audit｜全案例技术史接口
+
+- [游戏工业从Unity/Asset Store/联网中间件到AI的生产资料扩散](004-unity-asset-store-network-middleware-ai-indie-industrialization.md)
+- [全63个Case技术窗口初步回填矩阵](../../metadata/technology-opportunity-window-matrix.md)
+- [案例技术窗口及UGC验证审计规范](../../schemas/technology-opportunity-window-audit.md)
+- [叙事章节：技术早已在那里，题目却还没人出](../../book/chapters/08-the-tools-were-already-there.md)
+
+对比项目生产人效必须把中间件/工具购买、技术外包、实际开发FTE年与创作者真正完成的规则判断分开；不能以头部案例存在推出任何年代或国别总体的“体验驱动占比”。
+

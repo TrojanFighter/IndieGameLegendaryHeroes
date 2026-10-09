@@ -317,3 +317,11 @@ The Magic Circle：
 - **Market sufficiency / legibility:** **WEAK** — creator 自己指出 genre 不清、meta satire niche-within-niche、零 marketing budget；约 16.5k copies 的阶段性销量不足以维持 Question。
 - **Capability scaling:** 产品完成并上市；首作销售未能支撑原经营预期，但 Question 后续确实继续并扩充团队开发《The Blackout Club》；长期财务可持续性 UNKNOWN。
 - **Major unknowns:** household economics、audited budget、marketing labor、long-tail lifetime sales。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–15｜成熟商业开发者/可用引擎。
+- **实际体验验证与进入市场的路径：** 技术与设计团队重组→首发→市场反省。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 确切引擎/中间件待核。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

@@ -101,3 +101,11 @@ Greenlight/媒体热度还反向改变了项目生产周期：Pope 明确说因�
 - **Market sufficiency / legibility:** **STRONG** — “边境检查员”高概念、beta 与 Greenlight 在正式发售前已提供明确市场可读性。
 - **Capability scaling:** core solo-author production + localization / testing / platform perimeter；完整 contributor boundary 仍需继续核。
 - **Major unknowns:** 离职时储蓄规模、配偶收入、家庭月 burn、住房、Greenlight /媒体信号各自的真实因果权重。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2012–13｜PC独游工具与公开开发日志。
+- **实际体验验证与进入市场的路径：** 个人原型/体验判断→TIGSource反馈→独立发售。
+- **机会类型：** `RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 初期实际引擎/库与版本。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

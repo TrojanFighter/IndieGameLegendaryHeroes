@@ -558,3 +558,11 @@ Steam 官方 developer news 在 launch 前 7 天记录 40k+ wishlist；团队 la
 6. 61k launch wishlist 的 day-1 / week-1 conversion 和 refund-adjusted sales 是多少？
 7. 当前 100k+ launch milestone 之后的 lifetime sales / revenue 是否有后续公开披露？
 8. 这个案例是否能形成一个更窄的新命题：**mobile rapid-prototype capability 对 Steam premium production 既是能力资本，也可能携带错误 market model**？
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–25｜早期移动/web积累→Steam。
+- **实际体验验证与进入市场的路径：** 多年原型失败→小范围新品→demo纠偏。
+- **机会类型：** `RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 技术栈与插件及规模化成本。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

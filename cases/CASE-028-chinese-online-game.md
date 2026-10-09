@@ -184,3 +184,11 @@ Steam 官方公告以第一人称描述单人核心开发；小黑盒 2024 金�
 - **Market sufficiency / legibility:** **PARTIAL** — “模拟中国网游体验”具有共享文化可读性，但实际 market signal、销量和传播归因仍未知。
 - **Capability scaling:** core solo + publisher perimeter；音乐、音效、配音、QA、本地化等贡献边界未完成 contributor audit。
 - **Major unknowns:** household economics、主业收入、publisher funding、完整职业前史、外包外围、销量与净收入。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–2020s｜个人业余工具+模拟网游。
+- **实际体验验证与进入市场的路径：** 在单机中抽象网游循环→发布。
+- **机会类型：** `RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 引擎/素材与全部外围UNKNOWN。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

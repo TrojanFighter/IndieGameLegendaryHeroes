@@ -213,3 +213,21 @@ Jailbreak 的首发爆发是明确的右尾事件：badcc 在发售当天把 40,
 4. DevEx 2013 初始汇率、历次上调与这些开发者全职化时间点之间能否建立更精确时间线，而不是事后相关性？
 5. 最需要补的是**失败对照组**：同年代、同样开发多年但没有进入职业化的 Roblox 创作者，其 production history 与这组头部案例差在哪里？
 6. Roblox 学徒制形成的能力有多少能迁移到 Steam / 独立引擎 / 自建后端环境？
+
+### 2026年补充独立出口对照（不混入本Cluster人数分母）
+
+[Unturned／Nelson Sexton](../book/research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)提供同期Roblox游戏技能和规则→Unity中重新实现Steam产品的独立出口对照；Xbox官方2021本人访谈直接确认2012–13 Roblox起源、2014 Steam、2017结束抢先体验。原Roblox前作《Deadzone》与《Unturned》是**产品构想/玩法谱系**，不可无代码证据说Lua源码被直接移植到Unity。与之不同，本CASE的Jailbreak、RHS、MeepCity主角可以长期在Roblox经营，不需为了“完成创业”而离开平台。参见[证据对照](../book/research-notes/ugc-to-standalone-and-platform-finance-ladders-2026-10-09.md)。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2009–21｜Roblox Studio/平台托管/DevEx。
+- **实际体验验证与进入市场的路径：** 多次UGC发布→真实收入/职业化；可不出平台。
+- **机会类型：** `PLATFORM_UGC`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 不同年代DevEx/发现算法区别。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+把Roblox作为“完整试验—分发—运营—收入的垂直平台”，不是只作为日后Steam作者的编程课。Cindering、alexnewtron、badcc/asimo3089都在多年反复UGC作品、同伴协作和真实平台流量中训练产品能力。**2025年末**Roblox向SEC披露约35,500名达到DevEx登记资格的创作者、当年约23,500实际兑换款；它们是参与创作者人数口径，不是23,500款盈利游戏，也不是2026年Roblox作者平均利润。来源：https://www.sec.gov/Archives/edgar/data/1315098/000131509826000024/rblx-20251231.htm 。
+
+与2023后UEFN共同说明`PLATFORM_UGC_WINDOW`的内生商业终点：并非每个优秀UGC游戏都需要另做Standalone。对“平台作者出走商业PC”还需查代码/素材/IP可携带性、UGC开发者真正迁出平台的比例和平台锁定成本。UEFN官方起点：https://www.unrealengine.com/blog/unreal-editor-for-fortnite-is-now-available-in-beta 。

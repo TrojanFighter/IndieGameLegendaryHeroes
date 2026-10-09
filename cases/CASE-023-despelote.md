@@ -229,3 +229,11 @@ Cordero 也指出，早期 prototype 很快得到积极反馈，使团队在并�
 5. 2019 NYU Incubator 对 despelote 团队的 exact stipend 与其他资源能否核到当届协议？
 6. 2021 IFCI 的 USD 10,000 在实际时间线上支付于何时，具体支付了哪些 milestone？
 7. 最重要的失败对照：同届 NYU Incubator / DAP / IFCI 获资助但没有签 publisher 或没有发售的项目，发生了什么？
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2016–25｜小团队作者工具与文化资金。
+- **实际体验验证与进入市场的路径：** 非商业原型/作品→资助vertical slice→发行。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 确切引擎及跨期来源。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

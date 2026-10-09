@@ -455,3 +455,10 @@ Slay the Spire 是这类变形的反例。
 - “QA 比正式 game dev 更适合成为独立制作人”；
 - “只要保留兴趣，大厂经历就不会产生 lock-in”。
 
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2015–19｜Unity/卡牌资源与Steam EA。
+- **实际体验验证与进入市场的路径：** 小队从玩法市场需求出发→demo/EA→迭代。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 早期卡牌原型与实测玩家样本。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

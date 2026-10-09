@@ -482,3 +482,11 @@ Playdead是第三层最强压力样本之一：Jensen + Patti 的能力组合经
 - **Market sufficiency / legibility:** **STRONG for LIMBO/INSIDE** — product success 不是争议核心；本案恰好证明商业/作品成功也不能替代治理兼容性。
 - **Capability scaling:** **CAPABILITY-COMPOSED** — authorial thesis 通过 complementary founder、资本和团队扩张成为 studio-capable production system；后期 governance dissolution 显示 composition 有长期成本。
 - **Major unknowns:** founders household、早期资本精确条款、冲突精确起因、2025+ credit dispute 最终法律结果。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2006–16｜LIMBO自有技术→INSIDE引擎迭代。
+- **实际体验验证与进入市场的路径：** 成熟动作/镜头体验牵引技术与团队。
+- **机会类型：** `CO_EVOLUTION`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 按LIMBO/INSIDE分别追引擎。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

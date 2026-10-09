@@ -163,3 +163,11 @@ Landfall 多年积累的品牌、Steam 历史、社区、合作网络、核心�
 - **Market sufficiency / legibility:** **STRONG on successful social games**, but virality/right-tail is non-repeatable; creator-facing visibility is part of product design.
 - **Capability scaling:** product-led scaling + flexible external perimeter; organization intentionally remains smaller than total production network.
 - **Major unknowns:** budgets/profits per title、early household runway、Evil Landfall investment structure、full contractor perimeter。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–2020s｜Unity/物理与网络外部库。
+- **实际体验验证与进入市场的路径：** Game jam/短期原型→公开视频/玩家反馈。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 逐作工具分代与联网库。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

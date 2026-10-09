@@ -150,3 +150,11 @@ Greg 多年 Unreal 熟练度、Manor Lords 题材/视觉的市场吸引力、Meg
 - **Market sufficiency / legibility:** **STRONG** — 题材/视觉/城市建设定位可读性高，wishlist / Next Fest / EA 形成强需求信号。
 - **Capability scaling:** **ELASTIC PERIMETER** — permanent core 极小，通过 assets、freelancers、QLOC、Hooded Horse 与 post-launch hires 补 throughput。
 - **Major unknowns:** household economics、Patreon/MegaGrant 金额、publisher financing、个人累计投入、精确 freelancer/credit perimeter。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–24｜Unreal现成3D工具+外围协作。
+- **实际体验验证与进入市场的路径：** 单作者核心原型→Steam受众→EA发行。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 外包/资产与版本跨度。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

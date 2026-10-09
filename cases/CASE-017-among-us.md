@@ -85,3 +85,11 @@ Among Us 是“上线两年后突然爆红”的极端市场时点案例。它�
 - **Market sufficiency / legibility:** **WEAK/MODEST for two years → EXTREME RIGHT-TAIL** — 强提醒：早期长期中等信号不能预测后来的全球窗口。
 - **Capability scaling:** three-person product → success-triggered organization rebuild / external partners；典型“成功后成本函数突变”。
 - **Major unknowns:** pre-2020 household/runway、团队工资、其他项目 cross-subsidy、爆发后 headcount/partners 逐月变化。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2018–20｜Unity+小队线上运营。
+- **实际体验验证与进入市场的路径：** 低可见度上线→在线模式迭代→2020传播。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 网络框架与2018/20负载。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

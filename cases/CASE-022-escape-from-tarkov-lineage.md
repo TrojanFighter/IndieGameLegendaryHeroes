@@ -222,3 +222,23 @@ Escape from Tarkov 的市场接入同样不是“产品自己火起来”。其�
 5. 2016–2020 官网直销各阶段销量、版本结构和现金流如何支撑团队从早期规模扩大到数十人？
 6. Twitch / YouTube 的关键放大节点分别是什么？需要建立可验证的市场时间线，而不是笼统写“主播带火”。
 7. Hired Ops 作为同母体平行分支为什么没有得到 EFT 同等级的市场结果？这是本案最有价值的内部对照问题之一。
+
+---
+
+## 2026-10-09 Addendum — 多人局的持续义务不是自动庞氏
+
+新增[Improbable × PUBG × Party Animals × Tarkov架构与单位经济对照](../book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md)。本CASE提供了有同期公开证据的较低风险前作 `Contract Wars`、技术/团队积累和预售融资；不要将后续多年在线成本说成“所有老用户必然让买断制亏损”，亦不得用英国单一实体财报当作整个生产组织合并利润。局内临时 + 局外持久是**设计义务选择**而非神秘节省费用。实际全成本/玩家小时、PvE本地化前后账单为UNKNOWN，反过来也不能把Party Animals开发商的“同步量大”直接换算为8倍总成本。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010–17｜Contract Wars Unity Web Player。
+- **实际体验验证与进入市场的路径：** 先有商业FPS技术+现金→Battlestate→预售Alpha。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 前作并非Mod；实际联网成本。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+与`ARMA mod→PUBG`最重要的差别：`Contract Wars→Battlestate`是**已有商业在线FPS项目→新商业团队和高风险独立IP**。据Unity官方，旧项目制造了现金、Unity技能和多人协作能力；技术继承不是从未经商业运维的业余Mod开始，不能套“先免费UGC检验，然后融资”的线性神话。另一方面，Tarkov局内临时战局、局外持久用户资产，也是作者主动裁切持续模拟义务的设计选择；仍有高额技术债及真实运营成本未知，不能用“使用Unity”推运行便宜。来源：https://unity.com/made-with-unity/escape-from-tarkov 。
+
+将旧项目技术重用额、团队FTE年、Tarkov初次付费Alpha至正式长期支付结构分开计算，与Greene/Bluehole形成有效的生产路径对照。

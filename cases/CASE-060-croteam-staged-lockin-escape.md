@@ -296,3 +296,11 @@ Croteam 官网官方历史确认：
 - cross-studio generality of staged decoupling.
 
 **Research graduation boundary:** strong first positive counterexample for mature grammar escape, **not** a universal formula or statistical estimate. Until external financing/control terms and production economics are better known, keep status `RESEARCHING`.
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 1990s–2020s｜自研Serious Engine +长期技术资产。
+- **实际体验验证与进入市场的路径：** Serious Sam体系→谜题技术演化→Talos。
+- **机会类型：** `CREATED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 引擎复用与新机制不能混为自研门槛。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

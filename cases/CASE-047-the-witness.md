@@ -322,3 +322,11 @@ The Witness 是强锚点。
 6. internal playtesting / external playtesting 结构如何，是否存在比目前记录更强的 pre-launch player-truth channel？
 7. 如果没有 Braid capital，Blow 自己是否明确说过会如何重写 The Witness scope？
 8. CAPABILITY-EXPANDED 模式在其他 authorial projects 中是否可复现，还是高度依赖 prior-hit capital？
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2008–16｜自研引擎/外部艺术工程。
+- **实际体验验证与进入市场的路径：** Braid收益→长期环境谜题+技术制作。
+- **机会类型：** `CREATED+CO_EVOLUTION`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 自研技术是否必要不可后见裁决。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

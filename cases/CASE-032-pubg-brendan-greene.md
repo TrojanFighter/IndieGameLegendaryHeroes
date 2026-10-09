@@ -302,3 +302,25 @@ PUBG 之前已经存在完整验证链：
 8. modder → creative director 的管理转型具体在哪些环节失败或重构；
 9. 与 CASE-016 DOOM、CASE-021 Roblox、CASE-022 Tarkov 的可比机制；
 10. 何时有足够跨案例证据将本案绑定到 C006/C010/C011，而不是为了关系完整性过早归因。
+
+---
+
+## 2026-10-09 Addendum — 同一创始人的两种生产范式
+
+与[多人世界技术/单位经济比较](../book/research-notes/multiplayer-worlds-unit-economics-and-founder-decisions-2026-10-09.md)接通：Greene 在 mod / H1Z1 时先取得规则与受众反馈，Bluehole / 金昌汉提供公司生产与全球分发能力；PUBG商业成功不证明Greene下一次技术押注必然正确。
+
+PLAYERUNKNOWN Productions于2026-06-17官方宣布停止开发并免费开放**单人**《Prologue: Go Wayback!》，继续Melba地形技术（https://pp.studio/news/prologue-go-wayback-goes-free）。禁止误写成“独立后又因多人服务器成本失败”；研究应拆开游戏商业回报与潜在技术资产、后续资本和实际退出条件。不要从一个人的第一作成功推导该人所有方法和能力恒定，更不要将少数精英案例外推到国家人群。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2013–17｜Arma/DayZ Mod→H1Z1→UE4。
+- **实际体验验证与进入市场的路径：** UGC真实玩家验证大逃杀→Bluehole商业团队。
+- **机会类型：** `PLATFORM_UGC→RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** Mod规则≠PUBG代码直接移植。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
+
+## 深入审计：技术、规则与独立产品的实际关系（2026-10-09）
+
+将“Arma/DayZ已有军事模拟、地图、战局与脚本→改造最后幸存规则→公开Mod玩家采用→H1Z1商业顾问/授权→Bluehole邀请加入并提供商业团队→UE4 Standalone PUBG”拆成六个**不同**可证节点。规则实验的有效性、Greene的人物前史、已可使用的底层能力、商业版代码/资产权属和公司提供的发行/运营都不属于同一项贡献。尤其要查最初Mod测试人数/留存、H1Z1阶段合同范围、Bluehole生产人年。不能说“他把Arma的Mod源码直接移植成PUBG”，也不能把Bluehole工程贡献从产品史中抹掉。
+
+这是`PLATFORM_UGC→RECOMBINED`的强锚点；它能证明一条路径**发生过**，并不能证明2017所有成功多人FPS都经由Mod。相关2015/2017采访与E001–E010应继续作为证据账本主体。

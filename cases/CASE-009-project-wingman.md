@@ -92,3 +92,11 @@ Abi 的直接访谈很适合检验“能力是项目过程中生产出来的”�
 - **Market sufficiency / legibility:** **STRONG NICHE LEGIBILITY** — “indie Ace Combat-like” 对既有飞行战斗受众高度可读；Kickstarter 前已有公开 traction。
 - **Capability scaling:** **PROJECT-AS-EDUCATION → CROWDFUNDING / COMMUNITY PERIPHERY** — 能力不是预先齐备，而是在项目中生产出来。
 - **Major unknowns:** Kickstarter 前收入来源、Sector D2 成形时间、全部 credits、Humble/Microsoft 支持、household conditions。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2015–20｜Unreal等通用3D引擎。
+- **实际体验验证与进入市场的路径：** 公开试玩→社区/众筹→大规模飞行游戏。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 版本、素材采购、机能限制。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

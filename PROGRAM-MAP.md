@@ -1,5 +1,7 @@
 # 《独立游戏英雄传说》研究计划总图
 
+**2026-10-09统一全案技术机会窗口Gate：** [Schema](schemas/technology-opportunity-window-audit.md) · [63个Case矩阵](metadata/technology-opportunity-window-matrix.md) · [斯拉夫研究8组的对应方法](sister-projects/slavic/TECH-WINDOW-APPLICATION-2026-10-09.md)。此Gate跨A/B/C/D四区追踪可用技术、实际吸收、Mod/UGC试验、是否形成Standalone及资金/作者权转换；不单以作品发售年份划分时代。
+
 跨区待研究问题统一进入：[OPEN QUESTIONS](OPEN-QUESTIONS.md)。国别/人物线程应优先完成本地研究，不因遇到重要旁支就在同一线程无限展开。
 
 本仓库划分为四个共享方法论、但研究对象与因果问题不同的区域。四区共同遵守 AGENTS.md、schemas/、Evidence 等级与“先证据、后叙事”原则；不同区域不得因为共用仓库就混成同一类样本。

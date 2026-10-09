@@ -187,3 +187,11 @@ UNKNOWN：生活支持、资金、工具、人才与市场条件的可复制边�
 - **Market sufficiency / legibility:** `UNKNOWN`
 - **Capability scaling:** `UNKNOWN`
 - **Major unknowns:** 该 Case 当前仍为 SKELETON，尚不能用于“辞职 / runway / household /人生风险”横向比较。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2010s–21｜Unity+程序化工业系统。
+- **实际体验验证与进入市场的路径：** 5人核心先原型再全职→Steam EA。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** DOTS/插件/自动化具体版本。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

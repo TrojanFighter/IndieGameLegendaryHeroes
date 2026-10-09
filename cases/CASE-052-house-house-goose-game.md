@@ -382,3 +382,11 @@ House House 的故事不是：
 - **Market sufficiency / legibility:** **STRONG** — goose action is instantly readable in trailer/GIF form; visual market coherence is tightly coupled to core mechanic.
 - **Capability scaling:** **GRANT-FINANCED CAPABILITY EXPANSION + PUBLISHER PERIPHERY → RETAINED EARNINGS OPTIONALITY**。
 - **Major unknowns:** exact grant amounts、Panic contract/IP/recoup、individual household、Big Walk burn、how much hit revenue remains as current runway。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2016–19｜Unity/行为AI与物理可复用。
+- **实际体验验证与进入市场的路径：** 明确喜剧目标→最小AI/对象互动→发行。
+- **机会类型：** `INHERITED+RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 现成引擎与自研AI边界。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

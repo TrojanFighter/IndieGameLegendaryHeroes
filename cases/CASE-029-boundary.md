@@ -180,3 +180,11 @@ E011 说明 initial hook / acquisition 不是零。真正失败发生在把注�
 - **Market sufficiency / legibility:** **STRONG acquisition / WEAK ecosystem sufficiency** — 首日购买证明 hook 可读；长期 multiplayer liquidity/retention 没有成立。
 - **Capability scaling:** 技术与团队规模长期扩大，但 live ecosystem 未形成可持续闭环。
 - **Major unknowns:** founders household economics、ownership/股权、各阶段团队规模、项目预算、publisher control、DAU/retention。
+
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 2015–23｜UE等3D工业工具/强网络要求。
+- **实际体验验证与进入市场的路径：** 早期PVE原型→转PvP→多年EA/停服。
+- **机会类型：** `RECOMBINED`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 引擎具体版本、FTE及架构债。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。

@@ -486,3 +486,10 @@ Vogel 自己还列出：
 - counterfactual performance of a completely different genre；
 - precise share of transition cost attributable to technology vs audience vs presentation。
 
+## 技术机会窗口与验证阶梯（2026-10-09）
+
+- **技术条件（初步归档）：** 1990s–2020s｜长期自有RPG制作管线。
+- **实际体验验证与进入市场的路径：** 小团队重复发布/系列能力积累→转型选择。
+- **机会类型：** `INHERITED+CO_EVOLUTION`。不是对其原创程度的排名，亦不能凭此推出同代开发者的普遍选择。
+- **尚缺证据：** 跨年代不能用单一Unity标签。未知项不得由2026年插件能力倒推。
+- **统一审计：** [技术机会窗口规范](../schemas/technology-opportunity-window-audit.md) · [63案矩阵](../metadata/technology-opportunity-window-matrix.md)。
