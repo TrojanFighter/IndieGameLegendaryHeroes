@@ -11,6 +11,16 @@ signals that `book/EDITORIAL-GATE.md` section 0.6 cares about:
 A hit is a prompt to re-read the original source, not proof of an error.
 Approximate phrasing ("c. 2009") and phases the evidence layer has not yet
 absorbed both produce legitimate hits, which is why this does not block merges.
+
+Known limitation, measured 2026-10-09: the year check is a plain "does this
+year string appear in the evidence text" test. Writing a note that *mentions*
+a year - even a note saying the year is unsupported - makes the drift
+disappear. CASE-007's 2009 left the drift list exactly this way, while
+remaining unresolved in substance; the ledger now explains why.
+
+So treat an empty drift list as weak evidence, not as confirmation. Read the
+ledger, not just the audit output.
+
 Exit status is 0 unless --strict is passed, and even then only drift from
 categories 1 and 2 counts.
 """
