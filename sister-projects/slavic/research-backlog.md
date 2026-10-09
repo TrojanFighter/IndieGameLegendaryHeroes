@@ -78,6 +78,13 @@
 - 2023 年成立的 K-D LAB 独立游戏创作者支持协会（俄法人资料：https://companies.rbc.ru/id/1233900001763-assotsiatsiya-podderzhki-nezavisimyih-sozdatelej-igr-k-d-lab/ ）：已登记成立、Novikova 任负责人，但 **2023—2026 实际资助项目仍待核**。这是很好的“个人去世后共同体是否继续”观察窗。
 - KranX 困难项目线索：Krank 2016 本人点名《Не время для драконов》和《Правда о девятой роте》完成，其他多数未完成；需按“项目原团队/进入KranX时完成度/合同/谁主导修复/上映”建立名单，而非把 KranX 所有 credits 写成其亲自抢救。
 
+## 2026-10-09 新证据：Royal Quest持续营运不等于Katauri原作者延续；年轻团队分裂与F2P试错
+
+- 跨区canonical：[Royal Quest/Red Winter/新剑侠传奇的人才、IP、双停售研究档](../../country-studies/china/royal-quest-dungelot-xinjianxia-author-ip-split-2012-2024.md)。**2023年4月Lesta取得《Royal Quest》俄国地区后续运营/开发权，2024年Steam由Lesta上架**：是IP/游戏营运生命延续，不是原Katauri45人团队存活或当年Gusarov保有任何创作否决权；《生意人报》$10-12m仅VC估值，有知情者称可能是非现金权利转移，不能用作实际成交额。
+- **直接可核的Katauri离职者**：Dmitry Mitrofanov 2013、2014年亲自说离开《Royal Quest》期间的Katauri与美术Alexander Yazynin合作，2名常驻核心组成Red Winter；1代《Dungelot》8—9个月、另有付费及熟人美术协助，TouchArcade国际社区作用户反馈和发现入口。该人家庭拥有玩家父亲和国外SNES输入，**不代表俄全部家庭**。
+- **2014俄/中同年负面对照**：《Dungelot 2》2014-02因F2P实际真钱IAP、bug、玩家反弹短期下架，2014-05-21改经济系统重返App Store，2016由tinyBuild发行回premium/无IAP的《Dungelot: Shattered Lands》；中国《新剑侠传奇》2014-07激活与QA问题停销、2014-08-12 2.0重上，**其账号绑定“黑市币”官方明确不能直接充值**。不得写俄胜中国败、俄永不F2P，或把中国此例当真钱P2W。
+- **下一步分母**：Katauri核心成员2011—2020跨全职/外包/个人原型职业去向；Red Winter的2013—16实际净回款/发行费与国内停市修复后销量；云游实际峰值开发人力、外部孵化基金、2015—16投资和移植完成与否仍缺一手；区分IP、法人、作者、员工、现金流五个存活单位。
+
 ## D. 方法学检查
 
 每条重要命题都记：主张者/发生年份/涉及人群/分母/直接史料/冲突版本/当前证据级别/可证伪观察/2026时效。数字单位必须拆官方审计、经营者估计、媒体总量、单款项目预算与净回款。
