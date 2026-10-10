@@ -7,6 +7,8 @@
 - New case rows: [011 — 33 条具体作品生产模式、制作规模与来源 CSV](011-open-world-small-team-immersive-multiplayer-cohorts.csv)
 - Figures: [012 分2D/3D的开放世界/小团队多人/沉浸式模拟年代矩阵](012-openworld-system-production-era-map.svg)；[013 3D成本与内容取舍机制图](013-content-cost-substitution-mechanisms.svg)
 
+> **联网/多人独立研究参照：**[014 网络技术 × 延迟补偿 × MMORPG/射击/RTS/独立作者成熟化](014-network-regime-latency-compensation-and-genre.md)。多人PVP或Co-op的低资产成本与实时同步/服务器/反作弊成本分别计量。
+
 ## 0. 先看图：1980年代到2020年代出现的不是一条线
 
 ![2D/3D开放世界及独立多人、沉浸式模拟产品演化年代矩阵](012-openworld-system-production-era-map.svg)
