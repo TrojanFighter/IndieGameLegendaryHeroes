@@ -4,7 +4,7 @@
 - Research date: 2026-10-10
 - Scope: 公开游戏产业史；**不要掺入私人游戏项目技术或商业资料**。
 - Canonical preceding: [005 初始年代地图](005-game-production-capability-timeline.md) / [006 年观察](006-annual-observations-dictionary.md) / [007 品类技术路线](007-genre-production-diffusion.md) / [008 8轨图谱](008-audited-genre-capability-atlas.md)
-- New case rows: [011 — 30 条具体作品生产模式、制作规模与来源 CSV](011-open-world-small-team-immersive-multiplayer-cohorts.csv)
+- New case rows: [011 — 33 条具体作品生产模式、制作规模与来源 CSV](011-open-world-small-team-immersive-multiplayer-cohorts.csv)
 - Figures: [012 分2D/3D的开放世界/小团队多人/沉浸式模拟年代矩阵](012-openworld-system-production-era-map.svg)；[013 3D成本与内容取舍机制图](013-content-cost-substitution-mechanisms.svg)
 
 ## 0. 先看图：1980年代到2020年代出现的不是一条线
@@ -100,6 +100,14 @@
 | `Shadows of Doubt` | **2023-04-24 EA → 2024-09-26正式** | 程序生成城市、居民模拟、潜在证据、自由侦查 | [ColePowered 2018系统说明](https://colepowered.com/shadows-of-doubt-devblog-2-finding-the-game/)／[2024 1.0开发日志](https://colepowered.com/shadows-of-doubt-devblog-1-0/)：约8年开发，后来扩组并有Fireshine发行；**系统组合的复杂度引发大量bug和修补**。 |
 | `CORPUS EDAX` | **2024-09-05正式** | 第一人称近战、对话/潜行/暴力多路径、物理交互 | [Steam](https://store.steampowered.com/app/2017610/Corpus_Edax/)署名Luis G. Bento自发行；署名个人≠所有资产/服务全自行承担。 |
 | `Peripeteia` | **2025-02-21 EA**，不是已完成1.0 | 立体城市可攀爬、潜行、黑客、对话、不同进入路线 | [Steam](https://store.steampowered.com/app/1437760/Peripeteia/)当前自述5个任务、30+小时，数字可随补丁更新；Ninth Exodus团队独立发行，开发人数未核。 |
+
+### 4.1 截图视频的三项名单查漏：其中一部其实是2D，另一部尚未发行
+
+- **`Deadeye Deepfake Simulacrum`：2012? 不对。** 经商店核对，准确是 **2022-10-13 Early Access → 2025-09-18 1.0**；而且它是**2D俯视角射击＋黑客/时间操纵/程序装备的系统型游戏**，不是3D FPS。作者/发行均为 `nodayshalleraseyou`。它表明沉浸模拟复兴跨越2D/3D，美术维度与系统驱动不是一根轴。[Steam商店](https://store.steampowered.com/app/1545990/Deadeye_Deepfake_Simulacrum/)。
+- **`Ad Infernum`：2024-02-29 正式发行的第一人称恐怖/生存/沉浸模拟倾向作品**，Glass Knuckle Games开发与发行。商店证实产品而不证实一人制作；核心FTE记 UNKNOWN。[Steam商店](https://store.steampowered.com/app/1390070/)。
+- **`Sorceress`：到2026-10-10 Steam仍标 To Be Announced、仅提供Demo**，Wabbaboy开发及拟发行。它可以进入 `I_PROTO / UPCOMING` 能力证据池，却不能算已完成商业沉浸模拟，更不适合倒算2022视频发表当年的实际新作数。[Steam商店](https://store.steampowered.com/app/2168070/Sorceress/)。
+
+**视频在2022年同时讨论已上市、EA和将来可能上市的项目**，今后的视频引用至少要分 `public_demo / early_access / full_release / announced` 四类。此项已补入 [011案例CSV](011-open-world-small-team-immersive-multiplayer-cohorts.csv)。同一时间还有大量视觉不是3D但系统深度相似的游戏，独立沉浸模拟绝不能被狭义定义为3D。
 
 **1999年 `System Shock 2` 是一个强有力的方法控制组。** 当时三位创办人的早期原型借用已有 Dark Engine、外部合同美术，取得EA发行后才扩成15名全职加10–15兼职的正式项目；项目经理Jonathan Chey在原始复盘中明确写到他们避免直接和Half-Life竞争复杂脚本演出、高多边形图形，专注可反复发挥的规则。这个“技术基座复用—早期小组原型—根据资源定玩法—正式商业投入”的机制并非2020年代独游首次发明，而是**后来更加广泛可负担**。原始复盘 [PDF第32页（阅读器零起索引31，对应刊物页53）](https://media.gdcvault.com/GD_Mag_Archives/GDM_November_1999.pdf)，以及[GameDeveloper文字复刻](https://www.gamedeveloper.com/design/postmortem-irrational-games-i-system-shock-2-i-)。
 
