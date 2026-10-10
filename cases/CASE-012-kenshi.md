@@ -17,7 +17,7 @@ Kenshi 是“可持续时间比单笔融资更重要”的极端案例：创作�
 - 但他此前做过游戏程序工作，并非零经验；
 - 2008 左右离开旧工作，全职做 Kenshi，同时夜班保安维生；
 - 前五六年主要一人开发；
-- Steam Early Access / Greenlight 后收入足以招聘程序、美术、世界设计、PR/写作人员；
+- 自家网站的 alpha 销售已足以支持本人和自由职业协作者；Steam Early Access 后进一步组建团队；
 - 最终成功应研究为 **solo foundation → revenue-funded team expansion**，而不是“八年全程一人”。
 
 ## Runway
@@ -29,7 +29,7 @@ Chris Hunt 直接说：
 这使 CASE-012 成为 C002 最干净的案例之一：
 - runway 不是一次投资；
 - 是长期、低收入、可重复的夜班现金流；
-- 一旦 Early Access 能产生现金流，生产函数发生变化——从卖个人时间变成购买他人时间。
+- 自家网站的 alpha 销售已能支持本人并聘用自由职业者；Steam Early Access 随后扩大了养团队的收入基础。不能把两种早期销售合成同一个平台起点。
 
 ## Capability
 
@@ -58,6 +58,8 @@ Lo-Fi 官方资料补充：Hunt 早年曾做游戏程序员，但厌恶“cash-c
 
 官方 fact sheet 明确：2013 Steam Early Access 后，Kenshi 赚到足够资金组建小团队。
 
+Siliconera 2015访谈同时明确：此前自家网站的alpha销售已经支持本人及freelancers。Greenlight批准与EA上线应分开核验；E005在2012/2013之间存在内部歧义，暂不新增精确批准日期。
+
 这不是单纯“营销事件”，而是生产系统切换：
 > market access → revenue → headcount → production acceleration。
 
@@ -69,6 +71,12 @@ Lo-Fi 官方资料补充：Hunt 早年曾做游戏程序员，但厌恶“cash-c
 
 - E001 — Siliconera 2015 Chris Hunt interview：八年开发、前 5–6 年 solo + 夜班保安、EA 后扩团队。
 - E002 — Lo-Fi Games official fact sheet：早期职业程序员、2008 离职、2013 EA 后收入养团队。
+- E003 — GameSkinny 2017访谈：交出部分工作、模拟系统错误与受众反应。
+- E004 — 4Gamer 2018访谈：早期工作周、同期核心成员/自由职业协作者、日本传播与翻译。
+- E005 — PC Games Insider 2018访谈：更新压力、技术老化；Greenlight年份冲突保留。
+- E006 — Business 4Gamer 2018访谈：公开前休息、公开后持续忙碌、错误列表及反馈；标题与年份冲突不采用。
+- E007 — 2019本人AMA：约十八岁时会编程但不知怎样显示图形的回忆；同名网友的经历不属于Hunt。
+- E008 — 游研社2019中文访谈：续作技术动机与当时计划；两年发行估计不作后续履约事实。
 
 ## Open Questions
 
@@ -84,7 +92,7 @@ Lo-Fi 官方资料补充：Hunt 早年曾做游戏程序员，但厌恶“cash-c
 - **Audit status:** PARTIAL
 - **Life stage:** 已有职业程序经验后离开旧工作，进入多年 solo-dominant 开发；前五六年同时从事最低工资夜班保安工作。
 - **Household:** relationship / children / housing / family transfers `UNKNOWN`。
-- **Runway:** night-shift security salary 长期交叉补贴个人开发；2013 Steam Early Access 后，玩家收入开始转化为团队招聘与生产能力。
+- **Runway:** night-shift security salary 长期交叉补贴个人开发；自家网站alpha销售先支持本人和freelancers，Steam Early Access随后支持团队扩张。
 - **Household burn:** 精确金额 `UNKNOWN`；长期低工资 + 双重劳动说明时间与体力是重要隐形成本。
 - **Exit / recovery:** **MEDIUM** — 有游戏程序职业前史，但开发期持续多年、真实再就业选择与家庭安全网未公开；夜班本身提供最低现金下限。
 - **Capability vector:** professional programming / systems engineering 强；早期美术/表现与组织能力较弱；后续用收入补 art / world design / PR / writing。
