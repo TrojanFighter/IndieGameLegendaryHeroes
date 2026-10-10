@@ -1,0 +1,7 @@
+network_code,display_label,network_architecture_class
+S0,离线单人,NO_NETWORK
+C1,同机多人,LOCAL_SHARED_HARDWARE
+L2,局域网多人,LAN_SYNC
+O3,小会话在线,INTERNET_SESSION
+D4,权威／专用服务器,DEDICATED_OR_AUTH
+P5,持久在线服务,SERVICE_PERSISTENCE
