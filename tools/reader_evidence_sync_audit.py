@@ -25,10 +25,16 @@ ledger, not just the audit output.
 
 Exit status is 0 unless --strict is passed, and even then only drift from
 categories 1 and 2 counts.
+
+`--all` lists every P0/P1 candidate instead of the first 12; `--json` prints the
+same data as a stable, machine-readable queue (ledger filename, record ID, body
+length) so a later session can act on specific Evidence IDs rather than on the
+phrase "most ledgers are thin".
 """
 from __future__ import annotations
 
 import argparse
+import json
 import re
 from pathlib import Path
 
@@ -42,7 +48,10 @@ LONG_QUOTE_RE = re.compile(r'"[^"]{60,}"|“[^”]{20,}”')
 CASE_LINK_RE = re.compile(r"\(\.\./\.\./cases/(CASE-\d{3}[^)\s]*\.md)\)")
 LEDGER_LINK_RE = re.compile(r"\(\.\./\.\./evidence/(CASE-\d{3}[^)\s]*\.md)\)")
 EVIDENCE_HEADING_RE = re.compile(r"(?m)^## (E\d{3})\b[^\n]*$")
-SOURCE_CLASS_RE = re.compile(r"(?mi)^\s*-\s*(?:Source class|Class):\s*([^\n]+)")
+# Ledgers declare the tier as `- Class: ...`, `- Source class: ...`, and also in
+# bold (`- **Class:** ...`, seen in CASE-016 E020+).  Missing the bold form made
+# 18 records invisible to the P0/P1 queue, 15 of them declaring P0/P1.
+SOURCE_CLASS_RE = re.compile(r"(?mi)^\s*-\s*(?:\*\*)?(?:Source class|Class)(?:\*\*)?\s*:\s*([^\n]+)")
 
 
 def read(path: Path) -> str:
@@ -74,6 +83,8 @@ def is_primary_record(body: str) -> bool:
 def main() -> int:
     parser = argparse.ArgumentParser(description="reader/evidence sync audit")
     parser.add_argument("--strict", action="store_true", help="exit 1 when either hard category reports drift")
+    parser.add_argument("--all", action="store_true", help="list every P0/P1 candidate, not just the first 12")
+    parser.add_argument("--json", action="store_true", help="emit the whole queue as JSON instead of the human summary")
     args = parser.parse_args()
 
     profiles = sorted(p for p in PROFILES.glob("*.md") if p.name != "README.md")
@@ -130,6 +141,38 @@ def main() -> int:
     primary_no_quote = [item for item in no_quote if item[4]]
     thin_no_quote = [item for item in thin if not item[3]]
 
+    # A stable, complete queue: ordered by ledger filename then record ID, so the
+    # same IDs come out in the same order on every run and every Case is reachable
+    # (the previous first-12 slice always showed CASE-001 onward).
+    queue = [
+        {"ledger": name, "record": record_id, "body_chars": chars, "declares_primary": primary}
+        for name, record_id, chars, _, primary in primary_no_quote
+    ]
+
+    if args.json:
+        print(json.dumps(
+            {
+                "backlink_problems": backlink_problems,
+                "canonical_ledgers": len(ledgers),
+                "evidence_records": len(records),
+                "ledgers_with_detectable_quote": [p.name for p in ledger_with_quote],
+                "mean_record_body_chars": mean_density,
+                "primary_records_without_detectable_quote": len(primary_no_quote),
+                "profiles": len(profiles),
+                "records_under_700_chars": len(thin),
+                "records_without_detectable_quote": len(no_quote),
+                "source_refresh_queue": queue,
+                "thin_and_quote_free": len(thin_no_quote),
+                "year_drift": year_drift,
+            },
+            ensure_ascii=False,
+            indent=2,
+            sort_keys=True,
+        ))
+        if args.strict and (backlink_problems or year_drift):
+            return 1
+        return 0
+
     print("reader/evidence sync audit (report only, does not block merges)")
     print(f"profiles: {len(profiles)}, with backlink problems: {len(backlink_problems)}")
     for message in backlink_problems:
@@ -142,9 +185,12 @@ def main() -> int:
     print(f"  P0/P1 records without detectable long quote: {len(primary_no_quote)}")
     print(f"mean record-body length: {mean_density} chars; {len(thin)} records under 700 chars")
     print(f"  thin AND without detectable long quote: {len(thin_no_quote)}")
-    print("First 12 P0/P1 record-level source-refresh candidates (not a severity ranking):")
-    for name, record_id, chars, _, _ in primary_no_quote[:12]:
-        print(f"  - {name} / {record_id}: {chars} chars")
+    shown = len(queue) if args.all else min(12, len(queue))
+    print(f"P0/P1 record-level source-refresh candidates (showing {shown} of {len(queue)}; ledger/record order, not a severity ranking):")
+    for item in queue[:shown]:
+        print(f"  - {item['ledger']} / {item['record']}: {item['body_chars']} chars")
+    if shown < len(queue):
+        print("  (use --all to list every candidate, --json to consume the whole queue)")
     print("Heuristics only: quotes may be too short, misattributed or not checked against the original.")
     print("Re-read the original source before changing Evidence, Case or reader prose (EDITORIAL-GATE 0.6).")
 
