@@ -1,5 +1,7 @@
 # 008 — 游戏产业技术—产品生产能力分代：跨品类年度证据与三张读图（1958—2026）
 
+> **多人游戏范围与服务成熟度单独分代**：[015 — 同机派对、LAN、早期公网到全国性多人对战服务分代](015-local-lan-wan-national-multiplayer-production-regimes.md)。本机多人《Mario Kart 64》《Mario Party》《Smash》、早期CS/RTS的LAN与Internet并存、CF中国2008大规模在线商业化不是同技术阶段。[图](015-multiplayer-social-geography-regimes.svg)，避免把玩法相似当生产技术基础相同。
+
 - Status: **图表化研究版 / 仍非全市场作者量产数据库**
 - Snapshot: 2026-10-10
 - Repository lane: B — 公开历史研究，非任何私人游戏项目制作建议
