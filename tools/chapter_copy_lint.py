@@ -15,6 +15,16 @@ Two deliberate exceptions:
 - link labels: the end-of-chapter entry list names claims by their canonical
   English title, which may itself contain a backend word such as `runway`.
 
+`runway` is deliberately **not** banned.  `book/EDITORIAL-GATE.md` section 5
+lists `runway`, `scope`, `market access`, `capability capital` and
+`staged commitment` as terms a chapter *may* use, on the condition that the
+first occurrence explains what it means in plain language.  A banned-term
+check cannot judge "explained well enough", so banning the word would only
+push authors into synonym-substitution edits of an allowed term -- which the
+rewrite protocol's Pass A explicitly forbids.  What stays banned here is
+research-backend vocabulary (evidence tiers, pipeline statuses, tooling words)
+and the phrasing that frames a chapter as an audit rather than a story.
+
 Everything else in a chapter file is reader prose and is checked.  This tool
 does not judge style or readability; it only stops backend vocabulary from
 leaking back into the chapter layer.
@@ -46,7 +56,6 @@ BANNED_TERMS = (
     "Evidence Ledger",
     "DURABLE",
     "CONDITIONAL",
-    "runway",
     "证据增强",
     "承诺升级",
 )
