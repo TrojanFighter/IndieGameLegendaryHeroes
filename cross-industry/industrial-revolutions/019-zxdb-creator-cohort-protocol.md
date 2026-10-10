@@ -1,5 +1,8 @@
 # 019 — ZXDB：1982—1992逐年去重作者人数的可复核统计协议
 
+> **2026-10-10 实际结果更新：**本文件的SQLite抽取路线仍是备选研究协议；现已另用 [020 — GitHub Actions上的临时MariaDB全库实算](020-zxdb-1982-1992-measured-supply-and-genre.md) 完成[11年有机器型号过滤的ZX Spectrum个人署名数据](020-zxdb-1982-1992-yearly-credited-people.csv)，固定 [运行#38037611540](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/actions/runs/38037611540)。此前“只能设计提取协议不能执行”对020已过时；但严格 indie-Q 人数尚未核实。
+
+
 - Status: **EXTRACTOR COMMITTED — NOT EXECUTED ON SOURCE DB**
 - Updated: 2026-10-10
 - Tool: [019-zxdb-annual-author-cohort.py](019-zxdb-annual-author-cohort.py)
