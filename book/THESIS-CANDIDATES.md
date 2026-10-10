@@ -202,6 +202,13 @@ CASE-026 Brigador 又增加了另一条边界：这条链并不是走到“执�
 
 [中国038](../country-studies/china/038-education-maker-funnel-empirical-measurement-ceps-pisa-ggj.md)提供三重反压力：新加坡与韩国高创意测验分数和学业成绩共存，中国已存在CiGA与GGJ Next创作站点，人大CEPS已经有全国学校样本可以研究机会分配。然而这些资料均不能给出普通青年转成首个自定作品、二次制作和职业作者的同口径漏斗。TC-005保持`PROVISIONAL`，不许从东亚身份或考试分数直接推断创作者发生率。
 
+
+### TC-005 2026-10-10 第二轮反压力：创造力首先需要可探索的知识世界
+
+不应以PISA创造性思维高分否定“游戏设计参照系贫乏”的行业观察，因为OECD测的是短时**外部给定题目**下生成/评价/修改构想，而非完整游戏类型阅历及自发制作。但也不能把组合式创造贬成假创新；创新经常来自规则的跨语境重组、持续原型与试玩。
+
+[中国038第6节](../country-studies/china/038-education-maker-funnel-empirical-measurement-ceps-pisa-ggj.md#6-2026-10-10-修订创意题分数--游戏知识语料与设计范式掌握)增设五个区分量：`KNOWLEDGE DIET / GAME-DESIGN LITERACY / CROSS-DOMAIN TRANSFER / PROBLEM OWNERSHIP / REAL ARTIFACT + FEEDBACK`。并提出另一种循环：升学/实习履历导向可能让Game Jam由玩家/爱好者的探索通道变为外部给定的标准履历成果生产；已有公开培训/升学商业供给，但**普及率、作弊率、中外差异与教育净效应未测**。详见[OQ-024](../OPEN-QUESTIONS.md)。
+
 ## 使用规则
 
 1. 这里的句子不能在正文中被写成“研究已经证明”；
