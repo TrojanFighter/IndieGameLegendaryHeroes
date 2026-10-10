@@ -9,6 +9,7 @@
 - [BOOK-ARCHITECTURE](BOOK-ARCHITECTURE.md) — 三层出版结构与 Part / Chapter 规划
 - [EDITORIAL-MISSION](EDITORIAL-MISSION.md) — 全书编辑使命
 - [EDITORIAL-GATE](EDITORIAL-GATE.md) — reader layer 写作门槛
+- [Codex 接班任务｜2026-10-09 叙事与阅读体验样章改造](EDITORIAL-CODEX-HANDOFF-2026-10-09.md) — 三篇独立样章试验、结构剪辑、史实回读与 A/B 验收；任务待执行，非已批准正文
 - [HERO-PROFILE-DIMENSIONS](HERO-PROFILE-DIMENSIONS.md) — 人物形成维度
 - [TEMPORAL-VALIDITY](TEMPORAL-VALIDITY.md) — 历史成功经验的年份 / regime / 2026 时效门槛
 - [THESIS-CANDIDATES](THESIS-CANDIDATES.md) — 尚未升级成正式 Claim 的书级母题
