@@ -398,6 +398,10 @@ Square经验 → Mistwalker；
 
 [China 016](../china/016-creator-route-topology-from-66rpg-to-modern-bridges.md)补入66RPG、IGF China、GGJ、CiGA/indiePlay、腾讯创作赛、TapTap Spotlight与China Hero后，004的中日比较需要收紧：中国早在2005前后已经存在hobbyist route，2015后现代桥梁也明显增厚。日本当前真正可能领先的不是`ROUTE_COUNT`，而是部分路线的**历史连续、跨代积累与路线之间的稳定转换**。因此日本后续比较必须用`ROUTE_HALF_LIFE / ROUTE_SWITCHABILITY / ROUTE_REVERSIBILITY / SECOND_GENERATION_CREATOR_PRODUCTION`，不能再靠“日本有Comiket”本身推出结构优势。
 
+## 12.7 中国反向比较：现代creator-origin infrastructure已不弱于单个日本节点
+
+[China 021](../china/021-creator-to-infrastructure-conversion-coconut-hypergryph-coreblazer.md)显示，中国不但有社区/展会桥梁，也出现了成功开发公司外溢为长期投资孵化平台的路径。Hypergryph/COREBLAZER从2022起提供资金、办公、公司化、发行连接与第二作支持；到2026已形成近30个被投团队的公开规模。日本若仍存在结构优势，更应从Comiket/doujin/publisher等长期路网累积解释，而不能仅用Pocketpair Publishing这样的现代节点证明“日本有、中国无”。
+
 ## 13. Verdict
 
 当前日本线最强的新假说：
