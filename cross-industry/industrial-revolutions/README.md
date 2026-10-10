@@ -51,6 +51,8 @@
 
 - [016 — 中国1997—2010年实际联网能力：浩方、网吧、CF与韩美日宽带扩散](016-1997-2010-multiplayer-reach-and-market-infrastructure.md) — [中国网民/宽带接入人数图](016-china-network-reach-adoption.svg)／[韩美日固定宽带比较图](016-oecd-three-country-broadband-adoption.svg)；[中国1997—2010 CNNIC CSV](016-china-internet-access-users-1997-2010.csv)、[OECD固定宽带 CSV](016-oecd-fixed-broadband-three-countries-2003-2008.csv)、[网吧和运营商2005—2010证据 CSV](016-china-online-gaming-reach-service-evidence.csv)
 
+
+- [017 — UGC作者量产与可持续性：2024 Fortnite收益层级、2024—25 Roblox SEC DevEx](017-creator-economy-economic-viability.md) — 官方 **包含式**收入档、真实收款人数、财报费用与收入中位数，[Fortnite收益漏斗](017-fortnite-2024-creators-economic-funnel.svg)、[Roblox资格与收入图](017-roblox-2024-2025-creator-monetization.svg)；[原始作者/收入档CSV](017-platform-creator-payout-cohorts.csv)。
 ## 与《独立游戏英雄传说》的接口
 
 工业革命区研究“机会怎样出现”。
