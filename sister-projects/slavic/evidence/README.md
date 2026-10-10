@@ -2,7 +2,7 @@
 
 [姊妹篇入口](../README.md) · [独立篇研究档案](../../../cases/README.md)
 
-编号专题为 8 个；SLAVIC-007 另外保留两份并行矩阵稿，不作为新编号专题计数。完整文件归属见 [独立索引](../metadata/research-index.json)。
+编号专题为 17 个；SLAVIC-007 另外保留两份并行矩阵稿，不作为新编号专题计数。完整文件归属见 [独立索引](../metadata/research-index.json)。
 
 保留的并行稿：
 
@@ -12,9 +12,27 @@
 迁移只明确文件归属与计数，不裁决稿间事实差异，也不把并行稿合并成新结论；合稿须另做证据与口径审阅。下面既有专题入口保持不变。
 
 - Status: ACTIVE
-- Last updated: 2026-10-03
+- Last updated: 2026-10-07
 
 本页只索引已经开始正式证据摄取的产业谱系，不等于最终章节目录。
+
+## 本轮新增：俄罗斯产业/人物/失败生态（SLAVIC-009—017）
+
+以下九项为 **Evidence Topic**，并未升级为独立 Case、Claim 或书稿 Profile；其 H 级解释保留可证伪性。
+
+| 专题 | 研究对象 | 现阶段关键边界 |
+|---|---|---|
+| [SLAVIC-009 — 俄罗斯游戏市场生存制度](SLAVIC-009-russian-games-market-ecology-1991-2026.md) | 盗版、国内合法市场、1C/Buka/Akella、出口回本、在线转型 | 2003 行业口头估计不可代表2026；整个产业不等于单个项目 |
+| [SLAVIC-010 — 四人职业生命史与合作网络](SLAVIC-010-gusarov-krank-klimov-orlovskiy-career-network.md) | Gusarov、Krank、Klimov、Orlovskiy 的决策转折与组织关系 | Neodynamics 年代口径冲突；Nival/Ener1 双方争议保留 |
+| [SLAVIC-011 — 《Vseslav》未完成项目](SLAVIC-011-vseslav-unfinished-project-file.md) | 1997—2003 原版与 2009 年改造重启，项目未交付及能力留存 | “13年”不是同一版本连续开发；有资产不等于玩法被验证 |
+| [SLAVIC-012 — 苏联计算文化与系统设计](SLAVIC-012-soviet-computing-systems-legacy.md) | 帕基特诺夫1987、算法教育、四人专业背景及跨代假说 | 存在思想史证据，但直接传承仍属 H |
+| [SLAVIC-013 — Slavjank 变异与知识保存](SLAVIC-013-slavjank-mutation-selection-retention.md) | 玩家/发行商标签、低完成质量与刻意摩擦、失败样本分母 | 不能用 Steam 单一合集代表俄语游戏总体 |
+| [SLAVIC-014 — 中度数值通胀问题域谱系](SLAVIC-014-war-system-design-medium-inflation-lineage.md) | WoT、WT、Tarkov、Enlisted 的设计制度及作者原文理论接口 | 直接团队/技术传承、同一问题的趋同解、作者分析严格区分 |
+| [SLAVIC-015 — 1C 2005俄产项目团队五年命运](SLAVIC-015-1c-2005-russian-cohort-five-year-fates.md) | Apeiron、Gaijin、SkyFallen、PIPE、Nikita、G5、Akella等2005 cohort到2010的Premium/Online/mobile/collapse去向 | 只完成已核子集，不把1C“30款”硬凑成30/30；新增Cohort Replacement Rate假说 |
+| [SLAVIC-016 — 俄罗斯老兵密度与问题域工龄](SLAVIC-016-russian-veteran-density-domain-tenure.md) | 行业平均资历 vs 核心决策位老兵密度；Maddox、Orlovskiy、Kislyi、Gaijin、Dybowski、Koshutin、Owlcat等 | 否定“全行业都是老兵”；重点测VDRD/Hands-on/PDT而非平均年龄 |
+| [SLAVIC-017 — KRI 2004 Project Fair 19队新人母体](SLAVIC-017-kri-2004-project-fair-cohort-denominator.md) | 完整19队新人入口、组织存续下界、Project Fair→发行合同与人员留存待测 | 当前只报下界：2008+确认组织商业输出至少5/19，2014+至少4/19；大量UNKNOWN待补，禁止写成最终CMR |
+
+**仍待探索**：[俄罗斯篇研究缺口与反证议程](../research-backlog.md)。优先校验早期发行合同与项目净回款、KranX 实际经手项目全谱系、《Vseslav》双重失败的一手开发资料，以及匹配中国/中东欧的失败样本。
 
 ## 已建立 Evidence Ledger
 
