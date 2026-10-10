@@ -82,7 +82,7 @@ def main():
             LEFT JOIN labels l ON l.id=a.label_id
             LEFT JOIN labels owner ON owner.id=l.owner_id
             WHERE e.genretype_id IN (""" + placeholders + """)
-              AND m.text LIKE 'ZX-Spectrum%'
+              AND m.text LIKE 'ZX-Spectrum%%'
               AND r.release_year BETWEEN 1982 AND 1992
             ORDER BY r.release_year, e.id""", tuple(game_ids))
         records = cur.fetchall()
