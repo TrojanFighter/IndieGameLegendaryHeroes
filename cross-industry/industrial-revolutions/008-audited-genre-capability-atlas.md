@@ -6,6 +6,9 @@
 
 > **2026-10-10 作者经济量产层（Q）更新：**请先看 [017 — 2024 Fortnite创作者收益包含式漏斗与2024—2025 Roblox SEC真实现金兑换作者群](017-creator-economy-economic-viability.md)：Epic 原图的“≥$1M 37人”已经包含“≥$3M 14人”“≥$10M 7人”，不可误加成58人。
 
+> **1981—1984 作者市场早期量产调查：**[018 — 同期CGW 1982年81家发行商394款实报、APX 1981用户出版与版税机制](018-cgw-apx-1982-publisher-vs-indie-evidence.md)。**1982年81个发行主体≠81个独立开发者。**真实历史个人作者数已定义 [019 ZXDB原始关系库抽取协议](019-zxdb-creator-cohort-protocol.md)，当前尚未运行整库，不用发行商数代填。
+
+
 - Status: **图表化研究版 / 仍非全市场作者量产数据库**
 - Snapshot: 2026-10-10
 - Repository lane: B — 公开历史研究，非任何私人游戏项目制作建议
