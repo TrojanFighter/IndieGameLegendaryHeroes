@@ -215,6 +215,10 @@ CASE-026 已满足第一轮“强作者性 / 强产品执行但商业首发失�
 - `Indolphinity / 明末：渊虚之羽后续组织` — CHAT-RESEARCH + COMPARATOR：主创另立组织、IP/融资/全球发行关系，待事实链独立核验。
 
 
+### 同题材四作对照：英雄传说的研究入口
+
+**正样本是技术/体验定义，研究对照集则故意包含失败者，二者绝不能混同。** 四作比较必须同时保留：Blackwake（小型团队的船员与破坏闭环）、Blazing Sails（亲缘年轻团队的船战+大逃杀闭环）、Sea of Thieves（大型团队对同类循环的正向实现）、Skull and Bones（大团队仍未实现这些玩家互动的**负向对照**）。育碧《Black Flag》只提供历史技术/组织前史。比较的是可操作物件、船员岗位、战斗协作、返修/进水/登船，以及开发和市场的资源转换率；不可用“公司大”“引擎先进”代替体验证据，也不能把“失败反例不合格”误作“研究比较里不能出现”。详见[工业革命003§7](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)。
+
 ### 物理破坏技术窗口与主创关系谱系候选（2026-10-10）
 
 本小节为**候选池，不是新增正式CASE编号**。技术史主档见[工业革命003§6](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)，现有Landfall部分回到CASE-034/E009；不额外建立平行“21游戏主库”。
@@ -231,7 +235,7 @@ CASE-026 已满足第一轮“强作者性 / 强产品执行但商业首发失�
 | Mastfire Studios / Blackwake | [开发者2020正式版长篇复盘](https://steamcommunity.com/app/420290/allnews/)：Dakota 2013创意、Tyler论坛结识，2014首次KS失败、2015重新定位众筹获约AUD170k，2017 EA、2020 1.0，2020开发者自报EA累计>120万份；[Steam](https://store.steampowered.com/app/420290/)现免费是2024起状态 | **P0/P1重点人物候选**：Mods→论坛结盟→失败众筹→看主播玩发现喜剧性协作→重启产品定位→PUBG停机带来偶然主播流量→EA试错删除不讨好的模式→长线转免费。先审计两核心与外包外围、众筹开销、销量口径，不抢新Case编号 |
 | Sea of Thieves / Rare（非独立对照） | [官方2024-04-17公告](https://www.seaofthieves.com/news/40-million-players)累计跨平台玩家超4000万（**非销量**）；2018发行 | **同品类合格正样本（但不是indie统计样本）**：2019官方扩展了可定位修复的破洞、桅杆、锚机、舵轮损伤，支持真人岗位和登船；证明大团队也能完整实现此闭环。详见[2019年官方损伤更新](https://www.seaofthieves.com/release-notes/2.0)。收入、利润、开发人年UNKNOWN |
 
-**品类排除边界（不可作为上述海盗船破坏-船员互动的第四款正样本）**：Ubisoft《Skull and Bones》属于 OUT_OF_CATEGORY。2024首发评价指出缺少自由甲板走动、真人同船岗位、船体局部破损→定位抢修以及手动登船作战（[WorthPlaying](https://worthplaying.com/article/2024/2/27/reviews/140986-pc-review-skull-and-bones/) / [GameSpot](https://www.gamespot.com/reviews/skull-and-bones-review-dead-in-the-water/1900-6418186/)）；2025育碧[官方移除登船过场](https://www.ubisoft.com/en-us/game/skull-and-bones/news-updates/lwF6GtXbegdXvpbp2eE4h)并非补回登船操作。《Black Flag》2013有亲自登船，但属于单机海盗动作，不属于真人船员联网对战。两作只能作为**外部组织/产品取舍的边界反例**，不得进入物理破坏对战样本成功率或“同类四作”技术矩阵。
+**四作比较中的必要负面对照（非品类正样本）**：Ubisoft《Skull and Bones》属于 OUT_OF_CATEGORY，但**保留为Blackwake、Blazing Sails、Sea of Thieves、Skull and Bones四作研究矩阵的第四项**。它之所以必须参与比较，正是因为海盗船海战题材及庞大生产资源未转化为玩家可操作的船体破坏、维修、岗位协作和登船循环。2024首发评价指出缺少自由甲板走动、真人同船岗位、船体局部破损→定位抢修以及手动登船作战（[WorthPlaying](https://worthplaying.com/article/2024/2/27/reviews/140986-pc-review-skull-and-bones/) / [GameSpot](https://www.gamespot.com/reviews/skull-and-bones-review-dead-in-the-water/1900-6418186/)）；2025育碧[官方移除登船过场](https://www.ubisoft.com/en-us/game/skull-and-bones/news-updates/lwF6GtXbegdXvpbp2eE4h)并非补回登船操作。《Black Flag》2013有亲自登船，但属于单机海盗动作，不属于真人船员联网对战。《Skull and Bones》**必须参与四作跨组织能力/交互比较矩阵**，但不进入合格玩法品类的正样本数量或成功率分母；《Black Flag》作为历史对照但不计四作。对照组选择以**可实现的玩家操作系统**为轴，不因其非同类合格产品就把关键失败反例删除。
 
 
 外部AI生成的“样本表”已有多处作品/开发商误指认，与官方一手来源冲突；未经逐字段核对的数字不得导入Evidence、Case或metadata。参见[工业革命003§6](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)。
