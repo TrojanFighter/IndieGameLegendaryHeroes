@@ -193,3 +193,7 @@ OECD原始[2022创造性思维框架](https://www.oecd.org/en/publications/pisa-
 现在加上一个从前端到后端都不能省略的结构变量：**学生究竟接触过多少种值得研究的世界/产品/系统，是否有足够时间理解这些系统，而不是只学少数得分模板？**
 
 《独立游戏英雄传说》因此必须同时研究：`KNOWLEDGE DIET / INPUT DIVERSITY`、`GAME-DESIGN LITERACY`、`PROBLEM OWNERSHIP`、`ARTIFACT/FEEDBACK`、`CREDENTIAL INCENTIVE`。只有把这些分别量化，才能比较“高分创造性测验”与“原创游戏产品竞争力”之间真正的落差。
+
+## 7. 做出第一件作品后，谁能继续控制它？（2026-10-10）
+
+见[中国039](039-frontier-creator-support-authority-rights-and-incubation.md)：原来的Maker Conversion/F3–F6漏斗还需审计探索权、创意否决、预算、IP/续作、收益与退出权。Supercell Spark用16周Jam和组队评估团队而非单张履历；Roblox Jumpstart提供的主要是服务和平台资源而不是工资；Kowloon Nights/Indie Fund有具体、但不同的财务和IP安排。中国有Gamera与大学扶持的真实反例。**宣传扶持≠受支持者实际拥有权利≠长期独立续作的因果效果**。
