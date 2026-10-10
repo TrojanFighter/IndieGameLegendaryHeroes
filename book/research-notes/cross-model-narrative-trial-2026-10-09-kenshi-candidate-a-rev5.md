@@ -69,16 +69,17 @@ Kenshi 的前五六年，只有 Hunt 一个人在做。白天他把时间给游�
 
 ## 来源（不属于正文）
 
-1. **Chris Priestman / Siliconera，2015-08-30**（Ledger E001）：
-   - 单人期与收入顺序：`For the first five or six years, I worked alone on it full time whilst juggling a minimum wage security guard job during the nights to get by.`；`Before we got Greenlit in 2013, I was alpha funding it myself through my own website, which was enough to support myself and hire freelancers. Steam Early Access, however, has given me the funding I need to get a team together and make progress.`；`The only difficulty of Early Access is that we have to work under more pressure to keep the game steady and playable for the players while we work.`；`I even enjoy creating Kenshi more than I enjoy playing games themselves.`
-   - 设计立场：`I've never liked the hand-holding that most of the big RPGs give the player where you'll start off a hero, strong from the very beginning, nothing to fear. In Kenshi you start out as a normal runt with no special powers, no higher stats. You are not special, you are nothing, and even survival itself is a struggle.`（答“Kenshi 的核心概念是什么”）
-   - 2015 年团队名单：`During the last two years I've managed to grow a small team – Sam, our first programmer; Oli, our world designer; Natalie, our PR contact & writer; Otto, our 3D & concept designer; and Maykol, our second programmer.`
-2. **ESpalding / GameSkinny，2017-03-14**（Ledger E003）：佣兵轶事 `The biggest problem is the sheer chaos of a simulated world. For instance, a single mercenary in a town, looking for a bar. There was a tiny bug where they would sometimes pick a house instead of a bar, wander into this person's house and sit down. Then the house owner freaks out at this intruder, attacks him, then the town guard gets involved, then the mercenary's buddies get involved, and before you know it the whole town is having a civil war over a chair.`；放手 `It took me a while to gradually release control of things, like our programmer Sam, would ask "what shall I work on next?" and everything I thought of I was like "No, I better do that myself, only I know how it works". But pretty quickly I got addicted to the feeling of other people doing some of my work for me.`；引擎与起步年代 `Back when I started the only way to make a game was to learn C++ and cobble your own engine together out of parts.`；玩家不信任 `Over the years other alpha-funded games have gone under or been abandoned which has made players more distrustful, which puts more pressure on the rest of us.`
-3. **Lo-Fi Games，`Fact Sheet`**（机构历史页，无发布日）（Ledger E002）：`Chris Hunt, founder of Lo-Fi Games, spent his early 20s working as a game programmer but hated working on small cash-cow games… In 2008 he left, working on Kenshi full-time while working night shifts as a security guard to make just enough money to scrape by.`
-4. **徳岡正肇 / 4Gamer，2018-09-26**（Ledger E004）：前期每周两晚保安、五天开发；四名核心成员与两位自由职业者；自称保持最低薪水、经历困难时期。（回忆口径，无薪资数字。）
-5. **Natalie Clayton / PC Games Insider，2018-12-06**（Ledger E005）：更新间隔期与其他 Early Access 游戏被放弃之后的玩家不信任；反复引擎升级、更深改进需大重写。
-6. **一條貴彰 / Business 4Gamer，2018-10-02**（Ledger E006）：公开后持续忙碌；长长的 bug 清单与数千条评论可能令人气馁，但愤怒的 bug 反馈里也有有用原因。
-7. **Chris Hunt（Reddit 账号 Captain_Deathbeard）/ r/IAmA，2019-08-08**（Ledger E007）：约十八岁才弄明白怎么做游戏、此前已会编程。
+本条候选稿不重复转载采访原文。逐字引语统一保存在 [CASE-012 Evidence Ledger](../../evidence/CASE-012-kenshi-source-ledger.md) 的对应 E 记录中；下列只写出处、本文实际用到的要点与可核对链接。
+
+1. **Chris Priestman / Siliconera，2015-08-30**（E001）— https://www.siliconera.com/kenshis-eight-year-development-journey-from-one-man-rpg-to-a-teams-success/ ：单人期与夜班维生；自营网站 alpha 先于 Steam 的收入顺序；对大型 RPG 过度引导与开局强者设计的立场；2015 年团队五人与 Sam 的“第一位程序员”岗位排序。
+2. **ESpalding / GameSkinny，2017-03-14**（E003）— https://www.gameskinny.com/culture/behind-the-scenes-with-the-developers-of-kenshi/ ：佣兵误认民宅的 bug 连锁示例；学会交出控制权；起步年代只能自学 C++、自己拼引擎；其他 alpha 集资游戏被放弃后玩家更不信任。
+3. **Lo-Fi Games，`Fact Sheet`**（机构历史页，无发布日）（E002）— https://lofigames.com/press/ ：早期游戏程序员经历、厌恶小成本捞钱项目、2008 年离职、夜班保安维生。
+4. **徳岡正肇 / 4Gamer，2018-09-26**（E004）— https://www.4gamer.net/games/339/G033926/20180926049/ ：前期每周两晚保安、五天开发；四名核心成员与两位自由职业者；自称保持最低薪水、经历困难时期。（回忆口径，无薪资数字。）
+5. **Natalie Clayton / PC Games Insider，2018-12-06**（E005）— https://www.pcgamesinsider.biz/indie-interview/68200/surviving-steam-greenlight-and-decade-of-development-with-lo-fi-games-chris-hunt/ ：更新间隔期与其他 Early Access 游戏被放弃之后的玩家不信任；反复引擎升级、更深改进需大重写。
+6. **一條貴彰 / Business 4Gamer，2018-10-02**（E006）— https://business.4gamer.net/article/1810/18100201/ ：公开后持续忙碌；长长的 bug 清单与数千条评论可能令人气馁，但愤怒的 bug 反馈里也有有用原因。
+7. **Chris Hunt（Reddit 账号 Captain_Deathbeard）/ r/IAmA，2019-08-08**（E007）— https://www.reddit.com/r/IAmA/comments/cnmwen/comment/ewcgr1j/ ：约十八岁才弄明白怎么做游戏、此前已会编程。
+
+正文两处中文引语（Sam 那段、Hunt 对开局强者的立场）对应的英文原句，见 Ledger E001 / E003；本文不再抄录。
 
 **口径提示：** E001（2015）列出的五名团队成员与 E004（2018）的四名核心成员不是同一时点的名单，正文只用其中“第一位程序员”这一岗位排序，未列人数。
 

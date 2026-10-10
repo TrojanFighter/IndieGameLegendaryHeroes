@@ -23,22 +23,25 @@ Chris Hunt states:
 - he states a design preference against the hand-holding of most big RPGs that begin with an already-strong hero (added 2026-10-11);
 - he names the 2015 team individually and calls Sam the team's first programmer (added 2026-10-11).
 
-Direct quote (verbatim, re-read 2026-10-09):
+Direct quote (short extract, re-read 2026-10-09 and 2026-10-11):
 
-> "I wouldn't be able to fund Kenshi's development without Early Access. Before we got Greenlit in 2013, I was alpha funding it myself through my own website, which was enough to support myself and hire freelancers. Steam Early Access, however, has given me the funding I need to get a team together and make progress."
+> "Before we got Greenlit in 2013, I was alpha funding it myself through my own website, which was enough to support myself and hire freelancers."
 
-Design intent (verbatim, added 2026-10-11; page re-read directly from the URL above):
+- The rest of that answer is paraphrased here instead of quoted: Steam Early Access then gave him the funding to get a team together and make progress. Full text at the URL above.
 
-- Answering "What would you say is the concept at the center of Kenshi?":
+Design intent (short quotation, added 2026-10-11; page re-read directly from the URL above):
 
-> "I've never liked the hand-holding that most of the big RPGs give the player where you'll start off a hero, strong from the very beginning, nothing to fear. In Kenshi you start out as a normal runt with no special powers, no higher stats. You are not special, you are nothing, and even survival itself is a struggle."
+- Answering "What would you say is the concept at the center of Kenshi?", Hunt rejects a genre convention:
 
+> "I've never liked the hand-holding that most of the big RPGs give the player where you'll start off a hero, strong from the very beginning, nothing to fear."
+
+- The rest of that answer is paraphrased here instead of quoted: Kenshi starts the player as an ordinary weakling with no special powers and no higher stats, for whom survival itself is a struggle. Full text at the URL above.
 - Boundary: this is a design preference about *most big RPGs* as a matter of genre and scale, not a claim about studios by company size, and not an audited statement about how those games shipped. Keep "many big RPGs" distinct from "big studios".
 
-Team roster (verbatim, same interview, same answer as the funding quote above):
+Team roster (same interview, same answer as the funding quote above; one short quotation, the rest paraphrased):
 
-> "During the last two years I've managed to grow a small team – Sam, our first programmer; Oli, our world designer; Natalie, our PR contact & writer; Otto, our 3D & concept designer; and Maykol, our second programmer."
-
+- Team as named in 2015: Sam (first programmer), Oli (world designer), Natalie (PR contact and writer), Otto (3D and concept designer), Maykol (second programmer).
+- Only the role ordering is quoted: `Sam, our first programmer`.
 - Boundary: "first programmer" orders roles inside the team as it stood in 2015. It does not establish Sam as the first team member or the first employee.
 - This is the 2015 roster (five named people). E004 (2018) names four core members plus two freelancers. Do not merge the two rosters, and do not read either as lifetime headcount.
 
@@ -47,7 +50,7 @@ Correction note (2026-10-11):
 - Rule this records: a reader-layer edit that finds no support in a ledger summary has **not** established that the source lacks it. The question goes back to Lane B. Both nodes and their quotes are inline now, so the same deletion cannot happen silently again.
 
 Correction note (2026-10-09):
-- An earlier summary of this evidence ended at "after Steam Early Access he could afford additional manpower" and dropped the pre-Steam own-site stage. Reader-layer prose built on that summary then made Steam the first revenue that funded production. The verbatim answer above shows the order: own-site alpha (self + freelancers) first, Steam (team) second. The quote is kept inline so the node cannot be summarised away again.
+- An earlier summary of this evidence ended at "after Steam Early Access he could afford additional manpower" and dropped the pre-Steam own-site stage. Reader-layer prose built on that summary then made Steam the first revenue that funded production. The short extract above keeps the pre-Steam stage in the record, and the paraphrased line keeps the second stage, so the order cannot be summarised away again.
 
 Supports:
 - C002: sustainable recurring income can be more important than a single financing event.
