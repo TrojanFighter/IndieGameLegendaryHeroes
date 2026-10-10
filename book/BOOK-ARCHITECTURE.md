@@ -366,6 +366,12 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 - [047 — 体验资本转换的七道 Gate](research-notes/experience-capital-creator-conversion-gates-047.md)：把“玩得多”与“知道问题、做出原型、迭代、收回成本、再做一次”逐层区分；固定起点样本与未入场者关系比成功者名录更重要。
 - 这两篇是**研究层桥接笔记**，不是完成后的书稿 Chapter；原有中国 017–021、AC-004/005 与 OQ 已有详细专题，不平行复制。后续只有在外部 Case / Evidence 足以讲清人物抉择后才提炼为章节。
 
+### 2026-10-10：旧组织能支持自己不懂的新范式吗？
+
+[中国039跨国制度研究](../country-studies/china/039-frontier-creator-support-authority-rights-and-incubation.md)把“英雄尚未出发”延伸到已经开始创作后的另一道门：拥有旧范式资历与资金的人，未必具有判断新玩法的实务知识，却仍能控制课程、预算、IP、创意否决和退出。必须区分基础技能/方法教学、玩法专业判断、资金后台支持和作品所有权。
+
+对照：2017 Bluehole识别并引入MOD作者Brendan Greene，但金昌汉本人也已经看中大逃杀机会；2026 Supercell团队自治与Spark、失败项目Squad Busters；Kowloon Nights资金与IP条款；2011上海交大支持学生创业与2021 Gamera微团队发行扶持。**个案不能直接证明学校或企业在总体上哪个更保守；也不能把资方自述当已经测量的效果。**
+
 ## 横向研究入口 — 谁有资格告诉强作者“你错了”？
 
 - [042 — Carmack × Romero：互补能力如何变成高频纠错网络](research-notes/carmack-romero-complementary-error-correction-network-042.md)：Dangerous Dave技术突破的战略解释、Wolf3D push-wall争执、Doom design↔engine翻译、Quake纠错延迟，以及Tom Hall/市场作为第三方反压力。
