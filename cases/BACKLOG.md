@@ -214,6 +214,23 @@ CASE-026 已满足第一轮“强作者性 / 强产品执行但商业首发失�
 - `Grasshopper Manufacture` — CHAT-RESEARCH + COMPARATOR：外部资本阶段性利用、重新独立、自发行 know-how 内化。
 - `Indolphinity / 明末：渊虚之羽后续组织` — CHAT-RESEARCH + COMPARATOR：主创另立组织、IP/融资/全球发行关系，待事实链独立核验。
 
+
+### 物理破坏技术窗口与主创关系谱系候选（2026-10-10）
+
+本小节为**候选池，不是新增正式CASE编号**。技术史主档见[工业革命003§6](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)，现有Landfall部分回到CASE-034/E009；不额外建立平行“21游戏主库”。
+
+| 候选 | P0来源事实种子 | 人物/组织研究问题及状态 |
+|---|---|---|
+| Nolla Games / Noita / Baba Is You | [Noita Steam](https://store.steampowered.com/app/881100/Noita/)列三创始人Petri Purho、Olli Harjola、Arvi Teikari及各自前作 | 芬兰个人作者何以跨项目协作，2017前的能力/原型/资金路径；P0 SEED，完整团队边界UNKNOWN |
+| Get Up Games / Blazing Sails | [开发者Press Kit](https://www.blazingsails.com/presskit)载三表兄弟创始：Frederic Degraeve、Christophe Degraeve、Gaetan Thibaut；同在Howest就读，前二人毕业继续业余原型、Gaetan赴国外AAA公司工作后加入，较年轻亲戚Gauthier后加入；[Steam](https://store.steampowered.com/app/1158940/Blazing_Sails/)EA 2020-09-09、1.0 2023-11-13 | 亲缘信任、职业积累、技能互补、VAF扶助、Epic MegaGrants和Iceberg发行外围；具名关系P0，具体毕业年份/预算/收益UNKNOWN |
+| Tuxedo Labs / Teardown | [Steam](https://store.steampowered.com/app/1167630/Teardown/)及[开发者多人技术复盘](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html) | 自研技术前沿→EA→商业团队扩大→Mod/多人迁移；核心人数与累计协作者分开；P0 SEED |
+| Radiangames / Instruments of Destruction | [Steam](https://store.steampowered.com/app/1428100/Instruments_of_Destruction/)证实2022-03-02 EA与2024-05-10正式版 | Red Faction老兵技术资本、玩家的“建造负担”与“直接破坏”满足差异；商业回顾需审计原始统计口径；P0 SEED |
+| Rigs of Rods → BeamNG.drive | [BeamNG官方](https://beamng.com/game/)详述节点梁软体技术 | 开源社群与商业产品的具体贡献者/代码许可/职业迁移需要逐人证明；TECHNICAL SEED / PEOPLE UNVERIFIED |
+| Space Engineers / Besiege / Brick Rigs | [Brick Rigs Steam](https://store.steampowered.com/app/552100/Brick_Rigs/)证实2016 EA | 2013–16独立3D工程/可破坏物理商业化早于2020 Teardown；可作为同期对照，但不能等同同技术堆栈 |
+| Knightfall: A Daring Journey | [Landfall官方Press Kit](https://landfall.se/knightfall-a-daring-journey-press-kit)五周开发、2022-04-01、五名具名角色；[Steam](https://store.steampowered.com/app/1911390/Knightfall_A_Daring_Journey/)免费 | **仅指向CASE-034，不新建CASE**。以实验指标而非商业销售断言成功/失败 |
+
+外部AI生成的“样本表”已有多处作品/开发商误指认，与官方一手来源冲突；未经逐字段核对的数字不得导入Evidence、Case或metadata。参见[工业革命003§6](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)。
+
 ## 玩法与市场深研中出现、但暂不宜升级为人物生产史 Case 的对象
 
 以下条目来自既往竞品/新品/行业深研。保留它们是为了避免旧论据遗失，但**“被拿来做玩法或市场比较”不等于适合写进本书人物主线**：
