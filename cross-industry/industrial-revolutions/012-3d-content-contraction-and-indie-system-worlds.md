@@ -103,7 +103,7 @@
 
 ### 4.1 截图视频的三项名单查漏：其中一部其实是2D，另一部尚未发行
 
-- **`Deadeye Deepfake Simulacrum`：2012? 不对。** 经商店核对，准确是 **2022-10-13 Early Access → 2025-09-18 1.0**；而且它是**2D俯视角射击＋黑客/时间操纵/程序装备的系统型游戏**，不是3D FPS。作者/发行均为 `nodayshalleraseyou`。它表明沉浸模拟复兴跨越2D/3D，美术维度与系统驱动不是一根轴。[Steam商店](https://store.steampowered.com/app/1545990/Deadeye_Deepfake_Simulacrum/)。
+- **`Deadeye Deepfake Simulacrum`：** 核验年份为 **2022-10-13 Early Access → 2025-09-18 1.0**；而且它是**2D俯视角射击＋黑客/时间操纵/程序装备的系统型游戏**，不是3D FPS。作者/发行均为 `nodayshalleraseyou`。它表明沉浸模拟复兴跨越2D/3D，美术维度与系统驱动不是一根轴。[Steam商店](https://store.steampowered.com/app/1545990/Deadeye_Deepfake_Simulacrum/)。
 - **`Ad Infernum`：2024-02-29 正式发行的第一人称恐怖/生存/沉浸模拟倾向作品**，Glass Knuckle Games开发与发行。商店证实产品而不证实一人制作；核心FTE记 UNKNOWN。[Steam商店](https://store.steampowered.com/app/1390070/)。
 - **`Sorceress`：到2026-10-10 Steam仍标 To Be Announced、仅提供Demo**，Wabbaboy开发及拟发行。它可以进入 `I_PROTO / UPCOMING` 能力证据池，却不能算已完成商业沉浸模拟，更不适合倒算2022视频发表当年的实际新作数。[Steam商店](https://store.steampowered.com/app/2168070/Sorceress/)。
 
