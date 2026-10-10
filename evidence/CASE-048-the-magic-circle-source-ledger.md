@@ -124,6 +124,28 @@
 - Confidence: HIGH.
 - Boundary: period report, no lifetime P&L or outcome probabilities.
 
+## E011 — The Blackout Club 平台记录（Steam）
+
+- Source class: P0 — platform listing.
+- Title: The Blackout Club — Steam store.
+- Author / Institution: Valve / Steam；商店字段由 Question 提供。
+- Published: UNKNOWN（动态页面；发售日记为 2019-07-29）。
+- Accessed: 2026-10-09。
+- URL: https://store.steampowered.com/app/599080/The_Blackout_Club/
+- API: https://store.steampowered.com/api/appdetails?appids=599080&l=english
+
+Source-derived facts:
+- 发售日 2019-07-29（Steam appdetails 的 release_date）。
+- Developer 与 Publisher 均记为 Question（自发）。
+
+Claim use:
+- 为 reader layer 中“2019 年推出《The Blackout Club》”这一断言补上平台级依据。此前本 ledger 最晚只到 2018（E008 / E010），正文比证据层多出一年。
+
+Boundary:
+- 商店字段确认的是平台发售日与自研自发关系，不说明销量、营收或团队规模。
+- 2018 年的 Early Access 与 2019 年的正式发售是**两个不同节点**，不得合并成一次“发布”。
+- 2019 之后是否有其他版本或平台，本条不作断言。
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED

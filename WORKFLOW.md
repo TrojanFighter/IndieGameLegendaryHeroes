@@ -168,6 +168,7 @@ python tools/research_evidence_lint.py
 python tools/context_audit_lint.py
 python tools/case_maturity.py --check
 python tools/reader_layer_lint.py
+python tools/chapter_copy_lint.py
 python tools/explorer_lint.py
 ```
 
@@ -196,6 +197,20 @@ python -m http.server 8000
 
 ```text
 http://localhost:8000/explorer/
+```
+
+### 本地打开阅读页
+
+`reader/` 是 `book/` 的阅读视图，同样只消费正文 Markdown，不复制内容：
+
+```bash
+python -m http.server 8000
+```
+
+然后访问：
+
+```text
+http://localhost:8000/reader/
 ```
 
 ### 手动 Source Health

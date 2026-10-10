@@ -1,5 +1,7 @@
 .obsidian/
 .smart-env/
+# Reasonix agent runtime state: background-task snapshots and pasted attachments.
+.reasonix/
 # Obsidian's initial welcome note in the locally created nested vault.
 /IndieGameLengendaryHeroes/欢迎.md
 __pycache__/

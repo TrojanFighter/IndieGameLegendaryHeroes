@@ -14,7 +14,7 @@
 - Gunpoint：工资工作 / sabbatical 把大部分开发风险延后；
 - Stardew Valley：兼职 + 伴侣收入支撑多年开发；
 - Dwarf Fortress：玩家捐赠把一次性储蓄 fallback 转成长期 full-time runway；
-- Kenshi：最低工资夜班维持多年，EA 收入再转为团队工资；
+- Kenshi：最低工资夜班维持多年；自营网站 alpha 销售已能养活本人与 freelancers，EA 收入再把协作转为团队编制；
 - Into the Breach：FTL 的成功没有被自动兑换成扩编，而是变成数年低 burn、长原型期和可大量删改的时间选择权；
 - Escape from Tarkov：Contract Wars 先产生 FPS/Unity 能力和继续开发所需资金，之后官网预购 / 测试资格又承担一部分长期开发现金流；
 - despelote：学生/孵化器阶段、Ecuador IFCI、Microsoft DAP、freelance bridge 与 Panic financing 串成多段 runway；其中 DAP 的关键价值不是覆盖总预算，而是在资金耗尽时恢复 full-time 并生产 publisher-pitch vertical slice。
@@ -42,7 +42,7 @@ Escape from Duckov 又给出一个“团队压缩”版本：五人核心并非�
 - Gunpoint：工资 runway + GameMaker + revenue-share remote collaborators；
 - Project Wingman：UE4 + online learning + public alpha + crowdfunding；
 - Dwarf Fortress：text representation + patronage；
-- Kenshi：night job + EA revenue-funded team expansion；
+- Kenshi：night job + own-site paid alpha + EA revenue-funded team expansion；
 - R.E.P.O.：前作收益再投资 + Unity/Photon + 更短 failure loop；
 - Into the Breach：把第一次成功兑换成低 burn、延迟承诺和长时间 design search，而不是立刻扩大固定成本；
 - Escape from Tarkov：先用 Contract Wars 同时支付技术学费、团队磨合和下一阶段资金，再成立专门组织承担更激进产品；

@@ -119,7 +119,7 @@
 | [CASE-009](cases/CASE-009-project-wingman.md) | **Project Wingman / Sector D2** | 小团队挑战成熟品类、引擎/社区/众筹 |
 | [CASE-010](cases/CASE-010-undertale.md) | **Undertale / Toby Fox** | UGC、音乐与社区前史如何形成能力资本 |
 | [CASE-011](cases/CASE-011-lethal-company.md) | **Lethal Company / Zeekerss** | Roblox→多次发售→Patreon/playtest→爆款 |
-| [CASE-012](cases/CASE-012-kenshi.md) | **Kenshi / Lo-Fi Games** | 夜班工资、极长个人时间资本、EA 后扩团队 |
+| [CASE-012](cases/CASE-012-kenshi.md) | **Kenshi / Lo-Fi Games** | 夜班工资、极长个人时间资本、自营 paid alpha、EA 后扩团队 |
 | [CASE-013](cases/CASE-013-rise-of-the-white-sun.md) | **Rise of the White Sun** | 系统抽象、历史研究与外围协作如何压成本 |
 | [CASE-014](cases/CASE-014-minecraft.md) | **Minecraft / Markus Persson → Mojang** | 周末原型、付费 Alpha、公开开发、自融资 |
 | [CASE-015](cases/CASE-015-hollow-knight.md) | **Hollow Knight / Team Cherry** | jam→Kickstarter，家庭收入/储蓄/基金共同构成 runway |

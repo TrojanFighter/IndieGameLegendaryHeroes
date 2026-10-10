@@ -104,7 +104,7 @@ Francis 已能用现成工具验证玩法，重造引擎会增加另一笔成本
 - [Gunpoint / Tom Francis：当工具扩散以后，判断为什么仍然稀缺](../profiles/gunpoint.md)
 - [PLAYERUNKNOWN / Brendan Greene：研究档案](../../cases/CASE-032-pubg-brendan-greene.md)
 
-PLAYERUNKNOWN 当前还没有正式 Profile；本章只使用 CASE-032 / Evidence Ledger 已支持的生产谱系，不为其补写完整人物传记。
+PLAYERUNKNOWN 当前还没有完整的人物档案；本章只使用已核实来源支持的生产谱系，不为其补写完整人物传记。
 
 ## 继续读技术史
 

@@ -22,6 +22,17 @@
   - 这是核心开发者自述，不是 contributor credits audit；
   - “均由我一个人”不能自动排除音乐、配音、商用素材、QA、发行等外围 contributors。
 
+Direct quotes (verbatim, 原文重读 2026-10-09；经 Steam ISteamNews API 取回 gid=5746109972551802070):
+
+开发者自述（第一人称）:
+- “游戏在2018年就已经立项了。游戏全部的策划-程序-极其简单的美术等杂七杂八的工作，均由我一个人业余时间独立完成，历经5年时间，现在终于到了能和玩家见面的时候。”
+- 对受众的称呼本身即产品语言：“Hi 各位‘氪佬’们大家好。”
+- 自我定位：“游戏定位为小品级抽象、整活、搞笑、模拟类游戏，希望游戏可以给大家带来会心一笑的欢乐体验~”
+
+Boundary additions:
+- 用“氪佬”指称受众是自嘲式的市场语言，不是玩家构成数据。
+- “均由我一个人”仍属核心开发者自述，不构成 contributor audit；音乐、配音、商用素材、QA 与发行仍可能有外部贡献。
+
 ## E002 — 原二手页面失效（待核）
 
 - Source class: H — unverified research-intake lead。
@@ -96,6 +107,28 @@
   - 普通读者无法通过公开 URL 独立复核，引用时必须保留 personal communication provenance；
   - 不证明具体任职年份、参与项目、职级、是否承担制作人/策划职责、离职原因；
   - 若未来出现公开采访、credits 或履历，应追加公开 corroboration，而不是把本条改写成公开网页证据。
+
+## E007 — Steam 官方公告档案：销量节点与更新节奏
+
+- Source class: P0 — 官方公告档案（经 Steam ISteamNews API 逐条取回，非网页抓取）。
+- Title: 《中国式网游》Steam 官方公告档案（含 2024-11-28“销量突破:40W+”等公告）。
+- Author / Institution: 项目官方公告 / Valve Steam 平台承载；正文由项目方发布。
+- Published: UNKNOWN（档案含多篇；本次取回最早至 2024-08-14）。
+- Accessed: 2026-10-09。
+- URL: https://api.steampowered.com/ISteamNews/GetNewsForApp/v2/?appid=1416920&count=300&maxlength=0
+- Returned: 74 条公告条目。
+
+Source-derived facts:
+- 2024-11-28 公告标题载明“销量突破:40W+ 回馈——新史低、免费DLC、免费手游版本”。
+- 2024-09-27 与 2024-12-20 两次以**免费 DLC** 形式推出大更新（“爽文模式”“彩票模式”）。
+- 2024-08 至 2024-12 之间公告密度很高，含多条“《中国式网游》开发者日志”（坐骑、换装、帮派建设等）。
+- 2025-07-23 一周年公告标题为“感谢所有氪佬”。
+
+Boundary:
+- 公告是营销材料；“40W+”为官方口径，未经审计，也不区分本体与 DLC。
+- 公告密度不证明更新质量、留存或口碑。
+- 该 API 可复现，比抓取 Steam 新闻网页稳定（网页为客户端渲染）。
+- 本条记录的是**平台公告**，与 E001 的开发者第一人称自述不是同一类材料，不能互相替代。
 
 ## Unresolved evidence gap — prior industry career
 

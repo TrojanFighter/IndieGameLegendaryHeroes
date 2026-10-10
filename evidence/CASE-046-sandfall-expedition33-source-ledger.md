@@ -91,3 +91,21 @@
 - Claim use: confirms 2025-04-24 release and >5-year development framing.
 - Confidence: HIGH.
 - Boundary: post-success studio narrative.
+
+## Fetch status — re-read attempt 2026-10-09
+
+Attempted to re-read the primary sources. Results:
+
+- `unrealengine.com` (E002, E003): **403** to direct fetch; the archive.org copy returns a JavaScript shell — 249KB of markup containing 6 paragraphs of text, no interview body. Not recoverable this way.
+- `magazine.reallusion.com` (E001): **403** direct; archive.org returned **429** at the time of the attempt.
+- `sandfall.co` (E004, E005, E008): reachable, but renders client-side (614KB of markup, 7 paragraphs of text).
+- `mobygames.com` (E006) and `kepler-interactive.com` (E007): not attempted; both are structured listings rather than narrative sources.
+
+Consequence: **E001–E003 carry the narrative and none of them could be re-read.** Their summaries therefore remain unverified against their originals, and this Case could not be enriched by the method that worked for CASE-004, CASE-015, CASE-017, CASE-041 and CASE-044. This is a source-access failure, not a finding that the Case is thin on purpose.
+
+What would work instead:
+
+- a browser-captured archive copy (the pages need JavaScript to render);
+- a print or syndicated reprint of the Epic/Unreal interviews;
+- a Chinese- or French-language interview with the developers that quotes them directly;
+- and, for E001, the Reallusion page retried at some later time, since only rate-limiting blocked it.

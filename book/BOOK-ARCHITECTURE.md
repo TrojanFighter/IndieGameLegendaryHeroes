@@ -414,6 +414,10 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 
 正文不出现 P0 / P1 / S1、RESEARCHING、lint、metadata 等后台术语，除非该术语本身是叙事对象。
 
+唯一例外是各章末尾的时效性卡。它是全书统一的结构化区块，状态列沿用 [TEMPORAL-VALIDITY.md](TEMPORAL-VALIDITY.md) 定义的规范标签（`DURABLE` / `CONDITIONAL`），并由同表「今天保留什么」一列向读者解释其含义。这些标签只允许出现在该卡的表格内；一旦写进正文段落就仍算泄漏，读者层不应要求读者先掌握后台评级词汇。
+
+`tools/chapter_copy_lint.py` 在 CI 中执行这条边界：豁免只覆盖时效性卡区块内的表格行与链接标题。
+
 ---
 
 # 人类读物与“成功学”的边界

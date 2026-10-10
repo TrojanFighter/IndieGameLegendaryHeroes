@@ -1,0 +1,215 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>独立游戏英雄传说 · 阅读</title>
+<style>
+:root{--bg:#faf9f6;--fg:#1c1b19;--muted:#6b6660;--line:#e5e1d9;--accent:#315b8a;--quote:#f2efe9}
+@media(prefers-color-scheme:dark){:root{--bg:#16161a;--fg:#e8e6e1;--muted:#9a958d;--line:#2c2c31;--accent:#8ab4e8;--quote:#1e1e23}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font-size:17px;line-height:1.88;
+font-family:"Iowan Old Style","Songti SC","Source Han Serif SC",Georgia,"Noto Serif CJK SC",serif}
+#bar{position:sticky;top:0;z-index:10;display:flex;gap:12px;align-items:center;padding:10px 16px;
+background:var(--bg);border-bottom:1px solid var(--line);font-family:ui-sans-serif,system-ui,sans-serif;font-size:13px}
+#bar button{font:inherit;color:var(--accent);background:none;border:1px solid var(--line);border-radius:7px;
+padding:5px 10px;cursor:pointer}
+#bar button:hover{border-color:var(--accent)}
+#bar button:disabled{opacity:.35;cursor:default;border-color:var(--line)}
+#title{flex:1;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;color:var(--muted)}
+.prose{max-width:46rem;margin:0 auto;padding:36px 22px 96px}
+.prose h1{font-size:1.8em;line-height:1.32;margin:.1em 0 .9em}
+.prose h2{font-size:1.32em;line-height:1.4;margin:2.4em 0 .7em}
+.prose h3{font-size:1.1em;margin:1.9em 0 .5em}
+.prose h4{font-size:1em;margin:1.6em 0 .4em;color:var(--muted)}
+.prose p{margin:0 0 1.15em}
+.prose a{color:var(--accent);text-decoration:none;border-bottom:1px solid color-mix(in srgb,var(--accent) 35%,transparent)}
+.prose a:hover{border-bottom-color:var(--accent)}
+.prose hr{border:0;border-top:1px solid var(--line);margin:2.6em 0}
+.prose ul,.prose ol{padding-left:1.4em;margin:0 0 1.2em}
+.prose li{margin:.3em 0}
+.prose blockquote{margin:1.4em 0;padding:2px 0 2px 16px;border-left:3px solid var(--line);color:var(--fg);background:var(--quote)}
+.prose code{font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:.88em;background:var(--quote);padding:.12em .35em;border-radius:4px}
+.tablewrap{overflow-x:auto;margin:1.4em 0}
+.prose table{border-collapse:collapse;width:100%;font-size:.88em;font-family:ui-sans-serif,system-ui,sans-serif}
+.prose th,.prose td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+.prose th{background:var(--quote);font-weight:600}
+#foot{max-width:46rem;margin:0 auto;padding:0 22px 60px;color:var(--muted);
+font-family:ui-sans-serif,system-ui,sans-serif;font-size:12px}
+.err{border:1px solid #efc6c0;background:#fff0ef;color:#7f2821;border-radius:10px;padding:16px;font-family:ui-sans-serif,system-ui,sans-serif;font-size:14px;line-height:1.7}
+@media(prefers-color-scheme:dark){.err{background:#2a1a18;border-color:#5a3330;color:#f0c8c2}}
+@media(max-width:560px){body{font-size:16px}.prose{padding:24px 16px 72px}#bar{flex-wrap:wrap;gap:8px}}
+</style>
+</head>
+<body>
+<header id="bar">
+  <button id="toc">目录</button>
+  <span id="title"></span>
+  <button id="prev">←</button>
+  <button id="next">→</button>
+</header>
+<main id="main" class="prose"></main>
+<footer id="foot"></footer>
+<script>
+const RAW_BASE='https://raw.githubusercontent.com/TrojanFighter/IndieGameLegendaryHeroes/main/';
+const HOME='book/README.md';
+const $=id=>document.getElementById(id);
+const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#039;'}[c]));
+
+function resolvePath(href,basePath){
+  const clean=String(href).split('#')[0];
+  if(!clean) return '';
+  const baseDir=basePath.replace(/[^/]*$/,'');
+  try{ return decodeURI(new URL(clean,'https://x/'+baseDir).pathname.replace(/^\//,'')); }
+  catch(e){ return clean; }
+}
+
+async function loadText(rel){
+  try{
+    const r=await fetch('../'+rel,{cache:'no-store'});
+    if(!r.ok) throw new Error(r.status);
+    return [await r.text(),'本地文件'];
+  }catch(localErr){
+    const r=await fetch(RAW_BASE+rel,{cache:'no-store'});
+    if(!r.ok) throw new Error('本地与 GitHub main 都读取失败：'+r.status);
+    return [await r.text(),'GitHub main'];
+  }
+}
+
+function inlineMd(s,basePath){
+  let t=esc(s);
+  t=t.replace(/`([^`]+)`/g,'<code>$1</code>');
+  t=t.replace(/\*\*([^*]+)\*\*/g,'<strong>$1</strong>');
+  t=t.replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,(m,label,href)=>{
+    if(/^https?:/i.test(href)) return '<a href="'+esc(href)+'" target="_blank" rel="noopener">'+label+'</a>';
+    if(/\.md(#.*)?$/i.test(href)){
+      const p=resolvePath(href,basePath);
+      return '<a href="#'+encodeURI(p)+'" data-md="'+esc(p)+'">'+label+'</a>';
+    }
+    return '<a href="'+esc(href)+'" target="_blank" rel="noopener">'+label+'</a>';
+  });
+  return t;
+}
+
+function renderTable(lines,basePath){
+  const cells=r=>r.trim().replace(/^\|/,'').replace(/\|$/,'').split('|').map(c=>c.trim());
+  const head=cells(lines[0]);
+  const body=lines.slice(2).map(cells);
+  const th=head.map(h=>'<th>'+inlineMd(h,basePath)+'</th>').join('');
+  const tr=body.map(r=>'<tr>'+r.map(c=>'<td>'+inlineMd(c,basePath)+'</td>').join('')+'</tr>').join('');
+  return '<div class="tablewrap"><table><thead><tr>'+th+'</tr></thead><tbody>'+tr+'</tbody></table></div>';
+}
+
+function renderMarkdown(md,basePath){
+  const lines=md.replace(/\r/g,'').split('\n');
+  const out=[];
+  let i=0;
+  const isBreak=l=>/^(#{1,6}\s|\s*[-*]\s+|\s*\d+\.\s+|\s*>|\s*\||\s*-{3,}\s*$|\s*\*{3,}\s*$)/.test(l);
+  while(i<lines.length){
+    const line=lines[i];
+    if(/^\s*\|/.test(line)&&i+1<lines.length&&/^\s*\|?[\s:|-]*-[\s:|-]*\|?\s*$/.test(lines[i+1])){
+      const rows=[];
+      while(i<lines.length&&/^\s*\|/.test(lines[i])){ rows.push(lines[i]); i++; }
+      out.push(renderTable(rows,basePath));
+      continue;
+    }
+    const h=line.match(/^(#{1,6})\s+(.*)$/);
+    if(h){ const lv=Math.min(h[1].length,4); out.push('<h'+lv+'>'+inlineMd(h[2],basePath)+'</h'+lv+'>'); i++; continue; }
+    if(/^\s*(-{3,}|\*{3,})\s*$/.test(line)){ out.push('<hr>'); i++; continue; }
+    if(/^\s*>\s?/.test(line)){
+      const buf=[];
+      while(i<lines.length&&/^\s*>\s?/.test(lines[i])){ buf.push(lines[i].replace(/^\s*>\s?/,'')); i++; }
+      out.push('<blockquote>'+renderMarkdown(buf.join('\n'),basePath)+'</blockquote>');
+      continue;
+    }
+    if(/^\s*[-*]\s+/.test(line)){
+      const items=[];
+      while(i<lines.length&&/^\s*[-*]\s+/.test(lines[i])){ items.push(lines[i].replace(/^\s*[-*]\s+/,'')); i++; }
+      out.push('<ul>'+items.map(t=>'<li>'+inlineMd(t,basePath)+'</li>').join('')+'</ul>');
+      continue;
+    }
+    if(/^\s*\d+\.\s+/.test(line)){
+      const items=[];
+      while(i<lines.length&&/^\s*\d+\.\s+/.test(lines[i])){ items.push(lines[i].replace(/^\s*\d+\.\s+/,'')); i++; }
+      out.push('<ol>'+items.map(t=>'<li>'+inlineMd(t,basePath)+'</li>').join('')+'</ol>');
+      continue;
+    }
+    if(!line.trim()){ i++; continue; }
+    const buf=[];
+    while(i<lines.length&&lines[i].trim()&&!isBreak(lines[i])){ buf.push(lines[i].trim()); i++; }
+    out.push('<p>'+buf.map(t=>inlineMd(t,basePath)).join('<br>')+'</p>');
+  }
+  return out.join('\n');
+}
+
+let ORDER=[];
+async function buildOrder(){
+  try{
+    const [text]=await loadText(HOME);
+    const re=/\]\(([^)\s]+\.md)(?:#[^)]*)?\)/g;
+    const seen=new Set(); const out=[];
+    let m;
+    while((m=re.exec(text))){
+      const p=resolvePath(m[1],HOME);
+      if(p.startsWith('book/')&&!seen.has(p)){ seen.add(p); out.push(p); }
+    }
+    ORDER=out;
+  }catch(e){ ORDER=[]; }
+}
+
+function firstHeading(md){
+  const m=md.match(/^#\s+(.*)$/m);
+  return m?m[1].trim():'';
+}
+
+async function show(path){
+  if(!path) path=HOME;
+  $('main').innerHTML='<p style="color:var(--muted)">读取中…</p>';
+  try{
+    const [text,src]=await loadText(path);
+    $('main').innerHTML=renderMarkdown(text,path);
+    const heading=firstHeading(text);
+    document.title=(heading?heading+' · ':'')+'独立游戏英雄传说';
+    $('title').textContent=path.replace(/^book\//,'')+(src==='本地文件'?'':'（GitHub main）');
+    $('foot').innerHTML='<p>来源：'+esc(path)+' · '+esc(src)+'。本页只是 <code>book/</code> 的阅读视图，不复制、不修改任何正文；事实回指仍以仓库中的 Markdown 为准。</p>';
+    const idx=ORDER.indexOf(path);
+    $('prev').disabled=idx<=0;
+    $('next').disabled=idx<0||idx>=ORDER.length-1;
+    window.scrollTo(0,0);
+  }catch(e){
+    $('main').innerHTML='<div class="err"><strong>无法读取 '+esc(path)+'。</strong><br>'+esc(e.message)+
+      '<br><br>若直接双击本地 HTML，浏览器会阻止 <code>file://</code> 页面读取相邻文件；本页会尝试回退到 GitHub <code>main</code>。'+
+      '预览尚未合并的分支内容，请在仓库根目录运行 <code>python -m http.server 8000</code>，再访问 <code>http://localhost:8000/reader/</code>。</div>';
+    $('title').textContent='读取失败';
+    $('foot').innerHTML='';
+  }
+}
+
+function route(){
+  const raw=decodeURI(location.hash.replace(/^#/,'')).trim();
+  show(raw||HOME);
+}
+
+document.addEventListener('click',e=>{
+  const a=e.target.closest('a[data-md]');
+  if(!a) return;
+  e.preventDefault();
+  location.hash=encodeURI(a.dataset.md);
+});
+
+$('toc').addEventListener('click',()=>{ location.hash=encodeURI(HOME); });
+$('prev').addEventListener('click',()=>{
+  const i=ORDER.indexOf(currentPath()); if(i>0) location.hash=encodeURI(ORDER[i-1]);
+});
+$('next').addEventListener('click',()=>{
+  const i=ORDER.indexOf(currentPath()); if(i>=0&&i<ORDER.length-1) location.hash=encodeURI(ORDER[i+1]);
+});
+function currentPath(){
+  return decodeURI(location.hash.replace(/^#/,'')).trim()||HOME;
+}
+
+window.addEventListener('hashchange',route);
+(async()=>{ await buildOrder(); route(); })();
+</script>
+</body>
+</html>

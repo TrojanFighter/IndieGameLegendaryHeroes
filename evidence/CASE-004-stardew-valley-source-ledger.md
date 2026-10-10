@@ -16,7 +16,28 @@ Eric Barone states:
 - it began as a Harvest Moon-like project partly to teach himself C#;
 - because he initially had little experience, he redid nearly everything multiple times.
 
+Direct quotes (verbatim, page re-read 2026-10-09):
+
+Why he started at all - the starting point is a failed job search:
+- "I just graduated from college with a computer science degree and I didn't really know what I wanted to do. I had applied at a few places and had interviews and I didn't get those jobs. So I was thinking 'what am I going to do,' you know? I've always been into games. I've always been into doodling and making music, writing and all the various aspects of making a game, but I'd never really thought about the fact that I could combine all those things and actually be a game developer. But I was looking for jobs, and I was thinking I would need some way to get better at programming, so I decided to start fooling around with making a game in C#."
+
+Four years, and why it took that long:
+- "part of that was me redoing pretty much everything in the game multiple times, because when I first started I had no pretty much no experience. I had never done pixel art before, I had just very little coding experience, and the earliest versions of the game were, in my opinion, pretty horrible. So as my skills improved over time, I kept wanting to redo everything and improve on it."
+
+The original plan was far smaller:
+- "At first I thought it was just going to be something I would release on Xbox Live Indie Games… It would take me a couple months, I would post it to Xbox Live, and that would be it. But then—I don't know, for some reason I just kept deciding I wanted to go bigger and bigger with it."
+
+Minecraft/Notch as the stated precedent:
+- "Oh, I definitely thought about Notch. It was definitely an inspiration. … it was around when I had started playing Minecraft as well and I was thinking this proves that an indie game—there's no limits, basically."
+
+On what makes an indie game distinctive (his own theory, not a mechanism):
+- "I think that one of the things that's special about indie is that it's kind of a personal connection between the creator of something and the audience. … It's not some faceless corporation that is giving you a focus tested message or focus tested experience."
+
+Sales at the time of the interview:
+- "I think it's at around 380,000 units." (researcher's note: creator reading his own Steam backend during the interview; not audited, and 2016-dated)
+
 Supports: C003, C006, C011.
+Additional boundary: "I didn't get those jobs" is his retrospective framing of motive; it does not establish that no employment was available, only that he did not take one.
 
 ## E002 — PC Gamer 2016 creator interview: life runway
 
@@ -29,11 +50,26 @@ Barone states:
 - he lived with his girlfriend and they were largely living on her graduate-school stipend / income;
 - friends/family generally believed in him.
 
+Direct quotes (verbatim, page re-read 2026-10-09):
+
+The household arrangement, in his own words:
+- "I had a part time job at the local theater—I was an usher. So I was doing that, but also me and my girlfriend were living together—well, we still are—and kind of living off of her grad school stipend. Kind of scraping by, I guess."
+
+On family, without smoothing it over:
+- "I think they mostly believed in me, and I really appreciate that. I'm fortunate that I had friends and family who believed in me. But I wouldn't be surprised, and I wouldn't blame them, if they had a little bit of doubt that maybe I was just kind of insane."
+
+What the money changed, and what it did not:
+- "I don't want it to affect my life in any way. My lifestyle isn't going to change. My career plans haven't changed. … If anything, this just makes it so that I can relax and create games without there being a huge amount of pressure, you know? Not only from myself and from life events, but also people that I know, family and everything. They know now that this isn't just some crazy pipe dream that I had."
+
+On scheduling, a stated lesson rather than a plan:
+- "If there's one thing I've learned from the development process of Stardew Valley it's 'do not make estimates.' If you can help it, never make estimates. Because I thought that Stardew Valley was going to be done two years ago, three years ago… So I just don't want to make a promise that I can't keep."
+
 Supports:
 - C002/C001: non-project household resources helped make a long development window survivable.
 
 Boundary:
 - does not justify reducing the creative labor credit of the solo developer.
+- The girlfriend's stipend is described by Barone as ongoing household support, not as an investment in the game; no amount is given.
 
 ## E003 — ConcernedApe 2019 official clarification
 
