@@ -197,6 +197,11 @@ CASE-026 Brigador 又增加了另一条边界：这条链并不是走到“执�
 
 ---
 
+
+### TC-005 实证压力（2026-10-10）
+
+[中国038](../country-studies/china/038-education-maker-funnel-empirical-measurement-ceps-pisa-ggj.md)提供三重反压力：新加坡与韩国高创意测验分数和学业成绩共存，中国已存在CiGA与GGJ Next创作站点，人大CEPS已经有全国学校样本可以研究机会分配。然而这些资料均不能给出普通青年转成首个自定作品、二次制作和职业作者的同口径漏斗。TC-005保持`PROVISIONAL`，不许从东亚身份或考试分数直接推断创作者发生率。
+
 ## 使用规则
 
 1. 这里的句子不能在正文中被写成“研究已经证明”；
