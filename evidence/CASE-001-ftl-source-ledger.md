@@ -148,6 +148,42 @@ Supports complementary capability stock and shows that professional game experie
 
 The developers describe FTL as a hobby project that “tumbled into success” and explicitly credit Ben Prunty's music as part of the final experience.
 
+**Expanded 2026-10-11.** The summary above kept only the framing sentence and the music credit, and dropped every dated decision in the same page. Short quotations and fact nodes below are from the Internet Archive snapshot `20240715043257` of this URL, because the live page returns 403 to this environment.
+
+Short quotations (as read from the archive snapshot):
+
+> "In early 2011 we had both quit our jobs to spend a year making small game prototypes. After starting FTL, we used the IGF China 2011 submission deadline as a concrete milestone for our development; we decided that if we couldn't get a solid game prototype by that time, we'd move on to another idea."
+
+> "We then spent four months working on game mechanics, rather than a game, and we were frustrated and unsure what the game would be until something clicked during the last two weeks. We determined the game's structure and pacing almost overnight, and were able to submit our first playable prototype to IGF, where it was well received."
+
+> "Our savings were all but used up one year into development. If we planned on releasing the game as a commercial product, we'd have to cover everything from food and rent to licenses and a lawyer, so we launched a Kickstarter campaign with the modest goal of $10,000, expecting that we could barely reach that amount, or, if very lucky, perhaps achieve $15K to $18K."
+
+> "our luckiest break actually came when Double Fine launched their Kickstarter campaign, which was two weeks before we were ready. Thanks to Double Fine, our Kickstarter got much more traffic."
+
+Fact nodes (both creators' own 2013 account, under the heading "Amazing Timing (and Luck)"):
+
+1. **Early 2011** — both had already quit their jobs, intending to spend about a year making small game prototypes. This dates the departure; the exact month is not given.
+2. They used the **IGF China 2011 submission deadline** as the milestone, with a stated exit condition: if no solid prototype by then, move on to another idea.
+3. About **four months** went into mechanics rather than a game; structure and pacing were settled in roughly the **last two weeks**, and the first playable prototype went to IGF.
+4. By **early 2012** their savings were "all but used up", which is what prompted looking into crowdfunding; the $10,000 goal was chosen expecting they could "barely reach" it.
+5. The campaign was lined up with **two IGF honorable mentions** and an **OnLive / GDC show-floor demo**; the **Double Fine** Kickstarter launched two weeks earlier and, by their account, brought much more traffic.
+6. After funding: **Ben Prunty** expanded the music into a full soundtrack, and writer **Tom Jubert** was enlisted to expand the universe and lore, which added ships, aliens and weapons.
+7. The private Steam beta drew "almost **3,000**" testers and is called by them possibly the most important part of the Kickstarter; **Valve**'s attention followed, allowing distribution and beta hosting on Steam.
+
+Boundaries:
+
+- 2013 retrospective by both creators, not a contemporaneous log. "Amazing Timing (and Luck)" is their own causal reading of a period they also call fortuitous.
+- The exit condition, the four months and the two-week breakthrough are self-reported process, not audited.
+- "Almost 3,000 beta testers" is their own figure, not platform data. Tom Jubert's engagement terms and any rights are not described here.
+- Quote provenance: read from the Internet Archive snapshot, not the live page. Treat as read-but-not-live-verified.
+
+Correction note (2026-10-11):
+
+- A source pack and a narrative candidate were built from the unexpanded summary above and got the opening chronology wrong: the candidate placed both founders **still working at 2K in 2011**, while this page says they had already quit in early 2011 to spend a year on prototypes.
+- Rule, now for the third time on this project (`CASE-012`/E001 twice, this record once): **a summary is not the record.** Before any pack-level or reader-layer statement about what happened, read the source the summary points at.
+
+Correction note (2026-10-11, later the same day): the snapshot is also the only route by which this node can be checked from this environment — the live URL answers 403. Recorded so a later pass does not mistake "not reachable here" for "not there".
+
 Supports:
 
 - “two-person core” must not erase external creative contribution;
