@@ -53,6 +53,10 @@
 
 
 - [017 — UGC作者量产与可持续性：2024 Fortnite收益层级、2024—25 Roblox SEC DevEx](017-creator-economy-economic-viability.md) — 官方 **包含式**收入档、真实收款人数、财报费用与收入中位数，[Fortnite收益漏斗](017-fortnite-2024-creators-economic-funnel.svg)、[Roblox资格与收入图](017-roblox-2024-2025-creator-monetization.svg)；[原始作者/收入档CSV](017-platform-creator-payout-cohorts.csv)。
+
+- [018 — 1982同期美国发行商量产调查与1981—84 APX作者平台](018-cgw-apx-1982-publisher-vs-indie-evidence.md) — [调查实报394款/估计694款的分母图](018-cgw-1982-observed-vs-estimated-publishing.svg)、[APX产能和分发时间图](018-atari-program-exchange-1981-1984.svg)；[1982年30家发行商原始CSV](018-cgw-1982-publisher-annual-releases.csv)。
+- [019 — ZXDB 1982—1992去重作者统计协议](019-zxdb-creator-cohort-protocol.md) — [保守人头数SQL/SQLite抽取程序](019-zxdb-annual-author-cohort.py)；本轮已核源结构与固定SHA，**二进制源未加载/算法未运行，作者年份仍为 UNKNOWN**。
+
 ## 与《独立游戏英雄传说》的接口
 
 工业革命区研究“机会怎样出现”。
