@@ -45,6 +45,8 @@
 - [011 — 开放世界/小团队多人/沉浸式模拟生产案例数据（33例）](011-open-world-small-team-immersive-multiplayer-cohorts.csv) — 记录2D/3D内容机制、开发人数口径、EA与正式版、发行与预算来源
 - [012 — 3D化内容成本、独立2D系统世界、多人与沉浸模拟研究](012-3d-content-contraction-and-indie-system-worlds.md) — [六类产品年代矩阵图](012-openworld-system-production-era-map.svg) 与 [成本替代机制图](013-content-cost-substitution-mechanisms.svg)，收录1999《System Shock 2》原始预算和成员人数
 
+- [014 — 联网技术分代：锁步/预测/插值/服务器回溯/回滚/AOI与独游联网工具](014-network-regime-latency-compensation-and-genre.md) — [七轨1978—2026技术年代图](014-network-capability-parallel-regimes.svg) 与 [28条原始网络能力事件CSV](014-online-network-technology-events.csv)，补上MMORPG/RTS/FPS/MMOFPS/多人微团队之间的技术可行性边界
+
 ## 与《独立游戏英雄传说》的接口
 
 工业革命区研究“机会怎样出现”。
