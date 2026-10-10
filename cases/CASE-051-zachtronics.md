@@ -146,6 +146,20 @@ SpaceChem 的 2012 开发者 postmortem 给出异常完整的数据：
 
 这与我们前面 Brigador / The Magic Circle 的二层 fit 分法兼容。
 
+## 4.5. Ironclad 之后，并不是一条不中断的成长曲线
+
+2017 年《The Amp Hour》访谈补足了一段此前被产品发行年表掩盖的职业史（E011）。Barth 说《Ironclad Tactics》没有达到团队预期，教育游戏合同与后来开发的《Infinifactory》《TIS-100》仍使工作室继续运转。**暂停工作室发生在后两作之后，不应按节目简介误写成《Ironclad Tactics》发售后立即关门。**
+
+Barth 回顾自己在连续制作后出现倦怠：工作室约一年没有人实际工作，既有游戏继续产生收入，员工暂时分散；他本人在 Valve 的 VR 团队工作约十个月。返回后，他通过之前为 Amplify 制作教育游戏积累的工作关系认识 Alliance，随后将 Zachtronics 出售给对方。他说明其动机与不愿继续经营公司的行政管理、但仍想制作游戏有关。
+
+这构成一条比“工程品味→稳定利基→2022 关闭”更复杂的路径：
+
+- 个人的设计能力与经营一家工作室的能力/意愿不是同一件事；
+- 先前游戏的收入和外部就业选项，允许作者暂停旧组织而不是只能永久退出；
+- 对公司的出售，可能改变管理义务与创作空间；**具体股权、价格、合同约束与出售后的法律控制权仍 UNKNOWN**。
+
+这是 Barth 的 2017 年回顾性自述。节目官网可读到发言文本，但尚未逐段对音频核听；不应据此推出某个精确财务时点、普遍的创作者成功率，或 Alliance 交易后的全部控制权结构。
+
 ## 5. TIS-100 — Capability-Shaped Project Formation in the Purest Form
 
 2015 Barth 讲 TIS-100 的形成时提供了非常强的 C015 证据。
@@ -316,11 +330,12 @@ Zachtronics 最值得进入“程序员读者入口”的原因不是：
 - E008 — GDC 2019 open-ended puzzle design session: repeatable studio puzzle-design method.
 - E009 — PC Gamer 2022 closure interview: team was highly optimized for Zachtronics games and found it hard to make other things.
 - E010 — Game Developer 2025 Coincidence coverage: later collaborators re-form outside Zachtronics, showing studio closure was not simple capability loss.
+- E011 — The Amp Hour 2017 speaker-attributed transcript: interruption after Infinifactory/TIS-100, Valve work, Alliance sale via Amplify relationship; audio spot-check pending.
 
 ## 14. Open Questions
 
 1. Ironclad Tactics exact sales / loss / shutdown economics；
-2. 2015 temporary shutdown capitalization and ownership details；
+2. temporary shutdown capitalization and ownership details, plus E011 audio spot-check / sale-contract verification；
 3. each game's exact headcount/budget；
 4. stable fanbase size vs general-audience reach；
 5. which tools/frameworks were reused across titles；
