@@ -53,3 +53,14 @@ id,family,role,year,title,network,evidence_class,primary_or_source_url,comparabi
 052,TOOLS,T,2018,Fortnite Creative,T,HOST_GAME_CREATOR,https://www.fortnite.com/news/creative,托管玩家与世界，UGC不等于standalone
 053,TOOLS,T,2023,UEFN,T,HOST_GAME_CREATOR,https://www.fortnite.com/news/unreal-editor-for-fortnite-and-creator-economy-2-0-are-here-new-worlds-await,现成多人/发行/服务基座
 054,FPS3_N,L,2004,Halo 2,O,ONLINE_LARGE_PRODUCTION,https://news.microsoft.com/source/2004/11/08/halo-2-invasion-causes-midnight-madness-frenzy/,Bungie与微软大组织主机Xbox Live多人商业发行；不是FPS联网首例
+055,S2,M,2016,Neon Chrome,S+C,DEVELOPMENT_CREDITS_5_PLUS_NOT_FTE,https://www.mobygames.com/game/79064/neon-chrome/credits/windows/,10tons制作名单含五位具名设计核心、四人程序等；全部40人名单含外包测试；2016商业双摇杆射击，离线/同机多人，绝非在线多人
+056,SYS2,L,1996,Harvest Moon SNES,S,PROFESSIONAL_PUBLISHER_SMALL_CORE,https://www.mobygames.com/game/6585/harvest-moon/credits/snes/,专业Amccus+Pack-In-Video农场模拟；30总credits混合开发/销售/致谢，不能误认为30开发核心
+057,SYS2,M,2024,Fields of Mistria EA,S,2024_NAMED_TEAM_NOT_FTE,https://www.mobygames.com/game/229134/fields-of-mistria/credits/windows/,NPC Studio专业化团队分程序美术编剧制作等；2024 EA；85专业roles不等于85个全职核心，人名按多重职能归一
+058,SYS3,L,2014,Elite Dangerous,O∞,PROFESSIONAL_CONNECTED_PERSISTENT,https://www.investegate.co.uk/announcement/rns/frontier-developments--fdev/announces-full-public-release-of-elite-dangerous/3729348,Frontier公司2014-12-16正式发布；公司+众筹1000万英镑资金；在线必需即使solo，不能与1984离线Elite同构
+059,SYS3,M,2016,No Man's Sky,S*,FTE_15_AT_LAUNCH_2016,https://www.nomanssky.com/2018/07/a-message-to-the-community/,Hello Games团队研发平均6人、上市时15人（Sean Murray一手）；2016以单人探索为主但含线上服务/发现，不是离线无网络
+060,SYS3,M,2018,No Man's Sky NEXT,O,SAME_TEAM_2018_NETWORK_UPDATE,https://hellogames.org/2018/07/24/no-mans-sky-next-update-and-xbox-one-release/,2018-07-24官方正式加入可组队多人，不能把这套协作联网归给2016首发
+061,SYS3,M,2018,X4 Foundations,S,MID_CANDIDATE_HEADCOUNT_UNVERIFIED,https://www.egosoft.com/press/sheet.php?p=x4_foundations,Egosoft专业独立公司3D经济空间沙盒；2018-11-30发售；2018-12-20另新增实验性Online Ventures，不是完整多人同局
+062,CITY3,M,2020,Cloudpunk,S,EARLY_FIVE_COLLABORATORS_NOT_FTE,https://ionlands.com/cloudpunk/presskit/,ION LANDS官方2020 presskit列8创作/合作岗位、更广credits含大量外部美术配音本地化QA，低成本体素城市/叙事配送不等于GTA抢车犯罪
+063,CITY3,I,2019,American Fugitive,S,MICRO_ORIGIN_TWO_FOUNDERS_PUBLISHER,https://fallentreegames.com/americanfugitive/,Fallen Tree Games两位创始人背景；Curve发行；3D俯视开放世界犯罪、车辆/任务/追捕；真实外包/支持待核
+064,CITY3,I,2023,Shadows of Doubt EA,S,MICRO_DEVELOPERS_WITH_AUDIO_WRITER,https://colepowered.com/shadows-of-doubt-devblog-35-post-launch-progress/,Cole Jefferies+另名开发者Josh；音效文字另合作；2023-04-24 EA；程序生成体素调查城市而非GTA大量手工任务
+065,CITY3,M,2025,The Precinct,S,4_ORIGIN_EXPANDED_5_PLUS_WITH_EXTERNAL_SUPPORT,https://www.pushsquare.com/features/interview-learning-all-about-the-precinct-ps5s-super-promising-sandbox-cop-game,原核心2程序+2美术共4人，扩增专职设计及额外程序+外包配音、美术；2025发行、Kwalee发行并有外部支援；并非仅四人承担全部生产
