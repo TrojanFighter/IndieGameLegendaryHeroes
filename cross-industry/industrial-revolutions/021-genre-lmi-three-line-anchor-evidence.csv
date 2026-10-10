@@ -1,0 +1,25 @@
+genre_id,genre_title,comparison_scope,track,year_anchor,case,core_headcount_evidence,organization_backing,evidence_class,source_url
+2D_PLATFORM,2D 平台／卷轴动作,家庭／主机2D横向关卡平台动作,L,1985,Super Mario Bros.,大公司专业产品,Nintendo公司/团队人数未审,PROFESSIONAL,https://www.nintendo.com/jp/character/mario/en/history/smb/index.html
+2D_PLATFORM,2D 平台／卷轴动作,家庭／主机2D横向关卡平台动作,M,1991,Sonic,5→7核心,Sega内部小组、非独立中厂,CORPORATE_SMALL_CORE,https://shmuplations.com/sonicteam/
+2D_PLATFORM,2D 平台／卷轴动作,家庭／主机2D横向关卡平台动作,I,1983,Manic Miner,个人,Matthew Smith；同类较早商业小作者,INDEPENDENT_MICRO,https://worldofspectrum.org/archive/software/games/manic-miner-bug-byte-software-ltd
+2D_SHOOT,2D 街机／俯视射击,小场景射击；1983喷射射击与2012叙事俯视射击规格不同,L,1982,Robotron 2084,专业街机,Williams; twin-stick,PROFESSIONAL,https://www.robotron-2084.co.uk/williams/documents/robotron
+2D_SHOOT,2D 街机／俯视射击,小场景射击；1983喷射射击与2012叙事俯视射击规格不同,I,1983,Jetpac,两人核心,Stamper兄弟；Ultimate自发商业出版,INDEPENDENT_MICRO,https://worldofspectrum.org/archive/software/games/jetpac-ultimate-play-the-game
+2D_SHOOT,2D 街机／俯视射击,小场景射击；1983喷射射击与2012叙事俯视射击规格不同,I,2012,Hotline Miami,两人开发,Dennaton/GameMaker；Devolver发行，不等同1983资产规格,INDEPENDENT_MICRO,https://test.gamemaker.io/en/blog/hotline-miami-developed-with-gamemaker
+3D_PLATFORM,3D 平台动作,实时多边形角色／空间关卡／摄像机；不同年份美术规格调整,L,1996,Super Mario 64,Nintendo,专业主机平台大组织,PROFESSIONAL,https://www.nintendo.com/jp/character/mario/en/history/index.html
+3D_PLATFORM,3D 平台动作,实时多边形角色／空间关卡／摄像机；不同年份美术规格调整,M,1996,Crash Bandicoot,8人核心,独立Naughty Dog开发；Sony/Universal发行体系支持,MID_CORE_PUBLISHER_SUPPORT,https://blog.playstation.com/archive/2014/12/03/naughty-dog-looks-back-20-years-playstation-development
+3D_PLATFORM,3D 平台动作,实时多边形角色／空间关卡／摄像机；不同年份美术规格调整,I,2020,Pumpkin Jack,个人主导,Nicolas Meyssonnier / Headup发行，外围外包未核,INDEPENDENT_MICRO,https://store.steampowered.com/app/1186640/Pumpkin_Jack/
+3D_FPS,3D 第一人称射击,商业FPS，1993为受限三维，2001/2018规格仍不完全相同,L,2001,Halo CE,大型发行组织,Bungie/Microsoft；大制作专业环境,PROFESSIONAL,https://www.halowaypoint.com/
+3D_FPS,3D 第一人称射击,商业FPS，1993为受限三维，2001/2018规格仍不完全相同,M,1993,DOOM,5人初始核心,id Software自造技术+自行发行；后续参与者不止5,MID_CORE_TECH_FRONTIER,https://www.gamers.org/docs/FAQ/doomfaq/
+3D_FPS,3D 第一人称射击,商业FPS，1993为受限三维，2001/2018规格仍不完全相同,I,2018,DUSK,个人署名主导,David Szymanski开发；New Blood发行,INDEPENDENT_MICRO,https://store.steampowered.com/app/519860/DUSK/
+3D_SYSTEM_LOW,3D 低资产系统世界,稀疏线框/程序性世界和低多边形系统模拟；技术规格变化大,I,1984,Elite,2人核心,Ian Bell & David Braben/Acornsoft,INDEPENDENT_MICRO_WITH_PUBLISHER,https://www.elitehomepage.org/
+3D_SYSTEM_LOW,3D 低资产系统世界,稀疏线框/程序性世界和低多边形系统模拟；技术规格变化大,I,2009,Minecraft α,个人起步,Notch发布早期Java voxel游戏；非最终全部内容,INDIE_EARLY_RELEASE,https://www.minecraft.net/en-us/article/15-years-minecraft
+3D_OPEN_CONTENT,3D 叙事内容型开放世界,相对2001时代的大型手工城市资产和任务关卡；并非当前AAA画质,L,2001,GTA III,专业大制作,DMA Design/Rockstar生态；财务与人数另审,PROFESSIONAL,https://www.rockstargames.com/games/grandtheftauto3
+3D_MULTI_FPS,3D 多人大地图 FPS,完整联机大场景/枪械载具/服务器；精细度和同时在线人数不同,L,2002,Battlefield 1942,专业产品,DICE及发行支持；当年人员规模另审,PROFESSIONAL,https://www.ea.com/games/battlefield/battlefield-1942
+3D_MULTI_FPS,3D 多人大地图 FPS,完整联机大场景/枪械载具/服务器；精细度和同时在线人数不同,M,2014,Insurgency,人数待核,NWI由MOD转standalone；中等核心人数未核实,MID_CANDIDATE,https://www.embracer.com/releases/embracer-group-acquires-new-world-interactive/
+3D_MULTI_FPS,3D 多人大地图 FPS,完整联机大场景/枪械载具/服务器；精细度和同时在线人数不同,I,2023,BattleBit,小团队,BattleBit Remastered初期核心数报道有3/4口径差异,INDEPENDENT_MICRO,https://www.pcgamer.com/battlebit-devs-fought-constant-ddos-attacks-but-the-blocky-shooter-has-a-big-future/
+3D_COOP,3D 多人合作规则／生存,同属多人协作技术架构，但剧情射击、生存建造、合作恐怖是不同子品类,L,2008,Left 4 Dead,Valve专业组织,合作AI/关卡/网络体验,PROFESSIONAL,https://store.steampowered.com/app/500/Left_4_Dead/
+3D_COOP,3D 多人合作规则／生存,同属多人协作技术架构，但剧情射击、生存建造、合作恐怖是不同子品类,M,2021,Valheim,5人团队,Iron Gate制作；Coffee Stain发行支持；生存建造,MID_CORE_PUBLISHER_SUPPORT,https://www.washingtonpost.com/video-games/2021/03/09/valheim-developer-interview-updates/
+3D_COOP,3D 多人合作规则／生存,同属多人协作技术架构，但剧情射击、生存建造、合作恐怖是不同子品类,I,2023,Lethal Company,单人作者,Zeekerss；合作恐怖EA,INDEPENDENT_MICRO,https://store.steampowered.com/app/1966720/Lethal_Company/
+3D_DESTRUCTION,3D 破坏场景与体素物理,破坏技术家族；BFBC游戏中的战场破坏不等同Teardown整块体素破坏,L,2008,Bad Company,EA/DICE,Frostbite战场破坏机制,PROFESSIONAL,https://www.ea.com/games/battlefield/battlefield-bad-company
+3D_DESTRUCTION,3D 破坏场景与体素物理,破坏技术家族；BFBC游戏中的战场破坏不等同Teardown整块体素破坏,I,2020,Teardown EA,微型专业核心,Tuxedo Labs两位共同发起+声音合作等；2022正式版,INDIE_MICRO_WITH_BESPOKE_ENGINE,https://store.steampowered.com/app/1167630/Teardown/
+2D_PIXEL_PHYS,2D 像素级化学物理模拟,每像素模拟系统；不等于上面3D破坏场景的低配复制,I,2020,Noita 1.0,3位创始开发者,Nolla Games自制Falling Everything Engine,INDEPENDENT_MICRO_TECH_FRONTIER,https://www.noitagame.com/press/index.html
