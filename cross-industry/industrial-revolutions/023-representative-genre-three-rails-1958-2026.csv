@@ -52,3 +52,4 @@ id,family,role,year,title,network,evidence_class,primary_or_source_url,comparabi
 051,TOOLS,T,2014,UE4,T,TECH_AVAILABILITY,https://www.unrealengine.com/blog/epic-games-releases-unreal-engine-4-for-all,低价开放开发工具
 052,TOOLS,T,2018,Fortnite Creative,T,HOST_GAME_CREATOR,https://www.fortnite.com/news/creative,托管玩家与世界，UGC不等于standalone
 053,TOOLS,T,2023,UEFN,T,HOST_GAME_CREATOR,https://www.fortnite.com/news/unreal-editor-for-fortnite-and-creator-economy-2-0-are-here-new-worlds-await,现成多人/发行/服务基座
+054,FPS3_N,L,2004,Halo 2,O,ONLINE_LARGE_PRODUCTION,https://news.microsoft.com/source/2004/11/08/halo-2-invasion-causes-midnight-madness-frenzy/,Bungie与微软大组织主机Xbox Live多人商业发行；不是FPS联网首例
