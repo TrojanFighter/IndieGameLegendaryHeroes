@@ -9,6 +9,9 @@
 - [BOOK-ARCHITECTURE](BOOK-ARCHITECTURE.md) — 三层出版结构与 Part / Chapter 规划
 - [EDITORIAL-MISSION](EDITORIAL-MISSION.md) — 全书编辑使命
 - [EDITORIAL-GATE](EDITORIAL-GATE.md) — reader layer 写作门槛
+- [总编整合与现行篇章读序（2026-10-11）](EDITORIAL-INTEGRATION-2026-10-11.md) — 六部人生链／七篇跨人物章节、PR收口、DS与Codex任务和发表前验收边界
+- [跨模型编辑试点与条件性扩展](EDITORIAL-CROSS-MODEL-ROLLOUT-2026-10-09.md) — 历史试点计划；不可读作已获作者验收
+- [Narrative Source Pack 接口](EDITORIAL-NARRATIVE-SOURCE-PACK-CONTRACT.md) — 独立作者可选素材接口，不新建研究事实源
 - [Codex 接班任务｜2026-10-09 叙事与阅读体验样章改造](EDITORIAL-CODEX-HANDOFF-2026-10-09.md) — 三篇独立样章试验、结构剪辑、史实回读与 A/B 验收；任务待执行，非已批准正文
 - [HERO-PROFILE-DIMENSIONS](HERO-PROFILE-DIMENSIONS.md) — 人物形成维度
 - [TEMPORAL-VALIDITY](TEMPORAL-VALIDITY.md) — 历史成功经验的年份 / regime / 2026 时效门槛
@@ -18,7 +21,7 @@
 ## Reader Layer
 
 - [Chapters](chapters/README.md) — 跨人物正式章节
-- [Profiles](profiles/README.md) — 单人物 / 单团队完整生产史；现有 11 篇 reader-layer 人物初稿（包含产品取消与首作商业失利后继续的对照）
+- [Profiles](profiles/README.md) — 单人物 / 单团队完整生产史；当前 14 篇 reader-layer 人物初稿；篇数不是作者验收数
 - [START-HERE](START-HERE.md) — 按现实人生问题导读
 - [READER-ARCHETYPES](READER-ARCHETYPES.md) — 按主创者能力 / 出身类型找第一批案例
 - [INDIE-MOVEMENT](INDIE-MOVEMENT.md) — 独立游戏运动与谱系说明
