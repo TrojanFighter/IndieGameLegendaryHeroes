@@ -1,6 +1,6 @@
 # CASE-051 Evidence Ledger — Zachtronics / Zach Barth
 
-- Last verified: 2026-10-07
+- Last verified: 2026-10-10
 - Status: ACTIVE
 - Case: [CASE-051](../cases/CASE-051-zachtronics.md)
 
@@ -124,25 +124,41 @@
 - Confidence: HIGH.
 - Boundary: current organizational experiment; does not retroactively explain Zachtronics economics.
 
-## Lead L001 — Amphour podcast page (S2; not yet verified)
+## E011 — The Amp Hour #332: temporary shutdown, Valve, and Alliance
 
-- Source class: **S2 — podcast show notes.** The episode audio/transcript has not been reviewed.
-- Source: The Amp Hour, episode 332, "An Interview with Zach Barth of Zachtronics", 2017-01-20.
+- Source class: P1 — Barth's 2017 first-person retrospective; a speaker-attributed transcript is available on the episode publisher's site. Audio has not been independently checked.
+- Title: #332 — An Interview with Zach Barth of Zachtronics.
+- Author / Institution: Chris Gammell and Dave Jones interviewing Zach Barth / The Amp Hour.
+- Published: 2017-01-20.
+- Accessed: 2026-10-10.
 - URL: https://www.theamphour.com/332-an-interview-with-zach-barth-of-zachtronics/
-- Read: 2026-10-09 (page text only).
+- Locator: episode #332, interview transcript around “we shut down the studio”, “worked there for 10 months”, and “Alliance”.
+- Fetch status: direct; full speaker-attributed text readable on episode publisher page as of 2026-10-10. Recording not independently listened to.
 
-The page's summary carries three career nodes that appear **nowhere** in this case's Case, Evidence or Profile layers (checked by search, 2026-10-09):
+Source-derived fact nodes (do not merge the phases):
 
-- Barth started making games as a student at Rensselaer Polytechnic Institute (RPI);
-- after Ironclad Tactics did not go as well as the studio wanted, **the studio was shut down for a year**, and he worked at Valve with the Vive/HTC hardware team during that period; SHENZHEN I/O was partly inspired by that Valve hardware work;
-- Zachtronics was later **sold to Alliance**, and the studio continued producing games with them.
+1. Barth reports that SpaceChem's sales preceded leaving Microsoft and founding a full-time studio; Ironclad Tactics underperformed, while educational work for Amplify also contributed to the business.
+2. **After Ironclad Tactics came Infinifactory and TIS-100.** Barth describes subsequent burnout, staff temporarily dispersing, and roughly a year with no one actively working at Zachtronics even as existing games continued to sell. The studio pause was **not** described as immediately following Ironclad Tactics.
+3. During the interruption Barth worked at Valve in VR for approximately ten months. “Around a year paused” and “ten months at Valve” are different durations and should not be merged into one exact time window.
+4. He recounts selling Zachtronics to Alliance after his Valve stint, using a connection originating from Amplify's educational-games work; he wanted to stop managing the business without stopping game creation. He credits his exposure to Valve hardware work as part of SHENZHEN I/O's inspiration.
+5. This is an interruption, re-employment and management/ownership transition in a career previously represented as an unbroken product series.
 
-Why this is a lead, not an E record:
+Exact wording (short direct excerpts, as transcribed by the programme page; listen to audio before claiming verbatim acoustic verification):
 
-- Show notes are a secondary summary of a podcast. They are recorded here to make a gap in the archive visible, not to establish facts.
-- Each node needs a first-hand source (episode audio/transcript, a contemporaneous post, an official statement, or press coverage) before it can enter the E-series.
-- If verified, the **shutdown-and-Valve year** belongs in the Case's Failure and Runway sections, where it is currently absent. The existing UNKNOWN line "exact Ironclad Tactics loss" records the loss but not the shutdown or the re-employment that followed it.
-- The page is inconsistent with the record elsewhere: E001 already treats Barth's own site as a career source, yet these nodes were never carried across.
+- “we shut down the studio”
+- “worked there for 10 months”
+- “tired of running the business, but I wasn't tired of making games”
+
+Boundary: first-person but retrospective. The hosted transcript may contain transcription mistakes in names/titles; legal sale structure, sale amount, payroll, exact dates and profitability are not established here. The show's summary telescopes Ironclad Tactics and the later shutdown; the fuller spoken account must govern chronological description. This one testimony cannot estimate the prevalence of comparable careers.
+
+Supports: CASE-051 career / economic survival / governance history; C015 receives contextual evidence, not population-level causal proof.
+
+## Lead L001 — resolved show-notes lead (preserved for source-omission audit)
+
+- Original S2 lead: The Amp Hour episode #332 show notes, 2017-01-20, same URL as E011.
+- Status 2026-10-10: **SOURCE TRANSCRIPT FOUND; promoted as P1 E011**. Audio independently unverified.
+- Correction: the show-notes sequence “Ironclad Tactics → shutdown” omitted the intermediate Infinifactory and TIS-100 work described by Barth himself. That omission would have distorted the studio's failure/recovery chronology.
+- Follow-up: exact episode timecode / audio spot-check and independent corporate-sale documentation remain useful before writing definitive governance analysis.
 
 ## Current evidence-level conclusions
 
