@@ -9,7 +9,7 @@ evidence_strength: HIGH
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
 context_audit: PARTIAL
-last_verified: 2026-10-10
+last_verified: 2026-10-07
 ---
 
 # CASE-051 — Zachtronics / Zach Barth：把工程师脑子做成游戏，也可能把自己锁进最擅长的那种游戏
