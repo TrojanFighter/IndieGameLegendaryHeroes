@@ -209,6 +209,19 @@ CASE-026 Brigador 又增加了另一条边界：这条链并不是走到“执�
 
 [中国038第6节](../country-studies/china/038-education-maker-funnel-empirical-measurement-ceps-pisa-ggj.md#6-2026-10-10-修订创意题分数--游戏知识语料与设计范式掌握)增设五个区分量：`KNOWLEDGE DIET / GAME-DESIGN LITERACY / CROSS-DOMAIN TRANSFER / PROBLEM OWNERSHIP / REAL ARTIFACT + FEEDBACK`。并提出另一种循环：升学/实习履历导向可能让Game Jam由玩家/爱好者的探索通道变为外部给定的标准履历成果生产；已有公开培训/升学商业供给，但**普及率、作弊率、中外差异与教育净效应未测**。详见[OQ-024](../OPEN-QUESTIONS.md)。
 
+
+## TC-006 — 旧导师的知识极限与新作者的权限：识别不等于培养
+
+- **Status:** AUTHOR-ORIGIN / MECHANISM PROPOSED / PREVALENCE UNKNOWN（2026-10-10）。
+- **Canonical:** [中国039第9节](../country-studies/china/039-frontier-creator-support-authority-rights-and-incubation.md)及[OQ-025](../OPEN-QUESTIONS.md)。
+- **作者主张：** 上一代若没有新范式的实际创造经验，即使识别了优秀的年轻作者，也不会因此获得教授该范式的能力；最有价值的贡献可能是资金、生产设施、真实反馈入口与法律/职业支持。竞争性私企可能比学校更容易承认自己不懂而改变资源配置，因为其失败可以受到市场惩罚；学校的课程、资历与考试权威较难更新。
+- **关键区别：** `KNOW-HOW WITHHELD`（会但不教）／`KNOW-HOW ABSENT`（根本不会）／`AUTHORITY WITHOUT KNOW-HOW`（不会却有否决权）；第三类可能形成`NEGATIVE MENTORSHIP TRANSFER`，不当指导不如资源加同行自学。
+- **不能据此推断：** 年龄决定创造力、基础专业教学毫无价值、私企一概先进、完全放权的项目自然成功。
+- **现有机制锚点：** 2017 PUBG引入Mod新玩法经验与资方判断互补、2026 Supercell改革、2011上海交大学生创业支持、2021 Gamera微团队发行支持、MIT Scratch项目式教育；尚缺可比覆盖率与实际导师干预效果。
+- **升级门槛：** 同等经验作者接受相关领域导师/旧范式导师/资源而不指导的条件对照，追踪玩法试验、实际玩家结果、二次制作、IP权与退出成本；学校/企业间需可比的申请与退出人群分母。
+
+**书级问句：** 上一代最负责任的行动，有时不是假装知道新游戏如何诞生，而是承认知识边界，赋予下一代创造、失败和保留作品的权利。
+
 ## 使用规则
 
 1. 这里的句子不能在正文中被写成“研究已经证明”；
