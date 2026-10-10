@@ -228,6 +228,10 @@ CASE-026 已满足第一轮“强作者性 / 强产品执行但商业首发失�
 | Rigs of Rods → BeamNG.drive | [BeamNG官方](https://beamng.com/game/)详述节点梁软体技术 | 开源社群与商业产品的具体贡献者/代码许可/职业迁移需要逐人证明；TECHNICAL SEED / PEOPLE UNVERIFIED |
 | Space Engineers / Besiege / Brick Rigs | [Brick Rigs Steam](https://store.steampowered.com/app/552100/Brick_Rigs/)证实2016 EA | 2013–16独立3D工程/可破坏物理商业化早于2020 Teardown；可作为同期对照，但不能等同同技术堆栈 |
 | Knightfall: A Daring Journey | [Landfall官方Press Kit](https://landfall.se/knightfall-a-daring-journey-press-kit)五周开发、2022-04-01、五名具名角色；[Steam](https://store.steampowered.com/app/1911390/Knightfall_A_Daring_Journey/)免费 | **仅指向CASE-034，不新建CASE**。以实验指标而非商业销售断言成功/失败 |
+| Mastfire Studios / Blackwake | [开发者2020正式版长篇复盘](https://steamcommunity.com/app/420290/allnews/)：Dakota 2013创意、Tyler论坛结识，2014首次KS失败、2015重新定位众筹获约AUD170k，2017 EA、2020 1.0，2020开发者自报EA累计>120万份；[Steam](https://store.steampowered.com/app/420290/)现免费是2024起状态 | **P0/P1重点人物候选**：Mods→论坛结盟→失败众筹→看主播玩发现喜剧性协作→重启产品定位→PUBG停机带来偶然主播流量→EA试错删除不讨好的模式→长线转免费。先审计两核心与外包外围、众筹开销、销量口径，不抢新Case编号 |
+| Sea of Thieves / Rare（非独立对照） | [官方2024-04-17公告](https://www.seaofthieves.com/news/40-million-players)累计跨平台玩家超4000万（**非销量**）；2018发行 | 大型团队也能长期提供多人船员协作乐趣；是“独游船战必然强于大厂”强命题的重要反例。收入、利润、开发人年UNKNOWN |
+| Ubisoft Black Flag → Skull and Bones（非独立对照） | [Black Flag官方](https://www.ubisoft.co.jp/ac4/about/)证实海战和亲自登船机制；[Skull and Bones Steam](https://store.steampowered.com/app/2853730/)证实2024-08-22登陆Steam；[Ubisoft 2026复盘](https://www.ubisoft.com/en-gb/game/skull-and-bones/news-updates/1d5st5v5gmBMCjN4DcIRHw/through-the-spyglass-year-2-in-review)明确陆战项目已停止、核心继续集中海战 | 对照“已有Black Flag系统为何新作组织长期开发而未把登船/船员岗位交互做成主循环”；开发10年/预算/参与人次应按报告与法定记录分级，不据传闻判技术高低 |
+
 
 外部AI生成的“样本表”已有多处作品/开发商误指认，与官方一手来源冲突；未经逐字段核对的数字不得导入Evidence、Case或metadata。参见[工业革命003§6](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)。
 
