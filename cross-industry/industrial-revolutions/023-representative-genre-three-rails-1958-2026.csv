@@ -1,0 +1,54 @@
+id,family,role,year,title,network,evidence_class,primary_or_source_url,comparability_note
+001,PRE,F,1958,Tennis for Two,C,LAB,https://www.computerhistory.org/timeline/graphics-games/,实验室演示，非商业
+002,PRE,F,1962,Spacewar!,C,LAB,https://www.computerhistory.org/pdp-1/spacewar/,大学计算机原型，非商业
+003,PRE,P,1972,Pong,C,EARLY_COMMERCIAL,https://www.computerhistory.org/timeline/graphics-games/,早期创业公司商业街机，不能套今天的大厂定义
+004,P2,L,1981,Donkey Kong,S,EARLY_ARCADE,https://www.nintendo.com/jp/character/mario/en/history/index.html,专业街机固定屏平台动作
+005,P2,L,1985,Super Mario Bros.,S,CONFIRMED,https://www.nintendo.com/jp/character/mario/en/history/smb/index.html,主机卷轴动作；比1981复杂
+006,P2,M,1991,Sonic,S,INTERNAL_SMALL,https://shmuplations.com/sonicteam/,世嘉内部小核心5—7人
+007,P2,I,1983,Manic Miner,S,CONFIRMED,https://worldofspectrum.org/archive/software/games/manic-miner-bug-byte-software-ltd,个人作者完成商业2D平台动作
+008,P2,I,2004,Cave Story,S,BRANCH_METROIDVANIA,https://www.cavestory.org/,单作者银河城，相关子品类而非相同纯平台关卡
+009,S2,L,1982,Robotron,S,CONFIRMED,https://www.robotron-2084.co.uk/williams/documents/robotron,2D俯视双摇杆商业街机
+010,S2,I,1983,Jetpac,S,SUBGENRE_SIDESCROLL,https://worldofspectrum.org/archive/software/games/jetpac-ultimate-play-the-game,双人作者横向喷射射击，和Robotron只属宽类型
+011,S2,I,2012,Hotline Miami,S,CONFIRMED,https://test.gamemaker.io/en/blog/hotline-miami-developed-with-gamemaker,2D俯视动作射击，两人作者
+012,S2,I,2015,Nuclear Throne,S,CONFIRMED,https://store.steampowered.com/app/242680/Nuclear_Throne/,小团队俯视射击
+013,SYS2,I,1991,ZZT,S,CREATOR_TOOL_GAME,https://store.epicgames.com/p/zzt,2D可编程世界兼工具，非农场经营
+014,SYS2,I,2011,Terraria,O,CONFIRMED,https://terraria.wiki.gg/wiki/Patch_notes,2D沙盒；2011已支持联网与独立服务器
+015,SYS2,I,2016,Stardew Valley,S,CONFIRMED,https://www.stardewvalley.net/stardew-valley-1-3-multiplayer-update-is-now-available/,最初单人版，作者单独制作
+016,SYS2,I,2018,Stardew 1.3,O,EXTERNAL_NETCODE,https://www.stardewvalley.net/stardew-valley-1-3-multiplayer-update-is-now-available/,联网代码Tom Coxon/Chucklefish，不能记为作者独自完成
+017,P3,L,1996,Super Mario 64,S,CONFIRMED,https://www.nintendo.com/jp/character/mario/en/history/index.html,3D空间平台商业标杆
+018,P3,M,1996,Crash Bandicoot,S,PUBLISHER_SUPPORT,https://blog.playstation.com/archive/2014/12/03/naughty-dog-looks-back-20-years-playstation-development,Naughty Dog首作核心8人，外部发行支持
+019,P3,M,1998,Spyro,S,CREDITS_NOT_FTE,https://www.mobygames.com/game/3633/spyro-the-dragon/credits/playstation/,Insomniac署名13不等于13名FTE
+020,P3,I,2017,A Hat in Time,S,CORE_SIZE_UNVERIFIED,https://store.steampowered.com/app/253230/A_Hat_in_Time/,独立团队，但不应冒称单作者/3人
+021,P3,I,2020,Pumpkin Jack,S,PUBLISHER_SUPPORT,https://store.steampowered.com/app/1186640/Pumpkin_Jack/,个人主导加发行商支持，外围工作未完全审计
+022,FPS3_S,M,1992,Wolfenstein 3D,S,SMALL_PRO,https://www.computerhistory.org/timeline/graphics-games/,小型专业技术团队，不等于中型独立公司
+023,FPS3_S,M,1993,DOOM,S,SMALL_PRO,https://github.com/id-Software/DOOM,核心小团队自制引擎
+024,FPS3_S,M,1996,Quake,S,SMALL_PRO,https://www.computerhistory.org/timeline/graphics-games/,实时多边形FPS；含联网其他模式
+025,FPS3_S,L,2001,Halo CE,S,LARGE_BACKING,https://www.halowaypoint.com/,Microsoft/Bungie公司与专业发行支持
+026,FPS3_S,I,2018,DUSK,S,PUBLISHER_SUPPORT,https://store.steampowered.com/app/519860/DUSK/,个人主导复古FPS，New Blood发行
+027,FPS3_N,F,1987,MIDI Maze,X,PRE_NET,https://www.guinnessworldrecords.com/world-records/first-multiplayer-first-person-shooter,MIDI多机互连FPS，早于互联网/现代LAN；团队体量未核
+028,FPS3_N,M,1993,DOOM deathmatch,N,SMALL_PRO,https://github.com/id-Software/DOOM/blob/master/ipx/DOOMNET.H,原生IPX局域网最多4人
+029,FPS3_N,M,1996,Quake,O,ONLINE_NET,https://www.computerhistory.org/timeline/graphics-games/,专业小团队FPS互联网多人；具体Quake/QuakeWorld版本需细审
+030,FPS3_N,I,1999,Counter-Strike MOD,O,MOD_NOT_STANDALONE,https://blog.counter-strike.net/history/,建立在Half-Life现有引擎/网络与玩家分发上，独立商业品类产能不成立
+031,BATTLE3,L,2002,Battlefield 1942,D,CONFIRMED,https://www.ea.com/games/battlefield,64人PC专用服务器大战场
+032,BATTLE3,L,2008,Bad Company,D,DESTRUCTION_F2,https://www.ea.com/games/battlefield/battlefield-bad-company,专服战场破坏，玩法与BattleBit近亲，保真不同
+033,BATTLE3,M,2014,Insurgency,D,SUBGENRE_DIFFERENCE,https://www.embracer.com/releases/embracer-group-acquires-new-world-interactive/,战术小局而非64/254人大地图，开发核心人数仍待核
+034,BATTLE3,I,2023,BattleBit,D,LOW_FIDELITY,https://store.steampowered.com/app/671860/BattleBit_Remastered/,小开发核心254人低模专服，服务器运营成本单列
+035,SYS3,I,1984,Elite,S,WIRE_LOW_ASSET,https://elite.bbcelite.com/,双作者线框系统贸易世界
+036,SYS3,I,2009,Minecraft α,S,EARLY_ALPHA,https://www.minecraft.net/en-us/article/15-years-minecraft,早期个人发布体素系统；不能套最终产品规模
+037,SYS3,M,2021,Valheim,O,DIFFERENT_SUBGENRE,https://valheim.com/faq/,5人核心，与Elite/Minecraft只共享系统世界和小团队条件
+038,SYS3,M,2021,Valheim (专服),D,USER_SERVER,https://valheim.com/faq/,可玩家自设专服，Iron Gate不提供官方游戏服务器
+039,CITY3,L,2001,GTA III,S,CONTENT_HEAVY,https://www.rockstargames.com/games/grandtheftauto3,手工3D城市场景和剧情任务大制作
+040,CITY3,L,2013,GTA Online,O∞,LIVE_SERVICE,https://www.rockstargames.com/newswire/article/k49a58878okoak/some-more-details-on-grand-theft-auto-online.html,GTA V时代独立线上模式；不是GTA III原产品简单升级
+041,COOP3,L,2008,Left 4 Dead,O,DIFFERENT_SUBGENRE,https://store.steampowered.com/app/500/Left_4_Dead/,关卡合作射击；只作共享联网架构对照
+042,COOP3,M,2021,Valheim,O,DIFFERENT_SUBGENRE,https://valheim.com/faq/,生存建造；和Left4Dead不是同玩法品类
+043,COOP3,I,2023,Lethal Company,O,DIFFERENT_SUBGENRE,https://store.steampowered.com/app/1966720/Lethal_Company/,合作恐怖拾荒；不作为Valheim的生产链下一代
+044,COOP3,I,2016,Overcooked,C,LOCAL_COOP_2_CREATORS,https://www.team17.com/news/overcooked-2-faq,同机合作厨房游戏，非原生联网
+045,COOP3,I,2018,Overcooked! 2,O,EXTERNAL_NETCODE,https://news.xbox.com/en-us/2018/08/07/return-to-the-onion-kingdom-overcooked-2-xbox-one/,在线合作续作依赖Team17共同开发
+046,PHYS,I,2020,Noita,S,2D_PER_PIXEL,https://www.noitagame.com/press/index.html,2D逐像素系统物理，微团队自制
+047,PHYS,I,2020,Teardown EA,S,3D_VOXEL,https://store.steampowered.com/app/1167630/Teardown/,3D体素可破坏场景、不同渲染与物理架构
+048,TOOLS,T,1991,ZZT editor,T,CONTENT_CREATION,https://store.epicgames.com/p/zzt,可编程作者工具
+049,TOOLS,T,1999,GameMaker,T,TECH_AVAILABILITY,https://gamemaker.io/en/blog/gamemaker-25,2D作者工具供给，不当独立游戏数量
+050,TOOLS,T,2005,Unity,T,TECH_AVAILABILITY,https://unity.com/news/unity-technologies-celebrates-six-years-continual-leadership-and-innovation,游戏引擎供给，不等于独游量产
+051,TOOLS,T,2014,UE4,T,TECH_AVAILABILITY,https://www.unrealengine.com/blog/epic-games-releases-unreal-engine-4-for-all,低价开放开发工具
+052,TOOLS,T,2018,Fortnite Creative,T,HOST_GAME_CREATOR,https://www.fortnite.com/news/creative,托管玩家与世界，UGC不等于standalone
+053,TOOLS,T,2023,UEFN,T,HOST_GAME_CREATOR,https://www.fortnite.com/news/unreal-editor-for-fortnite-and-creator-economy-2-0-are-here-new-worlds-await,现成多人/发行/服务基座
