@@ -6,6 +6,8 @@
 - 上游研究：[001 技术吸收](001-technology-absorption-framework.md) / [003 技术体制](003-game-industry-technology-regimes.md) / [005 历史年代表](005-game-production-capability-timeline.md) / [006 年度观测](006-annual-observations-dictionary.md) / [007 2D/3D 分代](007-genre-production-diffusion.md)
 - **事件证据表**：[008-genre-role-year-events.csv](008-genre-role-year-events.csv)；**1982—1995 老平台样本**：[009-presteam-platform-release-observations.csv](009-presteam-platform-release-observations.csv)
 
+> **2026-10-10 内容生产力补充：**新增 [012 — 二维/三维开放世界、3D时代内容收缩、三人多人游戏与独立沉浸式模拟研究](012-3d-content-contraction-and-indie-system-worlds.md) 及 [2D/3D内容年代矩阵](012-openworld-system-production-era-map.svg)、[成本替代机制图](013-content-cost-substitution-mechanisms.svg)。原文重点关注平台动作，此补充把可探索内容和游戏系统规模单独入轴。
+
 ## 本轮立即看图：三张图分别解答三类问题
 
 ### A. **哪种开发者在哪年做出了什么？**
