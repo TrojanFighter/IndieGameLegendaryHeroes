@@ -42,7 +42,7 @@
 - [008 — 年度×2D/3D×大型／中型核心／独立制作图谱](008-audited-genre-capability-atlas.md) — 复核 46 项事件与阶段证据；[8轨产品能力时间轴](008-genre-production-multitrack.svg)、[前Steam与Steam产量图](009-presteam-to-steam-production-volumes.svg)、[2D/3D射击对照图](010-shooter-coop-2d3d-parallel.svg)
 - [009 — 前Steam历史收录数原始观察](009-presteam-platform-release-observations.csv) — ZX Spectrum 1982—1989／DOS 1990、1993、1995 的平台收录数及动态档案注意事项
 
-- [011 — 开放世界/小团队多人/沉浸式模拟生产案例数据（30例）](011-open-world-small-team-immersive-multiplayer-cohorts.csv) — 记录2D/3D内容机制、开发人数口径、EA与正式版、发行与预算来源
+- [011 — 开放世界/小团队多人/沉浸式模拟生产案例数据（33例）](011-open-world-small-team-immersive-multiplayer-cohorts.csv) — 记录2D/3D内容机制、开发人数口径、EA与正式版、发行与预算来源
 - [012 — 3D化内容成本、独立2D系统世界、多人与沉浸模拟研究](012-3d-content-contraction-and-indie-system-worlds.md) — [六类产品年代矩阵图](012-openworld-system-production-era-map.svg) 与 [成本替代机制图](013-content-cost-substitution-mechanisms.svg)，收录1999《System Shock 2》原始预算和成员人数
 
 ## 与《独立游戏英雄传说》的接口
