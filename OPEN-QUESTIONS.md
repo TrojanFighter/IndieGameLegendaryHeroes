@@ -444,6 +444,21 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 ---
 
 
+## P0 — 教育上游／英雄尚未出发
+
+### OQ-023｜教育/家庭究竟在行业出现之前筛掉了多少潜在创作者？
+
+**Status:** NEW / MECHANISM MAPPED / DENOMINATOR MISSING（2026-10-10）  
+**Evidence in repo:** [037家校自主权与风险机制](country-studies/china/037-family-school-agency-risk-hero-nondeparture.md)、[031自主探索](country-studies/china/031-education-east-asian-discipline-reference-repertoire.md)、[032 Exam Overfit](country-studies/china/032-exam-overfit-routine-expertise-open-domain-transfer.md)、[018三层约束](book/research-notes/china-creator-constraints-three-layer-map-018.md)、[TC-005](book/THESIS-CANDIDATES.md)。  
+**Precise question:** 在实际同龄人群中，家庭/学校的兴趣时间、选择权与安全/风险训练，分别影响多少人取得首个项目、第二次尝试或进入游戏行业？与产业版本失配、家庭收入、社群可得性相比，**各自效应和交互的数量级**如何？  
+**Sampling requirement:** 纳入“从未做东西”和“自愿不做东西”的人，不能只抽已入行员工/游戏开发者；匹配出生队列、城乡、性别、家庭收入、学校与游戏技术历史窗口。  
+**Competing explanations:** 家庭/学校可以提供强正面资源；优绩教育可能提供可靠技术基础；手游/网游时代改变媒介偏好；时间增加不一定用于创作；高自主与富足也不能保证成功。  
+**Closure condition:** 至少两个真实同龄/同背景进入队列，记录自由时间与家校决策权、兴趣及首作时间、非参与者、自愿退出、家庭现金和社群，并追踪首作及第二次尝试；提供人数分母、效应区间、敏感性分析和正负反例；无法完成不得宣称“教育是数量级上最大的原因”。  
+**Safety:** 未成年人及家庭隐私、心理危机和重大事故不得当作可识别的创作者失败样本。  
+**Route:** 037主存因果模型；OQ-001/003处理看不见的人，OQ-019处理课程时间成本，OQ-022处理入厂后制度再生产。
+
+---
+
 ## Usage
 
 其他对话领取问题时应：
