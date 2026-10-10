@@ -214,6 +214,32 @@ CASE-026 已满足第一轮“强作者性 / 强产品执行但商业首发失�
 - `Grasshopper Manufacture` — CHAT-RESEARCH + COMPARATOR：外部资本阶段性利用、重新独立、自发行 know-how 内化。
 - `Indolphinity / 明末：渊虚之羽后续组织` — CHAT-RESEARCH + COMPARATOR：主创另立组织、IP/融资/全球发行关系，待事实链独立核验。
 
+
+### 同题材四作对照：英雄传说的研究入口
+
+**正样本是技术/体验定义，研究对照集则故意包含失败者，二者绝不能混同。** 四作比较必须同时保留：Blackwake（小型团队的船员与破坏闭环）、Blazing Sails（亲缘年轻团队的船战+大逃杀闭环）、Sea of Thieves（大型团队对同类循环的正向实现）、Skull and Bones（大团队仍未实现这些玩家互动的**负向对照**）。育碧《Black Flag》只提供历史技术/组织前史。比较的是可操作物件、船员岗位、战斗协作、返修/进水/登船，以及开发和市场的资源转换率；不可用“公司大”“引擎先进”代替体验证据，也不能把“失败反例不合格”误作“研究比较里不能出现”。详见[工业革命003§7](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)。
+
+### 物理破坏技术窗口与主创关系谱系候选（2026-10-10）
+
+本小节为**候选池，不是新增正式CASE编号**。技术史主档见[工业革命003§6](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)，现有Landfall部分回到CASE-034/E009；不额外建立平行“21游戏主库”。
+
+| 候选 | P0来源事实种子 | 人物/组织研究问题及状态 |
+|---|---|---|
+| Nolla Games / Noita / Baba Is You | [Noita Steam](https://store.steampowered.com/app/881100/Noita/)列三创始人Petri Purho、Olli Harjola、Arvi Teikari及各自前作 | 芬兰个人作者何以跨项目协作，2017前的能力/原型/资金路径；P0 SEED，完整团队边界UNKNOWN |
+| Get Up Games / Blazing Sails | [开发者Press Kit](https://www.blazingsails.com/presskit)载三表兄弟创始：Frederic Degraeve、Christophe Degraeve、Gaetan Thibaut；同在Howest就读，前二人毕业继续业余原型、Gaetan赴国外AAA公司工作后加入，较年轻亲戚Gauthier后加入；[Steam](https://store.steampowered.com/app/1158940/Blazing_Sails/)EA 2020-09-09、1.0 2023-11-13 | 亲缘信任、职业积累、技能互补、VAF扶助、Epic MegaGrants和Iceberg发行外围；具名关系P0，具体毕业年份/预算/收益UNKNOWN |
+| Tuxedo Labs / Teardown | [Steam](https://store.steampowered.com/app/1167630/Teardown/)及[开发者多人技术复盘](https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html) | 自研技术前沿→EA→商业团队扩大→Mod/多人迁移；核心人数与累计协作者分开；P0 SEED |
+| Radiangames / Instruments of Destruction | [Steam](https://store.steampowered.com/app/1428100/Instruments_of_Destruction/)证实2022-03-02 EA与2024-05-10正式版 | Red Faction老兵技术资本、玩家的“建造负担”与“直接破坏”满足差异；商业回顾需审计原始统计口径；P0 SEED |
+| Rigs of Rods → BeamNG.drive | [BeamNG官方](https://beamng.com/game/)详述节点梁软体技术 | 开源社群与商业产品的具体贡献者/代码许可/职业迁移需要逐人证明；TECHNICAL SEED / PEOPLE UNVERIFIED |
+| Space Engineers / Besiege / Brick Rigs | [Brick Rigs Steam](https://store.steampowered.com/app/552100/Brick_Rigs/)证实2016 EA | 2013–16独立3D工程/可破坏物理商业化早于2020 Teardown；可作为同期对照，但不能等同同技术堆栈 |
+| Knightfall: A Daring Journey | [Landfall官方Press Kit](https://landfall.se/knightfall-a-daring-journey-press-kit)五周开发、2022-04-01、五名具名角色；[Steam](https://store.steampowered.com/app/1911390/Knightfall_A_Daring_Journey/)免费 | **仅指向CASE-034，不新建CASE**。以实验指标而非商业销售断言成功/失败 |
+| Mastfire Studios / Blackwake | [开发者2020正式版长篇复盘](https://steamcommunity.com/app/420290/allnews/)：Dakota 2013创意、Tyler论坛结识，2014首次KS失败、2015重新定位众筹获约AUD170k，2017 EA、2020 1.0，2020开发者自报EA累计>120万份；[Steam](https://store.steampowered.com/app/420290/)现免费是2024起状态 | **P0/P1重点人物候选**：Mods→论坛结盟→失败众筹→看主播玩发现喜剧性协作→重启产品定位→PUBG停机带来偶然主播流量→EA试错删除不讨好的模式→长线转免费。先审计两核心与外包外围、众筹开销、销量口径，不抢新Case编号 |
+| Sea of Thieves / Rare（非独立对照） | [官方2024-04-17公告](https://www.seaofthieves.com/news/40-million-players)累计跨平台玩家超4000万（**非销量**）；2018发行 | **同品类合格正样本（但不是indie统计样本）**：2019官方扩展了可定位修复的破洞、桅杆、锚机、舵轮损伤，支持真人岗位和登船；证明大团队也能完整实现此闭环。详见[2019年官方损伤更新](https://www.seaofthieves.com/release-notes/2.0)。收入、利润、开发人年UNKNOWN |
+
+**四作比较中的必要负面对照（非品类正样本）**：Ubisoft《Skull and Bones》属于 OUT_OF_CATEGORY，但**保留为Blackwake、Blazing Sails、Sea of Thieves、Skull and Bones四作研究矩阵的第四项**。它之所以必须参与比较，正是因为海盗船海战题材及庞大生产资源未转化为玩家可操作的船体破坏、维修、岗位协作和登船循环。2024首发评价指出缺少自由甲板走动、真人同船岗位、船体局部破损→定位抢修以及手动登船作战（[WorthPlaying](https://worthplaying.com/article/2024/2/27/reviews/140986-pc-review-skull-and-bones/) / [GameSpot](https://www.gamespot.com/reviews/skull-and-bones-review-dead-in-the-water/1900-6418186/)）；2025育碧[官方移除登船过场](https://www.ubisoft.com/en-us/game/skull-and-bones/news-updates/lwF6GtXbegdXvpbp2eE4h)并非补回登船操作。《Black Flag》2013有亲自登船，但属于单机海盗动作，不属于真人船员联网对战。《Skull and Bones》**必须参与四作跨组织能力/交互比较矩阵**，但不进入合格玩法品类的正样本数量或成功率分母；《Black Flag》作为历史对照但不计四作。对照组选择以**可实现的玩家操作系统**为轴，不因其非同类合格产品就把关键失败反例删除。
+
+
+外部AI生成的“样本表”已有多处作品/开发商误指认，与官方一手来源冲突；未经逐字段核对的数字不得导入Evidence、Case或metadata。参见[工业革命003§6](../cross-industry/industrial-revolutions/003-game-industry-technology-regimes.md)。
+
 ## 玩法与市场深研中出现、但暂不宜升级为人物生产史 Case 的对象
 
 以下条目来自既往竞品/新品/行业深研。保留它们是为了避免旧论据遗失，但**“被拿来做玩法或市场比较”不等于适合写进本书人物主线**：
