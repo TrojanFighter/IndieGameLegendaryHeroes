@@ -372,6 +372,9 @@ Route 不是成功公式；新证据若推翻现有判断，优先修改 Route�
 
 对照：2017 Bluehole识别并引入MOD作者Brendan Greene，但金昌汉本人也已经看中大逃杀机会；2026 Supercell团队自治与Spark、失败项目Squad Busters；Kowloon Nights资金与IP条款；2011上海交大支持学生创业与2021 Gamera微团队发行扶持。**个案不能直接证明学校或企业在总体上哪个更保守；也不能把资方自述当已经测量的效果。**
 
+
+**2026-10-10 理论加深：** 识别年轻作者不等于有能力培养他。上一代拥有成熟赛道资历，却可能根本没有Roblox/MOD/新品类的实践知识；若仍占有课程、评审、预算及项目方向否决权，就会让异类在出发后遭遇第二次筛选。区分“会却不教”“不会但承认边界”“不会还按旧范式教”三类，第三类是**导师负迁移**假说。竞争性私企至少可能以投资、合伙、独立团队与支持服务适应自己不懂的新玩法；学校对统一课程和认证的依赖可能使纠错更慢。这个相对判断必须通过同口径的自主试验权限、退出成本和长期作者留存研究检验，参见[中国039第9节](../country-studies/china/039-frontier-creator-support-authority-rights-and-incubation.md)及[TC-006](THESIS-CANDIDATES.md)。
+
 ## 横向研究入口 — 谁有资格告诉强作者“你错了”？
 
 - [042 — Carmack × Romero：互补能力如何变成高频纠错网络](research-notes/carmack-romero-complementary-error-correction-network-042.md)：Dangerous Dave技术突破的战略解释、Wolf3D push-wall争执、Doom design↔engine翻译、Quake纠错延迟，以及Tom Hall/市场作为第三方反压力。
