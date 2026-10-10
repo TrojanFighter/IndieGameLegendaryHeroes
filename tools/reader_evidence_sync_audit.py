@@ -6,9 +6,11 @@ signals that `book/EDITORIAL-GATE.md` section 0.6 cares about:
 
 1. years used in a profile that appear nowhere in its Case / Evidence layer;
 2. profile -> Case / Evidence Ledger backlinks that are missing or broken;
-3. how many ledgers preserve at least one verbatim quote.
+3. quote-like passages at ledger and individual Evidence-record level.
 
 A hit is a prompt to re-read the original source, not proof of an error.
+Quote matching is a heuristic: quoted prose may be paraphrased, too short to match,
+or unrelated to the sourced fact. An apparent quote is NOT proof of verification.
 Approximate phrasing ("c. 2009") and phases the evidence layer has not yet
 absorbed both produce legitimate hits, which is why this does not block merges.
 
@@ -39,6 +41,8 @@ YEAR_RE = re.compile(r"\b(?:19|20)\d{2}\b")
 LONG_QUOTE_RE = re.compile(r'"[^"]{60,}"|“[^”]{20,}”')
 CASE_LINK_RE = re.compile(r"\(\.\./\.\./cases/(CASE-\d{3}[^)\s]*\.md)\)")
 LEDGER_LINK_RE = re.compile(r"\(\.\./\.\./evidence/(CASE-\d{3}[^)\s]*\.md)\)")
+EVIDENCE_HEADING_RE = re.compile(r"(?m)^## (E\d{3})\b[^\n]*$")
+SOURCE_CLASS_RE = re.compile(r"(?mi)^\s*-\s*(?:Source class|Class):\s*([^\n]+)")
 
 
 def read(path: Path) -> str:
@@ -50,6 +54,21 @@ def read(path: Path) -> str:
 
 def years(text: str) -> set[str]:
     return set(YEAR_RE.findall(text))
+
+
+def evidence_records(text: str) -> list[tuple[str, str]]:
+    """Extract record ID and body; headings outside E001-style records are ignored."""
+    headings = list(EVIDENCE_HEADING_RE.finditer(text))
+    return [
+        (heading.group(1), text[heading.end():headings[i + 1].start() if i + 1 < len(headings) else len(text)])
+        for i, heading in enumerate(headings)
+    ]
+
+
+def is_primary_record(body: str) -> bool:
+    """Only explicit P0/P1 class declarations trigger a primary-source warning."""
+    match = SOURCE_CLASS_RE.search(body)
+    return bool(match and re.search(r"\bP[01]\b", match.group(1)))
 
 
 def main() -> int:
@@ -88,27 +107,28 @@ def main() -> int:
         if missing:
             year_drift.append(f"{rel}: {', '.join(missing)}")
 
-    ledgers = sorted(EVIDENCE.glob("*.md"))
-    with_quote = [p for p in ledgers if LONG_QUOTE_RE.search(read(p))]
-    pct = (100 * len(with_quote)) // max(1, len(ledgers))
+    # Only numbered canonical ledgers count; README and intake notes are NOT ledgers.
+    ledgers = sorted(EVIDENCE.glob("CASE-*-source-ledger.md"))
+    ledger_with_quote = [p for p in ledgers if LONG_QUOTE_RE.search(read(p))]
+    ledger_pct = (100 * len(ledger_with_quote)) // max(1, len(ledgers))
 
-    # Summary density: how much text one evidence record carries. A short
-    # average is where source nodes get compressed away, which is the failure
-    # EDITORIAL-GATE 0.6 describes. Measured, not asserted.
-    density = []
+    # Per-record coverage is more informative than 'one quote somewhere in a ledger'.
+    records = []
     for path in ledgers:
-        blocks = re.split(r"(?m)^## E\d", read(path))[1:]
-        if blocks:
-            density.append((path.name, len(blocks), sum(len(b) for b in blocks) // len(blocks)))
-    mean_density = sum(d[2] for d in density) // max(1, len(density))
-    thin = sorted((d for d in density if d[2] < 700), key=lambda d: d[2])
-    # The actionable subset: thin AND carrying no quote at all. A thin ledger
-    # that already quotes its source needs a different fix than one that
-    # summarised the source into bullets (EDITORIAL-GATE 0.6).
-    thin_no_quote = [
-        (name, n, avg) for name, n, avg in thin
-        if not LONG_QUOTE_RE.search(read(EVIDENCE / name))
-    ]
+        for record_id, body in evidence_records(read(path)):
+            records.append((
+                path.name,
+                record_id,
+                len(body),
+                bool(LONG_QUOTE_RE.search(body)),
+                is_primary_record(body),
+            ))
+
+    mean_density = sum(item[2] for item in records) // max(1, len(records))
+    thin = [item for item in records if item[2] < 700]
+    no_quote = [item for item in records if not item[3]]
+    primary_no_quote = [item for item in no_quote if item[4]]
+    thin_no_quote = [item for item in thin if not item[3]]
 
     print("reader/evidence sync audit (report only, does not block merges)")
     print(f"profiles: {len(profiles)}, with backlink problems: {len(backlink_problems)}")
@@ -117,12 +137,16 @@ def main() -> int:
     print(f"profiles with year drift: {len(year_drift)}")
     for message in year_drift:
         print(f"  - {message}")
-    print(f"ledgers: {len(ledgers)}, with >=1 verbatim quote: {len(with_quote)} ({pct}%)")
-    print(f"mean summary per evidence record: {mean_density} chars; {len(thin)} ledgers average under 700")
-    print(f"  of those, quote-free (most actionable): {len(thin_no_quote)}")
-    for name, n, avg in thin_no_quote[:10]:
-        print(f"  - {name}: {n} records, avg {avg} chars, no quote")
-    print("Re-read the original source for each hit before editing anything (EDITORIAL-GATE 0.6).")
+    print(f"canonical ledgers: {len(ledgers)}; with detectable long quotes: {len(ledger_with_quote)} ({ledger_pct}%)")
+    print(f"numbered Evidence records: {len(records)}; without detectable long quote: {len(no_quote)}")
+    print(f"  P0/P1 records without detectable long quote: {len(primary_no_quote)}")
+    print(f"mean record-body length: {mean_density} chars; {len(thin)} records under 700 chars")
+    print(f"  thin AND without detectable long quote: {len(thin_no_quote)}")
+    print("First 12 P0/P1 record-level source-refresh candidates (not a severity ranking):")
+    for name, record_id, chars, _, _ in primary_no_quote[:12]:
+        print(f"  - {name} / {record_id}: {chars} chars")
+    print("Heuristics only: quotes may be too short, misattributed or not checked against the original.")
+    print("Re-read the original source before changing Evidence, Case or reader prose (EDITORIAL-GATE 0.6).")
 
     if args.strict and (backlink_problems or year_drift):
         return 1
