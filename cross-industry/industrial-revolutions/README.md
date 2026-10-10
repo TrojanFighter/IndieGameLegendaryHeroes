@@ -1,5 +1,8 @@
 # Industrial Revolutions Comparative Lab｜工业革命比较实验室
 
+> **当前优先阅读：**[023 — 1958—2026游戏分品类L/M/I三条线的标志性历史作品总览](023-first-readable-historical-three-line-atlas.md)｜[可直接观看的主图SVG](023-representative-three-rails-filled-first-pass.svg)｜[54条来源可追的里程碑记录](023-representative-genre-three-rails-1958-2026.csv)。[022](022-network-conditioned-genre-three-line-method.md)的102格是科研审计辅助，不是主图完工条件；现主图9家族×3轨，有21/27已有案例锚点。联网以S/C/N/O/D/∞模式注释，工具和不同子品类合作列附轨。
+
+
 > **研究入口已纠偏：**[022 — 玩法 × 2D/3D × 网络架构 × 持久性 × 制作主体的严格三线分代](022-network-conditioned-genre-three-line-method.md)。[完整102格分类矩阵SVG](022-genre-network-lmi-matrix.svg)｜[按21个实证单元绘制的大／中／微三轨时间轴SVG](022-network-conditioned-three-rail-timeline.svg)｜[逐版本30条案例CSV](022-version-specific-lmi-evidence.csv)。此前[021旧图](021-three-track-genre-production-capability.md)因混合网络形态和不等价玩法，已标为历史草稿。
 
 
