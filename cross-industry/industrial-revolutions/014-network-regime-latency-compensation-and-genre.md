@@ -1,5 +1,7 @@
 # 014 — 联网技术分代与多人玩法的可行解空间（1978—2026）
 
+> **2026-10-10 第四轮修正：网络同步算法不是完整的多人技术分代。** 新增 [015 — 同机派对、LAN、早期公网到全国性多人对战服务分代](015-local-lan-wan-national-multiplayer-production-regimes.md)，分别追踪 **本地同机／局域近距／早期WAN／全国联网用户服务** 的可达性与作者成本；[4轨图](015-multiplayer-social-geography-regimes.svg)／[21节点CSV](015-multiplayer-connectivity-experience-events.csv)。原《QuakeWorld 1996》《AoE 1997》案例需与《Mario Party 1998》《Mario Kart DS 2005》《CS 1999》《CF中国2008》在两条正交轴比较，不可将早期CS/RTS写成仅LAN，CF也不是“FPS互联网发明元年”。
+
 - Status：**公开史料对照 + 史料年份图表化 / 非全行业作者统计**
 - Updated：2026-10-10
 - Research scope：网络协议、延迟补偿、规模化复制、游戏类型及小作者可负担性；不混入私人游戏项目文档。
