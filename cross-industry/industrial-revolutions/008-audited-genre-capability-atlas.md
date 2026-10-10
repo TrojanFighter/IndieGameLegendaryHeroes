@@ -8,6 +8,8 @@
 
 > **2026-10-10 内容生产力补充：**新增 [012 — 二维/三维开放世界、3D时代内容收缩、三人多人游戏与独立沉浸式模拟研究](012-3d-content-contraction-and-indie-system-worlds.md) 及 [2D/3D内容年代矩阵](012-openworld-system-production-era-map.svg)、[成本替代机制图](013-content-cost-substitution-mechanisms.svg)。原文重点关注平台动作，此补充把可探索内容和游戏系统规模单独入轴。
 
+> **新增联网技术的独立分代轴：**[014 — 网络架构与延迟补偿如何改变多人游戏玩法与作者可负担能力](014-network-regime-latency-compensation-and-genre.md)，含[1978—2026七轨技术年代图](014-network-capability-parallel-regimes.svg)，更正“MMORPG先于网战且长期唯一”“2009 GGPO SDK”误区。网络角色规模不得仅凭2D/3D画面形态推断。
+
 ## 本轮立即看图：三张图分别解答三类问题
 
 ### A. **哪种开发者在哪年做出了什么？**
