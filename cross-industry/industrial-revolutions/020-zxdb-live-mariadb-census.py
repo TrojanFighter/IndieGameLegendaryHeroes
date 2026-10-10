@@ -37,11 +37,12 @@ def main():
     )
     with db.cursor() as cur:
         for table, expected in {
-            "entries": {"id", "genretype_id"},
+            "entries": {"id", "genretype_id", "machinetype_id"},
             "releases": {"entry_id", "release_seq", "release_year"},
             "authors": {"entry_id", "label_id"},
             "labels": {"id", "labeltype_id", "owner_id"},
             "genretypes": {"id", "text"},
+            "machinetypes": {"id", "text"},
         }.items():
             cur.execute("SHOW COLUMNS FROM " + table)
             seen = {c[0] for c in cur.fetchall()}
@@ -53,6 +54,12 @@ def main():
         genres = cur.fetchall()
         output("zxdb-genre-audit.csv",
                ["genretype_id", "genre_text", "all_catalog_entries"], genres)
+        cur.execute("""SELECT m.id, m.text, COUNT(e.id)
+            FROM machinetypes m LEFT JOIN entries e ON e.machinetype_id=m.id
+            GROUP BY m.id, m.text ORDER BY COUNT(e.id) DESC""")
+        machines = cur.fetchall()
+        output("zxdb-machine-audit.csv",
+               ["machine_id", "machine_label", "all_catalog_entries"], machines)
         # No historical ZXDB->Steam tag mapping is being invented here.
         # Label as GAME_KEYWORD_PROXY until manually reviewed.
         game_ids = [
@@ -69,11 +76,13 @@ def main():
         cur.execute("""SELECT e.id, e.title, e.genretype_id, r.release_year,
               a.label_id, l.labeltype_id, l.owner_id, owner.labeltype_id
             FROM entries e
+            JOIN machinetypes m ON m.id=e.machinetype_id
             JOIN releases r ON r.entry_id=e.id AND r.release_seq=0
             LEFT JOIN authors a ON a.entry_id=e.id
             LEFT JOIN labels l ON l.id=a.label_id
             LEFT JOIN labels owner ON owner.id=l.owner_id
             WHERE e.genretype_id IN (""" + placeholders + """)
+              AND m.text LIKE 'ZX-Spectrum%'
               AND r.release_year BETWEEN 1982 AND 1992
             ORDER BY r.release_year, e.id""", tuple(game_ids))
         records = cur.fetchall()
@@ -118,7 +127,7 @@ def main():
     for year in range(1982,1993):
         y=years[year];n=len(y["titles"]);human=len(y["people"])
         year_out.append([
-            year,"GAME_KEYWORD_PROXY","ORIGINAL_STANDALONE_DATED",
+            year,"GAME_KEYWORD_PROXY_AND_ZX_SPECTRUM_MODEL","ORIGINAL_STANDALONE_DATED",
             PINNED_SHA,
             n,len(y["known_credit"]),len(y["unresolved"]),
             len(y["one_explicit"]),human,
@@ -139,6 +148,7 @@ def main():
             for (yr,gid),v in sorted(by_genre.items())])
     print("ZXDB source:",PINNED_SHA)
     print("Genre candidates",len(genres),"game-word proxy IDs",len(game_ids))
+    print("Machine filter: machinetypes.text LIKE ZX-Spectrum% (ZXDB also covers ZX81/QL/Timex/SAM!)")
     print("YEAR | Original dated games | Distinct identifiable people | Person credit coverage")
     for row in year_out:
         print(row[0],"|",row[4],"|",row[8],"|",str(row[11])+"%")
