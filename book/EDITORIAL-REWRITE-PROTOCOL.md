@@ -86,6 +86,8 @@
 | Historical regime | 当年的平台、工具、制度和生活成本被套用到今天 |
 | Quote / intellectual property | 概括性转述被加上引号；未经核对的原话与长篇受版权保护文本被引入 |
 
+**双向史实回读（仅在重大删改时触发）：**若 Lane C 因为 Ledger 的概述没提到，而准备删去原稿中有分量的当事人原话、设计偏好、职业阶段、协作者身份、金额来源或决策节点，先查原 Ledger 的精确来源 URL 与原始相关段落，不得由“摘要缺项”推出“原始来源没有”。发现有据但遗漏的事实时，交 Lane B 在既有 Evidence ID 中补录节点与来源边界，再由 Lane C 决定保留、改写或仍然为了篇章焦点舍弃；舍弃也要说明编辑理由，不是把它判为不存在。原始资料无法取得时记录 `VERIFY_IN_LANE_B` 与具体检索缺口，不能默默断言无据。反向同样检查为叙事新增的动作、引语和因果。本条来自 CASE-012/E001 两次实测失真（预 Steam 自营 alpha 被漏、设计意图与 2015 人员被误删），**不是所有条目必须回源、不是新模板或 lint，也不要求全库回填**。
+
 **输出一个“Fidelity Readback”摘要**：每项 `PRESERVED / NEEDS_VERIFY / REGRESSION`，至少引用每个重大修改涉及的 Case / Evidence 位置。发现 `REGRESSION` 必须改回或交给 Lane B 核证，不能因为新稿更好读而放行。
 
 ### 4. A/B comparison 与验收
