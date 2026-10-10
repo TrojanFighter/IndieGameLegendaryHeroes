@@ -95,6 +95,7 @@
 - [`028 — 仿制伟大：成功声望、判断外包与原创者识别`](028-imitation-of-greatness-prestige-copying-and-authorial-judgment.md)：区分技术学习、范式继承与声望/身份仿制；以 `ACHIEVEMENT-TO-EPISTEMIC-AUTHORITY TRANSFER / JUDGMENT OUTSOURCING / SELF-AUTHORED-ENDS SUBSTITUTION` 三机制解释“成功模板为何可能侵占原创判断权”，以66RPG、CiGA、Mod反例及跨国分母审计限制外推。
 - [`028 — Hacker Spirit × Scale Down × Commercial Anti-Training`](028-hacker-spirit-scale-down-commercial-antitraining.md)
 - [`029 — 正统倒置 × 春登 × 农民发明家`](029-orthodoxy-inversion-chundeng-farmer-inventor.md)：把“正道/邪道武功”明确标为作者提出的产业评价体系隐喻，研究后发答案红利如何经招聘、晋升、立项和融资变成能力正统；对照“春登”的成功路径锁定与“农民发明家”的无标准答案实验能力，保留国别分母未知和反例。：把 hacker 精神操作化为 `HANDS-ON CONSTRAINT REWRITING`，把 scale down 定义为 `THESIS-PRESERVING SCALE DOWN`，并研究商业工业习惯在微型作者生产中的 `INDIE NEGATIVE TRANSFER / REGIME-SPECIFIC SKILL INVERSION`。
+- [`036 — 农民发明家历史实证：技术原型、创造自主权与反例`](036-farmer-inventor-history-problem-sovereignty-evidence.md)：新增1946—1968具体试制报道与1952棉种、1953—1963农机适配反例，区分同期宣传与工程真实性、技术技能与五项自主权，明确固定起点分母尚缺。
 
 Joseph Henrich 关于 WEIRD societies、kinship 与 individualism 的研究可以提供跨社会比较假说，例如 impersonal institutions、voluntary association、individual choice、conformity / nonconformity、trust beyond kin、occupational mobility。
 
