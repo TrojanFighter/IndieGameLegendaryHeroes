@@ -1,5 +1,8 @@
 # 008 — 游戏产业技术—产品生产能力分代：跨品类年度证据与三张读图（1958—2026）
 
+> **2026-10-10 里程碑：**此前本页认为历史个人开发者人数UNKNOWN，现已真正运行 [020 — ZXDB 1982—1992年度个人署名供给和品类曲线](020-zxdb-1982-1992-measured-supply-and-genre.md)。注意“人名署名”仍不等于Q1严格独立开发工作室。最初未按机型过滤得到的1984年1,480款/945人已经撤回；最终ZX-Spectrum特定机型1984年为**1,386款/913名明确个人署名者**。
+
+
 > **联网地理/市场可达性量化**：[016 — 中国1997—2010年实际联网能力：浩方、网吧、CF与韩美日宽带扩散](016-1997-2010-multiplayer-reach-and-market-infrastructure.md)。这是独立于2D/3D图形时代和网络协议发明年份的另一条扩散轴；原始年份与人群分母不允许和独立作者量产同列。
 
 > **多人游戏范围与服务成熟度单独分代**：[015 — 同机派对、LAN、早期公网到全国性多人对战服务分代](015-local-lan-wan-national-multiplayer-production-regimes.md)。本机多人《Mario Kart 64》《Mario Party》《Smash》、早期CS/RTS的LAN与Internet并存、CF中国2008大规模在线商业化不是同技术阶段。[图](015-multiplayer-social-geography-regimes.svg)，避免把玩法相似当生产技术基础相同。
