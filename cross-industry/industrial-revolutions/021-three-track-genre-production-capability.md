@@ -1,5 +1,8 @@
 # 021 — 先看这三条线：分品类 L／M／I 生产能力时间轴（1980—2026）
 
+> **当前优先阅读：**[023 — 1958—2026游戏分品类L/M/I三条线的标志性历史作品总览](023-first-readable-historical-three-line-atlas.md)｜[可直接观看的主图SVG](023-representative-three-rails-filled-first-pass.svg)｜[54条来源可追的里程碑记录](023-representative-genre-three-rails-1958-2026.csv)。[022](022-network-conditioned-genre-three-line-method.md)的102格是科研审计辅助，不是主图完工条件；现主图9家族×3轨，有21/27已有案例锚点。联网以S/C/N/O/D/∞模式注释，工具和不同子品类合作列附轨。
+
+
 > **2026-10-10 已降级为历史草稿：本页旧图混合不同联机架构、人数与非同类合作玩法，请改以 [022统一品类×网络条件方法](022-network-conditioned-genre-three-line-method.md)、[102格系统矩阵](022-genre-network-lmi-matrix.svg) 与 [21单元三轨时间轴](022-network-conditioned-three-rail-timeline.svg) 为准。** 特别禁止把Left 4 Dead / Valheim / Lethal Company画成一个严格的三阶段品类，禁止用Stardew 2016单机作者证明2018联机功能是独立完成。
 
 
