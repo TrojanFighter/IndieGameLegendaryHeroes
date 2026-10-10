@@ -1,5 +1,7 @@
 # 012 — 从2D广域世界到3D内容收缩，再到独立作者的系统世界、多人游戏与沉浸式模拟（1984—2026）
 
+> **网络环境与玩法复用的额外控制维度**：[015 — 同机派对、LAN、早期公网到全国性多人对战服务分代](015-local-lan-wan-national-multiplayer-production-regimes.md)，可把2018—2023三人联网独游的产品成本同1990年代LAN/拨号/全国服务化分开，防止把网络中间件吸收误判为“网络能力刚被发明”。
+
 - **Status**: PUBLIC RESEARCH / AUDITED EXPANSION, NOT FULL INDUSTRY QUANTIFICATION
 - Research date: 2026-10-10
 - Scope: 公开游戏产业史；**不要掺入私人游戏项目技术或商业资料**。
