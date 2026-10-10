@@ -1,0 +1,7 @@
+year,platform,metric,value,scope_and_qualification,source_url,evidence_level
+1981,APX,platform_launch,,Mail-order user-submitted Atari 8-bit software program and royalty interface,https://www.atariarchives.org/APX/catalogs/,original_catalogs
+1982,APX,annual_new_video_game_titles,20,CGW 1983 contemporary list APX 20 releases; not standalone game creator ID count,https://www.cgwmuseum.org/galleries/issues/cgw_3.2.pdf,contemporary_survey_index_only
+1983,APX,catalog_available_software_titles,>170,June 1983 Antic magazine APX available titles of all kinds incl games applications educational,https://www.atarimagazines.com/v2n3/apx.html,contemporary_magazine_html
+1983,APX,author_royalty_pct_net_receipts,10,Antic 1983 royalty of APX net amounts received not retail gross or recurring revenue,https://www.atarimagazines.com/v2n3/apx.html,contemporary_magazine_html
+1982,APX,author_royalty_pct_net_receipts,10,1982 original APX submission contract mentions net receipts less costs,https://www.atarimania.com/documents/apx-submission.pdf,original_contract_index_pdf_not_visually_checked
+1984,APX,platform_shutdown,,Atari mail-order distribution closed; exact economics requires separate primary audit,https://www.atariarchives.org/APX/thorlininterview.php,participant_retrospective
