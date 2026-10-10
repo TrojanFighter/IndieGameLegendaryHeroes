@@ -1,5 +1,8 @@
 # 022 — 按玩法×渲染×网络结构严格重建三条生产能力时间线（取代021主图）
 
+> **先看更适合读者的[023标志性作品三线主图](023-first-readable-historical-three-line-atlas.md)／[SVG](023-representative-three-rails-filled-first-pass.svg)。** 本页102格笛卡尔积保留为研究数据库的控制变量及查漏工具，不再是“画全书历史主图之前必须填满的102个格子”。023已选54条有出处的里程碑记录，9个主品类×L/M/I共27个轨道有21个案例锚定，其余保留限制，不能为了排版编造历史首次。
+
+
 - Status: **CANONICAL RESEARCH FRAMEWORK / 仅有证据的产品锚点，NOT INDUSTRY FIRST OR GENRE-WIDE DIFFUSION**
 - Date: 2026-10-10。属于《独立游戏英雄传说》公开产业研究，不涉及其他工程。
 - **先看：[022系统矩阵](022-genre-network-lmi-matrix.svg)、[022严格分单元的L/M/I时间图](022-network-conditioned-three-rail-timeline.svg)**。此前 [021](021-three-track-genre-production-capability.md) 仅作为历史草稿，因网络状态混搭、玩法不等价，取消作为首选图。
