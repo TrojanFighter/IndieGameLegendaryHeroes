@@ -1,5 +1,7 @@
 # 007 — 2D／3D 同品类产品分代：大厂、中厂、独立作者、量产证据（1958—2026）
 
+> **核心主线（优先读）：[021 — 不同品类中大型专业 L／中型核心 M／个人微型 I 的三条生产能力时间线](021-three-track-genre-production-capability.md)** · [十品类三线SVG时间轴](021-genre-three-production-lines.svg) · [24个有出处的L/M/I案例CSV](021-genre-lmi-three-line-anchor-evidence.csv)。此前005—020大量作者群、Steam、ZXDB、UGC资料改作验证这些年份的附属证据，而不再充当三条线本身。空格写UNKNOWN，不能捏造连贯扩散年份。
+
 - Status: **AUDITED WORKING MAP — 部分阶段缺数据，不等同全产业普查**
 - Updated: 2026-10-09
 - Data: [006 年度原始观察 CSV](006-annual-production-capability-observations.csv)／[字段字典](006-annual-observations-dictionary.md)
