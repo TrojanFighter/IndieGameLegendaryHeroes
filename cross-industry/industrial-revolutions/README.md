@@ -47,6 +47,8 @@
 
 - [014 — 联网技术分代：锁步/预测/插值/服务器回溯/回滚/AOI与独游联网工具](014-network-regime-latency-compensation-and-genre.md) — [七轨1978—2026技术年代图](014-network-capability-parallel-regimes.svg) 与 [28条原始网络能力事件CSV](014-online-network-technology-events.csv)，补上MMORPG/RTS/FPS/MMOFPS/多人微团队之间的技术可行性边界
 
+- [015 — 同机派对、LAN、早期公网到全国性多人对战服务分代](015-local-lan-wan-national-multiplayer-production-regimes.md) — [4轨对照图](015-multiplayer-social-geography-regimes.svg)、[21项地域/网络范围/服务证据CSV](015-multiplayer-connectivity-experience-events.csv)，区分1998本地派对、1990年代LAN/公网、2008中国CF服务规模化
+
 ## 与《独立游戏英雄传说》的接口
 
 工业革命区研究“机会怎样出现”。
