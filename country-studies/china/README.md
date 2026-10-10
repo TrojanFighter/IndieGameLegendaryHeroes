@@ -40,6 +40,7 @@
 - [Game Science × Sultan 能力重新定价](../../book/research-notes/china-capability-repricing-black-myth-sultan-013.md)
 - [NExT portfolio 效率审计](../../book/research-notes/next-studios-portfolio-efficiency-audit-014.md)
 - [本轮 provenance closeout](../../book/research-notes/china-indie-source-intake-closeout-015.md)
+- [022 — 同构异性创新：中美商业游戏组织的全球表型转化能力比较](022-intra-paradigm-phenotypic-innovation-us-china-commercial-game-comparator.md)：建立 `C/O/T/P` 与 `G0–G3` 双轴、强制 denominator / organization repeatability / global validation，比较 Riot / Epic / Respawn / COD 与 miHoYo / NetEase / Papergames / Hypergryph / Lilith / Tencent China in-house；当前只保留方向性差距假说，等待 2015–2025 fixed-cohort 分母审计。
 
 ## 2. Experience Capital / Demand Discovery 假说线
 

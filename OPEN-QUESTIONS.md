@@ -273,6 +273,26 @@ payer-user alignment / refund / review power / platform discoverability / ad att
 
 ---
 
+### OQ-016｜同构异性创新：中美商业游戏组织的 T-rate 到底差多少？
+**Status:** `PARTIAL` — `METHOD FRAME ESTABLISHED / FIXED-COHORT DENOMINATOR OPEN`  
+**Evidence in repo:** [中国022：同构异性创新中美商业组织比较](country-studies/china/022-intra-paradigm-phenotypic-innovation-us-china-commercial-game-comparator.md) 已建立 `C/O/T/P`、`G0–G3`、`PTAR / PTR / ORR / GVR / IIR` 框架；Riot 的 Opportunity–Thesis–Audience / Incubation 公开资料提供制度化 comparator，Epic / Respawn / COD 提供不同组织形态的 T 样本；miHoYo / NetEase 是当前最强中国压力测试。  
+**Unresolved core:** 现在缺的不是继续举漂亮案例，而是 2015–2025 美国 / 中国可比商业组织的**全部主要项目分母、失败 / 取消项目、团队归属与全球市场验证**。必须区分 existence、absolute count、rate、organizational repeatability 与 ecosystem density。  
+**Closure condition:** 对至少 5 个美国 comparator 与 5 个中国 comparator 建立固定项目 frame，逐项编码 C/O/T/P、G0–G3、studio/group ownership、team continuity、失败状态；只有在分母完整后才允许讨论“数量级差距”。  
+**Question**  
+成熟商业公司是否存在一种可制度化的“已验证范式 → 新行为表型”转化能力？美国头部组织在这项能力上的跨组织密度与重复率，是否显著高于中国；若是，差距有多大？**“2021–2026 是否收敛”必须作为独立时间序列问题，不得从新增正向案例的绝对数量直接推断。**
+
+**Hard rules**
+- 一个《原神》/《永劫无间》只能证明存在性，不能证明产业发生率；
+- 一个 Riot / Respawn 也不能代表美国全部商业公司；
+- 全球成功不等于 T；全球 4X / SLG 爆款可作为 `G高/T待定` 反例；
+- Riot 虽属腾讯控股，按研发组织归属不能计入 Tencent China in-house 的 T 分子；
+- EA / NetEase 等集团必须同时区分 studio-level capability 与 portfolio-level capability；
+- 不把“美国原创、中国抄”写成结论，必须落到组织权利、prototype、failure capacity、global-first competition 等变量；
+- 中国近年出现更多 T-candidate，只能记录为 `VISIBLE ABSOLUTE COUNT ↑`；没有固定 cohort / denominator 时，`RATE CONVERGENCE = UNKNOWN`；
+- miHoYo / NetEase 等强正向偏离样本只能修正“绝对没有”，不能作为中国整体创新能力的免责条款。
+
+---
+
 ## P1 — Social / Information Environment
 
 ### OQ-013｜外部资讯摩擦是否改变创新速度？
