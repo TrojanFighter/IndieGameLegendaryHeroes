@@ -1,5 +1,8 @@
 # 021 — 先看这三条线：分品类 L／M／I 生产能力时间轴（1980—2026）
 
+> **2026-10-10 已降级为历史草稿：本页旧图混合不同联机架构、人数与非同类合作玩法，请改以 [022统一品类×网络条件方法](022-network-conditioned-genre-three-line-method.md)、[102格系统矩阵](022-genre-network-lmi-matrix.svg) 与 [21单元三轨时间轴](022-network-conditioned-three-rail-timeline.svg) 为准。** 特别禁止把Left 4 Dead / Valheim / Lethal Company画成一个严格的三阶段品类，禁止用Stardew 2016单机作者证明2018联机功能是独立完成。
+
+
 - **地位：本系列的读者第一入口。** 005—020为历史证据库，不再让ZXDB作者总数、Steam标签、UEFN创作者经济覆盖本题主体。
 - Status: **DATABLE PRODUCT ANCHOR MAP**，不是全产业确证的首次年份、成熟产量曲线或每年人均生产率。
 - Source: [24条「品类×组织形态×年份×案例×规模×发行支持」CSV](021-genre-lmi-three-line-anchor-evidence.csv)；[十品类三线时间轴 SVG](021-genre-three-production-lines.svg)。
