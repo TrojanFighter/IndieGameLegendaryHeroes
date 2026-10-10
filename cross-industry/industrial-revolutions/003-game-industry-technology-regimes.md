@@ -186,3 +186,43 @@ CASE-032 已支持：
 - generative AI 的 frontier / professional / indie diffusion 分离。
 
 任何对象都先补时间线，再写“技术导致了什么”。
+
+
+## 6. 物理破坏的横向产品技术分代：2026-10-10新增证据种子
+
+- Status: RESEARCH SEEDS / P0 + H; 非新Claim。
+- 范围：2001—2026的技术演进与独立商品化窗口；同一作品依阶段记录原型、EA、1.0、Mod/多人追加功能。
+- 方法：不要把可破坏程度 D0–D5 当作线性的技术等级。材料模拟、体素更新、结构物理、节点梁软体、联网复制、UGC内容生产彼此正交。
+
+| 技术轴 | 实际约束 | 用于比较的作品 |
+|---|---|---|
+| 2D材料/逐像素模拟 | CPU并行、材料更新、物理预算与规则可读性 | Cortex Command; Noita |
+| 3D体素环境破坏 | 存储、实时渲染、碰撞、碎块与动态关卡 | Space Engineers; 7 Days to Die; Teardown |
+| 载具软体/节点梁 | 求解与稳定性、车辆内容制作 | Rigs of Rods; BeamNG.drive |
+| 刚体约束/机械建造 | 联动结构、玩家建造门槛与任务转化 | Besiege; Brick Rigs; Instruments of Destruction |
+| 破坏的多人同步 | 权威状态、确定性重放、带宽、兼容旧Mod | BattleBit Remastered; THE FINALS（非独立对照）; Teardown多人 |
+| 社区/UGC/Mod | 编辑器、分发、内容持续生产 | Besiege; Brick Rigs; Teardown |
+
+### 已核P0事实种子
+
+1. Nolla Games官方Steam简介列出Noita三位创始作者 Petri Purho（Crayon Physics Deluxe）、Olli Harjola（The Swapper）、Arvi Teikari / Hempuli（Baba Is You）。团队创始人数≠发售总贡献人数。来源：https://store.steampowered.com/app/881100/Noita/ （P0，访问2026-10-10）。
+2. Teardown：Steam显示EA 2020-10-29、1.0 2022-04-21；Dennis Gustafsson 2026-03-13技术复盘描述早期联网试验、混合确定性/状态同步、旧Mod兼容与长时间分支整合。**2026多人状态不得倒写回2020EA**。来源：https://store.steampowered.com/app/1167630/Teardown/ 和 https://blog.voxagon.se/2026/03/13/teardown-multiplayer.html （P0）。
+3. 2013—2016年已有独立3D物理破坏商品化多条路径：Space Engineers、BeamNG.drive、Besiege、Brick Rigs；它们不能被简化为2020 Teardown相同的技术路线，恰好是“GTX10xx之后才开始独立3D破坏”说法的反例。Brick Rigs EA 2016-11-07： https://store.steampowered.com/app/552100/Brick_Rigs/ （P0）。
+4. Instruments of Destruction：Radiangames开发、Secret Mode发行，EA 2022-03-02，1.0 2024-05-10；不能误归 VoR Games。来源：https://store.steampowered.com/app/1428100/Instruments_of_Destruction/ （P0）。
+5. NVIDIA官方GTX1060公告日期2016-07-07、上市2016-07-19，**并非2018推出**。Teardown目前Steam配置文字中的“GTX 1060 or similar. 4 Gb VRAM”应读作独立最低显存要求，不是英伟达有GTX1060 4GB型号的证据。来源：https://nvidianews.nvidia.com/news/a-quantum-leap-for-every-gamer%3A-nvidia-unveils-the-geforce-gtx-1060 和 https://store.steampowered.com/app/1167630/Teardown/ （P0）。
+6. “PUBG热潮加速GTX1060安装基础，从而让Teardown可卖”仍是**H假说**：需同一期间硬件销量/Steam安装占比/玩家升级动机和同时期其它驱动因素，不能凭年代相邻宣布强因果。
+
+### 外部AI研究输入隔离：禁止直接升级为Evidence
+
+2026-10的一份“21游戏数据库”报告存在多项可被一手来源否定的误指认，故其未追溯数字不得导入本库：
+
+- Lethal Company写作“2022免费/Scrappy Turtles”是错的。Steam：2023-10-23、Zeekerss、付费。https://store.steampowered.com/app/1966720/Lethal_Company/
+- R.E.P.O.写作“2019 Therion Games的科幻载具破坏”是错的。Steam：2025-02-26、semiwork、多人合作恐怖物理搬运；仓库已有CASE-006。https://store.steampowered.com/app/3241660/REPO/
+- PEAK写作“2022像素恐怖”是错的。Landfall+Aggro Crab于2025-06-16推出多人攀爬游戏；仓库已有CASE-034。https://steamdb.info/patchnotes/18844069/
+- Teardown写作“Seumas McNally制作”是错的。开发商Tuxedo Labs、官方技术文作者Dennis Gustafsson。来源见上。
+- Instruments of Destruction写作“VoR Games/2023-10 EA”是错的。来源见上。
+- 首月销量/收入/退款率、评论与销量固定比例、单一T1–T6技术难度不具备独立可核来源，保留UNKNOWN，不用模型数字填空。
+
+### 待补证/对照设计
+
+按技术轴×年份×单/多人×原型/EA/1.0建立**可复现的完整候选池**，加入冷门与失败样本；核主创前史、团队核心/外围、技术是否自研、性能最低门槛、开发人年、实际消费闭环（任务/UGC/观看/社交）、销售与退款来源。硬件普及属于公共机会，关键创新可能是创作者主动改变模拟表示；需分别检验 Inherited / Recombined / Created 窗口。
