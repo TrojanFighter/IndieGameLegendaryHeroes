@@ -1,5 +1,8 @@
 # 008 — 游戏产业技术—产品生产能力分代：跨品类年度证据与三张读图（1958—2026）
 
+> **研究入口已纠偏：**[022 — 玩法 × 2D/3D × 网络架构 × 持久性 × 制作主体的严格三线分代](022-network-conditioned-genre-three-line-method.md)。[完整102格分类矩阵SVG](022-genre-network-lmi-matrix.svg)｜[按21个实证单元绘制的大／中／微三轨时间轴SVG](022-network-conditioned-three-rail-timeline.svg)｜[逐版本30条案例CSV](022-version-specific-lmi-evidence.csv)。此前[021旧图](021-three-track-genre-production-capability.md)因混合网络形态和不等价玩法，已标为历史草稿。
+
+
 > **核心主线（优先读）：[021 — 不同品类中大型专业 L／中型核心 M／个人微型 I 的三条生产能力时间线](021-three-track-genre-production-capability.md)** · [十品类三线SVG时间轴](021-genre-three-production-lines.svg) · [24个有出处的L/M/I案例CSV](021-genre-lmi-three-line-anchor-evidence.csv)。此前005—020大量作者群、Steam、ZXDB、UGC资料改作验证这些年份的附属证据，而不再充当三条线本身。空格写UNKNOWN，不能捏造连贯扩散年份。
 
 > **2026-10-10 里程碑：**此前本页认为历史个人开发者人数UNKNOWN，现已真正运行 [020 — ZXDB 1982—1992年度个人署名供给和品类曲线](020-zxdb-1982-1992-measured-supply-and-genre.md)。注意“人名署名”仍不等于Q1严格独立开发工作室。最初未按机型过滤得到的1984年1,480款/945人已经撤回；最终ZX-Spectrum特定机型1984年为**1,386款/913名明确个人署名者**。
