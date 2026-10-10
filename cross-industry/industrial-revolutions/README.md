@@ -49,6 +49,8 @@
 
 - [015 — 同机派对、LAN、早期公网到全国性多人对战服务分代](015-local-lan-wan-national-multiplayer-production-regimes.md) — [4轨对照图](015-multiplayer-social-geography-regimes.svg)、[21项地域/网络范围/服务证据CSV](015-multiplayer-connectivity-experience-events.csv)，区分1998本地派对、1990年代LAN/公网、2008中国CF服务规模化
 
+- [016 — 中国1997—2010年实际联网能力：浩方、网吧、CF与韩美日宽带扩散](016-1997-2010-multiplayer-reach-and-market-infrastructure.md) — [中国网民/宽带接入人数图](016-china-network-reach-adoption.svg)／[韩美日固定宽带比较图](016-oecd-three-country-broadband-adoption.svg)；[中国1997—2010 CNNIC CSV](016-china-internet-access-users-1997-2010.csv)、[OECD固定宽带 CSV](016-oecd-fixed-broadband-three-countries-2003-2008.csv)、[网吧和运营商2005—2010证据 CSV](016-china-online-gaming-reach-service-evidence.csv)
+
 ## 与《独立游戏英雄传说》的接口
 
 工业革命区研究“机会怎样出现”。
