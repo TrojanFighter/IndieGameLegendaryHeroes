@@ -1,0 +1,29 @@
+year,technology_clock,project_or_source,genre_render,network_architecture,observed_stage,factual_scope,developer_context,source_url,evidence_grade,boundary_note
+1978,PERSISTENCE,MUD1,TEXT_WORLD,multiuser-mainframe,P,共享文字世界、低频输入、角色持久状态,UC,https://core.mud1.org/CMS/about-mud1-bl/history,P1,大学设施可用，不能推全球商业普及
+1993,LAN_ACTION,DOOM,ROOM_FPS,LAN_IPX_P2P,P,局域网内快动作射击，多人连机底座,PC_PRO,https://www.gafferongames.com/post/what_every_programmer_needs_to_know_about_game_networking/,S1,不是全球互联网同场即时战斗普及
+1996,PREDICTION,QuakeWorld / Carmack .plan 1996-08-02,FPS,SERVER_AUTH_CLIENT_PREDICTION,F_P,本地运动预测、服务器对账、互联网对延迟容忍,PC_PRO,https://www.gamers.org/dEngine/quake/archive/a_july96/0000.html,P0,不是无延迟，也不必然最早FPS客户端预测
+1996,PREDICTION_COUNTER,Duke Nukem 3D,FPS,CLIENT_SIDE_PREDICTION_CLAIM,P_COUNTER,更早客户端预测首例之争，不把 QuakeWorld 称全球首次,PC_PRO,https://nition.momentstudio.co.nz/p/the-origin-of-client-side-prediction,S1,需源码级对照不同算法
+1997,LOCKSTEP,Age of Empires,RTS_2D,DETERMINISTIC_COMMANDS,P,28.8K调制解调器、8人目标，发送命令而非全部单位状态,PC_PRO,https://www.gamedeveloper.com/programming/1500-archers-on-a-28-8-network-programming-in-age-of-empires-and-beyond,P0,2001工程复盘阐释1997游戏，不能误写复盘为1997发表
+1997,PERSISTENCE,Ultima Online,RPG_2D,PERSISTENT_SERVER_SHARDS,P,持续世界与角色数据架构,PRO_SERVICE,https://uo.com/,P0,1997发行，不能代表全部MMO同步技术
+1999,PERSISTENCE,EverQuest,RPG_3D,SERVER_PERSISTENT,P,专业大型3D MMORPG商业服务,PRO_SERVICE,https://sony.mediaroom.com/2009-03-16-EverQuest-Celebrates-10-Year-Milestone,P0,网络低频交互符合类型，但不能凭此判定低技术含量
+1999,FPS_MOD,Counter-Strike,FPS_3D,SESSION_HALFLIFE_MOD,I_PROTO,借Half-Life网络技术/服务器体系验证团队竞技规则,MOD_CREATOR,https://blog.counter-strike.net/history/,P0,MOD首发≠自建完整联网栈
+2001,REWIND,Yahn Bernier 2001,FPS_ENGINEERING,AUTHORITATIVE_HISTORY,F_DOCUMENTED,客户端运动预测/插值/服务器按视角回溯命中判定的系统性文献,PRO_ENGINEER,https://developer.valvesoftware.com/wiki/Latency_Compensating_Methods_in_Client/Server_In-game_Protocol_Design_and_Optimization,P0,2001文献不是网络回溯绝对首次，区分发表年与部署年
+2001,MMO_FPS,WWII Online: Blitzkrieg,WAR_3D,PERSISTENT_LARGE_AREA_ACTION,P,2001MMO射击/车辆战斗早期上市,PRO_SERVICE,https://www.mobygames.com/game/4702/world-war-ii-online-blitzkrieg/,S1,未核同屏人数及服务器拓扑，不能标单区千人
+2003,MMO_FPS,PlanetSide,WAR_3D,MMO_ACTION_PERSISTENT,P,SOE官方2003-05-12公告，2003-05-19上线大型多人第一人称动作,PRO_SERVICE,https://sony.mediaroom.com/2003-05-12-Sony-Online-Entertainment-Unveils-Latest-Video-Games-at-2003-Electronic-Entertainment-Expo,P0,宣传全球玩家数不等于同一服务器同时可见人数
+2004,PERSISTENCE,World of Warcraft,RPG_3D,SHARD_PERSISTENCE,P,大型持续MMORPG路线的商业交付，而非多人战斗唯一技术解,PRO_SERVICE,https://worldofwarcraft.blizzard.com/en-us/,P0,项目发售年可核，具体AOI/更新率未核
+2008,SESSION_COOP,Left 4 Dead,FPS_COOP,INSTANCED_SESSION,P,4人合作与重复导演逻辑，网络类型分房而非MMO,PRO,https://store.steampowered.com/app/500/Left_4_Dead/,P0,体验深度与同时在线人数应分别衡量
+2009,ROLLBACK,GGPO rollback SDK,FIGHTING_GAME,P2P_DETERMINISTIC_ROLLBACK,T,GGPO官方自述2009 SDK创建，输入预测及回滚重演,MIDDLEWARE,https://www.ggpo.net/,P0,此前对话曾将2006列为节点；2009是当前官网明确标记的SDK创建年
+2010,HIGH_PLAYER_FPS,MAG,FPS_3D,256_PLAYER_MATCH,P,Zipper/PlayStation官方明确256名玩家对局,PRO_SERVICE,https://blog.playstation.com/2010/01/26/mag-is-out-this-week/,P0,多人规模不是2010年网络技术突然从零突破
+2010,SESSION_WAR,World of Tanks,VEHICLE_3D,INSTANCED_VEHICLE_MATCH,P,2010俄区发售、车辆战斗和长期账号进度组合,PRO_SERVICE,https://worldoftanks.com/en/news/general-news/tanks-hit-1st-anniversary/,P0,BigWorld是技术平台，不等于因坦克移动慢故毫无延迟补偿
+2011,NETWORK_TOOL,Photon Unity Networking PUN,CROSS_GENRE,NETCODE_ASSET_CLOUD,T,Photon官网列PUN 2011技术基线；低层网络工具对Unity开发者商品化,MIDDLEWARE,https://www.photonengine.com/pun/,P0,不能推出2011独立多人作者Q
+2012,ENGINE_INTEGRATION,Wargaming acquires BigWorld,ENGINE_BUSINESS,BIGWORLD_PROPRIETARY_INTEGRATION,T,收购澳洲BigWorld中间件公司，继续内部定制,PRO_MIDDLEWARE,https://worldoftanks.eu/en/news/general-news/wargaming-acquires-bigworld/,P0,该来源中年份需再对照新闻原刊，非坦克世界发售年
+2012,MMO_FPS,PlanetSide 2,WAR_3D,MMO_ACTION_PERSISTENT,P,大型开放战争FPS强化系列技术能力,PRO_SERVICE,https://www.planetside2.com/,S1,2012年份需进一步官方新闻核验
+2014,LOOTER_SHOOTER,Destiny,FPS_3D,SHARED_ZONE_INSTANCES,P,职业/任务/掉落+射击动作，副本及公共空间结合,AAA_PRO,https://www.bungie.net/,S1,营销‘共享世界’与单张地图所有玩家同步非同义
+2017,BATTLE_ROYALE,PUBG Early Access,FPS_3D,INSTANCED_LARGE_BATTLE,P,大房间射击基于相关性同步、专用服务器与项目工程,PRO_SERVICE,https://store.steampowered.com/app/578080/PUBG_BATTLEGROUNDS/,P0,MOD→standalone是产品路线而非2017新发明预测算法
+2018,UNITY_MULTIPLAYER,Mirror beginning adoption,GAME_NETCODE,HIGH_LEVEL_UNITY_NETWORK,T,社区高层网络库吸收UNet部分应用情景,OPEN_SOURCE,https://mirror-networking.gitbook.io/docs/,S2,此记录仅作为2018前后区间，准确版本日尚缺，不能标first
+2019,SMALLTEAM,Blazing Sails (developer interview),PVP_3D,MATCHMAKING_SESSION,I,2019三名开发者与一名社区负责，自称转向内容可复用多人对抗,SMALLTEAM,https://www.unrealengine.com/developer-interviews/a-family-bands-together-to-develop-pirate-battle-royale-game-blazing-sails,P1,核心人员数限访谈当期，不等于全程FTE
+2020,NETCODE_COMMODITY,Steamworks SDK v150 Datagram Relay API,PLATFORM_INFRA,NETWORK_RELAY,T,2020-08-29 Steamworks新增NetworkingMessages配合Sockets/Steam Datagram Relay,PLATFORM_SERVICE,https://steamcommunity.com/groups/steamworks/announcements/detail/2886199280154763996,P0,SDK API节点非全球relay首次
+2021,NETWORK_TOOL,Photon Fusion,CROSS_GENRE,PREDICT_SNAPSHOT_REPLICATION,T,Photon厂商官网以2021为Fusion路线起点，打包预测/同步/低延迟工具,MIDDLEWARE,https://www.photonengine.com/pun/,P0,不是技术第一次被发明
+2022,NETWORK_TOOL,Unity Netcode for GameObjects 1.0,COOP_ACTION,HIGH_LEVEL_REPLICATION,T,2022-06-27官方版本表 1.0.0，降低GameObject网络同步集成成本,OPEN_SOURCE_ENGINE,https://mp-docs.dl.it.unity3d.com/netcode/2.2.0/release-notes/ngo-changelog/,P0,不包含完整匹配服务/反作弊/运营与高品质lagcomp
+2023,SMALLTEAM,Lethal Company,COOP_3D,NGO_COMMUNITY_CONFIRMED,I,小作者商业多人合作作品；模组开发文献显示游戏基于Unity NGO,SMALLTEAM,https://lethal.wiki/dev/advanced/networking,S1,NGO使用证据来自社区mod文档非开发者一手；不可当全栈零成本
+2023,SMALLTEAM,BattleBit Remastered,FPS_3D,254_PLAYER_INSTANCED,I,三署名小团队商业FPS支持254玩家同场，服务器运营支出另核,SMALLTEAM,https://store.steampowered.com/app/671860/BattleBit_Remastered/,P0,三署名不是总人月，宣传上限不能代表平均同局在线
