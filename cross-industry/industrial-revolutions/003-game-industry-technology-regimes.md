@@ -228,19 +228,29 @@ CASE-032 已支持：
 按技术轴×年份×单/多人×原型/EA/1.0建立**可复现的完整候选池**，加入冷门与失败样本；核主创前史、团队核心/外围、技术是否自研、性能最低门槛、开发人年、实际消费闭环（任务/UGC/观看/社交）、销售与退款来源。硬件普及属于公共机会，关键创新可能是创作者主动改变模拟表示；需分别检验 Inherited / Recombined / Created 窗口。
 
 
-## 7. 海盗船多人对战：破坏模拟 × 岗位协作 × 登船战（2026-10-10，Lane B intake）
+## 7. 海盗船多人对战：局部破坏 × 真人船员岗位 × 玩家登船（2026-10-10，分类纠错）
 
-**研究对象边界：**这里关注的是船只作为多人共同操作、可受损、可维修且可登临的战斗空间，而非把所有海战或“真实船体连续破坏”统称同一种技术。比较至少分四条互不代替的轴：①船体损伤/进水/维修的交互状态；②移动船舶上的玩家行动、火炮操作、同步和跨船转移；③局内目标（舰队竞技、大逃杀、持久 PvPvE、装备成长）；④整个生产组织、服务规模和商业验证。具体底层物理架构及网络拓扑，除非开发者证实，**UNKNOWN**。
+### 入组门槛（必须区别于一般舰船HP制海战）
 
-### 作品分组（P0来源种子；非独立项仅作比较）
+本节的**正样本**必须同时具有以下系统：①玩家能作为人物在航行中的船上走动；②多名真人玩家可操作舵、炮、补给、抢修等互相依赖的岗位；③具体船体部件损伤会产生局部状态与后果（破洞进水、桅杆、舵轮、船帆、炮位等，至少若干项），可以由船员直接寻找并修复，而不只是一个全局HP/装备数字；④真人可进行登敌船或自由船员战斗；⑤这些状态同时发生于实时多人网络环境。**不要求任意连续网格/体素破坏**；必须按版本时间描述各功能。
 
-| 作品 | 实证时间点 | 核心差异 | 容易犯的错误 |
+### 入组的三个代表作（按玩法机制，不按公司大小）
+
+| 作品 | 里程碑及来源 | 交互式损伤与船员战斗证据 | 防错 |
 |---|---|---|---|
-| Assassin's Creed IV: Black Flag / Ubisoft | 2013 单机海盗动作；官方说明包括海战、操船与亲自登船战斗。https://www.ubisoft.co.jp/ac4/about/ | AAA 航海/登船体验标杆 | **不是**海战游戏或该类 Mod 的最早发明者，也不是同期大规模真人合作海战的同一产品形态 |
-| Blackwake / Mastfire Studios | 2017 EA → 2020-02-19 正式发行 → 2024-02-27 改免费；Steam app 420290。https://steamcommunity.com/app/420290/allnews/ | 54人、至多13人船员、多人装炮/维修/补给/舰长决策/登船；核心是“船员交互回路” | 不按2024 免费制倒推2017付费市场结果；不声称其具备任意连续船体破坏 |
-| Sea of Thieves / Rare–Microsoft | 2018 初发；2024-04-17 官方称累计玩家超4000万（Xbox、Windows、Steam合计）。https://www.seaofthieves.com/news/40-million-players | 持续 PvPvE 沙盒、社交协作、长期内容运营，存在大型团队高产品体验对照 | 累计玩家不是销售份数、利润、峰值同时在线，也不是可直接对比付费独游的单位 |
-| Blazing Sails / Get Up Games–Iceberg | Steam app 1158940；2020-09-09 EA → 2023-11-13 1.0。https://store.steampowered.com/app/1158940/ | 将船员岗位与海战、登岛搜刮、淘汰制大逃杀/短局竞技重组；有亲缘创始团队与发行外围 | 不能因几个表兄弟发起，就把整个发售期贡献与成本说成只有3人 |
-| Skull and Bones / Ubisoft Singapore | 2024-02 首发，2024-08-22 Steam上架；Steam app 2853730。https://store.steampowered.com/app/2853730/ | 在线舰船战斗、船舶配置与装备成长；2026官方确认停止开发 Land Combat，继续围绕 naval core。https://www.ubisoft.com/en-gb/game/skull-and-bones/news-updates/1d5st5v5gmBMCjN4DcIRHw/through-the-spyglass-year-2-in-review | 不能无工程底层指标就下结论称其代码技术含量低于独游；Steam口碑不能覆盖主机/Ubisoft Connect市场 |
+| Blackwake / Mastfire Studios | 2017 EA、2020-02-19正式版、2024转免费。[2020开发者回顾](https://steamcommunity.com/app/420290/allnews/) | 玩家操作船员岗位、装弹、补给、断桅/破帆/炮位损伤、破洞进水与维修抽水、真人登船战。[2018玩家指南](https://steamcommunity.com/sharedfiles/filedetails/?id=1558818829)（S2） | 不等于任意连续船体几何毁坏；网络架构 UNKNOWN |
+| Sea of Thieves / Rare-Microsoft | 2018初发；[2019-04-30官方扩展损伤](https://www.seaofthieves.com/release-notes/2.0) | **局部命中使破洞扩大、倒桅杆、损锚机、损舵轮**，玩家在船上操作并维修；可登敌船战斗。[Xbox同期公告](https://news.xbox.com/en-us/2019/04/30/anniversary-update-available-now/) | 大公司也有合格正样本；不把2019功能说成2018首发已有 |
+| Blazing Sails / Get Up Games-Iceberg | 2020-09-09 EA、2023-11-13 1.0。[官方Press Kit](https://www.blazingsails.com/presskit) | 真实船员操炮、补给、修理船体破洞、进水、搜刮和登船，可潜入敌船**拔船塞使其进水**；大逃杀规则使合作更加密集 | 核心创始三表兄弟，后来第四亲属加入；发行/资金外围另算，不写全程仅四人完成所有事项 |
+
+### 明确排除：Skull and Bones不是本节第四个同类产品
+
+**Skull and Bones / Ubisoft Singapore：OUT_OF_CATEGORY（NEGATIVE BOUNDARY CASE）。** 2024首发版没有前三款的自由船员甲板行动、同船真人岗位分工、船体局部损伤→进水→定位维修闭环，也没有玩家操作的登船战；玩家主要直接控制整艘船、装备和HP状态，登船以自动动画结算。2025育碧进一步移除该动画以减少重复等待，并未将其改为真人登船。
+
+证据：[WorthPlaying 2024首发评测](https://worthplaying.com/article/2024/2/27/reviews/140986-pc-review-skull-and-bones/)（S1，记述缺乏局部损伤、不能走甲板、登船自动成功）、[GameSpot 2024评测](https://www.gamespot.com/reviews/skull-and-bones-review-dead-in-the-water/1900-6418186/)（S1，登船仅动画）、[玩家2023测试批评](https://www.reddit.com/r/SkullAndBonesGame/comments/18jies7)（S2，缺少可瞄准破坏的桅杆/火炮/船员与可操作登船）、[育碧官方移除登船动画说明](https://www.ubisoft.com/en-us/game/skull-and-bones/news-updates/lwF6GtXbegdXvpbp2eE4h)（P0）。
+
+**Assassin's Creed IV: Black Flag（2013）**虽有玩家登船与船战，但属单机动作，并无本节实时真人船员合作系统，也不是正样本。育碧两作只构成**产品路线/能力转化组织史的外部反例**，不得出现在正样本技术或商业成功率比较矩阵中。
+
+这是入组资格判断，并不是对底层渲染、服务器、网络代码规模的绝对排名。相关产品可能有各自的其他技术复杂性；本研究只检验**局部可破坏物件如何形成玩家可操作的多人决策循环**。
 
 ### Blackwake：具名开发者自己提供了极少见的七年过程证据（P1 retrospective direct participant；2020发售时公告）
 
@@ -258,9 +268,9 @@ CASE-032 已支持：
 ### 需要检验而非抢先宣布的跨项目命题（H）
 
 - **H-NAVAL-01：**多人船战的玩家体验密度可能主要来自“岗位相互依赖、损伤与修复引起的持续压力、登船突发事件”，而非船体网格/破坏粒度。验证：拆操作状态、视频/开发者设计笔记、各游戏回合长度和玩家会话观察。
-- **H-NAVAL-02：**大公司将航海玩法整合进装备成长、内容生产、在线服务时，可能弱化了多人船员即时协作的闭环。**不得**由 Skull and Bones 的口碑自动推广至大公司或所有海战作品；Sea of Thieves 是重要反压力。
+- **H-NAVAL-02：**Skull and Bones把船战产品化为整船操纵与装备数值，且删去了同船真人岗位及局部物件破坏-维修循环，是品类**边界反例而非正样本**。Rare的Sea of Thieves是大团队真正做到多人船员局部破坏的**正样本**；个别育碧产品不能代表所有大公司。
 - **H-NAVAL-03：**小团队更容易识别并维持单个戏剧性体验循环，但多人联机长线供给、活跃衰减、反作弊和服务器可靠性也可能造成小团队短板。需固定对照分母，不只挑大公司失败、小公司成功。
-- **H-NAVAL-04：**“开发十年/多人参与/巨额预算”是研发投入、版本战略及多次返工的研究问题；传闻 Skull and Bones 达 \$200m 与大规模跨工作室人力是媒体引述匿名消息，不是经审计成本表。https://insider-gaming.com/skull-and-bones-players-total/ （S1报道但财务**未证实**）。
+- **H-NAVAL-04：**育碧研发周期与组织投入需要审计，但属边界反例的组织史问题；媒体传闻的开发人次/预算不能未经核实当作开发人年/精确成本，不能混进本品类的商业分母。
 
 ### 待采证及下次增量
 
