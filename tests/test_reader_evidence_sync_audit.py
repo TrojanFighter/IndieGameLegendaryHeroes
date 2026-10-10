@@ -46,6 +46,27 @@ class RecordLevelAuditTests(unittest.TestCase):
         self.assertFalse(audit.is_primary_record("- Claim use: compare P0 and P1"))
         self.assertTrue(audit.is_primary_record("- Class: P0/P1 — mixed contemporaneous and retrospective"))
 
+    def test_bold_class_declarations_are_recognised(self):
+        # CASE-016 E020+ writes the tier as `- **Class:** P0`.  Missing the bold
+        # form hid 18 records (15 of them declaring P0/P1) from the refresh queue,
+        # so the reported P0/P1 gap was undercounted.
+        self.assertTrue(audit.is_primary_record("- **Class:** P0, contemporaneous government survey"))
+        self.assertTrue(audit.is_primary_record("- **Source class:** P1 — creator retrospective"))
+        self.assertFalse(audit.is_primary_record("- **Class:** S2 — community forum summary"))
+
+    def test_bold_declared_record_enters_the_queue(self):
+        body = (
+            "## E020 — Census computer access\n"
+            "- **Class:** P0, contemporaneous government survey\n"
+            "Observed data only.\n"
+            "## E021 — Not a sourced record\n"
+            "- Claim use: context only.\n"
+        )
+        sections = audit.evidence_records(body)
+        self.assertEqual([n for n, _ in sections], ["E020", "E021"])
+        self.assertTrue(audit.is_primary_record(sections[0][1]))
+        self.assertFalse(audit.is_primary_record(sections[1][1]))
+
 
 if __name__ == "__main__":
     unittest.main()
