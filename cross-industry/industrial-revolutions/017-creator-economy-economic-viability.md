@@ -1,5 +1,8 @@
 # 017 — 游戏作者量产的经济终点：Fortnite / Roblox 2024—2025 去重作者与真实支付
 
+> **历史前驱补证：**[018 — 1981—1984 Atari Program Exchange（APX）作者出版/10%净额版税](018-cgw-apx-1982-publisher-vs-indie-evidence.md) 与 [019 — ZXDB 1980年代去重作者SQL/SQLite统计协议](019-zxdb-creator-cohort-protocol.md)。APX的目录存量不是现代开发者 ID 总数；ZXDB纯文本GitHub接口不能读取27MB压缩原库，**作者实数暂为UNKNOWN**。
+
+
 - Status: **FIRST-PARTY PLATFORM EVIDENCE / 只证明平台作者量与收入分布，不证明 standalone 2D/3D 子类型的独立商业量产**
 - Updated: 2026-10-10
 - Canonical upstream: [008 2D/3D 技术—产品生产能力图谱](008-audited-genre-capability-atlas.md)
