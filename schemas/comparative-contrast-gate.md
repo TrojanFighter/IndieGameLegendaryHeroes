@@ -13,10 +13,33 @@
 
 ### 两个已出现的校准例子（仅导航，事实仍在原档）
 
-- [四案例 Production Fundamentals Matrix：SYNCED / Boundary / Gunfire Reborn / Tripwire](../book/research-notes/china-production-fundamentals-four-case-matrix-011.md)：四条**未必同品类**的开发路线，比较 Time-to-Player-Truth、验证前资源暴露、错误持续成本、市场模式与能力-范围匹配。
+- [四案例 Production Fundamentals Matrix：SYNCED / Boundary / Gunfire Reborn / Tripwire](../book/research-notes/china-production-fundamentals-four-case-matrix-011.md)：**两条同赛道内正反对照，再跨赛道综合的2×2矩阵**。PvE/刷怪及合作射击：SYNCED（该混合PvE/PvP产品的刷怪/成长维度）对 Gunfire Reborn；PvP竞技射击：Boundary 对 Tripwire 的 Red Orchestra / Rising Storm 路线。Tripwire 的 Killing Floor 是其 PvE 衍生纵向材料，**不能作为 PvP 正例**。首要在同赛道比较产品目标、验证路径、内容义务/玩家人口需求与失败代价，再在两条赛道间比较通用生产机制。
 - [海盗船四作研究候选（PR #324，仍待审）](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/pull/324)：**Blackwake、Blazing Sails、Sea of Thieves、Skull and Bones**。研究「实际可操作的船员/破坏/修复/登船闭环是否与组织资源相称」。最后一作**不满足合格互动品类的入组门槛，但必须保留在研究比较矩阵作为负面对照**。Rare 是大型组织做出正例的压力测试。
 
 四个是这两组对照适合的规模，不是强制“每篇都找四个”；选例以因果解释力和反证强度而非版面整齐度为准。
+
+## 0.5 双层对照：先在赛道内部找正反差异，再做跨赛道综合
+
+当一组研究故意选择两个或更多产品赛道时，**一张横向的大表并不足够**。必须先恢复其隐含的 **赛道 × 结果 / 路径** 结构；否则“低投入/高投入”这样的横向尺度会遮蔽更强的同赛道因果问题。
+
+推荐审查顺序：
+
+1. **Shared Problem（总课题）**：例如“怎样将射击游戏的玩法假设，以可控制风险的方式产品化？”。
+2. **Primary Comparison Lane（主对照赛道）**：把真正决定游戏成立的玩家目标与约束分开；刷怪/合作 PvE 和竞技 PvP 的内容需求、实时配对流动性、留存、平衡成本不可混在一个口径。
+3. **Within-Lane Contrast（赛道内正反对比）**：先为每条赛道各找一个有效产品化路径与一个出现明确挫折的路径，逐项比较玩法验证、技术与生产约束、资源投入时序；不能仅因为结果不同就推定原因。
+4. **Cross-Lane Mechanism（跨赛道机制比较）**：只有在各自赛道已获得解释后，才提炼时间到玩家真相、错误生存期、作者能力—产品范围匹配等可能跨赛道成立的机制。
+5. **Complicating Cases（复杂性保留）**：游戏可以是 PvPvE 混合型；公司也可以同时有 PvP 与 PvE 作品。必须标注本次对照使用的**特定产品/特定玩法版本**，不能为凑矩阵把整款游戏或整家公司贴为纯 PvE/PvP。
+
+**校准的2×2结构：**
+
+| 主对照赛道 | 负向 / 高风险验证路径 | 正向 / 可持续验证路径 | 优先验证的赛道问题 |
+|---|---|---|---|
+| PvE 刷怪 / 合作射击 | SYNCED（主要审计 Nano/刷怪、PvE进度/成长，明确其同时存在PvP） | Gunfire Reborn（单人/四人合作与Roguelite Build） | 核心循环、重复内容生产成本、构筑深度、单人/合作的市场人口门槛、EA反馈 |
+| PvP 对抗射击 | Boundary（纯多人竞技、零重力空间运动/网络与地图义务） | Tripwire 的 Red Orchestra→Rising Storm 等 **PvP谱系**（先MOD公开验证，后商业团队） | 匹配人口、竞技公平与平衡、服务器/内容更新、技术风险、玩家社区共同生产 |
+
+**明确纠错：**Gunfire Reborn 与 SYNCED 是第一对；Boundary 与 Tripwire 的 **Red Orchestra/Rising Storm** 是第二对。**Killing Floor 为 PvE 合作刷怪游戏**，只能作为 Tripwire 工作室能力复用与另一赛道演化的次级纵向证据，不能填入 PvP正样本格。SYNCED 官方有明确的 PvE/PvP 模式，不能写成纯PvE游戏；此处选择的是它的 **PvE刷怪/成长这个比较维度**。由此矩阵可讨论“赛道内部的产品化对错”，而不是把负例或正例永久写成对所有维度的价值裁决。
+
+当研究另一组如船员破坏海战四作时，若四个对象都围绕同一个具体操作闭环，就可以沿 **资源与组织 × 产品能力是否实现** 直接对比，不需要机械拆成PvE/PvP。**层次/轴由研究问题决定，不能把2×2当成固定的排版模板。**
 
 ## 1. 四个互不等价的集合标签，禁止一个标签统治全部
 
@@ -76,6 +99,10 @@
 
 ```text
 Research Question:
+Primary Comparison Lanes / segmentation axis (or N/A with reason):
+Within-Lane Positive & Negative Contrast (or N/A):
+Cross-Lane Mechanism vs lane-specific explanation:
+Mixed-mode/portfolio boundary, including version (if relevant):
 Why These Cases (one reason per case):
 Case Role / Research Set membership:
 Mechanic Cohort definition + verdict (may be OUT but retained):
@@ -94,6 +121,8 @@ Reader-Layer Eligibility: evidence-locked only
 ## 6. 阻断式语义审查（Checklist；Lane B交回时和PR审查时）
 
 - [ ] 是否先写共同研究问题，再讨论分类归属？
+- [ ] **是否识别被忽略的赛道内配对关系？** 对两个不同赛道先各自做正反对照，再允许跨赛道机制总结；不能把真正的2×2扁平化成四个例子的排名。
+- [ ] **是否区分混合模式产品与公司作品集？** SYNCED等PvPvE必须标注具体对照切口；Tripwire的Killing Floor不能被拿来当Red Orchestra/Rising Storm的PvP证据。
 - [ ] 用户/作者指定的所有对照对象都存在于**研究矩阵**，包含不合格产品和失败者？
 - [ ] 每个案例都有明确选择理由、反例角色及版本时间边界？
 - [ ] 是否先检查真实玩家交互，再看团队名气、技术宣传和预算？
