@@ -475,6 +475,18 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 
 ---
 
+### OQ-025｜老一代不懂新范式时，谁真正拥有创作权与试错权？
+
+**Status:** NEW / VERIFIED PUBLIC INSTITUTIONAL OFFERINGS / PREVALENCE & CAUSAL EFFECT UNKNOWN（2026-10-10）  
+**Canonical:** [中国039](country-studies/china/039-frontier-creator-support-authority-rights-and-incubation.md)；[037家庭教育上游](country-studies/china/037-family-school-agency-risk-hero-nondeparture.md)；[038创造活动履历化](country-studies/china/038-education-maker-funnel-empirical-measurement-ceps-pisa-ggj.md)。  
+**Precise question:** 传统学校、私人公司和独立资金/平台，到底有多少能支持自己没有事前玩法经验的学生/作者，同时不剥夺其核心产品判断、IP、收益和退出权？行业竞争是否使私营企业更快调整筛选机制？  
+**Existing anchors:** Supercell 2026团队自治与16周Spark、Roblox Jumpstart非现金支持和六个月Incubator、2017 Bluehole创始采访、Kowloon Nights/Indie Fund公开条款、2011上海交大米哈游扶持、Gamera叶绿素、MIT Scratch/Resnick 4Ps。  
+**Required denominators:** 各制度申请/入选/未入选人数，实际合同中的创意否决、预算、IP续作与退出，项目首次/二次发布，学校内/外相近家庭背景、技能与项目类型的可比样本；区分资金、指导、营销、知识支持各自贡献。  
+**Falsifiers:** 学校也可能比企业提供更好的试错空间；私企也可能以预算或IP控制项目；具备新范式游戏阅历者可能缺通用技术、管理能力；完全放权也未必产生有价值的作品。  
+**Closure:** 至少对数个中外支持计划获得独立核验的真实合同、进出队列及1—3年作品追踪，再比较成效与数量级。禁止把单个优秀企业的宣传当行业规律。
+
+---
+
 ## Usage
 
 其他对话领取问题时应：
