@@ -1,5 +1,8 @@
 # Industrial Revolutions Comparative Lab｜工业革命比较实验室
 
+
+- **[020 — 首次真实复算的1982—1992年ZX Spectrum作品与署名作者数量](020-zxdb-1982-1992-measured-supply-and-genre.md)**：固定源MariaDB实际执行、严格机型过滤，已验证1984年 **1,386款原始独立发行游戏条目/913名明确个人署名者**；[11年CSV](020-zxdb-1982-1992-yearly-credited-people.csv)、[4类型44行CSV](020-zxdb-1982-1992-four-genres.csv)、[六联历史产能曲线SVG](020-zxdb-1982-1992-six-panel-author-supply.svg)及[成功运行#38037611540](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/actions/runs/38037611540)。
+
 [返回跨行业研究入口](../README.md)
 
 ## Purpose
