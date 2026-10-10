@@ -2,7 +2,7 @@
 
 - Case: `CASE-007`
 - Status: ACTIVE
-- Last updated: 2026-10-04
+- Last updated: 2026-10-09
 
 ## E001 — Gunpoint Development Breakdown
 
@@ -26,9 +26,13 @@ Supports:
 
 Boundary:
 - Creator postmortem is retrospective and naturally selects what Francis considered important.
-- Tester/follower numbers are acquisition/community signals, not sales or retention.
+- Tester/follower numbers are acquisition/community signals, not sales or retention. Re-read 2026-10-09: the testing section specifies a final-beta mailing list of 15,500, later builds sent to 1,000–2,000 people each, and feedback from fewer than 10%. The promotion summary's approximate 15,000 is not a count of active testers or feedback submissions. Preserve the distinction in reader prose.
 
 ## E002 — 2013 personal retrospective: sales enabled job exit
+
+### E001 narrative revision detail (re-read 2026-10-09)
+
+Francis recalls an initial space-robot idea, then a robot posing as a private investigator, then a human with gadgets. He discarded almost all early client scripts except the opening and postponed further story writing until most gameplay existed, around two years into development. This is post-release recollection, not proof of when each change happened or permanent rejection of narrative. It complements E008's contemporaneous decision to cut non-interactive sequences; the two entries cannot be collapsed into one dated action.
 
 - Class: P1 — creator retrospective
 - Source: Tom Francis, `2013`, 2013-12-31
@@ -50,10 +54,18 @@ Boundary:
 - Class: P0/P1 — creator-maintained career record
 - Source: Tom Francis, `Résumé`
 - URL: https://www.pentadact.com/2012-04-13-resume/
+- Publication date: 2012-04-13 (URL date; career record may be updated)
+- Access date: 2026-10-09
 
 Reported by creator:
 - PC Gamer writer/editor career began in the mid-2000s.
 - Gunpoint was entered in IGF and became an Excellence in Design finalist.
+- His résumé lists a First Class BSc in Mathematics and Philosophy at the University of Southampton, 2000–2003.
+- He says he was assembling skateboards in a warehouse when he unsuccessfully applied for a PC Gamer staff-writer vacancy. He later obtained a coverdisc job, then became a writer a year or two into that employment. The heading dates the PC Gamer period from 2004; it does not date the first unsuccessful application.
+
+Boundary / conflict check:
+- Self-maintained résumé, not independently checked academic or payroll records. Its “present” headings must not be read as current employment in 2026.
+- E009 compresses the job opening into landing the dream job. Use this more specific account for the sequence; do not invent an immediate staff-writer appointment.
 
 Supports:
 - Gunpoint was built on a long game-analysis/media prehistory.
@@ -138,9 +150,11 @@ Boundary:
 
 ## E008 — Scope taste: cutting authored spectacle that added little as a game
 
-- Class: P1 — contemporaneous creator development post
+- Class: P0 — contemporaneous creator development post
 - Source: Tom Francis, `Gunpoint And The Other Game`, 2010-10-25
 - URL: https://pentadact.wordpress.com/2010/10/25/gunpoint-and-the-other-game/
+- Access date: 2026-10-09
+- Classification correction: the dated post records an ongoing project decision, rather than a later recollection. This corrects the previous P1 label, without upgrading its causal reach.
 
 Contemporaneous creator account:
 - Francis describes realizing that he had automatically included scripted sequences, major characters and predetermined developments because he had already imagined and written them.
@@ -154,14 +168,155 @@ Supports:
 Boundary:
 - This is one concrete decision, not proof that Francis always avoided sunk-cost or scope errors.
 
+## E009 — Life before the prototype: Giant Bomb interview
+
+- Case ID: CASE-007
+- Related Claim IDs: context for C003/C011; no status change
+- Source class: P1 for Francis' recollections; S1 for Patrick Klepek's reporting and appraisal
+- Source title: One Tom Francis Is All You Need
+- Author / organization: Patrick Klepek / Giant Bomb; interviewee Tom Francis
+- Publication date: 2013-08-22
+- URL: https://giantbomb.com/articles/one-tom-francis-is-all-you-need
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (body read; recollections not independently corroborated)
+
+Source-derived fact:
+- The interview describes a school-age wish to write about games, a university-era turn toward making them, and a game design document and science-fiction television pilot written after graduation, around 2003.
+- Francis recalls seeing Darwinia as evidence that small teams could make a favourite game, while still regarding its creator's ability as beyond his own. Spelunky's approachable scale and GameMaker then made attempting a game seem more feasible.
+
+Boundary / conflict check:
+- These are retrospective accounts of aspiration and perception. They establish neither inevitable vocation nor the contributor count of Darwinia or Spelunky.
+- Job sequence is compressed relative to E003. The article's “never stopped” cannot establish continuous work: E001/E002 record a two-month lapse. Art-submission counts differ (34 in E001, “over 35” here); do not resolve by silently choosing a number.
+- Exclude the internally ambiguous Blood/Blood II correspondence, Spelunky release-year claim, and birthday playtest comparison until separately verified. Klepek's praise and language of inevitability are his appraisal, not historical causality.
+- Archive / backup: not captured; original publication identity retained. User-supplied forum URL is a discovery pointer, not this article's canonical URL.
+
+## E010 — Private Dick: contemporaneous announcement and uncertain plans
+
+- Case ID: CASE-007
+- Related Claim IDs: context for C007/C011; no status change
+- Source class: P0
+- Source title: Private Dick
+- Author / organization: Tom Francis / personal development blog
+- Publication date: 2010-05-03 (dated permalink; relocated page)
+- URL: https://www.pentadact.com/2010-05-03-private-dick/
+- Access date: 2026-10-09
+- Verification Status: VERIFIED (direct correspondence of body and recorded account; not an audit of shipped features)
+
+Source-derived fact:
+- He publicly announced an unfinished project under the working title Private Dick, linking his start to Spelunky and GameMaker, and describing a longstanding adult urge to make games.
+- Plans included consequential gunfire, failure without mandatory restart, reconfigurable environments and superhuman but physically coherent movement. He did not yet know what he could do well or should focus on.
+- He reported working a few evenings a week; estimated six to twelve months with explicit uncertainty. Blogging was intended to clarify thinking, solicit feedback and make abandonment more embarrassing.
+
+Exact Wording:
+> I'm making a game! I will probably never finish it!
+
+Boundary / conflict check:
+- Proposed goals are not all confirmed shipped features; forecast is not actual duration or a promise. E001's retrospective weekend routine cannot overwrite this early evening routine. No uniform weekly schedule is established.
+- No mental diagnosis, financial runway amount or independent feasibility proof follows from this self-account.
+- Archive / backup: not captured. Reader comments are excluded from this record.
+
+## E011 — Collision: first implementation bottleneck
+
+- Case ID: CASE-007
+- Related Claim IDs: context for C007/C011; no status change
+- Source class: P0
+- Source title: Collision
+- Author / organization: Tom Francis / personal development blog
+- Publication date: 2010-05-18 (dated permalink; relocated page)
+- URL: https://www.pentadact.com/2010-05-18-collision/
+- Access date: 2026-10-09
+- Verification Status: VERIFIED (creator's contemporary account)
+
+Source-derived fact:
+- He found collision unexpectedly difficult: fast motion could cross a wall between frames, and changing human poses complicated collision bounds.
+- He implemented a fallback searching nearby empty space when the character became stuck. He described robust collision as his hardest work so far, hoping to reach questions about fun once movement worked.
+
+Boundary / conflict check:
+- Account of his own implementation, not a general impossibility theorem or audited engine architecture. Do not turn the article's rhetorical “impossible” into a technical fact.
+- The fallback does not prove all bugs were solved. Reader proposals are not his decisions. E009's later rewrite count is not a count recorded in this post.
+- Archive / backup: not captured.
+
+## E012 — Making The Jump: feedback changed movement
+
+- Case ID: CASE-007
+- Related Claim IDs: context for C007/C011; no status change
+- Source class: P0
+- Source title: Gunpoint: Making The Jump
+- Author / organization: Tom Francis / personal development blog
+- Publication date: 2010-07-14 (dated permalink; relocated page)
+- URL: https://www.pentadact.com/2010-07-14-gunpoint-making-the-jump/
+- Access date: 2026-10-09
+- Verification Status: VERIFIED (creator's contemporary account)
+
+Source-derived fact:
+- By this post he had provisionally renamed the project Gunpoint. About ten people tested the first movement milestone. He added an unspecified move they wanted, reporting improved feel.
+- Players struggled to predict the jump. He implemented an arc preview and replaced holding to charge with selecting a more distant target for a longer jump.
+- He reported only about ten hours since the previous milestone five weeks earlier, explaining fatigue, distraction and reluctance to face difficult tasks. He limited planning to two or three milestones ahead.
+
+Boundary / conflict check:
+- Hours cover this interval, not all development. Explanations are his self-account, not diagnosis. Tester count is approximate; the “100%” poll of testers named “me” is a joke, not survey evidence.
+- Preview performance and improved feel are not independently benchmarked. Do not infer that his university degree caused the commercial result.
+- Archive / backup: not captured; reader comments excluded.
+
+## 2026-10-09 bounded re-read of existing sources
+
+For the following extensions, author/title/URL/class remain those of the corresponding entry. Access date: 2026-10-09; verification: direct body correspondence, without independent corroboration of retrospective claims.
+
+- E001: Francis recalls a brief school Visual Basic course largely forgotten, before learning GameMaker. Early work sometimes occupied only one weekend a month; he forgot the project for two months. Late in development he cut planned scenes/features, booked a three-month sabbatical and released about two months into it. Feedback prompted removal/rework of unpopular levels, while he also rejected suggestions he disagreed with. Sabbatical pay and exhaustive hours remain UNKNOWN.
+- E002: His year-end account credits luck and encouragement from family/friends, explicitly rejects success as a universal consequence of trying hard, and describes adjusting to work without his PC Gamer identity. Encouragement does not establish financial or production support. Source date remains 2013-12-31.
+- E004: precise publication date 2012-01-30; author Mike Rose. Francis says his improvement suggestions were cut from reviews and he wanted to test them. Integration made him a bottleneck despite incoming art; he recalls a week spent getting an elevator outline working after expecting an afternoon. These are self-described production difficulties, not measured contributor hours or a transferable schedule.
+
 ## Current evidence-level conclusions
+
+## E013 — Success created room to decline a sequel
+
+- Case ID: CASE-007
+- Source class: P1 (past choices); P0 (ongoing project intentions); S1 (reporting)
+- Source title: Gunpoint and Heat Signature developer Tom Francis on going from critic to creator
+- Author / organization: MCV Staff / MCV; interviewee Tom Francis
+- Publication date: 2015-07-09
+- URL: https://mcvuk.com/business-news/media-pr/gunpoint-and-heat-signature-developer-tom-francis-on-going-from-critic-to-creator/
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (body read; recollections not independently corroborated)
+
+Francis attributes his freedom to avoid a sequel to Gunpoint's earnings. He recalls an older, initially 3D space-game idea becoming feasible as a 2D project after learning GameMaker, when a friend reminded him of it. This records his choice and retrospective feasibility judgment, not guaranteed commercial viability. The article's ten-day departure wording is not used to replace E002's launch-week threshold account. No Claim status changes.
+
+E013 detail readback: Francis reports requests for a Gunpoint sequel and describes ports, DLC and sequels as hypothetical survival choices had he needed to extract more income. These are his counterfactual options, not work all actually performed.
+
+## E014 — Heat Signature launch risk
+
+- Case ID: CASE-007
+- Source class: P0 (launch observations); P1 (development expenditure recollection)
+- Source title: Heat Signature’s Launch, And First Player Legend
+- Author / organization: Tom Francis / personal blog
+- Publication date: 2017-09-27
+- URL: https://www.pentadact.com/2017-09-27-heat-signatures-launch-and-first-player-legend/
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (body and page credits read; no accounts audit)
+
+Six days after launch he reports 3.5 years and about GBP 200,000 spent, and an early performance slightly above Gunpoint in the same interval, with the long tail explicitly unknown. This is personal expenditure framing, not independently audited total budget or profit. Page credits also name John Roberts (art), John Winder (code), John Halpart and Chris Harvey (music). His market explanation is his interpretation, not measured industry causation.
+
+E014 detail readback: he calls the project probably the biggest risk of his life. Preserve this as personal assessment, including “probably,” not objective financial comparison.
+
+## E015 — Tactical Breach Wizards release endpoint
+
+- Case ID: CASE-007
+- Source class: P0
+- Source title: Tactical Breach Wizards Is Out!
+- Author / organization: Tom Francis / personal blog
+- Publication date: 2024-08-22
+- URL: https://www.pentadact.com/2024-08-22-tactical-breach-wizards-is-out/
+- Access date: 2026-10-09
+- Verification Status: PARTIAL (creator release announcement read)
+
+The announcement states that the team worked on the game for 6.8 years. This is an elapsed project duration, not 6.8 years of one person's full-time hours. It supports the release endpoint, not lifetime sales or a complete contributor perimeter. E007 remains the authority for the 2020 design interview.
 
 ### STRONGLY SUPPORTED
 - Gunpoint was not literally a one-human production.
 - Development was publicly documented over about three years.
 - Salary employment / sabbatical protected much of the pre-launch development period.
 - Market access included devlogs, videos, testers, media, IGF and Steam.
-- Francis entered development after roughly nine years of professional game criticism/analysis.
+- Francis developed Gunpoint alongside a professional game-criticism career. The 2013 talk's nine-year framing includes the development period; it is not nine years completed before starting.
 - He explicitly identifies broad market/game literacy as useful for judging whether an idea is unusual enough to attract interest.
 - His documented design method repeatedly turns likes/dislikes into explicit, testable design constraints and favors compressing an experience into reusable rules.
 
