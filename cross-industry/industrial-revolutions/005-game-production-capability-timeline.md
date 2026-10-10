@@ -1,5 +1,7 @@
 # 005 — 游戏产业技术—产品生产能力年代表（1958—2026，首版）
 
+> **核心主线（优先读）：[021 — 不同品类中大型专业 L／中型核心 M／个人微型 I 的三条生产能力时间线](021-three-track-genre-production-capability.md)** · [十品类三线SVG时间轴](021-genre-three-production-lines.svg) · [24个有出处的L/M/I案例CSV](021-genre-lmi-three-line-anchor-evidence.csv)。此前005—020大量作者群、Steam、ZXDB、UGC资料改作验证这些年份的附属证据，而不再充当三条线本身。空格写UNKNOWN，不能捏造连贯扩散年份。
+
 > **新增真实数量级证据：**[020 — 1982—1992 ZX Spectrum 11年有来源的作品与去重个人署名人数曲线](020-zxdb-1982-1992-measured-supply-and-genre.md)。1984年 **1,386条原始独立发行游戏/913名明确个人署名人**；注意这不是独立商业工作室数量，也不是整个游戏行业分母。[SVG](020-zxdb-1982-1992-six-panel-author-supply.svg)。
 
 
