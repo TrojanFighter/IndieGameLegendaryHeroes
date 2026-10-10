@@ -1,5 +1,5 @@
 reference_year,measurement_as_of,china_internet_users_million_people,china_broadband_users_million_people,source_url,grade,caveat
-1997,1997-10-31,0.63,,https://www.cnnic.net.cn/n4/2022/0401/c88-778.html,P1,initial survey; not year-end Dec
+1997,1997-10-31,0.62,,https://www3.cnnic.cn/n4/2022/0401/c88-802.html,P0,"initial CNNIC first report explicitly 620k; 2010 syndicated retrospective lists 630k; retain source conflict; not Dec year-end"
 1998,1998-06-30,1.175,,https://www.cnnic.net.cn/n4/2022/0401/c88-780.html,P0,"midyear June, not year-end"
 1999,1999-12-31,8.9,,https://www3.cnnic.cn/n4/2022/0401/c88-823.html,P0,fifth CNNIC original Dec 31; syndicated timeline has another 1999 4m survey publication-date mismatch
 2000,2000-12-31,22.5,,https://tech.sina.com.cn/z/cnnic26/,P1,"CNNIC sevenths released Jan 2001, syndicated historical table"
