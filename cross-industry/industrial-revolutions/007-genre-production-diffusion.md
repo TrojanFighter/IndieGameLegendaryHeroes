@@ -1,5 +1,8 @@
 # 007 — 2D／3D 同品类产品分代：大厂、中厂、独立作者、量产证据（1958—2026）
 
+> **研究入口已纠偏：**[022 — 玩法 × 2D/3D × 网络架构 × 持久性 × 制作主体的严格三线分代](022-network-conditioned-genre-three-line-method.md)。[完整102格分类矩阵SVG](022-genre-network-lmi-matrix.svg)｜[按21个实证单元绘制的大／中／微三轨时间轴SVG](022-network-conditioned-three-rail-timeline.svg)｜[逐版本30条案例CSV](022-version-specific-lmi-evidence.csv)。此前[021旧图](021-three-track-genre-production-capability.md)因混合网络形态和不等价玩法，已标为历史草稿。
+
+
 > **核心主线（优先读）：[021 — 不同品类中大型专业 L／中型核心 M／个人微型 I 的三条生产能力时间线](021-three-track-genre-production-capability.md)** · [十品类三线SVG时间轴](021-genre-three-production-lines.svg) · [24个有出处的L/M/I案例CSV](021-genre-lmi-three-line-anchor-evidence.csv)。此前005—020大量作者群、Steam、ZXDB、UGC资料改作验证这些年份的附属证据，而不再充当三条线本身。空格写UNKNOWN，不能捏造连贯扩散年份。
 
 - Status: **AUDITED WORKING MAP — 部分阶段缺数据，不等同全产业普查**
