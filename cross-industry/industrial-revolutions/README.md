@@ -1,5 +1,7 @@
 # Industrial Revolutions Comparative Lab｜工业革命比较实验室
 
+> **核心主线（优先读）：[021 — 不同品类中大型专业 L／中型核心 M／个人微型 I 的三条生产能力时间线](021-three-track-genre-production-capability.md)** · [十品类三线SVG时间轴](021-genre-three-production-lines.svg) · [24个有出处的L/M/I案例CSV](021-genre-lmi-three-line-anchor-evidence.csv)。此前005—020大量作者群、Steam、ZXDB、UGC资料改作验证这些年份的附属证据，而不再充当三条线本身。空格写UNKNOWN，不能捏造连贯扩散年份。
+
 
 - **[020 — 首次真实复算的1982—1992年ZX Spectrum作品与署名作者数量](020-zxdb-1982-1992-measured-supply-and-genre.md)**：固定源MariaDB实际执行、严格机型过滤，已验证1984年 **1,386款原始独立发行游戏条目/913名明确个人署名者**；[11年CSV](020-zxdb-1982-1992-yearly-credited-people.csv)、[4类型44行CSV](020-zxdb-1982-1992-four-genres.csv)、[六联历史产能曲线SVG](020-zxdb-1982-1992-six-panel-author-supply.svg)及[成功运行#38037611540](https://github.com/TrojanFighter/IndieGameLegendaryHeroes/actions/runs/38037611540)。
 
