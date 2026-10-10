@@ -1,5 +1,8 @@
 # 005 — 游戏产业技术—产品生产能力年代表（1958—2026，首版）
 
+> **新增真实数量级证据：**[020 — 1982—1992 ZX Spectrum 11年有来源的作品与去重个人署名人数曲线](020-zxdb-1982-1992-measured-supply-and-genre.md)。1984年 **1,386条原始独立发行游戏/913名明确个人署名人**；注意这不是独立商业工作室数量，也不是整个游戏行业分母。[SVG](020-zxdb-1982-1992-six-panel-author-supply.svg)。
+
+
 - Status: **WORKING BASELINE / 不得当作完整量产统计**
 - As-of: 2026-10-09
 - Canonical owner: Industrial Revolutions Comparative Lab，承接 [001 技术吸收框架](001-technology-absorption-framework.md) 与 [003 游戏产业技术体制](003-game-industry-technology-regimes.md)
