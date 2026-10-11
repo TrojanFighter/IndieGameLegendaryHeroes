@@ -95,6 +95,19 @@
 - **H056-C / Friction-optimum**：将工业/战争的复杂过程变成行动要求，有助于题材自洽；过度增加操作步骤又会损害长期体验。重点用 Terra Invicta 后期微操与 Foxhole LOGI公开抗议压力测试。
 - **H056-D / Success denominator**：若要宣称“2020年代独立作品整体比AAA更会题材系统化”，必须建立同年代同题材、同模式、同发行窗口并含失败者的样本，提供人年/预算/团队规模与玩家价值代理指标；当前状态 UNVERIFIED。
 
+## 4A. 第二轮新线索：核模拟与任务型指挥体验不可混淆
+
+**Nuclear War Simulator / Ivan Stepanov / Bit Mirror（2023-02-02）**：Slitherine发行商页面定位为核冲突效果与人道损失可视化工具。作者本人 press kit 明确说早期版本“技术上不是游戏”，因为缺少目标和游戏要素。这是**模拟准确度与高概念游戏化实现之间的关键反例**：核冲击波、放射性落尘与伤亡推演可以极有价值，却未必自动创造玩家需要承担的战争升级决策。2023商业发售后的玩法状态必须重新核，不得套用早期自述至今。P0：
+- Bit Mirror / Ivan Stepanov, *Nuclear War Simulator Press Kit*，页面发布日期 UNKNOWN，2026-10-11访问：https://nuclearwarsimulator.com/press-kit/
+- Matrix/Slitherine, *Nuclear War Simulator*, release 2023-02-02：https://www6.slitherine.com/game/nuclear-war-simulator
+- Valve/Bit Mirror, *Nuclear War Simulator*, 2023-02-02：https://store.steampowered.com/app/1603940/
+
+**Carrier Command 2 / Geometa / MicroProse（2021-08-10）**：官方开发商和Steam介绍其玩家操作尺度就是航母指挥、无人/载人载具配置、雷达侦察、夺岛补给和行动路线；它是1988年《Carrier Command》的后继表达，不可误称新发明了航母指挥范式。相比 HighFleet，它可以作为**具身指挥（diegetic command：在舰桥操作）**与地图/数值指挥的优劣对照，特别调查UI摩擦、多人协作、手动驾机是否真正服务任务结构。P0：
+- Geometa, *Carrier Command 2* 官方站，页面发布时间 UNKNOWN，访问2026-10-11：https://www.carriercommand.com/
+- Valve, *Carrier Command 2*, 2021-08-10：https://store.steampowered.com/app/1489630/Carrier_Command_2
+
+**研究冲突**：如果真实系统的复杂性不足以产生玩家可理解的风险权衡，题材自洽不等于有趣；如果为了参与感让玩家亲自操纵每一部载具，也可能与指挥官角色尺度矛盾。这是需要试玩、开发访谈和同类负例来验证的 H，不能只由商店文案推出价值判断。
+
 ## 5. 优先研究订单（下一轮 Lane B）
 
 1. **Rule the Waves 1→2→3**：追踪 NWS/设计者起点、军备竞赛、条约、技术锁定与典型失败造舰选择；比较 HighFleet 不同的战争核/军备问题；询问图形简化是否为有意范围选择。
