@@ -1,5 +1,8 @@
 # 023 — 游戏历史技术分代：可以直接阅读的代表作品三线主图（1958—2026）
 
+> **当前正式读者入口（2026-10-11最新审计）：**[026 — 12类×L/M/I均有代表性作品的年代图](026-audited-era-twelve-genre-complete-tracks.svg)｜[026 — 中型RTS/RPG/赛车一手团队人数、网络与发行价值网络案例](026-verified-mid-team-three-genre-cases-and-network-transition.md)｜[90条原始案例和模式证据](023-representative-genre-three-rails-1958-2026.csv)。**36/36仅表示选定的36个轨道均有年份节点，不代表每一类同保真度、同联网架构、相同外部支持下都已普及**。关键修正：2017/2018《Northgard》属于**3D RTS（RTS3辅助支线）**，不能冒充2D RTS；该轨M由**1997《Age of Empires》**替代。[025](025-audited-era-by-genre-three-rails.svg)及更早023仅历史快照。
+
+
 > **历史版本已被2026-10-11反向审计修正。** 本页所写9类27/27、65条以及[023旧SVG](023-representative-three-rails-filled-first-pass.svg)是**上一阶段选样快照**；当前请以[025审计结论](025-flagship-era-audit-earlier-small-authors-and-missing-genres.md)及[12类33/36轨道的纠错时代图](025-audited-era-by-genre-three-rails.svg)为准。现同一[023来源CSV](023-representative-genre-three-rails-1958-2026.csv)已扩展**82条原版与功能模式历史记录**；新增1990 Alpha Waves、1991 Hunter、1993 Ken's Labyrinth、2002 Soldat、2011 Ace of Spades以及原图漏掉的赛车/RTS/RPG。特定“第一”“成熟/独立”认定需以25正文核查。原023图仍保留供对比纠错。
 
 
