@@ -1,5 +1,8 @@
 # 005 — 游戏产业技术—产品生产能力年代表（1958—2026，首版）
 
+> **当前正式读者入口（2026-10-11最新审计）：**[026 — 12类×L/M/I均有代表性作品的年代图](026-audited-era-twelve-genre-complete-tracks.svg)｜[026 — 中型RTS/RPG/赛车一手团队人数、网络与发行价值网络案例](026-verified-mid-team-three-genre-cases-and-network-transition.md)｜[90条原始案例和模式证据](023-representative-genre-three-rails-1958-2026.csv)。**36/36仅表示选定的36个轨道均有年份节点，不代表每一类同保真度、同联网架构、相同外部支持下都已普及**。关键修正：2017/2018《Northgard》属于**3D RTS（RTS3辅助支线）**，不能冒充2D RTS；该轨M由**1997《Age of Empires》**替代。[025](025-audited-era-by-genre-three-rails.svg)及更早023仅历史快照。
+
+
 > **当前优先入口（2026-10-11实质纠错）：**[025 — 对代表作年份、个人制作能力、联网与类型漏项的反向审计](025-flagship-era-audit-earlier-small-authors-and-missing-genres.md)｜[新12类×大型／中型／微型时代图SVG](025-audited-era-by-genre-three-rails.svg)｜[82条逐案例来源](023-representative-genre-three-rails-1958-2026.csv)。相较023九类图的65条，新增17条早期/缺漏作品，**12类×3轨已有33/36选样角色；赛车、RTS、RPG三类M核心仍缺明确团队FTE证据**。原023/024的27/27只是旧选样宽度，非全产业完整。
 
 
