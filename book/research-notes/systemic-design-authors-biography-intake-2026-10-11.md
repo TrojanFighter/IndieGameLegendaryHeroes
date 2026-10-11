@@ -147,6 +147,15 @@ Mazer人物真实身份/署名应以其**自愿公开**的正式官方身份来�
 - 2025-12-17发行商开发日志指出，有些历史舰船无法在有限的原战役船体重量规则下完全复现，而真实历史船型数据库需大量人工，**超出团队当时资源**，所以采用自动舰船设计加编辑器，并放宽沙盘规则。此为「有限能力与预算如何迫使团队定义合理的抽象边界」的一手设计论据： https://steamcommunity.com/app/2008100/allnews/
 - 这里的主题与作者传记应区分：已经支持“Wallin如何向玩家说明设计取舍”，但尚不足以说明作者家庭、职业与生存条件；不应提前写成熟人物传记。
 
+
+### AD-NEW-02｜2018-12-18开发日记：“没有耀眼新功能”，但必须做教程/UI（P0同期）
+
+- **来源**：3Division/Peter Adamčík, *Development diary #6*, 2018-12-18（页面2023编辑，需区分首发与修订）：https://www.sovietrepublic.net/post/development-diary-6
+- 发售前约三个月，Peter公布过去几周主要在做教程、即时提示、设置、GUI和性能优化，而非演示更炫目的系统功能。这是**核心作者将学习成本当成生产任务**的同期材料，纠正「沉迷系统复杂度不顾玩家体验」的单面化叙事，但不代表其实际新手教学已经出色。
+- 2018-10-10日记 #5 则谈到建设昼夜循环、发电站与变压器、显示城市电力消耗，给出了规则反馈/UI如何逐步从原型生长的版本锚点：https://www.sovietrepublic.net/post/development-diary-5
+- 2020年同人采访的斯洛伐克语视频英语字幕可作为后续候选；未经逐段观看，不能据介绍推断独特事实：https://workers-resources.fandom.com/wiki/Report_for_the_community_15
+- 2024年Peter与视频作者Bballjo访谈有关于自研引擎、调参、物流、玩家习惯的时间码索引，需取得原音确认，**不能仅从视频简介推断确切答案**：https://steamcommunity.com/sharedfiles/filedetails/?id=3175474987
+
 ## H｜本轮理论取舍：高概念作者也会犯错与违约
 
 1. *Concept discovery*：先看见有价值的产品想法（Peter 2014年国家计划经济、Mazer 2022年战略Conquest）。
