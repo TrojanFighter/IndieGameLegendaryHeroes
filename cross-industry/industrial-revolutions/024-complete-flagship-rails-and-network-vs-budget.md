@@ -1,5 +1,8 @@
 # 024 — 把三线历史图填满：六个关键缺格、联网版本与缩放生产路径
 
+> **历史版本已被2026-10-11反向审计修正。** 本页所写9类27/27、65条以及[023旧SVG](023-representative-three-rails-filled-first-pass.svg)是**上一阶段选样快照**；当前请以[025审计结论](025-flagship-era-audit-earlier-small-authors-and-missing-genres.md)及[12类33/36轨道的纠错时代图](025-audited-era-by-genre-three-rails.svg)为准。现同一[023来源CSV](023-representative-genre-three-rails-1958-2026.csv)已扩展**82条原版与功能模式历史记录**；新增1990 Alpha Waves、1991 Hunter、1993 Ken's Labyrinth、2002 Soldat、2011 Ace of Spades以及原图漏掉的赛车/RTS/RPG。特定“第一”“成熟/独立”认定需以25正文核查。原023图仍保留供对比纠错。
+
+
 - **2026-10-11 / Status: VERIFIED REPRESENTATIVE MILTESTONE COMPLETION — Not first-ever, not equal-fidelity full industry census**
 - **最新可读主图：[023 v2 — 9个玩法族×L/M/I共27个角色均有标志节点](023-representative-three-rails-filled-first-pass.svg)** / [65条案例与源头](023-representative-genre-three-rails-1958-2026.csv)。
 - 为读者服务：主图优先完整呈现标志性历史作品，**不同规格、不同网络与依赖技术用注释明确**；不将102格组合表当成稿件完成条件。
