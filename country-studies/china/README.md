@@ -31,7 +31,7 @@
 - [NExT portfolio 效率审计](../../book/research-notes/next-studios-portfolio-efficiency-audit-014.md)
 - [本轮 provenance closeout](../../book/research-notes/china-indie-source-intake-closeout-015.md)
 
-- **[66RPG低门槛RPG Maker／互动叙事社区史（**已撤销与俄国高技术游戏团队的能力对标**）](66rpg-hobbyist-maker-to-professional-paths-2004-2026.md)**：2026期刊研究的对象是业余社区协作活动，86万+账户、短作比赛投稿和教程数量**绝不能**作为自主引擎／复杂模拟／玩法系统人才的分母或俄国同级技术开发能力反证；《潜伏之赤途》属后继橙光的剧本/互动叙事成功路线。史料保留于社区文化史，不占原生玩法/工程创新核心比较样本。
+- **[66RPG低门槛RPG Maker／互动叙事社区史](66rpg-hobbyist-maker-to-professional-paths-2004-2026.md)**（**已撤销与俄国高技术游戏团队的能力对标**）：2026期刊研究的对象是业余社区协作活动，86万+账户、短作比赛投稿和教程数量**绝不能**作为自主引擎／复杂模拟／玩法系统人才的分母或俄国同级技术开发能力反证；《潜伏之赤途》属后继橙光的剧本/互动叙事成功路线。史料保留于社区文化史，不占原生玩法/工程创新核心比较样本。
 
 ## 1.5. 俄罗斯／后苏联核心对照组：跨制度十维矩阵（2026-10-07）
 
