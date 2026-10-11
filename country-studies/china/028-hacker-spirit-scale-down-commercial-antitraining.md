@@ -1017,3 +1017,18 @@ AI makes missing capabilities cheaper
 # 19. 当前最小结论
 
 > **Hacker Spirit、Scale Down与商业游戏反训练不是三个孤立问题。它们共同描述创作者面对约束时的默认响应函数。Hacker mode强调hands-on proof、problem hacking、resource substitution与低成本现实裁决；Scale Down不是把标准大作砍小，而是保留player thesis、重写生产问题；大型商业游戏则合理训练specialization、resource allocation、benchmark、process reliability与规模化，但这些习惯未经转换地进入微型作者团队时可能形成Indie Negative Transfer。腾讯NExT的内部实验尤其强：管理者明确把原团队描述为习惯“螺丝钉”，并通过2–5人孵化、Demo、100人天Review、T形人才和动态追加资源重新训练。4A则展示了更硬的Hacker Agency：核心生产者离开旧产权容器后直接重建引擎、团队和产品。真正值得比较的不是“哪个民族更有hacker精神”，而是Hacker-Mode Socialization Density、Scale-Down Literacy和Commercial→Indie Retraining Cost的数量级。**
+
+
+---
+
+# 20. 2026-10-11 增量：风口时间函数与平台价值网络的反训练
+
+**专题 Owner**：[平台价值网络 × 风口追赶 × 独游反训练](../../book/research-notes/platform-value-network-window-chasing-indie-antitraining-2026-10-11.md)。此处仅保存对028原有七项负迁移的差异增量，不复制2011年QQ空间史料、Steam制度或案例流水。
+
+作者新增的关键不对称是：在《PUBG》《Lethal Company》《幻兽帕鲁》等产品已经证明某类需求之后，**风口追赶**的局部最优可能是快速集结团队、抢交付窗口和组织买量；而尚未有确定需求的原发作者，局部最优往往是多次低成本、可逆的原型检验，保留核心player thesis、缩小scope、积累目标用户证据，再选择继续小队生产、扩编、融资或寻求发行。前者购买交付产能，后者购买认知与选择权。
+
+这补出028第8节原有 `RESOURCE REFLEX` / `SCALE PRESTIGE` 的**时间函数**：`UPFRONT-COMMITMENT REFLEX`（自己的产品尚未验证就前置投入），`WINDOW-CHASE REFLEX`（把抢已知赛道的时间当成寻找未知赛道的时间），`HEADCOUNT-AS-LEARNING FALLACY`（把增加人月当成增加新玩法发现率）。
+
+这里不是“独游必须永远小”，更不是“商业游戏经验全部有害”：当自己的玩法已证且交付可并行，扩编可能是正确答案。《荒野行动》的日本市场、《Hades》成熟团队Early Access、腾讯NExT与网易Mini原型机制、商业人才可迁移的程序/美术/运营能力，都必须作为反压力。对从业者应测**项目进度与验证时点、每轮原型花费、放弃规格的能力、原型权、作者决策权、人效与项目经济结果**，而非仅问是否大厂或学历。
+
+与[中国033](033-technology-proxies-experience-demand-and-commercial-feedback.md)、[岗位训练005](../../book/research-notes/china-commercial-game-training-role-origin-audit-005.md)、[OQ-026](../../OPEN-QUESTIONS.md)并联；不得把作者对996/007和“做题家”的批判性陈述写成未经统计的行业覆盖率。
