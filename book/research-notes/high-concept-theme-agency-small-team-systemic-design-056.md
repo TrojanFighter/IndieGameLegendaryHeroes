@@ -108,6 +108,8 @@
 
 **研究冲突**：如果真实系统的复杂性不足以产生玩家可理解的风险权衡，题材自洽不等于有趣；如果为了参与感让玩家亲自操纵每一部载具，也可能与指挥官角色尺度矛盾。这是需要试玩、开发访谈和同类负例来验证的 H，不能只由商店文案推出价值判断。
 
+**人物生产史交接：** 本轮已建立 [Adamčík / Reijkersz / Wallin / Mazer 传记证据包](systemic-design-authors-biography-intake-2026-10-11.md)，记录2017和2019 Peter同期访谈、Victor前作累积与近burnout、Fredrik原始设计日记与署名、Mazer待核音频。该文件为Lane B intake，**不自动授权生成成品人物传记**；入稿前须按EDITORIAL-GATE先锁事实与Narrative Packet。
+
 ## 5. 优先研究订单（下一轮 Lane B）
 
 1. **Rule the Waves 1→2→3**：追踪 NWS/设计者起点、军备竞赛、条约、技术锁定与典型失败造舰选择；比较 HighFleet 不同的战争核/军备问题；询问图形简化是否为有意范围选择。
