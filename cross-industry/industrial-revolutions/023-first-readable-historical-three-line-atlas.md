@@ -1,5 +1,8 @@
 # 023 — 游戏历史技术分代：可以直接阅读的代表作品三线主图（1958—2026）
 
+> **历史版本已被2026-10-11反向审计修正。** 本页所写9类27/27、65条以及[023旧SVG](023-representative-three-rails-filled-first-pass.svg)是**上一阶段选样快照**；当前请以[025审计结论](025-flagship-era-audit-earlier-small-authors-and-missing-genres.md)及[12类33/36轨道的纠错时代图](025-audited-era-by-genre-three-rails.svg)为准。现同一[023来源CSV](023-representative-genre-three-rails-1958-2026.csv)已扩展**82条原版与功能模式历史记录**；新增1990 Alpha Waves、1991 Hunter、1993 Ken's Labyrinth、2002 Soldat、2011 Ace of Spades以及原图漏掉的赛车/RTS/RPG。特定“第一”“成熟/独立”认定需以25正文核查。原023图仍保留供对比纠错。
+
+
 - Status: **FIRST PUBLISHABLE HISTORICAL OVERVIEW, DATED REPRESENTATIVE MILESTONES**。这是全书历史分代的**读者第一入口**，不是102格完整工业普查。
 - As of 2026-10-11。
 - **[主图：1958—2026 大型专业 L / 中型核心 M / 个人与微型独立 I 分品类代表作](023-representative-three-rails-filled-first-pass.svg)**
