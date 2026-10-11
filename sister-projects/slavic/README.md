@@ -227,7 +227,7 @@ Gaijin 创始人 Anton Yudintsev 明确表示，War Thunder 的开发在 World o
 - **Pathologic / Ice-Pick Lodge** — 商业失败风险、作者性与长期生存。
 - **IL-2 Sturmovik / 1C:Maddox** — 飞行模拟 / 军事载具技术谱系，对 Gaijin 等后来团队的重要前史。
 - **Hammerfight / Konstantin Koshutin** — 个体能力资本与异常交互设计。
-- **[HighFleet / Konstantin Koshutin](evidence/SLAVIC-009-highfleet-koshutin-theme-agency-nuclear-escalation.md)** — 两人核心与外围协作；题材—能动性匹配、舰队/侦察/后勤耦合、核战争升级与低预算研究边界。
+- **[HighFleet / Konstantin Koshutin](evidence/SLAVIC-018-highfleet-koshutin-theme-agency-nuclear-escalation.md)** — 两人核心与外围协作；题材—能动性匹配、舰队/侦察/后勤耦合、核战争升级与低预算研究边界。
 - **Escape from Tarkov / Battlestate Games** — extraction shooter 的资源、风险、市场结构。
 - **Loop Hero / Four Quarters** — 极小团队、旧式表现、系统创新与全球发行。
 - **Black Book / Morteshka** — 地方文化研究与商业产品化。
