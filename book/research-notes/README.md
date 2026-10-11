@@ -6,7 +6,7 @@
 
 ## 当前索引
 
-- [`high-concept-theme-agency-small-team-systemic-design-056.md`](high-concept-theme-agency-small-team-systemic-design-056.md) — 题材—玩家能动性匹配 / 高概念规则化：HighFleet既有SLAVIC-009交叉引用，Workers & Resources、NEBULOUS、Terra Invicta、Foxhole、Sea Power、Nuclear Option、Not For Broadcast、Suzerain等12项首轮对照及22条公开来源；新增Rule the Waves 3、Shadow Empire、ΔV核心研究线索，明确小团队/AAA因果与预算分母尚待核验。**Lane B研究入口，非正式Claim。**
+- [`high-concept-theme-agency-small-team-systemic-design-056.md`](high-concept-theme-agency-small-team-systemic-design-056.md) — 题材—玩家能动性匹配 / 高概念规则化：HighFleet既有SLAVIC-009交叉引用，Workers & Resources、NEBULOUS、Terra Invicta、Foxhole、Sea Power、Nuclear Option、Not For Broadcast、Suzerain等12项首轮对照与20余条公开来源；新增Rule the Waves 3、Shadow Empire、ΔV、Nuclear War Simulator、Carrier Command 2研究线索与题材真实性的反证，明确小团队/AAA因果与预算分母尚待核验。**Lane B研究入口，非正式Claim。**
 
 - [`platform-value-network-window-chasing-indie-antitraining-2026-10-11.md`](platform-value-network-window-chasing-indie-antitraining-2026-10-11.md) — 2026-10-11平台价值网络 × 风口追赶型生产 × 独立游戏负迁移：以2011腾讯QQ空间/2012分成/Steam直营为不同证据级别的历史与制度锚，连接作者雄文中的“逆推荐规训系统/赛博地主”与“先买产能抢窗口 vs 先买认知再放大”；含B站匿名评论弱Signal边界、反例及可测量项目/职业队列。**Lane B假说，不是已证国别效应量。**
 
