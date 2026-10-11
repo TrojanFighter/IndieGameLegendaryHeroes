@@ -6,6 +6,8 @@
 
 ## 当前索引
 
+- [`platform-value-network-window-chasing-indie-antitraining-2026-10-11.md`](platform-value-network-window-chasing-indie-antitraining-2026-10-11.md) — 2026-10-11平台价值网络 × 风口追赶型生产 × 独立游戏负迁移：以2011腾讯QQ空间/2012分成/Steam直营为不同证据级别的历史与制度锚，连接作者雄文中的“逆推荐规训系统/赛博地主”与“先买产能抢窗口 vs 先买认知再放大”；含B站匿名评论弱Signal边界、反例及可测量项目/职业队列。**Lane B假说，不是已证国别效应量。**
+
 - [`unshipped-creator-gates-china-spain-credit-055.md`](unshipped-creator-gates-china-spain-credit-055.md) — 中国呼兰Alex（2022《RESTART》未完成但拥有项目主程/Unity基础）、LZY（2024《昆仑工程》完成但退款反馈/ROI不理想，2024作者自述）、西班牙Evolve Games（2016四人失去两人且规模翻倍后取消《The Swarm》）及IGDA 2023署名/离职信心调查：区分技术、完成、市场、团队连续和可转移作品信用；非随机国家样本。
 
 - [`creator-exit-scope-five-biographies-china-us-054.md`](creator-exit-scope-five-biographies-china-us-054.md) — 希罗×亚恒×Gunpoint×The First Tree×early id：按入场前阅历和已出货、原型组织/砍规模、工资与家庭支持、何时辞职及市场接入作历史对照。新增2018亚恒本人10章→6章复盘、2017已辞职、2019家庭尊重/跨国阅读，Francis 2010试玩反驳、2013三个月假期，Wehle 2016全职+育儿和2017真实愿望单。拒绝“先辞职=勇敢/原创”和5例外推国别数量级。

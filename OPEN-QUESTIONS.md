@@ -491,6 +491,18 @@ Program D 跨行业研究为主；游戏 Case 只作为可审计样本，不升�
 
 ---
 
+## P0 — 平台价值网络 / 风口追赶与作者再生产
+
+### OQ-026｜平台究竟奖励谁：风口快交付还是自主发现新体验？
+
+- **Status:** PARTIAL（平台制度与作者机制已有证据，跨平台/跨国数量级、国别因果与失败者分母仍UNKNOWN）。
+- **Owner:** [平台价值网络 × 风口追赶 × 独游反训练专题](book/research-notes/platform-value-network-window-chasing-indie-antitraining-2026-10-11.md)；产业史见[分发001](book/research-notes/china-indie-distribution-regime-001.md)、[商业制度003](book/research-notes/china-game-commercial-regime-lineage-003.md)，技能转移见[中国028](country-studies/china/028-hacker-spirit-scale-down-commercial-antitraining.md)、[岗位005](book/research-notes/china-commercial-game-training-role-origin-audit-005.md)；国际参照同OQ-015。
+- **Evidence so far:** 2011第一财经腾讯五分钟《开心农场》交易的同期采访；2012腾讯Q+分成政策；Steam官方Steam Direct/Visibility；既有NExT、网易Mini等正向反例。2025匿名B站用户成本/机器人/分成数字仅弱Signal，不可变成全行业事实。
+- **Unresolved core:** 同一价值网络究竟优先生产多少**可盈利跟进项目**和多少**原发玩法作者**？在已知风口出现之后，企业扩编相对自家原型验证的提前量是多少？这一训练会否提高独游首作成本、降低scale-down能力与二作生存？是什么比例、由职业训练还是进入前自选造成？
+- **Question:** 比较中国移动买量、QQ空间联运、全球Steam/EGS、Roblox/UGC、MOD和孵化体系，控制时代、项目类型、团队、资金与目标用户，测**项目绿灯队列、被否方案、扩编时点、首demo时点、投放/自然引流、人月成本、IP与账号控制权、首作与二作结果、玩法原创性/同构异性创新**。区别生产效率和探索效率。
+- **Competing explanations:** 追随成熟品类也能做有价值的重组并出海（如《荒野行动》日本市场）；原型型项目也可能沉没，低成本demo可能误杀必须高保真的玩法；NExT/网易Mini等大厂拥有原型授权；Steam/Roblox也有规模集中与算法偏差；教育、融资、语言、品类、家庭runway可能共同决定结果。
+- **Closure condition:** 至少两个同年代、同品类、不同分发制度的完整**立项→原型→上市/流产**队列，包含未成功者与取消项目；一组同职种商业→indie转型跟踪；可对账的成本/收益口径；分轴报告平台商业机会、玩家福利、原发玩法、同构异性创新、作者控制权，提供效应区间与失败反例。在此之前仅保留机制与研究议程，不升级成“商业训练普遍反训练”的国别定论。
+
 ## Usage
 
 其他对话领取问题时应：
