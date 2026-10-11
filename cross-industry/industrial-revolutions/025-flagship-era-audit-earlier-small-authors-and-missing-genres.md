@@ -1,5 +1,8 @@
 # 025 — 代表作品时间线的反向历史审计：更早作品、生产门槛与类型漏项
 
+> **当前正式读者入口（2026-10-11最新审计）：**[026 — 12类×L/M/I均有代表性作品的年代图](026-audited-era-twelve-genre-complete-tracks.svg)｜[026 — 中型RTS/RPG/赛车一手团队人数、网络与发行价值网络案例](026-verified-mid-team-three-genre-cases-and-network-transition.md)｜[90条原始案例和模式证据](023-representative-genre-three-rails-1958-2026.csv)。**36/36仅表示选定的36个轨道均有年份节点，不代表每一类同保真度、同联网架构、相同外部支持下都已普及**。关键修正：2017/2018《Northgard》属于**3D RTS（RTS3辅助支线）**，不能冒充2D RTS；该轨M由**1997《Age of Empires》**替代。[025](025-audited-era-by-genre-three-rails.svg)及更早023仅历史快照。
+
+
 - Date: 2026-10-11。Status: **PRIMARY-SOURCE-CHECKED REVISIONS / 早期行业首次需谨慎；具体品类规模传播仍待统计**。
 - 首选可读图：[025审核后12类 × L/M/I × 5时代图](025-audited-era-by-genre-three-rails.svg)；按记录源[023扩展的82条里程碑和类型证据CSV](023-representative-genre-three-rails-1958-2026.csv)。
 - [023原始9类三线图](023-representative-three-rails-filled-first-pass.svg)是早于本轮审计的**上一版历史快照**，其中对早期微型3D、早期个人FPS和联网体素游戏覆盖不足；**不得再把该图27/27作为产业史完成程度的结论**。
