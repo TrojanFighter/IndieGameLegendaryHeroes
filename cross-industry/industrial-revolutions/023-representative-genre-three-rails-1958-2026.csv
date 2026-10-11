@@ -64,3 +64,20 @@ id,family,role,year,title,network,evidence_class,primary_or_source_url,comparabi
 063,CITY3,I,2019,American Fugitive,S,MICRO_ORIGIN_TWO_FOUNDERS_PUBLISHER,https://fallentreegames.com/americanfugitive/,Fallen Tree Games两位创始人背景；Curve发行；3D俯视开放世界犯罪、车辆/任务/追捕；真实外包/支持待核
 064,CITY3,I,2023,Shadows of Doubt EA,S,MICRO_DEVELOPERS_WITH_AUDIO_WRITER,https://colepowered.com/shadows-of-doubt-devblog-35-post-launch-progress/,Cole Jefferies+另名开发者Josh；音效文字另合作；2023-04-24 EA；程序生成体素调查城市而非GTA大量手工任务
 065,CITY3,M,2025,The Precinct,S,4_ORIGIN_EXPANDED_5_PLUS_WITH_EXTERNAL_SUPPORT,https://www.pushsquare.com/features/interview-learning-all-about-the-precinct-ps5s-super-promising-sandbox-cop-game,原核心2程序+2美术共4人，扩增专职设计及额外程序+外包配音、美术；2025发行、Kwalee发行并有外部支援；并非仅四人承担全部生产
+066,P3,L,1990,Alpha Waves,S/C,CORPORATE_FINANCED_SOLO_CODE,https://c3d.github.io/,Christophe de Dinechin自述1988起开发1990年Infogrames发行；一名主程序员在企业聘用体系下实现低规格多边形平台动作；不是纯独立发行
+067,P3,F,1994,Geograph Seal,S/X,JAPAN_X68000_PLATFORM_SHOOTER_HYBRID,https://gyusyabu.ddo.jp/MP3/1994/GEO.html,Exact X68000第一人称3D机甲跳跃射击；日本资料称1994-03-15上市原定03-12；混合品类前驱/疑似串行双机对战另核
+068,P3,L,1995,Jumping Flash!,S,PRE_MARIO3D_PROFESSIONAL_PLATFORM,https://gamefaqs.gamespot.com/ps/572469-jumping-flash/data,Exact开发Sony发行的第一人称3D平台动作；日本1995-04-28首发，早于Super Mario 64；不同镜头与设计规范
+069,FPS3_S,I,1993,Ken's Labyrinth v1.0,S,SOLO_SELF_PUBLISHED_SHAREWARE_FPS,https://www.advsys.net/ken/klab.htm,Ken Silverman本人保留原1993-01-01自发行shareware与代码；后来Epic版追加素材及协作者；打破DUSK 2018作为首批个人商业FPS的印象
+070,CITY3,I,1991,Hunter,S,INDIVIDUAL_CORE_PUBLISHER_BACKING,https://www.guinnessworldrecords.com/world-records/88385-first-open-world-action-adventure-videogame,Paul Holmes主导的1991年3D多边形岛屿开放世界/载具/动作冒险，Activision发行，其他声音美术协作者存在；不等同GTA城市资产密度
+071,SYS3,I,1985,Mercenary,S,EARLY_SMALL_AUTHOR_3D_WORLD,https://www.mobygames.com/game/706/mercenary/,Paul Woakes个人程序与Novagen出版的1985年线框3D开放世界探索；早期世界技术而非现代多边形内容
+072,S2,I,2002,Soldat 0.9.4b,O,SOLO_ORIGIN_SHAREWARE_MULTIPLAYER,https://static.soldat.pl/man/manual-jp.html,Michał Marcinkowski主导2002年开始的2D横向联网射击；作者原始manual列程序美术以及大厅/专服，但后来服务器有维护贡献者；非俯视双摇杆
+073,BATTLE3,I,2011,Ace of Spades original beta,D,SOLO_ORIGIN_FREE_ONLINE_BETA,https://openspades.yvt.jp/,Ben Aksoy个人制作的免费体素可破坏地形联网PvP游戏，2011起；2012 Jagex收费版本是另一制作阶段；用户自建服务器不是自有长期服务，人数/财务不等同BattleBit
+074,RACE3,I,1984,Revs,S,EARLY_SOLO_AUTHOR_3D_RACING,https://gamefaqs.gamespot.com/bbc/949318-revs/data,Geoff Crammond主导BBC Micro三维赛车模拟，Acornsoft发行；图形和赛道规模有限；发行团队另记
+075,RACE3,I,1989,Stunt Car Racer,S,AUTHOR_LED_3D_RACING_PUBLISHER,https://www.atarilegend.com/games/stunt-car-racer,Geoff Crammond编程设计、John Cumming提供图形支持；MicroStyle/MicroProse发行，1989商业3D竞速
+076,RACE3,L,1992,Virtua Racing,S,PROFESSIONAL_SPECIAL_HARDWARE_ARCADE,https://www.sega.jp/history/arcade/topics/6512/index.html,SEGA专业街机多边形3D赛车；不可称为3D赛车最早作品
+077,RTS2,L,1992,Dune II,S,PROFESSIONAL_RTS_CANON,https://www.mobygames.com/game/241/dune-ii-the-building-of-a-dynasty/,Westwood研发、Virgin发行的1992单机RTS；并非最早即时战略构想，但形成现代基地建设RTS范式
+078,RTS2,I,2006,DEFCON,O,SMALL_INDEPENDENT_ONLINE_STRATEGY,https://store.steampowered.com/app/1520/,Introversion小型独立工作室2006年付费在线核战争策略；与Dune II仅广义RTS家族并非基地建设同规格
+079,RTS2,I,2017,Rusted Warfare,O/D,INDEPENDENT_SMALL_HEADCOUNT_UNVERIFIED,https://store.steampowered.com/app/647960/,Corroding Games自发行，支持10人联机与自建专服、跨平台；实际项目开发者人数未审，不声称单人完成
+080,RPG2,I,1981,Ultima I,S,TWO_CORE_ROLE_AUDITED,https://www.mobygames.com/game/8812/ultima/credits/apple2/,Richard Garriott与Kenneth W Arnold实际编程/图形原始主创为2人；1981商业发行；总credits12含致谢不可当12核心
+081,RPG2,L,1995,Chrono Trigger,S,PROFESSIONAL_CONSOLE_RPG,https://www.jp.square-enix.com/chronotrigger/,1995 Square专业主机JRPG内容工业化及多领域团队；并非2D角色扮演首次商用
+082,RPG2,I,2015,UNDERTALE,S,PERSONAL_AUTHOR_COLLABORATORS,https://store.steampowered.com/app/391540/UNDERTALE/,Toby Fox作者型商业RPG，外部画面/角色等协作存在；不能假定一个人完成所有资源
