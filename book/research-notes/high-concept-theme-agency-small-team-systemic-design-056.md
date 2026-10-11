@@ -127,3 +127,16 @@
 仅公开研究；不向私有项目转译玩法、数值或执行建议。本文件是 **Lane B 可追溯研究笔记**。任何正式 Case、Claim 或 reader chapter 均需额外完成 Contributor / Runway / Market Access / Failure / Counterevidence 审计。
 
 现阶段最值得保留的不是“所有独立游戏都超越3A”，而是一个有确定观察对象、可分拆机制与可证伪命题的研究计划：**题材约束转化为玩家行动的效率，在少数极小团队作品中显著突出；它背后的长期能力资本与失败分母尚待求证。**
+
+## 7. 2026-10-11：原型/能力资本与反例增量
+
+同期证据记录在 [系统型独立作者传记证据包](systemic-design-authors-biography-intake-2026-10-11.md) §G–H，以下是跨案例解释，不是独立第二套事实账。
+
+**H056-E：先造较小的专业作品，为更大的作者想法购买runway。** Adamčík在2018采访中回忆2014已有《Workers & Resources》构想，但选择先完成较小的《Air Missions: HIND》为后者筹资；2018研发约7–8名参与者，折合4名全职。必须区分此前官方说的“2019几乎一人编程”、2018等效全职与2020内部4人三类人口径。职业积累与阶段性产品是实际资金路径，不能用“小团队只有4人”遮蔽外围或将前作盈利数字虚构。
+
+**H056-F：核心有趣≠上层宏观系统越多越好。** 《NEBULOUS》2022 Conquest设计承诺相当于「第二套游戏」，2024-06官方明确中止旧案、将未完版本作废测试分支并重新设计更贴近Skirmish的战役，2026-05-29正式加入Campaign Act 1、资源与舰船跨场次持续和战役编辑器。我们观察到的是**高概念作者也可能受feature creep伤害，并在发布过程承受声誉损失**，不能只说因小团队原创必能正确取舍，更不能说2026原Conquest全部完成。
+
+**H056-G：小团队系统型作品的复杂度治理是长期产品工作。** Victor自述最享受几周做完、删繁就简的《Small General》，《Shadow Empire》却用了4–5年；Wallin 2026基于玩家反馈正式发布《Rule the Waves 3: Expanded Battles》快捷战斗，降低原长期战役入门壁垒。这里支持的不是“少做内容总更好”，而是玩家需要能够区分有价值的决策负担与重复/无用工作。
+
+**比较新指标（候选，未经验证）**：以每个题材宣称的核心矛盾分别记录 `Rule-bearing player decisions / Time to first meaningful decision / Consequence persistence / Irreversibility / Nonproductive interaction time / Actual paid person-years / Front-loaded experience capital / Commitment write-offs`，不把它们压成随意的统一「人效」分数。对于 Conquest，应收集2022方案→2024废案→2026新战役的具体版本功能和玩家体验反馈，再评价损失与回报。
+
