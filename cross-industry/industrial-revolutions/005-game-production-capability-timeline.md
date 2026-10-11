@@ -1,5 +1,8 @@
 # 005 — 游戏产业技术—产品生产能力年代表（1958—2026，首版）
 
+> **当前优先入口（2026-10-11实质纠错）：**[025 — 对代表作年份、个人制作能力、联网与类型漏项的反向审计](025-flagship-era-audit-earlier-small-authors-and-missing-genres.md)｜[新12类×大型／中型／微型时代图SVG](025-audited-era-by-genre-three-rails.svg)｜[82条逐案例来源](023-representative-genre-three-rails-1958-2026.csv)。相较023九类图的65条，新增17条早期/缺漏作品，**12类×3轨已有33/36选样角色；赛车、RTS、RPG三类M核心仍缺明确团队FTE证据**。原023/024的27/27只是旧选样宽度，非全产业完整。
+
+
 > **当前优先阅读：**[023 — 1958—2026游戏分品类L/M/I三条线的标志性历史作品总览](023-first-readable-historical-three-line-atlas.md)｜[可直接观看的主图SVG](023-representative-three-rails-filled-first-pass.svg)｜[65条来源可追的里程碑记录](023-representative-genre-three-rails-1958-2026.csv)。[022](022-network-conditioned-genre-three-line-method.md)的102格是科研审计辅助，不是主图完工条件；现主图9家族×3轨，有27/27已有案例锚点。联网以S/C/N/O/D/∞模式注释，工具和不同子品类合作列附轨。
 
 
