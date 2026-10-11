@@ -31,7 +31,7 @@
 - [NExT portfolio 效率审计](../../book/research-notes/next-studios-portfolio-efficiency-audit-014.md)
 - [本轮 provenance closeout](../../book/research-notes/china-indie-source-intake-closeout-015.md)
 
-- **[2005—2017中国66RPG创作者社区：早期原型池、持续作品与职业转化率](66rpg-hobbyist-maker-to-professional-paths-2004-2026.md)**：2026年审稿期刊史料重建86万+注册用户/329万帖子，2006—12短作竞赛投稿数、1000小时教程、梁其伟《雨血》国际化、2010—17分享/商业化/平台/监管多因素演变；与1998—2013俄《General》《Space Rangers》社区和郭磊2007—2025职业路线对照。**账户≠创作者**，不把作者社群衰落化约为单因果。已记录学术论文内部问卷人数矛盾。
+- **[66RPG低门槛RPG Maker／互动叙事社区史（**已撤销与俄国高技术游戏团队的能力对标**）](66rpg-hobbyist-maker-to-professional-paths-2004-2026.md)**：2026期刊研究的对象是业余社区协作活动，86万+账户、短作比赛投稿和教程数量**绝不能**作为自主引擎／复杂模拟／玩法系统人才的分母或俄国同级技术开发能力反证；《潜伏之赤途》属后继橙光的剧本/互动叙事成功路线。史料保留于社区文化史，不占原生玩法/工程创新核心比较样本。
 
 ## 1.5. 俄罗斯／后苏联核心对照组：跨制度十维矩阵（2026-10-07）
 
