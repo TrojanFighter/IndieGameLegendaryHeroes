@@ -11,6 +11,10 @@
 
 ---
 
+### 2026-10-11：价值网络理论扩展（研究方法，不预设国别结论）
+
+- [Value Network beyond Disruption — 三网络、切换成本、创新收益占有与再生产](value-network-extended-audit-20261011.md)：基于Christensen/Rosenbloom及Christensen Institute教育场景的理论扩展，关联[新西兰](../country-studies/new-zealand/README.md)与[中国040时代窗口](../country-studies/china/040-value-network-regime-shift-creator-window-2026.md)。保留原始理论边界、竞争性解释、反例与分母未知。
+
 ## 1. 从游戏业进入跨行业：PUBG 是桥梁
 
 根目录 [CASE-032](../cases/CASE-032-pubg-brendan-greene.md) 已经给出一个关键中间态：
