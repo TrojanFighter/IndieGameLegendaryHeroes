@@ -167,9 +167,9 @@
 
 > `registered users / downloads / accounts` 不得直接翻译成 DAU、PCCU、retention 或 payer。F2P 案例必须尽量拆成 `exposure → registration → first battle → return → retained active → payer → long-term hobby`。
 
-### SLAVIC-009 — HighFleet / Konstantin Koshutin：题材—能动性匹配与核战争升级
+### SLAVIC-018 — HighFleet / Konstantin Koshutin：题材—能动性匹配与核战争升级
 
-[`SLAVIC-009-highfleet-koshutin-theme-agency-nuclear-escalation.md`](SLAVIC-009-highfleet-koshutin-theme-agency-nuclear-escalation.md)
+[`SLAVIC-018-highfleet-koshutin-theme-agency-nuclear-escalation.md`](SLAVIC-018-highfleet-koshutin-theme-agency-nuclear-escalation.md)
 
 核心检验：
 
