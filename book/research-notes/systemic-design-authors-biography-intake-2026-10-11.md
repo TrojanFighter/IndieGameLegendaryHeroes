@@ -20,6 +20,15 @@
 - **3Division官方项目列表（P0机构动态页）**：自称《Workers & Resources》开发始于2017，使用自研引擎 4.1；开发起始年份与2019“两年”基本一致。
   - 3Division, *Workers & Resources: Soviet Republic*: https://www.3division.sovietrepublic.net/soviet-republic
 
+- **2023-02版权主张 / DMCA发行中断（同期P0当事公告+S1新闻，不做法律定性）**：当年新增的Realistic Mode与一位社区玩家此前提出的玩法挑战发生署名和权利争执。游戏遭到DMCA通知而暂时无法在Steam商店销售；3Division发表反通知，随后2023-03-04恢复上架。**不将公司单方主张（如谁发明了机制、侵权是否成立）写成最终司法认定**。这意味着玩家UGC是创意需求信号和生产外围，同时也可能形成知识产权/关系治理的现实风险。
+  - 3Division / Steam, *Report for the Community #68*, 2023-02-19（Steam公告实际日期；工作室官网同题目页面再发布时间冲突）: https://store.steampowered.com/news/posts/?appids=784150&enddate=1677925865&feed=steam_community_announcements
+  - Andy Chalk / PC Gamer, *Indie city builder removed from Steam after angry fan claims ownership of a game mode*, 2023-02-17: https://www.pcgamer.com/indie-city-builder-removed-from-steam-after-angry-fan-claims-ownership-of-a-game-mode/
+  - Luke Plunkett / Kotaku, *Soviet City-Builder Back On Steam After Rogue Fan’s DMCA Spree*, 2023-03-05（报道开发者3月4日恢复公告）: https://kotaku.com/workers-resources-soviet-republic-pc-dmca-city-builder-1850190837
+- **2023-09-17发行商选择反转（P0同期开发者原始公告）**：3Division宣布与Hooded Horse签订发行合同，说明自己缺少进行有效营销、Steam促销谈判，以及支持日本/中国等市场的资源，希望继续集中于开发，且声称开发方式不因合作而改变。这个节点和2019拒绝发行商**不存在必然自我矛盾**：2019优先验证作者独立与产品控制权，2023在产品已有基础后向专业发行商购买市场接入。不能事后宣称作者一开始就有完整的「先自发后发行」计划，也不能不查条款便说已保有所有权利。
+  - 3Division, *Report for the Community #83*, 2023-09-17: https://www.sovietrepublic.net/post/report-for-the-community-83
+- **2026官方长期回顾（P1机构当下自述）**：3Division自称2005成立、2006《Air Conflicts》、2007《Attack on Pearl Harbor》、2011–2012《Air Conflicts》后续、2014《Foosball: World Tour》、2017首个完全自发行《Air Missions: HIND》、2019 W&R EA、2023与Hooded Horse签约、2024 W&R正式版。它修正「一个原本业余者2017第一次做游戏」神话。网站自称“20+年”“1M+玩家”属动态机构自述，未确认具体日期/活跃指标；量化研究不得直接取用。
+  - 3DIVISION, *About*, 动态网页，访问2026-10-11：https://3division.net/about/index.html
+
 ### 传记冲突和待查
 - 高中游戏→2006 Air Conflicts→Air Missions HIND→2017未命名策略 alpha→2019 Early Access→2020内核扩张→2024正式版→后续发行：**职业转型不是零前史小白，而是已有程序、发行、范围控制、外包技能后换方向**。
 - 定期核实自研引擎与此前 Air Missions 的资产、共用组件；不能仅凭官方“自研”推断同一代码基。
