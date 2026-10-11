@@ -1,0 +1,84 @@
+name: zxdb-historical-author-census
+
+# Research-only reproduction. No repository writes, no secrets, no privileged PR event.
+on:
+  push:
+    branches: [research/yearly-production-capability-map-20261009]
+    paths:
+      - '.github/workflows/zxdb-historical-author-census.yml'
+      - 'cross-industry/industrial-revolutions/020-zxdb-live-mariadb-census.py'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  public-zxdb-census:
+    runs-on: ubuntu-latest
+    timeout-minutes: 35
+    services:
+      mariadb:
+        image: mariadb:11.4
+        env:
+          MARIADB_ROOT_PASSWORD: zxdb-ci-test-only
+          MARIADB_DATABASE: zxdb
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd="healthcheck.sh --connect --innodb_initialized"
+          --health-interval=10s
+          --health-timeout=6s
+          --health-retries=12
+    env:
+      ZXDB_DB_HOST: 127.0.0.1
+      ZXDB_DB_PORT: '3306'
+      ZXDB_DB_USER: root
+      ZXDB_DB_PASSWORD: zxdb-ci-test-only
+    steps:
+      - name: Checkout public research tools
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install dependencies
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq mariadb-client unzip
+          python -m pip install 'PyMySQL==1.1.1'
+      - name: Fetch exact pinned historical ZXDB archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl --fail --location --retry 4 --max-time 240 \
+            'https://raw.githubusercontent.com/zxdb/ZXDB/0a634a1165bd3690ea24e3c6b67bbbbb1b1ebd09/ZXDB_mysql.sql.zip' \
+            -o /tmp/ZXDB_mysql.sql.zip
+          test "$(stat -c %s /tmp/ZXDB_mysql.sql.zip)" -eq 27036060
+          sha256sum /tmp/ZXDB_mysql.sql.zip | tee zxdb-source-sha256.txt
+          unzip -Z1 /tmp/ZXDB_mysql.sql.zip
+      - name: Import snapshot to ephemeral MariaDB
+        shell: bash
+        run: |
+          set -euo pipefail
+          export MYSQL_PWD="$ZXDB_DB_PASSWORD"
+          mariadb -h127.0.0.1 -uroot -e 'CREATE DATABASE IF NOT EXISTS zxdb CHARACTER SET utf8mb4'
+          unzip -p /tmp/ZXDB_mysql.sql.zip | mariadb -h127.0.0.1 -uroot zxdb
+      - name: Extract year and people cohorts
+        shell: bash
+        run: |
+          set -euo pipefail
+          python cross-industry/industrial-revolutions/020-zxdb-live-mariadb-census.py \
+            | tee zxdb-results-console.txt
+      - name: Upload independently auditable results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: zxdb-1982-1992-audit-snapshot
+          path: |
+            zxdb-results/*.csv
+            zxdb-results-console.txt
+            zxdb-source-sha256.txt
+          if-no-files-found: warn
+          retention-days: 30
