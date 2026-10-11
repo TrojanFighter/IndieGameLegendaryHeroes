@@ -31,6 +31,8 @@
 - [NExT portfolio 效率审计](../../book/research-notes/next-studios-portfolio-efficiency-audit-014.md)
 - [本轮 provenance closeout](../../book/research-notes/china-indie-source-intake-closeout-015.md)
 
+- **[2005—2017中国66RPG创作者社区：早期原型池、持续作品与职业转化率](66rpg-hobbyist-maker-to-professional-paths-2004-2026.md)**：2026年审稿期刊史料重建86万+注册用户/329万帖子，2006—12短作竞赛投稿数、1000小时教程、梁其伟《雨血》国际化、2010—17分享/商业化/平台/监管多因素演变；与1998—2013俄《General》《Space Rangers》社区和郭磊2007—2025职业路线对照。**账户≠创作者**，不把作者社群衰落化约为单因果。已记录学术论文内部问卷人数矛盾。
+
 ## 1.5. 俄罗斯／后苏联核心对照组：跨制度十维矩阵（2026-10-07）
 
 - [俄／后苏联—中国游戏产业制度对照（1995—2026）](russia-china-game-industry-regime-comparison-1995-2026.md)：国内外收入、GaaS/F2P/P2W、长期能力复利、原创/benchmark、技术与涌现、投资者专业化和政府资助效果；**以作者原著‘渠道为王／逆推荐规训系统／执行主策’为历史机制主干**，优先检验渠道租金如何反向塑造立项、付费设计、创作者决策权，并核原创作者/懂行中介的数量级、人口与开发者分母、历史形成率和系统性抑制机制。俄裔 Playrix 与中国《戴森球计划》、Gamera Games 仅是具体反例，不允许以少数存在个案否认整个生态可能具有结构性问题；另对照中国自研约三分之一海外收入权重与 MY.GAMES 2020 国际收入75%等不同分母证据。
