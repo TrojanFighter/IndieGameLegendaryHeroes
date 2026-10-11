@@ -1,5 +1,8 @@
 # 022 — 按玩法×渲染×网络结构严格重建三条生产能力时间线（取代021主图）
 
+> **当前优先入口（2026-10-11实质纠错）：**[025 — 对代表作年份、个人制作能力、联网与类型漏项的反向审计](025-flagship-era-audit-earlier-small-authors-and-missing-genres.md)｜[新12类×大型／中型／微型时代图SVG](025-audited-era-by-genre-three-rails.svg)｜[82条逐案例来源](023-representative-genre-three-rails-1958-2026.csv)。相较023九类图的65条，新增17条早期/缺漏作品，**12类×3轨已有33/36选样角色；赛车、RTS、RPG三类M核心仍缺明确团队FTE证据**。原023/024的27/27只是旧选样宽度，非全产业完整。
+
+
 > **先看更适合读者的[023标志性作品三线主图](023-first-readable-historical-three-line-atlas.md)／[SVG](023-representative-three-rails-filled-first-pass.svg)。** 本页102格笛卡尔积保留为研究数据库的控制变量及查漏工具，不再是“画全书历史主图之前必须填满的102个格子”。023已选65条有出处的里程碑记录，9个主品类×L/M/I共27个轨道有21个案例锚定，其余保留限制，不能为了排版编造历史首次。
 
 
