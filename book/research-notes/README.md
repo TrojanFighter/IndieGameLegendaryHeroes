@@ -6,6 +6,9 @@
 
 ## 当前索引
 
+
+- [`high-concept-author-decision-rights-chris-park-mosolov-2026-10-12.md`](high-concept-author-decision-rights-chris-park-mosolov-2026-10-12.md) — Chris Park/Arcen《AI War》2009不对称AI发现、2010《Tidalis》失败与2018《AI War 2》玩法回退、2013营收原始数字；Alex Mosolov/Starsector的2014三人配置、储蓄＋预购与不扩编判断；小岛《Death Stranding》大型制作对照。三种设计判断权与2026作者传记材料，Lane B未毕业研究。
+
 - [`systemic-design-authors-biography-intake-2026-10-11.md`](systemic-design-authors-biography-intake-2026-10-11.md) — 为Peter Adamčík、Victor Reijkersz、Fredrik Wallin与NEBULOUS/Mazer建立历史人物证据包：2017/2019同期访谈、前作/职业起点、独立与外包边界、海战投资模型及2022开发失误/近burnout；明确尚非Lane C传记、音频未听与财务/原型/人员缺口。
 
 - [`high-concept-theme-agency-small-team-systemic-design-056.md`](high-concept-theme-agency-small-team-systemic-design-056.md) — 题材—玩家能动性匹配 / 高概念规则化：HighFleet既有SLAVIC-009交叉引用，Workers & Resources、NEBULOUS、Terra Invicta、Foxhole、Sea Power、Nuclear Option、Not For Broadcast、Suzerain等12项首轮对照与20余条公开来源；新增Rule the Waves 3、Shadow Empire、ΔV、Nuclear War Simulator、Carrier Command 2研究线索与题材真实性的反证，明确小团队/AAA因果与预算分母尚待核验。**Lane B研究入口，非正式Claim。**
