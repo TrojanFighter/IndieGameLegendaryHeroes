@@ -1,5 +1,8 @@
 # 027 — 从 Giorgia Lupi《The Digital in Architecture》学到什么：游戏生产能力演化地图的视觉设计规范
 
+> **配套图形语言试验板：**[027 — 九例作品的小型 glyph 可视化SVG](027-project-glyph-visual-language-study.svg)。展示角色、能力主题、联网模式、交付阶段及外部支援的独立编码；**仅图形语法试作，不代表已经完成新主图**。
+
+
 - Date: 2026-10-12
 - Status: **DESIGN REFERENCE AUDITED / PRODUCTION BRIEF**。已核对 Pentagram 项目陈述、Lupi本人项目与 Data Humanism 宣言，以及原版折页PDF可提取图例。**不是已经完成一张新正式主图**。
 - Scope: 《独立／斯拉夫游戏英雄传说》的公共游戏产业历史研究。仅引用本库的 [023 90条节点CSV](023-representative-genre-three-rails-1958-2026.csv)、[026 12×3参考图](026-audited-era-twelve-genre-complete-tracks.svg)、[020 ZXDB真实复算](020-zxdb-1982-1992-measured-supply-and-genre.md) 和其他既有史料，不接触KWP项目。
