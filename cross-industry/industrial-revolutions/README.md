@@ -1,5 +1,8 @@
 # Industrial Revolutions Comparative Lab｜工业革命比较实验室
 
+> **信息设计迭代（027）**：[Giorgia Lupi/Pentagram 的多层历史地图方法研究与正式制图规范](027-lupi-data-humanism-game-production-atlas-visual-system.md)｜[9例作品glyph视觉语法试验板（SVG）](027-project-glyph-visual-language-study.svg)。本轮只完成**审稿后的方法论和图形语言试作**，不是已经重制最终A0总图；历史资料仍以026/023的审计节点为依据，原V4保留精确时间轴功能。
+
+
 > **当前正式读者入口（2026-10-11最新审计）：**[026 — 12类×L/M/I均有代表性作品的年代图](026-audited-era-twelve-genre-complete-tracks.svg)｜[026 — 中型RTS/RPG/赛车一手团队人数、网络与发行价值网络案例](026-verified-mid-team-three-genre-cases-and-network-transition.md)｜[90条原始案例和模式证据](023-representative-genre-three-rails-1958-2026.csv)。**36/36仅表示选定的36个轨道均有年份节点，不代表每一类同保真度、同联网架构、相同外部支持下都已普及**。关键修正：2017/2018《Northgard》属于**3D RTS（RTS3辅助支线）**，不能冒充2D RTS；该轨M由**1997《Age of Empires》**替代。[025](025-audited-era-by-genre-three-rails.svg)及更早023仅历史快照。
 
 
