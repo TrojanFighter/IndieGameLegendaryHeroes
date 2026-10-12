@@ -143,3 +143,43 @@
 
 **比较新指标（候选，未经验证）**：以每个题材宣称的核心矛盾分别记录 `Rule-bearing player decisions / Time to first meaningful decision / Consequence persistence / Irreversibility / Nonproductive interaction time / Actual paid person-years / Front-loaded experience capital / Commitment write-offs`，不把它们压成随意的统一「人效」分数。对于 Conquest，应收集2022方案→2024废案→2026新战役的具体版本功能和玩家体验反馈，再评价损失与回报。
 
+
+## 8. H056-HH｜独立作者并非无组织：Hooded Horse专业发行价值网络（2026-10-12新发现）
+
+**为什么本研究不应只把故事写成“小团队打败大厂”**：我们入选的四款深度系统游戏《Workers & Resources》《NEBULOUS》《Terra Invicta》《Heart of the Machine》，在2026年官方发行商目录里均属于 Hooded Horse 阵容。它们不是同一年、同一种合作起点，更不能从被该发行商接纳推导其作者的原创性是发行商赋予的：
+- 3Division 的 Workers & Resources 在2019年EA后，2023才宣布签约Hooded Horse；
+- Pavonis 的 Long War Mod / Kickstarter 早于2022产品EA；
+- Eridanus 的NEBULOUS官方官网标EA 2022-02-11；
+- Arcen Heart of the Machine EA 2025-01-31、1.0 2026-03-06，2026发行商。
+- 官方产品目录（2026-10-12访问）：https://www.hoodedhorse.com/home ， https://hoodedhorse.com/games/nebulous-fleet-command ， https://hoodedhorse.com/games/heart-of-the-machine
+
+### H056-HH-E01｜Tim Bender的知识和创办入口（P0访谈日本语，由Hooded Horse提供日译，2023）
+
+2023-10-18 Game*Spark刊载Shams Jorjani访谈及Tim Bender自述：Tim此前当过律师、短期McKinsey咨询师，研究过中国史/东亚政治并获得硕士学位，曾为《Mount & Blade: Warband》的《Viking Conquest》Mod制作相关内容；因热爱小众战术策略与朋友投资支持而开始探索发行公司。最先联系的开发对象之一是Long War创作者Pavonis的《Terra Invicta》，他本人就玩过该Mod。
+- Game*Spark, *なぜストラテジー系に特化したか...*, 2023-10-18，采访正文（HH提供日本语版本）：https://www.gamespark.jp/article/2023/10/18/135122_2.html
+- **不能误写**为Tim本人开发了Long War，也不能把2023回顾倒灌成2019成立时有全套成熟发行模式。翻译归属与商业PR偏差必须标记。
+
+### H056-HH-E02｜专业分工与合同政策（P0当事人公开说明，非各项目合同证明）
+
+同次2023访谈，Tim明确将业务大致分两类：极小团队需要开发投资+市场工作；已有资金的成熟团队主要购买营销/本地化/QA等发行服务。**对不含开发投资的营销合同**，其公开的标准政策为发行35%/开发65%（收入分成基数、扣税/平台费的具体定义UNKNOWN）；不要求优先Recoup独占上市初期现金流，不要求取得IP；如果投资开发成本则发行方比例可以更高，个别大型预热项目比例可更低。属于**公司公开政策**，不得自动赋给上述四款的具体协议或2026所有合同。
+- Game*Spark / Tim Bender，2023-10-18，同上；
+- Game Makers Japan, *インディーゲームパブリッシャーに聞く！ Vol.03*, 2024-08-07，Tim本人再谈策略发行及分账：https://gamemakers.jp/article/2024_08_07_75035/
+- Chris Kerr / Game Developer, *Hooded Horse co-founder says publishers should ditch 'horrible' recoup clauses to help devs*, 2024-05-14：https://www.gamedeveloper.com/business/hooded-horse-co-founder-says-publishers-should-ditch-horrible-recoup-clauses-to-help-devs
+
+### H056-HH-E03｜价值网络不是纯粹的分销渠道（解释H）
+
+这里形成四条彼此不同但能相互补偿的环节：
+`Player/Mod expertise → Author's problem definition & prototypes → Specialist publisher's discovery and global access → Niche players' long-tail play/feedback → further development`。
+- 作者的 **Problem sovereignty** 和发行方的 **Market access competence** 不等价，前者不应因引入后者自动丧失；是否实际保留还要逐合同、逐项目核实。
+- 发行商的 *taste capital* 有筛选价值，也可能形成共同的选择偏见；**一个专业发行商集中多名上榜作者不证明独立游戏整体的作品优秀率**。
+- 与其反面（非HH）：HighFleet的MicroProse、Shadow Empire与Rule the Waves 3的Matrix/Slitherine、Starsector的开发者长期自售，说明Hooded Horse并非唯一发行出路；更适合建**同类型不同发行机制**的自然实验。
+- Arcen 2013财务回顾显示高度依赖Steam平台的历史毛额；“独立作者个人主权”也可能与平台/渠道依赖同时存在，不能把没有传统雇主等同于没有价值网络制约。
+
+### H056-HH 待证伪问题
+
+1. 开发团队接受专业发行前后，主创的游戏方向否决权、资金跑道、版本承诺、语言/曝光、销售和生活压力是否发生可量化变化？自选合作的优胜者偏差必须处理。
+2. 同预算/同题材/同时间进入市场但没有专业发行的工作室，成功率与团队留存是否明显不同？必须纳入未签约和失败候选。
+3. 专业发行商是否能通过吸纳Mod社群中已有的作者、理解其产品评判标准，显著降低发现成本？需要查Tim认识Pavonis的原始往来与别的入库来源。
+4. 发行商专精策略品类是否更容易允许实验性高概念存活，还是反过来通过熟悉的类型和用户偏好限制新方向？必须寻找拒稿、失败与转型反例。
+5. 对“行业价值网络影响原创性”的理论定位：先有玩家社群、开发者能力与游戏核心，再有出版社扩大后期市场的案例，不得把**价值捕获与放大**误写成**创意起源因果**。
+
