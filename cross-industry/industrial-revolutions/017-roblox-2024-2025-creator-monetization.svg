@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2100" height="1250" viewBox="0 0 2100 1250"><rect width="2100" height="1250" fill="#F7FAFD"/>
+<text x="104" y="78" font-size="43" font-family="sans-serif" font-weight="700" fill="#17364B">Roblox：作者进入兑换计划 ≠ 实际现金收入 ≠ 财务可持续</text>
+<text x="104" y="123" font-size="22" font-family="sans-serif" fill="#516B81">美国证券监管披露（2025年10-K）＋官方创作者资料；不同统计层使用不同单位</text>
+<rect x="90" y="170" width="950" height="685" rx="20" fill="#FFFFFF" stroke="#DCE6ED"/>
+<text x="128" y="224" font-size="29" font-family="sans-serif" font-weight="700" fill="#21465C">A　创作者数量</text><text x="128" y="260" font-size="20" font-family="sans-serif" fill="#687E8E">年末达到资格并已注册 DevEx（近似下界）</text>
+<line x1="140" y1="750" x2="976" y2="750" stroke="#C6D4DF" stroke-width="2"/>
+<rect x="210" y="444" width="220" height="306" rx="12" fill="#387B94"/>
+<rect x="533" y="307" width="220" height="443" rx="12" fill="#387B94"/>
+<text x="320" y="417" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="700" fill="#2A6B86">&gt;24,500</text>
+<text x="643" y="281" text-anchor="middle" font-family="sans-serif" font-size="30" font-weight="700" fill="#2A6B86">&gt;35,500</text>
+<text x="320" y="793" text-anchor="middle" font-family="sans-serif" font-size="25" fill="#273F51">2024</text>
+<text x="643" y="793" text-anchor="middle" font-family="sans-serif" font-size="25" fill="#273F51">2025</text>
+<text x="128" y="837" font-family="sans-serif" font-size="20" fill="#607487">2025 当年实际获得法币付款：&gt;23,500 人（另一人口口径）</text>
+<rect x="1072" y="170" width="930" height="685" rx="20" fill="#FFFFFF" stroke="#DCE6ED"/>
+<text x="1112" y="224" font-size="29" font-family="sans-serif" font-weight="700" fill="#21465C">B　开发者兑换费用</text>
+<text x="1112" y="260" font-size="20" font-family="sans-serif" fill="#687E8E">财报确认的 DevEx 费用（百万美元）；不是直接“纯利润”</text>
+<line x1="1120" y1="750" x2="1945" y2="750" stroke="#C6D4DF" stroke-width="2"/>
+<rect x="1180" y="493" width="220" height="257" rx="12" fill="#A7753F"/>
+<rect x="1540" y="330" width="220" height="420" rx="12" fill="#A7753F"/>
+<text x="1290" y="463" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="700" fill="#93602D">922.8</text>
+<text x="1650" y="299" text-anchor="middle" font-family="sans-serif" font-size="32" font-weight="700" fill="#93602D">1,503.1</text>
+<text x="1290" y="793" text-anchor="middle" font-family="sans-serif" font-size="25" fill="#273F51">2024</text>
+<text x="1650" y="793" text-anchor="middle" font-family="sans-serif" font-size="25" fill="#273F51">2025</text>
+<text x="1112" y="837" font-family="sans-serif" font-size="20" fill="#607487">上述属于平台发生的开发者兑换费用，不能当游戏销售额。</text>
+<rect x="95" y="895" width="1900" height="278" rx="19" fill="#E8F0F7"/>
+<text x="125" y="944" font-family="sans-serif" font-size="27" font-weight="700" fill="#204259">C　相当重要的分布事实：中位数并未随平台总额同步暴涨</text>
+<text x="126" y="998" font-family="sans-serif" font-size="27" fill="#274A65">DevEx 作者年收入中位数：2024 约 $1,575 → 2025 约 $1,550</text>
+<text x="126" y="1040" font-family="sans-serif" font-size="20" fill="#526A80">中位数来自官方不同年份的创作者资料，和财报费用口径不完全一致；不能推出个人因果变化。</text>
+<text x="126" y="1090" font-family="sans-serif" font-size="20" fill="#526A80">Roblox 体系同时包含游戏、虚拟物品及其他创作行为，不能把每个 DevEx 接收方算作独立游戏开发公司。</text>
+<text x="126" y="1141" font-family="sans-serif" font-size="18" fill="#526A80">来源：Roblox SEC 2025 Form 10-K；Roblox Brands 2024 creator median；Roblox Creator Hub 2025 median。</text></svg>
