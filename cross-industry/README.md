@@ -15,6 +15,8 @@
 
 - [Value Network beyond Disruption — 三网络、切换成本、创新收益占有与再生产](value-network-extended-audit-20261011.md)：基于Christensen/Rosenbloom及Christensen Institute教育场景的理论扩展，关联[新西兰](../country-studies/new-zealand/README.md)与[中国040时代窗口](../country-studies/china/040-value-network-regime-shift-creator-window-2026.md)。保留原始理论边界、竞争性解释、反例与分母未知。
 
+- [健身房创业者自述 × 威尔仕停业 × 新式月付健身：进入拥挤、信息不对称和现金流义务](fitness-club-entry-crowding-consumer-selection-and-value-network-20251014.md)：2025年答主个人证言与2026年行业报告、上海预付款监管、乐刻模式交叉审计；辨别「存量净减少≠关店率」「个案≠全国」并检验新旧价值网络，而不把单个失败案例奉为强因果。
+
 ## 1. 从游戏业进入跨行业：PUBG 是桥梁
 
 根目录 [CASE-032](../cases/CASE-032-pubg-brendan-greene.md) 已经给出一个关键中间态：
