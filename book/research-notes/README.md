@@ -6,6 +6,13 @@
 
 ## 当前索引
 
+
+- [`high-concept-author-decision-rights-chris-park-mosolov-2026-10-12.md`](high-concept-author-decision-rights-chris-park-mosolov-2026-10-12.md) — Chris Park/Arcen《AI War》2009不对称AI发现、2010《Tidalis》失败与2018《AI War 2》玩法回退、2013营收原始数字；Alex Mosolov/Starsector的2014三人配置、储蓄＋预购与不扩编判断；小岛《Death Stranding》大型制作对照。三种设计判断权与2026作者传记材料，Lane B未毕业研究。
+
+- [`systemic-design-authors-biography-intake-2026-10-11.md`](systemic-design-authors-biography-intake-2026-10-11.md) — 为Peter Adamčík、Victor Reijkersz、Fredrik Wallin与NEBULOUS/Mazer建立历史人物证据包：2017/2019同期访谈、前作/职业起点、独立与外包边界、海战投资模型及2022开发失误/近burnout；明确尚非Lane C传记、音频未听与财务/原型/人员缺口。
+
+- [`high-concept-theme-agency-small-team-systemic-design-056.md`](high-concept-theme-agency-small-team-systemic-design-056.md) — 题材—玩家能动性匹配 / 高概念规则化：HighFleet既有SLAVIC-009交叉引用，Workers & Resources、NEBULOUS、Terra Invicta、Foxhole、Sea Power、Nuclear Option、Not For Broadcast、Suzerain等12项首轮对照与20余条公开来源；新增Rule the Waves 3、Shadow Empire、ΔV、Nuclear War Simulator、Carrier Command 2研究线索与题材真实性的反证，明确小团队/AAA因果与预算分母尚待核验。**Lane B研究入口，非正式Claim。**
+
 - [`platform-value-network-window-chasing-indie-antitraining-2026-10-11.md`](platform-value-network-window-chasing-indie-antitraining-2026-10-11.md) — 2026-10-11平台价值网络 × 风口追赶型生产 × 独立游戏负迁移：以2011腾讯QQ空间/2012分成/Steam直营为不同证据级别的历史与制度锚，连接作者雄文中的“逆推荐规训系统/赛博地主”与“先买产能抢窗口 vs 先买认知再放大”；含B站匿名评论弱Signal边界、反例及可测量项目/职业队列。**Lane B假说，不是已证国别效应量。**
 
 - [`unshipped-creator-gates-china-spain-credit-055.md`](unshipped-creator-gates-china-spain-credit-055.md) — 中国呼兰Alex（2022《RESTART》未完成但拥有项目主程/Unity基础）、LZY（2024《昆仑工程》完成但退款反馈/ROI不理想，2024作者自述）、西班牙Evolve Games（2016四人失去两人且规模翻倍后取消《The Swarm》）及IGDA 2023署名/离职信心调查：区分技术、完成、市场、团队连续和可转移作品信用；非随机国家样本。
