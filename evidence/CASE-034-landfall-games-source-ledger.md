@@ -152,6 +152,23 @@
   - “about two months” is a studio-level production framing and must not erase post-jam support, polish, release work or external contributors;
   - current business structure must not be projected backward onto Air Brawl-era Landfall.
 
+
+## E009 — Knightfall官方发布资料：五周短周期、署名与愚人节实验
+
+- Source class: **P0** — Landfall Games官方press kit及Steam平台原始作品页。
+- Title: Knightfall: A Daring Journey Press Kit / Steam Store
+- Author / Institution: Landfall Games / Steam
+- Published: 2022-04-01为作品正式推出日期；press kit网页具体修订日期UNKNOWN。
+- Accessed: 2026-10-10
+- URL: https://landfall.se/knightfall-a-daring-journey-press-kit
+- URL (Steam): https://store.steampowered.com/app/1911390/Knightfall_A_Daring_Journey/
+- Direct support:
+  - Landfall官方自报开发周期**5周**，2022-04-01愚人节发布，属于工作室延续的April Fools传统。
+  - 官方具名项目角色：Wilhelm Nylund（design and direction）、Erik Skog（animation and audio）、Max Runelind（design and production）、Zorro Svärdendahl（UI and technical art）、Philip Westre（network programming）。
+  - Steam标示Free To Play；双人骑士合作/竞速/射击，同场多人对抗。
+- Confidence: HIGH on named credits, developer-reported cycle, public release identity; MEDIUM on total development perimeter.
+- Boundaries: 五名具名人员**不是**已审计完整劳动名单；“5周”非工时财务审计；免费不证明亏损或失败；未核其运营成本、实验假说验证、资产复用及后续贡献。
+
 ## Current evidence-level conclusions
 
 ### STRONGLY SUPPORTED
