@@ -2,7 +2,7 @@
 
 [姊妹篇入口](../README.md) · [独立篇研究档案](../../../cases/README.md)
 
-编号专题为 8 个；SLAVIC-007 另外保留两份并行矩阵稿，不作为新编号专题计数。完整文件归属见 [独立索引](../metadata/research-index.json)。
+编号专题为 9 个；SLAVIC-007 另外保留两份并行矩阵稿，不作为新编号专题计数。完整文件归属见 [独立索引](../metadata/research-index.json)。
 
 保留的并行稿：
 
@@ -166,6 +166,26 @@
 量化方法规则：
 
 > `registered users / downloads / accounts` 不得直接翻译成 DAU、PCCU、retention 或 payer。F2P 案例必须尽量拆成 `exposure → registration → first battle → return → retained active → payer → long-term hobby`。
+
+### SLAVIC-018 — HighFleet / Konstantin Koshutin：题材—能动性匹配与核战争升级
+
+[`SLAVIC-018-highfleet-koshutin-theme-agency-nuclear-escalation.md`](SLAVIC-018-highfleet-koshutin-theme-agency-nuclear-escalation.md)
+
+核心检验：
+
+- 一支两人核心加外围协作的小团队，如何把舰队、情报、后勤与战略升级组织成可操作的战争体验；
+- 核武器怎样通过改变对方交战权限、提高后续风险而产生核威慑与升级门槛；
+- 题材—能动性匹配如何区别于“宏大设定由个体突击战斗解决”的常见产品结构；
+- 如何与 MGS4 / MGSV、Mass Effect 3、Ubisoft 暗区 / Heartland 与 Tarkov 构成**同题材机制比较**，而不是笼统大小厂优劣；
+- 真实融资、预算、外围生产人数、UX反证与同期失败分母仍然缺失。
+
+当前关键状态：
+
+- `发售日期 2021-07-27、开发者署名 Koshutin、发行 MicroProse` → VERIFIED（Steam）
+- `Koshutin+Kiselev 两人核心，另有外围美术` → SUPPORTED（当事访谈）
+- `玩家率先发射核武器引发敌军核报复资格` → VERIFIED（发行期官方手册）
+- `HighFleet 已经真实复现完整MAD/宏观战争经济` → NOT SUPPORTED（应限定为核升级与战役级作战经济）
+- `独立游戏整体比3A更自洽 / 确切预算人效倍数` → H / UNKNOWN（需统一分母）
 
 ## 三组对照已经产生的更强母题
 
