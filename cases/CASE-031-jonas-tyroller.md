@@ -9,7 +9,7 @@ evidence_strength: MEDIUM
 explanatory_importance: CRITICAL
 narrative_value: CRITICAL
 context_audit: PARTIAL
-last_verified: 2026-10-05
+last_verified: 2026-10-12
 ---
 # CASE-031 — Jonas Tyroller / ISLANDERS → Will You Snail? → Thronefall
 
@@ -20,7 +20,7 @@ last_verified: 2026-10-05
 - Period covered: c. 2015–2026
 - Research status: RESEARCHING
 - Corpus role: LONGITUDINAL PRACTITIONER / REPEATED MICRO-TEAM SUCCESS
-- Last verified: 2026-10-05
+- Last verified: 2026-10-12
 - Evidence Ledger: [`../evidence/CASE-031-jonas-tyroller-source-ledger.md`](../evidence/CASE-031-jonas-tyroller-source-ledger.md)
 - Rolling intake: GitHub Issue #22, `Ongoing tracker: Jonas Tyroller / Grizzly Games (CASE-031)`
 
@@ -306,6 +306,69 @@ Each intake must record source date, URL, speaker, timestamp when applicable, ev
 5. Compare Jonas's 2024, 2025 and 2026 advice to identify genuine method drift rather than verbal reframing.
 6. Track current multiplayer / free passion projects and test whether the low-fixed-cost / prototype-selection model survives a different technical regime.
 7. Use his guest interviews to find counterexamples to his own advice, not only confirmations.
+
+
+## 17. Dimension Choice / Visual Production — 2D prototypes are not a native-2D asset obligation
+
+This section is a **public-source case audit**, not a recommendation for any private game. Evidence owner: E010/E011/E015.
+
+### Directly observed: Thronefall validated its gameplay in 2D and produced its look in constrained 3D
+
+Jonas's 2025 interview describes Paul's winning prototype as a **simple top-down 2D** day/night kingdom-defense game (00:50:49–00:51:32). They subsequently opened a **separate scene with no gameplay** for art exploration, adding 3D objects, varying camera scales and comparing hundreds of screenshots before production (00:53:34–00:55:29). Hence **gameplay-camera/perspective and final visual-asset dimension were decisions made at different experimental stages**, rather than one inseparable early commitment. [E011]
+
+During development the two generalists produced **simple Blender 3D models** and assembled them in Unity, purchasing an appropriate toon/outline shader instead of developing that renderer from scratch. Material/texturing complexity was deliberately restricted, and some enemy movement could be procedural. [E011]
+
+### Contemporaneous rationale belongs to Paul Schnepf as well as Jonas
+
+In July 2023, Paul explains that neither teammate was a trained visual artist, so they sought an executable visual style. A **limited palette, simple 3D shapes, silhouettes and outlines** enabled fast content addition and made the strategy view readable. The article separately attributes an experience-first design answer to Jonas. Do **not** silently convert Paul's particular art-direction statements into a quote by Jonas. [E010]
+
+### What the case does — and does not — demonstrate
+
+**Supported**:
+- a tiny team can use 3D models as a deliberate cost-control mechanism where low-detail shape language and a fixed-ish camera meet the game's perceptual requirements;
+- an early 2D playable can be the correct low-cost test for an eventual 3D-look game;
+- art legibility, production feasibility, skill fit and camera control matter more than “2D/3D is technically superior”;
+- the marginal cost of producing *new combinations of compatible units and buildings* can be reduced through mesh reuse, simple materials, prefab editing and procedural motion.
+
+**Not supported / no measured A/B**:
+- 3D games always cost less than 2D games;
+- Steam customers universally prefer 3D to 2D independently of genre and production quality;
+- replacing costly 2D hand-drawn animation with 3D *automatically* preserves hand-illustrated aesthetics;
+- a late-stage, content-heavy 2D project can switch dimension at negligible cost;
+- any explicit categorical 2D/3D endorsement by Jonas. Two relevant podcast sections are currently only timestamped, not transcribed or speaker-audited. [E015]
+
+### Next verification target
+
+Audit the primary podcast audio:
+- 2025-10-30, Julian Colbus conversation, **04:24**, “3D vs 2D: Cost, Detail, and Personality”;
+- 2025-12-12, Tommy / Gnomes conversation, **15:06**, “3D vs 2D: Marketing and Development”.
+
+Capture short exact wording, speakers, counter-arguments and contextual conditions; until then these are **source leads**, not Jonas positions.
+
+## 18. Marginal effort, sales and optionality — new longitudinal evidence
+
+The 2024 Chris Zukowski / Jonas comparison supplies an unusually useful but **subjective** proxy series. [E012]
+
+| Game | Core team | Developer-supplied approximate duration | Approx. person-years | Launch wishlists | Jonas's subjective financial-success score | Score / person-year |
+| --- | ---: | --- | ---: | ---: | ---: | ---: |
+| ISLANDERS | 3 | ~6 months | ~1.5 | ~20k | 50 | ~33.3 |
+| Will You Snail? | 1 | ~4 years | ~4 | ~60k | 15 | 3.75 |
+| Thronefall | 2 | ~3 years *under this article's counting* | ~6 | ~200k | 100 | ~16.7 |
+
+**Caution:** These scores and ratios are not return on invested capital, dollar profit, revenue, actual salaries or evidence of 3D-versus-2D causality. ISLANDERS and Thronefall differ from WYS simultaneously in genre, audience, style, collaborators, year and price. The ~3-year Thronefall effort accounting differs from the ~2-year scope ceiling described in E004; exact basis remains an actionable chronology audit rather than a contradiction to silently resolve.
+
+**New ownership events:** The Coatsink/Thunderful announcement confirms the ISLANDERS property acquisition on 2022-05-20 and over one million lifetime units across platforms at that historical date. [E013] Mythwright announced the Thronefall IP acquisition on 2025-12-18; Paul states that the two-person studio wanted to start other projects while a larger organization handled future content potential. [E014]
+
+These two ownership transitions are evidence for **separating new-game invention from mature-IP stewardship**, not a rule to sell intellectual property or an estimate of deal gains. Actual transaction proceeds and retained rights remain UNKNOWN.
+
+### Context, alternative explanations, 2026 transfer
+
+- **Observed when:** successful premium indie projects in the Steam/Unity/GameMaker/Blender/YouTube environment, 2019–2025; 2026 interpretation must not ignore tool/market changes.
+- **Regime:** cheap professional rendering engines; globally accessible digital storefronts; direct-to-audience and streamer amplification; buyer discovery not causally reducible to production dimension.
+- **Mechanism hypothesis:** earlier decoupling of gameplay and visual-production risks + constrained visual language + cheap component reuse can improve iteration capacity. Single-case support: CONDITIONAL.
+- **Alternative explanations:** design quality, genre-market fit, team learning, contributor skill, audience recognition, timing, demand-side platform behavior, seller selection bias.
+- **2026 transfer status:** separate visual/gameplay prototyping = DURABLE mechanism; “use constrained 3D for this category/team” = CONDITIONAL; categorical 3D commercial advantage = UNVERIFIED.
+- **Unresolved:** side-by-side art-hours; animation direction/reuse cost; visual appeal conversion under controlled genre; long-run producer rights and transaction value; actual podcast 2D/3D wording.
 
 ## Creator Life / Decision Audit
 
