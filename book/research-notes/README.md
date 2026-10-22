@@ -6,7 +6,7 @@
 
 ## 当前索引
 
-- [`ai-agent-ui-design-review-make-ui-not-ai-056.md`](ai-agent-ui-design-review-make-ui-not-ai-056.md) — 外部 AI 前端设计 Skill 的方法参考：产品特异性、模式级反模板、代表性切片、独立冷读与真实渲染验收；只记录作者提出的流程，不把自述效果升级为正式 Claim。
+- [`ai-agent-ui-design-review-make-ui-not-ai-056.md`](ai-agent-ui-design-review-make-ui-not-ai-056.md) — 面向未来 HTML 书稿/章节阅读器的 UI 视觉与交互反模板方法；不约束传记写作、人物声线或正文“去 AI 味”，仅记录外部 Skill 主张，不将其自述效果升级为 Claim。
 
 - [`platform-value-network-window-chasing-indie-antitraining-2026-10-11.md`](platform-value-network-window-chasing-indie-antitraining-2026-10-11.md) — 2026-10-11平台价值网络 × 风口追赶型生产 × 独立游戏负迁移：以2011腾讯QQ空间/2012分成/Steam直营为不同证据级别的历史与制度锚，连接作者雄文中的“逆推荐规训系统/赛博地主”与“先买产能抢窗口 vs 先买认知再放大”；含B站匿名评论弱Signal边界、反例及可测量项目/职业队列。**Lane B假说，不是已证国别效应量。**
 
