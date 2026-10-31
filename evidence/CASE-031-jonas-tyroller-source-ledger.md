@@ -1,6 +1,6 @@
 # CASE-031 Evidence Ledger — Jonas Tyroller / Grizzly Games
 
-- Last verified: 2026-10-05
+- Last verified: 2026-10-12
 - Status: RESEARCHING
 - Case: [`../cases/CASE-031-jonas-tyroller.md`](../cases/CASE-031-jonas-tyroller.md)
 - Rolling intake: GitHub Issue #22
@@ -180,6 +180,126 @@
 - Boundary:
   - does not support numerical claims until the original video is opened and timestamp-audited;
   - indexing date may not match original upload chronology.
+
+
+## E010 — 2023 direct joint interview: low-cost 3D visual production is a capability-fit choice
+
+- Evidence ID: CASE-031-E010
+- Source class: P0 / contemporaneous developer interview (pre-EA); speaker attribution matters.
+- Title: Mastering minimalism and layering complexity with strategy game Thronefall
+- Author / Institution: Joel Couture / Game Developer; interviewees Jonas Tyroller and Paul Schnepf, Grizzly Games.
+- Published: 2023-07-13; event: Thronefall pre-EA art/production decisions.
+- Accessed: 2026-10-12.
+- URL: https://www.gamedeveloper.com/design/mastering-minimalism-and-layering-complexity-with-strategy-game-thronefall
+- Locator: question “What drew you to the game's visual style? How did you use visuals to help convey information about how the game worked?”; **answer spoken by Paul Schnepf**, not Jonas.
+- Source-derived facts:
+  - neither core developer was a trained visual artist; the art direction had to be feasible for the pair to execute;
+  - restricted palette plus simple **3D** models enabled fast content additions;
+  - silhouettes carry most of the gameplay recognition, reinforced with outlines; unit distinction remained an area to improve in EA;
+  - building feedback used simple mesh scaling, particles and sound rather than complex handcrafted animation;
+  - Jonas, in a different answer, describes searching for desired player *experience* before reverse-engineering a small, appealing implementation;
+  - Paul acknowledges Thomas van den Berg's **2D** Kingdom as an inspiration for a game that ultimately uses simple 3D.
+- Interpretation (H, not a quote): dimension should be treated as a production/legibility/competence-fit decision, not a prestige hierarchy. Low-detail 3D can have a lower *incremental content production cost* than elaborate sprites under suitable constraints.
+- Supports: CASE-031 fantasy compression; capability-shaped scope; visual legibility and representation-cost hypothesis.
+- Challenges: categorical “2D is always cheaper”, “Jonas said 3D always sells better”.
+- Boundary: Paul's art-specific statements are **Paul's**, not Jonas's; this single successful 3D title cannot quantify the market advantage of 3D or establish universal production superiority. No side-by-side measured 2D/3D effort is provided.
+- Verification status: VERIFIED for speakers' reported workflow; comparative cost causality NOT ESTABLISHED.
+
+## E011 — Jonas's first-person visual-prototype account: 2D gameplay seed, independent 3D look search
+
+- Evidence ID: CASE-031-E011
+- Source class: P1 / direct postmortem video interview with searchable transcript.
+- Title: Building a best-selling game with a tiny team – with Jonas Tyroller
+- Author / Institution: Gergely Orosz / The Pragmatic Engineer; Jonas Tyroller.
+- Published: 2025-01-29; event described: Thronefall prototyping, visual design and production, c. 2022–2024.
+- Accessed: 2026-10-12.
+- URL (original interview): https://newsletter.pragmaticengineer.com/p/thronefall
+- Transcript locator: https://podscripts.co/podcasts/the-pragmatic-engineer/building-a-best-selling-game-with-a-tiny-team-with-jonas-tyroller
+- Timestamp locators:
+  - **00:50:49–00:51:32**: Paul initially creates a simple top-down **2D** castle-defense prototype; both select its day/night loop.
+  - **00:53:34–00:55:29**: after gameplay selection, start an independent visual prototype from an empty scene without gameplay; experiment with simple 3D models, camera scale / zoom; compare hundreds of screenshots before production.
+  - **00:03:10–00:03:43**: Unity/C# for Thronefall, self-made Blender models, external Asset Store toon shader (shadow/outlines).
+  - **00:17:43–00:20:38**: iterative asset/prefab workflow, simple Blender meshes, enemy parts assembled in editor, some animation procedural in C#.
+  - **00:21:44–00:22:23**: flat-shaded style with very few textures and small meshes/code, and roughly 100–200 MB download size by his recollection.
+- Source-derived facts: the **same gameplay fantasy** was validated in 2D yet **visual production moved to constrained 3D**; visual look development was a separate experiment, not the first irreversible engine/camera commitment.
+- Interpretation (H): this is evidence for decoupling gameplay representation from final art/asset pipeline; NOT evidence that switching an already-produced full 2D project to 3D is costless.
+- Supports: capability-fit decision; cheap prototype search; constrained 3D asset strategy.
+- Challenges: treating prototype sprites and shipping-sprite/rig pipeline as the same choice; assuming 2D prototype proves permanent native-2D asset lock-in.
+- Boundary: interview is retrospective. No comparative measured art-hours, no A/B commercial tests or 3D-vs-2D sales effect. Transcript is an assistive locator and can contain transcription errors; original speaker/video is authoritative.
+- Verification status: VERIFIED for on-record process with timestamp and transcript; cost comparison remains a hypothesis.
+
+## E012 — 2024 direct contributor data: scope, market, labour-normalized counterexample
+
+- Evidence ID: CASE-031-E012
+- Source class: P1 / Jonas's voluntarily supplied figures and direct remarks, presented by analyst Chris Zukowski; separate analyst's conclusions.
+- Title: What Jonas Tyroller’s Games reveal about the Steam Algorithm
+- Author / Institution: Chris Zukowski / How To Market A Game, with game-level data and comments supplied by Jonas Tyroller.
+- Published: 2024-10-07; observation cut: article's 2024 snapshot (Thronefall then still in Early Access).
+- Accessed: 2026-10-12.
+- URL: https://howtomarketagame.com/2024/10/07/what-jonas-tyrollers-games-reveal-about-the-steam-algorithm/
+- Locator: sections “The 3 Games of his career”, “Solo development vs Team development”, “Discovery Queue Magic” and “Does Youtube Help?”.
+- Source-derived data:
+  - ISLANDERS: three-person core, approximately six months = 1.5 person-years; ~20k launch wishlists; author-defined subjective success 50;
+  - Will You Snail?: one-person core, approximately four years = 4 person-years; ~60k launch wishlists; subjective success 15;
+  - Thronefall: two-person core, approximately three years = 6 person-years **according to this article's labour normalization**; ~200k initial EA wishlists; subjective success 100;
+  - ratio of those SUBJECTIVE scores / person-years: ~33.3 / 3.75 / 16.7 respectively; **not audited returns on investment or profit**;
+  - Jonas says the three projects' creative satisfactions differ; WYS provided distinctive personal creative fulfilment despite lower commercial return;
+  - Jonas notes YouTube mattered more to WYS wishlists than Thronefall's and should not be mistaken for an efficient universal marketing channel.
+- Interpretation (H): project/genre/appeal selection deserves scrutiny **before** extensive polishing or promotion; person-year input and top-line commercial outcome are not proportional. This comparison CANNOT identify 2D vs 3D as the cause because genre, price, collaborators, timing and audience all covary.
+- Supports: CASE-031 longitudinal comparison; project selection; careful, dated market-access analysis.
+- Challenges: equations such as “more dev time guarantees more sales”; “Jonas's YouTube alone explains everything”; causal claim 3D > 2D.
+- Conflict check: the article uses ~3 years for Thronefall whereas another interview describes ~2 years planned development; **time start/end and inclusion definitions unresolved**. Never silently combine as the same measured duration.
+- Verification status: VERIFIED for accurately reported source-provided data; financial accuracy remains SELF-REPORTED/UNAUDITED.
+
+## E013 — 2022 purchaser statement: ISLANDERS IP ownership transfer
+
+- Evidence ID: CASE-031-E013
+- Source class: P0 / official announcement by acquiring organization.
+- Title: The future of Islanders
+- Author / Institution: Coatsink / Thunderful.
+- Published: 2022-05-20.
+- Accessed: 2026-10-12.
+- URL: https://coatsink.com/blog/the-future-of-islanders
+- Source-derived facts: Coatsink/Thunderful announce acquisition of ISLANDERS property, following console publishing work; they report more than 1 million units sold across platforms.
+- Interpretation (H): IP disposal/partner handoff may let core creative talent pursue new projects, but no financial exit valuation is known.
+- Supports: commercialization paths beyond continuing personally to operate the same IP forever.
+- Boundary: acquisition fee, creator split, continuing obligations and total deal economics UNKNOWN; announcement is the purchaser's own account.
+- Verification status: VERIFIED for acquisition announcement.
+
+## E014 — 2025 purchaser + creator statements: Thronefall IP ownership transfer
+
+- Evidence ID: CASE-031-E014
+- Source class: P0 / public purchaser announcement including direct quote from Paul Schnepf.
+- Title: The Future of Thronefall
+- Author / Institution: Mythwright; statement from Paul Schnepf / Grizzly Games.
+- Published: 2025-12-18.
+- Accessed: 2026-10-12.
+- URL: https://mythwright.com/news/the-future-of-thronefall
+- Source-derived facts: Mythwright publicly announces acquisition of Thronefall IP; Paul describes the original two-person team having limited capacity for all the postlaunch possibilities while Jonas and he wished to move to other projects; Doghowl Games continues mobile publishing relationship.
+- Interpretation (H): the team distinguishes creation from indefinite content operations. The 2022 and 2025 deals are two publicly verified exit/transfer events, but not a measured universal strategy.
+- Supports: small-organization scope control and creative project switching.
+- Boundary: deal value, royalty shares, rights retained or future conditions UNKNOWN; a purchaser's announcement does not establish individuals' realized financial gains.
+- Verification status: VERIFIED for public ownership transition.
+
+## E015 — Two Jonas-hosted 2D/3D discussions: source lead, speaker conclusion not verified
+
+- Evidence ID: CASE-031-E015
+- Source class: H / direct audio episodes identified and timestamped, substantive utterances still untranscribed.
+- Title A: Their Second Game Did Worse, Now What? (guest Julian Colbus / DigiTales Interactive)
+- Author / Institution A: A Game Dev Podcast With Jonas Tyroller.
+- Published A: 2025-10-30.
+- URL A: https://tyrollerjonas.podbean.com/e/their-second-game-did-worse-now-what/
+- Locator A: **04:24 — 3D vs 2D: Cost, Detail, and Personality** (episode chapter metadata).
+- Title B: 0$ Marketing, Steam Demos & Custom Game Engine (guest Tommy / Gnomes)
+- Author / Institution B: A Game Dev Podcast With Jonas Tyroller.
+- Published B: 2025-12-12.
+- URL B: https://tyrollerjonas.podbean.com/e/0-marketing-steam-demos-custom-game-engine/
+- Locator B: **15:06 — 3D vs 2D: Marketing and Development** (episode chapter metadata).
+- Accessed: 2026-10-12.
+- Source-derived fact: both published episode tables of contents explicitly identify 2D vs 3D segments.
+- H / open work: recover the **actual words and speaker attribution** for both passages; determine whether Jonas expresses a directional market preference, a conditional pipeline preference, or merely asks questions. No such conclusion can be assigned to Jonas from segment titles.
+- Boundary: chapter headings alone do NOT establish that Jonas advocates 3D universally or that 3D has higher Steam sales.
+- Verification status: VERIFIED for episode titles and timestamps; UNVERIFIED for substantive 2D/3D opinion.
 
 ## Current evidence assessment
 
