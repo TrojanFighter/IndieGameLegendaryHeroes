@@ -1,5 +1,6 @@
 # Project Instructions
 
+@AGENTS.md
 
 <!-- common-writing-review:2026-10-30 -->
 ## Writing Review

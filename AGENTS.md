@@ -437,20 +437,9 @@ Case 可以枯燥、重复、结构化；书稿可以有文学性，但书稿中
 
 工具代码的许可见 `LICENSE-CODE`；内容权利说明见 `LICENSE-CONTENT`。
 
-## 15. 当前阶段
+## 15. 当前进度入口
 
-当前为 **Phase 2 — Evidence Ingestion**。
-
-项目宪法、证据规则、Case / Claim / Evidence schema、作者语料来源谱系与首批六个案例骨架已经建立；CASE-001 FTL 已进入证据摄取；姊妹篇《斯拉夫游戏英雄传说》已建立第一轮产业主干。
-
-下一步：
-
-1. 继续把首批案例从 skeleton 升级为带 Evidence Ledger 的可审计档案；
-2. 逐条用证据更新 Claim 状态；
-3. 系统加入纪录片、开发者演讲、postmortem 与同期专业媒体；
-4. 用 World of Tanks / War Thunder、GSC / 4A 等存在强流行叙事的案例训练“起源原因 vs 市场验证”“组织裂变 vs 浪漫化”的判别；
-5. 让真实案例反过来校正 schema 与 AGENTS.md；
-6. 在证据网络稳定前，不提前写成长篇正式章节。
+动态进度不在本研究宪法复制：当前库概况见 [README](README.md)，案例候选与优先级见 [Case Backlog](cases/BACKLOG.md)，命题状态见 [Claims](claims/README.md)，研究区域与边界见 [研究计划总图](PROGRAM-MAP.md)。具体案例成熟度与证据缺口仍以对应 Case / Evidence 为准；入口摘要不替代证据或作者验收。
 
 ## 16. 公开贡献与双语维护
 
