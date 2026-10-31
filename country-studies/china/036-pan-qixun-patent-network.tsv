@@ -1,0 +1,11 @@
+# 潘奇勋与协作工程师公开专利链条（固定观察下限；不是穷尽发明/商业化分母）
+# Last check 2026-10-09; public patent documents mirrored by Google Patents; CNIPA original administrative dossiers not obtained.
+# Data measures public inventor attribution and applicant/legal event chronology; not personal profit, actual ownership or years employed.
+# For CN2066792U page top says Withdrawn while legal events list grant 1991-07-24 and fee lapse 1995-02-22; prioritize events but seek CNIPA confirmation.
+# For CN2104105U page top says Granted but events show nonpayment lapse 1995-01-11.
+# Apparent name variants 赵福保 (1989) and 赵富宝 (1991) are NOT merged.
+patent_id	title_zh	application_date	publication_date	grant_date	rights_end_event_date	rights_end_event_type	inventors_as_recorded	initial_applicant_as_recorded	applicant_english_record	identity_crossmatch	license_or_personal_income_status	evidence_url	quality_note
+CN87202885U	金刚石水磨石机	1987-03-11	1988-02-17	1988-10-26	1990-07-11	TERMINATION_RECORDED_REASON_NOT_SPECIFIED	潘奇勋	河南省技术经济研究所附属厂	FACTORY ATTACHED TO TECHNOLOGICAL ECONOMY INST HENAN PROV	PAN_CLEAR	UNKNOWN	https://patents.google.com/patent/CN87202885U/zh	FIRST_PRODUCT_VERSION_UNCERTAIN
+CN2066792U	金刚石磨地机车	1989-12-27	1990-12-05	1991-07-24	1995-02-22	LAPSE_ANNUAL_FEE	潘奇勋;方竹林;田南申;赵福保;谷西华;赵秉义	河南省黄河磨具厂	HUANGHE GRINDING APPARATUS FACTORY HENAN PROV	PAN_CLEAR_ZHAO_FUBAO_VARIANT_UNRESOLVED	UNKNOWN	https://patents.google.com/patent/CN2066792U/zh	TOP_STATUS_WITHDRAWN_CONFLICTS_WITH_1991_GRANT_EVENT
+CN2104105U	手推式金刚石切割机	1991-11-22	1992-05-13	1993-02-03	1995-01-11	LAPSE_ANNUAL_FEE	潘奇勋;赵富宝;吕连勋;庞小辈	河南省黄河磨具厂	HUANGHE ABRASIVE TOOLS FACTORY HENAN PROV	PAN_CLEAR_ZHAO_FUBAO_VARIANT_UNRESOLVED	UNKNOWN	https://patents.google.com/patent/CN2104105U/zh	TOP_STATUS_GRANTED_CONFLICTS_WITH_1995_LAPSE_EVENT
+CN2255345Y	薄型金刚石锯片	1996-02-08	1997-06-04	1997-06-04	1999-04-07	LAPSE_ANNUAL_FEE	潘奇勋	河南德亚金刚石工具有限公司	DEYA DIAMOND TOOL Co Ltd HENAN	PAN_PROBABLE_HIGH_CONFIDENCE_PAST_SAME_FIELD	UNKNOWN	https://patents.google.com/patent/CN2255345Y/zh	DIFFERENT_APPLICANT_IS_NOT_PROOF_OF_SPINOUT_OR_EMPLOYMENT
