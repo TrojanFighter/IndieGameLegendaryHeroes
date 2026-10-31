@@ -186,3 +186,7 @@ CASE-032 已支持：
 - generative AI 的 frontier / professional / indie diffusion 分离。
 
 任何对象都先补时间线，再写“技术导致了什么”。
+
+## 6. 可核年份与可比较品类（新 canonical 年代表）
+
+本页 A—F 是技术体制的**并行机制类别，不是有固定上下代时间边界的历史六代**。游戏产业不同年份的大型／中型／独立作者可行品类、2D／3D 生产难度、首创／扩散／多人量产时钟，统一回指 [005 — 游戏产业技术—产品生产能力年代表](005-game-production-capability-timeline.md)。不得把本页的 Regime 字母直接作“1980=A、1990=B……”映射。
