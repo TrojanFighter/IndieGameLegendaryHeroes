@@ -17,7 +17,7 @@ last_verified: 2026-10-06
 - Case ID: CASE-034
 - Subject: Landfall Games / Wilhelm Nylund, Philip Westre, Petter Henriksson 与长期协作者
 - Related Claims: C002, C003, C004, C007, C010, C011
-- Related games: Air Brawl; Clustertruck; Totally Accurate Battle Simulator; ROUNDS; Content Warning; HASTE; PEAK; Landfall Archives
+- Related games: Air Brawl; Clustertruck; Totally Accurate Battle Simulator; ROUNDS; Knightfall: A Daring Journey; Content Warning; HASTE; PEAK; Landfall Archives
 - Period covered: c. 2013–2026
 - Research status: RESEARCHING
 - Corpus role: **LONGITUDINAL MICRO-STUDIO / PRODUCT-LED SCALING / FAILURE-CORPUS**
@@ -61,6 +61,7 @@ Landfall 成长于 Steam Early Access、Unity 等通用工具、YouTube/Twitch/�
 | Clustertruck | 需要第二次商业验证 | 延续极小核心与专业外围 | 商业成功支持工作室进一步扩展 | E001 |
 | TABS | 长项目技术债与支持成本 | EA→正式版→UGC；最终停止继续大规模扩展 | 官方承认旧代码显著拖慢维护 | E002 |
 | ROUNDS | side project 不值得搭大组织 | 约五个月开发，音乐/美术/声音外围协作 | 小承诺项目也能正式商业化 | E003 |
+| Knightfall: A Daring Journey | 愚人节短期、免费多人实验，不以直接付费销量为预设目标 | 官方自报5周开发、五名具名贡献者、2022-04-01免费发行 | 证明可组织极短周期跨专业实验；不能推断财务失败或利润 | E009 |
 | Content Warning | 需要低承诺快速出货 | 五人核心、首尔月度 jam、免费首日→付费 | 6.6m claims、204k peak CCU；同时存在 PR/本地化外围 | E004 |
 | HASTE | 下一主项目方向不确定 | 多原型；公开片段获得强信号；砍掉原 multiplayer BR 结构 | 市场信号进入选择，但仍经历多年制作 | E005 |
 | PEAK | 跨工作室低承诺实验 | Landfall + Aggro Crab 韩国一个月 jam | jam 被组织化为正式商业项目来源 | E006 |
@@ -163,3 +164,11 @@ Landfall 多年积累的品牌、Steam 历史、社区、合作网络、核心�
 - **Market sufficiency / legibility:** **STRONG on successful social games**, but virality/right-tail is non-repeatable; creator-facing visibility is part of product design.
 - **Capability scaling:** product-led scaling + flexible external perimeter; organization intentionally remains smaller than total production network.
 - **Major unknowns:** budgets/profits per title、early household runway、Evil Landfall investment structure、full contractor perimeter。
+
+## Knightfall：五周实验的独立评价（2026-10-10增量）
+
+Landfall官方[press kit](https://landfall.se/knightfall-a-daring-journey-press-kit)直接记录：2022-04-01愚人节发布，开发周期5周。核心具名署名包括Wilhelm Nylund（设计/指导）、Erik Skog（动画/音频）、Max Runelind（设计/制作）、Zorro Svärdendahl（UI/技术美术）、Philip Westre（网络程序）；Steam为免费作品。见E009。
+
+这强化了Landfall的**成熟小组织可进行跨专业低承诺实验**命题，但不能把2022年的实验组织能力倒投到早期Air Brawl创业期，也不能把“免费作品没有销量”解释为“虽败犹荣”。至少要分开评价：（a）是否满足公开试验目标，（b）玩家行为与传播，（c）技术/人才/代码残值，（d）是否有发行/社群外部性，（e）真实投入与回报。后四项目前大部UNKNOWN。
+
+新资料仅补CASE-034现有纵向研究，不为Knightfall再建重复Case，也不把官方5名具名角色误当成完整发售contributors或全周期FTE。
