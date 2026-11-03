@@ -121,3 +121,41 @@
 - **审计边界：** 需进一步核实中国年龄/玩家 cohort、国别销量口径、复古品类生产者数量与跨国差异。
 - **研究成熟度：** 前两项有明确反例和局部市场支持；国别产业因果未晋级 REVIEW-READY。
 - **书稿资格：** 可在来源核对及写作 Gate 后使用“复古并非统一市场”“简中评论不是销量”“Roottrees 官方翻译反例”；不可用“中国玩家天生不玩/不复古/缺创造力”作为已证结论。
+
+## 10. 遗漏审计补录（2026-11-03）：首轮对话的鉴赏与传播对照
+
+本节补足 2026-10-27 起首轮“老中不玩”讨论中遗漏的研究问题。属于 Lane B 的**有限事实和可检验比较方案**，不建立新理论 Owner，不把聊天里未经统一核验的百分比升级为 Evidence。
+
+### 10.1 陌生作品的四道市场门槛（H / 诊断工具）
+
+| 阶段 | 待回答的问题 | 要取得的观测 |
+|---|---|---|
+| DISCOVERY / 发现 | 目标玩家是否真正看到了作品？ | 曝光、搜索、视频覆盖、推荐路径 |
+| TRIAL / 尝试 | 看见后是否愿意实际试玩？ | 店页→demo、愿望单、试玩/购买、语言与价格 |
+| COMPREHENSION / 理解 | 玩进去后能否识别规则创新和乐趣？ | 首次有效理解时间、玩家访谈、留存与具体批评 |
+| PROPAGATION / 传播 | 理解价值的人能否再介绍给其他玩家？ | 讲解视频、社群转发、口碑、转介绍时序 |
+
+这不是对[中国019](019-taste-institutions-player-literacy-creator-selection.md)六类基础设施重命名，而是**单产品冷启动诊断**。不能由某作品中文销量低，直接断言玩家不喜欢该机制；也不能因已玩玩家好评，就断言陌生受众一定能主动发现它。
+
+### 10.2 早期遗漏的对照和关键纠错
+
+| 对照 / 线索 | 本次核验的公开锚点 | 可检验问题、必须保留的边界 |
+|---|---|---|
+| **Everhood ↔ Undertale** | [Everhood Steam](https://store.steampowered.com/app/1229380/)显示简中支持、发行商包含 Surefire.Games，简中评测约九成推荐；[Undertale Steam](https://store.steampowered.com/app/391540/)。 | “玩后好评高”与“中文参与占比低”可以并存；应区别玩家满意度、发现和传播。不将两部不同年代/影响力的作品当作控制实验；Everhood 首发中文日期未在本次确认。 |
+| **Gnomes ↔ Thronefall** | [Gnomes 2025-07-28 官方 1.2 更新](https://steamcommunity.com/app/3133060/allnews/)新增简中等多语言并感谢 Gamersky、AllCorrect 与社区；[Thronefall Steam](https://store.steampowered.com/app/2239150/)。 | 应观察汉化前后中文参与和视频/购买时序；同次更新亦有新地图等内容，不能把前后变化全算翻译效果。 |
+| **Noita ↔ Factorio** | [Noita Steam](https://store.steampowered.com/app/881100/)；[Factorio Steam](https://store.steampowered.com/app/427520/)。 | 比较系统深度、玩家已有规则知识、知识社区与传播差异。首轮曾谈两作简中表现，但本次未核同窗购买评测分母，暂不发布排名结论。 |
+| **14 Minesweeper Variants 1 ↔ 2** | [第一作](https://store.steampowered.com/app/1865060/)于 2022-11-14 发布；[第二作](https://store.steampowered.com/app/2631960/)于 2024-06-14 发布；均支持简中；[开发者公告](https://steamcommunity.com/app/1865060/announcements/)明确二代引入不同的规则。 | **保留首轮纠错：第一作已有可观中文玩家基础，不能叙述成“二代才打开中文市场”。** 旧讨论的约 50.7% / 43% 尚未完成同窗同分母复核，仅作为复核线索，不升级为事实数值。 |
+| **Baba Is You / Artless 系列** | [Baba Is You Steam](https://store.steampowered.com/app/736260/)支持简中；网页快照简中购买评测约 2,622 / 全语言购买评测约 21,078。 | 对“中国玩家天然排斥抽象规则逻辑游戏”和“只认数值成长”的反例；不能用购买评论语言代表地区销量。 |
+| **Will You Snail? ↔ Thronefall** | [Jonas Tyroller《Will You Snail?》官方 press kit](https://jonas-tyroller.itch.io/will-you-snail-press-kit)；[Paul Schnepf 开发访谈](https://www.desclicsetdeslettres.fr/index.php/paul-schnepfs-exclusive-dcdl-interview/)。 | 相同核心创作者跨品类，适合观察兴趣转换与规则可解释性；但团队、发行时点、价格和推广不同。旧聊天约 3% vs 27.9% 属待复验快照，不能归因国民品味。 |
+| **Shadowrun Returns** | [Steam 商店](https://store.steampowered.com/app/234650/)；中文支持史及区分地区的销售数据尚待核。 | 仅列入未来的语言/题材进入门槛对照；缺少正式核验前不下结论。 |
+
+**统一纠错：** Steam “您的语言”不一定等于明确选中的简中，Steam Purchasers 也不能和 All Reviews 混用。跨语言对照必须锁定同一采集日、购买分母、本地化上线节点、价格、发行与传播。相比增加更多跨品类静态排行，Everhood 的“好评但参与有限”、14MV 的“抽象规则仍受欢迎”和 Gnomes 的“迟到本地化”更能分辨不同门槛。
+
+### 10.3 对开发者能力的补充线索：阅历不是数量，而是能否转换
+
+- [Paul Schnepf 访谈](https://www.desclicsetdeslettres.fr/index.php/paul-schnepfs-exclusive-dcdl-interview/)解释《Thronefall》对《Age of Empires》与《Kingdom》设计元素的继承，也谈到 Jonas / Paul 的不同分工：可用于分析从既有游戏经验提炼保留/删除何种规则，不是“玩得多必然原创强”的证明。
+- [Allen Adham 2024 访谈报道](https://gameworldobserver.com/2024/05/21/allen-adham-blizzard-game-design-liveops-interview)谈招聘时询问游戏阅历，也指出专业化从业者不玩游戏在国际公司中同样存在。说明**“不玩”并非中国独有**，但不能由一段访谈推导国别发生率。
+- 原创作者个人能力链的唯一 Owner 仍是[研究047：G0–G6](../../book/research-notes/experience-capital-creator-conversion-gates-047.md)，此处只保存该链条对应的案例入口。
+
+暂不摄入私人截图/人物身份、未经公开核验的买量亏损故事、从几个 Steam 作品推全中国玩家人格与教育因果的判断。下一阶段应优先寻找分阶段 funnel 数据和可比较的历史队列，而非扩张案例总榜。
+
