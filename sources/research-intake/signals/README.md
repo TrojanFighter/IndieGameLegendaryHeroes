@@ -30,3 +30,10 @@
 > Signal 可以改变“先查什么、是否做低成本试探、是否保留选择权”，但不能改变“什么已经被证明”。
 
 因此 Signal 不直接提高 Case evidence strength，也不单独升级 Claim。
+
+## 2026-11-03 — “老中不玩”对话来源的去身份行业信号
+
+- [SIG-001 — 独立游戏短期买量冲榜与盈利脱钩的传闻](SIG-001-paid-acquisition-chart-vs-profit-20261103.md)：未核实行业传闻，不指认当事公司或财务事实。
+- [SIG-002 — 中文独游冷启动和社会背书的口述观察](SIG-002-cold-start-and-social-proof-china-indie-20261103.md)：保留“从 0 到 0.6”比喻及上手前后玩法可理解性差异。
+
+作者本人的理论立场另见 [AC-011](../../../author-corpus/AC-011-laozhong-buwan-selective-retro-and-authorial-game-literacy-20261103.md)；局部市场证据审计见 [中国042](../../../country-studies/china/042-retro-lineages-player-literacy-and-localization-audit-20261103.md)。
