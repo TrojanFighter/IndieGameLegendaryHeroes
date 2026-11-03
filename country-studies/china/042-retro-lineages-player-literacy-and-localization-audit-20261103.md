@@ -7,7 +7,7 @@
 - **Scope:** 1990s–2026 的游戏文化谱系；2026-11-03 前后的 Steam 评论快照；中国玩家接触、传播、付费及创作的不同关口。
 - **Canonical parents:** [中国001 Experience Capital](001-experience-capital-demand-discovery-hypotheses.md)、[中国017 玩家鉴定权](017-demand-side-creator-selection-player-veto.md)、[中国019 鉴赏基础设施](019-taste-institutions-player-literacy-creator-selection.md)。
 - **Related:** [中国032 应试过拟合](032-exam-overfit-routine-expertise-open-domain-transfer.md)、[五代玩家×四代从业者](../../book/research-notes/china-player-worker-generations-009.md)、[从玩家到创作者 G0–G6](../../book/research-notes/experience-capital-creator-conversion-gates-047.md)。
-- **Boundary:** 本文负责可审计的“复古谱系对照与中文市场参与”；不重写以上各文件的理论 Owner，不摄入私人群聊、私人项目或未经核实的人物归因。
+- **Boundary:** 本文负责可审计的“复古谱系对照与中文市场参与”，不重写以上文件的理论 Owner；作者持有的强判断须转入 [AC-011](../../author-corpus/AC-011-laozhong-buwan-selective-retro-and-authorial-game-literacy-20261103.md) 明确保留。私人聊天原件、可识别个人和私人项目不能进入公共仓库；公开安全的弱线索单独存为 Signal，而不是忽略。
 
 ## 1. 第一阶段已经可以下的结论
 
@@ -80,8 +80,8 @@
 - 玩法难以第一眼解释，不证明游戏不有趣；许多策略、推理玩法的乐趣恰恰在学会规则后。
 - 不能把低销量全部归因于“玩家素质”，也不能把设计问题全部外包给市场传播。
 - “有了销售和用户基础以后能放大、从零到早期认可特别难”的说法来自未公开的聊天观察，只是 H，不是已经做过中外对照的市场规律。
-- 未核实的“刷榜买量最终亏损”等具体传闻不入证据账。
-- 聊天参与者、原始截图和私人项目不公开；只保留普适且去身份化的机制问题。
+- 未核实的“买量推动短期榜单表现但项目未获净回报”传闻**不作为 Evidence**，但已经在 [SIG-001](../../sources/research-intake/signals/SIG-001-paid-acquisition-chart-vs-profit-20261103.md)按未经证实的行业 Signal 保存。
+- 私人参与者、原始截图和私人项目不公开；去身份的行业推断已在 [AC-011 作者立场](../../author-corpus/AC-011-laozhong-buwan-selective-retro-and-authorial-game-literacy-20261103.md)与 [SIG-002 冷启动观察](../../sources/research-intake/signals/SIG-002-cold-start-and-social-proof-china-indie-20261103.md)保留。
 
 本段可能检验的变量包括：试玩→愿望单、看视频→试玩、首次有效理解时间、客观首次游玩成功、折扣/推广前后购买、国区社区内容覆盖；若没有可信分母，不估概率。
 
@@ -157,5 +157,34 @@
 - [Allen Adham 2024 访谈报道](https://gameworldobserver.com/2024/05/21/allen-adham-blizzard-game-design-liveops-interview)谈招聘时询问游戏阅历，也指出专业化从业者不玩游戏在国际公司中同样存在。说明**“不玩”并非中国独有**，但不能由一段访谈推导国别发生率。
 - 原创作者个人能力链的唯一 Owner 仍是[研究047：G0–G6](../../book/research-notes/experience-capital-creator-conversion-gates-047.md)，此处只保存该链条对应的案例入口。
 
-暂不摄入私人截图/人物身份、未经公开核验的买量亏损故事、从几个 Steam 作品推全中国玩家人格与教育因果的判断。下一阶段应优先寻找分阶段 funnel 数据和可比较的历史队列，而非扩张案例总榜。
+**本次入库修正：**不上传私人截图原件或可识别信源信息，但不会删除其可匿名表达的市场机制观察；未经公开核验的买量故事归 [SIG-001](../../sources/research-intake/signals/SIG-001-paid-acquisition-chart-vs-profit-20261103.md)；“0 到 0.6 更难”和试玩前后乐趣差异归 [SIG-002](../../sources/research-intake/signals/SIG-002-cold-start-and-social-proof-china-indie-20261103.md)；作者对玩家阅历、教育与国别原创能力的尖锐断定归 [AC-011](../../author-corpus/AC-011-laozhong-buwan-selective-retro-and-authorial-game-literacy-20261103.md)，其地位是 A0/H 而不是外部证实的国民事实。下一阶段寻找分阶段漏斗数据和可比较历史队列。
 
+
+
+## 11. 2026-11-03 作者裁决：保存全部研究输入，不能用证据门槛抹除假说
+
+作者明确要求：**公开可安全保存的对话判断均应入库；模型不能给出事实支持，不等于作者不得保留个人断定。** 本专题据此把之前“暂不摄入”的内容重新分流：
+
+| 输入 / 研究判断 | 本次规范归宿 | 证据身份 | 是否视为已证实 |
+|---|---|---|---|
+| “老中不玩”核心批评：玩家/从业者参考作品集合过窄、开放域评鉴弱 | [AC-011 A0-11.1](../../author-corpus/AC-011-laozhong-buwan-selective-retro-and-authorial-game-literacy-20261103.md) | A0 / Author-Origin | 否，作者主张真实存在，但全国比例未知 |
+| “老中怀旧风是陷阱”、PS1 与网吧/日式游戏谱系错位 | AC-011 A0-11.2，本文第 4–5 节 | A0 + 本文市场局部证据 | 只证局部差异，不能推全国心理 |
+| 中国巨大消费市场不能自动产出同等原创能力；消费/阅历/创作/产业资本不自动转化 | AC-011 A0-11.3 和中国001/019/研究047 | A0 + H | 因果仍待验证 |
+| 商业游戏执行经验可能构成原创独游的反训练 | AC-011 A0-11.4，中国028 | A0 + H | 未测量国别发生率 |
+| 应试过拟合、文化/知识摄入窄化造成决策弱迁移 | AC-011 A0-11.5，中国032 | A0 + H | 不能外推所有高学历者 |
+| 玩家审美与社区选择原创者；“怪作品”的成功前背书不足 | AC-011 A0-11.6，中国017/019 | A0 + H | 不推玩家人格 |
+| 去身份的独立卡牌/接龙玩法反馈：玩进去好玩、玩着累、第一眼难懂 | [SIG-002](../../sources/research-intake/signals/SIG-002-cold-start-and-social-proof-china-indie-20261103.md) + 本文第 6 节 | SECONDHAND Signal | 否 |
+| 中文独游“从 0 到 0.6 很难，但获得初始认可后更易扩散” | [SIG-002](../../sources/research-intake/signals/SIG-002-cold-start-and-social-proof-china-indie-20261103.md) | SECONDHAND Signal / H | 否；0.6 不是量化阈值 |
+| 疑似某作“付费买量一时上榜却未有良好净收益”的传闻 | [SIG-001](../../sources/research-intake/signals/SIG-001-paid-acquisition-chart-vs-profit-20261103.md) | INDUSTRY_RUMOR Signal | 否；不得据简称指认项目 |
+| 首轮与本轮游戏对照、中文参与率纠错和反例 | 本文 2、8、10 节及 AC-011 第 3 节 | 混合 P0/S2/H，各自行文注明 | 仅经核的部分可作事实 |
+| 20–40 个匹配市场样本、66RPG/日本免费游戏/俄罗斯 Mod/欧美 itch.io 固定起点作者队列 | AC-011 第 5 节及研究 047、052 的既有入口 | RESEARCH DEBT | 未完成，不可冒充取证成果 |
+
+### 方法裁决
+
+- **作者是否持有该判断**与**判断是否为真**是两个问题。作者立场不需要通过 Steam 统计来获得存在资格。
+- **作者断定可以很强；证据标签不能跟着变强。** 保留“中国可能存在更严重的认知趋同与原创供给错配”的实际批评，不把它改写成“所有国家都有问题，所以无从研究”。
+- 用户提供的私人材料形成的**去身份化一般机制**可以进入研究；但私人原件、可识别者、私人项目资料保持在公共仓库之外，这不是对作者论点的否定。
+- 未完成的核验、错误数字和反例不能删掉；保留为明确 research debt。特别保留首轮《14 Minesweeper Variants》一代简中玩家基础的纠错，以及“您的语言”不能充当简中分母的口径警告。
+- 本 PR 的 Lane B 不擅自创建正式 Case 或 VERIFIED Claim，不跨入 Lane C 直接写故事；[AC-011](../../author-corpus/AC-011-laozhong-buwan-selective-retro-and-authorial-game-literacy-20261103.md)只做作者主张的唯一来源档，本文继续承担局部实证审计。
+
+**本节补录后的研究状态：** 作者论点/对照/弱线索均有公开安全的存储位置；此前被排除的材料已分层重纳入，但第一轮原始聊天无法完全逐字复核，故不声称已恢复全部原句或完成全部实证。
