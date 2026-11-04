@@ -205,3 +205,37 @@
 第9.1和9.2出现两个在原判断里不该忽略的**强反例对**：Prey＋Dishonored2表明沉浸模拟并非整体缺中文参与；Ghostrunner1＋2表明极快、惩罚性重试的第一人称动作有很高简中评论参与。因此，不该用笼统的高难度、3D、美术复古、物理、复杂系统解释本题。更值得比较：老IP和独立品牌进入路径，具体规则的熟悉度，是否有直接且可讲述的战斗/升级目标，是否主要依赖竞速/自由导航/重复评分，汉化首次上线与视频传播时点。
 
 **结题更新（保留未知）：** 把“所有Immersive Sim不玩”“所有高速动作不玩”改为已否定命题；对仍低参与作品继续按A/B/C/D给有界裁决。未得到同口径中文玩家购买率和曝光/试玩漏斗，最多能出“简中Steam评论低参与谱系第一版”，不能出全体中国人实际玩过哪些游戏的统计普查。
+
+## 10. 2026-11-05 简中×俄语同作品对照：三条更明显的文化参与缺口
+
+**比较目的：** 只在同一作品/同一Steam商店评论口径中比较两种书写语言，观察中文与俄语评论相对参与的结构差异。俄语≠俄罗斯居民，简中≠中国大陆居民，语言评论人数≠销量，且两种语言用户在Steam上的总体规模/写评倾向不相同；本节不能推出两国玩家实际购买率。
+
+### 10.1 数据（同作品Steam Purchasers语言筛选，2026-11上旬快照）
+
+| 作品 | 简中购买评测 | 俄语购买评测 | 简中/俄语评论数比 |
+|---|---:|---:|---:|
+| [DUSK](https://store.steampowered.com/app/519860/) | 331 | 1,779 | **0.19** |
+| [Shadows of Doubt](https://store.steampowered.com/app/986130/) | 329 | 1,510 | **0.22** |
+| [Pizza Tower](https://store.steampowered.com/app/2231450/) | 978 | 5,616 | **0.17** |
+| [System Shock (2023)](https://store.steampowered.com/app/482400/) | 234 | 514 | 0.46 |
+| [Prey (2017)](https://store.steampowered.com/app/480490/) | 4,985 | 4,712 | **1.06** |
+| [Dishonored 2](https://store.steampowered.com/app/403640/) | 8,349 | 6,307 | **1.32** |
+| [Ghostrunner](https://store.steampowered.com/app/1139900/) | 16,338 | 4,188 | **3.90** |
+| [DOOM Eternal](https://store.steampowered.com/app/782330/) | 11,015 | 16,614 | 0.66 |
+
+- **E42-24 / P0:** [DUSK 购买语言详情](https://store.steampowered.com/app/519860/DUSK/?cc=us&l=english)，[Shadows of Doubt](https://store.steampowered.com/app/986130/Shadows_of_Doubt/?l=english)，[Pizza Tower](https://store.steampowered.com/app/2231450/Pizza_Tower/?l=english)，[System Shock](https://store.steampowered.com/app/482400/?l=english)，[Prey](https://store.steampowered.com/app/480490/?l=english)，[Dishonored2](https://store.steampowered.com/app/403640/Dishonored_2/?l=english)，[Ghostrunner](https://store.steampowered.com/app/1139900/Ghostrunner/?l=english)，[DOOM Eternal](https://store.steampowered.com/app/782330/DOOM_Eternal/?l=english)；同一语言和分母类别下的快照可能因日期微变。DOOM的review bomb/off-topic评论过滤显示与Steam购买评论数略有差异，避免精确小数比较。
+
+### 10.2 有界推论，而非错误的国民差距量化
+
+DUSK、Shadows of Doubt和Pizza Tower同时出现“中文少、俄语多”的模式；而在Prey、Dishonored 2、Ghostrunner上，简中评论数超过俄语。故**不能将上述全部差异解释成俄语Steam参与人口基数大于中文Steam人口**，需要关注**具体玩法子谱系、发行与传播路径**。但要解释两语言真实游玩率差异，仍需要各语言用户总体活跃购买基数、评测倾向、价格、历史官方语言上线、媒体推荐/主播等可比较数据。
+
+“简中/俄语评论数比”**不是**中国/俄罗斯销量之比。单次横截面只支持A/B/C分类的产品级边界结论。
+
+### 10.3 《老中不玩》第一阶段现可给的结题分类（不再强求六条都成立）
+
+- **A / 有界低评论参与且多例支持：** 少数旧式关卡单人FPS（DUSK 1.5%；Boltgun 5.7%；Trepang2 4.8%但属F.E.A.R.血统）、开放调查与旧式不充分引导模拟（Shadows of Doubt 2.2%、System Shock 2.4%）——比“所有FPS/所有沉浸模拟不玩”精确。
+- **B / 低参与可见但具体成因混杂：** Pizza Tower 1.5%（街机竞分文化），Neon White 4.2%（路线计时而非一般第一人称高速动作），Crow Country 约2.5%（PS1独立恐怖），Teardown 约2.0%（2023-11才补中文）。需多作品、中文时点和真实评论归因；尚不可宣称整个母品类都缺席。
+- **C / 总体命题被强反例击穿：** 整体Immersive Sim（Prey 13.1%、Dishonored2 19.3%），整体高速第一人称动作（Ghostrunner 34.7%、2代30.6%），整体欧美3D平台（Tinykin20.2%、Psychonauts2 11.7%），整体物理沙盒（Besiege20.3%、Noita15.1%），整体抽象规则（Baba Is You、14 Minesweeper Variants 1代），整体外国复古RPG（ASTLIBRA Revision77.8%）。
+- **D / 数据暂不足：** 无官方简中或无法核查简中上线时点的ULTRAKILL等不作为“已充分可接触而不玩”的证据；地区销量、实际购买者数、试玩率、玩家年龄和跨国人口比率均UNKNOWN。
+
+**最低收工结论：** 第一阶段已经能够完成“哪些具体海外游戏谱系简中Steam评论参与相对较弱、哪些整类概括被反例否定”的有界分类，不必再扩大到教育和创造力。**不能**据此声称已完成“全国中国玩家到底实际玩/不玩哪些游戏”的统计普查。若要发表结题报告，仍需对A/B核心作品核准最关键的中文首次上线时点，以及至少一轮中文/俄文/英文玩家评价内容比较；做不到的归B/D而不无限延期。
