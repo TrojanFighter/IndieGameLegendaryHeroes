@@ -209,3 +209,42 @@
 - **E42-14 / P0：** [PCGamesN 2019同期访谈](https://www.pcgamesn.com/dota-2/dota-auto-chess-artifact)记载团队两年开发、第一年后大幅降低上手负担；[Red Bull 2019采访](https://www.redbull.com/int-en/dota-auto-chess-interview-drodo-studio)则强调五人借已有Dota引擎及素材避免全栈独立开发。
 
 **下一步问题和止损：** 在研究047的G0-G6与研究052的固定起点原型队列中，比较同年代、同入口、同成熟门槛的中国/外国原创机制作者、可玩作品与持续创作的比率。看见单个国内英雄只证明可能性；缺少可比较分母不能宣布“国别差异不存在”，也不能凭主张造出精确国别倍率。
+
+## 13. 2026-11-04 回到主题：哪些具体游戏传统中文玩家参与偏低？
+
+**作者纠偏：** 本专题主问题是中文玩家究竟少玩哪些游戏和玩法传统，而不是再写原创人才的成因。后者已有中国028/032、研究047/052的Owner。此处必须区别“没接触”“接触后不尝试”“实际玩后不喜欢”，不许用低评测比例自动推出第三项。
+
+### 13.1 具体谱系与可核的 Steam 评论快照
+
+数据约截至2026-11-04，口径尽量为简中Steam购买评测/全球购买评测；不是中国大陆销量。当前有简中不表示自发售起便有中文，可能有后期补丁。
+
+| 游戏 / 文化谱系 | 简中 / 全语购买评测 | 简中占比 | 当前官方简中 |
+|---|---:|---:|---|
+| [DUSK](https://store.steampowered.com/app/519860/) / Quake式单人关卡FPS | 323 / 21,956 | 1.5% | 是 |
+| [Shadows of Doubt](https://store.steampowered.com/app/986130/) / 开放侦探沉浸模拟 | 329 / 14,761 | 2.2% | 是 |
+| [Teardown](https://store.steampowered.com/app/1167630/) / 可破坏世界、物理路线实验 | 2,572 / 128,511 | 2.0% | 是 |
+| [Pizza Tower](https://store.steampowered.com/app/2231450/) / Wario式高速度竞分与美式卡通 | 978 / 66,758 | 1.5% | 是 |
+| [Neon White](https://store.steampowered.com/app/1533420/) / 第一人称速通、路线优化 | 725 / 17,118 | 4.2% | 是 |
+| [A Hat in Time](https://store.steampowered.com/app/253230/) / 3D吉祥物平台与收集 | 1,921 / 43,030 | 4.5% | 是 |
+| [Cruelty Squad](https://store.steampowered.com/app/1388770/) / 另类审美的沉浸模拟 | 132 / 22,959 | 0.6% | 否 |
+| [Bomb Rush Cyberfunk](https://store.steampowered.com/app/1353230/) / Jet Set Radio式街头动作 | 56 / 12,714 | 0.4% | 否 |
+| [Spyro Reignited Trilogy](https://store.steampowered.com/app/996580/) / PS1 3D吉祥物平台 | 42 / 14,291 | 0.3% | 否 |
+| [CULTIC](https://store.steampowered.com/app/1684930/) / Boomer Shooter | 205 / 8,047 | 2.5% | 否 |
+
+**不能跳过的反例与纠错：**
+- [Besiege](https://store.steampowered.com/app/346010/)：9,798 / 48,158 = 20.3%，支持中文；否定“中国玩家不喜欢物理沙盒”。
+- [Noita](https://store.steampowered.com/app/881100/)：12,339 / 81,475 = 15.1%；否定“中国玩家不喜欢涌现式像素物理系统”。旧谈将Noita默认归为低中文参与的推断应纠正。
+- [Stardew Valley](https://store.steampowered.com/app/413150/)：201,266 / 903,246 = 22.3%；[A Short Hike](https://store.steampowered.com/app/1055540/)：2,035 / 19,496 = 10.4%；不能笼统称中文玩家不玩田园、慢节奏、探索。
+- [Factorio](https://store.steampowered.com/app/427520/)：约11,671 / 193,253 = 6.0%；该占比与Noita有差异，但不能直接推成地区销量、原始玩家需求概率或技术深度偏好。
+- [Pizza Tower](https://store.steampowered.com/app/2231450/)简中好评率约97%、[Neon White](https://store.steampowered.com/app/1533420/)约94%、[A Hat in Time](https://store.steampowered.com/app/253230/)约96%、[Teardown](https://store.steampowered.com/app/1167630/)约93%。低简中参与与高玩后满意度可并存，这是“天然讨厌该玩法”的反压力。
+
+### 13.2 下一轮优先验证的具体不玩领域
+
+1. 老式单人FPS（Quake/Blood式地图秘道与高速移动），区别于多人竞技FPS。
+2. 自主探索的沉浸模拟和侦探沙盒，区别于作者预设路径的解谜。
+3. 欧美3D吉祥物平台/关卡收集，区别于一般3D动作或马力欧知名IP。
+4. Wario式平台竞分、极限速通及美式夸张动画，区别于泛化的“操作难/像素差”。
+5. Teardown和Besiege、Noita之间的同属物理系统却高度分化，研究特定目标、建造回报、破坏体验与传播入口，不写“中国不喜欢沙盒”。
+6. PS1独立生存恐怖已有上文Crow Country等样本，作为另一条待核的低参与谱系。
+
+**方法底线：** 2026-09-12[146热门游戏中文评论观察](https://github.com/WhiterHJ/steam-cn-localization-analysis)的稳健样本中文占比中位数12.34%、支持中文组13.02%与不支持组2.57%是**热门游戏选择性基准**，非全Steam或全部独游的总体阈值；不得用它作统计显著性宣告。下一步优先配对发行年份、售价、官方中文上线时点、Steam购买评论分母、发行与视频曝光，再审查中文评论内容；Nintendo/移动端不能靠Steam断言缺席。
