@@ -104,3 +104,57 @@
 旧版042曾增写“消费→原创资本转换”“中国原创发明者数量级”“波兰Steam Top200席位”“KEIZO/巨鸟多多生产史”“应试过拟合/商业反训练”，使具体游戏品类研究被稀释。上述作者论点已保留并转移到各自Owner；**这些材料不再是042的正文和结题条件**。本次删除的是重复叙述，不是删除作者的理论版权，也没有擅自把作者假说升级成已证实事实。
 
 **只读核验要求：** 完成后查该PR的research-lint与public-research-boundary检查，仍须作者审阅后才能合并。
+
+## 8. 2026-11-05 第三轮配对审计：显著反例与真正更集中的缺口
+
+**本节只研究“具体哪些游戏不玩”，不讨论创造力。** 取 Steam 官方可见购买评测语言样本，展示各游戏2026-11上旬附近快照（不同时间微小波动不作趋势），Steam Purchasers简中/全语言。**这些是中文评价写作者相对于各作全球评价的份额，不是中国销量/国家玩家率。**
+
+### 8.1 三维平台：原来“缺席整类”的推断必须降级
+
+| 作品 | 简中/全球 Steam 购买评测 | 简中评论占比 | 官方中文/注记 |
+|---|---:|---:|---|
+| [A Hat in Time](https://store.steampowered.com/app/253230/) | 约1,921/43,030 | 4.5% | 有中文，旧样本 |
+| [Psychonauts 2](https://store.steampowered.com/app/607080/) | **1,460/12,432** | **11.7%** | 有中文，**后发汉化** |
+| [Tinykin](https://store.steampowered.com/app/1599020/) | **590/2,925** | **20.2%** | 有中文；兼具类Pikmin式收集/解谜 |
+
+**E42-15 P0：** [Psychonauts 2 Steam 简中及英语购买评测](https://store.steampowered.com/app/607080/Psychonauts_2/?curator_clanid=41397023&l=english)、[Tinykin Steam购买评测](https://store.steampowered.com/app/1599020/Tinykin/?curator_clanid=41249470&l=english)；**E42-16 P0：** Double Fine[2022-06-01简中预告](https://www.doublefine.com/news/soon-psychonauts-2-in-chinese)明确自2021年8月首发后“玩家强烈要求中文”，[2022-08-18中文版正式发布新闻](https://www.3dmgame.com/news/202208/3849598.html)和[PCGamingWiki版本记录](https://www.pcgamingwiki.com/wiki/Psychonauts_2)记录2022年8月17日补丁。
+
+**裁决：** 中国Steam评论玩家并未整体低参与欧美3D平台和卡通冒险；旧“3D吉祥物整条谱系缺席”命题应列为 **C / 异质、强反例削弱整类概括**。真正可继续调查的是“核心移动技巧、收集、叙事、轻解谜/生活场景”之间的子类型差异，同时注意晚到汉化的仍获得较多中文评价。没有发行期中文不能简单等同永远没人玩。
+
+### 8.2 独立PS1式生存恐怖：Crow Country不是整条传统
+
+| 作品 | 简中/全球 Steam 购买评测 | 比例 |
+|---|---:|---:|
+| [Crow Country](https://store.steampowered.com/app/1996010/) | 约195/7,898（前轮快照） | 约2.5% |
+| [SIGNALIS](https://store.steampowered.com/app/1262350/) | **2,040/31,459** | **6.5%** |
+
+**E42-17 P0：** [SIGNALIS Steam评论与语言表](https://store.steampowered.com/app/1262350/SIGNALIS/?curator_clanid=33219357&l=english)，官方简中。虽然都属于经典资源约束生存恐怖，SIGNALIS具有明显科幻叙事、日系/动漫和角色社群等不同传播元素；**目前不能宣称中文玩家整体不玩PS1式生存恐怖，亦不能以6.5%直接称中国相对地区销量低**。该谱系列 B / 混合样本，保留具体游戏低参与事实与子类型解释。
+
+### 8.3 更值得优先收口：沉浸式模拟/少引导的自导探索
+
+| 作品 | 简中/全球 Steam 购买评测 | 比例 | 简中好评类型 |
+|---|---:|---:|---|
+| [Shadows of Doubt](https://store.steampowered.com/app/986130/) | 329/14,718 | **2.2%** | 多半好评 |
+| [System Shock 2023重制](https://store.steampowered.com/app/482400/) | 233/9,860 | **2.4%** | 特别好评 |
+
+**E42-18 P0：** [Shadows of Doubt Steam 购买评测](https://store.steampowered.com/app/986130/Shadows_of_Doubt/?l=schinese)、[System Shock Steam购买评测](https://store.steampowered.com/app/482400/System_Shock/?curator_clanid=9966013&l=schinese)和[官方支持的语言](https://store.steampowered.com/app/482400/System_Shock/?cc=US&l=schinese)。两作均已有官方中文，但中文上线日期是否与首发一致尚待核。前者程序生成城市自由查案、后者沿经典系统探索和不完全线性目标前进；**它们并非同一种玩法**，只能作为相邻沉浸模拟/高度自主导航谱系的第二个佐证，不当严格控制配对。
+
+**E42-19 S2，少量评论机制线索：** [Shadows of Doubt Steam社区一则较长中文玩家评测](https://steamcommunity.com/app/986130/reviews/?l=schinese)肯定最初的开放式探案和城市探索乐趣，但具体抱怨教程不充分、程序化案子后期公式化、物件/线索BUG、任务线索过少；[同页面英语评论](https://steamcommunity.com/app/986130/reviews/?l=schinese)也指向生成线索、NPC AI和性能缺点，[其他Steam社区讨论](https://steamcommunity.com/app/986130/discussions/0/4632610823217414726/)还提及中文语言环境问题。**不能将这些跨语言共同的完成度问题升级成“中国人不懂开放调查”的心理证据。** 当前可说低参与真实，但拒绝原因和国产文化承接仍未确定。
+
+### 8.4 老式单人FPS：第二个有中文作品是中间态而不是复制DUSK
+
+| 作品 | 简中/全球 Steam 购买评测 | 比例 | 备注 |
+|---|---:|---:|---|
+| [DUSK](https://store.steampowered.com/app/519860/) | 约331/22,127 | **1.5%** | 2019年中文更新 |
+| [Warhammer 40,000: Boltgun](https://store.steampowered.com/app/2005010/) | 914/16,018 | **5.7%** | 战锤品牌，官方中文 |
+| [Prodeus](https://store.steampowered.com/app/964800/) | 全球购买评论约5,545 | **暂不填简中百分比** | 官方中文，当前样本不足以独立核同窗分子 |
+
+**E42-20 P0：** [Boltgun Steam语言购买评测](https://store.steampowered.com/app/2005010/Warhammer_40000_Boltgun/?curator_clanid=4984&l=schinese)、[官方语言支持](https://steamdb.info/app/2005010/info/)、[Prodeus官方Steam商店及语言表](https://store.steampowered.com/app/964800/Prodeus/?l=schinese)。DUSK的1.5%不能推广成“所有boomer shooter在中文没有受众”；Boltgun 5.7%虽仍明显低于许多跨品类简中样本，但**品牌/营销/发行规模不同**。Prodeus在核清具体中文分子之前不出假数字。此谱系保持 A/B边缘：存在数个较低参与候选，主要的“中国市场相对别国真实购买概率”仍UNKNOWN。
+
+### 8.5 本轮结果怎样修改结题工作量
+
+- **已大幅收窄：** 3D平台不能整体列为缺席品类；PS1独立恐怖也不能用Crow Country一案一锤定音。需报告内部异质性，而不是强凑“两低一高”给错误大类找借口。
+- **优先再核：** System Shock、Shadows of Doubt、DUSK、Boltgun的中文首发/更新时点；查评论中文和英文是否都因玩法完成度批评；确定“已经能接触但没玩”或“玩过才不满意”。
+- **仍有局部缺口：** Pizza Tower/Neon White的高技巧、竞分及传播谱系尚未获得同级第二样本；Teardown在2023年11月才补中文，不能用累积2.0%直接确认中国不喜欢自由破坏沙盒。
+- **更新结题标准：** 至少保留强正反例、中文时序与局部玩家反馈，对每条谱系裁定A有界低参与、B混杂、C有强反例不宜概括、D不足；不追求让所有六条一定“成立”。反例越强，越应缩小或否定原判断，符合本题“具体不玩什么”的原义。
+
