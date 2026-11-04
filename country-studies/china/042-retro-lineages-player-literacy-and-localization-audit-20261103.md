@@ -158,3 +158,50 @@
 - **仍有局部缺口：** Pizza Tower/Neon White的高技巧、竞分及传播谱系尚未获得同级第二样本；Teardown在2023年11月才补中文，不能用累积2.0%直接确认中国不喜欢自由破坏沙盒。
 - **更新结题标准：** 至少保留强正反例、中文时序与局部玩家反馈，对每条谱系裁定A有界低参与、B混杂、C有强反例不宜概括、D不足；不追求让所有六条一定“成立”。反例越强，越应缩小或否定原判断，符合本题“具体不玩什么”的原义。
 
+## 9. 2026-11-05 第四轮逆向校验：沉浸式模拟与第一人称高速动作的强反例
+
+**本节修正上一节8.3关于Immersive Sim整体低参与的暗示。** 所有下列数字为2026-11-05附近Steam店页历史快照，“Chinese - Simplified”购买评论分子与“Total reviews in all languages / Steam Purchasers”相同口径分母的约比率。数据是评论语言构成，不是国籍、玩家游玩数或中国销量；少量爬取日期差异不能表示市场趋势。DOOM 2016/Eternal存在off-topic评价排除机制，下表只作约值、不同口径差异不得解释为因果。
+
+### 9.1 沉浸式模拟：由“全品类低参与”改为“特定亚传统低参与”
+
+| 作品 | Steam购买评论简中/全语言（约） | 比率 | 角色 |
+|---|---:|---:|---|
+| [Prey (2017)](https://store.steampowered.com/app/480490/) | **4,985 / 38,001** | **13.1%** | Arkane沉浸系统＋明确任务/战斗科幻叙事的强反例 |
+| [Dishonored 2](https://store.steampowered.com/app/403640/) | **8,349 / 43,215** | **19.3%** | 任务型潜行/战斗/能力搭配的强反例 |
+| [System Shock (2023)](https://store.steampowered.com/app/482400/) | 233 / 9,860 | 2.4% | 旧式系统探索/较少导航指引，已在第8节 |
+| [Shadows of Doubt](https://store.steampowered.com/app/986130/) | 329 / 14,718 | 2.2% | 开放调查与程序生成案件，已在第8节 |
+
+- **E42-21 / P0:** Steam [Prey当前简中评论与购买分母](https://store.steampowered.com/app/480490/Prey/?l=english)、[Dishonored 2当前简中评论与购买分母](https://store.steampowered.com/app/403640/Dishonored_2/?l=english)；前者评论源语言支持包含简中，可进一步核对上线时点。
+- **裁定修订：** “Immersive Sim整体在中国不流行”**C / 被反例否定**。需要保留的只是某些偏旧式探索、自行确定目标或程序化系统调查的作品简中评论参与较低（B / 有界子类型线索）。Prey/Dishonored与System Shock/Shadows的品牌、团队、预算、市场窗口、难度和IP不同，不能归因于“中文玩家不懂自由探索”，更不能把未控制的评论比率当本地化后实际购买概率。
+
+### 9.2 高速第一人称：中文版Ghostrunner明确否定整类低参与
+
+| 作品 | 简中/全球Steam购买评测（约） | 占比 | 规则文化入口 |
+|---|---:|---:|---|
+| [Ghostrunner](https://store.steampowered.com/app/1139900/) | **16,338 / 47,055** | **34.7%** | 第一人称跑酷、一击即死、赛博武士、关卡重试 |
+| [Ghostrunner 2](https://store.steampowered.com/app/2144740/) | **2,483 / 8,124** | **30.6%** | 同品牌动作与高移动门槛 |
+| [Neon White](https://store.steampowered.com/app/1533420/) | 725 / 17,118 | 4.2% | 第一人称路线速通、计时竞分、动作卡牌 |
+| [Roboquest](https://store.steampowered.com/app/692890/) | **1,112 / 19,287** | **5.8%** | 高速射击Roguelite＋成长/合作 |
+
+- **E42-22 / P0:** [Ghostrunner Steam 简中购买评测](https://store.steampowered.com/app/1139900/Ghostrunner/?l=english)、[Ghostrunner 2](https://store.steampowered.com/app/2144740/Ghostrunner_2/?l=english)、[Roboquest](https://store.steampowered.com/app/692890/Roboquest/?l=english)均为官方可见购买语言分布；本篇第2节保留Neon White原样本。
+- **裁定：** “中文玩家不玩高速第一人称动作/难度挑战”**C / 明显错误**。值得继续检验的是在同样高速/多次重试要求下，**战斗目标与武士刀赛博题材的Ghostrunner**和**计时/评分中心的Neon White**的传播/规则接受差异，不能假设上述玩法目标是唯一变量。由于Ghostrunner系列有品牌连续性与更大市场推广，尤其不宜通过横向评论比率推断对玩法的天然偏好。
+
+### 9.3 复古单人枪战：从“FPS不玩”缩为特定老式设计传承
+
+| 作品 | 简中购买评论/全球购买评论（约） | 占比 | 中文状态 |
+|---|---:|---:|---|
+| [DUSK](https://store.steampowered.com/app/519860/) | 331 / 22,127 | **1.5%** | 2019已补官方中文 |
+| [Warhammer 40,000: Boltgun](https://store.steampowered.com/app/2005010/) | 914 / 16,018 | **5.7%** | 官方中文，品牌IP |
+| [Trepang2](https://store.steampowered.com/app/1164940/) | **769 / 16,165** | **4.8%** | 有官方中文，偏F.E.A.R.式激烈单人射击，**并非纯Quake式复古** |
+| [DOOM (2016)](https://store.steampowered.com/app/379720/) | **12,162 / 155,870** | **7.8%** | AAA品牌，评论score显示存在非主题评论过滤 |
+| [DOOM Eternal](https://store.steampowered.com/app/782330/) | **11,015 / 187,947** | **5.9%** | AAA品牌，同上 |
+| [ULTRAKILL](https://store.steampowered.com/app/1229490/) | **1,001 / 215,349** | **0.5%** | 需审计官方简中缺失，暂不当已翻译控制样本 |
+
+- **E42-23 / P0:** Steam [Trepang2购买评测](https://store.steampowered.com/app/1164940/Trepang2/?l=english)及[语言表](https://store.steampowered.com/app/1164940/)、[DOOM2016](https://store.steampowered.com/app/379720/DOOM/?l=english)、[DOOM Eternal](https://store.steampowered.com/app/782330/DOOM_Eternal/?l=english)、[ULTRAKILL Steam语言评测](https://store.steampowered.com/app/1229490/)；[Prodeus](https://store.steampowered.com/app/964800/)和[Turbo Overkill](https://store.steampowered.com/app/1328350/)已核当前官方有简中，但简中购买评论分子当前未核到，不编造百分比。
+- **研究含义：** 从DUSK、Boltgun、Trepang2到DOOM2016/Eternal与Roboquest，**旧式FPS、现代AAA竞技式单人FPS、F.E.A.R.式FPS、Roguelite射击根本不是单一严格类型**。目前保留“少数经典地图关卡/复古射击子群相对缺少中文评论承接”的A/B有界判断；中国不玩全部单人FPS或不接受高速枪战是错误总括。
+
+### 9.4 为什么更像“特定谱系缺席”而不是“老中怕难、怕系统、怕新东西”
+
+第9.1和9.2出现两个在原判断里不该忽略的**强反例对**：Prey＋Dishonored2表明沉浸模拟并非整体缺中文参与；Ghostrunner1＋2表明极快、惩罚性重试的第一人称动作有很高简中评论参与。因此，不该用笼统的高难度、3D、美术复古、物理、复杂系统解释本题。更值得比较：老IP和独立品牌进入路径，具体规则的熟悉度，是否有直接且可讲述的战斗/升级目标，是否主要依赖竞速/自由导航/重复评分，汉化首次上线与视频传播时点。
+
+**结题更新（保留未知）：** 把“所有Immersive Sim不玩”“所有高速动作不玩”改为已否定命题；对仍低参与作品继续按A/B/C/D给有界裁决。未得到同口径中文玩家购买率和曝光/试玩漏斗，最多能出“简中Steam评论低参与谱系第一版”，不能出全体中国人实际玩过哪些游戏的统计普查。
