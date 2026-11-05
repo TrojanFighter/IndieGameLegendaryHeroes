@@ -2,13 +2,40 @@
 
 - **研究日期：** 2026-11-03—05；本轮重组 2026-11-05
 - **Lane / status：** B / TOPIC RESEARCH；有界市场证据 + A0/H，不是中国国别玩家偏好的已证最终统计
-- **研究问题：** 在海外已拥有显著玩家基础的游戏中，**哪些具体规则传统、视觉文化、玩法目标**在中文 Steam 评论群体中参与较弱？“不玩”发生于未接触、不愿试，还是试玩后不喜欢？
+- **研究问题（作者2026-11-05纠偏）：** 在海外已有显著受众、但简中Steam评论参与较弱的作品中，**首要检验画面风格、视觉品质感和审美文化亲缘性**，再检验具体玩法与本地化等次级变量。“不玩”发生于未接触、不愿试，还是试玩后不喜欢？
 - **来源：** 作者2026-10—11两轮“老中不玩”与选择性复古讨论；作者原始判断单独存于[AC-011](../../author-corpus/AC-011-laozhong-buwan-selective-retro-and-authorial-game-literacy-20261103.md)。市场统计只据明确的 Steam 商店页面日期快照、官方公告与独立方法文献。
 - **边界：** 本文**不**论证应试教育、作者数量级、商业游戏反训练、国别原创率、KEIZO/巨鸟多多人物生产史。旧稿对此的重复材料已转存于[中国028](028-hacker-spirit-scale-down-commercial-antitraining.md)、[中国032](032-exam-overfit-routine-expertise-open-domain-transfer.md)、[中国017](017-demand-side-creator-selection-player-veto.md)、[研究047](../../book/research-notes/experience-capital-creator-conversion-gates-047.md)；具体作者队列继续在[研究052](../../book/research-notes/open-prototype-community-china-global-entry-cohorts-052.md)。独游买量、盈利、零启动口述仍按[SIG-001](../../sources/research-intake/signals/SIG-001-paid-acquisition-chart-vs-profit-20261103.md)、[SIG-002](../../sources/research-intake/signals/SIG-002-cold-start-and-social-proof-china-indie-20261103.md)独立保存，**不是本专题的正文**。
 
+## 0. 2026-11-05 核心纠偏：先看画面，不要先按玩法品类寻找反例
+
+**作者在2026-11-05明确纠正本专题的主效应排序：画面/视觉包装可能比品类更能解释此前筛出的中文低参与案例。** 旧版042反复选择“单人FPS、Immersive Sim、3D平台、恐怖、沙盒”，再拿Prey、Dishonored、Ghostrunner、Besiege逐一反驳它们“整体不玩”，属于研究者**自行引入过宽的品类主张又自行反驳**，并非作者原命题。之后不能再借这种无效反例转移话题。
+
+**新的优先研究对象：玩家面对截图/预告片时，是否把特定低保真复古3D、故意粗糙的欧美像素、变形怪诞卡通、方块化体素造型，看作“有独特审美价值”或“老旧、廉价、不够好看”？** 这包括两组不同变量：
+- **视觉完成度 / 品质感**：模型、纹理、运动和动画、光照、UI以及整体风格的精细和统一程度，尤其“复古做得精美”和“以粗糙为美”不同；
+- **视觉文化熟悉度 / 审美亲缘性**：日式JRPG/RPG Maker像素及二次元角色、老网吧3D、1990年代欧美夸张卡通、PS1/Saturn低多边形、Quake时代粗粝材质、当代赛博高规格视效等，并非一代硬件所有风格都相同。
+
+先把美术视觉编码和画面第一印象放在前面，**玩法品类作为对照/协变量**。最后再控制：官方简中上线、品牌IP、营销与主播覆盖、价格、发售年代和评论语言选择。没有画面偏好问卷/真正曝光和购买漏斗时，**视觉是目前最值得先测的解释假说，不是已经完成因果识别的结论**。
+
+### 已有跨品类模式：高低差异更靠视觉包装对齐
+
+| 较低简中参与的画面样本 | 已存在的显著更高简中参与对照 | 为什么先测试视觉 |
+|---|---|---|
+| DUSK（粗粝低保真3D/1990s射击）1.5% | DOOM (2016)（高规格现代3D射击）7.8% | 同为单人射击，画面品质/年代包装差异显著；亦需控制品牌 |
+| Shadows of Doubt（体素方块人物/城市）2.2% | Prey (2017)（精细科幻3D）13.1%；Dishonored 2（精细风格化3D）19.3% | 沉浸式系统母类内部，画面技术表现/可信世界差别比游戏标签更醒目 |
+| Teardown（大尺度体素低细节场景）2.0% | Besiege（更直接易识别的机器形状）20.3% | “物理沙盒整体不玩”是伪问题；需要画面审美＋破坏与建造的目标差异 |
+| Crow Country（PS1低面数/方块角色）约2.5% | SIGNALIS（2D像素、明显日系角色/科幻视觉）6.5% | 都继承老生存恐怖，复古**美术谱系**不同 |
+| A Hat in Time（早期卡通独立3D）4.5% | Tinykin（更清晰、现代童话场景）20.2% | 同属3D平台冒险，但人物质感、视觉包装不同 |
+| Pizza Tower（1990年代狂乱夸张美式卡通/快速手绘感）1.5% | Cuphead（精工1930年代赛璐珞/水彩复古卡通）约**10.8%** | **关键新对照：同是欧美老动画、动作挑战，但“精美的复古”与“故意粗粝夸张”在视觉上截然不同** |
+
+**E42-25 / P0：** [Cuphead官方Studio MDHR制作介绍](https://studiomdhr.com/press-kits/)确认其历史赛璐珞手绘、水彩与爵士；[Steam Cuphead购买评测](https://store.steampowered.com/app/268910/Cuphead/?l=english)约21,700条简中／200,800条全语言 ≈10.8%；[Pizza Tower Steam购买评论](https://store.steampowered.com/app/2231450/Pizza_Tower/?l=english)约978／66,764 ≈1.5%；[Pizza Tower作者2019年访谈](https://sonicfangameshq.com/forums/ams/interview-with-pizza-tower-guy-pizza-tower.5/)讲90年代动画与自己的动画表达，[另一份作者访谈](https://gamingreinvented.com/interview/an-interview-with-the-developer-of-wario-land-successor-pizza-tower/)谈快速绘画、比例自由变化。两部作品在IP知名度、全球量级、市场传播、价格和历史语言支持上差异很大，**不是同图不同玩法的严格实验**。
+
+**E42-26 / P0：** [Crow Country创作者Adam Vian本人2024采访](https://blog.playstation.com/2024/05/02/crow-country-retro-original-playstation-era-gameplay-stylings-meet-modern-horror/)明确认定PS1图形模糊和不够写实具有美学与恐怖魅力；[2024另一份采访](https://sourcegaming.info/2024/05/07/interview-sfb-games-crow-country/)详细指出旧RE、Silent Hill、FFVII的低面数角色/场景给他的视觉灵感。海外作者**有意视旧式画面为美**，不保证中文玩家也共享相同怀旧与价值判断。[2016年Game Developer专题](https://www.gamedeveloper.com/art/why-are-so-many-devs-employing-a-retro-low-poly-mid-1990s-aesthetic-)说明PS1低多边形本身是独立复古视觉思潮，与笼统“像素游戏”不是一个审美市场。
+
+**当前的关键问题不是“老中玩不玩Immersive Sim”而是：一模一样的机制和完成度，如果换成现代高品质视觉、熟悉的日式/赛博审美或精致复古风格，中国玩家的发现、试玩与购买会不会显著改变？** 既有Steam评论数据只能提出预测，不能实际确认这个反事实。
+
 ## 1. 第一阶段可下的有限结论
 
-1. **“中国人不复古”“不接受像素/低面数”“不玩外国老游戏”均被反例否定。**《神之天平》《Ib》《Thronefall》《Noita》《Besiege》有可观简中 Steam 购买评测。
+1. **“中国人不复古”“中国人一概不接受低保真图像”是过宽命题，但某些粗粝欧美复古3D/怪诞美式卡通可能存在实际视觉审美门槛。**《神之天平》《Ib》《Thronefall》《Noita》《Besiege》说明不同的旧式/抽象画面命运差异极大；关键是哪些具体画面被视作有魅力，哪些被视作粗糙或廉价。
 2. **“复古”不是单一市场。** 视觉（FC/像素/PS1/CRT）、规则（JRPG/Quake/旧生存恐怖）、文化（网吧、RPG Maker、旧时代社会记忆）与传播通道（汉化/实况/直播）必须拆开。
 3. **在当前选择性样本中，若干具体文化谱系的简中参与较低。** 包括Quake式单人关卡FPS、独立PS1生存恐怖、部分开放侦探沉浸模拟、欧美3D吉祥物平台、Wario式街机竞分和部分自由破坏沙盒。**不能**据一款游戏推整个品类或中国市场实际销售概率。
 4. **高简中好评与低简中评论份额能够同时存在。** 不能把“没被很多人找到”直接写成“玩过觉得不好玩”。
