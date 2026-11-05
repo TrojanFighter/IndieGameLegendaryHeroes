@@ -124,3 +124,13 @@ Jeremy Natividad的2012/2017/2026三次未入选具名提案，Jared Mills的201
 5. 使用[样本偏差审计 028](media-selection-survivorship-and-denominator-protocol-028.md)进行固定队列设计。
 
 **Current verdict:** 体验资本可能提高问题发现能力，原型/反馈接口可能提高其向作品转化的概率，但 `reference breadth → original design → commercial success` 并非已经证明的因果链。现阶段应把它作为人物选择节点和跨国失败关口研究框架。
+
+## 8. 2026-11-05 归档：作者数量级断定与两位开发者的生产史
+
+**来源/身份：** 2026-11-03—05作者在“老中不玩”讨论中明确补充的A0个人断定；从中国042的旧第7、12节迁出。这是创作者成因话题，不再由“玩家具体不玩什么”研究负责。
+
+- **A0（必须保留力度）：** 相对中国巨大玩家人口、商业研发人员和产业资本，像巨鸟多多这样能够自行发现玩法、反复验证并产生国际级新机制的中国开发者/小团队，在**数量级上很少很少**。个别成功团队的存在只能证明“可能”，不能证明“常见”或“规模足够”；不应为了形式平衡而用少数成功者冲淡这一批评。
+- **可核证据不是原创率统计：** 《[The Game Industry of Poland — Report 2025](https://www.parp.gov.pl/storage/publications/pdf/The_Game_Industry_Poland_2025.pdf)》第29页记载2025年7月Steam全球愿望单前200开发地席位（中国8，波兰12，美国33.25，俄罗斯5等）；[2025中国游戏产业报告转述](https://www.gegia.cn/newsinfo/10936533.html)为6.83亿玩家、国内3507.89亿元收入。两者是不同市场、不同分母的旁证，**不能相除或代替“原创发明家人数”**。必须用固定起点、相同年代及创作门槛的国别队列验证。
+- **KEIZO / 《神之天平》：** [2021 AUTOMATON当事人采访](https://automaton-media.com/articles/fp/20210314-154803/)：因偏好的2D动作RPG稀少而动手制作，想解决流程短和操作门槛高的问题；起初不会编程、曾两度中断，装备熟练度受免费连载期间玩家反馈影响。[2024 TouchArcade当事人采访](https://toucharcade.com/?p=318833)：有本职工作，以业余时间长期制作，旧素材许可阻碍商业版、后有中国发行方资助替换。其例说明“玩得多”不是充分条件，明确需求缺口、持续修订、收入来源与版权条件均重要。
+- **巨鸟多多 / 《刀塔自走棋》：** [2019-01同期团队访谈](https://games.sina.cn/gz/dt/2019-01-18/details-ihqfskcn8293483.d.html)描述早期地图/宝石TD/多次被放弃的原型；[PCGamesN 2019采访](https://www.pcgamesn.com/dota-2/dota-auto-chess-artifact)及[Red Bull 2019采访](https://www.redbull.com/int-en/dota-auto-chess-interview-drodo-studio)为经过两年迭代、修改高学习门槛与复用Dota工具提供补充。其存在不足以证明中国作者发生率与国外相当；核心是哪些训练入口提供了反复做和放弃原型的机会。
+- **迁入边界：** 玩家购买/阅历分布和复古偏好仍由[中国042](../../country-studies/china/042-retro-lineages-player-literacy-and-localization-audit-20261103.md)管，国别原型队列由[研究052](open-prototype-community-china-global-entry-cohorts-052.md)管，职业负迁移由[中国028](../../country-studies/china/028-hacker-spirit-scale-down-commercial-antitraining.md)管。上文为A0和有限个案，不升级为国家创新率的VERIFIED Claim。
