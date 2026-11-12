@@ -190,7 +190,7 @@ OECD日本PISA 2022国家说明明确指出，日本未参加该轮创造性思�
 ## 10. Sources / 首批来源台账
 
 1. **University of Iowa, “Our History,” Iowa Writers' Workshop.** 官方机构历史；记载1897创意写作课程、1922接受创作作品作为高级学位论文、1936正式建立Workshop。Source class: P0（机构自身制度史）。  
-   https://writersworkshop.uiowa.edu/about/our-history
+   https://writing.uiowa.edu/our-history
 
 2. **Quality Assurance Agency (QAA), “Subject Benchmark Statement: Creative Writing,” 2024-04-11.** 英国创意写作学科标准；将video game design列入相关创意产业，并强调独立思考、细节、语气与效果。Source class: P0（正式学科标准，不代表执行结果）。  
    https://www.qaa.ac.uk/the-quality-code/subject-benchmark-statements/subject-benchmark-statement-creative-writing
