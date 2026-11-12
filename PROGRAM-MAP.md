@@ -65,6 +65,8 @@ Joseph Henrich 的 WEIRD / individualism 研究可作为理论来源之一，用
 
 当前 008–015 中国线研究笔记是本区基础材料；在链接稳定前不进行大规模搬迁。
 
+教育与原创人才形成新增专题：作者理论母题见[AC-011「文科白痴国家理论」](author-corpus/AC-011-humanities-credential-and-creative-capacity-mismatch.md)，跨国实证框架见[中国042](country-studies/china/042-humanities-education-and-creator-generation-cross-national-comparison.md)，待检验问题见[OQ-027](OPEN-QUESTIONS.md)。本专题区分人文知识、创作训练、互动叙事能力、跨专业入场与产业决策权，不把文科专业身份或少数名人案例当作创作能力代理。
+
 ### C-NZ. 新西兰原创作者生态与价值网络对照
 
 入口：[新西兰国别研究](country-studies/new-zealand/README.md)。作为中国/俄罗斯/北欧比较的**独立国别证据对象**：分别调查作品高品质发生率、普通作品/失败者、初创队列、第二作存续、工作室创始人谱系、国际市场与创作者形成网络。已确认2011—2026数期协会产业数据，**尚无芬兰/丹麦/捷克统一口径世界排名**。中国应用假说见[040](country-studies/china/040-value-network-regime-shift-creator-window-2026.md)，通用方法见[价值网络扩展审计](cross-industry/value-network-extended-audit-20261011.md)。
