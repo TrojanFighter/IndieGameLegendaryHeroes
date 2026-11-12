@@ -189,7 +189,7 @@ OECD日本PISA 2022国家说明明确指出，日本未参加该轮创造性思�
 
 ## 10. Sources / 首批来源台账
 
-1. **Emily Nelson, “Iowa: Shaping literature’s landscape for more than a century,” University of Iowa Stories, 2018-05-08.** 官方机构历史；记载1897创意写作课程、1922接受创作作品作为高级学位论文、1936正式建立Workshop。Source class: P0（机构自身制度史）。  
+1. **Emily Nelson, “Iowa: Shaping literature’s landscape for more than a century,” University of Iowa Stories, 2018-05-08.** 官方机构历史；记载1897创意写作课程、1922接受创作作品作为高级学位论文、1936正式建立Workshop。Source class: P1（机构官方回顾性历史叙述；可证明其公开记载，不等同同期档案）。  
    https://stories.uiowa.edu/iowa-shaping-literatures-landscape-more-century
 
 2. **Quality Assurance Agency (QAA), “Subject Benchmark Statement: Creative Writing,” 2024-04-11.** 英国创意写作学科标准；将video game design列入相关创意产业，并强调独立思考、细节、语气与效果。Source class: P0（正式学科标准，不代表执行结果）。  
