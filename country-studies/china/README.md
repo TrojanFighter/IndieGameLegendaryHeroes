@@ -78,6 +78,7 @@
 - [037 — 英雄无法出发的教育上游：家校控制、学习主权与风险承担错配](037-family-school-agency-risk-hero-nondeparture.md)：贯穿“教育比行业更上游”的未出发者样本问题，分解代理式规训、自主权—责任倒挂、低成本试错与成年高成本风险失配，引用2012中国家长研究、2023自主支持元分析及2021家庭教育法规。两篇2026评论文章仅作批评性社会态度材料，**不**用轶事推全国失去多少创作者。
 - [038 — 从考试成绩到第一件作品：CEPS × PISA × Game Jam 的实证入口](038-education-maker-funnel-empirical-measurement-ceps-pisa-ggj.md)：核对人大CEPS、PISA 2022东亚创意思维差异与GGJ 2026创作者社区，建立同口径“自选目标→首作→二次尝试”漏斗，不拼错分母。
 - [039 — 旧导师不懂新范式以后：创作者知识主权、资源扶持与权利](039-frontier-creator-support-authority-rights-and-incubation.md)：比较2026 Supercell团队自治与Spark、Roblox非现金扶持、PUBG引入MOD作者、Kowloon/Indie Fund合同、上交大米哈游与Gamera叶绿素；审计探索/预算/IP/创意否决/收益/退出权。
+- [042 — 人文教育、创意写作与跨专业游戏创作者生成：跨国比较研究](042-humanities-education-and-creator-generation-cross-national-comparison.md)：承接AC-011，将人文知识、创意写作训练、跨专业创作者、游戏叙事岗位权力与商业转化放入中/美/英/法/日/韩统一比较；俄罗斯和新西兰作后续对照。PISA创造性思维、课程标准与创作者传记严格分开，保持因果与发生率UNKNOWN。
 
 - [`034 — 高投入、低迁移：教材结构与独游创作者的机会成本`](034-curriculum-depth-time-cost-autonomy-creator.md)：区分2005姜伯驹旧课标批评与2022课标；用OECD学习时间、Wang 2026政策研究、66RPG及大学高中化/教师KPI治理材料建立知识结构、时间、评价权与maker转化的可检验命题，拒绝用轶事推全国。
 
