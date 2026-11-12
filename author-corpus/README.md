@@ -37,12 +37,13 @@ Author Corpus 单独标记为 **A0 — Author-Origin**，不并入 P0/P1/S1/S2 �
 - [AC-008 — 中国好学生综合征：外部出题、学习主权与开放问题失配](AC-008-china-good-student-syndrome.md)
 - [AC-009 — 看不见的墙：分发体制误认、市场接口选择与认知路径依赖](AC-009-invisible-wall-distribution-regime.md)
 - [AC-010 — 声望管道耦合、职业身份捕获与平行作者线程](AC-010-prestige-pipeline-coupling-and-authorial-continuity.md)
+- [AC-011 —「文科白痴国家理论」：人文知识、原创训练与创作权威错配](AC-011-humanities-credential-and-creative-capacity-mismatch.md)
 
-其中 AC-005 / AC-006 / AC-007 / AC-008 / AC-009 / AC-010 当前都只是**待检验的作者母题**：它们可以指导 Case intake 与外部取证，但不得在没有 P0/P1/S1 支撑时写成跨案例事实。
+其中 AC-005 / AC-006 / AC-007 / AC-008 / AC-009 / AC-010 / AC-011 当前都只是**待检验的作者母题**：它们可以指导 Case intake 与外部取证，但不得在没有 P0/P1/S1 支撑时写成跨案例事实。
 
 为避免把所有问题都模糊地归入“文化/老中”，本项目从 2026-10-07 起固定三层路由：
 
-- **教育**：AC-008 为主，研究学习主权、开放题域迁移与 Selection Function Mismatch；
+- **教育**：AC-008 为主，研究学习主权、开放题域迁移与 Selection Function Mismatch；AC-011补充人文知识供给、创作实践训练、跨专业创作者与叙事决策权；实证主档见中国042；
 - **行业版本现状**：AC-007 为主，研究 Benchmark、production regime、competency trap 与版本时滞；
 - **社会版本意识**：AC-006 为主，研究偏离惩罚、功绩条件式宽容与成功前合法性。
 
